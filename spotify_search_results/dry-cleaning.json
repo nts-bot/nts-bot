@@ -1,4 +1,459 @@
 {
+    "dry-cleaning-13th-january-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Jim Ford",
+                    "title": "Point of No Return",
+                    "uri": "2wGhpHXDN8FNk9HJuzpf9e"
+                },
+                {
+                    "artist": "Jim Ford",
+                    "title": "Point of No Return",
+                    "uri": "0TG6A0fr5uexMRMDCrbbzf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jim Ford",
+                    "title": "Point of No Return",
+                    "uri": "2wGhpHXDN8FNk9HJuzpf9e"
+                },
+                {
+                    "artist": "Jim Ford",
+                    "title": "It's My Life",
+                    "uri": "79tfNOyRszY54zHA9MGMC2"
+                },
+                {
+                    "artist": "Jim Ford",
+                    "title": "She Turns My Radio On",
+                    "uri": "60Lr94URXKMqK6KqEgyFH8"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Leonard Cohen",
+                    "title": "Is This What You Wanted",
+                    "uri": "6oI7lWaQ1jfjDduxYblGOo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Leonard Cohen",
+                    "title": "Is This What You Wanted",
+                    "uri": "6oI7lWaQ1jfjDduxYblGOo"
+                },
+                {
+                    "artist": "Leonard Cohen",
+                    "title": "Suzanne",
+                    "uri": "2L93TdW2GMue1H2zlkt30F"
+                },
+                {
+                    "artist": "Leonard Cohen",
+                    "title": "You Want It Darker",
+                    "uri": "5zb7npjQqoJ7Kcpq4yD9qn"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Broadcast",
+                    "title": "Echo's Answer",
+                    "uri": "3ZB8WOTt7p9cSia9iG0TMz"
+                },
+                {
+                    "artist": "Broadcast",
+                    "title": "Echo's Answer",
+                    "uri": "7kBoYDqxYcmOjnJxA2qYKt"
+                },
+                {
+                    "artist": "Broadcast",
+                    "title": "Echo's Answer",
+                    "uri": "5bDGHpp82k7X6U2mRSae0E"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Broadcast",
+                    "title": "Echo's Answer",
+                    "uri": "3ZB8WOTt7p9cSia9iG0TMz"
+                },
+                {
+                    "artist": "Broadcast",
+                    "title": "Echo's Answer",
+                    "uri": "5bDGHpp82k7X6U2mRSae0E"
+                },
+                {
+                    "artist": "Broadcast",
+                    "title": "Echo's Answer",
+                    "uri": "7kBoYDqxYcmOjnJxA2qYKt"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Omni Gardens",
+                    "title": "Cool Off",
+                    "uri": "0RYk2BXbyTxYlHIFuIJ6Au"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Omni Gardens",
+                    "title": "Cool Off",
+                    "uri": "0RYk2BXbyTxYlHIFuIJ6Au"
+                },
+                {
+                    "artist": "Omni Gardens",
+                    "title": "Nectar Grass",
+                    "uri": "5DPw5xtrfAh6QSzsAcjjjp"
+                },
+                {
+                    "artist": "Omnium Gatherum",
+                    "title": "The Burning",
+                    "uri": "179ZkecFyWLj1TSZnplAGj"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Swing Slow",
+                    "title": "Western Bolero",
+                    "uri": "5f9gOqx8TjgdjkrJQ3zgdR"
+                },
+                {
+                    "artist": "Swing Slow",
+                    "title": "Western Bolero (2021 mix)",
+                    "uri": "5JHjIg1PnSzVNfaUPR7QkX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Swing Slow",
+                    "title": "Western Bolero",
+                    "uri": "5f9gOqx8TjgdjkrJQ3zgdR"
+                },
+                {
+                    "artist": "Swing Slow",
+                    "title": "Western Bolero (2021 mix)",
+                    "uri": "5JHjIg1PnSzVNfaUPR7QkX"
+                },
+                {
+                    "artist": "Swing Slow",
+                    "title": "Hotel Etoiles",
+                    "uri": "2r7WqoIDYyfVFwqSgglc7Y"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Nourished by Time",
+                    "title": "Catharsis",
+                    "uri": "0vRgSl6HScRVog0L98vUoa"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gareth Donkin",
+                    "title": "Catharsis",
+                    "uri": "2cWAfOTxFrCPJ6rZU5WqDG"
+                },
+                {
+                    "artist": "Bliss Looper",
+                    "title": "Nourished",
+                    "uri": "23zT3Efph4cRiYLX2YT766"
+                },
+                {
+                    "artist": "Approaching Nirvana",
+                    "title": "Catharsis",
+                    "uri": "0YLqnkxAp7Bwbi9V1X93xL"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mary Ocher",
+                    "title": "Blue Crystal Fire - Robbie Basho Cover",
+                    "uri": "54vemIhaboRNRVpmccgfQo"
+                },
+                {
+                    "artist": "Robbie Basho",
+                    "title": "Venus In Cancer",
+                    "uri": "1n0KNFrKdtbbB3ndiTbSCI"
+                },
+                {
+                    "artist": "Robbie Basho",
+                    "title": "Eagle Sails The Blue Diamond Waters",
+                    "uri": "5lGDZi31jxAh9mcWt3nfPf"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Black Sabbath",
+                    "title": "Planet Caravan",
+                    "uri": "7wqF3BU0ykeKch6BcNqGiT"
+                },
+                {
+                    "artist": "Black Sabbath",
+                    "title": "Planet Caravan - 2012 - Remaster",
+                    "uri": "0XPLmniFXCmDkeS9wuM982"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Black Sabbath",
+                    "title": "Planet Caravan",
+                    "uri": "7wqF3BU0ykeKch6BcNqGiT"
+                },
+                {
+                    "artist": "Black Sabbath",
+                    "title": "Planet Caravan - 2012 - Remaster",
+                    "uri": "0XPLmniFXCmDkeS9wuM982"
+                },
+                {
+                    "artist": "코케",
+                    "title": "Planet Caravan : Originally Performed By Black Sabbath Karaoke Verison",
+                    "uri": "7f2dYyCfGxcjIF0p7QS5Sd"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kosi Tides",
+                    "title": "Pastel Paints",
+                    "uri": "67KXkSapuRgwI7w8HrAnNl"
+                },
+                {
+                    "artist": "Pastel*Palettes",
+                    "title": "からくりピエロ",
+                    "uri": "0uB0kcPXCYEWS5YSV6dRpy"
+                },
+                {
+                    "artist": "fantompower",
+                    "title": "Pastel Plains",
+                    "uri": "441IzyggfvzZEpgHkM26gQ"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Depeche Mode",
+                    "title": "Enjoy the Silence - Hands and Feet Mix",
+                    "uri": "7ln0aztR553ZJLoHsF3FxD"
+                },
+                {
+                    "artist": "Depeche Mode",
+                    "title": "Enjoy the Silence - The Quad: Final Mix",
+                    "uri": "4lDKp2NmtTh1RyJN8nIroR"
+                },
+                {
+                    "artist": "Depeche Mode",
+                    "title": "Enjoy the Silence - Ricki Tik Tik Mix",
+                    "uri": "4N2ivSKYWAX3dX5FHfvpqV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Depeche Mode",
+                    "title": "Enjoy the Silence",
+                    "uri": "6WK9dVrRABMkUXFLNlgWFh"
+                },
+                {
+                    "artist": "Depeche Mode",
+                    "title": "Enjoy the Silence",
+                    "uri": "0yp3TvJNlG50Q4tAHWNCRm"
+                },
+                {
+                    "artist": "Depeche Mode",
+                    "title": "Enjoy The Silence 2004",
+                    "uri": "0x6rgzl1TnIBBrQ5Gljb4A"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Steve Elliott",
+                    "title": "One More Time",
+                    "uri": "3joum8bl1iP3w33O6TYep2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Steve Eliovson",
+                    "title": "Eternity",
+                    "uri": "0Rj10ifAy9bjMvAqOvkVfq"
+                },
+                {
+                    "artist": "Steve Eliovson",
+                    "title": "Memories",
+                    "uri": "6Rd3zeWXdilmemKKCQwyaQ"
+                },
+                {
+                    "artist": "Steve Eliovson",
+                    "title": "Venice",
+                    "uri": "0F61LPgdKgKrOcHBrUsLHU"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "King Crimson",
+                    "title": "Matte Kudasai",
+                    "uri": "38DwzePhZtPxZJYgGuY7IY"
+                },
+                {
+                    "artist": "King Crimson",
+                    "title": "Matte Kudasai (alternate version)",
+                    "uri": "21hFovLjTTHHdxFD0jgQmN"
+                },
+                {
+                    "artist": "King Crimson",
+                    "title": "Matte Kudasai (Live at The Spectrum, Montreal, Jul. 84)",
+                    "uri": "3kLzQd6rSy5AikEZjaoWDz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "King Crimson",
+                    "title": "Matte Kudasai",
+                    "uri": "38DwzePhZtPxZJYgGuY7IY"
+                },
+                {
+                    "artist": "King Crimson",
+                    "title": "Matte Kudasai (alternate version)",
+                    "uri": "21hFovLjTTHHdxFD0jgQmN"
+                },
+                {
+                    "artist": "King Crimson",
+                    "title": "21st Century Schizoid Man - Including \"Mirrors\"",
+                    "uri": "5L7VBYoosmkmiiDlzumdCe"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Uncle Tupelo",
+                    "title": "Sandusky",
+                    "uri": "0rib9hiYy1NWL0w8BUYgmd"
+                },
+                {
+                    "artist": "Uncle Tupelo",
+                    "title": "Wait Up",
+                    "uri": "0FOfhuM72sXFSipi3v8GZb"
+                },
+                {
+                    "artist": "Uncle Tupelo",
+                    "title": "No Depression",
+                    "uri": "1OTH0AgyDuo6KZ8BwHVRD1"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "The Band",
+                    "title": "I Shall Be Released",
+                    "uri": "7fGYJT5dBuGFxER8iWS8nQ"
+                },
+                {
+                    "artist": "The Band",
+                    "title": "I Shall Be Released - Remastered",
+                    "uri": "1IoRkyadylakMOukD7uN67"
+                },
+                {
+                    "artist": "The Band",
+                    "title": "I Shall Be Released (Finale) - Concert Version; Ensemble",
+                    "uri": "1LAx2XIarFf9i7TdINi8kr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Band",
+                    "title": "I Shall Be Released - Remastered",
+                    "uri": "1IoRkyadylakMOukD7uN67"
+                },
+                {
+                    "artist": "The Band",
+                    "title": "I Shall Be Released (Finale) - Concert Version; Ensemble",
+                    "uri": "1LAx2XIarFf9i7TdINi8kr"
+                },
+                {
+                    "artist": "Nina Simone",
+                    "title": "I Shall Be Released",
+                    "uri": "32BTFbqhSvYKftE0e8a8d4"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Ream Daranoi",
+                    "title": "Fai Yen",
+                    "uri": "03GamQwl6xu7lxUyPY1CRz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ream Daranoi",
+                    "title": "Fai Yen",
+                    "uri": "03GamQwl6xu7lxUyPY1CRz"
+                },
+                {
+                    "artist": "Faia Younan",
+                    "title": "Ohebbou Yadayka",
+                    "uri": "1bfSLsvZjpH65NlxGJLBwu"
+                },
+                {
+                    "artist": "Faia Younan",
+                    "title": "Fi Al Tariki Ilaik",
+                    "uri": "55syUs2h389vqBFEVL2kMM"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Movietone",
+                    "title": "Sun Drawing",
+                    "uri": "6AtRvRFkhSiP9518S48WBj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Movietone",
+                    "title": "Sun Drawing",
+                    "uri": "6AtRvRFkhSiP9518S48WBj"
+                },
+                {
+                    "artist": "Movietone",
+                    "title": "Star Ruby",
+                    "uri": "4GIf4ZcpXibe2Jg0GpTVJW"
+                },
+                {
+                    "artist": "Medwyn Goodall",
+                    "title": "Sun Drumming",
+                    "uri": "2gRdtDsXZqY1yRzQ470ODP"
+                }
+            ]
+        }
+    },
     "dry-cleaning-21st-october-2022": {
         "00": {
             "s0": "",

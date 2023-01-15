@@ -11,8 +11,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 # SPOTIFY API TOOL
 import spotipy
-# YOUTUBE API TOOL
-from ytmusicapi import YTMusic as ytm
 # IMAGE PROCESSING TOOLS
 import cv2, base64
 from PIL import Image
@@ -60,22 +58,12 @@ def timeout(timeout):
 os.chdir(os.getenv("directory"))
 lid_model = fasttext.load_model("./extra/lid.176.ftz")
 
-# TEST YOUTUBE
-you = ytm(auth='./headers_auth.json',user=os.getenv("uid"))
-try:
-    test_id = you.create_playlist('test','test')
-    response = you.delete_playlist(test_id)
-    yt = True
-except Exception as error:
-    print(error)
-    yt = False
-
 # LOCK
 lock = Lock()
 
 class nts:
 
-    def __init__(self,youtube=yt):
+    def __init__(self):
         os.chdir(os.getenv("directory"))
         self.showlist = [i.split('.')[0] for i in os.listdir('./tracklist/')]
         try:
@@ -85,10 +73,6 @@ class nts:
             self.meta = self._j2d(f'./extra/meta')
             self._d2j(f'./meta',self.meta)
         self.model = lid_model #bin is more accurate
-        # YOUTUBE
-        self.you = ytm(auth='./headers_auth.json',user=os.getenv("uid"))
-        # YOUTUBE BOOLEAN
-        self.yt = youtube
         # DEEPL API
         self.deepl = os.getenv("api")
 
@@ -196,66 +180,40 @@ class nts:
             elif command == 2:
                 print('Spotify')
                 self.searchloop(show,['tracklist','spotify_search_results'],'search',do)
-            elif command == 2.5:
-                print('Youtube')
-                self.searchloop(show,['tracklist','youtube_search_results'],'yearn',do)
             elif command == 3:
                 print('Spotify-Rate')
                 self.searchloop(show,['tracklist','spotify','spotify_search_results'],'rate',do)
-            elif command == 3.5:
-                print('Youtube-Rate')
-                self.searchloop(show,['tracklist','youtube','youtube_search_results'],'rate',do)
             elif command == 6:
                 print('Spotify-Playlist')
                 self.spotifyplaylist(show)
-            elif command == 6.5:
-                print('Youtube-Playlist')
-                self.youtubeplaylist(show)
 
     def _reset(self,show):
         print('.RESET.')
         self._d2j(f"./spotify_search_results/{show}",dict())
         self._d2j(f"./spotify/{show}",dict())
-        f = self._j2d(f"./extra/reset")
-        f[show] = 1
-        self._d2j(f"./extra/reset",f)
 
     def scripts(self,show):
         # SPOTIFY
         self.runner(show,f"./spotify_search_results/{show}",2)
         self.runner(show,f"./spotify/{show}",3)
-        # YOUTUBE
-        if self.yt:
-            self.runner(show,f"./youtube_search_results/{show}",2.5)
-            self.runner(show,f"./youtube/{show}",3.5)
         # ADD
         if show not in self._j2d('./uploaded'):
             print('S-Playlist')
             self.spotifyplaylist(show)
         else:
             self.runner(show,f"./uploaded",6)
-        if self.yt:
-            if show not in self._j2d('./yploaded'):
-                print('Y-Playlist')
-                self.youtubeplaylist(show)
-            else:
-                self.runner(show,f"./yploaded",6.5)
 
     def retryepisodes(self,show):
         try:
             episodelist = self._j2d(f'./tracklist/{show}')
             uploaded = self._j2d(f'./uploaded')
-            yploaded = self._j2d(f'./yploaded')
             for i in episodelist:
                 if episodelist[i] == "":
                     episodelist[i] = dict()
                     if i in uploaded[show]:
                         del uploaded[show][i]
-                    if i in yploaded[show]:
-                        del yploaded[show][i]
             self._d2j(f'./tracklist/{show}',episodelist)
             self._d2j(f'./uploaded',uploaded)
-            self._d2j(f'./yploaded',yploaded)
         except:
             pass
 
@@ -269,8 +227,6 @@ class nts:
             show = shows[i]
             if retry:
                 self.retryepisodes(show)
-            if show not in self._j2d(f"./extra/reset"):
-                self._reset(show)
             oo = show + '. . . . . . . . . . . . . . . . . . . . . . . .'
             print(f'{oo[:50]}{i}/{len(shows)}')
             # SCRAPE / PRELIMINARY
@@ -630,9 +586,6 @@ class nts:
                         if kind == 'search':
                             # 0 : TRACKLIST ; 1 : SEARCH
                             multiple[episode][trdx] = 0
-                        elif kind == 'yearn':
-                            # 0 : TRACKLIST ; 1 : SEARCH
-                            multiple[episode][trdx] = 0
                         elif kind == 'rate':
                             # 0 : TRACKLIST ; 1 : RATE ; 2 : SEARCH
                             multiple[episode][trdx] = 0
@@ -640,8 +593,6 @@ class nts:
         if any([True for i in multiple if multiple[i]]):
             if kind == 'search':
                 req = self.mt_spotifysearch(eval(jsonlist[0]),multiple)
-            elif kind == 'yearn':
-                req = self.mt_youtubesearch(eval(jsonlist[0]),multiple)
             elif kind == 'rate':
                 req = self.mt_streamrate(eval(jsonlist[0]),eval(jsonlist[2]),multiple)
             for episode in multiple:
@@ -979,193 +930,6 @@ class nts:
         ''' UPDATE UPLOADED EPISODES METADATA '''
         self._d2j(f'./uploaded',uploaded)
 
-    def youtubeplaylist(self,show,threshold=[5,10],reset=False):
-        ''' APPEND-FROM/CREATE YOUTUBE PLAYLIST
-        '''
-        yid = self._j2d('./yid')
-        title, desk = self._j2d('./extra/titles')[show], self._j2d('./extra/descriptions')[show]
-
-        ''' SIMPLIFICATION OF "PID" FUNCTION '''
-        try:
-            shelf = yid[show]
-        except:
-            shelf = self.you.create_playlist(title,desk,'PUBLIC')
-            yid[show] = shelf
-            self._d2j('./yid',yid)
-        #
-        meta = self.meta[show]
-        sortmeta = sorted(['.'.join(value['date'].split('.')[::-1]),key] for (key,value) in meta.items())
-        uploaded = self._j2d(f'./yploaded')
-
-        ''' IF NEW SHOW, OR IF EPISODE IS OLDER THAN CURRENTLY UPLOADED '''
-        if show not in uploaded:
-            uploaded[show] = dict()
-            print(f'.reset.',end='\r')
-            reset = True
-        # elif (sortmeta) and (uploaded[show]): # NOT WORTH IT :(
-        #     metacopy = [i[1] for i in sortmeta]
-        #     met0 = list(uploaded[show].keys())
-        #     for i in met0[:-1]:
-        #         metacopy.remove(i)
-        #     metaind = metacopy.index(met0[-1])
-        #     met1 = metacopy[:metaind] # old shows
-        #     if met1:
-        #         uploaded[show] = dict() # reset upload
-        #         print(f'.reset.',end='\r')
-        #         reset = True
-
-        ''' EMPTY PARAMETERS TO FILL '''
-        tid = []
-        trackdict = dict()
-        pup = []
-        mis = 0
-        empty = 0
-        almost = 0
-        f = True
-        kill = False
-        ff = 0
-
-        ''' LOAD DATA '''
-        showlist = self._j2d(f'./tracklist/{show}')
-        rate = self._j2d(f'./youtube/{show}')
-
-        ''' GET SHOW EPISODES LATEST & OLDEST DATES '''
-        while f:
-            fp = sortmeta[ff][0].split('.')
-            firstep = f"{fp[2]}.{fp[1]}.{fp[0]}"
-            if firstep != '00.00.00':
-                f = False
-            else:
-                ff += 1
-        lp = sortmeta[-1][0].split('.')
-        lastep = f"{lp[2]}.{lp[1]}.{lp[0]}"
-
-        ''' LOOP : GET (NEW) TRACKS TO UPLOAD (ACCORDING TO THRESHOLD) '''
-        idx = -1
-        for mt in sortmeta:#[::-1]
-            idx += 1
-            ep = mt[1]
-            trackdict[idx] = []
-            if ep not in uploaded[show]:
-                uploaded[show][ep] = 1
-                up = True
-            else:
-                up = False
-            if showlist[ep]:
-                for tr in rate[ep]:
-                    #
-                    if rate[ep][tr]["ratio"] != -1:
-                        bad = ['unknown','unknown artist','n/a','artist unknown', 'unreleased']
-                        ua = ' '.join(re.sub( r"([A-Z])", r" \1", showlist[ep][tr]['artist']).split()).lower().strip()
-                        ut = ' '.join(re.sub( r"([A-Z])", r" \1", showlist[ep][tr]['title']).split()).lower().strip()
-                        if (ua in bad) or (ut in bad) or ("".join(set(ua)) == '?'):
-                            rate[ep][tr]["ratio"] = -1
-                            rate[ep][tr]["uri"] = ''
-                        else:
-                            ua = ' '.join(re.sub( r"([A-Z])", r" \1", rate[ep][tr]['artist']).split()).lower().strip()
-                            ut = ' '.join(re.sub( r"([A-Z])", r" \1", rate[ep][tr]['title']).split()).lower().strip()
-                            if ('unknown artist' in ua) or ('unknown track' in ua) or ('unknown track' in ut) or (ua in bad) or (ut in bad) or ("".join(set(ua)) == '?'):
-                                rate[ep][tr]["ratio"] = -1
-                                rate[ep][tr]["uri"] = ''
-                    #
-                    t = rate[ep][tr]['trackid']
-                    #
-                    if threshold[0] <= rate[ep][tr]['ratio'] <= threshold[1]:
-                        if up and (t not in tid):
-                            trackdict[idx] += [t]
-                        tid += [t]
-                    pup += [t]
-                    if not t:
-                        mis += 1
-                    if rate[ep][tr]['ratio'] in [5]:
-                        almost += 1
-            else:
-                empty += 1
-
-        ''' STORE UPDATED RATE INFO (REMOVING UNKNOWN ARTIST) '''
-        self._d2j(f'./youtube/{show}',rate)
-
-        ''' STRING OF UNSURE/DUPLICATE RESULTS '''
-        if almost:
-            almost = f' {almost} mayb;'
-        else:
-            almost = ''
-        if empty:
-            empty = f' {empty} eps w/o tracklist;'
-        else:
-            empty = ''
-
-        ''' RESET CONDITION '''
-        if reset:
-            print(f'. . . . . .rr.', end='\r')
-            c = 0
-            while True:
-                try:
-                    ply = self.you.get_playlist(shelf, 100)
-                    c += 1
-                    response = self.you.remove_playlist_items(shelf,[{'videoId':i['videoId'],'setVideoId':i['setVideoId']} for i in ply['tracks']])
-                    print(f'.{c}.', end='\r')
-                except Exception as e:
-                    if "precondition" in str(e).lower(): # precondition check failed
-                        print(f'¡', end='\r')
-                    elif "content" in str(e).lower():
-                        break
-                    elif "do you own this playlist?" in str(e).lower():
-                        break
-                    else:
-                        print(e)
-            print(f'. . . . . .RR.', end='\r')
-
-        time.sleep(2.0)
-
-        ''' UPLOAD '''
-        td = dict(trackdict)
-        dt = []
-        print(f'. . . . . .ta.', end='\r')
-
-        while True:
-            k = list(set(list(td.keys()))-set(dt))
-            for ep in k:
-                if td[ep]:
-                    print(f'.{sortmeta[ep][1][-9:]}.', end='\r')
-                    try:
-                        response = self.you.add_playlist_items(shelf,td[ep],duplicates=True)
-                    except Exception as e:
-                        print(f'\nERROR : {e}') # HTTP 400 -> max playlist size exceeded
-                        if "maximum" in str(e).lower(): # Maximum playlist size exceeded
-                            lp = sortmeta[ep][0].split('.')
-                            lastep = f"{lp[2]}.{lp[1]}.{lp[0]}"
-                            fails = self._j2d(f'./yfail')
-                            fails[show] = [sortmeta[i][1] for i in td if i not in dt]
-                            self._d2j(f'./yfail',fails)
-                            print(f'. . . . . .TA.', end='\r')
-                            break # BREAK FOR LOOP
-                        elif "precondition" in str(e).lower(): # precondition check failed
-                            print(f'¡', end='\r')
-                            fails = self._j2d(f'./yfail')
-                            if show not in fails:
-                                fails[show] = []
-                            fails[show] += [sortmeta[ep][1]]
-                            self._d2j(f'./yfail',fails)
-                dt += [ep]
-            time.sleep(1.0)
-            ''' DESCRIPTION '''
-            syna = f"{almost}{empty} {mis+len(set(pup))-len(set(tid))} tracks missing".strip()
-            syn = f"nts.live/shows/{show} {lastep}→{firstep}.\n{desk}\n[{syna}]" #\n[{self.youid(show)}]
-            ''' YOUTUBE UPLOADBUG FINALCHECK '''
-            self.you.edit_playlist(shelf,f"{title} - NTS : {self.youid(show)}",syn)
-            try: # CHECK
-                ply = self.you.get_playlist(shelf, 100)
-                print(f'. . . . . .TA.', end='\r')
-                break
-            except Exception as e:
-                print(e,'\n')
-                td = dict(trackdict)
-                dt = []
-
-        ''' UPDATE UPLOADED EPISODES METADATA '''
-        self._d2j(f'./yploaded',uploaded)
-
     def youid(self,show):
         l1 = ['#','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
         l2 = ['#','α','β','ж','δ','ε','φ','γ','π','ι','η','κ','λ','μ','и','θ','ρ','ю','я','σ','τ','υ','ψ','ω','χ','ζ','ξ']
@@ -1393,26 +1157,6 @@ class nts:
                     q1[episode][td] = {'artist':'','title':'','ratio':-1,'trackid':''}
         return(q1)
 
-    def mt_youtubesearch(self,showson,multiple):
-        ''' YOUTUBE SEARCH : DICTIONARY MAKER '''
-        q1 = dict()
-        for episode in multiple:
-            q1[episode] = dict()
-            for td in multiple[episode]:
-                q1[episode][td] = f'{showson[episode][td]["artist"]} - {showson[episode][td]["title"]}'
-        return(self.mt_tube(q1))
-
-    def mt_tube(self,q1):
-        ''' YOUTUBE SEARCH : RUN MULTITHREAD AND RECREATE DICTIONARY FROM RESULT '''
-        taskdict = self.qmt([q1],'youtube',32)
-        for l1 in range(len(q1)):
-            episode = list(q1.keys())[l1]
-            for l2 in range(len(q1[list(q1.keys())[l1]])): # td are tracks
-                td = list(q1[list(q1.keys())[l1]].keys())[l2]
-                S0 = taskdict[f"q1.{l1:03}.{l2:03}"]
-                q1[episode][td] = {'s0':S0,'s1':''}
-        return(q1)
-
     # BACKUP META & PID IN CASE SCRIPT CRASHES
 
     def backup(self):
@@ -1516,35 +1260,6 @@ class mt:
         elif self.kind == 'rate':
             a0,t0,r0,u0 = self.nts.test(self.taskcopy[taskid]['s'],self.taskcopy[taskid]['qa'],self.taskcopy[taskid]['qt'])
             self.counter(taskid,{'a':a0,'t':t0,'r':r0,'u':u0})
-        elif self.kind == 'youtube':
-            result = self.nts.you.search(self.taskcopy[taskid],filter='videos') #f'{track["artist"]} : {track["title"]}'
-            if result:
-                takeaway = []
-                rl = len(result)
-                if rl > 4:
-                    rl = 4
-                for i in range(rl):
-                    try:
-                        art = result[i]['artists'][0]['name'].replace('\n','')
-                        tit = result[i]['title'].replace('\n','')
-                        if ('full album' in art.lower()) or ('full album' in tit.lower()):
-                            pass
-                        else:
-                            if self.nts.ratio(art,self.taskcopy[taskid].split(' - ')[0]) <= 0.5:
-                                tit = tit.replace('~','-').replace('–','-').replace(':','-').replace('_','-').replace('•','-')
-                                art = tit.split('-')[0].strip()
-                                tit = '-'.join(tit.split('-')[1:]).strip()
-                                if not tit:
-                                    tit = str(art)
-                                    art = result[i]['artists'][0]['name']
-                            takeaway += [{'artist':art,
-                            'title':tit,
-                            'uri':result[i]['videoId']}]
-                    except:
-                        pass
-            else:
-                takeaway = ''
-            self.counter(taskid,takeaway)
 
     def reruncounter(self,tid,result):
         self.taskdict[tid] = result
