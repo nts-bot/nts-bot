@@ -1,0 +1,998 @@
+{
+    "limp-wrist-11th-august-2020": {
+        "00": {
+            "artist": "Paraf",
+            "ratio": 9,
+            "title": "Javna Kupatila",
+            "trackid": "5YcciPevDicaAYdoheT1d5"
+        },
+        "01": {
+            "artist": "Kc Young Boss",
+            "ratio": 3,
+            "title": "Thomas Edison",
+            "trackid": "5swaj0luiatpbh9jvnOXf9"
+        },
+        "02": {
+            "artist": "Hicks",
+            "ratio": 7,
+            "title": "Milk",
+            "trackid": "21PuC8I13J6HBcVD1ueUmJ"
+        },
+        "03": {
+            "artist": "Sinclair",
+            "ratio": 0,
+            "title": "Just Another Fool",
+            "trackid": "0SkNT2ODmsKNRKWEg1ReZY"
+        },
+        "04": {
+            "artist": "Corrosion Of Conformity",
+            "ratio": 9,
+            "title": "Rabid Dogs",
+            "trackid": "4ZzKdjakaDJKhFLtDJxxeS"
+        },
+        "05": {
+            "artist": "Frustration",
+            "ratio": 9,
+            "title": "Vice",
+            "trackid": "4QHwORkRtetAvguNQ6MCyB"
+        },
+        "06": {
+            "artist": "Westbam/ML",
+            "ratio": 0,
+            "title": "Wasteland - Andhim Remix",
+            "trackid": "3wcOG8xw4YaxcPtHANVu9s"
+        },
+        "07": {
+            "artist": "Rondos",
+            "ratio": 9,
+            "title": "Russians are Coming",
+            "trackid": "2J94KzceL4Ea4eoTLWjcwM"
+        },
+        "08": {
+            "artist": "Tyler LaForce",
+            "ratio": 3,
+            "title": "Violent",
+            "trackid": "1PJdO9wMy3SExZWZFvdoZ4"
+        },
+        "09": {
+            "artist": "Pelkotila",
+            "ratio": 5,
+            "title": "Puutteellinen Ihminen",
+            "trackid": "4Dv5PeL1GQq87tKNSvdb0b"
+        },
+        "10": {
+            "artist": "La Sangre De Verónika",
+            "ratio": 9,
+            "title": "Guerra",
+            "trackid": "1VIxSaUG5A4W5XULZcpgSc"
+        },
+        "11": {
+            "artist": "Vadim Kurylev (DDT)",
+            "ratio": 5,
+            "title": "The End, Sveta!",
+            "trackid": "1R9rexZiahG0btbX8oN82g"
+        },
+        "12": {
+            "artist": "Nocturnal Projections",
+            "ratio": 9,
+            "title": "Nerve Ends in Power Lines",
+            "trackid": "0udo1t9ljVPuPQYdvxtFcC"
+        },
+        "13": {
+            "artist": "Naked Raygun",
+            "ratio": 9,
+            "title": "Knock Me Down",
+            "trackid": "72ojlHGbtwISUvOfxN1oq8"
+        },
+        "14": {
+            "artist": "Kitchen and the Plastic Spoons",
+            "ratio": 9,
+            "title": "Happy Funeral",
+            "trackid": "6XTuOBUT85ARWcXNDqGVyL"
+        },
+        "15": {
+            "artist": "Dawn Of Humans",
+            "ratio": 3,
+            "title": "Painful Mountain",
+            "trackid": "2JT0eKozdBnT83Ygz8xgeX"
+        },
+        "16": {
+            "artist": "GCro",
+            "ratio": 4,
+            "title": "Orgasmix",
+            "trackid": "2IqSwGEKxlddjTS1P7XdlV"
+        },
+        "17": {
+            "artist": "Slayer",
+            "ratio": 4,
+            "title": "Atrocity Vendor",
+            "trackid": "2JnKvkMlAJCbZtxtyqePIL"
+        },
+        "18": {
+            "artist": "MF DOOM",
+            "ratio": 4,
+            "title": "Gas Drawls",
+            "trackid": "5PZvQeHocidnZ73a3pHO76"
+        },
+        "19": {
+            "artist": "Deep Wound",
+            "ratio": 9,
+            "title": "Sisters",
+            "trackid": "5en3f06cEifOjWEtQ8H2CJ"
+        },
+        "20": {
+            "artist": "LSG",
+            "ratio": 4,
+            "title": "Just Friends",
+            "trackid": "3TZUiWK5OXv4O6hpHnkWwi"
+        },
+        "21": {
+            "artist": "Dance Chapter",
+            "ratio": 9,
+            "title": "New Dance",
+            "trackid": "4pSNlMNmjNTAdE8gSkxBIu"
+        },
+        "22": {
+            "artist": "Solid Space",
+            "ratio": 9,
+            "title": "Spectrum is Green",
+            "trackid": "6ppyLbtxq531ZUn3ot5YOK"
+        },
+        "23": {
+            "artist": "Appendix",
+            "ratio": 9,
+            "title": "Ei Raha Oo Mun Valuuttaa",
+            "trackid": "5FIenMPqX2UZNuD714SbqM"
+        },
+        "24": {
+            "artist": "Saccharine Trust",
+            "ratio": 9,
+            "title": "I Am Right",
+            "trackid": "719P9UHMSgPcwkh88O56Kn"
+        },
+        "25": {
+            "artist": "Rev Jones",
+            "ratio": 3,
+            "title": "Mr Paulie Ester",
+            "trackid": "4nOBjFHecD7NyCS3FUrrCG"
+        },
+        "26": {
+            "artist": "NG Rezonance",
+            "ratio": 3,
+            "title": "Nemesis - Radio Edit",
+            "trackid": "4HKz3oUGYWMtyh3pJWcGH6"
+        },
+        "27": {
+            "artist": "Skip the Use",
+            "ratio": 3,
+            "title": "Bastard Song",
+            "trackid": "6LW0iWL7yrTw86FAaLj5jp"
+        },
+        "28": {
+            "artist": "La Broma de Ssatán",
+            "ratio": 9,
+            "title": "Huérfano Adoptado",
+            "trackid": "4uRdsQszh42B7KaZDxI2n3"
+        },
+        "29": {
+            "artist": "Chicuta",
+            "ratio": 6,
+            "title": "Por Las Calles",
+            "trackid": "6CrV6HiFIrqaxSuBHyQlnn"
+        }
+    },
+    "limp-wrist-14th-july-2020": {
+        "00": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "01": {
+            "artist": "Lords Of The New Church",
+            "ratio": 9,
+            "title": "Question Of Temperature",
+            "trackid": "1XYrFbKEUFB7rany5DaEL6"
+        },
+        "02": {
+            "artist": "Los Violadores",
+            "ratio": 9,
+            "title": "Viejos Pateticos",
+            "trackid": "0xms5VRRJ46yVXgzIVhEAP"
+        },
+        "03": {
+            "artist": "Rumskib",
+            "ratio": 4,
+            "title": "Dreampoppers Tribute",
+            "trackid": "2tQ1xwTkAnNQ7vlpMFFkPi"
+        },
+        "04": {
+            "artist": "Big Boys",
+            "ratio": 9,
+            "title": "Assault",
+            "trackid": "2ZUj7J08Io9hPpAQnh95QO"
+        },
+        "05": {
+            "artist": "Public Eye",
+            "ratio": 9,
+            "title": "Sitting in the Corner",
+            "trackid": "4XWld5w0dNG8yZWGRJpQlE"
+        },
+        "06": {
+            "artist": "Black Marble",
+            "ratio": 9,
+            "title": "Woods",
+            "trackid": "5EA5mji0EeR3fXbpMcKcDV"
+        },
+        "07": {
+            "artist": "Frankie Rose",
+            "ratio": 9,
+            "title": "Night Swim",
+            "trackid": "5yRNnOV404i63Bi6qpHQtT"
+        },
+        "08": {
+            "artist": "Antiquant",
+            "ratio": 5,
+            "title": "love&life",
+            "trackid": "23DedgCuOTZOXsmcYKLPIS"
+        },
+        "09": {
+            "artist": "Ministry Of Beat",
+            "ratio": 5,
+            "title": "Glam Damn! (Remastered) [Alternative] [Remix]",
+            "trackid": "2VN4q6LCjyfk4d7Q70JjjF"
+        },
+        "10": {
+            "artist": "The Detroit Cobras",
+            "ratio": 3,
+            "title": "Midnite Blues",
+            "trackid": "2zbMN4VYL7fbbh4HdVfUQA"
+        },
+        "11": {
+            "artist": "Ausmuteants",
+            "ratio": 9,
+            "title": "Boiling Point",
+            "trackid": "3EzVc4MkqiuVsMZACTav2w"
+        },
+        "12": {
+            "artist": "BAYONETTA",
+            "ratio": 5,
+            "title": "Let's Dance, Boys !",
+            "trackid": "3Qm1GqTk8lh8lSbhe0D0Vt"
+        },
+        "13": {
+            "artist": "Pigeon Pit",
+            "ratio": 4,
+            "title": "Tall Black Trees",
+            "trackid": "1ahx4nYfQ0sFiYSXmOPxjx"
+        },
+        "14": {
+            "artist": "Shopping",
+            "ratio": 9,
+            "title": "In Other Words",
+            "trackid": "10he6VQJ3nYdpxD7mAOO5S"
+        },
+        "15": {
+            "artist": "Echo & the Bunnymen",
+            "ratio": 9,
+            "title": "Back of Love",
+            "trackid": "1Duyl7gGd4rqPuUZrlsdCO"
+        },
+        "16": {
+            "artist": "Primitive Calculators",
+            "ratio": 9,
+            "title": "Do That Dance - Single Version",
+            "trackid": "57iuGgCNHn6Fdlme4Gx4hU"
+        },
+        "17": {
+            "artist": "Nazis From Mars",
+            "ratio": 4,
+            "title": "Working Class Superhero",
+            "trackid": "7a6VOBdgQAV10dtEUR74du"
+        },
+        "18": {
+            "artist": "TZN Xenna",
+            "ratio": 9,
+            "title": "Dzieci z Brudnej Ulicy",
+            "trackid": "2tFuQio2t5lVyCNqWudjkA"
+        },
+        "19": {
+            "artist": "fripSide",
+            "ratio": 5,
+            "title": "black bullet",
+            "trackid": "5eTdZoM76j7f4s2PSndrH8"
+        },
+        "20": {
+            "artist": "Mercenaire",
+            "ratio": 5,
+            "title": "QDM",
+            "trackid": "2VUuJnHiCShOZd3XCWnYTN"
+        },
+        "21": {
+            "artist": "The Moleskins",
+            "ratio": 3,
+            "title": "I Can't Help It - Index Remix",
+            "trackid": "3OXZtA7vGun145Jso2e79e"
+        },
+        "22": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "23": {
+            "artist": "Zorana",
+            "ratio": 4,
+            "title": "Umiru Za Tobom Vene",
+            "trackid": "3avTtbMzrpS5JF9YC7lLh9"
+        },
+        "24": {
+            "artist": "DAF",
+            "ratio": 9,
+            "title": "Verschwende deine Jugend",
+            "trackid": "1jFkNLMcVb9Nt9xJN3xCCS"
+        },
+        "25": {
+            "artist": "The Systematics",
+            "ratio": 9,
+            "title": "International Voltage",
+            "trackid": "2so6yOK72UUMAvL9crFOq3"
+        },
+        "26": {
+            "artist": "张齐山DanieL",
+            "ratio": 3,
+            "title": "单人券",
+            "trackid": "5D6Xn7sxWpSWGgk2EqknV0"
+        },
+        "27": {
+            "artist": "Gyze",
+            "ratio": 4,
+            "title": "Honesty",
+            "trackid": "3vRuP9clqL95RoyCw0vt3U"
+        }
+    },
+    "limp-wrist-1st-december-2020": {
+        "00": {
+            "artist": "Bockey RUkoro",
+            "ratio": 0,
+            "title": "Tate",
+            "trackid": "3QQtUmc1gRl1udh5YHS3bK"
+        },
+        "01": {
+            "artist": "Costes",
+            "ratio": 0,
+            "title": "Kebab dans le cul",
+            "trackid": "4rlU0ypai8N9wy48bjuokM"
+        },
+        "02": {
+            "artist": "Much Obliged",
+            "ratio": 3,
+            "title": "Animal Things",
+            "trackid": "7HxettRgICbOBvY3NW2Ijf"
+        },
+        "03": {
+            "artist": "Nosferatu",
+            "ratio": 9,
+            "title": "Attack",
+            "trackid": "2hp1XIyBaJ2QhV6769EyRp"
+        },
+        "04": {
+            "artist": "Panadería Bollería Nuestra Señora del Karmen",
+            "ratio": 4,
+            "title": "Comienza la Fiesta",
+            "trackid": "6KO6teFcAxvssrQR3e0TsB"
+        },
+        "05": {
+            "artist": "Jesper Kyd",
+            "ratio": 4,
+            "title": "Vermintide 2 Main Theme (Chaos Version)",
+            "trackid": "3uW4t2BoghiPngNHbLGa1e"
+        },
+        "06": {
+            "artist": "Task Force",
+            "ratio": 3,
+            "title": "Blunted Razors",
+            "trackid": "7kbBqY73tYxe1qRm1Ogmrn"
+        },
+        "07": {
+            "artist": "deuce2live",
+            "ratio": 0,
+            "title": "Nascar",
+            "trackid": "5F0Txjai6hIsKLfnPeD8RY"
+        },
+        "08": {
+            "artist": "Gorilla Angreb",
+            "ratio": 9,
+            "title": "De Kommer Ud Om Natten",
+            "trackid": "09MxHzv4tRjvRKEFJQJOwH"
+        },
+        "09": {
+            "artist": "Tartalo Music",
+            "ratio": 3,
+            "title": "Land of the Brave",
+            "trackid": "1ewgWlMw2ah408WVQ8G3wY"
+        },
+        "10": {
+            "artist": "ECZODIA",
+            "ratio": 5,
+            "title": "Brain Destruction",
+            "trackid": "5nD2I2hXPzqauQVz85wcCj"
+        },
+        "11": {
+            "artist": "Minor Threat",
+            "ratio": 5,
+            "title": "Seeing Red",
+            "trackid": "2mgBdz0PWtEq6nVtddnauR"
+        },
+        "12": {
+            "artist": "Mike Lazarev",
+            "ratio": 5,
+            "title": "Unhinged",
+            "trackid": "0F78AWB4E53yOvldzqhgBK"
+        },
+        "13": {
+            "artist": "Delinquent Habits",
+            "ratio": 5,
+            "title": "Return of the Tres",
+            "trackid": "4XYsx8ga3fGwEFOOcauPZC"
+        },
+        "14": {
+            "artist": "Hagar the Womb",
+            "ratio": 9,
+            "title": "Dressed To Kill",
+            "trackid": "7aULG1a2WUtcZAonjhyv36"
+        },
+        "15": {
+            "artist": "Slime",
+            "ratio": 9,
+            "title": "Slime on 45 - Medley: Wir wollen keine ... Instrumental / A.C.A.B. / Legal Illegal Scheißegal / Gerechtigkeit / Alle gegen alle / Religion / Alptraum / Störtebeker / Sie wollen wieder schießen (dürfen) / Wir geben nicht nach / Schweineherbst / Deutschland",
+            "trackid": "2r7QvrotCXAyu1d377JVla"
+        },
+        "16": {
+            "artist": "Unity",
+            "ratio": 9,
+            "title": "You Are One",
+            "trackid": "4nBoBAYPJPaD1ND1Gq7PQ6"
+        },
+        "17": {
+            "artist": "Clorox Girls",
+            "ratio": 9,
+            "title": "Walks The Streets",
+            "trackid": "1WZUldxlWq4q9NHi99J28A"
+        },
+        "18": {
+            "artist": "Mac",
+            "ratio": 3,
+            "title": "Beef",
+            "trackid": "2zy2iBSUHJc44QcjS5SteM"
+        },
+        "19": {
+            "artist": "DJ ESCO",
+            "ratio": 4,
+            "title": "Code of Honor (feat. Future & ScHoolboy Q)",
+            "trackid": "2tqPFzcsaYx479OFbNOo3P"
+        },
+        "20": {
+            "artist": "Futurisk",
+            "ratio": 9,
+            "title": "Army Now - 1982",
+            "trackid": "4mYtwvYs2R0FQvP2SX8mbR"
+        },
+        "21": {
+            "artist": "Los Iniciados",
+            "ratio": 9,
+            "title": "Soy el vacío",
+            "trackid": "73BGEdxz6RnbQBVFEnWsli"
+        },
+        "22": {
+            "artist": "Ruin",
+            "ratio": 9,
+            "title": "Make Believe",
+            "trackid": "0AjckX4mFGzMgi7wXSL3An"
+        },
+        "23": {
+            "artist": "Marquis Infinity",
+            "ratio": 3,
+            "title": "The Mummies Are At It Again",
+            "trackid": "7u5o0VVDg7m7RLpa3KEEoH"
+        },
+        "24": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "25": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "26": {
+            "artist": "Panik-J",
+            "ratio": 3,
+            "title": "Manigance",
+            "trackid": "5MWniug8pLDnQc3jdFqG2k"
+        },
+        "27": {
+            "artist": "New Fries",
+            "ratio": 9,
+            "title": "Jz III",
+            "trackid": "55tMetHtBhOtZ02yS4VY9M"
+        }
+    },
+    "limp-wrist-3rd-november-2020": {
+        "00": {
+            "artist": "The Crucifucks",
+            "ratio": 9,
+            "title": "Hinkley Had a Vision",
+            "trackid": "3ImEXxQjfH188qPc7vwNOz"
+        },
+        "01": {
+            "artist": "Poison Idea",
+            "ratio": 9,
+            "title": "All Right",
+            "trackid": "5THcpSnuljb6mJsVZtz0eV"
+        },
+        "02": {
+            "artist": "The Gaia",
+            "ratio": 9,
+            "title": "Push Push",
+            "trackid": "2KrcKpFoKJEB4iVX0NVSYE"
+        },
+        "03": {
+            "artist": "SS Decontrol",
+            "ratio": 9,
+            "title": "Nothing Done",
+            "trackid": "59Jsypq4NbU0Tc48l6NmHI"
+        },
+        "04": {
+            "artist": "Green Sketch",
+            "ratio": 0,
+            "title": "Voorhees",
+            "trackid": "0D2riMKUBv0hRbZB5KTABt"
+        },
+        "05": {
+            "artist": "Screaming Fist",
+            "ratio": 9,
+            "title": "Templanza",
+            "trackid": "0abOUhG0YoY9OZRj4UuVuX"
+        },
+        "06": {
+            "artist": "ROLE MODEL",
+            "ratio": 5,
+            "title": "death wish",
+            "trackid": "68kc71kxyfuWFLTheYyZlO"
+        },
+        "07": {
+            "artist": "Deadline",
+            "ratio": 9,
+            "title": "Authority Figures",
+            "trackid": "48FqQC5KNZ5ssg1lmdXJyk"
+        },
+        "08": {
+            "artist": "Poetic Temper",
+            "ratio": 3,
+            "title": "My Art Piece",
+            "trackid": "6B31Rjbs8HysMWSNNfNRa6"
+        },
+        "09": {
+            "artist": "Crimekillz",
+            "ratio": 5,
+            "title": "Youth",
+            "trackid": "7x82Fh96a6kSVA6gd21DMC"
+        },
+        "10": {
+            "artist": "LUCA",
+            "ratio": 5,
+            "title": "Altar",
+            "trackid": "3eRdNkKRi6wpkaG9XrfQpJ"
+        },
+        "11": {
+            "artist": "Art Farmer & Benny Golson Jazztet",
+            "ratio": 4,
+            "title": "Mox Nix",
+            "trackid": "5AHwkIXhw7DA0EfClaPif8"
+        },
+        "12": {
+            "artist": "Toxic Reasons",
+            "ratio": 9,
+            "title": "Mercenary - Independence LP - Remastered",
+            "trackid": "2FvJUcNRKNYTEZvyJnjKDG"
+        },
+        "13": {
+            "artist": "Laharl Square",
+            "ratio": 3,
+            "title": "Sugar Song to Bitter Step (From \"Kekkai Sensen\") - Spanish Cover",
+            "trackid": "4sYzt0lZL5OY2d1xmROAAc"
+        },
+        "14": {
+            "artist": "THE STALIN",
+            "ratio": 9,
+            "title": "水銀",
+            "trackid": "6kHYBHJTXaDhvrSxVtzCQG"
+        },
+        "15": {
+            "artist": "Dance Music Decade",
+            "ratio": 4,
+            "title": "Five More Hours",
+            "trackid": "4BUXNE9kTMOSCAEp4LrDu3"
+        },
+        "16": {
+            "artist": "Eddy Current Suppression Ring",
+            "ratio": 9,
+            "title": "Having a Hard Time",
+            "trackid": "7ipd26t0koO72ef0ODCqrT"
+        },
+        "17": {
+            "artist": "Marbled Eye",
+            "ratio": 9,
+            "title": "Coated",
+            "trackid": "4TFCsfmAh6UpT0ZHlT8i3E"
+        },
+        "18": {
+            "artist": "Girls At Our Best!",
+            "ratio": 9,
+            "title": "Getting Nowhere Fast",
+            "trackid": "0xF9xdi5cI0fi7ZgC7MrzZ"
+        },
+        "19": {
+            "artist": "Breakout",
+            "ratio": 9,
+            "title": "Double Blind",
+            "trackid": "6v4ocyWTVUV7L14FY29oQP"
+        },
+        "20": {
+            "artist": "Fuzzbox",
+            "ratio": 9,
+            "title": "Rules and Regulations",
+            "trackid": "0sKetkR74wu3dJKFu3eOLc"
+        },
+        "21": {
+            "artist": "Carbonas",
+            "ratio": 9,
+            "title": "Don't Know Why",
+            "trackid": "7jeqh7ujdoGEK9BpeJb3cX"
+        },
+        "22": {
+            "artist": "Penetration",
+            "ratio": 9,
+            "title": "Firing Squad - Demo Version / Remastered 2004",
+            "trackid": "1Y67NfktQF1STEJBsrQzoN"
+        },
+        "23": {
+            "artist": "Mirathemanic",
+            "ratio": 3,
+            "title": "2020 Klips 3",
+            "trackid": "4TMN46MP95Zk61lXO3SdeX"
+        },
+        "24": {
+            "artist": "Sairat Mielet",
+            "ratio": 9,
+            "title": "Pilvessä caiko taivaassa (Overclouded)",
+            "trackid": "22bIpogf6fxlyl3b275iOJ"
+        },
+        "25": {
+            "artist": "Impact",
+            "ratio": 3,
+            "title": "Infiniment Grand",
+            "trackid": "7FvBQsFwj8tXvEQIzZc9va"
+        },
+        "26": {
+            "artist": "Elijs",
+            "ratio": 4,
+            "title": "Sirdspuksti",
+            "trackid": "3hypHlSKIyrdYcStoyr3UT"
+        },
+        "27": {
+            "artist": "Philip Sheppard",
+            "ratio": 4,
+            "title": "Not Just a Machine - Kara",
+            "trackid": "6Na9O7lfNPkxpgkCIo3JuV"
+        },
+        "28": {
+            "artist": "Rattus",
+            "ratio": 3,
+            "title": "Miks haluat tapella",
+            "trackid": "16xDB1hprBzGnJ39GacuEe"
+        },
+        "29": {
+            "artist": "Youth Brigade",
+            "ratio": 9,
+            "title": "Pay No Attention",
+            "trackid": "0cqXlPuYRyeijpk0ErNn9k"
+        },
+        "30": {
+            "artist": "The Left",
+            "ratio": 9,
+            "title": "Fuck It",
+            "trackid": "3wCbsaqP3HCv3V8Os8Q3ap"
+        },
+        "31": {
+            "artist": "Nancy",
+            "ratio": 9,
+            "title": "Midnite",
+            "trackid": "4JCNtg9IxMxNbGd6kIfn5o"
+        }
+    },
+    "limp-wrist-6th-october-2020": {
+        "00": {
+            "artist": "Filth",
+            "ratio": 9,
+            "title": "Today's Lesson",
+            "trackid": "1VdcE4do3R5hbcwYBOiWU1"
+        },
+        "01": {
+            "artist": "Civil Disobedience",
+            "ratio": 9,
+            "title": "Planet of the Fakes",
+            "trackid": "100AcOFQvbodFsvjeNdU76"
+        },
+        "02": {
+            "artist": "Quincy Punx",
+            "ratio": 9,
+            "title": "Cereal Killer",
+            "trackid": "1WIv4rvsBB2edhsE7amxko"
+        },
+        "03": {
+            "artist": "Bassface Sascha",
+            "ratio": 3,
+            "title": "Laid Back",
+            "trackid": "32Dgcw7rrazWyn4nSp8fm1"
+        },
+        "04": {
+            "artist": "Blatz",
+            "ratio": 9,
+            "title": "Fuk Shit Up",
+            "trackid": "2THDzVDqn8NAxAgb7uNTdq"
+        },
+        "05": {
+            "artist": "Crass",
+            "ratio": 9,
+            "title": "End Result",
+            "trackid": "10uuwd6bYptS1hmRCz4OQE"
+        },
+        "06": {
+            "artist": "Econochrist",
+            "ratio": 9,
+            "title": "Words Alone",
+            "trackid": "3ith023DsZY7xcUNbwEJMN"
+        },
+        "07": {
+            "artist": "Die Vräcks",
+            "ratio": 5,
+            "title": "Pussy Disaster",
+            "trackid": "61lRVc5dVMj7GIOrQCfP3R"
+        },
+        "08": {
+            "artist": "dfv",
+            "ratio": 3,
+            "title": "Dead & Gone",
+            "trackid": "4i4FuRqDH4C3YFx4TZjT5C"
+        },
+        "09": {
+            "artist": "Rorschach",
+            "ratio": 9,
+            "title": "Impressions",
+            "trackid": "7CeruZTQBQasd2zqbVBhyc"
+        },
+        "10": {
+            "artist": "Born Against",
+            "ratio": 9,
+            "title": "By The Throat",
+            "trackid": "4FTNL7iHOtnYJWTB8kbe9g"
+        },
+        "11": {
+            "artist": "Nausea",
+            "ratio": 9,
+            "title": "Cybergod",
+            "trackid": "3M8vFN3bobrQAAhlhEGn9J"
+        },
+        "12": {
+            "artist": "74ko",
+            "ratio": 4,
+            "title": "Disagree",
+            "trackid": "4puOtT70sXQUfdvcz0FqOB"
+        },
+        "13": {
+            "artist": "Bandemonic",
+            "ratio": 4,
+            "title": "Zero:Hour",
+            "trackid": "7nLBxIiS05r43qbsUzf7vQ"
+        },
+        "14": {
+            "artist": "Avenue 001",
+            "ratio": 4,
+            "title": "The Logical",
+            "trackid": "1SJNjXEu0cw36WhlxOOd0v"
+        },
+        "15": {
+            "artist": "Dystopia",
+            "ratio": 9,
+            "title": "Anger Brought by Disease",
+            "trackid": "4DoImIEldfvDyrXA3m1CyA"
+        },
+        "16": {
+            "artist": "Neurosis",
+            "ratio": 9,
+            "title": "Pain of Mind",
+            "trackid": "2OiNibzCdzcw02icYLKjVI"
+        },
+        "17": {
+            "artist": "Waterparks",
+            "ratio": 3,
+            "title": "SELF-SABOTAGE",
+            "trackid": "6ILbnr8fiRGL7Cazwn1M5o"
+        },
+        "18": {
+            "artist": "Rudimentary Peni",
+            "ratio": 9,
+            "title": "Nothing But A Nightmare",
+            "trackid": "2wpw5h5bILRfTmLQn3s7h8"
+        },
+        "19": {
+            "artist": "The Skarabs",
+            "ratio": 5,
+            "title": "There's Michelle",
+            "trackid": "7wUiVUToBzFr2fxPLLAhLv"
+        },
+        "20": {
+            "artist": "The Shins",
+            "ratio": 3,
+            "title": "Dead Alive - Flipped",
+            "trackid": "1O939F9b5Vl0owX9YWCVrC"
+        },
+        "21": {
+            "artist": "Dirt",
+            "ratio": 9,
+            "title": "Lunacy",
+            "trackid": "2UjjTl77oPmDWJYJyoGVtR"
+        },
+        "22": {
+            "artist": "EmpathicFR",
+            "ratio": 4,
+            "title": "The Rotten Dying",
+            "trackid": "1KNdgUIlV9mOPkayNJrbVX"
+        },
+        "23": {
+            "artist": "Subhumans",
+            "ratio": 9,
+            "title": "Ashtray Dirt",
+            "trackid": "4RaarUICe6xalXTw3nnkyn"
+        },
+        "24": {
+            "artist": "Doom",
+            "ratio": 9,
+            "title": "War On Our Doorstep",
+            "trackid": "57mwOKr3YnFjFrYqYzWNod"
+        },
+        "25": {
+            "artist": "Discharge",
+            "ratio": 9,
+            "title": "Decontrol",
+            "trackid": "2TBrjadaWEwNhDXzgNMx3b"
+        },
+        "26": {
+            "artist": "Conflict",
+            "ratio": 9,
+            "title": "From Protest To Resistance",
+            "trackid": "4NCDGu4FtIo0vD7BuVCFYP"
+        }
+    },
+    "limp-wrist-7th-september-2020": {
+        "00": {
+            "artist": "The Residents",
+            "ratio": 9,
+            "title": "I Left My Heart In San Francisco",
+            "trackid": "1Z65hZrSpad4bTUkdiQr0x"
+        },
+        "01": {
+            "artist": "Deadlock",
+            "ratio": 3,
+            "title": "Code Of Honor",
+            "trackid": "43xdEiZZrSoNdETUepZpYR"
+        },
+        "02": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "03": {
+            "artist": "The Space Lady",
+            "ratio": 9,
+            "title": "I Had Too Much to Dream Last Night",
+            "trackid": "0z8i5oCBPR9MLFrvxO2JpI"
+        },
+        "04": {
+            "artist": "Tuxedomoon",
+            "ratio": 5,
+            "title": "Toreador Del Amor",
+            "trackid": "65NeRwBdBdWjcTmLxjYUp8"
+        },
+        "05": {
+            "artist": "Red Red Red",
+            "ratio": 5,
+            "title": "Ego Manifest",
+            "trackid": "2BXgD54mPX23s1OrCynh6d"
+        },
+        "06": {
+            "artist": "Crucifix",
+            "ratio": 9,
+            "title": "No Limbs",
+            "trackid": "6lZKQduOr9HOzgBoGziBVv"
+        },
+        "07": {
+            "artist": "Jeremy Zucker",
+            "ratio": 0,
+            "title": "talk is overrated (stripped.)",
+            "trackid": "1k5nxmp8YloLnRpo6drPOA"
+        },
+        "08": {
+            "artist": "Sylvester",
+            "ratio": 9,
+            "title": "I Need You",
+            "trackid": "2mmIlGbDhzXylCL07rfQnB"
+        },
+        "09": {
+            "artist": "Melvins",
+            "ratio": 3,
+            "title": "Revolve",
+            "trackid": "09hctAvAEUpm7MKl1RBK2j"
+        },
+        "10": {
+            "artist": "Metallica",
+            "ratio": 9,
+            "title": "Jump In The Fire - Remastered",
+            "trackid": "4fVBFyglBhMf0erfF7pBJp"
+        },
+        "11": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "12": {
+            "artist": "Redd Asphalt",
+            "ratio": 5,
+            "title": "Shoreline",
+            "trackid": "0WPPHiLjjY3Ht6NVvei2FN"
+        },
+        "13": {
+            "artist": "Minimal Man",
+            "ratio": 4,
+            "title": "Show Time",
+            "trackid": "6flvuJfBDDGguotdyhsOtx"
+        },
+        "14": {
+            "artist": "Diggy Chip",
+            "ratio": 5,
+            "title": "Transparent",
+            "trackid": "4dtNNG0h7KjXZOrdRpfHtU"
+        },
+        "15": {
+            "artist": "Patrick Cowley",
+            "ratio": 9,
+            "title": "Mind Warp",
+            "trackid": "0HGjH0TEP6EL42OuW9633u"
+        },
+        "16": {
+            "artist": "Chrome",
+            "ratio": 9,
+            "title": "Danger Zone",
+            "trackid": "5rf5ILNOAcFGVJoa52uybm"
+        },
+        "17": {
+            "artist": "Dicks",
+            "ratio": 9,
+            "title": "I Hope You Get Drafted",
+            "trackid": "4GfE3NCxTPG5nX6hFeksGX"
+        },
+        "18": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        }
+    }
+}
