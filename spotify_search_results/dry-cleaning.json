@@ -454,6 +454,444 @@
             ]
         }
     },
+    "dry-cleaning-18th-november-2022": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Goblin",
+                    "title": "Profondo rosso",
+                    "uri": "29njTP2Su7JlQccvRox1Jr"
+                },
+                {
+                    "artist": "Goblin",
+                    "title": "Profondo rosso",
+                    "uri": "7q5ubZMmFMHgTuCBWe2nO8"
+                },
+                {
+                    "artist": "Goblin",
+                    "title": "Profondo rosso - Remix version",
+                    "uri": "0FZCIdPFeEvIwPvAFS26wW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Goblin",
+                    "title": "Profondo rosso",
+                    "uri": "7q5ubZMmFMHgTuCBWe2nO8"
+                },
+                {
+                    "artist": "Goblin",
+                    "title": "Profondo rosso",
+                    "uri": "29njTP2Su7JlQccvRox1Jr"
+                },
+                {
+                    "artist": "Lucas Sto Gar",
+                    "title": "Goblin Slayer (Main Theme)",
+                    "uri": "1qlnKVmrcoweV8QzUHIZ0Y"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Pozi",
+                    "title": "Engaged",
+                    "uri": "21iSdvqmnCnaW1LvObaNEr"
+                },
+                {
+                    "artist": "Pozi",
+                    "title": "Engaged",
+                    "uri": "7qnGPb2XFTP1a5vm0tNcwO"
+                },
+                {
+                    "artist": "Pozi",
+                    "title": "Engaged",
+                    "uri": "5pP7Qwa8vnXBaHSRqNVX76"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pozi",
+                    "title": "Engaged",
+                    "uri": "21iSdvqmnCnaW1LvObaNEr"
+                },
+                {
+                    "artist": "Pozi",
+                    "title": "Watching You Suffer",
+                    "uri": "5OIlnZKNZ4SEqDPsvjh9Ec"
+                },
+                {
+                    "artist": "Tony Mix",
+                    "title": "Pizi Pizi Pozow",
+                    "uri": "44GAebVlfyyBNBmzqbtihn"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Everything But The Girl",
+                    "title": "Big Deal",
+                    "uri": "7uYbWKh77cfo9tsGpz6sZ2"
+                },
+                {
+                    "artist": "Everything But The Girl",
+                    "title": "Big Deal",
+                    "uri": "59ZhKf1x1WnRgXBviu37aY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Everything But The Girl",
+                    "title": "Big Deal",
+                    "uri": "7uYbWKh77cfo9tsGpz6sZ2"
+                },
+                {
+                    "artist": "Everything But The Girl",
+                    "title": "Big Deal",
+                    "uri": "59ZhKf1x1WnRgXBviu37aY"
+                },
+                {
+                    "artist": "Everything But The Girl",
+                    "title": "Missing - Todd Terry Remix / Radio Edit",
+                    "uri": "1IsvXZXAV9EBC4hBKW6yDN"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Cleoma Breaux",
+                    "title": "La Vieux Soullard Et Sa Femme",
+                    "uri": "1PGCNEWUJ1CqdnIBXvosTV"
+                },
+                {
+                    "artist": "Cleoma Breaux",
+                    "title": "La vieux soullard et sa femme",
+                    "uri": "4i0ZyeuUTkRAC3kF5Rix9g"
+                },
+                {
+                    "artist": "Cleoma Breaux Falcon",
+                    "title": "Le Vieux Soulard Et Sa Femme",
+                    "uri": "3Mgfr0JxFqN6pOCEhnVaAq"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Le Son",
+                    "title": "Burning Plastic",
+                    "uri": "66NkX1vECugldXEx2vzA11"
+                },
+                {
+                    "artist": "Disappear Forever",
+                    "title": "Burning Plastic",
+                    "uri": "6lNjdOAuy4iMCkuVe5lGoc"
+                },
+                {
+                    "artist": "counsel pop",
+                    "title": "burning plastic",
+                    "uri": "1ytBa9lsbtqSjLfyj20CIO"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Flamin' Groovies",
+                    "title": "Shake Some Action",
+                    "uri": "0Afai8u1STCaDyTTm1gEZf"
+                },
+                {
+                    "artist": "Flamin' Groovies",
+                    "title": "Shake Some Action",
+                    "uri": "3GqP6bUY1XHVlThBoQQk0z"
+                },
+                {
+                    "artist": "Flamin' Groovies",
+                    "title": "Shake Some Action - Remastered",
+                    "uri": "4GWSbPaj5kzHsZJ4JGHo45"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Flamin' Groovies",
+                    "title": "Shake Some Action",
+                    "uri": "0Afai8u1STCaDyTTm1gEZf"
+                },
+                {
+                    "artist": "Flamin' Groovies",
+                    "title": "Shake Some Action",
+                    "uri": "3GqP6bUY1XHVlThBoQQk0z"
+                },
+                {
+                    "artist": "Flamin' Groovies",
+                    "title": "Sometimes",
+                    "uri": "3H7HVXeBqlLRUikmHY0zwj"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lilith Merlot",
+                    "title": "Speak Your Heart",
+                    "uri": "3d4k38C0dO6BWOkPn62eey"
+                },
+                {
+                    "artist": "LasLas",
+                    "title": "Speak Your Mind",
+                    "uri": "5rOfYtTRvrKEUEKyMDC64a"
+                },
+                {
+                    "artist": "Akoouw",
+                    "title": "Keep your faith",
+                    "uri": "3DtzCf8m7NsguFMNM53qFY"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Nourished by Time",
+                    "title": "Staring into the Fireplace",
+                    "uri": "2XKjTD3yl46rJ53IKCVrF2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nourished by Time",
+                    "title": "Staring into the Fireplace",
+                    "uri": "2XKjTD3yl46rJ53IKCVrF2"
+                },
+                {
+                    "artist": "Bliss Looper",
+                    "title": "Nourished",
+                    "uri": "23zT3Efph4cRiYLX2YT766"
+                },
+                {
+                    "artist": "Bedtime Baby; Baby Lullaby Academy; Nursery Rhymes; Rockabye Lullaby",
+                    "title": "A Nourishing Rest",
+                    "uri": "2dwGSSc9A9fHRX11foo5cC"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "MF Tomlinson",
+                    "title": "Them Apples",
+                    "uri": "7AF6kFOSt4ycm8kLyAsaAU"
+                },
+                {
+                    "artist": "The Apples",
+                    "title": "In the Air (feat. Fred Wesley)",
+                    "uri": "4vbwMykF3YKEdiwHiGTn0D"
+                },
+                {
+                    "artist": "Pups Superstars",
+                    "title": "The Apple's Song",
+                    "uri": "2JAVYqnlEdvus3MjwRGHR2"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Gilla Band",
+                    "title": "Backwash",
+                    "uri": "6WOEiDqorXWXaLxxqLnclO"
+                },
+                {
+                    "artist": "Gilla Band",
+                    "title": "Backwash",
+                    "uri": "5S8xuHnz1LT1mbiXqb1Nav"
+                },
+                {
+                    "artist": "Gilla Band",
+                    "title": "Backwash",
+                    "uri": "1lj7TFZ4be4Ey0LutNVbOV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gilla Band",
+                    "title": "Backwash",
+                    "uri": "6WOEiDqorXWXaLxxqLnclO"
+                },
+                {
+                    "artist": "Gilla Band",
+                    "title": "Backwash",
+                    "uri": "5S8xuHnz1LT1mbiXqb1Nav"
+                },
+                {
+                    "artist": "Gilla Band",
+                    "title": "Lawman",
+                    "uri": "5JPikGNqkUngwpppwRfiFd"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Geinoh Yamashirogumi",
+                    "title": "Kaneda (from \"AKIRA Symphonic Suite\")",
+                    "uri": "202I32o9vIrckOuVBSlFQj"
+                },
+                {
+                    "artist": "Geinoh Yamashirogumi",
+                    "title": "Kaneda - From Akira Symphonic Suite Original Motion Picture Soundtrack",
+                    "uri": "56j3GWUKFBxWDzNQMFBFT1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Geinoh Yamashirogumi",
+                    "title": "Kaneda (from \"AKIRA Symphonic Suite\")",
+                    "uri": "202I32o9vIrckOuVBSlFQj"
+                },
+                {
+                    "artist": "Geinoh Yamashirogumi",
+                    "title": "Kaneda - From Akira Symphonic Suite Original Motion Picture Soundtrack",
+                    "uri": "56j3GWUKFBxWDzNQMFBFT1"
+                },
+                {
+                    "artist": "HOYO-MiX",
+                    "title": "Elogia Cinerosa",
+                    "uri": "20nGaeXt8tv7iAQvLVa7gJ"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Theon Cross",
+                    "title": "Intro",
+                    "uri": "2Ava9e4agRdmkXmBD0rXGf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Theon Cross",
+                    "title": "We Go Again",
+                    "uri": "1wwNaXc795mdzPCeeK3zkp"
+                },
+                {
+                    "artist": "Theon Cross",
+                    "title": "Wings",
+                    "uri": "0P0vNFONGtnVFxEEk3k0K2"
+                },
+                {
+                    "artist": "Theon Cross",
+                    "title": "Epistrophy",
+                    "uri": "3W5Wg12biSkttF8NTUzlET"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Sir John Betjeman",
+                    "title": "Indoor Games Near Newbury",
+                    "uri": "6Lm6vigipzlVTX5EjHwPyh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "John Betjeman",
+                    "title": "John Betjeman: Indoor Games near Newbury",
+                    "uri": "2eF94sSueSYSHupLGCJ5FU"
+                },
+                {
+                    "artist": "The John Betsch Society",
+                    "title": "Darling Doria",
+                    "uri": "6QgOinSbdtPi2ZKYbaYvP3"
+                },
+                {
+                    "artist": "Nina Ohlandt",
+                    "title": "Kapitel 153 - Schweigende See - John Benthiens siebter Fall - Hauptkommissar John Benthien, Band 7",
+                    "uri": "69gplSPmsdqLekHjB0NaPJ"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Divide And Dissolve",
+                    "title": "Prove It",
+                    "uri": "4kAYlU9VKHCwfg2YfhOk6R"
+                },
+                {
+                    "artist": "Divide And Dissolve",
+                    "title": "Prove It",
+                    "uri": "5b3iXtgvNW1M5v9rxwOr32"
+                },
+                {
+                    "artist": "Divide And Dissolve",
+                    "title": "Prove It",
+                    "uri": "5WusKIsUWqLCo8cIZ8Iifr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Magna",
+                    "title": "Divide (Miami Edit)",
+                    "uri": "0eZIigKKlSApDyOVSXuO6W"
+                },
+                {
+                    "artist": "IDLES",
+                    "title": "Divide & Conquer",
+                    "uri": "6tz7X8Kinxd8BBojOgf9pu"
+                },
+                {
+                    "artist": "LYRRE",
+                    "title": "Divide and Conquer",
+                    "uri": "6My2HPfF7EY7bGvLMFR6ZY"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Aldous Harding",
+                    "title": "Lawn",
+                    "uri": "7nQixpECs10IR5meminpfC"
+                },
+                {
+                    "artist": "Aldous Harding",
+                    "title": "Lawn",
+                    "uri": "4YQe4UrNJ0AzFKA6BNQo0c"
+                },
+                {
+                    "artist": "Aldous Harding",
+                    "title": "Lawn",
+                    "uri": "4tc48E1Tx3vC6W9ObUEzYs"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aldous Harding",
+                    "title": "Lawn",
+                    "uri": "4YQe4UrNJ0AzFKA6BNQo0c"
+                },
+                {
+                    "artist": "Aldous Harding",
+                    "title": "Lawn",
+                    "uri": "7nQixpECs10IR5meminpfC"
+                },
+                {
+                    "artist": "Aldous Harding",
+                    "title": "Treasure",
+                    "uri": "1WHoY2uSPpewqUm80q4d68"
+                }
+            ]
+        }
+    },
     "dry-cleaning-21st-october-2022": {
         "00": {
             "s0": "",

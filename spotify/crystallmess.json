@@ -97,6 +97,116 @@
             "trackid": "1TInN2rwbsk18sOg4NQUsE"
         }
     },
+    "crystallmess-16th-january-2023": {
+        "00": {
+            "artist": "Jeremy Renner",
+            "ratio": 5,
+            "title": "Main Attraction",
+            "trackid": "4HqIhZr8FuXcRl9P0wQfge"
+        },
+        "01": {
+            "artist": "Malibu",
+            "ratio": 9,
+            "title": "Atlantic Diva",
+            "trackid": "5Rvvv94WBHJ7xBTv4wDqzV"
+        },
+        "02": {
+            "artist": "Ohemgee",
+            "ratio": 3,
+            "title": "Bitches Goin Crazy",
+            "trackid": "46OWPivL8GTA2CbHSsbU6T"
+        },
+        "03": {
+            "artist": "Venus Ex Machina",
+            "ratio": 9,
+            "title": "Avril",
+            "trackid": "0AEiHxk5s53zTveZZKEF0L"
+        },
+        "04": {
+            "artist": "PNL",
+            "ratio": 9,
+            "title": "Chang",
+            "trackid": "5n9NAd0Y5OUeOGU0nVtLua"
+        },
+        "05": {
+            "artist": "Clams Casino",
+            "ratio": 9,
+            "title": "Gorilla",
+            "trackid": "44b6r3r6EJ3k0icWrEdqNO"
+        },
+        "06": {
+            "artist": "A$AP Rocky",
+            "ratio": 9,
+            "title": "Get Lit (feat. Fat Tony)",
+            "trackid": "4nzmPINOWf5sdKNrTjcM3z"
+        },
+        "07": {
+            "artist": "SahBabii",
+            "ratio": 9,
+            "title": "Do It For Demon",
+            "trackid": "5FjV5gPTTM4a8lp4fBEE2x"
+        },
+        "08": {
+            "artist": "Lundon Knighten",
+            "ratio": 5,
+            "title": "Main Attraction",
+            "trackid": "1MdpIOQoak0ixKu72OAdJy"
+        },
+        "09": {
+            "artist": "TRIPLEGO",
+            "ratio": 9,
+            "title": "Casablanca",
+            "trackid": "4EWfdfwoMYFWf8Wt6O1N1H"
+        },
+        "10": {
+            "artist": "Droop-E",
+            "ratio": 9,
+            "title": "N the Traffic",
+            "trackid": "7dLj86b6hCLDOukJrptfSB"
+        },
+        "11": {
+            "artist": "Antwon",
+            "ratio": 9,
+            "title": "Rain Song (feat. Lil Ugly Mane)",
+            "trackid": "7BN7XbJVmj3lTky2VzO6XB"
+        },
+        "12": {
+            "artist": "Drake",
+            "ratio": 9,
+            "title": "Dreams Money Can Buy",
+            "trackid": "1qyFlfPREPbRcS2BNszdYI"
+        },
+        "13": {
+            "artist": "Suicideyear",
+            "ratio": 9,
+            "title": "CCCXXV",
+            "trackid": "2ase4CCrGNOhqKpcXtdV1H"
+        },
+        "14": {
+            "artist": "Imogen Heap",
+            "ratio": 9,
+            "title": "Hide and Seek",
+            "trackid": "7mMlbJlXXo2mRtQ4R9sIzD"
+        },
+        "15": {
+            "artist": "Playboi Carti",
+            "ratio": 9,
+            "title": "Middle Of The Summer (feat. Red Coldhearted)",
+            "trackid": "7AtBtwrKhz94hYXgGYyG58"
+        },
+        "16": {
+            "artist": "G-Side (Featuring Mali Boi)",
+            "ratio": 7,
+            "title": "Strictly Businezz",
+            "trackid": "1RxWFnF2FisXJR5S3nPI6z"
+        },
+        "17": {
+            "artist": "Damso",
+            "ratio": 9,
+            "title": "Paris c'est loin",
+            "trackid": "1OTqNHHT62g3aPPtIQ7CIo"
+        }
+    },
     "crystallmess-21st-november-2022": {
         "00": {
             "artist": "Rene & Angela",
@@ -1273,9 +1383,10 @@
         },
         "04": {
             "artist": "Greg Geezy",
-            "ratio": 5,
+            "ratio": -1,
             "title": "It's Going Down (Unreleased)",
-            "trackid": "1Jd2du6L6QySauaZQbQ7El"
+            "trackid": "1Jd2du6L6QySauaZQbQ7El",
+            "uri": ""
         },
         "05": {
             "artist": "Lil Durk",

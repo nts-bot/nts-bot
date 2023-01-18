@@ -3118,6 +3118,112 @@
             "title": "Don’t Be So Mean"
         }
     },
+    "black-impulse-14th-january-2023": {
+        "00": {
+            "artist": "MELTING HAND",
+            "title": "EARTH"
+        },
+        "01": {
+            "artist": "Led Zeppelin",
+            "title": "No Quarter "
+        },
+        "02": {
+            "artist": "BOWIE",
+            "title": "SHE SHOOK ME COLD"
+        },
+        "03": {
+            "artist": "GARY NEWMAN",
+            "title": "METAL"
+        },
+        "04": {
+            "artist": "ELECTRIC WIZARD",
+            "title": "DESTROY THOSE WHO"
+        },
+        "05": {
+            "artist": "NILSSON SHMILSSON",
+            "title": "JUMP INTO THE FIRE"
+        },
+        "06": {
+            "artist": "Spacemen 3",
+            "title": "Walkin' With Jesus"
+        },
+        "07": {
+            "artist": "Death",
+            "title": "The Masks"
+        },
+        "08": {
+            "artist": "Psychick Television",
+            "title": "Catalan"
+        },
+        "09": {
+            "artist": "Throbbing Gristle",
+            "title": "Five Knuckle Shuffle"
+        },
+        "10": {
+            "artist": "Monster Magnet",
+            "title": "Nod Scene"
+        },
+        "11": {
+            "artist": "EVIL ACID HEAD",
+            "title": "IN THE NAME OF ALL THAT IS UNHOLY"
+        },
+        "12": {
+            "artist": "The Strawberry Alarm Clock",
+            "title": "Incense And Peppermints"
+        },
+        "13": {
+            "artist": "The Byrds",
+            "title": "You Won't Have To Cry"
+        },
+        "14": {
+            "artist": "Buffalo Springfield",
+            "title": "Mr. Soul"
+        },
+        "15": {
+            "artist": "ALICE COOPER",
+            "title": "SEVEN AND SEVEN IS"
+        },
+        "16": {
+            "artist": "TED BUNDY",
+            "title": "BRAINDEAD"
+        },
+        "17": {
+            "artist": "PIL",
+            "title": "ANOTHER"
+        },
+        "18": {
+            "artist": "MARIAN FAITHFUL",
+            "title": "BROKEN ENGLISH"
+        },
+        "19": {
+            "artist": "Thin Lizzy",
+            "title": "Dear Lord"
+        },
+        "20": {
+            "artist": "Funkadelic",
+            "title": "Maggot Brain"
+        },
+        "21": {
+            "artist": "Van Halen",
+            "title": "Outta Love Again"
+        },
+        "22": {
+            "artist": "PENTANGLE",
+            "title": "PROMISE OF SPRING"
+        },
+        "23": {
+            "artist": "BEEFHEART",
+            "title": "CLICK CLACK"
+        },
+        "24": {
+            "artist": "THE ASTEROID #4",
+            "title": "SORRY WAY TO GO"
+        },
+        "25": {
+            "artist": "BONG",
+            "title": "THOUGHT AND EXISTENCE"
+        }
+    },
     "black-impulse-14th-may-2016": {
         "00": {
             "artist": "Batti Mamzelle",
@@ -5917,6 +6023,116 @@
         "22": {
             "artist": "Thin Lizzy",
             "title": "Wild One"
+        }
+    },
+    "black-impulse-19th-november-2022": {
+        "00": {
+            "artist": "The Shits",
+            "title": "Piglets"
+        },
+        "01": {
+            "artist": "Red Lorry Yellow Lorry",
+            "title": "Hollow Eyes"
+        },
+        "02": {
+            "artist": "Big Black",
+            "title": "L Dopa"
+        },
+        "03": {
+            "artist": "Big Black",
+            "title": "Precious Thing"
+        },
+        "04": {
+            "artist": "Kilslug",
+            "title": "Make It Rain"
+        },
+        "05": {
+            "artist": "Christian Death",
+            "title": "Romeo’s Distress (Demo 1981)"
+        },
+        "06": {
+            "artist": "The Gun Club",
+            "title": "Yellow Eyes"
+        },
+        "07": {
+            "artist": "Larry Wallis",
+            "title": "Police Car"
+        },
+        "08": {
+            "artist": "Black Flag",
+            "title": "Rat's Eyes"
+        },
+        "09": {
+            "artist": "Hawkwind",
+            "title": "It’s So Easy"
+        },
+        "10": {
+            "artist": "Captain Beefheart",
+            "title": "Electricity"
+        },
+        "11": {
+            "artist": "Flipper",
+            "title": "I Saw You Shine"
+        },
+        "12": {
+            "artist": "The Shits",
+            "title": "Jackal"
+        },
+        "13": {
+            "artist": "AC/DC",
+            "title": "Bad Boy Boogie"
+        },
+        "14": {
+            "artist": "The Stooges",
+            "title": "Dirt"
+        },
+        "15": {
+            "artist": "Iggy Pop",
+            "title": "China Girl"
+        },
+        "16": {
+            "artist": "Alice Cooper",
+            "title": "I'm Eighteen"
+        },
+        "17": {
+            "artist": "Alice Cooper",
+            "title": "Ballad Of Dwight Fry"
+        },
+        "18": {
+            "artist": "Brainbombs",
+            "title": "Driving Through Leeds"
+        },
+        "19": {
+            "artist": "Black Sabbath",
+            "title": "Snowblind"
+        },
+        "20": {
+            "artist": "Rabit, ",
+            "title": "Black Dragons"
+        },
+        "21": {
+            "artist": "The Damned",
+            "title": "Neat Neat Neat"
+        },
+        "22": {
+            "artist": "Danzig",
+            "title": "Twist Of Cain"
+        },
+        "23": {
+            "artist": "The Misfits",
+            "title": "Where Eagles Dare"
+        },
+        "24": {
+            "artist": "The Cult",
+            "title": "She Sells Sanctuary"
+        },
+        "25": {
+            "artist": "The Style Council",
+            "title": "Long Hot Summer"
+        },
+        "26": {
+            "artist": "Blightcaster",
+            "title": "Weaponised Banter"
         }
     },
     "black-impulse-19th-september-2015": {

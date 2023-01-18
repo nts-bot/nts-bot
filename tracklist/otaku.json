@@ -305,7 +305,7 @@
             "title": "Yume 2kki OST_ Main Menu"
         }
     },
-    "ostaku-legend-of-zelda-1st-may-2021": {},
+    "ostaku-legend-of-zelda-1st-may-2021": "",
     "otaku-16th-august-2022": {
         "00": {
             "artist": "Nobuo Uematsu",
@@ -822,8 +822,155 @@
             "title": "Brawl Of Hendon Myre OST"
         }
     },
-    "otaku-christmas-24th-december-2022": {},
-    "otaku-nier-25th-august-2021": {},
+    "otaku-christmas-24th-december-2022": {
+        "00": {
+            "artist": "Maternity Sky",
+            "title": "Masakatsu Takagi"
+        },
+        "01": {
+            "artist": "Tenshi No Inori",
+            "title": "Digimon Adventure OST"
+        },
+        "02": {
+            "artist": "Christmas Bash",
+            "title": "Pokemon"
+        },
+        "03": {
+            "artist": "Tomoyo Daidouji Yorokobi No Carol 歓びのキャロル (Junko Iwao)",
+            "title": "Cardcaptor Sakura"
+        },
+        "04": {
+            "artist": "Waltz Of The Ornaments Christmas 2019",
+            "title": "Ghibli Orchestra"
+        },
+        "05": {
+            "artist": "Shigatsu Wa Kimi No Uso",
+            "title": "Otouto Mitai Na Sonzai"
+        },
+        "06": {
+            "artist": "Bracha",
+            "title": "Michiru Oshima"
+        },
+        "07": {
+            "artist": "Winter Fireworks Arrange 冬の花火",
+            "title": "[Beautiful Soundtracks] Kanon 2006 OST"
+        },
+        "08": {
+            "artist": "Christmas Event",
+            "title": "[2ch] Yume 2kki"
+        },
+        "09": {
+            "artist": "OST Otouto Mitai Na Sonzai. Merry Christmas Day!!",
+            "title": "Shigatsu Wa Kimi No Uso"
+        },
+        "10": {
+            "artist": "OST",
+            "title": "Tokyo Godfathers"
+        },
+        "11": {
+            "artist": "Christmas Eve (Live)",
+            "title": "Tatsuro Yamashita(山下達郎)"
+        },
+        "12": {
+            "artist": "Christmas In October(10月のクリスマス)",
+            "title": "Yui Asaka(浅香唯)"
+        },
+        "13": {
+            "artist": "Yuki No Hana",
+            "title": "Hanatan"
+        },
+        "14": {
+            "artist": "CHRISTMAS CALENDAR",
+            "title": "ANRI"
+        }
+    },
+    "otaku-emotional-jrpg-music-12th-january-2023": {
+        "00": {
+            "artist": "Nobuo Uematsu",
+            "title": "To Zanarkand"
+        },
+        "01": {
+            "artist": "Ryo Takeshita",
+            "title": "Shine Of Eidos"
+        },
+        "02": {
+            "artist": "Yoko Shimomura",
+            "title": "Xenoblade Main Theme"
+        },
+        "03": {
+            "artist": "Nobuo Uematsu",
+            "title": "Tifa’s Theme"
+        },
+        "04": {
+            "artist": "Nobuo Uematsu",
+            "title": "Julia"
+        },
+        "05": {
+            "artist": "Nobuo Uematsu",
+            "title": "Battle Theme"
+        },
+        "06": {
+            "artist": "Nobuo Uematsu",
+            "title": "Terra's Theme"
+        },
+        "07": {
+            "artist": "Tomoki Miyoshi",
+            "title": "Tender Glow"
+        },
+        "08": {
+            "artist": "久石譲",
+            "title": "In Loving Memory Of Allie"
+        },
+        "09": {
+            "artist": "Yasunori Mitsuda",
+            "title": "Lost... Broken Shards"
+        },
+        "10": {
+            "artist": "Yasunori Mitsuda, ",
+            "title": "時の傷痕 ～ハジマリノ　鼓動～ / Time's Scar"
+        },
+        "11": {
+            "artist": "Yasunori Mitsuda, ",
+            "title": "風の憧憬 / Wind Scene"
+        },
+        "12": {
+            "artist": "Yoko Shimomura",
+            "title": "Where The Wind And Feathers Return"
+        },
+        "13": {
+            "artist": "Masashi Hamauzu",
+            "title": "The Promise"
+        },
+        "14": {
+            "artist": "Nobuo Uematsu",
+            "title": "Final Battle"
+        },
+        "15": {
+            "artist": "Go Shiina",
+            "title": "The Melody Of Water Is The Guide In Spiritual Mist"
+        },
+        "16": {
+            "artist": "Hiroki Morishita",
+            "title": "Lost In Thoughts All Alone"
+        },
+        "17": {
+            "artist": "Yasunori Mitsuda",
+            "title": "Soma Bringer"
+        },
+        "18": {
+            "artist": "Jun'ichi Masuda, ",
+            "title": "Oceanic Museum"
+        },
+        "19": {
+            "artist": "Yasunori Mitsuda",
+            "title": "Reminiscence ~Feelings Not Erased"
+        },
+        "20": {
+            "artist": "Shogo Sakai",
+            "title": "A Certain Someone’s Memories (Pollyanna)"
+        }
+    },
+    "otaku-nier-25th-august-2021": "",
     "otaku-ode-to-dreamcast-vol-1-18th-july-2022": {
         "00": {
             "artist": "E.G.G Music",

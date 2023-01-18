@@ -1315,6 +1315,464 @@
             "s1": ""
         }
     },
+    "leila-samir-15th-january-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "David Milligan",
+                    "title": "Did You Used To Be R.D. Laing?",
+                    "uri": "4X0CJ5uhLF1uXc6QOabX0C"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "David Milligan",
+                    "title": "Did You Used To Be R.D. Laing?",
+                    "uri": "4X0CJ5uhLF1uXc6QOabX0C"
+                },
+                {
+                    "artist": "David Milligan",
+                    "title": "The Cure",
+                    "uri": "2mUrhX5hNc4CcpeK6dW61j"
+                },
+                {
+                    "artist": "David Miller",
+                    "title": "Restless",
+                    "uri": "6dBlKzpr211gnJk6tm02Eb"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Thelonious Monk",
+                    "title": "I Surrender, Dear",
+                    "uri": "6a5JQ6x25CwCqprgXZz0nY"
+                },
+                {
+                    "artist": "Thelonious Monk",
+                    "title": "I Surrender, Dear",
+                    "uri": "3zhTCpKwIqdQMmmFg7Bnrf"
+                },
+                {
+                    "artist": "Thelonious Monk",
+                    "title": "I Surrender, Dear",
+                    "uri": "5Di7WT1rz8KYNCmfY3yWLV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Thelonious Monk",
+                    "title": "I Surrender, Dear",
+                    "uri": "3zhTCpKwIqdQMmmFg7Bnrf"
+                },
+                {
+                    "artist": "Thelonious Monk",
+                    "title": "I Surrender, Dear",
+                    "uri": "5Di7WT1rz8KYNCmfY3yWLV"
+                },
+                {
+                    "artist": "Céline Dion",
+                    "title": "I Surrender",
+                    "uri": "67VjdDhTa5jzQxHGe6f26r"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Bill Evans",
+                    "title": "Everything Happens To Me",
+                    "uri": "57sVO6wB3QfTooKv4d0nSO"
+                },
+                {
+                    "artist": "Bill Evans",
+                    "title": "Everything Happens To Me",
+                    "uri": "2aJIu6pGibr01KUEvzq99y"
+                },
+                {
+                    "artist": "Bill Evans",
+                    "title": "Everything Happens To Me",
+                    "uri": "412JIZADfraDRpmDU3KLyF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bill Evans",
+                    "title": "Everything Happens To Me",
+                    "uri": "2aJIu6pGibr01KUEvzq99y"
+                },
+                {
+                    "artist": "Bill Evans",
+                    "title": "Everything Happens To Me",
+                    "uri": "57sVO6wB3QfTooKv4d0nSO"
+                },
+                {
+                    "artist": "Bill Evans",
+                    "title": "Skating In Central Park",
+                    "uri": "1cpANF6zMBoFoxkoIjZHjv"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kenny Drew Trio",
+                    "title": "Stella By Starlight",
+                    "uri": "2bm0Cr8Gol4hqV1UGEk0GW"
+                },
+                {
+                    "artist": "Jon Belle",
+                    "title": "If You Could See Me Now",
+                    "uri": "53BeSVY0mpmucCIr0pDkPp"
+                },
+                {
+                    "artist": "The Script",
+                    "title": "If You Could See Me Now",
+                    "uri": "6EzSy7WxNCazx3csu7lxdV"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Coleman Hawkins",
+                    "title": "Cocktails For Two",
+                    "uri": "50ijZUy4vc2q9Pm12q5F7K"
+                },
+                {
+                    "artist": "Coleman Hawkins",
+                    "title": "Cocktails For Two",
+                    "uri": "5ltViL41FHqPq4SJFlr1Dp"
+                },
+                {
+                    "artist": "Coleman Hawkins",
+                    "title": "Cocktails For Two",
+                    "uri": "3jgmF5glGizSxsgaOQ1CN9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Coleman Hawkins",
+                    "title": "Cocktails For Two",
+                    "uri": "50ijZUy4vc2q9Pm12q5F7K"
+                },
+                {
+                    "artist": "Coleman Hawkins",
+                    "title": "You'd Be So Nice To Come Home To",
+                    "uri": "5eJ90rBnkUv7PqxgTExfvd"
+                },
+                {
+                    "artist": "Coleman Hawkins",
+                    "title": "It Never Entered My Mind",
+                    "uri": "6PKCEB5JzjCizpz9hUQcpX"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Erroll Garner",
+                    "title": "I’m in the Mood for Love (From \"Manhattan Murder Mystery\")",
+                    "uri": "6aslHxhgVS6aqJAwvxlL1t"
+                },
+                {
+                    "artist": "Erroll Garner",
+                    "title": "I’m in the Mood for Love",
+                    "uri": "4jSrmrVwWE4lsIg4DGMbb0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Erroll Garner",
+                    "title": "I'm In The Mood For Love",
+                    "uri": "50G4bmpZt73jslY5PzymvY"
+                },
+                {
+                    "artist": "Erroll Garner",
+                    "title": "I'm In the Mood for Love",
+                    "uri": "6H4tFeG7D05ZJQggaEbGyV"
+                },
+                {
+                    "artist": "Erroll Garner",
+                    "title": "Misty - Remastered 2020",
+                    "uri": "2yiISACbYnL2hApy1ffKKs"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Thelonious Monk",
+                    "title": "'Round Midnight",
+                    "uri": "1wl5b2lw3YagQtZiYZbQWP"
+                },
+                {
+                    "artist": "Thelonious Monk",
+                    "title": "'Round Midnight",
+                    "uri": "6RchGVTBAzIHhbWaWjN5vY"
+                },
+                {
+                    "artist": "Thelonious Monk",
+                    "title": "'Round Midnight",
+                    "uri": "2h33iqW8QVkXpdWRRiC5qc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Thelonious Monk",
+                    "title": "'Round Midnight",
+                    "uri": "1wl5b2lw3YagQtZiYZbQWP"
+                },
+                {
+                    "artist": "Miles Davis",
+                    "title": "'Round Midnight (feat. Thelonious Monk, Zoot Sims, Gerry Mulligan, Percy Heath & Connie Kay) - Live at the Newport Jazz Festival, Newport, RI - July 1955",
+                    "uri": "5Hhxu8Y9jIu3IqaFsbQZ6D"
+                },
+                {
+                    "artist": "Cootie Williams",
+                    "title": "Monk / Williams / Arr Barnett : Round Midnight",
+                    "uri": "17xASYcJtLliYExz0U0Dwg"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chet Baker",
+                    "title": "I'm Glad There Is You",
+                    "uri": "2f9Dlgspdb3AnbsmHL9a48"
+                },
+                {
+                    "artist": "Chet Baker",
+                    "title": "I'm Glad There Is You - Remaster/2004",
+                    "uri": "3P3S3sKYRZpm3Dc87VVKSy"
+                },
+                {
+                    "artist": "Chet Baker",
+                    "title": "My Funny Valentine",
+                    "uri": "4l9hml2UCnxoNI3yCdL1BW"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Horace Parlan",
+                    "title": "My foolish heart",
+                    "uri": "5dhgrt2is9rFBuEKtwBPdU"
+                },
+                {
+                    "artist": "Horace Parlan",
+                    "title": "My Foolish Heart",
+                    "uri": "0J5dOe43eZaacgm4iMrKxK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Horace Parlan",
+                    "title": "My foolish heart",
+                    "uri": "5dhgrt2is9rFBuEKtwBPdU"
+                },
+                {
+                    "artist": "Horace Parlan",
+                    "title": "Congalegre",
+                    "uri": "547xPOmLdBpM4X9B2lIW8B"
+                },
+                {
+                    "artist": "Carmen McRae",
+                    "title": "My Foolish Heart",
+                    "uri": "6gEIFDwEixJQy6DbxToS77"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Hazel Scott",
+                    "title": "Embraceable You",
+                    "uri": "4CSBrkrbHKnzxlRGwacFMf"
+                },
+                {
+                    "artist": "Hazel Scott",
+                    "title": "Embraceable You",
+                    "uri": "1tQoI7cOmMSVjD14ePowCy"
+                },
+                {
+                    "artist": "Hazel Scott",
+                    "title": "Embraceable You (Original Mix)",
+                    "uri": "1flGhWKgtFdJnURIDyq0JW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hazel Scott",
+                    "title": "Embraceable You",
+                    "uri": "4CSBrkrbHKnzxlRGwacFMf"
+                },
+                {
+                    "artist": "Hazel Scott",
+                    "title": "Just Imagine",
+                    "uri": "4q8GSPHJ6uS2rpL21uLC2k"
+                },
+                {
+                    "artist": "Hazel Scott",
+                    "title": "I Wish I Didn't Love You So",
+                    "uri": "2IMApvZmSgoLZgbtZTCgn0"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Hadda Brooks",
+                    "title": "Blue Mood",
+                    "uri": "1F7m9CmeNngjEnBgaIa9IJ"
+                },
+                {
+                    "artist": "Hadda Brooks",
+                    "title": "Blue Mood",
+                    "uri": "0QB0VyMzpmqp1uz2jJacLQ"
+                },
+                {
+                    "artist": "Hadda Brooks",
+                    "title": "Blue Mood",
+                    "uri": "0yp9hkqJn0Zg0PK25vl4Ve"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hadda Brooks",
+                    "title": "Blue Mood",
+                    "uri": "1F7m9CmeNngjEnBgaIa9IJ"
+                },
+                {
+                    "artist": "Randy Crawford",
+                    "title": "Blue Mood",
+                    "uri": "5K4fH3vhsO1nlvmk3LaVnw"
+                },
+                {
+                    "artist": "Hadda Brooks",
+                    "title": "Them There Eyes",
+                    "uri": "2BrhVo4QPT4A3ypeclqQf1"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Duke Pearson",
+                    "title": "Black Coffee",
+                    "uri": "6zoe2w8ubQOTM7XFGU2tUE"
+                },
+                {
+                    "artist": "Duke Pearson",
+                    "title": "Have Yourself A Merry Little Christmas",
+                    "uri": "7z0Azh6QALRhIifBF1yZYK"
+                },
+                {
+                    "artist": "Duke Pearson",
+                    "title": "Silent Night",
+                    "uri": "27N4Y24PdcXZtR4IJ40Fhz"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Horace Parlan",
+                    "title": "It Could Happen to You - Remastered",
+                    "uri": "2UZCJGMzmLfzzMjPgRQhMS"
+                },
+                {
+                    "artist": "Horace Parlan",
+                    "title": "It Could Happen to You",
+                    "uri": "2VLnJcwNU20Vnu6mnfO5ll"
+                },
+                {
+                    "artist": "Horace Parlan",
+                    "title": "It Could Happen To You",
+                    "uri": "7Byhx4xvQtq6c0WhJQEIWE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Horace Parlan",
+                    "title": "It Could Happen to You - Remastered",
+                    "uri": "2UZCJGMzmLfzzMjPgRQhMS"
+                },
+                {
+                    "artist": "Horace Parlan",
+                    "title": "Congalegre",
+                    "uri": "547xPOmLdBpM4X9B2lIW8B"
+                },
+                {
+                    "artist": "Archie Shepp",
+                    "title": "Goin' home",
+                    "uri": "6GGw7oDAQUbDWkhqkedR36"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Hampton Hawes Trio",
+                    "title": "All The Things You Are",
+                    "uri": "49urR10kp9wLLtaEqWVZFQ"
+                },
+                {
+                    "artist": "Hampton Hawes",
+                    "title": "All the Things You Are",
+                    "uri": "7xc9tmENHrtYuqMLH1GGqU"
+                },
+                {
+                    "artist": "Hampton Hawes Trio",
+                    "title": "All The Things You Are",
+                    "uri": "5T3F8cO0Z9zX5LY249zTlp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hampton Hawes Trio",
+                    "title": "All The Things You Are",
+                    "uri": "49urR10kp9wLLtaEqWVZFQ"
+                },
+                {
+                    "artist": "Hampton Hawes",
+                    "title": "All the Things You Are",
+                    "uri": "4S9GBGPPchV98CL4yxHvWF"
+                },
+                {
+                    "artist": "Oscar Peterson Trio",
+                    "title": "All the Things You Are - Remastered",
+                    "uri": "3TSdkwPeUfvgLwNTF8gfC0"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ahmed Abdul-Malik",
+                    "title": "La Ibkey",
+                    "uri": "10ikmyF6qfbtt8yzyazvb9"
+                },
+                {
+                    "artist": "Ahmed Abdul-Malik",
+                    "title": "La Ibkey - Instrumental",
+                    "uri": "76Yia4ytzMbD07LyokLivr"
+                },
+                {
+                    "artist": "Ahmed Malek",
+                    "title": "Maya",
+                    "uri": "7JTuEIBZuE356hMGiF8Yy9"
+                }
+            ]
+        }
+    },
     "leila-samir-16th-november-2019": {
         "00": {
             "s0": "",

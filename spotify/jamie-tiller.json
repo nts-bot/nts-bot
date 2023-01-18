@@ -483,9 +483,10 @@
         },
         "09": {
             "artist": "Hunter",
-            "ratio": 4,
+            "ratio": -1,
             "title": "untitled_1",
-            "trackid": "063ac00V0P0Vm6Y99yPldT"
+            "trackid": "063ac00V0P0Vm6Y99yPldT",
+            "uri": ""
         }
     },
     "jamie-tiller-20th-december-2021": {
@@ -1167,6 +1168,104 @@
             "ratio": 9,
             "title": "Adam In Chains",
             "trackid": "6eq56UwpgqBU95GGS82vjj"
+        }
+    },
+    "jamie-tiller-26th-september-2022": {
+        "00": {
+            "artist": "Solomun",
+            "ratio": 7,
+            "title": "Cloud Dancer",
+            "trackid": "5TK1L67yf2Uk707UiBI9C4"
+        },
+        "01": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "02": {
+            "artist": "Purelink",
+            "ratio": 9,
+            "title": "Butterfly Jam - xphresh Good Girl No Infringement dub",
+            "trackid": "04ChJvV3Yt1LNQOaymf41u"
+        },
+        "03": {
+            "artist": "Groove Coverage",
+            "ratio": 4,
+            "title": "Moonlight Shadow - Original Mix",
+            "trackid": "2bd1FeFKgVACAUhcuyf9cC"
+        },
+        "04": {
+            "artist": "33.10.3402",
+            "ratio": 9,
+            "title": "Iz Usta",
+            "trackid": "5F6suK1XZQ07tJwKLGqrVt"
+        },
+        "05": {
+            "artist": "Higher Intelligence Agency",
+            "ratio": 9,
+            "title": "Delta",
+            "trackid": "62ne0kUEsgXPTFIbX7fdOH"
+        },
+        "06": {
+            "artist": "BAKI",
+            "ratio": 3,
+            "title": "Telephone (Hardstyle) - Sped Up",
+            "trackid": "6qaEHjZqWNoBcyuhQ5NQ5x"
+        },
+        "07": {
+            "artist": "DJRJ",
+            "ratio": 9,
+            "title": "Kamlee da Dhola (Hip-Hop Mix)",
+            "trackid": "4XVCq7m2t3BrfgUbu9B00o"
+        },
+        "08": {
+            "artist": "Lio",
+            "ratio": 9,
+            "title": "The Girl from Ipanema - Radio Mix",
+            "trackid": "3yB7meAFdpOsgqksvzcIXL"
+        },
+        "09": {
+            "artist": "2xxx",
+            "ratio": 4,
+            "title": "rfrff",
+            "trackid": "6bLM8vtlzO9rWaxNNKVGki"
+        },
+        "10": {
+            "artist": "Udumakahle",
+            "ratio": 4,
+            "title": "Ngiqoka inja",
+            "trackid": "1yieMQEkOooqrnDmKq1V3N"
+        },
+        "11": {
+            "artist": "Sebastian Gampl",
+            "ratio": 4,
+            "title": "Midnight Run",
+            "trackid": "0f49rlkhrHcAHwGCde5sfi"
+        },
+        "12": {
+            "artist": "Air",
+            "ratio": 4,
+            "title": "Sexy Boy - Etienne de Crécy & the Flower Pistols Remix",
+            "trackid": "2HJggO1iSn6IpPhJZ5iVMX"
+        },
+        "13": {
+            "artist": "DTR",
+            "ratio": 9,
+            "title": "How Many Times? (Unity) - Free Flight",
+            "trackid": "0HhmJprukuJ1Tz2Qu9cETj"
+        },
+        "14": {
+            "artist": "Timeless",
+            "ratio": 3,
+            "title": "Anti",
+            "trackid": "4DerARwLXK4ZTMhicWJ1DD"
+        },
+        "15": {
+            "artist": "Carl Craig",
+            "ratio": 9,
+            "title": "As Time Goes By (Sitting Under A Tree)",
+            "trackid": "3nmsJ2zI6AiXtuDXlQnZpb"
         }
     },
     "jamie-tiller-27th-september-2021": {
