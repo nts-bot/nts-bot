@@ -3898,6 +3898,106 @@
             "trackid": "2mEb5O579Ctj4sYqfkJSZd"
         }
     },
+    "debonair-18th-january-2023": {
+        "00": {
+            "artist": "Unknown",
+            "ratio": -1,
+            "title": "Jump - Unknown Remix",
+            "trackid": "3pQ5aj9I7PNpBuOe9PED0J",
+            "uri": ""
+        },
+        "01": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "02": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "03": {
+            "artist": "Pastel Ghost",
+            "ratio": 0,
+            "title": "Embrace",
+            "trackid": "1PZeAjfBkRX2J7bN5o1KQ1"
+        },
+        "04": {
+            "artist": "HTRK",
+            "ratio": 9,
+            "title": "Real Headfuck",
+            "trackid": "5wPKpBJ0iNq8yPTPZWfK5B"
+        },
+        "05": {
+            "artist": "Zbigniew Preisner",
+            "ratio": 5,
+            "title": "Officium",
+            "trackid": "0BVYCvYN8z47PffPpi6Ssv"
+        },
+        "06": {
+            "artist": "Secret Werewolf",
+            "ratio": 9,
+            "title": "Yage - Mixed",
+            "trackid": "0KrMF81ywPsT2iRtLGVG0A"
+        },
+        "07": {
+            "artist": "Assemblage 23",
+            "ratio": -1,
+            "title": "Love My Way (1998)",
+            "trackid": "0RpvCsAbMvboOyF8rfLhob",
+            "uri": ""
+        },
+        "08": {
+            "artist": "Koehler",
+            "ratio": 9,
+            "title": "Spiral Light",
+            "trackid": "2ra1TaFXk6XcxC8fgwmOeP"
+        },
+        "09": {
+            "artist": "Saturn Citizen",
+            "ratio": 4,
+            "title": "Entrax",
+            "trackid": "0Dtcq6GrTJ62IEXk3WztEq"
+        },
+        "10": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "11": {
+            "artist": "ZULI",
+            "ratio": 9,
+            "title": "Trigger Finger",
+            "trackid": "3hNvwpp9IQKuEBFyUuAIGN"
+        },
+        "12": {
+            "artist": "Nkisi",
+            "ratio": 3,
+            "title": "Phantasia",
+            "trackid": "0GloEXop3l962rtUUW8lkE"
+        },
+        "13": {
+            "artist": "Cloudsteppers",
+            "ratio": 9,
+            "title": "Slinky Bork",
+            "trackid": "3YsaNxfju6H25zJQnt1RhJ"
+        },
+        "14": {
+            "artist": "Blawan",
+            "ratio": 9,
+            "title": "Many Many Pings",
+            "trackid": "102QcZSplPAxBgw6IctPO0"
+        },
+        "15": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        }
+    },
     "debonair-18th-july-2019": {
         "00": {
             "artist": "Joseph G.",
@@ -7659,9 +7759,10 @@
         },
         "06": {
             "artist": "Feid",
-            "ratio": 4,
+            "ratio": -1,
             "title": "JORDAN IV",
-            "trackid": "5ZyNCQmxZlYZfAHeJXTkI2"
+            "trackid": "5ZyNCQmxZlYZfAHeJXTkI2",
+            "uri": ""
         },
         "07": {
             "artist": "",

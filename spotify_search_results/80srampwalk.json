@@ -1857,6 +1857,220 @@
             ]
         }
     },
+    "80-s-rampwalk-18th-january-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Andrew Laltlankima",
+                    "title": "Zurui Tawngtaina",
+                    "uri": "4pbAWDUrl9lz9FV9zJsGFy"
+                },
+                {
+                    "artist": "Andrew Kingslow",
+                    "title": "Then I Found You",
+                    "uri": "2nS1nGyA4j0Yjsn69hnHMA"
+                },
+                {
+                    "artist": "Andrew Iliff",
+                    "title": "Scourge Of Despair",
+                    "uri": "3k6C9g6iSa6s3JldpY5KM9"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Carambolage",
+                    "title": "Johnny",
+                    "uri": "1JfvKtkIiKwA761aF76QTZ"
+                },
+                {
+                    "artist": "Carambolage",
+                    "title": "Johnny",
+                    "uri": "1EK6ZU2Sl17M8EQ7PL8gRx"
+                }
+            ],
+            "s1": ""
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Disturbed",
+                    "title": "I Don't Believe",
+                    "uri": "1sBuB8sluG5OD6iWOWJySl"
+                }
+            ],
+            "s1": ""
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Top Of The Poppers",
+                    "title": "Death Disco",
+                    "uri": "5tEw24krmj5UW4bbCjeXxy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Kinks",
+                    "title": "Top of the Pops - 2020 Stereo Remaster",
+                    "uri": "6WE9fGxNfxAeHUjIsMlFOh"
+                },
+                {
+                    "artist": "Top Of The Poppers",
+                    "title": "King Of The Cops",
+                    "uri": "39SgNeF5y4XafTjCdsa94k"
+                },
+                {
+                    "artist": "The Kinks",
+                    "title": "Top of the Pops - Live at Carnegie Hall, New York, 3rd March 1972; 2022 Remaster",
+                    "uri": "74Q6LNU4WSjSdfFDPRZfUl"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": ""
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jean du Voyage",
+                    "title": "Untitled",
+                    "uri": "46Yno23oC4DjdkmgacPOMR"
+                },
+                {
+                    "artist": "Uno Hype",
+                    "title": "Untitled",
+                    "uri": "1MNGE3oaU4u6O4lMSlHFBp"
+                },
+                {
+                    "artist": "GEDOMAZO",
+                    "title": "Untitled",
+                    "uri": "5p535OJF833LuJByWSqYhy"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Mission Of Burma",
+                    "title": "Academy Fight Song",
+                    "uri": "7jOWRM3Me16IP99EqgZzHN"
+                },
+                {
+                    "artist": "Mission Of Burma",
+                    "title": "Academy Fight Song",
+                    "uri": "7sXuWpgGnMy4phFgCyo8jk"
+                },
+                {
+                    "artist": "Mission Of Burma",
+                    "title": "Academy Fight Song - Live",
+                    "uri": "0nEJZ7xRPqw9rXJCBTABEo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mission Of Burma",
+                    "title": "Academy Fight Song",
+                    "uri": "7jOWRM3Me16IP99EqgZzHN"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Tommi Stumpff",
+                    "title": "Zu spät",
+                    "uri": "2BDXFMHvq5NmVy5geDvMkY"
+                }
+            ],
+            "s1": ""
+        },
+        "08": {
+            "s0": "",
+            "s1": ""
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "He Said",
+                    "title": "Watch Take Care",
+                    "uri": "3FfCG6nLTRdKSOgKv2fjZv"
+                }
+            ],
+            "s1": ""
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Ohama Meets Dania",
+                    "title": "Lonely Heart Dance",
+                    "uri": "4kM8BrU8laTl2w0G1iHh3G"
+                },
+                {
+                    "artist": "Ohama Meets Dania",
+                    "title": "Lonely Heart Dance (Box Set Version)",
+                    "uri": "2xkKvqaY3TnhKLh9ERJ7dW"
+                },
+                {
+                    "artist": "Ohama Meets Dania",
+                    "title": "Lonely Heart Dance (Box Set Version) - Live",
+                    "uri": "66g7JWqD2lYLv7MDXeZKht"
+                }
+            ],
+            "s1": ""
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Charly García",
+                    "title": "Nos Siguen Pegando Abajo (Pecado Mortal) - Live",
+                    "uri": "2MF6BJDR102bnwMIpsWhOj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Charly García",
+                    "title": "Nos Siguen Pegando Abajo (Pecado Mortal) - Live",
+                    "uri": "2MF6BJDR102bnwMIpsWhOj"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Isabelle Antena",
+                    "title": "Life Is Too Short",
+                    "uri": "04Rj8dGMnumgmviuEpLUNv"
+                },
+                {
+                    "artist": "Antena",
+                    "title": "Life Is Too Short (New Dance 12\")",
+                    "uri": "0lwa2qBtvFTGkbrZ5qrFS0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Scorpions",
+                    "title": "Life Is Too Short - Live",
+                    "uri": "2XBhU3UcOQUGFKAY7s4Jm1"
+                },
+                {
+                    "artist": "Adesha",
+                    "title": "Life's Too Short",
+                    "uri": "6c3vjIqtkVWQkXKS2mD3dO"
+                },
+                {
+                    "artist": "Kai Tracid",
+                    "title": "Life Is Too Short",
+                    "uri": "3Fx10TNMymZHkK2WZ6b9AX"
+                }
+            ]
+        }
+    },
     "80-s-rampwalk-19th-february-2020": {
         "00": {
             "s0": "",

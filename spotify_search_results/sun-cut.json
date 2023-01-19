@@ -4743,6 +4743,180 @@
             ]
         }
     },
+    "sun-cut-16th-january-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Freddie McGregor",
+                    "title": "Big Ship",
+                    "uri": "7IBIZHonObtZG33pkVZZkg"
+                },
+                {
+                    "artist": "Freddie McGregor",
+                    "title": "Big Ship Sailing",
+                    "uri": "1Wv7swXhHQeHpEuOzfpBLg"
+                },
+                {
+                    "artist": "Freddie McGregor",
+                    "title": "Big Ship",
+                    "uri": "6HpjJaxJki9ubKp4aXow8b"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bill Withers",
+                    "title": "Ain't No Sunshine",
+                    "uri": "1k1Bqnv2R0uJXQN4u6LKYt"
+                },
+                {
+                    "artist": "Bill Withers",
+                    "title": "Lovely Day",
+                    "uri": "0bRXwKfigvpKZUurwqAlEh"
+                },
+                {
+                    "artist": "Bill Withers",
+                    "title": "Grandma's Hands",
+                    "uri": "1qfDfZAvrkSAFrAR2FTQDv"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Wes Montgomery",
+                    "title": "A Day In The Life",
+                    "uri": "5FBf12F4ry9TXoZAvISu6F"
+                },
+                {
+                    "artist": "Wes Montgomery",
+                    "title": "In Your Own Sweet Way",
+                    "uri": "392OK8Qdmos0wNDrduiwy0"
+                },
+                {
+                    "artist": "Wes Montgomery",
+                    "title": "While We're Young",
+                    "uri": "6TYTG0Y8dZZHP8EluhrXel"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Leno Phillips",
+                    "title": "Confusion",
+                    "uri": "0iNllPB01sk8hBgu2I93GA"
+                },
+                {
+                    "artist": "Ueno Miki",
+                    "title": "Confusion",
+                    "uri": "6ODLiyXFRdcST11nU5uiB6"
+                },
+                {
+                    "artist": "Edgar Aguilar \"El Narquillo\"",
+                    "title": "Confusion",
+                    "uri": "4YL7gbhT2k14wwDo2YvWyi"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": ""
+        },
+        "05": {
+            "s0": "",
+            "s1": ""
+        },
+        "06": {
+            "s0": "",
+            "s1": ""
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Little Denise Stevenson",
+                    "title": "Hip Breakin",
+                    "uri": "3Ckue1qvEMJI8M1Hz8dt9Q"
+                }
+            ],
+            "s1": ""
+        },
+        "08": {
+            "s0": "",
+            "s1": ""
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Natalie Cole",
+                    "title": "Annie Mae",
+                    "uri": "2mlGuarKHDEM6E5f0P52Kc"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gil Scott-Heron",
+                    "title": "Lady Day and John Coltrane",
+                    "uri": "7aLn70gMnbTCVGoIro42Kd"
+                },
+                {
+                    "artist": "Gil Scott-Heron & Brian Jackson",
+                    "title": "Willing",
+                    "uri": "6g888relhinwZsoINDEtZ6"
+                },
+                {
+                    "artist": "Gil Scott-Heron",
+                    "title": "Gun",
+                    "uri": "0MCEM7WuIw4tS9ih4HGE1S"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": ""
+        },
+        "12": {
+            "s0": "",
+            "s1": ""
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "George Duke",
+                    "title": "Shine On",
+                    "uri": "69IFOdcqRAceXkikTCblWA"
+                },
+                {
+                    "artist": "Ivan Ave",
+                    "title": "George Duke",
+                    "uri": "7kuo8SpSGkn7f3ISWdGcr0"
+                },
+                {
+                    "artist": "George Duke",
+                    "title": "Shine On",
+                    "uri": "7BOAXgaGfRDWwYbUqE5tuQ"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": ""
+        },
+        "15": {
+            "s0": "",
+            "s1": ""
+        }
+    },
     "sun-cut-17th-january-2022": {
         "00": {
             "s0": [
