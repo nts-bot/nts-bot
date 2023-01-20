@@ -1,4 +1,78 @@
 {
+    "sigourney-19th-january-2023": {
+        "00": {
+            "artist": "SIGOURNEY",
+            "title": "Playing On The Kawaii In My Dads Living Room (Recording)"
+        },
+        "01": {
+            "artist": "Dirk Maassen",
+            "title": "Untamed"
+        },
+        "02": {
+            "artist": "Vivaldi, ",
+            "title": "Et In Terra Pax "
+        },
+        "03": {
+            "artist": "Rodrigo Rodriguez",
+            "title": "Shakuhachi Flute"
+        },
+        "04": {
+            "artist": "Toshiko Yonekawa, ",
+            "title": "Sakura Sakura"
+        },
+        "05": {
+            "artist": "Poppy Ackroyd",
+            "title": "Stillness"
+        },
+        "06": {
+            "artist": "Joshua Kyan Aalampour",
+            "title": "The Forsaken Waltz"
+        },
+        "07": {
+            "artist": "Son Sonora String Quartet",
+            "title": "III Allegro Con Brio"
+        },
+        "08": {
+            "artist": "Joep Beving",
+            "title": "Sleeping Lotus"
+        },
+        "09": {
+            "artist": "Stars Of The Lid",
+            "title": "A Meaningful Moment Through A Meaning(less) Process"
+        },
+        "10": {
+            "artist": "African Music Drums Collection",
+            "title": "Spiritual African Chants (Features As An Effect)"
+        },
+        "11": {
+            "artist": "Khachaturian, ",
+            "title": "Waltz"
+        },
+        "12": {
+            "artist": "Elmer Bernstein, ",
+            "title": "Theme From The Age Of Innocence"
+        },
+        "13": {
+            "artist": "Erik Satie, ",
+            "title": "Trois Morceaux En Forme De Poire"
+        },
+        "14": {
+            "artist": "Arvo Pärt, ",
+            "title": "Christe Qui Lux Es Et Dies"
+        },
+        "15": {
+            "artist": "Nikolai Medtner, ",
+            "title": "Romantic Sketches for the Young, Op. 54"
+        },
+        "16": {
+            "artist": "Nikolai Medtner, ",
+            "title": "Romantic Sketches for the Young, Op. 54"
+        },
+        "17": {
+            "artist": "Bella Chen",
+            "title": "You See"
+        }
+    },
     "sigourney-1st-september-2022": {
         "00": {
             "artist": "Joshua Kyan Aalampour",
@@ -53,7 +127,56 @@
             "title": "Behind The Clouds"
         }
     },
-    "sigourney-22nd-december-2022": "",
+    "sigourney-22nd-december-2022": {
+        "00": {
+            "artist": "Hans Zimmer",
+            "title": "Cornfield Chase"
+        },
+        "01": {
+            "artist": "Ryuichi Sakamoto",
+            "title": "Merry Christmas Mr. Lawrence"
+        },
+        "02": {
+            "artist": "Franz Liszt",
+            "title": "Consolation No. 3, S. 172. Lento Placido"
+        },
+        "03": {
+            "artist": "F. Chopin",
+            "title": "Waltz In C Sharp Minor, Opus 64 No. 2"
+        },
+        "04": {
+            "artist": "Heinali",
+            "title": "Sway, Sway"
+        },
+        "05": {
+            "artist": "Federico Albanese",
+            "title": "We Hold The Moonlight"
+        },
+        "06": {
+            "artist": "I Fagiolini, ",
+            "title": "Lamento Della Ninfa"
+        },
+        "07": {
+            "artist": "Bernhard Hofstötter",
+            "title": "Passacaglia"
+        },
+        "08": {
+            "artist": "Vladimir Ashkenazy, ",
+            "title": "Morceaux De Fantasie, Op.3"
+        },
+        "09": {
+            "artist": "Vanessa Wagner",
+            "title": "Celeste"
+        },
+        "10": {
+            "artist": "Claude Debussy, ",
+            "title": "La Cathedral Engloutie L.117"
+        },
+        "11": {
+            "artist": "Reeder",
+            "title": "Time"
+        }
+    },
     "sigourney-24th-november-2022": {
         "00": {
             "artist": "Taracea",

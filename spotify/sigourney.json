@@ -1,4 +1,114 @@
 {
+    "sigourney-19th-january-2023": {
+        "00": {
+            "artist": "Sigurjón Georg Ingibjörnsson",
+            "ratio": 4,
+            "title": "Angel",
+            "trackid": "6qhB85Fuh5Td4z9EkjNvg3"
+        },
+        "01": {
+            "artist": "Dirk Maassen",
+            "ratio": 9,
+            "title": "Untamed",
+            "trackid": "3roBS63XFt2vKRwGYF9Kyt"
+        },
+        "02": {
+            "artist": "Antonio Vivaldi",
+            "ratio": 5,
+            "title": "Gloria, R. 589: Et in terra pax hominibus",
+            "trackid": "50lLJQQNDlAQ6HNgg34oqo"
+        },
+        "03": {
+            "artist": "Rodrigo Rodriguez",
+            "ratio": 9,
+            "title": "Asian Sunrise (Shakuhachi Flute)",
+            "trackid": "1pbOvJZGRXLdvXiu35szd6"
+        },
+        "04": {
+            "artist": "Toshiko Yonekawa",
+            "ratio": 9,
+            "title": "The Cherry Blossoms (Sakura Sakura)",
+            "trackid": "3hA9KYcHPDgWio1J2PA5c6"
+        },
+        "05": {
+            "artist": "Poppy Ackroyd",
+            "ratio": 9,
+            "title": "Stillness (Reworked)",
+            "trackid": "38e2GidL9UTv430biHt3a5"
+        },
+        "06": {
+            "artist": "Joshua Kyan Aalampour",
+            "ratio": 9,
+            "title": "The Forsaken Waltz",
+            "trackid": "7chdmuCsp3cZDK1drpm3lj"
+        },
+        "07": {
+            "artist": "Ludwig van Beethoven",
+            "ratio": 3,
+            "title": "String Quartet in F Major, Hess 32: IV. Allegretto",
+            "trackid": "7oUQGjFBKkjfPVWxapIVqf"
+        },
+        "08": {
+            "artist": "Joep Beving",
+            "ratio": 9,
+            "title": "Sleeping Lotus",
+            "trackid": "6c7uYlmHJtZPnenPjqG7Ir"
+        },
+        "09": {
+            "artist": "Stars Of The Lid",
+            "ratio": 9,
+            "title": "A Meaningful Moment Through a Meaning(less) Process",
+            "trackid": "4TrCvd1PrqI14lZb7tEtYo"
+        },
+        "10": {
+            "artist": "African Sound Therapy Masters",
+            "ratio": 3,
+            "title": "Spiritual Ancestors",
+            "trackid": "09UPGkjwIRNNLUjzf9vf6Y"
+        },
+        "11": {
+            "artist": "Aram Khachaturian",
+            "ratio": 8,
+            "title": "I. Waltz",
+            "trackid": "4D7n60uhUyt1gVkiWkOXxV"
+        },
+        "12": {
+            "artist": "Elmer Bernstein",
+            "ratio": 9,
+            "title": "The Age of Innocence: Theme",
+            "trackid": "2VV6fVm9NQUpfzEZUjtAPG"
+        },
+        "13": {
+            "artist": "Erik Satie",
+            "ratio": 9,
+            "title": "Trois morceaux en forme de poire: No.1 - Lentement",
+            "trackid": "3RnH4mcITFPMcb1xIDLjoI"
+        },
+        "14": {
+            "artist": "Arvo Pärt",
+            "ratio": 3,
+            "title": "Da pacem Domine",
+            "trackid": "1MpCGpXC1IXBRUsJBRcA1Q"
+        },
+        "15": {
+            "artist": "Nikolai Medtner",
+            "ratio": 9,
+            "title": "Medtner : Romantic Sketches for the Young, Book 2 Op.54 : II Tale",
+            "trackid": "3hWtDSlq3ldPQP3PoSreWl"
+        },
+        "16": {
+            "artist": "Nikolai Medtner",
+            "ratio": 9,
+            "title": "Medtner : Romantic Sketches for the Young, Book 2 Op.54 : II Tale",
+            "trackid": "3hWtDSlq3ldPQP3PoSreWl"
+        },
+        "17": {
+            "artist": "El Profesor",
+            "ratio": 4,
+            "title": "Bella ciao - HUGEL Remix",
+            "trackid": "2dQzfKRaMKUCQgMpOtpLTh"
+        }
+    },
     "sigourney-1st-september-2022": {
         "00": {
             "artist": "Joshua Kyan Aalampour",
@@ -77,6 +187,80 @@
             "ratio": 4,
             "title": "Sensibility is the Beginning",
             "trackid": "6i8vr4dsndwg6TJnbf0mnv"
+        }
+    },
+    "sigourney-22nd-december-2022": {
+        "00": {
+            "artist": "Hans Zimmer",
+            "ratio": 9,
+            "title": "Cornfield Chase",
+            "trackid": "6pWgRkpqVfxnj3WuIcJ7WP"
+        },
+        "01": {
+            "artist": "Ryuichi Sakamoto",
+            "ratio": 9,
+            "title": "Merry Christmas, Mr. Lawrence",
+            "trackid": "2mgWwDiZW6V1y88K9rSCkJ"
+        },
+        "02": {
+            "artist": "Franz Liszt",
+            "ratio": 9,
+            "title": "Consolations, S. 172: No. 3, Lento placido",
+            "trackid": "4ExtqIKNZLLmatRTVzlzFu"
+        },
+        "03": {
+            "artist": "Frédéric Chopin",
+            "ratio": 9,
+            "title": "Waltz in C-sharp minor, Op. 64 No. 2",
+            "trackid": "1lOVilzLQuYY2fnFrQ76DK"
+        },
+        "04": {
+            "artist": "Heinali",
+            "ratio": 9,
+            "title": "Sway, Sway",
+            "trackid": "6Xtb1w2ooURsLUa4cBvyRt"
+        },
+        "05": {
+            "artist": "Federico Albanese",
+            "ratio": 9,
+            "title": "We Hold The Moonlight",
+            "trackid": "0U7qdAc6vsKLerwp1hDOQb"
+        },
+        "06": {
+            "artist": "Claudio Monteverdi",
+            "ratio": 4,
+            "title": "Lamento della ninfa",
+            "trackid": "6M1pzGOOqnRye8SKe3pn9V"
+        },
+        "07": {
+            "artist": "Santiago Melo",
+            "ratio": 3,
+            "title": "Passacaglia / Handel - Instrumental Version",
+            "trackid": "3NOX2QXWXZe1N10iboNVZP"
+        },
+        "08": {
+            "artist": "Sergei Rachmaninoff",
+            "ratio": 4,
+            "title": "Morceaux de fantaisie in C-Sharp Minor, Op.3: II. Prelude",
+            "trackid": "6QkV6BahHhv0zjQ3zKLg1r"
+        },
+        "09": {
+            "artist": "Brian Eno",
+            "ratio": 4,
+            "title": "Celeste",
+            "trackid": "0OYYiR0CxzsXscdXH0tE2v"
+        },
+        "10": {
+            "artist": "Claude Debussy",
+            "ratio": 5,
+            "title": "Préludes Book 1, L. 117: III. La Cathedrale Engloutie",
+            "trackid": "5u8xycIWRjusC3FmHy8Hmn"
+        },
+        "11": {
+            "artist": "Reeder",
+            "ratio": 9,
+            "title": "Time",
+            "trackid": "5JJwBTy3YDn6vCN5q8D9X0"
         }
     },
     "sigourney-24th-november-2022": {

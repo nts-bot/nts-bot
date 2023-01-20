@@ -1,4 +1,519 @@
 {
+    "sigourney-19th-january-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sigur Rós",
+                    "title": "E-Bow - Live",
+                    "uri": "7pqhny0ih1IkMTlGFa9Lyh"
+                },
+                {
+                    "artist": "Sigurjón Georg Ingibjörnsson",
+                    "title": "Angel",
+                    "uri": "6qhB85Fuh5Td4z9EkjNvg3"
+                },
+                {
+                    "artist": "Sigurvin Sigurdsson",
+                    "title": "222",
+                    "uri": "6B5Zsdboq3bcVZRtkxsX44"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Dirk Maassen",
+                    "title": "Untamed",
+                    "uri": "3roBS63XFt2vKRwGYF9Kyt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dirk Maassen",
+                    "title": "Untamed",
+                    "uri": "3roBS63XFt2vKRwGYF9Kyt"
+                },
+                {
+                    "artist": "Dirk Maassen",
+                    "title": "To the Sky (Moderate)",
+                    "uri": "0icJXGequFzOB37jNOLaeU"
+                },
+                {
+                    "artist": "Dirk Maassen",
+                    "title": "Augenblick (Piano Room Recording)",
+                    "uri": "5aE5jAC1A00kW3XDxBW15J"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Antonio Vivaldi",
+                    "title": "Gloria, R. 589: Et in terra pax hominibus",
+                    "uri": "50lLJQQNDlAQ6HNgg34oqo"
+                },
+                {
+                    "artist": "Antonio Vivaldi",
+                    "title": "Vivaldi: Gloria in D Major, RV 589: II. Et in terra pax hominibus",
+                    "uri": "5aKfJvQIu3EC1uSvW0tzs9"
+                },
+                {
+                    "artist": "Antonio Vivaldi",
+                    "title": "Gloria, RV. 589: Coro \"Et in terra pax hominibus\"",
+                    "uri": "6WEp9NrgWdkcL4v4K44cfI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Antonio Vivaldi",
+                    "title": "Vivaldi: Gloria in D Major, RV 589: II. Et in terra pax hominibus",
+                    "uri": "2kNFif28wO1WHxsygpAQCr"
+                },
+                {
+                    "artist": "Antonio Vivaldi",
+                    "title": "Vivaldi: Gloria in D Major, RV 589: II. Et in terra pax hominibus",
+                    "uri": "2Nq7B8DcwnmV69zBTBHTnA"
+                },
+                {
+                    "artist": "Antonio Vivaldi",
+                    "title": "Nulla in mundo pax, RV 630: 1. Nulla in mundo pax",
+                    "uri": "6DimgukTnjDrTxaQ0NnZvM"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Rodrigo Rodriguez",
+                    "title": "Asian Sunrise (Shakuhachi Flute)",
+                    "uri": "1pbOvJZGRXLdvXiu35szd6"
+                },
+                {
+                    "artist": "Rodrigo Rodriguez",
+                    "title": "Fantasy of Oiwake: Shakuhachi Flute",
+                    "uri": "5BJneHVKMIq0ZOoP6fv0Dm"
+                },
+                {
+                    "artist": "Rodrigo Rodriguez",
+                    "title": "The Enlightenment Flute of Buddha (Shakuhachi Meditation)",
+                    "uri": "0vBoOFSv31YM8P1mPLwL6F"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rodrigo Rodriguez",
+                    "title": "Eleven Waterfalls",
+                    "uri": "2kgNDYpeRtTUGTfS2QzFJD"
+                },
+                {
+                    "artist": "Nguyen Quang Binh",
+                    "title": "Rodrigo Guitar Concerto",
+                    "uri": "0O6wK5fI1aI92bZ2m3xq3X"
+                },
+                {
+                    "artist": "Massage Tribe",
+                    "title": "Sacred Hands - Shakuhachi Flute & Keyboards for Spa",
+                    "uri": "4P7JDIfCdMctfa2Ax86hWn"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Toshiko Yonekawa",
+                    "title": "The Cherry Blossoms (Sakura Sakura)",
+                    "uri": "3hA9KYcHPDgWio1J2PA5c6"
+                },
+                {
+                    "artist": "Toshiko Yonekawa",
+                    "title": "The Cherry Blossoms (Sakura Sakura)",
+                    "uri": "6nJDfXFzxtXO6Yw3ulehwc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hiroe Yonekawa",
+                    "title": "Sakura Sakura",
+                    "uri": "6IjTq1amwnhGZ7KObb0Ipv"
+                },
+                {
+                    "artist": "Sakura's Old Japanese Songs",
+                    "title": "Sakura Sakura",
+                    "uri": "4EORT0BM5Ae4QTGN8RbFSI"
+                },
+                {
+                    "artist": "SAKURA",
+                    "title": "sakura8",
+                    "uri": "7DXR49qAGcQJyJLy47qGpv"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Poppy Ackroyd",
+                    "title": "Stillness (Reworked)",
+                    "uri": "38e2GidL9UTv430biHt3a5"
+                },
+                {
+                    "artist": "Poppy Ackroyd",
+                    "title": "Stillness",
+                    "uri": "3hpiz9XKA0VhH1XqH4TdJd"
+                },
+                {
+                    "artist": "Poppy Ackroyd",
+                    "title": "Stillness - Reworked",
+                    "uri": "3ugg797Uk5nOncbr6k8zM5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Poppy Ackroyd",
+                    "title": "Stillness (Reworked)",
+                    "uri": "38e2GidL9UTv430biHt3a5"
+                },
+                {
+                    "artist": "Poppy Ackroyd",
+                    "title": "Stillness",
+                    "uri": "3hpiz9XKA0VhH1XqH4TdJd"
+                },
+                {
+                    "artist": "Poppy Ackroyd",
+                    "title": "Seedling",
+                    "uri": "45CHN70wn8Wz69KFLp6tXg"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Joshua Kyan Aalampour",
+                    "title": "The Forsaken Waltz",
+                    "uri": "7chdmuCsp3cZDK1drpm3lj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Joshua Kyan Aalampour",
+                    "title": "The Forsaken Waltz",
+                    "uri": "7chdmuCsp3cZDK1drpm3lj"
+                },
+                {
+                    "artist": "Joshua Kyan Aalampour",
+                    "title": "Return to Versailles",
+                    "uri": "6kRYAhxnUNHBRcucyW4a2W"
+                },
+                {
+                    "artist": "Joshua Kyan Aalampour",
+                    "title": "Enemies to Lovers",
+                    "uri": "0HzMD3JskQJGGVgEOfMeoA"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ludwig van Beethoven",
+                    "title": "String Quartet No. 3 in D Major, Op. 18 No. 3: III. Allegro",
+                    "uri": "2gbsXBaUDkxrdTq22q57JQ"
+                },
+                {
+                    "artist": "Ludwig van Beethoven",
+                    "title": "String Quartet in F Major, Hess 32: IV. Allegretto",
+                    "uri": "7oUQGjFBKkjfPVWxapIVqf"
+                },
+                {
+                    "artist": "Franz Schubert",
+                    "title": "String quartet No. 2 in C Major, D. 32: IV. Allegro con spirito",
+                    "uri": "23NOtasqCMDT5HBpYxHDtt"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Joep Beving",
+                    "title": "Sleeping Lotus",
+                    "uri": "6c7uYlmHJtZPnenPjqG7Ir"
+                },
+                {
+                    "artist": "Joep Beving",
+                    "title": "Sleeping Lotus",
+                    "uri": "4jLLuOgo1TNpYRfOTm2yzU"
+                },
+                {
+                    "artist": "Joep Beving",
+                    "title": "Sleeping Lotus - Tom Trago's Sixtine Remix",
+                    "uri": "1FqInoOZHbrU0ZjDpHXSHd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Joep Beving",
+                    "title": "Sleeping Lotus",
+                    "uri": "6c7uYlmHJtZPnenPjqG7Ir"
+                },
+                {
+                    "artist": "Joep Beving",
+                    "title": "Sleeping Lotus",
+                    "uri": "6aR3Nbr9l09p2bYigdoXu1"
+                },
+                {
+                    "artist": "Joep Beving",
+                    "title": "The Gift",
+                    "uri": "0PCduL4v5QEEKqeRUv7TEC"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Stars Of The Lid",
+                    "title": "A Meaningful Moment Through a Meaning(less) Process",
+                    "uri": "4TrCvd1PrqI14lZb7tEtYo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Stars Of The Lid",
+                    "title": "A Meaningful Moment Through a Meaning(less) Process",
+                    "uri": "4TrCvd1PrqI14lZb7tEtYo"
+                },
+                {
+                    "artist": "Stars Of The Lid",
+                    "title": "The Mouthchew, Pt. 2",
+                    "uri": "0QWg9GVhRxE2r72Tw7PIzF"
+                },
+                {
+                    "artist": "Stars Of The Lid",
+                    "title": "Don't Bother They're Here",
+                    "uri": "477naywDON3t1iAF4COlOV"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "African Sound Therapy Masters",
+                    "title": "Spiritual Ancestors",
+                    "uri": "09UPGkjwIRNNLUjzf9vf6Y"
+                },
+                {
+                    "artist": "Mysterious World Music",
+                    "title": "Wild Rhythms",
+                    "uri": "2zpLkW4Qb6mWm2cXErEe6T"
+                },
+                {
+                    "artist": "African Music Drums Collection",
+                    "title": "African Games",
+                    "uri": "75E60HGE8xcd667O1Thayz"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Aram Khachaturian",
+                    "title": "Masquerade Suite: Waltz",
+                    "uri": "1WBagB7FdOlxUpYTG9XVik"
+                },
+                {
+                    "artist": "Aram Khachaturian",
+                    "title": "Masquerade (Suite): 1. Waltz - Excerpt",
+                    "uri": "0FyAT4nUMZWJmAI1Qov1Zj"
+                },
+                {
+                    "artist": "Aram Khachaturian",
+                    "title": "Masquerade - Ballet Suite: 1. Waltz",
+                    "uri": "4n6mxWdhDavqpH1L7jm5ze"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aram Khachaturian",
+                    "title": "I. Waltz",
+                    "uri": "4D7n60uhUyt1gVkiWkOXxV"
+                },
+                {
+                    "artist": "Aram Khachaturian",
+                    "title": "Khachaturian: Masquerade: I. Waltz",
+                    "uri": "2iOTFgIwzrC7KglYo1eCgP"
+                },
+                {
+                    "artist": "Aram Khachaturian",
+                    "title": "Waltz-Caprice and Dance: No. 1. Waltz-Caprice",
+                    "uri": "6WANHf7J7dPzhOaz1ROylb"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Elmer Bernstein",
+                    "title": "The Age of Innocence: Theme",
+                    "uri": "2VV6fVm9NQUpfzEZUjtAPG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Elmer Bernstein",
+                    "title": "Roses Montage",
+                    "uri": "0McSSvzBsn6dO0MP0hiuEt"
+                },
+                {
+                    "artist": "Elmer Bernstein",
+                    "title": "Archer's Books",
+                    "uri": "2vxyjG92ojNGlTBugdBQ1M"
+                },
+                {
+                    "artist": "Johann Strauss I",
+                    "title": "Radetzky March",
+                    "uri": "1ngFOi0A8RTKAcJF0O4WQo"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Erik Satie",
+                    "title": "3 Morceaux en forme de poire *: 3 morceaux en forme de poire",
+                    "uri": "09nu6d6KxvV8FWfVMeRGfB"
+                },
+                {
+                    "artist": "Erik Satie",
+                    "title": "Trois morceaux en forme de poire: No.2 - Enlevé",
+                    "uri": "5Yd4GNW0PXNExJRXhQWdnt"
+                },
+                {
+                    "artist": "Erik Satie",
+                    "title": "Trois morceaux en forme de poire: No.1 - Lentement",
+                    "uri": "3RnH4mcITFPMcb1xIDLjoI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Erik Satie",
+                    "title": "Trois morceaux en forme de poire: No.1 - Lentement",
+                    "uri": "3RnH4mcITFPMcb1xIDLjoI"
+                },
+                {
+                    "artist": "Erik Satie",
+                    "title": "3 Morceaux en forme de poire *: 3 morceaux en forme de poire",
+                    "uri": "09nu6d6KxvV8FWfVMeRGfB"
+                },
+                {
+                    "artist": "Erik Satie",
+                    "title": "Trois morceaux en forme de poire: Redite",
+                    "uri": "6f7GlpvvoG8eyownFiu84m"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Arvo Pärt",
+                    "title": "Spiegel im spiegel",
+                    "uri": "7zHd9LxIZB8WKosSWN9Umj"
+                },
+                {
+                    "artist": "Arvo Pärt",
+                    "title": "Da pacem Domine",
+                    "uri": "1MpCGpXC1IXBRUsJBRcA1Q"
+                },
+                {
+                    "artist": "Arvo Pärt",
+                    "title": "Pärt: Bogoróditse Dyévo",
+                    "uri": "0rjGyM8MtdmdqYN6Fdpki9"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Nikolai Medtner",
+                    "title": "Medtner : Romantic Sketches for the Young, Book 2 Op.54 : II Tale",
+                    "uri": "3hWtDSlq3ldPQP3PoSreWl"
+                },
+                {
+                    "artist": "Nikolai Medtner",
+                    "title": "Romantic Sketches for the Young, Op. 54: VIII. Tale. Narrante",
+                    "uri": "7dS0N1sAWWldRWbWKQUHX6"
+                },
+                {
+                    "artist": "Nikolai Medtner",
+                    "title": "Romantic Sketches for the Young, Op. 54: V. Prelude. Allegretto",
+                    "uri": "0Z9eAX5tOKh4vsXOPM3TFi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nikolai Medtner",
+                    "title": "Medtner : Romantic Sketches for the Young, Book 2 Op.54 : II Tale",
+                    "uri": "3hWtDSlq3ldPQP3PoSreWl"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Nikolai Medtner",
+                    "title": "Medtner : Romantic Sketches for the Young, Book 2 Op.54 : II Tale",
+                    "uri": "3hWtDSlq3ldPQP3PoSreWl"
+                },
+                {
+                    "artist": "Nikolai Medtner",
+                    "title": "Romantic Sketches for the Young, Op. 54: VIII. Tale. Narrante",
+                    "uri": "7dS0N1sAWWldRWbWKQUHX6"
+                },
+                {
+                    "artist": "Nikolai Medtner",
+                    "title": "Romantic Sketches for the Young, Op. 54: V. Prelude. Allegretto",
+                    "uri": "0Z9eAX5tOKh4vsXOPM3TFi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nikolai Medtner",
+                    "title": "Medtner : Romantic Sketches for the Young, Book 2 Op.54 : II Tale",
+                    "uri": "3hWtDSlq3ldPQP3PoSreWl"
+                },
+                {
+                    "artist": "Nikolai Medtner",
+                    "title": "2 Tales, Op. 20: 2 Fairy Tales, Op. 20: No. 1. Allegro con espressione",
+                    "uri": "4epi7bow2DsNVgDgs786nB"
+                },
+                {
+                    "artist": "Nikolai Medtner",
+                    "title": "Four Fairy Tales (Skazki), Op. 26: No. 3 In F Minor",
+                    "uri": "1DJchxQcAT3q3aWaiLCbtV"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Manu Pilas",
+                    "title": "Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist",
+                    "uri": "3lWzVNe1yFZlkeBBzUuZYu"
+                },
+                {
+                    "artist": "Naestro",
+                    "title": "Bella ciao (feat. Maître Gims, Dadju, Vitaa & Slimane)",
+                    "uri": "0QK1TL8cE0oqLZ1nltAY3F"
+                },
+                {
+                    "artist": "El Profesor",
+                    "title": "Bella ciao - HUGEL Remix",
+                    "uri": "2dQzfKRaMKUCQgMpOtpLTh"
+                }
+            ]
+        }
+    },
     "sigourney-1st-september-2022": {
         "00": {
             "s0": [
@@ -349,6 +864,351 @@
                     "artist": "Luigi Rubino",
                     "title": "Sensibility is the Beginning",
                     "uri": "6i8vr4dsndwg6TJnbf0mnv"
+                }
+            ]
+        }
+    },
+    "sigourney-22nd-december-2022": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Cornfield Chase",
+                    "uri": "6pWgRkpqVfxnj3WuIcJ7WP"
+                },
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Cornfield Chase - Piano Version",
+                    "uri": "615JiPjSiueBgp9HjXgCZ2"
+                },
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Interstellar Cornfield Chase",
+                    "uri": "7JlX5K3Jj1Q8cJCF4AUHMX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Cornfield Chase",
+                    "uri": "6pWgRkpqVfxnj3WuIcJ7WP"
+                },
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Cornfield Chase - Piano Version",
+                    "uri": "615JiPjSiueBgp9HjXgCZ2"
+                },
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Time",
+                    "uri": "6ZFbXIJkuI1dVNWvzJzown"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "Merry Christmas, Mr. Lawrence",
+                    "uri": "2mgWwDiZW6V1y88K9rSCkJ"
+                },
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "Merry Christmas Mr. Lawrence",
+                    "uri": "5VuwAhMCz9EMg3RHL1KUEr"
+                },
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "Merry Christmas Mr. Lawrence",
+                    "uri": "7JWyqEGZGlWEONYvvpFTdQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "Merry Christmas Mr. Lawrence",
+                    "uri": "5VuwAhMCz9EMg3RHL1KUEr"
+                },
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "Merry Christmas, Mr. Lawrence",
+                    "uri": "2mgWwDiZW6V1y88K9rSCkJ"
+                },
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "Merry Christmas Mr. Lawrence (Arr. Metcalfe)",
+                    "uri": "69vFvmwxuiLgRcdqIzrNVB"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Franz Liszt",
+                    "title": "Consolations, S. 172: No. 3, Lento placido",
+                    "uri": "4ExtqIKNZLLmatRTVzlzFu"
+                },
+                {
+                    "artist": "Franz Liszt",
+                    "title": "6 Consolations, S. 172: No. 3 in D-Flat Major (Lento, placido)",
+                    "uri": "1L4NadMj3Jj7YgGaikyhfr"
+                },
+                {
+                    "artist": "Franz Liszt",
+                    "title": "Consolations, S. 172: No. 3 in D-Flat Major. Lento placido",
+                    "uri": "5HMB40txXdGhVcPH5QxibE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Franz Liszt",
+                    "title": "Liszt: Consolations, S. 172: No. 3 in D-Flat Major, Lento placido",
+                    "uri": "3NPcRpZDUmvpkO93e2iuGO"
+                },
+                {
+                    "artist": "Franz Liszt",
+                    "title": "6 Consolations, S. 172: No. 3 in D-Flat Major (Lento, placido)",
+                    "uri": "05a0nAtS1A6ODsiFdR4FS8"
+                },
+                {
+                    "artist": "Franz Liszt",
+                    "title": "6 Consolations, S. 172: No. 3 in D-Flat Major (Lento, placido)",
+                    "uri": "1L4NadMj3Jj7YgGaikyhfr"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Michael M. Fuller",
+                    "title": "Waltz in C-sharp minor, Opus 64, No 2-Chopin",
+                    "uri": "5ksjvN1TgCMx7jINGCPHFd"
+                },
+                {
+                    "artist": "Frédéric Chopin",
+                    "title": "Waltz No. 2 in C-sharp Minor, Op. 64",
+                    "uri": "4cvBLyUpzrM3hlhfa0czet"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Frédéric Chopin",
+                    "title": "Waltz in C-sharp minor, Op. 64 No. 2",
+                    "uri": "1lOVilzLQuYY2fnFrQ76DK"
+                },
+                {
+                    "artist": "Frédéric Chopin",
+                    "title": "Chopin: Waltz Op.64-2",
+                    "uri": "7ArHFVK2oWlKyn6GpGRWMp"
+                },
+                {
+                    "artist": "Frédéric Chopin",
+                    "title": "Waltz In A Minor Opus Posth. Kk4B No. 11 - Allegretto",
+                    "uri": "6BX5puwm9fEYLmk40Upk5X"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Heinali",
+                    "title": "Sway, Sway",
+                    "uri": "6Xtb1w2ooURsLUa4cBvyRt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Heinali",
+                    "title": "Sway, Sway",
+                    "uri": "6Xtb1w2ooURsLUa4cBvyRt"
+                },
+                {
+                    "artist": "Heinali",
+                    "title": "October",
+                    "uri": "3YBKK9ryWEVyPjobOgmua0"
+                },
+                {
+                    "artist": "Hi Levelz",
+                    "title": "Sway",
+                    "uri": "5prPLOYxKZV3jQloQ5N5H3"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Federico Albanese",
+                    "title": "We Hold The Moonlight",
+                    "uri": "0U7qdAc6vsKLerwp1hDOQb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Federico Albanese",
+                    "title": "We Hold The Moonlight",
+                    "uri": "0U7qdAc6vsKLerwp1hDOQb"
+                },
+                {
+                    "artist": "Federico Albanese",
+                    "title": "The Stars We Follow",
+                    "uri": "1OjJsjcatXLusDH4E3f4gH"
+                },
+                {
+                    "artist": "Federico Albanese",
+                    "title": "The Twelve Theme",
+                    "uri": "12qGES2KEsgLjLAmm4bWSb"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Claudio Monteverdi",
+                    "title": "Lamento della ninfa",
+                    "uri": "6M1pzGOOqnRye8SKe3pn9V"
+                },
+                {
+                    "artist": "Claudio Monteverdi",
+                    "title": "Monteverdi: Madrigals, Book 8: Lamento della ninfa, SV 163: IV. Amor",
+                    "uri": "7tWqMDmmO2w21QqFpuJcu8"
+                },
+                {
+                    "artist": "Claudio Monteverdi",
+                    "title": "Madrigali amorosi: No. 9, Canzonetta by Rinuccini, Lamento della Ninfa, Partie I \"Non havea Febo ancora\"",
+                    "uri": "6vD2w4v9sf8IDN3kFEZ991"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Johan Halvorsen",
+                    "title": "Passacaglia - Piano Version",
+                    "uri": "160ibBMkC5LtgX5lL6fH5H"
+                },
+                {
+                    "artist": "George Frideric Handel",
+                    "title": "Passacaglia, Suite No. 7 in G Minor, HWV 432/6 - Modern Piano Solo Version",
+                    "uri": "7CyaTBIaMBr4CCzlj47wNG"
+                },
+                {
+                    "artist": "Santiago Melo",
+                    "title": "Passacaglia / Handel - Instrumental Version",
+                    "uri": "3NOX2QXWXZe1N10iboNVZP"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sergei Rachmaninoff",
+                    "title": "Morceaux de Fantaisie, Op. 3: 1. Elégie",
+                    "uri": "5qBAwcxsWVduQPum2AQZhT"
+                },
+                {
+                    "artist": "Sergei Rachmaninoff",
+                    "title": "Morceaux de fantaisie in C-Sharp Minor, Op.3: II. Prelude",
+                    "uri": "6QkV6BahHhv0zjQ3zKLg1r"
+                },
+                {
+                    "artist": "Sergei Rachmaninoff",
+                    "title": "Rachmaninoff: Mélodie, Op. 3, no. 3 in E major, Morceaux de Fantasie",
+                    "uri": "7BXz9Wh0SAjDXGF7iaYLtS"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Brian Eno",
+                    "title": "Celeste",
+                    "uri": "0OYYiR0CxzsXscdXH0tE2v"
+                },
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "Solitude",
+                    "uri": "5EaxoaMc2J9fq5zeQd1Nem"
+                },
+                {
+                    "artist": "Rone",
+                    "title": "Motion",
+                    "uri": "0dthCqqHnUg4qBR9MzohLF"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Claude Debussy",
+                    "title": "Préludes Book 1, L. 117: III. La Cathedrale Engloutie",
+                    "uri": "5u8xycIWRjusC3FmHy8Hmn"
+                },
+                {
+                    "artist": "Claude Debussy",
+                    "title": "Préludes / Book 1, L.117: 10. La cathédrale engloutie",
+                    "uri": "6EkMkK5ekg3NaSJAxFsEmx"
+                },
+                {
+                    "artist": "Claude Debussy",
+                    "title": "Préludes / Book 1, L.117: 10. La cathédrale engloutie",
+                    "uri": "2cEs67dBOKVlJlDo451mAX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Claude Debussy",
+                    "title": "Debussy: Préludes, Livre I, CD 125, L. 117: No. 10, La cathédrale engloutie",
+                    "uri": "4RZ0VthtSJZ3kMoKUuu5KQ"
+                },
+                {
+                    "artist": "Claude Debussy",
+                    "title": "Préludes / Book 1, L.117: 10. La cathédrale engloutie",
+                    "uri": "42peA7Uy87gnmQgkR1W112"
+                },
+                {
+                    "artist": "Claude Debussy",
+                    "title": "2 Arabesques, L. 66: No. 1 in E Major",
+                    "uri": "53zrZribB4xc2uRzZXWKCT"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Reeder",
+                    "title": "Time",
+                    "uri": "5JJwBTy3YDn6vCN5q8D9X0"
+                },
+                {
+                    "artist": "Reeder",
+                    "title": "Fanfare / Time - Live",
+                    "uri": "7gYcFTFmlYvF7tPVDKuqoq"
+                },
+                {
+                    "artist": "Jay Reeder",
+                    "title": "Night Time",
+                    "uri": "3TXQMx1AdvT2beJmtKGHKz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Reeder",
+                    "title": "Time",
+                    "uri": "5JJwBTy3YDn6vCN5q8D9X0"
+                },
+                {
+                    "artist": "Reeder",
+                    "title": "Julia",
+                    "uri": "0v1oDkwyCHldtSou7hhqeJ"
+                },
+                {
+                    "artist": "K.A.A.N.",
+                    "title": "Reaper",
+                    "uri": "6tUSdbIugHkcWuqsZDisUw"
                 }
             ]
         }
