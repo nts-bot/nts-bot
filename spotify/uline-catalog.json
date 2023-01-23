@@ -2144,6 +2144,110 @@
             "trackid": ""
         }
     },
+    "the-uline-catalog-20th-january-2023": {
+        "00": {
+            "artist": "Warden And His Fugitives",
+            "ratio": 9,
+            "title": "I Love You",
+            "trackid": "6C9WCunhAiJfJKd89E12ah"
+        },
+        "01": {
+            "artist": "Kate Nash",
+            "ratio": 5,
+            "title": "Foundations",
+            "trackid": "3PY6DWrkuIt6LZgFesrIkJ"
+        },
+        "02": {
+            "artist": "Bloc Party",
+            "ratio": 3,
+            "title": "The Pioneers",
+            "trackid": "53mTBBl93Z4Z8WQU3ttcab"
+        },
+        "03": {
+            "artist": "The Rockabilly Rebels",
+            "ratio": 5,
+            "title": "All Mine",
+            "trackid": "61cfbrM4nfGw40rJbuLdgy"
+        },
+        "04": {
+            "artist": "The Everly Brothers",
+            "ratio": 3,
+            "title": "All I Have to Do Is Dream",
+            "trackid": "7dblNGnRXEBrVJunazs2U5"
+        },
+        "05": {
+            "artist": "Catch the Wave",
+            "ratio": 5,
+            "title": "Thousands of words",
+            "trackid": "4njZfcelFi5eq2dwPpTmDa"
+        },
+        "06": {
+            "artist": "Chris Webby",
+            "ratio": 5,
+            "title": "Solitaire",
+            "trackid": "31G6jTLEpHwGs3vpQ7iUJM"
+        },
+        "07": {
+            "artist": "Ennio Morricone",
+            "ratio": 4,
+            "title": "The Mission",
+            "trackid": "4ypudCmFDkvLrj5DY6VJzj"
+        },
+        "08": {
+            "artist": "Justin Wade Tam",
+            "ratio": 3,
+            "title": "Patchwork Heart",
+            "trackid": "3ZfHhFVluSjgm9CNyuRvfp"
+        },
+        "09": {
+            "artist": "Taku Matsushiba",
+            "ratio": 3,
+            "title": "「The Inferno - 映画\"上海ブレイド\"より",
+            "trackid": "4mNt7EG9vNDGNizhBqoxKy"
+        },
+        "10": {
+            "artist": "Jim Legxacy",
+            "ratio": 4,
+            "title": "dj",
+            "trackid": "3FkE7rIbfrkD5JluAGZtlt"
+        },
+        "11": {
+            "artist": "The Jackson Southernairs",
+            "ratio": 4,
+            "title": "Teddy Bear",
+            "trackid": "3Re6nc9DmnkufQr3aHi51M"
+        },
+        "12": {
+            "artist": "Weston Brown",
+            "ratio": 5,
+            "title": "The Last Farewell",
+            "trackid": "61qkU8qtungFjog1JOVXoM"
+        },
+        "13": {
+            "artist": "u.r.trax",
+            "ratio": 4,
+            "title": "hippie chic v. united trash",
+            "trackid": "01PObxxBqMSP3GIRJiGcXj"
+        },
+        "14": {
+            "artist": "The Alan Parsons Project",
+            "ratio": 3,
+            "title": "Children of the Moon",
+            "trackid": "5x3dGnrug2oN9CGbKO4WDU"
+        },
+        "15": {
+            "artist": "Chris Travis",
+            "ratio": 9,
+            "title": "Try Again",
+            "trackid": "1Lucb46PKPcK8A63pN6FxZ"
+        },
+        "16": {
+            "artist": "NouvlR",
+            "ratio": 4,
+            "title": "Tourner",
+            "trackid": "5dxsliYJaYcDMfw5emzJer"
+        }
+    },
     "the-uline-catalog-21st-november-2019": {
         "00": {
             "artist": "Twice As Much",
@@ -3203,9 +3307,10 @@
         },
         "10": {
             "artist": "Artist Unknown",
-            "ratio": 9,
+            "ratio": -1,
             "title": "Sad Song",
-            "trackid": "4ud6zwrJCF2wfWqj6I8vur"
+            "trackid": "4ud6zwrJCF2wfWqj6I8vur",
+            "uri": ""
         },
         "11": {
             "artist": "Sundowner",
@@ -5885,6 +5990,134 @@
             "ratio": 3,
             "title": "Man Gave Name to All the Animals",
             "trackid": "3NwuMld3P3rs5DCSguk6my"
+        }
+    },
+    "uline-catalog-23rd-december-2022": {
+        "00": {
+            "artist": "The Fool",
+            "ratio": 9,
+            "title": "Cry For Me",
+            "trackid": "3dJQ3rl7RrRr61s1edOy05"
+        },
+        "01": {
+            "artist": "The Fabulous Three",
+            "ratio": 4,
+            "title": "White Sands Pt 1",
+            "trackid": "31zedQcLFF93Zif5bXZT9s"
+        },
+        "02": {
+            "artist": "The Impressions",
+            "ratio": 4,
+            "title": "Talking About My Baby",
+            "trackid": "6uqPpCZXAT00AQPZgaI6hp"
+        },
+        "03": {
+            "artist": "Action Bronson",
+            "ratio": 3,
+            "title": "Baby Blue (feat. Chance the Rapper)",
+            "trackid": "7gDwRzJhLs0fFHaGtMDJVM"
+        },
+        "04": {
+            "artist": "Lisa Lynne",
+            "ratio": 5,
+            "title": "Majestica",
+            "trackid": "1BM20AsaOrc4BAZX7kQKne"
+        },
+        "05": {
+            "artist": "Kadavar",
+            "ratio": 4,
+            "title": "Children of the Night - Studio Live Session Vol. I",
+            "trackid": "2u52GKS5SA4I0x9laMCsby"
+        },
+        "06": {
+            "artist": "The Shadows",
+            "ratio": 4,
+            "title": "Peace Pipe",
+            "trackid": "2fBpVcjwOqjBU4R4XhLShr"
+        },
+        "07": {
+            "artist": "The Du-Ettes",
+            "ratio": 4,
+            "title": "Every Beat of My Heart",
+            "trackid": "3gEF1vYPE1xoHasETN11v6"
+        },
+        "08": {
+            "artist": "Bonnie Dobson",
+            "ratio": 4,
+            "title": "Winter's Going",
+            "trackid": "6wN7l3BLYBFbqs4jDtTfUs"
+        },
+        "09": {
+            "artist": "OVERWERK",
+            "ratio": 5,
+            "title": "Daybreak",
+            "trackid": "6MpRH2AODF7OM2Md1zzaEV"
+        },
+        "10": {
+            "artist": "Clif Magness",
+            "ratio": 4,
+            "title": "If We Can't Do It",
+            "trackid": "3R1uetmGe2tkbCIlB8khdZ"
+        },
+        "11": {
+            "artist": "AINT",
+            "ratio": 3,
+            "title": "So Easy to Love You",
+            "trackid": "52yq0r1kM8K6ZhAdcyZvJu"
+        },
+        "12": {
+            "artist": "Blue Melody Band",
+            "ratio": 3,
+            "title": "I Can't Help Falling in Love with You",
+            "trackid": "2Rwt8FjLnYsCq987Q6C46q"
+        },
+        "13": {
+            "artist": "Darcy Stokes",
+            "ratio": 3,
+            "title": "Teenage Dream x Put Your Records On",
+            "trackid": "4RBVWdDXchRIX4n3Fpnzvy"
+        },
+        "14": {
+            "artist": "Josh Turner",
+            "ratio": 4,
+            "title": "Long Black Train",
+            "trackid": "2HqCaO7BV010qXS5FuiTED"
+        },
+        "15": {
+            "artist": "The Gap Band",
+            "ratio": 4,
+            "title": "You Are My High",
+            "trackid": "5XjdQlkbCoaZ8qVyKz8Ibi"
+        },
+        "16": {
+            "artist": "Tom Cochrane",
+            "ratio": 3,
+            "title": "A Prayer For Hope",
+            "trackid": "7eMchjYU3X1Po7KRRUV9HX"
+        },
+        "17": {
+            "artist": "John Hartford",
+            "ratio": 4,
+            "title": "The Girl With the Long Brown Hair",
+            "trackid": "2XpHRaVHY9vnjk37TaPYYI"
+        },
+        "18": {
+            "artist": "Pendulum",
+            "ratio": 5,
+            "title": "Driver",
+            "trackid": "1tm7cZeRQFQsc2Nrpv8PYj"
+        },
+        "19": {
+            "artist": "Uman Episodes",
+            "ratio": 5,
+            "title": "Fucsia",
+            "trackid": "62OrWhe1GGzXRVFt26E2wk"
+        },
+        "20": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
         }
     },
     "uline-catalog-25th-november-2022": {

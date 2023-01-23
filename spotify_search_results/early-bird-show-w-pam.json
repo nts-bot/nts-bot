@@ -1,4 +1,601 @@
 {
+    "early-bird-show-w-pam-19th-january-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Aphex Twin",
+                    "title": "aisatsana [102]",
+                    "uri": "3ESsjKqrj3M79I8sSZieK3"
+                },
+                {
+                    "artist": "Aphex Twin",
+                    "title": "aisatsana [102]",
+                    "uri": "5ljMlD10En5rRGZU0cs2Np"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aphex Twin",
+                    "title": "aisatsana [102]",
+                    "uri": "3ESsjKqrj3M79I8sSZieK3"
+                },
+                {
+                    "artist": "Aphex Twin",
+                    "title": "Ageispolis",
+                    "uri": "7KRQoq9GeWeCm0ZAXg5XMb"
+                },
+                {
+                    "artist": "Aphex Twin",
+                    "title": "Heliosphan",
+                    "uri": "09opLVMX7cfKVKlP3iKZR1"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mark Lockheart",
+                    "title": "Jagdish",
+                    "uri": "3qED0USyw41W13UyUutdGd"
+                },
+                {
+                    "artist": "Marked Locked Moody",
+                    "title": "Turner",
+                    "uri": "3P3Me0k4IFuHe6rCob9UQl"
+                },
+                {
+                    "artist": "Marked Locked Moody",
+                    "title": "Miller",
+                    "uri": "6fa5qM8vBp8zk3IgJDzhxl"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Max Cilla",
+                    "title": "Mantra solaire",
+                    "uri": "0Uvf0ZJjcAvvJXOyvulvcy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Max Cilla",
+                    "title": "La Flûte Des Mornes",
+                    "uri": "6iBc1aJbjnCWq0zz9DhwxA"
+                },
+                {
+                    "artist": "Max Cilla",
+                    "title": "Réminiscence - Live",
+                    "uri": "61T01ExfeaUHJHzQNm5XKH"
+                },
+                {
+                    "artist": "Max Cilla",
+                    "title": "Le chant du pauvre",
+                    "uri": "3qE9Q4vPuO9exkCZPqArql"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mirka Křivánková",
+                    "title": "Mlhavé Doteky",
+                    "uri": "06NfNpNLj5ZbbHqEX4EwcX"
+                },
+                {
+                    "artist": "CTIB",
+                    "title": "Dotyk medúzy",
+                    "uri": "55OKt404c2bvGXWZ7LP7P0"
+                },
+                {
+                    "artist": "Cocotte Minute",
+                    "title": "Kralum koruny",
+                    "uri": "1hz5Va2BOIISARAxuK4gHI"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Donato Dozzy",
+                    "title": "Vaporware 01",
+                    "uri": "4yQQuyjdUzVQozJrlJRnBM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Donato Dozzy",
+                    "title": "Vaporware 01",
+                    "uri": "4yQQuyjdUzVQozJrlJRnBM"
+                },
+                {
+                    "artist": "Donato Dozzy",
+                    "title": "Vaporware 07",
+                    "uri": "2Gn3QqE9VxFBg4tExRnQaK"
+                },
+                {
+                    "artist": "Donato Dozzy",
+                    "title": "Vaporware 05",
+                    "uri": "1iB6ug1ikOFFLpGI4Nc5Lv"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sitcom",
+                    "title": "Still Life",
+                    "uri": "69PcaJEZMB3cCfCeRSibj2"
+                },
+                {
+                    "artist": "RM",
+                    "title": "Still Life (with Anderson .Paak)",
+                    "uri": "3p4N6mBFv42M8dI8SUoPre"
+                },
+                {
+                    "artist": "BIGBANG",
+                    "title": "Still Life",
+                    "uri": "3TSLqZssCoCdDlMhCJ08XW"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Francis Plagne",
+                    "title": "IV",
+                    "uri": "58479YYNrmGpESqZJgAoid"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Francis Poulenc",
+                    "title": "Nocturnes n°4 en ut mineur",
+                    "uri": "31Da0niwyad9rpN7P2996z"
+                },
+                {
+                    "artist": "Francis Poulenc",
+                    "title": "Villageoises, FP 65: No. 2, Staccato",
+                    "uri": "6xzy2Q8tdHQFRUqsFsQBKF"
+                },
+                {
+                    "artist": "Francis Poulenc",
+                    "title": "Piano Concerto in C-Sharp Minor, FP 146: I. Allegretto commodo - Live",
+                    "uri": "6kg7bfwsTKzRqnBGGv4VqR"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Leoš Janáček",
+                    "title": "Janáček: On an Overgrown Path, Book II: No. 1, Andante",
+                    "uri": "4lv3SzKSmoFKjmdSGu6CIW"
+                },
+                {
+                    "artist": "Leoš Janáček",
+                    "title": "Janáček: On an Overgrown Path, Book II: No. 2, Allegretto - Presto",
+                    "uri": "3UeCxColdavfVBWMEZBVRj"
+                },
+                {
+                    "artist": "Leoš Janáček",
+                    "title": "On an Overgrown Path, Book II (Po zarostlém chodnícku, II Rada)",
+                    "uri": "4pN5SxV5B5wV8NQ0KKVAHq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Leoš Janáček",
+                    "title": "Janáček: On an Overgrown Path, Book I: No. 7, Good Night!",
+                    "uri": "5rTOQ1I0Ig9CglsssseeYe"
+                },
+                {
+                    "artist": "Leoš Janáček",
+                    "title": "On an overgrown path, Book I: No. 7, Good Night!",
+                    "uri": "6FeLwmGzZvjZFtlN90r9CB"
+                },
+                {
+                    "artist": "Leoš Janáček",
+                    "title": "On an Overgrown Path, JW VIII/17, Book 1: No. 7, Good Night!",
+                    "uri": "57Bh6y3VOOvw8GGHavzEAH"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Martin Duffy",
+                    "title": "Promenading",
+                    "uri": "3smf84nqcWFxoy8lgNxIf6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Martin Dupont",
+                    "title": "I Met the Beast",
+                    "uri": "5c4L5bkny40ZnYIQ3serHQ"
+                },
+                {
+                    "artist": "Martin Dupont",
+                    "title": "Your Passion",
+                    "uri": "6lgBWPO5csBm2N24LGMXdl"
+                },
+                {
+                    "artist": "Martin Dupont",
+                    "title": "Just Because",
+                    "uri": "4VSvIv9JIDAukgLtS1U6Az"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Felt",
+                    "title": "Viking Dress",
+                    "uri": "00vcZ8hmgOpWj9iT6paevh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Heilung",
+                    "title": "Norupo",
+                    "uri": "7oGwKNBX90dXL53ZbhPxJk"
+                },
+                {
+                    "artist": "Trevor Morris",
+                    "title": "The Vikings are Told of Ragnar's Death",
+                    "uri": "2ZR5DlUZBb4Mx2B4UZldgY"
+                },
+                {
+                    "artist": "Wardruna",
+                    "title": "Fehu",
+                    "uri": "528KWNngYORvUkoixWpqqy"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tom Wordsworth",
+                    "title": "Anniversary Celebration",
+                    "uri": "7Dle3ggUGw83BWnhYqlctt"
+                },
+                {
+                    "artist": "Tom Wordsworth",
+                    "title": "November, The World, And A Fool",
+                    "uri": "6JMyxLcxGQHD0EVDz23z0Z"
+                },
+                {
+                    "artist": "Tom Wordsworth",
+                    "title": "Barbator",
+                    "uri": "419WKBzxX9C6vr9Pw3XbZD"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Virgo Four",
+                    "title": "Giant Black Sea Bass (Stereolepis Gigas)",
+                    "uri": "3dU4tFfCgBKD2wW6VAQ66t"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ytondrel",
+                    "title": "Virgo Flatwater",
+                    "uri": "0x1mE0TUpRXLXsufOsg8p3"
+                },
+                {
+                    "artist": "Le Youth",
+                    "title": "Virgo",
+                    "uri": "4lgEtC1W3xZSRFoJuPLmkk"
+                },
+                {
+                    "artist": "Fumador De Flores",
+                    "title": "Virgo ♍️",
+                    "uri": "7bbjZbpvRr999imheFRJYX"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Shuggie Otis",
+                    "title": "Island Letter",
+                    "uri": "2yqG9SRCbQf1c6d5hwmfKJ"
+                },
+                {
+                    "artist": "Shuggie Otis",
+                    "title": "Island Letter",
+                    "uri": "2sTqZHdxovxCVa0w6qfDws"
+                },
+                {
+                    "artist": "Shuggie Otis",
+                    "title": "Island Letter",
+                    "uri": "02Coyx4Mo9ExYe19xNQBlK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Shuggie Otis",
+                    "title": "Island Letter",
+                    "uri": "2yqG9SRCbQf1c6d5hwmfKJ"
+                },
+                {
+                    "artist": "Shuggie Otis",
+                    "title": "Island Letter",
+                    "uri": "2sTqZHdxovxCVa0w6qfDws"
+                },
+                {
+                    "artist": "Shuggie Otis",
+                    "title": "Strawberry Letter 23",
+                    "uri": "4W8IEREeLldaSQyGXcZQ2I"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Maurice Deebank",
+                    "title": "So Serene",
+                    "uri": "6v9bTtJiaGBPxaztEI3Nzg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Maurice Dehors",
+                    "title": "Saponette",
+                    "uri": "24iojdGwaSfDd0CVKOF4Pb"
+                },
+                {
+                    "artist": "Maurice Dehors",
+                    "title": "Marcelline",
+                    "uri": "0Dzp4exk9JJKONrkY8QJ3x"
+                },
+                {
+                    "artist": "Maurice Dehors",
+                    "title": "Atelier du Violons",
+                    "uri": "631fXyAVogNZKyafDmVLr5"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "江鹤川",
+                    "title": "失望",
+                    "uri": "6HBjurMGrXkXlbzDXjuBAH"
+                },
+                {
+                    "artist": "Tophat Panda",
+                    "title": "Shinjuku",
+                    "uri": "1avj4Lvjk4hleD9KCaIuN8"
+                },
+                {
+                    "artist": "Shinkuhorou",
+                    "title": "虹",
+                    "uri": "5DR4xKHHxyTp4xLYZMEYFs"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Thomas Newman",
+                    "title": "Dead Already",
+                    "uri": "5uuZI0l5SMRMAIVzPl1xgU"
+                },
+                {
+                    "artist": "Thomas Newman",
+                    "title": "Dead Already",
+                    "uri": "6WVzFYiFA2QZnGiSpBEI6s"
+                },
+                {
+                    "artist": "Thomas Newman",
+                    "title": "Dead Already - From \"American Beauty\" Soundtrack",
+                    "uri": "2VzvHccAPHiKKu0MKmN7jR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Thomas Newman",
+                    "title": "Dead Already",
+                    "uri": "5uuZI0l5SMRMAIVzPl1xgU"
+                },
+                {
+                    "artist": "Thomas Newman",
+                    "title": "American Beauty",
+                    "uri": "6XJGpirOP4Bgurcvkdanxb"
+                },
+                {
+                    "artist": "Thomas Newman",
+                    "title": "1917",
+                    "uri": "6TsRPIdwASJBXanGhftVjc"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Locust",
+                    "title": "Just Like You",
+                    "uri": "6NBgSY8GgkBSVufy6uPPim"
+                },
+                {
+                    "artist": "Locust",
+                    "title": "Just Like You",
+                    "uri": "6XPP5DSCXQ2E79zKqFLyYt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Locust",
+                    "title": "Just Like You",
+                    "uri": "6NBgSY8GgkBSVufy6uPPim"
+                },
+                {
+                    "artist": "Jalen Ngonda",
+                    "title": "Just Like You Used To",
+                    "uri": "4zi12vnfemTW9sYo3XoJ2y"
+                },
+                {
+                    "artist": "Emotional Oranges",
+                    "title": "Just Like You",
+                    "uri": "0sYfwwEy0UyNizk6na4zGm"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Oneohtrix Point Never",
+                    "title": "Long Road Home",
+                    "uri": "3L8P996yoxnUQmHdOOEXKR"
+                },
+                {
+                    "artist": "Oneohtrix Point Never",
+                    "title": "Long Road Home",
+                    "uri": "31Ocb5xOyTkjIyv7FdBF05"
+                },
+                {
+                    "artist": "Oneohtrix Point Never",
+                    "title": "Long Road Home",
+                    "uri": "1V15k43u7KZiUZna4I6wSV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Oneohtrix Point Never",
+                    "title": "Long Road Home",
+                    "uri": "31Ocb5xOyTkjIyv7FdBF05"
+                },
+                {
+                    "artist": "Oneohtrix Point Never",
+                    "title": "Long Road Home",
+                    "uri": "3L8P996yoxnUQmHdOOEXKR"
+                },
+                {
+                    "artist": "Caroline Polachek",
+                    "title": "Long Road Home",
+                    "uri": "1bdLWU4nWQDxfKdmdBAxUl"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "The Flying Pickets",
+                    "title": "Only You",
+                    "uri": "1U2L6NW89IIy6Gw63C4eP2"
+                },
+                {
+                    "artist": "The Flying Pickets",
+                    "title": "Only You",
+                    "uri": "0EeDPVBAABqEQQOhxpRyPN"
+                },
+                {
+                    "artist": "The Flying Pickets",
+                    "title": "Only You - Re-recorded Version",
+                    "uri": "2h45MTVg8c7wZKJKcIlipg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Flying Pickets",
+                    "title": "Only You",
+                    "uri": "1U2L6NW89IIy6Gw63C4eP2"
+                },
+                {
+                    "artist": "The Flying Pickets",
+                    "title": "Only You",
+                    "uri": "0EeDPVBAABqEQQOhxpRyPN"
+                },
+                {
+                    "artist": "The Flying Pickets",
+                    "title": "Only You - Re-recorded Version",
+                    "uri": "2h45MTVg8c7wZKJKcIlipg"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Sounds From The Ground",
+                    "title": "Tumbledown",
+                    "uri": "053CFkHWbsiJXP2acxOMXy"
+                },
+                {
+                    "artist": "Sounds From The Ground / B J Cole",
+                    "title": "Tumbledown",
+                    "uri": "0cs0vduGypwnJBnPJQ6Opw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sounds From The Ground",
+                    "title": "Tumbledown",
+                    "uri": "053CFkHWbsiJXP2acxOMXy"
+                },
+                {
+                    "artist": "Sounds From The Ground",
+                    "title": "bodega Bay",
+                    "uri": "1CY66z6ApMiTn79yzqUVFQ"
+                },
+                {
+                    "artist": "Hayley Ross",
+                    "title": "Tumbledown",
+                    "uri": "6enjRLiTv7dxedK3ZiE2l3"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hiroyuki Sawano",
+                    "title": "BLUE <pfs>",
+                    "uri": "5ukjDAQDB9t9NbgKrIJgqL"
+                },
+                {
+                    "artist": "Tomoko Sunazaki",
+                    "title": "Sea of Spring",
+                    "uri": "3lDS2CjcI4vTSx7wMOm4hO"
+                },
+                {
+                    "artist": "Toshiyuki Omori",
+                    "title": "Tomo no Tasuke",
+                    "uri": "1nHfZrpnVVenmEki9HvhCP"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Demi Lovato",
+                    "title": "Stone Cold",
+                    "uri": "3by8IfnW9dZ2t4pZw1WVxz"
+                },
+                {
+                    "artist": "Dess Dior",
+                    "title": "Stone Cold",
+                    "uri": "2ZJSuTo2KtL066oKKmcUlL"
+                },
+                {
+                    "artist": "Queen",
+                    "title": "Stone Cold Crazy - Remastered 2011",
+                    "uri": "6d2UQWWWZj3k4BE6WcN4IT"
+                }
+            ]
+        }
+    },
     "pam-12th-january-2023": {
         "00": {
             "s0": "",

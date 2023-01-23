@@ -665,15 +665,122 @@
         },
         "19": {
             "artist": "Trinix Remix",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Daft Punk - Mashup",
-            "trackid": "5JSJQIKodI0hRLglJeXIVw"
+            "trackid": "5JSJQIKodI0hRLglJeXIVw",
+            "uri": ""
         },
         "20": {
             "artist": "Thirty Seconds To Mars",
             "ratio": 0,
             "title": "Walk On Water",
             "trackid": "6FT9FZccFD6nE8dMNslz2n"
+        }
+    },
+    "tommy-gold-20th-january-2023": {
+        "00": {
+            "artist": "Tunnelvisions",
+            "ratio": -1,
+            "title": "Gobi",
+            "trackid": "1DgTnSP026pNUjCDlhXfu5",
+            "uri": ""
+        },
+        "01": {
+            "artist": "Pocket",
+            "ratio": 9,
+            "title": "My Love",
+            "trackid": "6zKIbj3mLENfQJECUGFu7C"
+        },
+        "02": {
+            "artist": "Baltra",
+            "ratio": 9,
+            "title": "Brush Strokes - Extended Version",
+            "trackid": "3tfmRcftMnzBve83Gz3aLp"
+        },
+        "03": {
+            "artist": "Villager",
+            "ratio": 9,
+            "title": "Chlorophyll",
+            "trackid": "2e7YHJyoVHM95Dc6OJCgU3"
+        },
+        "04": {
+            "artist": "Everything But The Girl",
+            "ratio": 9,
+            "title": "Nothing Left To Lose",
+            "trackid": "02zPsXmSUP6Rr1Z2w5KMpf"
+        },
+        "05": {
+            "artist": "Jolagreen23",
+            "ratio": 3,
+            "title": "GOBI",
+            "trackid": "7Iv70t5TxutOHvGaExWQeV"
+        },
+        "06": {
+            "artist": "Tourist",
+            "ratio": 9,
+            "title": "Avalanche",
+            "trackid": "5nlOiNyfDrQZI1qqcJiW4D"
+        },
+        "07": {
+            "artist": "Supreems",
+            "ratio": 9,
+            "title": "Being",
+            "trackid": "29f2hArvfnSNOkAiovrFBh"
+        },
+        "08": {
+            "artist": "Al Wootton",
+            "ratio": 4,
+            "title": "Ender",
+            "trackid": "2C9FXEmMRN1sq3O7OaJrk5"
+        },
+        "09": {
+            "artist": "Overmono",
+            "ratio": 9,
+            "title": "Is U",
+            "trackid": "4Z3RGx7Be5plLoIw7i83wX"
+        },
+        "10": {
+            "artist": "Pilar Pascual",
+            "ratio": -1,
+            "title": "No Tengo Miedo De Amar",
+            "trackid": "3A0gp1bbip1krN7Q0v2y1I",
+            "uri": ""
+        },
+        "11": {
+            "artist": "Soul Capsule",
+            "ratio": 9,
+            "title": "Lady Science - NYC Sunrise",
+            "trackid": "6cnfseLPZpaPq53XYw6NIv"
+        },
+        "12": {
+            "artist": "Howling",
+            "ratio": 9,
+            "title": "Bind - Rampa Remix",
+            "trackid": "7wAVCSMQa3WyFFhfGfPDNP"
+        },
+        "13": {
+            "artist": "Salomé Le Chat",
+            "ratio": 9,
+            "title": "Cruising On The Playa",
+            "trackid": "2r4iOyEQiucZeIhb5cKyby"
+        },
+        "14": {
+            "artist": "BETON",
+            "ratio": 9,
+            "title": "Directions",
+            "trackid": "04QtVnE5AvBMN67FPBk9qV"
+        },
+        "15": {
+            "artist": "Vakhtang",
+            "ratio": 0,
+            "title": "Halo",
+            "trackid": "2FULI3FKesGFRf5lxJxtQv"
+        },
+        "16": {
+            "artist": "Tommy Guerrero",
+            "ratio": 3,
+            "title": "White Sands",
+            "trackid": "3EhuEeTQP2tAICvTakOEYF"
         }
     },
     "tommy-gold-20th-september-2022": {
@@ -1064,9 +1171,10 @@
     "tommy-gold-26th-july-2022": {
         "00": {
             "artist": "Tommy Goldwater",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Prédominant - Vision Mix",
-            "trackid": "1jjhG65BeYG5NugkepSLfs"
+            "trackid": "1jjhG65BeYG5NugkepSLfs",
+            "uri": ""
         },
         "01": {
             "artist": "Tommy Goldwater",

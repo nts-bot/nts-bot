@@ -508,9 +508,10 @@
         },
         "07": {
             "artist": "Gary Davis",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Gotta Get Your Love (Kenny Dope Mix)",
-            "trackid": "2vdaDcSdRqo4jLY75dyHfq"
+            "trackid": "2vdaDcSdRqo4jLY75dyHfq",
+            "uri": ""
         },
         "08": {
             "artist": "SFV Acid",
@@ -3722,6 +3723,129 @@
             "ratio": 5,
             "title": "Mommy Where's Daddy - 2002 Digital Remaster",
             "trackid": "6DvCkB04CgSj9t9zd2mBY9"
+        }
+    },
+    "creep-zone-w-james-pants-marc-schaller-20th-january-2023": {
+        "00": {
+            "artist": "Scuba Chicken",
+            "ratio": 4,
+            "title": "Stinky / Sarah",
+            "trackid": "4ktPIK1iFYrWgTzsTSozI6"
+        },
+        "01": {
+            "artist": "Clipounets",
+            "ratio": 4,
+            "title": "Un Petit Canard",
+            "trackid": "6XibqZiMde0nOfvBYheyge"
+        },
+        "02": {
+            "artist": "Fievel Is Glauque",
+            "ratio": 9,
+            "title": "Crooks Like Children",
+            "trackid": "1j6wgfs0OMzTT2vxY4FBmF"
+        },
+        "03": {
+            "artist": "Candle Tribe",
+            "ratio": 9,
+            "title": "Candles",
+            "trackid": "0X2g9rMnCKzC1p4FpjJ4KL"
+        },
+        "04": {
+            "artist": "Captain Funkaho",
+            "ratio": 9,
+            "title": "My 2600",
+            "trackid": "0fFNqezjebxGCnPIA4FvQs"
+        },
+        "05": {
+            "artist": "Stanley Clarke",
+            "ratio": -1,
+            "title": "Sweet Baby",
+            "trackid": "38705PDjZZVeWxfTRsTlJr",
+            "uri": ""
+        },
+        "06": {
+            "artist": "Tom Dissevelt",
+            "ratio": 9,
+            "title": "Syncopation",
+            "trackid": "46LPVSlqEo2WEIE6tpeIMa"
+        },
+        "07": {
+            "artist": "Flora Purim",
+            "ratio": 9,
+            "title": "Love Lock",
+            "trackid": "0L4UtksstITRPrJmzXcxO3"
+        },
+        "08": {
+            "artist": "Steps",
+            "ratio": 9,
+            "title": "Your Burning Love",
+            "trackid": "4d9MjhlzeA325rCawefzaP"
+        },
+        "09": {
+            "artist": "Floatie",
+            "ratio": 9,
+            "title": "Shiny",
+            "trackid": "7MTWdKpOeHOmS4XeC6uAJc"
+        },
+        "10": {
+            "artist": "Jan Akkerman",
+            "ratio": 9,
+            "title": "Blue In The Shadow",
+            "trackid": "1ynPMhYFwpYQVscWbVWBAy"
+        },
+        "11": {
+            "artist": "Irving Martin & Brian Dee",
+            "ratio": 9,
+            "title": "Silicone Chip",
+            "trackid": "4TquSUdIeIum7XdyISHVog"
+        },
+        "12": {
+            "artist": "SEATBELTS",
+            "ratio": 4,
+            "title": "Space Lion",
+            "trackid": "5cXgboyjy6wmjQ8zHvZdEq"
+        },
+        "13": {
+            "artist": "Denzel Curry",
+            "ratio": 9,
+            "title": "Walkin - Key Glock remix",
+            "trackid": "5GJS3CY3aqbT9j2lv434aQ"
+        },
+        "14": {
+            "artist": "Quinn",
+            "ratio": 5,
+            "title": "Renegade of the Past",
+            "trackid": "1aB9gA5vk5SXgboHHNe1U6"
+        },
+        "15": {
+            "artist": "The Associates",
+            "ratio": 9,
+            "title": "The Associate",
+            "trackid": "1WJIWQK42giyZOimT4FDAE"
+        },
+        "16": {
+            "artist": "The Cleaners From Venus",
+            "ratio": 9,
+            "title": "Mercury Girl",
+            "trackid": "1NHbBt7lcpsCp2ShPPVbLj"
+        },
+        "17": {
+            "artist": "Keith Fejeran",
+            "ratio": 9,
+            "title": "Coral Floor",
+            "trackid": "2xZHauJBcc8ED67PKF9oQd"
+        },
+        "18": {
+            "artist": "six impala",
+            "ratio": 4,
+            "title": "6FINGERDEATHPUNCH",
+            "trackid": "2M7V4v4DUaPIlMSrCbB2U3"
+        },
+        "19": {
+            "artist": "Jun Fukamachi",
+            "ratio": 9,
+            "title": "Breathing New Life",
+            "trackid": "4UwfQn0z7uEsJEmPwQ0I0k"
         }
     },
     "creep-zone-w-james-pants-marc-schaller-22nd-april-2019": {
