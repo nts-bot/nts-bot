@@ -933,9 +933,10 @@
     "louise-chen-14th-july-2020": {
         "00": {
             "artist": "Gagala",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Manzara",
-            "trackid": "2xPyS5yzMp1ZA6eRvpuk9S"
+            "trackid": "2xPyS5yzMp1ZA6eRvpuk9S",
+            "uri": ""
         },
         "01": {
             "artist": "Alpharisc",
@@ -3448,6 +3449,165 @@
             "ratio": 3,
             "title": "Cardozo Club Break",
             "trackid": "1WFa2W3Uu6zYvWyseq1cAo"
+        }
+    },
+    "louise-chen-24th-january-2023": {
+        "00": {
+            "artist": "Wycliffe Tyson",
+            "ratio": 3,
+            "title": "Prayer to Find Our Life's Purpose",
+            "trackid": "6wEiKHep82JSPPQjczDw9J"
+        },
+        "01": {
+            "artist": "He Knows She Won't Stop",
+            "ratio": 4,
+            "title": "He Hopes He Loses His Mind",
+            "trackid": "1PXED3DZdDQBAhvZQ7alru"
+        },
+        "02": {
+            "artist": "Timothy Whitbeck",
+            "ratio": 3,
+            "title": "Bomb And Love",
+            "trackid": "5k1rPGLqP341EvPY72uPCw"
+        },
+        "03": {
+            "artist": "The Hodge Family",
+            "ratio": 4,
+            "title": "He's Alive",
+            "trackid": "1qETx3NJvsm8M0jA0HXT6h"
+        },
+        "04": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "05": {
+            "artist": "Jelly",
+            "ratio": 9,
+            "title": "Everybody Needs Lovin, Now's the Time",
+            "trackid": "0qHGPgdPqqD3VqX7Dhq5d5"
+        },
+        "06": {
+            "artist": "D.J. Rogers",
+            "ratio": 5,
+            "title": "Say You Love Me, One More Time",
+            "trackid": "3REPEslblSsgtY427PdubY"
+        },
+        "07": {
+            "artist": "Unknown",
+            "ratio": -1,
+            "title": "Jump - Unknown Remix",
+            "trackid": "3pQ5aj9I7PNpBuOe9PED0J",
+            "uri": ""
+        },
+        "08": {
+            "artist": "Andre Crom",
+            "ratio": 4,
+            "title": "In The City - Original Mix",
+            "trackid": "46pC4olXs8c5WJOm9Pzrz6"
+        },
+        "09": {
+            "artist": "Jason Mraz",
+            "ratio": 3,
+            "title": "I'm Yours",
+            "trackid": "3S0OXQeoh0w6AY8WQVckRW"
+        },
+        "10": {
+            "artist": "Mini RTTCLAN",
+            "ratio": 0,
+            "title": "New Jersey",
+            "trackid": "1CmFgF0eA7AQdqKMjLPIj4"
+        },
+        "11": {
+            "artist": "Shirley Finney",
+            "ratio": 9,
+            "title": "Lovely Day, Just A Little Talk With Jesus",
+            "trackid": "5jL6Ktejw4qaaHsmq5VZCn"
+        },
+        "12": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "13": {
+            "artist": "Geek Music",
+            "ratio": 4,
+            "title": "Beverly Hills Cop: Theme Song",
+            "trackid": "4zxJnNgcukDQgtmw6ihnVM"
+        },
+        "14": {
+            "artist": "Darryl Douglas, Inc.",
+            "ratio": 9,
+            "title": "Holding On",
+            "trackid": "5Tgf8kbzWBYWb3iBsxOiWj"
+        },
+        "15": {
+            "artist": "Regina James",
+            "ratio": 9,
+            "title": "Kitty-Kat, Pussy-Cat Medley",
+            "trackid": "1v3ZLIzYG6U2cPKyc22LjQ"
+        },
+        "16": {
+            "artist": "VALIDACTIVE",
+            "ratio": 3,
+            "title": "Kon Artist",
+            "trackid": "1swSAHa1R2L0XuqOgahz1i"
+        },
+        "17": {
+            "artist": "Twin n Twice",
+            "ratio": 5,
+            "title": "Morocco",
+            "trackid": "0KlSqXYKquoGWl84lFZxwz"
+        },
+        "18": {
+            "artist": "Ashford & Simpson",
+            "ratio": 9,
+            "title": "Maybe I Can Find It",
+            "trackid": "4lPZvYkNHItBoaHV2ndS00"
+        },
+        "19": {
+            "artist": "Crown Heights Affair",
+            "ratio": 9,
+            "title": "Galaxy of Love",
+            "trackid": "0wJPpaSgdAdclGP5vpogiN"
+        },
+        "20": {
+            "artist": "Spice Girls",
+            "ratio": 3,
+            "title": "Spice Up Your Life - Morales Radio Mix",
+            "trackid": "4UHpvjEGU7ynl7cN4EhoZx"
+        },
+        "21": {
+            "artist": "Belle Farms Estates",
+            "ratio": 9,
+            "title": "Puddin' (Kenny Dope Main Mix)",
+            "trackid": "2eRMamde8xGp1uE9hlLt1z"
+        },
+        "22": {
+            "artist": "Backstreet Boys",
+            "ratio": 3,
+            "title": "The One",
+            "trackid": "44kgtDJyAFv4Z01z7bIxco"
+        },
+        "23": {
+            "artist": "Rachel Ratsizafy",
+            "ratio": 4,
+            "title": "Hey Hey",
+            "trackid": "6c76wdSW3TUkuZN45HJ7ZL"
+        },
+        "24": {
+            "artist": "Blake Shelton",
+            "ratio": 4,
+            "title": "Honey Bee",
+            "trackid": "0U3xEfWLX4slslHJaAorSw"
+        },
+        "25": {
+            "artist": "Quinteto Ternura",
+            "ratio": 9,
+            "title": "Consegui Concluir (Jogo de Azar)",
+            "trackid": "3mcJTc4RdVoSu4b8bYI3HO"
         }
     },
     "louise-chen-24th-march-2020": {

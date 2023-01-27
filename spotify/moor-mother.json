@@ -234,9 +234,10 @@
         },
         "07": {
             "artist": "Moor Mother",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Rapunzal",
-            "trackid": "36eRg1MvXbMbb6Jl4TdTNg"
+            "trackid": "36eRg1MvXbMbb6Jl4TdTNg",
+            "uri": ""
         },
         "08": {
             "artist": "Oghene Kologbo and Afrobeat Academy",
@@ -910,6 +911,50 @@
             "trackid": "4CRgDenJbluuEILm7976Mt"
         }
     },
+    "moor-mother-25th-january-2023": {
+        "00": {
+            "artist": "Alice Coltrane",
+            "ratio": 9,
+            "title": "Prema Muditha",
+            "trackid": "4JDoEqLJCZ3WkDWQkCg454"
+        },
+        "01": {
+            "artist": "Joe Henderson",
+            "ratio": 9,
+            "title": "Earth",
+            "trackid": "5tR80sypNbMyWIbDfiBBXh"
+        },
+        "02": {
+            "artist": "John Coltrane Quartet",
+            "ratio": 0,
+            "title": "Say It (Over And Over Again)",
+            "trackid": "016HKF7A4O7tatoJ9BgZM1"
+        },
+        "03": {
+            "artist": "Alice Coltrane",
+            "ratio": 9,
+            "title": "Isis And Osiris - Live At Village Gate, NY, 1970",
+            "trackid": "7rFVIYbCu6MFLduVgnts6q"
+        },
+        "04": {
+            "artist": "Amiri Baraka",
+            "ratio": 9,
+            "title": "All In The Street",
+            "trackid": "3FxXVqFmd4CwofZ7xJMbRk"
+        },
+        "05": {
+            "artist": "Devadip Carlos Santana",
+            "ratio": 9,
+            "title": "Angel of Sunlight",
+            "trackid": "1X6FHVYSygE1vMql618KV5"
+        },
+        "06": {
+            "artist": "Joe Henderson",
+            "ratio": 9,
+            "title": "Fire",
+            "trackid": "2VlAc2SvWKnDDNYjiEzcSb"
+        }
+    },
     "moor-mother-27th-january-2021": {
         "00": {
             "artist": "",
@@ -1095,9 +1140,10 @@
         },
         "02": {
             "artist": "Bass Boosted HD",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Best Beat Drop - Extreme Bass",
-            "trackid": "3xVY6tYY7TdG32cdGScbSL"
+            "trackid": "3xVY6tYY7TdG32cdGScbSL",
+            "uri": ""
         },
         "03": {
             "artist": "Babyxsosa",
@@ -1107,9 +1153,10 @@
         },
         "04": {
             "artist": "JWords",
-            "ratio": 5,
+            "ratio": -1,
             "title": "unpredictable",
-            "trackid": "4CCFRtGVBxV38DKjc7Lg7x"
+            "trackid": "4CCFRtGVBxV38DKjc7Lg7x",
+            "uri": ""
         },
         "05": {
             "artist": "Shabazz Palaces",
@@ -1155,15 +1202,17 @@
         },
         "12": {
             "artist": "H33RA",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Mami",
-            "trackid": "6I3iDvkl6wMLAmNx9y7kRP"
+            "trackid": "6I3iDvkl6wMLAmNx9y7kRP",
+            "uri": ""
         },
         "13": {
             "artist": "JWords",
-            "ratio": 5,
+            "ratio": -1,
             "title": "unpredictable",
-            "trackid": "4CCFRtGVBxV38DKjc7Lg7x"
+            "trackid": "4CCFRtGVBxV38DKjc7Lg7x",
+            "uri": ""
         },
         "14": {
             "artist": "Nappy Nina",
@@ -1173,9 +1222,10 @@
         },
         "15": {
             "artist": "JWords",
-            "ratio": 5,
+            "ratio": -1,
             "title": "unpredictable",
-            "trackid": "4CCFRtGVBxV38DKjc7Lg7x"
+            "trackid": "4CCFRtGVBxV38DKjc7Lg7x",
+            "uri": ""
         },
         "16": {
             "artist": "Lil Bouy",
@@ -1221,9 +1271,10 @@
         },
         "23": {
             "artist": "Vooo",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Plus 100",
-            "trackid": "09NjmJF5aZi2bJRhdr1fUr"
+            "trackid": "09NjmJF5aZi2bJRhdr1fUr",
+            "uri": ""
         },
         "24": {
             "artist": "Contour",

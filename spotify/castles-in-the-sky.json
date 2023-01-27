@@ -3899,6 +3899,128 @@
             "trackid": "4hdAF70woH85EzVxVXtj26"
         }
     },
+    "castles-in-the-sky-26th-january-2023": {
+        "00": {
+            "artist": "Tigran Hamasyan",
+            "ratio": 5,
+            "title": "Tsirani Tsar",
+            "trackid": "1Zu31CU9CSl9ZpEnmky8xT"
+        },
+        "01": {
+            "artist": "Diomedes Diaz",
+            "ratio": 4,
+            "title": "Ilusiones",
+            "trackid": "2jHaeV9nx3KARH8srHZFER"
+        },
+        "02": {
+            "artist": "LCY",
+            "ratio": 9,
+            "title": "Sacred",
+            "trackid": "5BFFFHavVn262KfI5Pk1o8"
+        },
+        "03": {
+            "artist": "RioBaby Rekords",
+            "ratio": 5,
+            "title": "Pick Em Up",
+            "trackid": "5fxyTBYgQNuegJWF2Axu61"
+        },
+        "04": {
+            "artist": "Rian Treanor",
+            "ratio": 9,
+            "title": "Bunga Bule",
+            "trackid": "0lGmfjQRkJV6s3oz3rb3kX"
+        },
+        "05": {
+            "artist": "Tim Reaper",
+            "ratio": 9,
+            "title": "Give Me More - Sully Remix",
+            "trackid": "1qxu4AZAXDOEYg83GVF3BF"
+        },
+        "06": {
+            "artist": "Gorgon",
+            "ratio": 4,
+            "title": "Ashes and Blood",
+            "trackid": "0mgn4V5BQBvYT4ZsK2YjgQ"
+        },
+        "07": {
+            "artist": "Nara",
+            "ratio": 9,
+            "title": "The Darkness Within",
+            "trackid": "3zI29YNDvI21lkmY3Gbycm"
+        },
+        "08": {
+            "artist": "Giant Swan",
+            "ratio": 9,
+            "title": "Abacuses",
+            "trackid": "6HqRUprx1kknAOFIbfh06l"
+        },
+        "09": {
+            "artist": "Somniac One",
+            "ratio": 9,
+            "title": "Junkyard Shift",
+            "trackid": "2bDvM5FmTmBykZULv3LcWP"
+        },
+        "10": {
+            "artist": "Leurdroitlion",
+            "ratio": 4,
+            "title": "Hed",
+            "trackid": "3Lr3rzTeS4wQpPdMk2FLRC"
+        },
+        "11": {
+            "artist": "Slikback",
+            "ratio": 9,
+            "title": "SLKBLKH FREESTYLE",
+            "trackid": "3opGwC2RAQKOu6v3acLJEz"
+        },
+        "12": {
+            "artist": "Delorians",
+            "ratio": 5,
+            "title": "Personal Branding",
+            "trackid": "4TpM8w0OZgRBGoXRKp6XRh"
+        },
+        "13": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "14": {
+            "artist": "Lazerarcade",
+            "ratio": 4,
+            "title": "Arcadestorm",
+            "trackid": "7jRRWpYdDTtBELZJ1MgKK3"
+        },
+        "15": {
+            "artist": "Lucky Dube",
+            "ratio": 3,
+            "title": "Prisoner (Remastered)",
+            "trackid": "19kihRQz1crFd1mrif75Js"
+        },
+        "16": {
+            "artist": "Chino Amobi",
+            "ratio": 9,
+            "title": "Emmanuel II",
+            "trackid": "6BCiegaf9MVBB1aSu3HRZr"
+        },
+        "17": {
+            "artist": "Marjan Farsad",
+            "ratio": 3,
+            "title": "Khooneye Ma",
+            "trackid": "6uJREg38Kh42NdHswq67VH"
+        },
+        "18": {
+            "artist": "Sister Margie",
+            "ratio": 4,
+            "title": "Style",
+            "trackid": "4AwcBkcosgaevk2ZTxwyco"
+        },
+        "19": {
+            "artist": "Lagking",
+            "ratio": 4,
+            "title": "Honneur",
+            "trackid": "2qm2MA4q6LoI7pdivQyPfI"
+        }
+    },
     "castles-in-the-sky-26th-may-2018": {
         "00": {
             "artist": "",
@@ -10216,15 +10338,17 @@
         },
         "11": {
             "artist": "IDLES",
-            "ratio": 5,
+            "ratio": -1,
             "title": "MTT 420 RR",
-            "trackid": "1pU4KSikge6gkTamLRv0Aq"
+            "trackid": "1pU4KSikge6gkTamLRv0Aq",
+            "uri": ""
         },
         "12": {
             "artist": "IDLES",
-            "ratio": 5,
+            "ratio": -1,
             "title": "MTT 420 RR",
-            "trackid": "1pU4KSikge6gkTamLRv0Aq"
+            "trackid": "1pU4KSikge6gkTamLRv0Aq",
+            "uri": ""
         },
         "13": {
             "artist": "Helge Schneider",
@@ -10234,9 +10358,10 @@
         },
         "14": {
             "artist": "IDLES",
-            "ratio": 5,
+            "ratio": -1,
             "title": "MTT 420 RR",
-            "trackid": "1pU4KSikge6gkTamLRv0Aq"
+            "trackid": "1pU4KSikge6gkTamLRv0Aq",
+            "uri": ""
         },
         "15": {
             "artist": "Daniel Ruane",
@@ -10246,15 +10371,17 @@
         },
         "16": {
             "artist": "IDLES",
-            "ratio": 5,
+            "ratio": -1,
             "title": "MTT 420 RR",
-            "trackid": "1pU4KSikge6gkTamLRv0Aq"
+            "trackid": "1pU4KSikge6gkTamLRv0Aq",
+            "uri": ""
         },
         "17": {
             "artist": "IDLES",
-            "ratio": 5,
+            "ratio": -1,
             "title": "MTT 420 RR",
-            "trackid": "1pU4KSikge6gkTamLRv0Aq"
+            "trackid": "1pU4KSikge6gkTamLRv0Aq",
+            "uri": ""
         },
         "18": {
             "artist": "Orbit Culture",

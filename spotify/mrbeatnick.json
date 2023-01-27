@@ -10544,9 +10544,10 @@
         },
         "24": {
             "artist": "Mr Beatnick",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Synthetes",
-            "trackid": "3vzSl4spQjyd7sIqmbUz8q"
+            "trackid": "3vzSl4spQjyd7sIqmbUz8q",
+            "uri": ""
         },
         "25": {
             "artist": "Asis",
@@ -11912,9 +11913,10 @@
         },
         "11": {
             "artist": "K1 Never Forget Loyalty",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Bando",
-            "trackid": "6S1hikLTesBhpmTvQcOghm"
+            "trackid": "6S1hikLTesBhpmTvQcOghm",
+            "uri": ""
         },
         "12": {
             "artist": "Omar",
@@ -14392,9 +14394,10 @@
         },
         "04": {
             "artist": "PYTKO",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Silent - Bullion Remix",
-            "trackid": "4D2LC0XRaPWJIP9LQEOvx7"
+            "trackid": "4D2LC0XRaPWJIP9LQEOvx7",
+            "uri": ""
         },
         "05": {
             "artist": "Adrian Younge",
@@ -14635,9 +14638,10 @@
         },
         "18": {
             "artist": "Al Zanders",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Slender - Original Mix",
-            "trackid": "1yx8aAh31unEXWKEy5agR3"
+            "trackid": "1yx8aAh31unEXWKEy5agR3",
+            "uri": ""
         },
         "19": {
             "artist": "Jeff Mills",
@@ -15833,9 +15837,10 @@
         },
         "02": {
             "artist": "Hafid",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Semeyek",
-            "trackid": "3wYa545EkWSxaVglOQMhjx"
+            "trackid": "3wYa545EkWSxaVglOQMhjx",
+            "uri": ""
         },
         "03": {
             "artist": "Anthony Naples",
@@ -18594,6 +18599,200 @@
             "ratio": 9,
             "title": "Beyond Completely Gone",
             "trackid": "1reUDIpev2nhGOvH0jioil"
+        }
+    },
+    "mrbeatnick-24th-january-2023": {
+        "00": {
+            "artist": "Beyoncé",
+            "ratio": 9,
+            "title": "BREAK MY SOUL",
+            "trackid": "5pyoxDZ1PX0KxBxiRVxA4U"
+        },
+        "01": {
+            "artist": "21 Savage",
+            "ratio": 9,
+            "title": "Glock In My Lap",
+            "trackid": "6pcywuOeGGWeOQzdUyti6k"
+        },
+        "02": {
+            "artist": "Otik",
+            "ratio": 9,
+            "title": "Summer Ghost",
+            "trackid": "5JgMjiJyXPFYL8EWWSGYxq"
+        },
+        "03": {
+            "artist": "Doc Sleep",
+            "ratio": 9,
+            "title": "Tomorrow is Beautiful!",
+            "trackid": "7q6JlyJyoWwiBpFkfsHUpc"
+        },
+        "04": {
+            "artist": "Sonar's Ghost",
+            "ratio": 3,
+            "title": "Souldrop",
+            "trackid": "737j5o2SNCrljknB0VIZ6c"
+        },
+        "05": {
+            "artist": "Tea White",
+            "ratio": 9,
+            "title": "Anemoiapolis",
+            "trackid": "08NzJG3oQasdqoHtTE90I0"
+        },
+        "06": {
+            "artist": "Nico",
+            "ratio": 3,
+            "title": "Prelude",
+            "trackid": "0oYPDEwHjErm1uj8JT77RB"
+        },
+        "07": {
+            "artist": "Ulla",
+            "ratio": 9,
+            "title": "song",
+            "trackid": "0Cq3ylTk3iNSGlvgLHg0ZS"
+        },
+        "08": {
+            "artist": "Troels Hammer",
+            "ratio": 5,
+            "title": "Azur",
+            "trackid": "0eQohbofNY4wd6GrlcDfx5"
+        },
+        "09": {
+            "artist": "Ayọ",
+            "ratio": 5,
+            "title": "Beautiful",
+            "trackid": "5IMx2ejtEMJAVUnTw3KWZX"
+        },
+        "10": {
+            "artist": "Dj SarzWhyte",
+            "ratio": 4,
+            "title": "Saro - Mixed",
+            "trackid": "1m5jPpu4NuYcq4qDMG407E"
+        },
+        "11": {
+            "artist": "Facta",
+            "ratio": 9,
+            "title": "Felt",
+            "trackid": "0WNID1BsPmycF7XFtQ6j9w"
+        },
+        "12": {
+            "artist": "Goose Down",
+            "ratio": 9,
+            "title": "Mixed Signals",
+            "trackid": "3GQOGSED6qFDQWhFxuCQDW"
+        },
+        "13": {
+            "artist": "Eff Gee",
+            "ratio": 5,
+            "title": "All In",
+            "trackid": "6vlcZ2vq48p0N25ILgUgJF"
+        },
+        "14": {
+            "artist": "Philipp Priebe",
+            "ratio": 9,
+            "title": "Singende Fluesse",
+            "trackid": "1odeFrbgMOT2pkUA2mlBbP"
+        },
+        "15": {
+            "artist": "John Beltran",
+            "ratio": 9,
+            "title": "Deluge",
+            "trackid": "4BPrUQOpv6jQPYBehZMXPC"
+        },
+        "16": {
+            "artist": "LeTo",
+            "ratio": 9,
+            "title": "Dancehall Automaton",
+            "trackid": "5nBizAyQbA3LIJI3wwQezG"
+        },
+        "17": {
+            "artist": "I Jahbar",
+            "ratio": 5,
+            "title": "Spies On Me",
+            "trackid": "0INxb3qZfEG2ZRwb6xwWb3"
+        },
+        "18": {
+            "artist": "The Maghreban",
+            "ratio": 9,
+            "title": "M25",
+            "trackid": "1XwG6C7KuFme0ZN4IJXgXQ"
+        },
+        "19": {
+            "artist": "Villager",
+            "ratio": 9,
+            "title": "Ow Wow",
+            "trackid": "320jSjcFBSXMn7LVOizpwn"
+        },
+        "20": {
+            "artist": "Lloyd Stellar",
+            "ratio": 9,
+            "title": "It's All Over",
+            "trackid": "4zmvgbwGpzHYGMOMrgKQFs"
+        },
+        "21": {
+            "artist": "Syz",
+            "ratio": 9,
+            "title": "Burner FM",
+            "trackid": "2oYMQBWCFxAwWLcQzRwQEH"
+        },
+        "22": {
+            "artist": "Loud",
+            "ratio": 7,
+            "title": "Thoughts",
+            "trackid": "1eHPz3Ccu5UIMAXWYDCjaj"
+        },
+        "23": {
+            "artist": "Drumskull",
+            "ratio": 9,
+            "title": "Muscle Memory",
+            "trackid": "70v8IShRrS5I22Bvk63EUT"
+        },
+        "24": {
+            "artist": "SXIEGE",
+            "ratio": 4,
+            "title": "MR BEAST PHONK",
+            "trackid": "6rHskCEZo051oNmvXfXQPs"
+        },
+        "25": {
+            "artist": "Lord Of The Isles",
+            "ratio": 9,
+            "title": "Lo-Theory",
+            "trackid": "49ZEVkMDBWDPHB17XUx5Tv"
+        },
+        "26": {
+            "artist": "Makoma",
+            "ratio": 5,
+            "title": "Natamboli",
+            "trackid": "6spKPa5L8LX4bfsdcq3xbz"
+        },
+        "27": {
+            "artist": "Tennant",
+            "ratio": 5,
+            "title": "Nyet",
+            "trackid": "3llOO66sme6PBvUamEqXdF"
+        },
+        "28": {
+            "artist": "Kyla Hale",
+            "ratio": 4,
+            "title": "Cory Huxley",
+            "trackid": "5mOQiheFszb1ggidVgo2RC"
+        },
+        "29": {
+            "artist": "Cygnus X",
+            "ratio": 3,
+            "title": "The Orange Theme",
+            "trackid": "4hCjdIqyAJleqIXvJMgTCU"
+        },
+        "30": {
+            "artist": "KIND TAIL",
+            "ratio": 4,
+            "title": "Satin",
+            "trackid": "652Q7fVZvzfa5d2PuguJkS"
+        },
+        "31": {
+            "artist": "Sam Blues",
+            "ratio": 4,
+            "title": "At ease",
+            "trackid": "6iLW8VkIan14KAwzTNQCsu"
         }
     },
     "mrbeatnick-25th-january-2022": {

@@ -1739,9 +1739,10 @@
     "funkineven-16th-august-2017": {
         "00": {
             "artist": "L'Infanterie Sauvage",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Un Pays à Défendre (Inédit / Unreleased 1984)",
-            "trackid": "7APud6ciAeqCpNraz3zfhS"
+            "trackid": "7APud6ciAeqCpNraz3zfhS",
+            "uri": ""
         },
         "01": {
             "artist": "Domased Electronica",
@@ -1763,9 +1764,10 @@
         },
         "04": {
             "artist": "L'Infanterie Sauvage",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Un Pays à Défendre (Inédit / Unreleased 1984)",
-            "trackid": "7APud6ciAeqCpNraz3zfhS"
+            "trackid": "7APud6ciAeqCpNraz3zfhS",
+            "uri": ""
         },
         "05": {
             "artist": "Perigeo",
@@ -1811,9 +1813,10 @@
         },
         "12": {
             "artist": "L'Infanterie Sauvage",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Un Pays à Défendre (Inédit / Unreleased 1984)",
-            "trackid": "7APud6ciAeqCpNraz3zfhS"
+            "trackid": "7APud6ciAeqCpNraz3zfhS",
+            "uri": ""
         },
         "13": {
             "artist": "The Walters",
@@ -1942,9 +1945,10 @@
         },
         "03": {
             "artist": "Hai Lin",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Wu Ji - Piano Ver.",
-            "trackid": "0Nixi0QxZSGPdszRfqVyNR"
+            "trackid": "0Nixi0QxZSGPdszRfqVyNR",
+            "uri": ""
         },
         "04": {
             "artist": "",
@@ -1996,9 +2000,10 @@
         },
         "12": {
             "artist": "Quaid",
-            "ratio": 3,
+            "ratio": -1,
             "title": "HyperReal",
-            "trackid": "0ZbeAGrQMoepXgD3zEmAYj"
+            "trackid": "0ZbeAGrQMoepXgD3zEmAYj",
+            "uri": ""
         },
         "13": {
             "artist": "One Way",
@@ -2588,6 +2593,133 @@
             "ratio": 9,
             "title": "In Love Again",
             "trackid": "5eurNoUjxT7v46SizMko7U"
+        }
+    },
+    "funkineven-25th-january-2023": {
+        "00": {
+            "artist": "Q-Unique",
+            "ratio": 3,
+            "title": "Look up in the Sky",
+            "trackid": "7oQR2mNyaRnorLP4wOC8s6"
+        },
+        "01": {
+            "artist": "Felbm",
+            "ratio": 4,
+            "title": "Funicular",
+            "trackid": "3eVMSMxAqmeMMMk25nB07n"
+        },
+        "02": {
+            "artist": "Byron the Aquarius",
+            "ratio": 4,
+            "title": "Song for a Friend (feat. Cropper)",
+            "trackid": "1Pm6Ku1fjbklt4XSddPtpg"
+        },
+        "03": {
+            "artist": "Kareem Ali",
+            "ratio": 3,
+            "title": "Godson of House",
+            "trackid": "2zMGp9sLqwuWowUcm53WAX"
+        },
+        "04": {
+            "artist": "Wolfyy",
+            "ratio": 4,
+            "title": "FUNKY",
+            "trackid": "1RkZStI13MbZJQWgNZrzGg"
+        },
+        "05": {
+            "artist": "Sonic Minds",
+            "ratio": 9,
+            "title": "Right Or Wrong",
+            "trackid": "1B8ceYDTlTGREhdg8NRiGo"
+        },
+        "06": {
+            "artist": "Jean-Michel Jarre",
+            "ratio": -1,
+            "title": "Souvenir de Chine",
+            "trackid": "5UBeEIUrTP2mUrfwWosPvD",
+            "uri": ""
+        },
+        "07": {
+            "artist": "ARTBAT",
+            "ratio": 0,
+            "title": "Best of Me - Radio Edit",
+            "trackid": "4bJ7hDIjOucR0hGDEaVBOr"
+        },
+        "08": {
+            "artist": "D-Gotti Monroe",
+            "ratio": 3,
+            "title": "Locked In",
+            "trackid": "3t7Yk8AvfhwJPwzXZGbXJw"
+        },
+        "09": {
+            "artist": "Moro",
+            "ratio": 4,
+            "title": "Wassup",
+            "trackid": "43UNel0foTxcR7P8GAqgyt"
+        },
+        "10": {
+            "artist": "Karizma",
+            "ratio": 0,
+            "title": "Suave",
+            "trackid": "2jOxSuwtmywkCgK5AtcA3f"
+        },
+        "11": {
+            "artist": "The Martinez Brothers",
+            "ratio": -1,
+            "title": "KILO",
+            "trackid": "5OTSZ0D28LQQ7eyQBVykFM",
+            "uri": ""
+        },
+        "12": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "13": {
+            "artist": "Fuego Sean",
+            "ratio": -1,
+            "title": "Nightmare - Unreleased",
+            "trackid": "3ZtJVl0FiVOe01SblrQcU0",
+            "uri": ""
+        },
+        "14": {
+            "artist": "Fuego Sean",
+            "ratio": -1,
+            "title": "Nightmare - Unreleased",
+            "trackid": "3ZtJVl0FiVOe01SblrQcU0",
+            "uri": ""
+        },
+        "15": {
+            "artist": "Benedek",
+            "ratio": 9,
+            "title": "Solar Panel",
+            "trackid": "0TlYq2jNDUqjbrvg2y7L1C"
+        },
+        "16": {
+            "artist": "Fuego Sean",
+            "ratio": -1,
+            "title": "Nightmare - Unreleased",
+            "trackid": "3ZtJVl0FiVOe01SblrQcU0",
+            "uri": ""
+        },
+        "17": {
+            "artist": "OTM",
+            "ratio": 3,
+            "title": "Steve Urkel",
+            "trackid": "2GfvfsB4PWPOpHLlEkCira"
+        },
+        "18": {
+            "artist": "Gary Gritness",
+            "ratio": 9,
+            "title": "Gary Gritness - Steady Choosin'",
+            "trackid": "0fYNIvqy8Up2161cfdH9TR"
+        },
+        "19": {
+            "artist": "Kyle Hall",
+            "ratio": 9,
+            "title": "Postcard To Another Planet",
+            "trackid": "1mOeIyvYdHb5MuHmrxX2dm"
         }
     },
     "funkineven-27th-january-2021": {
@@ -4574,9 +4706,10 @@
         },
         "02": {
             "artist": "L'Infanterie Sauvage",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Un Pays à Défendre (Inédit / Unreleased 1984)",
-            "trackid": "7APud6ciAeqCpNraz3zfhS"
+            "trackid": "7APud6ciAeqCpNraz3zfhS",
+            "uri": ""
         },
         "03": {
             "artist": "Undreamed Unsated",
@@ -4586,9 +4719,10 @@
         },
         "04": {
             "artist": "L'Infanterie Sauvage",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Un Pays à Défendre (Inédit / Unreleased 1984)",
-            "trackid": "7APud6ciAeqCpNraz3zfhS"
+            "trackid": "7APud6ciAeqCpNraz3zfhS",
+            "uri": ""
         },
         "05": {
             "artist": "Son of Sound",
@@ -4598,15 +4732,17 @@
         },
         "06": {
             "artist": "L'Infanterie Sauvage",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Un Pays à Défendre (Inédit / Unreleased 1984)",
-            "trackid": "7APud6ciAeqCpNraz3zfhS"
+            "trackid": "7APud6ciAeqCpNraz3zfhS",
+            "uri": ""
         },
         "07": {
             "artist": "L'Infanterie Sauvage",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Un Pays à Défendre (Inédit / Unreleased 1984)",
-            "trackid": "7APud6ciAeqCpNraz3zfhS"
+            "trackid": "7APud6ciAeqCpNraz3zfhS",
+            "uri": ""
         },
         "08": {
             "artist": "Cyrene",
@@ -4640,15 +4776,17 @@
         },
         "13": {
             "artist": "L'Infanterie Sauvage",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Un Pays à Défendre (Inédit / Unreleased 1984)",
-            "trackid": "7APud6ciAeqCpNraz3zfhS"
+            "trackid": "7APud6ciAeqCpNraz3zfhS",
+            "uri": ""
         },
         "14": {
             "artist": "L'Infanterie Sauvage",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Un Pays à Défendre (Inédit / Unreleased 1984)",
-            "trackid": "7APud6ciAeqCpNraz3zfhS"
+            "trackid": "7APud6ciAeqCpNraz3zfhS",
+            "uri": ""
         },
         "15": {
             "artist": "Son of Sound",

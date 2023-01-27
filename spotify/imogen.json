@@ -556,9 +556,10 @@
         },
         "02": {
             "artist": "Hunter",
-            "ratio": 3,
+            "ratio": -1,
             "title": "untitled_1",
-            "trackid": "063ac00V0P0Vm6Y99yPldT"
+            "trackid": "063ac00V0P0Vm6Y99yPldT",
+            "uri": ""
         },
         "03": {
             "artist": "Space Gang",
@@ -642,9 +643,10 @@
     "imogen-15th-november-2019": {
         "00": {
             "artist": "Ben Pest",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Receipe Schmessepe",
-            "trackid": "0s21vWuG9H6KBuxGSbZVS0"
+            "trackid": "0s21vWuG9H6KBuxGSbZVS0",
+            "uri": ""
         },
         "01": {
             "artist": "Tommy Four Seven",
@@ -690,9 +692,10 @@
         },
         "08": {
             "artist": "Ukendt",
-            "ratio": 7,
+            "ratio": -1,
             "title": "Imorgen",
-            "trackid": "5EJLbRYFUrL9ZcoGE13w3N"
+            "trackid": "5EJLbRYFUrL9ZcoGE13w3N",
+            "uri": ""
         },
         "09": {
             "artist": "Rhys Fulber",
@@ -844,9 +847,10 @@
         },
         "16": {
             "artist": "Ben Pest",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Flavour The Dave",
-            "trackid": "7F75AwcbPYTr7zYzNvQjdU"
+            "trackid": "7F75AwcbPYTr7zYzNvQjdU",
+            "uri": ""
         },
         "17": {
             "artist": "EDMX",
@@ -1250,9 +1254,10 @@
         },
         "01": {
             "artist": "Isaiah Dreads",
-            "ratio": 4,
+            "ratio": -1,
             "title": "CLOUDS",
-            "trackid": "7yN30glPvQFjFZFftY0zbt"
+            "trackid": "7yN30glPvQFjFZFftY0zbt",
+            "uri": ""
         },
         "02": {
             "artist": "OnScreenActor",
@@ -1262,9 +1267,10 @@
         },
         "03": {
             "artist": "Zonderling",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Clouds",
-            "trackid": "0wL1YMjvumpm0DIjqa2TZ5"
+            "trackid": "0wL1YMjvumpm0DIjqa2TZ5",
+            "uri": ""
         },
         "04": {
             "artist": "Gonzo MDF",
@@ -1274,9 +1280,10 @@
         },
         "05": {
             "artist": "Zonderling",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Clouds",
-            "trackid": "0wL1YMjvumpm0DIjqa2TZ5"
+            "trackid": "0wL1YMjvumpm0DIjqa2TZ5",
+            "uri": ""
         },
         "06": {
             "artist": "Michael Burkat",
@@ -1286,9 +1293,10 @@
         },
         "07": {
             "artist": "Zonderling",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Clouds",
-            "trackid": "0wL1YMjvumpm0DIjqa2TZ5"
+            "trackid": "0wL1YMjvumpm0DIjqa2TZ5",
+            "uri": ""
         },
         "08": {
             "artist": "Lucass P",
@@ -1298,9 +1306,10 @@
         },
         "09": {
             "artist": "Zonderling",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Clouds",
-            "trackid": "0wL1YMjvumpm0DIjqa2TZ5"
+            "trackid": "0wL1YMjvumpm0DIjqa2TZ5",
+            "uri": ""
         },
         "10": {
             "artist": "joeFarr",
@@ -1310,15 +1319,17 @@
         },
         "11": {
             "artist": "Zonderling",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Clouds",
-            "trackid": "0wL1YMjvumpm0DIjqa2TZ5"
+            "trackid": "0wL1YMjvumpm0DIjqa2TZ5",
+            "uri": ""
         },
         "12": {
             "artist": "Zonderling",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Clouds",
-            "trackid": "0wL1YMjvumpm0DIjqa2TZ5"
+            "trackid": "0wL1YMjvumpm0DIjqa2TZ5",
+            "uri": ""
         },
         "13": {
             "artist": "Bjarki",
@@ -1328,9 +1339,10 @@
         },
         "14": {
             "artist": "Zonderling",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Clouds",
-            "trackid": "0wL1YMjvumpm0DIjqa2TZ5"
+            "trackid": "0wL1YMjvumpm0DIjqa2TZ5",
+            "uri": ""
         },
         "15": {
             "artist": "Rove Ranger",
@@ -1340,21 +1352,24 @@
         },
         "16": {
             "artist": "Zonderling",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Clouds",
-            "trackid": "0wL1YMjvumpm0DIjqa2TZ5"
+            "trackid": "0wL1YMjvumpm0DIjqa2TZ5",
+            "uri": ""
         },
         "17": {
             "artist": "Zonderling",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Clouds",
-            "trackid": "0wL1YMjvumpm0DIjqa2TZ5"
+            "trackid": "0wL1YMjvumpm0DIjqa2TZ5",
+            "uri": ""
         },
         "18": {
             "artist": "Joe Farnsworth",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Darn That Dream",
-            "trackid": "2nWQ1vNWFScr1w8VCJj1tz"
+            "trackid": "2nWQ1vNWFScr1w8VCJj1tz",
+            "uri": ""
         },
         "19": {
             "artist": "Clouds",
@@ -1873,6 +1888,134 @@
             "trackid": "2ZVspXNSXWGnp3QooiXoO5"
         }
     },
+    "imogen-25th-january-2023": {
+        "00": {
+            "artist": "StacEmp",
+            "ratio": 9,
+            "title": "Closer",
+            "trackid": "62uM2nAzAhNNwOPOh0K3gx"
+        },
+        "01": {
+            "artist": "Kaiser Chiefs",
+            "ratio": 4,
+            "title": "Record Collection",
+            "trackid": "0ItD5cgfl9jvzVTOlehFxd"
+        },
+        "02": {
+            "artist": "Jimi Joel",
+            "ratio": 9,
+            "title": "so uhm...",
+            "trackid": "0iICyyDi7Bja2oSZ6DwTPd"
+        },
+        "03": {
+            "artist": "WTCHCRFT",
+            "ratio": 9,
+            "title": "SHAKE IT",
+            "trackid": "6lLPjcycjndNKIShsB53Eq"
+        },
+        "04": {
+            "artist": "Guitar",
+            "ratio": 3,
+            "title": "Dark Winter Nights",
+            "trackid": "61QZSUgTSoecybR8ZIQ0pj"
+        },
+        "05": {
+            "artist": "Samba Peuzzi",
+            "ratio": 3,
+            "title": "Sambaboye",
+            "trackid": "7DGLVmJ0qzFW9Ij3bSa6IL"
+        },
+        "06": {
+            "artist": "Not A Headliner",
+            "ratio": 9,
+            "title": "Polansky Y El Ardor",
+            "trackid": "4XczYnSFDFQgOBYCpPZKDo"
+        },
+        "07": {
+            "artist": "Rudosa",
+            "ratio": 3,
+            "title": "It Is What It Is",
+            "trackid": "2BxFvSjT1j5QfFpwXq0KVD"
+        },
+        "08": {
+            "artist": "UFO",
+            "ratio": 4,
+            "title": "Unidentified Flying Object - Remastered",
+            "trackid": "2PVjAaYFqLyyHGcUGRxgMD"
+        },
+        "09": {
+            "artist": "Tensal",
+            "ratio": 9,
+            "title": "LA1",
+            "trackid": "1h19XhyjDjrzg9DoSEeumX"
+        },
+        "10": {
+            "artist": "Dax J",
+            "ratio": 9,
+            "title": "The Final Wavescape",
+            "trackid": "5Xbgm5C7322aDgaosLgiW3"
+        },
+        "11": {
+            "artist": "Concrete Dj'z",
+            "ratio": 9,
+            "title": "Incoming",
+            "trackid": "3WVlL1bju80y1tb4wlrjLh"
+        },
+        "12": {
+            "artist": "Clouds",
+            "ratio": 9,
+            "title": "Doom Tune",
+            "trackid": "1P9EG3vg1s8bw6glgCIyTz"
+        },
+        "13": {
+            "artist": "BONES",
+            "ratio": 4,
+            "title": "DarkShadowBlunts",
+            "trackid": "6whN5aU7NVsnhpmV67Q7HA"
+        },
+        "14": {
+            "artist": "Jacidorex",
+            "ratio": 9,
+            "title": "Nicomaque",
+            "trackid": "4rROedXaNX3RbNKEMMbmVk"
+        },
+        "15": {
+            "artist": "Vigiland",
+            "ratio": 4,
+            "title": "UFO - Trap Edit",
+            "trackid": "7bmNm68EEyvggTrJyjrTbJ"
+        },
+        "16": {
+            "artist": "Ryan James Ford",
+            "ratio": 9,
+            "title": "Purity",
+            "trackid": "2RyifU0F6gCJGBWfgqC1CW"
+        },
+        "17": {
+            "artist": "Vanquished",
+            "ratio": 9,
+            "title": "Blanka",
+            "trackid": "56T04xozQdt1seF2WCAJle"
+        },
+        "18": {
+            "artist": "Planetary Assault Systems",
+            "ratio": 9,
+            "title": "Rip The Cut - Luke Slater Remix 2",
+            "trackid": "5RmLvhIc9qZJg7CZgSA3ln"
+        },
+        "19": {
+            "artist": "Jamie Bissmire",
+            "ratio": 4,
+            "title": "Number & Measure - Jamie Bissmire Remix",
+            "trackid": "6eeeHecDe1YfeLkG93HLY5"
+        },
+        "20": {
+            "artist": "Clouds",
+            "ratio": 9,
+            "title": "Spider Opal",
+            "trackid": "0dXDoF14b5HE2W0Rg9wOGO"
+        }
+    },
     "imogen-25th-november-2020": {
         "00": {
             "artist": "E-Saggila",
@@ -2250,9 +2393,10 @@
         },
         "01": {
             "artist": "Rêve",
-            "ratio": 4,
+            "ratio": -1,
             "title": "CTRL + ALT + DEL",
-            "trackid": "7ElC7VjUNl3oJ20Q5OpEh9"
+            "trackid": "7ElC7VjUNl3oJ20Q5OpEh9",
+            "uri": ""
         },
         "02": {
             "artist": "",
@@ -2262,9 +2406,10 @@
         },
         "03": {
             "artist": "Rêve",
-            "ratio": 4,
+            "ratio": -1,
             "title": "CTRL + ALT + DEL",
-            "trackid": "7ElC7VjUNl3oJ20Q5OpEh9"
+            "trackid": "7ElC7VjUNl3oJ20Q5OpEh9",
+            "uri": ""
         },
         "04": {
             "artist": "Emmit Fenn",
@@ -2322,9 +2467,10 @@
         },
         "13": {
             "artist": "Rêve",
-            "ratio": 4,
+            "ratio": -1,
             "title": "CTRL + ALT + DEL",
-            "trackid": "7ElC7VjUNl3oJ20Q5OpEh9"
+            "trackid": "7ElC7VjUNl3oJ20Q5OpEh9",
+            "uri": ""
         },
         "14": {
             "artist": "Fabrizio Rat",
@@ -2334,9 +2480,10 @@
         },
         "15": {
             "artist": "Rêve",
-            "ratio": 4,
+            "ratio": -1,
             "title": "CTRL + ALT + DEL",
-            "trackid": "7ElC7VjUNl3oJ20Q5OpEh9"
+            "trackid": "7ElC7VjUNl3oJ20Q5OpEh9",
+            "uri": ""
         },
         "16": {
             "artist": "Tommy Holohan",
@@ -2370,9 +2517,10 @@
         },
         "21": {
             "artist": "Rêve",
-            "ratio": 4,
+            "ratio": -1,
             "title": "CTRL + ALT + DEL",
-            "trackid": "7ElC7VjUNl3oJ20Q5OpEh9"
+            "trackid": "7ElC7VjUNl3oJ20Q5OpEh9",
+            "uri": ""
         }
     },
     "imogen-30th-september-2020": {
@@ -2617,9 +2765,10 @@
         },
         "03": {
             "artist": "L'Infanterie Sauvage",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Adolf Est Au Vatican (Inédit / Unreleased 1983)",
-            "trackid": "2MaMwH03UHUi8huSwmzqah"
+            "trackid": "2MaMwH03UHUi8huSwmzqah",
+            "uri": ""
         },
         "04": {
             "artist": "Olēka",
@@ -2641,9 +2790,10 @@
         },
         "07": {
             "artist": "d0llywood1",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Imgonnagetmyrevenge",
-            "trackid": "5X3NLqODCmjLmsGTzB3gks"
+            "trackid": "5X3NLqODCmjLmsGTzB3gks",
+            "uri": ""
         },
         "08": {
             "artist": "Schacke",
@@ -2659,9 +2809,10 @@
         },
         "10": {
             "artist": "L'Infanterie Sauvage",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Adolf Est Au Vatican (Inédit / Unreleased 1983)",
-            "trackid": "2MaMwH03UHUi8huSwmzqah"
+            "trackid": "2MaMwH03UHUi8huSwmzqah",
+            "uri": ""
         },
         "11": {
             "artist": "Hermeth",

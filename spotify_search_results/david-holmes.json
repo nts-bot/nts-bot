@@ -2636,6 +2636,577 @@
             ]
         }
     },
+    "david-holmes-23rd-january-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Andrew Tuttle",
+                    "title": "Next Week, Pending",
+                    "uri": "1978fpPpjo7mF8V72QaKZk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Andrew Tuttle",
+                    "title": "Next Week, Pending",
+                    "uri": "1978fpPpjo7mF8V72QaKZk"
+                },
+                {
+                    "artist": "Andrew Rudolph",
+                    "title": "It Will Not Stop",
+                    "uri": "6Y8eYg7Pv1xaYaAwcxxIts"
+                },
+                {
+                    "artist": "Andrew Rudolph",
+                    "title": "Map Center",
+                    "uri": "1lMClzkBoIzkc93oagpY9T"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tony Esposito",
+                    "title": "Kalimba De Luna",
+                    "uri": "5JVsjYDxyCV2aIGj16M4uV"
+                },
+                {
+                    "artist": "Tony Esposito",
+                    "title": "Kalimba de Luna",
+                    "uri": "1PPv1MhTbHWc3fz2rtPfcX"
+                },
+                {
+                    "artist": "Tony Esposito",
+                    "title": "Papa Chico",
+                    "uri": "2GNjOaf9Ggd4qjrDbSMB7G"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Rico Toto",
+                    "title": "Golgotha",
+                    "uri": "6XYKvfPiJbN3U79ZPoiXgR"
+                },
+                {
+                    "artist": "Rico Toto",
+                    "title": "Golgotha",
+                    "uri": "4gevXyZIDZ4AH6JINRk6GT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "ElGrandeToto",
+                    "title": "Mghayer",
+                    "uri": "5QhnCB5kD34sYkvHviU0yz"
+                },
+                {
+                    "artist": "Niro",
+                    "title": "Toto Ronii",
+                    "uri": "06pEqztix2qj6sHsLbG86R"
+                },
+                {
+                    "artist": "TOTO",
+                    "title": "While My Guitar Gently Weeps - Live",
+                    "uri": "1xzdBKqinf0UA9HuyJQSBA"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Rico Toto",
+                    "title": "Jungle Meditation",
+                    "uri": "1RsSQvuKH3eiy97ngNTIvf"
+                },
+                {
+                    "artist": "Rico Toto",
+                    "title": "Jungle meditation",
+                    "uri": "0LPzy0ibijyRIIsqXmLaSf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "TOTO",
+                    "title": "While My Guitar Gently Weeps - Live",
+                    "uri": "1xzdBKqinf0UA9HuyJQSBA"
+                },
+                {
+                    "artist": "Niro",
+                    "title": "Toto Ronii",
+                    "uri": "06pEqztix2qj6sHsLbG86R"
+                },
+                {
+                    "artist": "TOTO",
+                    "title": "Rosanna - Live",
+                    "uri": "5QUWiWdTIsVkXXSbkmTBs4"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Duncan Marquiss",
+                    "title": "Drivenhalle",
+                    "uri": "4bR5TPr7hAkielcdqsrjSL"
+                },
+                {
+                    "artist": "Duncan Marquiss",
+                    "title": "Drivenhalle",
+                    "uri": "4B4qwZCyU0cfdcUbtM1zQG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Duncan Marquiss",
+                    "title": "Drivenhalle",
+                    "uri": "4bR5TPr7hAkielcdqsrjSL"
+                },
+                {
+                    "artist": "Duncan Marquiss",
+                    "title": "Murmer Double",
+                    "uri": "7kj7ZqCPVeAl103iUrOi11"
+                },
+                {
+                    "artist": "Duncan Marquiss",
+                    "title": "Minor History",
+                    "uri": "1aPakD8iIgQLx2jvFtdjn0"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Prince Jammy",
+                    "title": "Out of Order - Dub",
+                    "uri": "44YFMG3VWlmPSJms7KvuGI"
+                },
+                {
+                    "artist": "Prince Jammy",
+                    "title": "Out of Order Dub",
+                    "uri": "2taupYzXOXhbptxxnDWSJ3"
+                },
+                {
+                    "artist": "Prince Jammy",
+                    "title": "Out of Order Dub",
+                    "uri": "2Qg5k9C8o0V4BrdsJrkHsy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Prince Jammy",
+                    "title": "Fist Of Fury",
+                    "uri": "4iSYsIdGbxKTaisRmCoTV4"
+                },
+                {
+                    "artist": "Prince Jammy",
+                    "title": "Throne Of Blood",
+                    "uri": "2AW9wRSaGKUrukKziODy12"
+                },
+                {
+                    "artist": "Prince Jammy",
+                    "title": "Rude Boy",
+                    "uri": "4f1GpbYe1TAYTS6NJkhr4Y"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Bill Laswell",
+                    "title": "Occult Persuasion",
+                    "uri": "5aU3OAVDnuxc5bOievil3U"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Anakronic Electro Orkestra",
+                    "title": "Human Tribe - Bill Laswell Remix",
+                    "uri": "2fEcw2t260BcSiZWG8sfcP"
+                },
+                {
+                    "artist": "Bill LaBounty",
+                    "title": "Livin' It Up",
+                    "uri": "0lwHorTzvh8D4pQaWFYqnn"
+                },
+                {
+                    "artist": "Bill Laurance",
+                    "title": "La Marinada",
+                    "uri": "7AvupmXdAH8H00kvQ6Ro5S"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "The Golden Palominos",
+                    "title": "Clean Plate",
+                    "uri": "3GRDEGRpB7X2blPiZtSym0"
+                },
+                {
+                    "artist": "The Golden Palominos",
+                    "title": "Clean Plate",
+                    "uri": "1SJ1tFEUltoDV00xDE6Skr"
+                },
+                {
+                    "artist": "The Golden Palominos",
+                    "title": "Clean Plate",
+                    "uri": "4TlnvAonTK1adgdzrrfkSy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Golden Palominos",
+                    "title": "Clean Plate",
+                    "uri": "3GRDEGRpB7X2blPiZtSym0"
+                },
+                {
+                    "artist": "The Chemical Brothers",
+                    "title": "The Golden Path",
+                    "uri": "3IxTzXsvEeKmVDewO5Gqp9"
+                },
+                {
+                    "artist": "Salt Lake City LDS Ensemble",
+                    "title": "The Golden Plates",
+                    "uri": "37ZQ2YJe9ghMD4kjDgNnkG"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Bill Laswell",
+                    "title": "Upright Man",
+                    "uri": "2MNEBclcHXb4TKE07kCfra"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bill LaBounty",
+                    "title": "Livin' It Up",
+                    "uri": "0lwHorTzvh8D4pQaWFYqnn"
+                },
+                {
+                    "artist": "Bill LaBounty",
+                    "title": "Look Who's Lonely Now",
+                    "uri": "2tw1ZDp8vbVbJjHchv6XZQ"
+                },
+                {
+                    "artist": "Bill Laurance",
+                    "title": "The Good Things",
+                    "uri": "7drkN9v3cX4CqA8gTq3pPB"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "The Residents",
+                    "title": "Pestilence",
+                    "uri": "2sIocoueMopCiR6rTJGgcg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Residents",
+                    "title": "Amber",
+                    "uri": "3RFATi0CFMnY8Vau6KS8ks"
+                },
+                {
+                    "artist": "Kinetic Eye",
+                    "title": "Sista Bessie",
+                    "uri": "60WYUlpJvsWmT05NjU3E5Y"
+                },
+                {
+                    "artist": "TheyreThere",
+                    "title": "O.N.E.",
+                    "uri": "0NGQ91tElfTzZdtmP3g6zd"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Isabel LaRosa",
+                    "title": "HEARTBEAT",
+                    "uri": "6nStBZGqGgTR87MrBpNza0"
+                },
+                {
+                    "artist": "平田志穂子",
+                    "title": "Heartbeat,Heartbreak",
+                    "uri": "6WKXaHvZIqMnPVYF4G2b8e"
+                },
+                {
+                    "artist": "Kelly Clarkson",
+                    "title": "Heartbeat Song",
+                    "uri": "7FC9Lng8iXU081lbigu8m8"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Beatles",
+                    "title": "Here, There And Everywhere - Remastered 2009",
+                    "uri": "2B4Y9u4ERAFiMo13XPJyGP"
+                },
+                {
+                    "artist": "The Beatles",
+                    "title": "Here, There And Everywhere - 2022 Mix",
+                    "uri": "47gNXRKcBJxu6bOvmyUroI"
+                },
+                {
+                    "artist": "Carmen McRae",
+                    "title": "Here There and Everywhere",
+                    "uri": "7kk8Xdlu94Zr0O1IVNFody"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "mir4L",
+                    "title": "Vette!",
+                    "uri": "7ui7GqNyWPlyujiw1Iimip"
+                },
+                {
+                    "artist": "prado musik",
+                    "title": "EL MORRO DE MICHOACAN",
+                    "uri": "0blVyobxtGlwICzdPbPufp"
+                },
+                {
+                    "artist": "Daniel Rodriguez",
+                    "title": "El Morrito",
+                    "uri": "6aGaTCwOPIpJKPu2SF7oP9"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "L19U1D",
+                    "title": "EXOTIC",
+                    "uri": "4UTbyZmHhMJXL8TsJ9y1Lr"
+                },
+                {
+                    "artist": "Naicok",
+                    "title": "Exotica",
+                    "uri": "4CYhUWDAEgn37MD5Ts3Hdk"
+                },
+                {
+                    "artist": "The Exotic Horse",
+                    "title": "Erithacus Minor",
+                    "uri": "2JZ3voNZ5Y44YuRFKzEmwk"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mick Harvey",
+                    "title": "Bonnie & Clyde",
+                    "uri": "3UwRbrWadMPn52s545LzDp"
+                },
+                {
+                    "artist": "BONNIE X CLYDE",
+                    "title": "The Unknown",
+                    "uri": "3j5udcJCWrQK51O6wahLyf"
+                },
+                {
+                    "artist": "Alaza",
+                    "title": "Bonnie & Clyde",
+                    "uri": "4CPaS0u7OtUSYj4Bmhldhp"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Jose Manuel",
+                    "title": "Terror",
+                    "uri": "22LGkEEyZIJDfluHdZN9Hg"
+                },
+                {
+                    "artist": "Jose Manuel, Carlo Bandini...",
+                    "title": "Hardcore Terror Sound",
+                    "uri": "2mjBRIznEv75zX2LDLyiNu"
+                },
+                {
+                    "artist": "José Lostaló",
+                    "title": "Danza del Terror",
+                    "uri": "4cIaIXDmUJmPZqtJWxqTf5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jose Manuel",
+                    "title": "Terror",
+                    "uri": "22LGkEEyZIJDfluHdZN9Hg"
+                },
+                {
+                    "artist": "Jose Manuel",
+                    "title": "Preguntas Cuanto Te Amo",
+                    "uri": "1WkbUrdz2IrKkHnUTiySVd"
+                },
+                {
+                    "artist": "Oswaldo",
+                    "title": "El Chavez",
+                    "uri": "5OVjELJHGXUFKXvFc1Z519"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "JayDaDon",
+                    "title": "Intoxicated",
+                    "uri": "3tk4Ia1Wyhj4sK62KSW2Me"
+                },
+                {
+                    "artist": "Keys",
+                    "title": "Montana",
+                    "uri": "29CfggYUnI5DiAwmCA0XM5"
+                },
+                {
+                    "artist": "G.I.F.T.E.D",
+                    "title": "Intoxicating",
+                    "uri": "2N7mIEN2R9UeUk58N642bo"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Foreign Affair",
+                    "title": "Sandanya",
+                    "uri": "4CaZj8D63CsCfh2A4TdC7M"
+                },
+                {
+                    "artist": "Foreign Affair",
+                    "title": "Sandanya - Mr Big Mouse Mix",
+                    "uri": "4UMfzfwwkFeNfcpToOXONu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mike Oldfield",
+                    "title": "Foreign Affair",
+                    "uri": "1qzi6YBAFmD0KZPMvVqhBB"
+                },
+                {
+                    "artist": "Tina Turner",
+                    "title": "Foreign Affair",
+                    "uri": "1tuwxC3imWlflsHGB0plk5"
+                },
+                {
+                    "artist": "Corcovado Frequency",
+                    "title": "Foreign Affair",
+                    "uri": "1hHeC95fcYlvRVQDIxR4NJ"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Vangelis",
+                    "title": "Multi-Track Suggestion",
+                    "uri": "59ea6XdbLDBoc8nvy4gGSM"
+                },
+                {
+                    "artist": "Vangelis",
+                    "title": "Multi-Track Suggestion - Remastered",
+                    "uri": "0a12XhXGh7ZsB28h8NaaBA"
+                },
+                {
+                    "artist": "Vangelis",
+                    "title": "Multi-Track Suggestion - Remastered",
+                    "uri": "2DlpEIjCYQemOrB2yysF1C"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Vangelis",
+                    "title": "Love Theme",
+                    "uri": "2oDR7QWoLBk9VYMwsFbRGq"
+                },
+                {
+                    "artist": "Evangelos Papathanassiou",
+                    "title": "Chariots Of Fire - Edit",
+                    "uri": "1KDXKiD18khzOIYcYNQNMt"
+                },
+                {
+                    "artist": "Vangelis",
+                    "title": "Titles",
+                    "uri": "36qn2bFfZzUwM6eIv2XOc9"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Pleasure Pool",
+                    "title": "Love Without Illusion",
+                    "uri": "7vXbZfM4HVUAflc7YvSzBS"
+                },
+                {
+                    "artist": "Pleasure Pool",
+                    "title": "Love Without Illusion",
+                    "uri": "029OGUl8Ot8V7MLDhvNjYr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pleasure Pool",
+                    "title": "Love Without Illusion",
+                    "uri": "7vXbZfM4HVUAflc7YvSzBS"
+                },
+                {
+                    "artist": "Pleasure Pool",
+                    "title": "Dub Without Illusion",
+                    "uri": "1a8vGXaAT6R6G2yWUOgO9G"
+                },
+                {
+                    "artist": "Pleasure Pool",
+                    "title": "Open Hours",
+                    "uri": "2SoSbmBRSVY3P8Vl8Wpfwy"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Ernest Hood",
+                    "title": "Into the Groves",
+                    "uri": "4MuiGbonNYF2mlDOfvXwVB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ernest Hood",
+                    "title": "Into the Groves",
+                    "uri": "4MuiGbonNYF2mlDOfvXwVB"
+                },
+                {
+                    "artist": "Ernest Hood",
+                    "title": "Bedroom of the Absent Child",
+                    "uri": "57Lny1d6aGzxO3wu9qDrFO"
+                },
+                {
+                    "artist": "Ernest Honny",
+                    "title": "Kofi Psych",
+                    "uri": "2DL2ErCwE8QaVWs6X5jMSn"
+                }
+            ]
+        }
+    },
     "david-holmes-29th-november-2021": {
         "00": {
             "s0": [
