@@ -1595,9 +1595,10 @@
     "ad-93-w-tasker-23rd-january-2022": {
         "00": {
             "artist": "Hunter",
-            "ratio": 3,
+            "ratio": -1,
             "title": "untitled_1",
-            "trackid": "063ac00V0P0Vm6Y99yPldT"
+            "trackid": "063ac00V0P0Vm6Y99yPldT",
+            "uri": ""
         },
         "01": {
             "artist": "Burial",
@@ -1607,33 +1608,38 @@
         },
         "02": {
             "artist": "Hunter",
-            "ratio": 3,
+            "ratio": -1,
             "title": "untitled_1",
-            "trackid": "063ac00V0P0Vm6Y99yPldT"
+            "trackid": "063ac00V0P0Vm6Y99yPldT",
+            "uri": ""
         },
         "03": {
             "artist": "Hunter",
-            "ratio": 3,
+            "ratio": -1,
             "title": "untitled_1",
-            "trackid": "063ac00V0P0Vm6Y99yPldT"
+            "trackid": "063ac00V0P0Vm6Y99yPldT",
+            "uri": ""
         },
         "04": {
             "artist": "Hunter",
-            "ratio": 3,
+            "ratio": -1,
             "title": "untitled_1",
-            "trackid": "063ac00V0P0Vm6Y99yPldT"
+            "trackid": "063ac00V0P0Vm6Y99yPldT",
+            "uri": ""
         },
         "05": {
             "artist": "Hunter",
-            "ratio": 3,
+            "ratio": -1,
             "title": "untitled_1",
-            "trackid": "063ac00V0P0Vm6Y99yPldT"
+            "trackid": "063ac00V0P0Vm6Y99yPldT",
+            "uri": ""
         },
         "06": {
             "artist": "Hunter",
-            "ratio": 3,
+            "ratio": -1,
             "title": "untitled_1",
-            "trackid": "063ac00V0P0Vm6Y99yPldT"
+            "trackid": "063ac00V0P0Vm6Y99yPldT",
+            "uri": ""
         },
         "07": {
             "artist": "TENGGER",
@@ -1649,21 +1655,24 @@
         },
         "09": {
             "artist": "Hunter",
-            "ratio": 3,
+            "ratio": -1,
             "title": "untitled_1",
-            "trackid": "063ac00V0P0Vm6Y99yPldT"
+            "trackid": "063ac00V0P0Vm6Y99yPldT",
+            "uri": ""
         },
         "10": {
             "artist": "Hunter",
-            "ratio": 3,
+            "ratio": -1,
             "title": "untitled_1",
-            "trackid": "063ac00V0P0Vm6Y99yPldT"
+            "trackid": "063ac00V0P0Vm6Y99yPldT",
+            "uri": ""
         },
         "11": {
             "artist": "Hunter",
-            "ratio": 3,
+            "ratio": -1,
             "title": "untitled_1",
-            "trackid": "063ac00V0P0Vm6Y99yPldT"
+            "trackid": "063ac00V0P0Vm6Y99yPldT",
+            "uri": ""
         },
         "12": {
             "artist": "Oren Ambarchi",
@@ -2229,9 +2238,10 @@
         },
         "26": {
             "artist": "Interactive Noise",
-            "ratio": 0,
+            "ratio": -1,
             "title": "The Unreleased Live Mix (Live)",
-            "trackid": "0y2IYsBuXyskklqUqz5Itq"
+            "trackid": "0y2IYsBuXyskklqUqz5Itq",
+            "uri": ""
         },
         "27": {
             "artist": "Waltons",
@@ -2247,9 +2257,10 @@
         },
         "29": {
             "artist": "Shifting Sands",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Unrelenting Surf",
-            "trackid": "4l9dtlyHQJHFBAiB1YS7Zr"
+            "trackid": "4l9dtlyHQJHFBAiB1YS7Zr",
+            "uri": ""
         },
         "30": {
             "artist": "Siete Catorce",
@@ -3638,6 +3649,251 @@
             "ratio": 9,
             "title": "Nil",
             "trackid": "7ve54JSHBvuDEqDD5zixOl"
+        }
+    },
+    "olan-monk-29th-january-2023": {
+        "00": {
+            "artist": "Olan Monk",
+            "ratio": -1,
+            "title": "Can't Wait",
+            "trackid": "1Zlj5rlu1uMDxyGONOPtGZ",
+            "uri": ""
+        },
+        "01": {
+            "artist": "Olan Monk",
+            "ratio": 9,
+            "title": "Can't Wait - Instrumental Dub",
+            "trackid": "1kVxi6p63xKJLPNJajTU3j"
+        },
+        "02": {
+            "artist": "Lugh",
+            "ratio": 9,
+            "title": "Nu",
+            "trackid": "3FxTlqRMSGxGuM9Di4O5zj"
+        },
+        "03": {
+            "artist": "Cormac Begley",
+            "ratio": 3,
+            "title": "Merrily Kiss The Quaker & The Lisheen Slide (Slides)",
+            "trackid": "71AAq8p16U8ODZhHvqkTdi"
+        },
+        "04": {
+            "artist": "Traditional World Singers",
+            "ratio": 4,
+            "title": "My Darling Asleep (Jig)",
+            "trackid": "5yIRsrUtRNWZLfiTUNioHz"
+        },
+        "05": {
+            "artist": "Loren Connors",
+            "ratio": 9,
+            "title": "St. Brigid's Air",
+            "trackid": "2TXyM847La3TEWHX3Qgz39"
+        },
+        "06": {
+            "artist": "my bloody valentine",
+            "ratio": 9,
+            "title": "instrumental no. 2",
+            "trackid": "53PNyTA6s9NSfTtbIcm1D1"
+        },
+        "07": {
+            "artist": "Chon Dublin",
+            "ratio": 4,
+            "title": "Cutdown 2021",
+            "trackid": "47DpVGy8xK59f3fqZKEGOj"
+        },
+        "08": {
+            "artist": "Pavel Milyakov",
+            "ratio": 0,
+            "title": "last dolphin",
+            "trackid": "4QGDbzgvZuwzERzGTDSjx6"
+        },
+        "09": {
+            "artist": "Borg Vaughan",
+            "ratio": 3,
+            "title": "The Bolivian Extract",
+            "trackid": "6kc9PXhM2EKeVZNSmGPx7Q"
+        },
+        "10": {
+            "artist": "Enya",
+            "ratio": 9,
+            "title": "Boadicea",
+            "trackid": "43AiEY2ztKnsFLKM7CCHBk"
+        },
+        "11": {
+            "artist": "Alpha Maid",
+            "ratio": 9,
+            "title": "NEWLY WOKE & THOUGHT PROVOKED",
+            "trackid": "3sIYkeFuONXcfP3BsGEJtx"
+        },
+        "12": {
+            "artist": "Unknown",
+            "ratio": -1,
+            "title": "Jump - Unknown Remix",
+            "trackid": "3pQ5aj9I7PNpBuOe9PED0J",
+            "uri": ""
+        },
+        "13": {
+            "artist": "AREA21",
+            "ratio": 3,
+            "title": "No Angel",
+            "trackid": "6G8ca7SrQtbNGGau3w0M5Y"
+        },
+        "14": {
+            "artist": "Moin",
+            "ratio": 9,
+            "title": "Knuckle",
+            "trackid": "5vPCtdnQaDmbIr4rqJDawt"
+        },
+        "15": {
+            "artist": "James K",
+            "ratio": 9,
+            "title": "Life Of A Fly",
+            "trackid": "6JdnWwouh7SpDmhpswPRKs"
+        },
+        "16": {
+            "artist": "Michael Sparks",
+            "ratio": 5,
+            "title": "Ballin'",
+            "trackid": "2zQrWqYGj80hWmy5wnQOFU"
+        },
+        "17": {
+            "artist": "Dies Lexic",
+            "ratio": 9,
+            "title": "Birds Are Wind Vessels And We Blow",
+            "trackid": "4ssJROHzQEvnRjP4oC3WzU"
+        },
+        "18": {
+            "artist": "Dies Lexic",
+            "ratio": 9,
+            "title": "Praying Machine",
+            "trackid": "6odqRyBNnrJM9N8Mw1XvoP"
+        },
+        "19": {
+            "artist": "Polidecto Correa",
+            "ratio": 5,
+            "title": "El Esqueleto",
+            "trackid": "5zjsb4r4HlmzefyNkCMRkw"
+        },
+        "20": {
+            "artist": "Frog of Earth",
+            "ratio": 9,
+            "title": "Heard Upwards",
+            "trackid": "3xcyNfpqe2hKDrO9Xdq4pr"
+        },
+        "21": {
+            "artist": "Xao",
+            "ratio": 9,
+            "title": "Aqua Tofana",
+            "trackid": "7eaQpyo5cSsMrmrRlj4L9Q"
+        },
+        "22": {
+            "artist": "Spellcaster",
+            "ratio": 9,
+            "title": "muted singers",
+            "trackid": "34ugy8AyFgM43VhZ4Xu0gg"
+        },
+        "23": {
+            "artist": "33",
+            "ratio": 9,
+            "title": "Speed and beer",
+            "trackid": "42uJTVKy5q8sjXodMZUTxl"
+        },
+        "24": {
+            "artist": "Gorillaz",
+            "ratio": 9,
+            "title": "Latin Simone (Que Pasa Contigo)",
+            "trackid": "5A0FQhWDBk2YSPiMjSZxe5"
+        },
+        "25": {
+            "artist": "Stano",
+            "ratio": 9,
+            "title": "Blue Glide",
+            "trackid": "5GkOW7XlOcg9imemke0BUV"
+        },
+        "26": {
+            "artist": "Gilla Band",
+            "ratio": 9,
+            "title": "Almost Soon",
+            "trackid": "7MqKkS8p1beDCXeCHMvSBu"
+        },
+        "27": {
+            "artist": "Coby Sey",
+            "ratio": 9,
+            "title": "Response",
+            "trackid": "5lwuE39rcc8kkcq0ZxSsMZ"
+        },
+        "28": {
+            "artist": "Lol K",
+            "ratio": 9,
+            "title": "Anechonic",
+            "trackid": "0qUV2kycchoWMD7T9DtkTm"
+        },
+        "29": {
+            "artist": "Mica Levi",
+            "ratio": 0,
+            "title": "Vanity",
+            "trackid": "7j9UJ8tBxqUi9LM6wRr1Bm"
+        },
+        "30": {
+            "artist": "Olan Mill",
+            "ratio": -1,
+            "title": "Pine",
+            "trackid": "7dHMwweyAAzdK1d5FFHAPS",
+            "uri": ""
+        },
+        "31": {
+            "artist": "Goth Babe",
+            "ratio": 3,
+            "title": "Casita",
+            "trackid": "3HjAGIYYXG7PS7OegQa0xM"
+        },
+        "32": {
+            "artist": "Lucrecia Dalt",
+            "ratio": 9,
+            "title": "Contenida",
+            "trackid": "0SFFoFz2bvkTQmLkw2Z58G"
+        },
+        "33": {
+            "artist": "Actress",
+            "ratio": 9,
+            "title": "Fragments of a Butterfly’s Face - Edit",
+            "trackid": "2tjotfP0A3kTyx71G42exR"
+        },
+        "34": {
+            "artist": "ROSALÍA",
+            "ratio": 9,
+            "title": "LAX",
+            "trackid": "2N3YZ075lq9z1ObaAiX6l1"
+        },
+        "35": {
+            "artist": "Erik Satie",
+            "ratio": 4,
+            "title": "Satie: 6 Gnossiennes: No. 1, Lent",
+            "trackid": "4y0N4SyyKNfh7GGvmM69Oi"
+        },
+        "36": {
+            "artist": "Thelonious Monk",
+            "ratio": 3,
+            "title": "North Of The Sunset",
+            "trackid": "0uy4Zg0yVfzMyqRG9bkRnK"
+        },
+        "37": {
+            "artist": "Thin Lizzy",
+            "ratio": 9,
+            "title": "Shades Of A Blue Orphanage",
+            "trackid": "2UYesUnzqdcUKa7h5dLGpb"
+        },
+        "38": {
+            "artist": "Arthur Russell",
+            "ratio": 9,
+            "title": "Being It",
+            "trackid": "07NFhHNydJHQFj41TlcF6A"
+        },
+        "39": {
+            "artist": "Fantasy Land",
+            "ratio": 9,
+            "title": "When You Got It Done",
+            "trackid": "6py8fPqbJytCcYYlUqmGKl"
         }
     },
     "re-in-10th-june-2018": {
@@ -5454,15 +5710,17 @@
         },
         "04": {
             "artist": "Cordae",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Super",
-            "trackid": "3sjtQ07ptlPzw2N4YmGW3S"
+            "trackid": "3sjtQ07ptlPzw2N4YmGW3S",
+            "uri": ""
         },
         "05": {
             "artist": "Goro",
-            "ratio": 9,
+            "ratio": -1,
             "title": "Верь",
-            "trackid": "1RdCWl20YaCkJWjb6cjwXO"
+            "trackid": "1RdCWl20YaCkJWjb6cjwXO",
+            "uri": ""
         },
         "06": {
             "artist": "Always Christmas",
@@ -5490,9 +5748,10 @@
         },
         "10": {
             "artist": "DJ JM",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Owned",
-            "trackid": "3Gn1qHRMA4nHxz8MCYdV8U"
+            "trackid": "3Gn1qHRMA4nHxz8MCYdV8U",
+            "uri": ""
         },
         "11": {
             "artist": "Tommy Four Seven",
@@ -6544,15 +6803,17 @@
         },
         "04": {
             "artist": "The Simpkin Project",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Hustling",
-            "trackid": "6OYLEtqr2RWqJOHC7q6lzQ"
+            "trackid": "6OYLEtqr2RWqJOHC7q6lzQ",
+            "uri": ""
         },
         "05": {
             "artist": "Lack",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Dispelling Inchoate",
-            "trackid": "1kxELStPx1Yo8FPxYF1zgy"
+            "trackid": "1kxELStPx1Yo8FPxYF1zgy",
+            "uri": ""
         },
         "06": {
             "artist": "Drexciya",
@@ -6592,9 +6853,10 @@
         },
         "12": {
             "artist": "JXMESC",
-            "ratio": 4,
+            "ratio": -1,
             "title": "LIFT",
-            "trackid": "6AuJw85MeouHU8dcVBZjKI"
+            "trackid": "6AuJw85MeouHU8dcVBZjKI",
+            "uri": ""
         },
         "13": {
             "artist": "Sinjin Hawke",
@@ -6634,15 +6896,17 @@
         },
         "19": {
             "artist": "Iceboy Violet",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Are U Connected",
-            "trackid": "6JDcNReZ19RWcNqzF0QRm4"
+            "trackid": "6JDcNReZ19RWcNqzF0QRm4",
+            "uri": ""
         },
         "20": {
             "artist": "Jennifer Walton",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Flash On",
-            "trackid": "69BKdvzPOb8pms21jqnF3U"
+            "trackid": "69BKdvzPOb8pms21jqnF3U",
+            "uri": ""
         },
         "21": {
             "artist": "",
@@ -9287,9 +9551,10 @@
     "whities-w-tasker-11th-february-2018": {
         "00": {
             "artist": "BFFO",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Bit",
-            "trackid": "19ZID9aUc2eP5MyCXiBhce"
+            "trackid": "19ZID9aUc2eP5MyCXiBhce",
+            "uri": ""
         },
         "01": {
             "artist": "Pendant",
@@ -9403,9 +9668,10 @@
         },
         "19": {
             "artist": "BFFO",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Bit",
-            "trackid": "19ZID9aUc2eP5MyCXiBhce"
+            "trackid": "19ZID9aUc2eP5MyCXiBhce",
+            "uri": ""
         },
         "20": {
             "artist": "Bandhagens Musikförening",
@@ -10091,9 +10357,10 @@
         },
         "03": {
             "artist": "Poppa Benji",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Unreleased",
-            "trackid": "7LkmY3yiKKDebmNSV58jy9"
+            "trackid": "7LkmY3yiKKDebmNSV58jy9",
+            "uri": ""
         },
         "04": {
             "artist": "Robert Aiki Aubrey Lowe",
@@ -10334,9 +10601,10 @@
         },
         "10": {
             "artist": "JAY1",
-            "ratio": 5,
+            "ratio": -1,
             "title": "BLAZED",
-            "trackid": "1ANsb5vQRibOKYh7oHaQLu"
+            "trackid": "1ANsb5vQRibOKYh7oHaQLu",
+            "uri": ""
         },
         "11": {
             "artist": "Monolake",
@@ -10610,9 +10878,10 @@
         },
         "03": {
             "artist": "Hunter",
-            "ratio": 3,
+            "ratio": -1,
             "title": "untitled_1",
-            "trackid": "063ac00V0P0Vm6Y99yPldT"
+            "trackid": "063ac00V0P0Vm6Y99yPldT",
+            "uri": ""
         },
         "04": {
             "artist": "Pessimist",
@@ -10688,9 +10957,10 @@
         },
         "16": {
             "artist": "Scientific Dreamz of U",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Holography // Levitation",
-            "trackid": "6E4RXpt0pAH5Ai3drvg4wt"
+            "trackid": "6E4RXpt0pAH5Ai3drvg4wt",
+            "uri": ""
         },
         "17": {
             "artist": "Nick Klein",

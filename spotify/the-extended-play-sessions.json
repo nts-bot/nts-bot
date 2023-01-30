@@ -15772,6 +15772,99 @@
             "trackid": "0wxXw2qjcAaldOAJ4wbzhm"
         }
     },
+    "the-extended-play-sessions-w-mr-pedro-14th-january-2023": {
+        "00": {
+            "artist": "Ihor Okuniev",
+            "ratio": 9,
+            "title": "Cold Winds",
+            "trackid": "4zAaPWaIaHO5osAM61kZru"
+        },
+        "01": {
+            "artist": "Boris Kovac",
+            "ratio": 9,
+            "title": "All Under the Celestial Cap",
+            "trackid": "0M4Dtk9UOHMPgu5lp7daTu"
+        },
+        "02": {
+            "artist": "Valentina Goncharova",
+            "ratio": 9,
+            "title": "Reincarnation II",
+            "trackid": "3y29mGNHMwQOK1Yg3e5uev"
+        },
+        "03": {
+            "artist": "Unknown",
+            "ratio": -1,
+            "title": "Jump - Unknown Remix",
+            "trackid": "3pQ5aj9I7PNpBuOe9PED0J",
+            "uri": ""
+        },
+        "04": {
+            "artist": "Maria Monti",
+            "ratio": 9,
+            "title": "Il pavone",
+            "trackid": "00gYhtfLmhNVxnMoJC26xR"
+        },
+        "05": {
+            "artist": "Popol Vuh",
+            "ratio": 9,
+            "title": "Hosianna - Mantra",
+            "trackid": "5C0O8CwGyprkMjcDuXtmcz"
+        },
+        "06": {
+            "artist": "Sun Araw",
+            "ratio": 9,
+            "title": "Conga Mind",
+            "trackid": "3Ks3L6xIXNJvPM1Ptocc1h"
+        },
+        "07": {
+            "artist": "Sun Araw",
+            "ratio": 9,
+            "title": "Holodeck Blues",
+            "trackid": "46RBuXvdRa3XADuNFoJwRx"
+        },
+        "08": {
+            "artist": "Bob Marley & The Wailers",
+            "ratio": 9,
+            "title": "The Heathen",
+            "trackid": "4CCxS2emrCLaoLguBN1IgL"
+        },
+        "09": {
+            "artist": "Manuel Göttsching",
+            "ratio": 9,
+            "title": "E2-E4 Ruhige Nervosität 1 - Mixed",
+            "trackid": "3XEiH9fsQO2eIa0IoyNRT2"
+        },
+        "10": {
+            "artist": "Manuel Göttsching",
+            "ratio": 3,
+            "title": "E2-E4 Ruhige Nervosität 1 - Mixed",
+            "trackid": "3XEiH9fsQO2eIa0IoyNRT2"
+        },
+        "11": {
+            "artist": "Manuel Göttsching",
+            "ratio": 9,
+            "title": "E2-E4 Ansatz - Mixed",
+            "trackid": "3sR3GzaVNr0LPdntaXsHfd"
+        },
+        "12": {
+            "artist": "Le Youth",
+            "ratio": 5,
+            "title": "Virgo",
+            "trackid": "4lgEtC1W3xZSRFoJuPLmkk"
+        },
+        "13": {
+            "artist": "Larry Heard",
+            "ratio": 9,
+            "title": "25 Years from Alpha - Original Mix",
+            "trackid": "3rN7t9htdgXn8J3m3JgaN4"
+        },
+        "14": {
+            "artist": "Niko Tzoukmanis",
+            "ratio": 9,
+            "title": "Eastern Mantra",
+            "trackid": "6w7jmreCx1wFiXoWPlyXK2"
+        }
+    },
     "the-extended-play-sessions-w-mr-pedro-14th-may-2016": {
         "00": {
             "artist": "Arthur Thomas and the Funkitorium",
@@ -16171,9 +16264,10 @@
         },
         "12": {
             "artist": "Clint",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Alpine Breaks - Alex Kassian Remix",
-            "trackid": "7lBaZd781ZgNmJudOibET1"
+            "trackid": "7lBaZd781ZgNmJudOibET1",
+            "uri": ""
         },
         "13": {
             "artist": "Housemates",

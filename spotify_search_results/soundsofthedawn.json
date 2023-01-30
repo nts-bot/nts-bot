@@ -23549,6 +23549,193 @@
             ]
         }
     },
+    "soundsofthedawn-28th-january-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jeff Dread",
+                    "title": "Dub The Farmer's Daughter",
+                    "uri": "7xO8t6eTu7Gnfj7JZG8hMc"
+                },
+                {
+                    "artist": "Jeff Denson",
+                    "title": "Finding Light",
+                    "uri": "3MGg7Spc0VFKuvdnUG5oYm"
+                },
+                {
+                    "artist": "Jeff Doze",
+                    "title": "Outer Bank",
+                    "uri": "1VLB5RIYG5byVR15xSE3NS"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "David & Steve Gordon",
+                    "title": "Radiant Sea Reprise",
+                    "uri": "54MSWQWMINosMBzSSZXOYS"
+                },
+                {
+                    "artist": "David & Steve Gordon",
+                    "title": "Radiant Sea",
+                    "uri": "0z0azenThkEBsF51bCuPSN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "David & Steve Gordon",
+                    "title": "Lightstreams",
+                    "uri": "1QnEwbWepbDYWXoGjWowai"
+                },
+                {
+                    "artist": "David & Steve Gordon",
+                    "title": "Path With A Heart",
+                    "uri": "259s8MOBuUzZXPvYphaYbK"
+                },
+                {
+                    "artist": "Steve Gorn",
+                    "title": "At Ease",
+                    "uri": "3Y60FrikUPyqB0LQkxxsbf"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Les DeMerle",
+                    "title": "Manfred S",
+                    "uri": "1dnKnVQmPE5TCYddfJeDYm"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ken Thomas",
+                    "title": "Don't Make Me Wait",
+                    "uri": "12umjcKlJrd3T6aIte2Rem"
+                },
+                {
+                    "artist": "Ken Tokunaga",
+                    "title": "肘鉄",
+                    "uri": "2iCZ548OHMVpjp7gFao9um"
+                },
+                {
+                    "artist": "Anjer",
+                    "title": "Ken Theme (From \"Street Fighter\")",
+                    "uri": "7Hcxmc3gGO9Qc31vc5oC3C"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": ""
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gary Knox & The Streethearts",
+                    "title": "You're Not the First",
+                    "uri": "7tYxE5TwjB7KKW6zcaWUru"
+                },
+                {
+                    "artist": "Gary Nichols",
+                    "title": "Down South",
+                    "uri": "2b9kkzV8TqhHwRbjVnMwDZ"
+                },
+                {
+                    "artist": "Gary Nock",
+                    "title": "Dynamite",
+                    "uri": "58cQlPddU8mFzIfE13Zcrh"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Owiny Sigoma Band",
+                    "title": "Nabed Nade Ei Piny Ka (Rework)",
+                    "uri": "4lee8gdN6r99KkY77YVHye"
+                },
+                {
+                    "artist": "Naden",
+                    "title": "Huldra",
+                    "uri": "2SgkOofED9j0XJtZookiAR"
+                },
+                {
+                    "artist": "Naden",
+                    "title": "Undulatus",
+                    "uri": "564mzQvxjLwxsR7LSS5UCZ"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Thomas Mayeras",
+                    "title": "Bonaire",
+                    "uri": "3TiRBXAjbTw2UWfJbEDrvx"
+                },
+                {
+                    "artist": "Thomas Messenger",
+                    "title": "The Son Returns",
+                    "uri": "5ahApo9GRBuR3Ap6rfgspD"
+                },
+                {
+                    "artist": "The Spoti5",
+                    "title": "Thomas Marchesi - Pitch-4",
+                    "uri": "4FunkZZ6FlYL7bHNIIjmKG"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "KANHIYA LAL MITTAL",
+                    "title": "Jholi Bhar Dijiye Shyam Baba",
+                    "uri": "4z8pMGA32NOIEGLzz0FYkK"
+                },
+                {
+                    "artist": "KANHIYA LAL MITTAL",
+                    "title": "Happy New Year Shyam Baba",
+                    "uri": "0wQzdqWIAR1eKdkpF25hTB"
+                },
+                {
+                    "artist": "KANHIYA LAL MITTAL",
+                    "title": "Happy Birthday Shyam Baba",
+                    "uri": "41OomwbFjqL98GupOOlmTF"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Upper Astral",
+                    "title": "Crystal Cave (Back To Atlantis)",
+                    "uri": "6B5ZwrGDmo5IicuXcdQmTl"
+                },
+                {
+                    "artist": "Upper Astral",
+                    "title": "Celestial Whispers II",
+                    "uri": "72JKabBn1rS8Bu4Y39nCw4"
+                },
+                {
+                    "artist": "Sangharsh",
+                    "title": "Upper Assam Cypher",
+                    "uri": "1Eq4aYy08Zfj2lHAHD4Ohu"
+                }
+            ]
+        }
+    },
     "soundsofthedawn-29th-january-2022": {
         "00": {
             "s0": [

@@ -2219,6 +2219,74 @@
             "trackid": "5dXWFMwD7I7zXsInONVl0H"
         }
     },
+    "miss-modular-2nd-december-2022": {
+        "00": {
+            "artist": "Pamela",
+            "ratio": 3,
+            "title": "Grappoli",
+            "trackid": "27pTOeLNhRLmINoboO7YMg"
+        },
+        "01": {
+            "artist": "Loraine James",
+            "ratio": 9,
+            "title": "Enfield, Always",
+            "trackid": "1rVEPm9w7YvNksP1hpu4t9"
+        },
+        "02": {
+            "artist": "Edgar Froese",
+            "ratio": 4,
+            "title": "Stuntman",
+            "trackid": "36klPo33gZoS0QvDnVfFnC"
+        },
+        "03": {
+            "artist": "Melanie Charles",
+            "ratio": 9,
+            "title": "Detour Ahead - Reimagined",
+            "trackid": "6sCDgDR615WXLwvfM6AUKL"
+        },
+        "04": {
+            "artist": "Live",
+            "ratio": 9,
+            "title": "Ghost",
+            "trackid": "7Af1DVuMXTowU9OlYl7wAi"
+        },
+        "05": {
+            "artist": "Old Shady Grady & The Neighbourhood Character",
+            "ratio": 9,
+            "title": "Of Two Minds",
+            "trackid": "0avqiUZOijox7w7ViSVGNO"
+        },
+        "06": {
+            "artist": "Elsa M'Bala",
+            "ratio": 9,
+            "title": "You Had Me",
+            "trackid": "4ph7cbC61gT8gG81xUcgZS"
+        },
+        "07": {
+            "artist": "Elle Barbara’s Black Space",
+            "ratio": 9,
+            "title": "Délice Créole",
+            "trackid": "575FAZhtL3HNKOkZaGf93P"
+        },
+        "08": {
+            "artist": "Nyokabi Kariuki",
+            "ratio": 9,
+            "title": "Ngurumo, or Feeding Goats Mangoes",
+            "trackid": "1G10NZrbmjqmpzN2Rg7fOZ"
+        },
+        "09": {
+            "artist": "Peter Bunnd",
+            "ratio": 0,
+            "title": "The Obsidian",
+            "trackid": "6txq59sHEmYV0AQ44WMz5X"
+        },
+        "10": {
+            "artist": "Moor Mother",
+            "ratio": 9,
+            "title": "Tarot",
+            "trackid": "5WZheTtTK2GuEtj1OFmhxY"
+        }
+    },
     "miss-modular-31st-march-2017": {
         "00": {
             "artist": "Jessy Lanza",
@@ -4567,9 +4635,10 @@
         },
         "08": {
             "artist": "Ko Shin Moon",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Konyali",
-            "trackid": "5caeyjvyOzGF9xSrcSGN41"
+            "trackid": "5caeyjvyOzGF9xSrcSGN41",
+            "uri": ""
         },
         "09": {
             "artist": "Kohinoorgasm",

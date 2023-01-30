@@ -1975,9 +1975,10 @@
         },
         "04": {
             "artist": "DJ Plead",
-            "ratio": 0,
+            "ratio": -1,
             "title": "RT2",
-            "trackid": "67snWKGVPM4rNgtuS4E241"
+            "trackid": "67snWKGVPM4rNgtuS4E241",
+            "uri": ""
         },
         "05": {
             "artist": "Bounty Killer",
@@ -3752,6 +3753,152 @@
             "ratio": 9,
             "title": "Phat Punani",
             "trackid": "0fAZTRnXv7KC70WjDTpxb6"
+        }
+    },
+    "gaika-27th-january-2023": {
+        "00": {
+            "artist": "Skillibeng",
+            "ratio": 4,
+            "title": "Bad Everyday",
+            "trackid": "4ZQJLV4AOuHHH6hIsup9L8"
+        },
+        "01": {
+            "artist": "MATURO",
+            "ratio": 3,
+            "title": "Mickey Mouse",
+            "trackid": "2uCAjwoKBgn5WQBzZUtPPi"
+        },
+        "02": {
+            "artist": "J Hus",
+            "ratio": 9,
+            "title": "Friendly",
+            "trackid": "4gnKkcqXovx4T39FVr2q9i"
+        },
+        "03": {
+            "artist": "Lô Borges",
+            "ratio": 4,
+            "title": "Eu Sou Como Você É",
+            "trackid": "7uE2uoR0R3fDmbC7517Xej"
+        },
+        "04": {
+            "artist": "Kojo Funds",
+            "ratio": 9,
+            "title": "Mafia",
+            "trackid": "0DnqHJzw8UahwcnS4FeDWA"
+        },
+        "05": {
+            "artist": "Joan Bibiloni",
+            "ratio": 9,
+            "title": "Migas",
+            "trackid": "1dF4yDtsLKHZBA6GM968ag"
+        },
+        "06": {
+            "artist": "Kim Kaey",
+            "ratio": 3,
+            "title": "Latin Lovers",
+            "trackid": "2aQnbMyTdpc5GG0Pi5LuC8"
+        },
+        "07": {
+            "artist": "Blancmange",
+            "ratio": 9,
+            "title": "Living On The Ceiling",
+            "trackid": "7ygp7PFQu9oYlV72tSd2Wz"
+        },
+        "08": {
+            "artist": "Vjuan Allure",
+            "ratio": 9,
+            "title": "Da KW Party (CJay Swayne's Deep Remix)",
+            "trackid": "6c1URIGOxHt5sCJA6ejYpN"
+        },
+        "09": {
+            "artist": "Florian Kupfer",
+            "ratio": 5,
+            "title": "Feelin",
+            "trackid": "5KDL6DaCZWvQiZUeBR4vyk"
+        },
+        "10": {
+            "artist": "Lonnie Liston Smith",
+            "ratio": 9,
+            "title": "Expansions",
+            "trackid": "3hlBOJWMSPYRMH9idLhN9y"
+        },
+        "11": {
+            "artist": "TMO Scoot",
+            "ratio": 3,
+            "title": "TMO TAKEOVER",
+            "trackid": "33foEKC6TGNg2ZORb4DWx7"
+        },
+        "12": {
+            "artist": "DMX Krew",
+            "ratio": 9,
+            "title": "Spiritual Encounter",
+            "trackid": "0uSFMegBUIzgmk3hOD7zI6"
+        },
+        "13": {
+            "artist": "Luca Lozano",
+            "ratio": 9,
+            "title": "F.U.B.U.",
+            "trackid": "6SNYk8EgUSX6YJWZB4aDO5"
+        },
+        "14": {
+            "artist": "Morphology",
+            "ratio": 9,
+            "title": "Vector Plant",
+            "trackid": "7kHaOCIF0hUyWeMLCObcm9"
+        },
+        "15": {
+            "artist": "China Crisis",
+            "ratio": 3,
+            "title": "Wishful Thinking",
+            "trackid": "11HLyzoCyx8hXKXVmrg1Sy"
+        },
+        "16": {
+            "artist": "Rae Sremmurd",
+            "ratio": 9,
+            "title": "No Type",
+            "trackid": "4scpF6J5uMBvoh6sFB7EL1"
+        },
+        "17": {
+            "artist": "Kenny Allstar",
+            "ratio": 4,
+            "title": "The Generals Corner (Pete & Bas)",
+            "trackid": "2Zmhn2vetZbljDsAGwDO0a"
+        },
+        "18": {
+            "artist": "Gene Hunt",
+            "ratio": 9,
+            "title": "Freddy's Dead",
+            "trackid": "5qP46FsWKHlS8OUQ4LdDX7"
+        },
+        "19": {
+            "artist": "Hashman Deejay",
+            "ratio": 9,
+            "title": "Xssential-3",
+            "trackid": "4Ch8YwfRok5KTj56zTQKk3"
+        },
+        "20": {
+            "artist": "Automatic Tasty",
+            "ratio": 9,
+            "title": "Tropic Exchange - Original Mix",
+            "trackid": "5bb9v3t9J6I3SUrNsnFTjf"
+        },
+        "21": {
+            "artist": "Manni Theo",
+            "ratio": 3,
+            "title": "Lifestyles of the Sick N' Brainless",
+            "trackid": "7B4RHJvUfkePsw09lAYCGf"
+        },
+        "22": {
+            "artist": "Interstellar Funk",
+            "ratio": 9,
+            "title": "Caves of Steel - Convextion Remix",
+            "trackid": "7cKC6px09Iq0Im8XcvV2jV"
+        },
+        "23": {
+            "artist": "Loski",
+            "ratio": 3,
+            "title": "Mad About Bars",
+            "trackid": "6zofyM6HYHKNDUzm70OtJf"
         }
     },
     "gaika-29th-january-2021": {

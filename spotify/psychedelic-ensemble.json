@@ -452,9 +452,10 @@
         },
         "08": {
             "artist": "napanapapin",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Sad Whimsy",
-            "trackid": "07jC9KaBjckOjRNjYOHAwa"
+            "trackid": "07jC9KaBjckOjRNjYOHAwa",
+            "uri": ""
         },
         "09": {
             "artist": "Pat Capocci",
@@ -1526,15 +1527,17 @@
     "live-at-the-clinic-w-psychedelic-ensemble-29th-novembere-2021": {
         "00": {
             "artist": "DJ Cam",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Uncomfortable",
-            "trackid": "6IQfMByYA9cXAyck89OLDB"
+            "trackid": "6IQfMByYA9cXAyck89OLDB",
+            "uri": ""
         },
         "01": {
             "artist": "Liam...",
-            "ratio": 3,
+            "ratio": -1,
             "title": "CHAIN Pt. 2",
-            "trackid": "4S3YBfDEE1NYZOmdNe52OA"
+            "trackid": "4S3YBfDEE1NYZOmdNe52OA",
+            "uri": ""
         },
         "02": {
             "artist": "Goya Gumbani",
@@ -1562,9 +1565,10 @@
         },
         "06": {
             "artist": "Max Frith",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Before",
-            "trackid": "5lho5yt17BGAmkrBz8uQGB"
+            "trackid": "5lho5yt17BGAmkrBz8uQGB",
+            "uri": ""
         },
         "07": {
             "artist": "John Glacier",
@@ -1682,15 +1686,17 @@
         },
         "26": {
             "artist": "Cajm",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Shutter Speed",
-            "trackid": "65fkRY47BLdkeIb84Pktn3"
+            "trackid": "65fkRY47BLdkeIb84Pktn3",
+            "uri": ""
         },
         "27": {
             "artist": "CamelDiseaseBoy",
-            "ratio": 5,
+            "ratio": -1,
             "title": "#1Jcam",
-            "trackid": "5pXeokQ7CP91vLgxWMQ6jk"
+            "trackid": "5pXeokQ7CP91vLgxWMQ6jk",
+            "uri": ""
         },
         "28": {
             "artist": "Flying Lotus",
@@ -4454,15 +4460,17 @@
         },
         "03": {
             "artist": "Kip C",
-            "ratio": 4,
+            "ratio": -1,
             "title": "<3",
-            "trackid": "0JyadsfSUyiXAkLmWrF0XU"
+            "trackid": "0JyadsfSUyiXAkLmWrF0XU",
+            "uri": ""
         },
         "04": {
             "artist": "kevobeatz",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Penny",
-            "trackid": "0MlfIA3G2Zft50jEP2TCB4"
+            "trackid": "0MlfIA3G2Zft50jEP2TCB4",
+            "uri": ""
         },
         "05": {
             "artist": "skies sw",
@@ -4508,9 +4516,10 @@
         },
         "12": {
             "artist": "Andrew Belle",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Sky's Still Blue",
-            "trackid": "6nXIYClvJAfi6ujLiKqEq8"
+            "trackid": "6nXIYClvJAfi6ujLiKqEq8",
+            "uri": ""
         },
         "13": {
             "artist": "Chris & Cosey",
@@ -4532,15 +4541,17 @@
         },
         "16": {
             "artist": "Kip C",
-            "ratio": 4,
+            "ratio": -1,
             "title": "<3",
-            "trackid": "0JyadsfSUyiXAkLmWrF0XU"
+            "trackid": "0JyadsfSUyiXAkLmWrF0XU",
+            "uri": ""
         },
         "17": {
             "artist": "Hal Gaylor",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Grooveyard - Instrumental",
-            "trackid": "6SsiaOV23pvf9dBvcTjn03"
+            "trackid": "6SsiaOV23pvf9dBvcTjn03",
+            "uri": ""
         },
         "18": {
             "artist": "Headie One",
@@ -4568,9 +4579,10 @@
         },
         "22": {
             "artist": "Andrew Belle",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Sky's Still Blue",
-            "trackid": "6nXIYClvJAfi6ujLiKqEq8"
+            "trackid": "6nXIYClvJAfi6ujLiKqEq8",
+            "uri": ""
         },
         "23": {
             "artist": "Nikki Giovanni",
@@ -4716,9 +4728,10 @@
         },
         "02": {
             "artist": "Mach-Hommy",
-            "ratio": 4,
+            "ratio": -1,
             "title": "No Blood No Sweat",
-            "trackid": "4DCZxox8ZvICoaG02cxHnj"
+            "trackid": "4DCZxox8ZvICoaG02cxHnj",
+            "uri": ""
         },
         "03": {
             "artist": "Cookiesan",
@@ -4746,9 +4759,10 @@
         },
         "07": {
             "artist": "Yazoo",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Situation - 2008 Remastered Version",
-            "trackid": "0Az5nx6qYZ2n54rh1sgvcB"
+            "trackid": "0Az5nx6qYZ2n54rh1sgvcB",
+            "uri": ""
         },
         "08": {
             "artist": "Manny Noir",
@@ -4764,15 +4778,17 @@
         },
         "10": {
             "artist": "Mach-Hommy",
-            "ratio": 4,
+            "ratio": -1,
             "title": "No Blood No Sweat",
-            "trackid": "4DCZxox8ZvICoaG02cxHnj"
+            "trackid": "4DCZxox8ZvICoaG02cxHnj",
+            "uri": ""
         },
         "11": {
             "artist": "Yazoo",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Situation - 2008 Remastered Version",
-            "trackid": "0Az5nx6qYZ2n54rh1sgvcB"
+            "trackid": "0Az5nx6qYZ2n54rh1sgvcB",
+            "uri": ""
         },
         "12": {
             "artist": "",
@@ -4818,9 +4834,10 @@
         },
         "19": {
             "artist": "Yazoo",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Situation - 2008 Remastered Version",
-            "trackid": "0Az5nx6qYZ2n54rh1sgvcB"
+            "trackid": "0Az5nx6qYZ2n54rh1sgvcB",
+            "uri": ""
         }
     },
     "psychedelic-ensemble-23rd-november-2018": {
@@ -5469,6 +5486,146 @@
             "trackid": "6oK5II6uWlAtWfna3NvvNM"
         }
     },
+    "psychedelic-ensemble-29th-january-2023": {
+        "00": {
+            "artist": "OR3O",
+            "ratio": 0,
+            "title": "Doki Doki Forever",
+            "trackid": "5MHYkxRxkk3OUgdJHwm3rG"
+        },
+        "01": {
+            "artist": "Clement",
+            "ratio": 3,
+            "title": "Yaadgaar Yaar Pailwan",
+            "trackid": "1uko2X9H2hgZcuW9bZXTC9"
+        },
+        "02": {
+            "artist": "Tony Bones The Producer",
+            "ratio": 4,
+            "title": "Rogue",
+            "trackid": "64TmQdUdhCl86MVKISRbih"
+        },
+        "03": {
+            "artist": "Tony Bones The Producer",
+            "ratio": 4,
+            "title": "Magic Eyes",
+            "trackid": "58sjH4Zhp2cOpfegt7w0te"
+        },
+        "04": {
+            "artist": "Glimlip",
+            "ratio": 4,
+            "title": "Sidewalk",
+            "trackid": "07H3Mpy3KcHKCe7renjFSi"
+        },
+        "05": {
+            "artist": "Glimlip",
+            "ratio": 4,
+            "title": "Sidewalk",
+            "trackid": "07H3Mpy3KcHKCe7renjFSi"
+        },
+        "06": {
+            "artist": "Glimlip",
+            "ratio": 4,
+            "title": "Sidewalk",
+            "trackid": "07H3Mpy3KcHKCe7renjFSi"
+        },
+        "07": {
+            "artist": "Tony Bones The Producer",
+            "ratio": 4,
+            "title": "Magic Eyes",
+            "trackid": "58sjH4Zhp2cOpfegt7w0te"
+        },
+        "08": {
+            "artist": "King Cat",
+            "ratio": 0,
+            "title": "WACK",
+            "trackid": "2cgRVkyEt35fkfNCS6RJL3"
+        },
+        "09": {
+            "artist": "King Cat",
+            "ratio": 0,
+            "title": "WACK",
+            "trackid": "2cgRVkyEt35fkfNCS6RJL3"
+        },
+        "10": {
+            "artist": "Tony Bones The Producer",
+            "ratio": 4,
+            "title": "Classic",
+            "trackid": "1oSACtYTXU47tpiYnPAgt5"
+        },
+        "11": {
+            "artist": "Tony Bones The Producer",
+            "ratio": 4,
+            "title": "Magic Eyes",
+            "trackid": "58sjH4Zhp2cOpfegt7w0te"
+        },
+        "12": {
+            "artist": "Quis ut Deus",
+            "ratio": 0,
+            "title": "Mary Sue",
+            "trackid": "4xyTXfOZ4sDmeWEaaBUTiB"
+        },
+        "13": {
+            "artist": "Mariee Sioux",
+            "ratio": 4,
+            "title": "Friendboats",
+            "trackid": "6437L2kB4GdbDdJbXLOu3G"
+        },
+        "14": {
+            "artist": "片山修志",
+            "ratio": 3,
+            "title": "Mary Sue",
+            "trackid": "2IoFu308LBOgZr3IfHkod9"
+        },
+        "15": {
+            "artist": "La Fine Equipe",
+            "ratio": 4,
+            "title": "Bollo",
+            "trackid": "5fyJg6QirYgBYLm1Hiw3cC"
+        },
+        "16": {
+            "artist": "Tony Bontana",
+            "ratio": 3,
+            "title": "Where Were You - Remix",
+            "trackid": "2zOKEtmWdYJkqHtf23tM1q"
+        },
+        "17": {
+            "artist": "Witchcraft",
+            "ratio": 4,
+            "title": "An Alternative to Freedom",
+            "trackid": "0fATnWJXdt6ke5kR2klu7g"
+        },
+        "18": {
+            "artist": "The Jets",
+            "ratio": 3,
+            "title": "Dan Odell - Live",
+            "trackid": "26iCs7i615hm2CeYUj0ZIr"
+        },
+        "19": {
+            "artist": "Calm Psalms",
+            "ratio": 4,
+            "title": "Psalm Seven (Verses 1-17)",
+            "trackid": "22zeVdx90g4AYs0rJHknrI"
+        },
+        "20": {
+            "artist": "Tony Bones The Producer",
+            "ratio": 4,
+            "title": "Classic",
+            "trackid": "1oSACtYTXU47tpiYnPAgt5"
+        },
+        "21": {
+            "artist": "Tony Bones The Producer",
+            "ratio": 4,
+            "title": "Magic Eyes",
+            "trackid": "58sjH4Zhp2cOpfegt7w0te"
+        },
+        "22": {
+            "artist": "Tony Bones The Producer",
+            "ratio": 3,
+            "title": "Classic",
+            "trackid": "1oSACtYTXU47tpiYnPAgt5"
+        }
+    },
     "psychedelic-ensemble-2nd-march-2021": {
         "00": {
             "artist": "Djbfazio",
@@ -6001,9 +6158,10 @@
         },
         "12": {
             "artist": "Griff",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Earl Grey Tea",
-            "trackid": "3EL5qpV96RVFOOd6D54d8u"
+            "trackid": "3EL5qpV96RVFOOd6D54d8u",
+            "uri": ""
         },
         "13": {
             "artist": "Throbbing Gristle",

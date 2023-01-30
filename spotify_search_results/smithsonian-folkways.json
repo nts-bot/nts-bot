@@ -467,6 +467,610 @@
             ]
         }
     },
+    "smithsonian-folkways-27th-january-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Ella Jenkins",
+                    "title": "A Hump Back Whale",
+                    "uri": "7xYswdvaCsuoTU9wnTyOIT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ella Jenkins",
+                    "title": "Wade in the Water",
+                    "uri": "7exER11O6jaBmUWhOvWRGh"
+                },
+                {
+                    "artist": "Ella Jenkins",
+                    "title": "Racing With The Sun",
+                    "uri": "2oAYkMoXccve3plE0hjlvm"
+                },
+                {
+                    "artist": "Ella Jenkins",
+                    "title": "Making Music Together",
+                    "uri": "5g5ZTgssiDyh7XkddhPZO8"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ann McDonald",
+                    "title": "A Calling Home (Acapella)",
+                    "uri": "0JcqauCFwLK8qC3VxDeMA0"
+                },
+                {
+                    "artist": "Ann Marr",
+                    "title": "Bullet",
+                    "uri": "43E8vmMDsNH4IL8HReR6JH"
+                },
+                {
+                    "artist": "Ann Marie",
+                    "title": "Don't Waste Your Time",
+                    "uri": "6ugwLnZak8lGnUqi8b8p15"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ahmad Jamal Trio",
+                    "title": "Dolphin Dance",
+                    "uri": "0kUYnVS6z9YhL22l9pDDcB"
+                },
+                {
+                    "artist": "Koan",
+                    "title": "Dolphin & Eos - Suduaya Remix",
+                    "uri": "5oiw1LMMMI83EXfGHh2dkg"
+                },
+                {
+                    "artist": "Electronic Monkeys",
+                    "title": "The Dolphin & the Whale",
+                    "uri": "18zub39APAz9ytT4CGA4Nj"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Jim Nollman",
+                    "title": "Vihuela-Cello and Pack",
+                    "uri": "4SvjYlcWaffAveVMUGkGwx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jim Nollman",
+                    "title": "Vihuela-Cello and Pack",
+                    "uri": "4SvjYlcWaffAveVMUGkGwx"
+                },
+                {
+                    "artist": "Jim Murple Memorial",
+                    "title": "Qui Que L'On Soit",
+                    "uri": "6uoIRHRheIM9uCutreyNxL"
+                },
+                {
+                    "artist": "Jim Noir",
+                    "title": "My Patch",
+                    "uri": "64DfFwbJlQh5OvQmuYrN1W"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Gene Menger",
+                    "title": "Welcome Rain In Banana Grove",
+                    "uri": "7mi7KaqAzRFMsm3ppqUwKK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gene Menger",
+                    "title": "Welcome Rain In Banana Grove",
+                    "uri": "7mi7KaqAzRFMsm3ppqUwKK"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Larry McKinley",
+                    "title": "Rain Alert - Live",
+                    "uri": "1o2YHNSNmbGJqCL1UWRHe7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Larry",
+                    "title": "Maman me disait",
+                    "uri": "6gns0tb8houik3vqzDWgDT"
+                },
+                {
+                    "artist": "Larry",
+                    "title": "Moonwalk",
+                    "uri": "7wzpvaJQJ4zM4eV6xWxYTP"
+                },
+                {
+                    "artist": "Laura McLean",
+                    "title": "The Call",
+                    "uri": "5fABWCKKHzbRc5YQFonPw8"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Nature And Bird Sounds",
+                    "title": "Natural Bird Sounds",
+                    "uri": "63LFUAqBFa9spIcihPMhtc"
+                },
+                {
+                    "artist": "Nature Ambience",
+                    "title": "Naturaleza y aves",
+                    "uri": "0OmCwCrpc4nxdlqrDB7iDC"
+                },
+                {
+                    "artist": "White Noise Atmospheres",
+                    "title": "Natural Airplane Sounds for Baby Sleep",
+                    "uri": "3euaHJ7Qch3eofjx0ZvkJ7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Harmless Harmonics",
+                    "title": "Natural Sounds Of Nature",
+                    "uri": "7AA6L1DQd4aOg5CHxhhUMx"
+                },
+                {
+                    "artist": "Nadanmusic",
+                    "title": "Morning Sea Ocean Landscape Sound (Calming Ocean Waves Sounds ASMR Beautiful Natural White Noise)",
+                    "uri": "5xHSe0taiYFWkrX7klmdKk"
+                },
+                {
+                    "artist": "Spa",
+                    "title": "English Rain",
+                    "uri": "0iHauIMmj2u6XHWrJbv8Cd"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Pete Seeger",
+                    "title": "My Dirty Stream (The Hudson River Song)",
+                    "uri": "0H8CarqMhFKnd8S8N6iBHU"
+                },
+                {
+                    "artist": "Pete Seeger",
+                    "title": "My Dirty Stream (The Hudson River Song)",
+                    "uri": "52dTVM7wH7TVtbPTxt6rek"
+                },
+                {
+                    "artist": "Pete Seeger",
+                    "title": "My Dirty Stream (The Hudson River Song)",
+                    "uri": "55Aq2rlgLNYCZXxBwv8xcp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pete Seeger",
+                    "title": "Little Boxes",
+                    "uri": "4VJrTc5QPr13zgkwxaTjjN"
+                },
+                {
+                    "artist": "Pete Seeger",
+                    "title": "Which Side are You On?",
+                    "uri": "0TZsy6XheL9cSxuX7yYqCO"
+                },
+                {
+                    "artist": "Pete Seeger",
+                    "title": "Genbaku O Yurusumagi (Never Again the A Bomb) - Live",
+                    "uri": "5xhbbw8bpZDafQo9kvquIS"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Anatoli Kuular",
+                    "title": "Xomuz (Jew's Harp) Imitating Water",
+                    "uri": "4YaoDtuaq6utxbaTqPp2YN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Anatoli Kuular",
+                    "title": "Xomuz (Jew's Harp) Imitating Water",
+                    "uri": "4YaoDtuaq6utxbaTqPp2YN"
+                },
+                {
+                    "artist": "Anatoly Ukchanov",
+                    "title": "Yakut Melodies",
+                    "uri": "2pmw0mDgFYGTziTHJExqGa"
+                },
+                {
+                    "artist": "Anatoly Yogolev",
+                    "title": "Ayan (On trail)",
+                    "uri": "2kX0DCYyEZZpGHuMxroWn3"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Green Treefrog (Hyla cinerea)",
+                    "title": "The Green Treefrog (Hyla Cinerea)",
+                    "uri": "1vNBxGdm2HJZReVW8y2iee"
+                },
+                {
+                    "artist": "Green Treefrog (Hyla cinerea)",
+                    "title": "The Green Treefrog (Hyla Cinerea)",
+                    "uri": "7K3UGbxwWAe5wh0dY2OQ8x"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Greentea Peng",
+                    "title": "Downers",
+                    "uri": "1fnU60yGjhsP1QY335rH2m"
+                },
+                {
+                    "artist": "Greentea Peng",
+                    "title": "Hu Man",
+                    "uri": "2ZfVt2skRwfEq1Wb3D7GmP"
+                },
+                {
+                    "artist": "Chase Atlantic",
+                    "title": "GREENGREENGREEN",
+                    "uri": "1ENRzsvaOA4iTw1ZUCRIW6"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Jake Blount",
+                    "title": "Once There Was No Sun",
+                    "uri": "1jWlS2LrM3fGvtgPSBbp4f"
+                },
+                {
+                    "artist": "Jake Blount",
+                    "title": "Once There Was No Sun",
+                    "uri": "0XRFmmIerilOl81uQNBglF"
+                },
+                {
+                    "artist": "Jake Blount",
+                    "title": "Once There Was No Sun",
+                    "uri": "6NAzv00O5pQv1YDaK0vq9R"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jake Blount",
+                    "title": "Once There Was No Sun",
+                    "uri": "1jWlS2LrM3fGvtgPSBbp4f"
+                },
+                {
+                    "artist": "Jake Blount",
+                    "title": "Once There Was No Sun",
+                    "uri": "0XRFmmIerilOl81uQNBglF"
+                },
+                {
+                    "artist": "Jake Blount",
+                    "title": "The Man Was Burning",
+                    "uri": "5X8hjt33EdQ8KUaUzcTNQv"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Lead Belly",
+                    "title": "What's You Gonna Do When the World's on Fire (with Anne Graham)",
+                    "uri": "2aot6bEDL93CsSLlv4Twuv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lead Belly",
+                    "title": "Irene (Goodnight Irene)",
+                    "uri": "6iAvmpUWfYKoyTS30u7Pqg"
+                },
+                {
+                    "artist": "Lead Belly",
+                    "title": "Rock Me (Hide Me in Thy Bosom) [with Anne Graham]",
+                    "uri": "59N4f1qVCcf6H8xsdjcIwH"
+                },
+                {
+                    "artist": "Lead Belly",
+                    "title": "Worried Blues",
+                    "uri": "18Zhut0ZsQAY4LCTBwK2Lr"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Sis Cunningham",
+                    "title": "My Oklahoma Home",
+                    "uri": "0jzW4c0XvcaEFhhHYIMufr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sis Cunningham",
+                    "title": "My Oklahoma Home",
+                    "uri": "0jzW4c0XvcaEFhhHYIMufr"
+                },
+                {
+                    "artist": "Bruce Springsteen",
+                    "title": "My Oklahoma Home",
+                    "uri": "7dqmragLm9YMSqy4UCKO5P"
+                },
+                {
+                    "artist": "John Hogan",
+                    "title": "My Oklahoma Home",
+                    "uri": "6QxZtbrO1DMQC0ca4cnJNK"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Robert Fripp",
+                    "title": "Wind On Wind",
+                    "uri": "5DiwyUEb7jG8iVOaHYMEgl"
+                },
+                {
+                    "artist": "Shook",
+                    "title": "Wind on the Water",
+                    "uri": "6Vv0mO1JBb2rMj1iTm2buD"
+                },
+                {
+                    "artist": "Motorama",
+                    "title": "Wind in Her Hair",
+                    "uri": "0P4goiAaaECEjQGAWaocaz"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Baka Pygmies",
+                    "title": "The Humming of the Bees",
+                    "uri": "5NzcZahqKrFRnR2UZHaYFl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Baka Pygmies",
+                    "title": "The Humming of the Bees",
+                    "uri": "5NzcZahqKrFRnR2UZHaYFl"
+                },
+                {
+                    "artist": "Baka Pygmies",
+                    "title": "Hut Song",
+                    "uri": "6AjXqgnP4Ndl3HysvieGw0"
+                },
+                {
+                    "artist": "Baka Pygmies",
+                    "title": "Music for the Buma Dance",
+                    "uri": "4E3XMyGQU683EBpxy1w6ot"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "N/A",
+                    "title": "Evening Rainstorm",
+                    "uri": "2qTMvNyXeMxUTIHkzXhmKM"
+                },
+                {
+                    "artist": "Ambient Nature White Noise",
+                    "title": "Evening Static",
+                    "uri": "2Ht0TTZbFlXBUhN003Kbt3"
+                },
+                {
+                    "artist": "Nature Atmospheres",
+                    "title": "An Evening Filled with Storms",
+                    "uri": "60tOBVsrPnxpIgUdTHWHWe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rain Sounds",
+                    "title": "Summer Evening Rainstorm",
+                    "uri": "3ftZajry8ZmUT03GPsWWQQ"
+                },
+                {
+                    "artist": "Sounds Of Nature : Thunderstorm, Rain",
+                    "title": "Evening Stream",
+                    "uri": "3LdIur9QLuZi3nUVxMzAom"
+                },
+                {
+                    "artist": "Rain Recordings",
+                    "title": "Evening Light Rain",
+                    "uri": "2PD2sqA5GgqEuFZVisEbyW"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "The Six Nations Women Singers",
+                    "title": "Mother Earth",
+                    "uri": "1MEhnwrFk5l5PxPZ5mNxhw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Six Nations Women Singers",
+                    "title": "Mother Earth",
+                    "uri": "1MEhnwrFk5l5PxPZ5mNxhw"
+                },
+                {
+                    "artist": "Emitt Rhodes",
+                    "title": "Mother Earth",
+                    "uri": "0DFIZ5xAAHqNkjz6eprOFb"
+                },
+                {
+                    "artist": "Leo Rojas",
+                    "title": "Serenade to Mother Earth",
+                    "uri": "6qBnZrH5DoqrFjdWGJNQz5"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Peter La Farge",
+                    "title": "The Senecas: As Long as the Grass Shall Grow",
+                    "uri": "7aJBKKJoPLiXD5hjP7aUIX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Peter La Farge",
+                    "title": "The Senecas: As Long as the Grass Shall Grow",
+                    "uri": "7aJBKKJoPLiXD5hjP7aUIX"
+                },
+                {
+                    "artist": "Peter Later",
+                    "title": "Fast Lie",
+                    "uri": "5JrYZrIO6RzE6H1774TDDI"
+                },
+                {
+                    "artist": "PETER LAKE",
+                    "title": "Acorns",
+                    "uri": "4csHUBPAW17ncRpIAS5owN"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "K.C. Douglas",
+                    "title": "High Water Rising",
+                    "uri": "3XM8s0hlHicSMoHTsLvjS5"
+                },
+                {
+                    "artist": "K.C. Douglas",
+                    "title": "High Water Rising",
+                    "uri": "15NlpK7VRcaCdS95hFgFoA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "K.C. Douglas",
+                    "title": "Mercury Blues",
+                    "uri": "5PBrVEGwL6WupW5yYXVOmA"
+                },
+                {
+                    "artist": "Charley Patton",
+                    "title": "High Water Everywhere - Part 1",
+                    "uri": "6Vu9LBlGdBjLgDDBS8l0bF"
+                },
+                {
+                    "artist": "K.C. Douglas",
+                    "title": "Canned Heat",
+                    "uri": "1ZrzAnekXDqsWYqUyEFmTk"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": ""
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Malvina Reynolds",
+                    "title": "What Have They Done to the Rain?",
+                    "uri": "1J8NfHNTHXh8Wkwku9g0ud"
+                },
+                {
+                    "artist": "Malvina Reynolds",
+                    "title": "What Have They Done to the Rain?",
+                    "uri": "2g4Pcg5svmBmorONhtKDKD"
+                },
+                {
+                    "artist": "Malvina Reynolds",
+                    "title": "What Have They Done To The Rain - Test Version Title",
+                    "uri": "23xAXez6IFl0IJx5Nq1UnT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Malvina Reynolds",
+                    "title": "What Have They Done to the Rain?",
+                    "uri": "1J8NfHNTHXh8Wkwku9g0ud"
+                },
+                {
+                    "artist": "Malvina Reynolds",
+                    "title": "What Have They Done to the Rain?",
+                    "uri": "2g4Pcg5svmBmorONhtKDKD"
+                },
+                {
+                    "artist": "Malvina Reynolds",
+                    "title": "What's Goin' On Down There",
+                    "uri": "1Qj7jR9n3qmKcVYUPrMAFi"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Adam Drake",
+                    "title": "Trucks And Bucks",
+                    "uri": "4UDHpwWF5yHzNcgifnekda"
+                },
+                {
+                    "artist": "Tom Ryan",
+                    "title": "Trucks and Cars",
+                    "uri": "5n2pkFHz8yfrcuurjkQQtg"
+                },
+                {
+                    "artist": "Dancexin",
+                    "title": "Trucks & Co",
+                    "uri": "1IBImCHIiC78zoZbAtYldh"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Ella Jenkins",
+                    "title": "Solution to Pollution,A (Introduction to Environmental Concerns)",
+                    "uri": "35NtoXhZyCFxyxU79lyef2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ella Jenkins",
+                    "title": "Racing With The Sun",
+                    "uri": "2oAYkMoXccve3plE0hjlvm"
+                },
+                {
+                    "artist": "Ella Jenkins",
+                    "title": "Stop and Go",
+                    "uri": "6WDs5kF8xPj3w9pSyOU0QY"
+                },
+                {
+                    "artist": "ella jane",
+                    "title": "Warhol",
+                    "uri": "3P707u2l8c3jQkHUaXYE1L"
+                }
+            ]
+        }
+    },
     "smithsonian-folkways-allison-hussey-interviews-peter-seigel-18th-november-2021": {
         "00": {
             "s0": [

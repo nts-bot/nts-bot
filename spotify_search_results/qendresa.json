@@ -16558,6 +16558,439 @@
             ]
         }
     },
+    "qendresa-27th-january-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "La Lupe",
+                    "title": "Puro Teatro",
+                    "uri": "0DzEFFdQvaL47DD1B8bJ5C"
+                },
+                {
+                    "artist": "La Lupe",
+                    "title": "Puro Teatro",
+                    "uri": "3Ov5KuLiPEqYMluzZTmS2M"
+                },
+                {
+                    "artist": "La Lupe",
+                    "title": "Puro Teatro",
+                    "uri": "2zAHsfskEkUJANF44xJ80c"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "La Lupe",
+                    "title": "Puro Teatro",
+                    "uri": "0DzEFFdQvaL47DD1B8bJ5C"
+                },
+                {
+                    "artist": "La Lupe",
+                    "title": "Puro Teatro",
+                    "uri": "3Ov5KuLiPEqYMluzZTmS2M"
+                },
+                {
+                    "artist": "Ticky B",
+                    "title": "Mira",
+                    "uri": "6VrcD08gX7OkopjqBokw8y"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Quantic",
+                    "title": "Cumbia Sobre El Mar",
+                    "uri": "7KooLjzPsWw4TT12acawEB"
+                },
+                {
+                    "artist": "Quantic",
+                    "title": "Cumbia Sobre el Mar",
+                    "uri": "61muv9lHtgN18qbm9oK9pH"
+                },
+                {
+                    "artist": "Quantic",
+                    "title": "Cumbia Sobre el Mar (El Búho Remix)",
+                    "uri": "0yHCBC7fAsAqkBk9fz7tyA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Quantic",
+                    "title": "Cumbia Sobre el Mar",
+                    "uri": "61muv9lHtgN18qbm9oK9pH"
+                },
+                {
+                    "artist": "Quantic",
+                    "title": "Cumbia Sobre El Mar",
+                    "uri": "7KooLjzPsWw4TT12acawEB"
+                },
+                {
+                    "artist": "Flowering Inferno",
+                    "title": "Cumbia Sobre el Mar (El Búho Remix)",
+                    "uri": "3MKXaqOGIbJc2mF5wJc85U"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Los Pibes",
+                    "title": "Con El Corazon En Las Manos",
+                    "uri": "5lTQpi2qaMsTGBxnTegcl5"
+                },
+                {
+                    "artist": "Los Pibes",
+                    "title": "Es Tan Bello",
+                    "uri": "7CETpCtRElzLac9gTQ1HDc"
+                },
+                {
+                    "artist": "Los Pibes",
+                    "title": "Ella Quiere Un Pedazo",
+                    "uri": "54nzITx25yy5E8abo3Z8hg"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Jerry Rivera",
+                    "title": "Amores Como el Nuestro",
+                    "uri": "1RpCXjlxFGS6LfPOvqSJ7M"
+                },
+                {
+                    "artist": "Jerry Rivera",
+                    "title": "Amores Como el Nuestro",
+                    "uri": "3WLXf7K7mIGEBtFq41afce"
+                },
+                {
+                    "artist": "Jerry Rivera",
+                    "title": "Amores como el nuestro (Salsa)",
+                    "uri": "0r8RjrJjZ9U3OxZpGsn3v8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jerry Rivera",
+                    "title": "Amores Como el Nuestro",
+                    "uri": "1RpCXjlxFGS6LfPOvqSJ7M"
+                },
+                {
+                    "artist": "Jerry Rivera",
+                    "title": "Amores Como el Nuestro",
+                    "uri": "3WLXf7K7mIGEBtFq41afce"
+                },
+                {
+                    "artist": "Omar Alfanno",
+                    "title": "Amores Como el Nuestro - En Vivo",
+                    "uri": "1HrgcZbfzsvgucaot5nAAc"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Omara Portuondo",
+                    "title": "¿Dónde estabas tú?",
+                    "uri": "48LmyY9OP1kPziP7kZvAoc"
+                },
+                {
+                    "artist": "Omara Portuondo",
+                    "title": "¿Dónde estabas tú?",
+                    "uri": "3mNKgwNiyOkGPWCo3jV1Ap"
+                },
+                {
+                    "artist": "Omara Portuondo",
+                    "title": "Dónde Estabas Tú? - 2019 - Remaster",
+                    "uri": "1AV31tB6NSLj1cMVEWfdCW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Omara Portuondo",
+                    "title": "¿Dónde estabas tú?",
+                    "uri": "3mNKgwNiyOkGPWCo3jV1Ap"
+                },
+                {
+                    "artist": "Omara Portuondo",
+                    "title": "¿Dónde estabas tú?",
+                    "uri": "48LmyY9OP1kPziP7kZvAoc"
+                },
+                {
+                    "artist": "Jay Wheeler",
+                    "title": "Dónde estás?",
+                    "uri": "7co0Cq8pS4hCTDydkMGHus"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Mon Rivera",
+                    "title": "Lluvia con Nieve",
+                    "uri": "2jBe0JwHUxPi02bvSigPdg"
+                },
+                {
+                    "artist": "Mon Rivera",
+                    "title": "Lluvia con Nieve",
+                    "uri": "15WX2LYmLXvIiDeP9SYdlG"
+                },
+                {
+                    "artist": "Mon Rivera",
+                    "title": "Lluvia con Nieve",
+                    "uri": "3afg2t7RyU1mzq0JI0Xal2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mon Rivera",
+                    "title": "Lluvia con Nieve",
+                    "uri": "2jBe0JwHUxPi02bvSigPdg"
+                },
+                {
+                    "artist": "Louis Armstrong",
+                    "title": "Moon River",
+                    "uri": "17gxfuiFUrLhbUKdunxUPJ"
+                },
+                {
+                    "artist": "Carla Bruni",
+                    "title": "Moon River",
+                    "uri": "3sICyTPASesVzpfGc1nM2t"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sonido Gallo Negro",
+                    "title": "Fantasmagoría",
+                    "uri": "1UKdzeFMgUECS6bYGR1Jv6"
+                },
+                {
+                    "artist": "Sonido Gallo Negro",
+                    "title": "Bufo",
+                    "uri": "035POZK2Y0DulXqqUiSpjP"
+                },
+                {
+                    "artist": "Pueblo Verdiblanco",
+                    "title": "Gallo moro",
+                    "uri": "2AuV7P5LUpKREuAV14Jp57"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Joe Cuba Sextet",
+                    "title": "La Palomilla",
+                    "uri": "2Cg8zQMQa4kCCmUD2ycJM6"
+                },
+                {
+                    "artist": "Joe Cuba",
+                    "title": "La Palomilla",
+                    "uri": "7n2sUP73QP717QaNjo4GNA"
+                },
+                {
+                    "artist": "Joe Cuba Sextet",
+                    "title": "Bang! Bang!",
+                    "uri": "0gbeHMR4ESdykYOwWQ3PBw"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Catalina Avila",
+                    "title": "Ay! Curura",
+                    "uri": "2GCtXjwXGuRBKzVYCAaI4X"
+                },
+                {
+                    "artist": "Catalina Avila",
+                    "title": "Ay! Curura",
+                    "uri": "6P1rmhdLjmMK2w9YkKMNYE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Catalina Avila",
+                    "title": "Ay! Curura",
+                    "uri": "2GCtXjwXGuRBKzVYCAaI4X"
+                },
+                {
+                    "artist": "Catalina Avila",
+                    "title": "Deshojar",
+                    "uri": "2HKWRSyiiNFC4PbXuUCvEQ"
+                },
+                {
+                    "artist": "Catalina Vásquez",
+                    "title": "Me acuerdo de ti",
+                    "uri": "05vlYN2WWCoYn0xj9JiVyt"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Gilberto Santa Rosa",
+                    "title": "La Agarro Bajando",
+                    "uri": "383hkMdmA976zOTKRm6PLy"
+                },
+                {
+                    "artist": "Gilberto Santa Rosa",
+                    "title": "La Agarro Bajando",
+                    "uri": "3GgI4QQWvsqqdKCvnNN0UM"
+                },
+                {
+                    "artist": "Gilberto Santa Rosa",
+                    "title": "La Agarro Bajando - En Vivo desde Puerto Rico",
+                    "uri": "30y0NhD59lphxHma0eeoqy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gilberto Santa Rosa",
+                    "title": "La Agarro Bajando",
+                    "uri": "3GgI4QQWvsqqdKCvnNN0UM"
+                },
+                {
+                    "artist": "Gilberto Santa Rosa",
+                    "title": "La Agarro Bajando",
+                    "uri": "383hkMdmA976zOTKRm6PLy"
+                },
+                {
+                    "artist": "Gilberto Santa Rosa",
+                    "title": "Bailando A Tu Son",
+                    "uri": "3vrPR7zhJKvVG5INzVu8l6"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Celia Cruz",
+                    "title": "La Vida Es Un Carnaval",
+                    "uri": "1BwrMGGhPA6GarWIYaFrW8"
+                },
+                {
+                    "artist": "Celia Cruz",
+                    "title": "La Vida Es Un Carnaval",
+                    "uri": "6nuypnhbrFzvaRpWMc5qPT"
+                },
+                {
+                    "artist": "Celia Cruz",
+                    "title": "La Vida Es Un Carnaval",
+                    "uri": "7HL0P35A96wkutKopiovaX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Celia Cruz",
+                    "title": "La Vida Es Un Carnaval",
+                    "uri": "1BwrMGGhPA6GarWIYaFrW8"
+                },
+                {
+                    "artist": "Celia Cruz",
+                    "title": "La Vida Es Un Carnaval",
+                    "uri": "6nuypnhbrFzvaRpWMc5qPT"
+                },
+                {
+                    "artist": "Los Aldeanos",
+                    "title": "Algo Anda Mal",
+                    "uri": "6lS2vvP03L1zTFPMkiWSNW"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "bloque 53",
+                    "title": "Me Alborotas",
+                    "uri": "4OdGz2HXDcn7NgtJP7dUOf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "bloque 53",
+                    "title": "Me Alborotas",
+                    "uri": "4OdGz2HXDcn7NgtJP7dUOf"
+                },
+                {
+                    "artist": "bloque 53",
+                    "title": "Ay Mi Maria",
+                    "uri": "7DgaZInP8MEGkyAUI0Ygbm"
+                },
+                {
+                    "artist": "Bloque 38",
+                    "title": "Xoke",
+                    "uri": "063su0pkwuEKW5IZVyUIgv"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Elvis Crespo",
+                    "title": "Luna Llena",
+                    "uri": "7zOqkF9TUdUPREtkIf1v4Q"
+                },
+                {
+                    "artist": "Elvis Crespo",
+                    "title": "Luna Llena",
+                    "uri": "0go99GZlacnuwN249CgCfG"
+                },
+                {
+                    "artist": "Elvis Crespo",
+                    "title": "Luna Llena - Live",
+                    "uri": "20GFiL6o1kDSqTBU49ocBt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Elvis Crespo",
+                    "title": "Luna Llena",
+                    "uri": "0go99GZlacnuwN249CgCfG"
+                },
+                {
+                    "artist": "Elvis Crespo",
+                    "title": "Luna Llena - Live",
+                    "uri": "20GFiL6o1kDSqTBU49ocBt"
+                },
+                {
+                    "artist": "Deorro",
+                    "title": "Bailar",
+                    "uri": "2Zl4566w3vVGabd8IieJbL"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Banda Zarape",
+                    "title": "Calzones De Bolitas",
+                    "uri": "0FpwNEP4wq4iFN3W2M5HaH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Prianti",
+                    "title": "ZARAPE",
+                    "uri": "2OC4WVDI1AL3PmDljKdcCB"
+                },
+                {
+                    "artist": "Sentimiento Oaxaca",
+                    "title": "El Zarape",
+                    "uri": "7ExqtvvGxCMfUnyrBWuQpv"
+                },
+                {
+                    "artist": "Banda Zarape",
+                    "title": "Sombrero, Zarape Y Guitarra",
+                    "uri": "0edkBaaZC5FYtLiPP0Oh4X"
+                }
+            ]
+        }
+    },
     "qendresa-29th-august-2019": {
         "00": {
             "s0": [

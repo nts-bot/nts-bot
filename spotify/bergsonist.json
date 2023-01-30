@@ -2551,9 +2551,10 @@
         },
         "23": {
             "artist": "U$ELE$S",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Unleashed",
-            "trackid": "2XGnn9IjFETOPCVCnwSxjk"
+            "trackid": "2XGnn9IjFETOPCVCnwSxjk",
+            "uri": ""
         },
         "24": {
             "artist": "Vilija Urbonienė",
@@ -2765,9 +2766,10 @@
         },
         "14": {
             "artist": "Dynoman",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Resistance",
-            "trackid": "1WucvG9PYQgtI2usIZjJm6"
+            "trackid": "1WucvG9PYQgtI2usIZjJm6",
+            "uri": ""
         },
         "15": {
             "artist": "Taha",
@@ -2777,9 +2779,10 @@
         },
         "16": {
             "artist": "Dynoman",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Resistance",
-            "trackid": "1WucvG9PYQgtI2usIZjJm6"
+            "trackid": "1WucvG9PYQgtI2usIZjJm6",
+            "uri": ""
         },
         "17": {
             "artist": "Nite Fleit",
@@ -2789,9 +2792,10 @@
         },
         "18": {
             "artist": "Dynoman",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Resistance",
-            "trackid": "1WucvG9PYQgtI2usIZjJm6"
+            "trackid": "1WucvG9PYQgtI2usIZjJm6",
+            "uri": ""
         },
         "19": {
             "artist": "Nekrogoblikon",
@@ -4409,6 +4413,122 @@
             "trackid": "5wcMsmI838pUyvrYj4JO5e"
         }
     },
+    "bergsonist-28th-january-2023": {
+        "00": {
+            "artist": "Louis Douglas",
+            "ratio": 3,
+            "title": "You'll Be Proud",
+            "trackid": "73ir0HbzVfhgHDFvB8CwRb"
+        },
+        "01": {
+            "artist": "King Vision Ultra",
+            "ratio": 9,
+            "title": "Inferno of 1992",
+            "trackid": "5QuqHCYHwx5Sknxn9vVNwU"
+        },
+        "02": {
+            "artist": "Charlotte Gainsbourg",
+            "ratio": 9,
+            "title": "Le Chat du Café des Artistes",
+            "trackid": "7jiyWF0n7mcUoSJnhxX4dv"
+        },
+        "03": {
+            "artist": "Yukihiro Takahashi",
+            "ratio": 9,
+            "title": "DRIP DRY EYES - Live 1983 - tIME and pLACE 2022 Remaster",
+            "trackid": "58HDLh2e5h8XLFqQnipxh2"
+        },
+        "04": {
+            "artist": "Depeche Mode",
+            "ratio": 9,
+            "title": "Shake the Disease - Remixed Extended",
+            "trackid": "6khUfMxvB0qMqkUfh3mayo"
+        },
+        "05": {
+            "artist": "Hassan Ideddir",
+            "ratio": 9,
+            "title": "Atfalouna - Version",
+            "trackid": "5kWgw70JEjlZRinQfHTyNl"
+        },
+        "06": {
+            "artist": "Deux",
+            "ratio": 9,
+            "title": "Dance With Me",
+            "trackid": "4H73atZEKn0WSjQeYJd6IK"
+        },
+        "07": {
+            "artist": "Hansi Hinterseer",
+            "ratio": 5,
+            "title": "Bergsinfonie",
+            "trackid": "2alSIay2TMNoYQaYHpoQxj"
+        },
+        "08": {
+            "artist": "Röyksopp",
+            "ratio": 9,
+            "title": "Eple",
+            "trackid": "7pbEKdMWHGwPQSDGfcNycM"
+        },
+        "09": {
+            "artist": "Martial Canterel",
+            "ratio": 4,
+            "title": "Occupy These Terms",
+            "trackid": "3lyf2e5FADNnAH69l5K5PR"
+        },
+        "10": {
+            "artist": "Charlie",
+            "ratio": 9,
+            "title": "Spacer Woman - Vocal",
+            "trackid": "045G4R2wNFYoLamsXAWb6v"
+        },
+        "11": {
+            "artist": "Cari Lekebusch",
+            "ratio": 9,
+            "title": "Shaded - Jesper Dahlbäck Lost Remix",
+            "trackid": "3zaUUmLNtxfLYNJbtmEH06"
+        },
+        "12": {
+            "artist": "Boy Harsher",
+            "ratio": 9,
+            "title": "Save Me",
+            "trackid": "63G4VwO5rB2GMyGVeasFBK"
+        },
+        "13": {
+            "artist": "SLIMEBoiFACTZ",
+            "ratio": 4,
+            "title": "Get Right Freestyle",
+            "trackid": "0VtDM2x5KHG6XJfBTfAt6c"
+        },
+        "14": {
+            "artist": "ACAXIA",
+            "ratio": 4,
+            "title": "ManMachineDiscoWarrior",
+            "trackid": "7LPotwOn4ovRvEAA6tvPgt"
+        },
+        "15": {
+            "artist": "Bergsonist",
+            "ratio": 3,
+            "title": "Speculation",
+            "trackid": "1BnE1OTEB1tkJkhqe5Fjgf"
+        },
+        "16": {
+            "artist": "JOIE GREY",
+            "ratio": 0,
+            "title": "Untitled - Slowed &Reverb",
+            "trackid": "2kNmRkCF76KljDNfFgcTfo"
+        },
+        "17": {
+            "artist": "Anthony Rother",
+            "ratio": 9,
+            "title": "Father - Original",
+            "trackid": "1ETsp0TFf8fHK77ibwe1xw"
+        },
+        "18": {
+            "artist": "Crown Heights Affair",
+            "ratio": 3,
+            "title": "Far Out",
+            "trackid": "1oYGDdIlbULseivif0Afu0"
+        }
+    },
     "bergsonist-29th-april-2018": {
         "00": {
             "artist": "Otto Sidharta",
@@ -5465,6 +5585,122 @@
             "ratio": 9,
             "title": "Street Player",
             "trackid": "2el87ChjvvVgoAuqzYy1mt"
+        }
+    },
+    "bergsonist-3rd-december-2022": {
+        "00": {
+            "artist": "Hiroko Murakami",
+            "ratio": 4,
+            "title": "Trei",
+            "trackid": "5bHQg9Zu5BjBcwwtKWL8JK"
+        },
+        "01": {
+            "artist": "Berend Salverda",
+            "ratio": 5,
+            "title": "Suspension",
+            "trackid": "7bQP7TOMQT1AjWNRoSdwjh"
+        },
+        "02": {
+            "artist": "Hassan Wargui",
+            "ratio": 9,
+            "title": "Agrrab",
+            "trackid": "1YKpHcW8JlIB5vkxvQF56I"
+        },
+        "03": {
+            "artist": "Bibi Flash",
+            "ratio": 9,
+            "title": "Histoire d'un soir (Bye bye les galères) - Blutch Radio Edit",
+            "trackid": "7qZV8Zzk8fHU2eR6ilqvRs"
+        },
+        "04": {
+            "artist": "VEERUS",
+            "ratio": 3,
+            "title": "Marché noir",
+            "trackid": "1VI94hrM6AboYdeWGvsvI7"
+        },
+        "05": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "06": {
+            "artist": "Malik Hendricks",
+            "ratio": 9,
+            "title": "People",
+            "trackid": "5HkYiox9v73lxfAHNO70Cz"
+        },
+        "07": {
+            "artist": "Hansi Hinterseer",
+            "ratio": 5,
+            "title": "Bergsinfonie",
+            "trackid": "2alSIay2TMNoYQaYHpoQxj"
+        },
+        "08": {
+            "artist": "Rhano Burrell",
+            "ratio": 3,
+            "title": "When Can I Call You (feat. Lisa Lee) - 1-900-BURRELL",
+            "trackid": "4FL9iSVDYLUcemtO5Cynqc"
+        },
+        "09": {
+            "artist": "Junior Byles",
+            "ratio": 0,
+            "title": "Beat Down Babylon",
+            "trackid": "0mBz5oETbkKgPTHKTt8RHG"
+        },
+        "10": {
+            "artist": "Two Shell",
+            "ratio": 9,
+            "title": "Dust",
+            "trackid": "2P5k4HyETUJqYbMDXZdkp4"
+        },
+        "11": {
+            "artist": "MC Bin Laden",
+            "ratio": 9,
+            "title": "Tototo - NKC Remix",
+            "trackid": "2sloNDvhWiv71DPYXIExN3"
+        },
+        "12": {
+            "artist": "DJ G2G",
+            "ratio": 9,
+            "title": "SAD GIRLZ LUV X-FILES",
+            "trackid": "1a3YGuq6O7wic1OjIy5Fqf"
+        },
+        "13": {
+            "artist": "Himera",
+            "ratio": 9,
+            "title": "Whisper",
+            "trackid": "3JfkECJCGeVvVDs9j15OoB"
+        },
+        "14": {
+            "artist": "CAPSULE",
+            "ratio": 9,
+            "title": "Step on The Floor",
+            "trackid": "1mRcE1rQi7rgl6fonXIyhM"
+        },
+        "15": {
+            "artist": "Mike Williams",
+            "ratio": 4,
+            "title": "Dreams Come True",
+            "trackid": "6OgK0QV9SlIIrzykt39S49"
+        },
+        "16": {
+            "artist": "That Kid",
+            "ratio": 9,
+            "title": "7 Minutes in Heaven - Sleepycatt Remix",
+            "trackid": "5S1jQIw2G8IRdtQRf6LXjG"
+        },
+        "17": {
+            "artist": "SOPHIE",
+            "ratio": 4,
+            "title": "BIPP - Autechre Mx",
+            "trackid": "4tBdLWvYYr5IjJpvwiZr85"
+        },
+        "18": {
+            "artist": "Kamron Saniee",
+            "ratio": 9,
+            "title": "30 MINUTES",
+            "trackid": "1AStGSeijEhwojPN5wKX2l"
         }
     },
     "bergsonist-3rd-march-2019": {

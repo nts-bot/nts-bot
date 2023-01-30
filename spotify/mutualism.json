@@ -2547,6 +2547,50 @@
             "trackid": "2PUTW2qBWuhnOejqQsUCrM"
         }
     },
+    "mutualism-28th-january-2023": {
+        "00": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "01": {
+            "artist": "Mas Ysa",
+            "ratio": 9,
+            "title": "Ktidal",
+            "trackid": "45rNg4WlMplcBvdErR4pbF"
+        },
+        "02": {
+            "artist": "The Durutti Column",
+            "ratio": 9,
+            "title": "A Wolf of the Steppes",
+            "trackid": "4XrDEjUB0MtmMq1fflnaGx"
+        },
+        "03": {
+            "artist": "Paris Hilton",
+            "ratio": 3,
+            "title": "Do Ya Think I'm Sexy",
+            "trackid": "7dMOGWgmchQKPmCD4vDttH"
+        },
+        "04": {
+            "artist": "Eris Drew",
+            "ratio": 9,
+            "title": "So Much Love to Give",
+            "trackid": "5KtPOErnhZwiHRPCSl5cAB"
+        },
+        "05": {
+            "artist": "Clannad",
+            "ratio": 9,
+            "title": "Theme from Harry's Game",
+            "trackid": "1voOn3ywPiGmd3wlHVT1sw"
+        },
+        "06": {
+            "artist": "How To Dress Well",
+            "ratio": 9,
+            "title": "Say My Name Or Say Whatever",
+            "trackid": "6PlIldoPDOxoBGGK3Fe0YW"
+        }
+    },
     "mutualism-29th-august-2020": {
         "00": {
             "artist": "Momo Choco",
@@ -4296,9 +4340,10 @@
         },
         "03": {
             "artist": "Dibeesh",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Uoyash",
-            "trackid": "43DqoN8RCczBmzcLdKx0FK"
+            "trackid": "43DqoN8RCczBmzcLdKx0FK",
+            "uri": ""
         },
         "04": {
             "artist": "Cop Envy",
@@ -4308,9 +4353,10 @@
         },
         "05": {
             "artist": "Sarah Jaffe",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Clementine",
-            "trackid": "3HfSYACG5O3cio4dpHujWo"
+            "trackid": "3HfSYACG5O3cio4dpHujWo",
+            "uri": ""
         },
         "06": {
             "artist": "ULTRABEAR",
@@ -4326,15 +4372,17 @@
         },
         "08": {
             "artist": "Two Shell",
-            "ratio": 4,
+            "ratio": -1,
             "title": "no reply",
-            "trackid": "7JEElUcn9gusxO706c7XvY"
+            "trackid": "7JEElUcn9gusxO706c7XvY",
+            "uri": ""
         },
         "09": {
             "artist": "Hanzo",
-            "ratio": 5,
+            "ratio": -1,
             "title": "فصيلة",
-            "trackid": "3EY84WGlnTdA5CkAbIt11w"
+            "trackid": "3EY84WGlnTdA5CkAbIt11w",
+            "uri": ""
         },
         "10": {
             "artist": "Dan Habarnam",

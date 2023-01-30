@@ -4723,6 +4723,361 @@
             ]
         }
     },
+    "labour-28th-january-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Bada Seck",
+                    "title": "Tyson",
+                    "uri": "6KKdR2I3HiTbuvcUep8Uhk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dj Tyson",
+                    "title": "Baby Yayad",
+                    "uri": "4uJNPylfwNm8u7TUK0mVom"
+                },
+                {
+                    "artist": "Dj Tyson",
+                    "title": "Boom Boom",
+                    "uri": "7o6qSCmIroV7xlXC4V5tUH"
+                },
+                {
+                    "artist": "Dj Tyson",
+                    "title": "Lettre à une femme (Remix gouyad)",
+                    "uri": "5KEfSRaIC6Yn1HbgKj4BqE"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Bada Seck",
+                    "title": "Al Poular",
+                    "uri": "04qZZKvMtT5z0UXLntSuZy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bada Seck",
+                    "title": "Nguewel",
+                    "uri": "0he0rZPzd6dGu2RSZzkkD7"
+                },
+                {
+                    "artist": "Paula",
+                    "title": "Al",
+                    "uri": "6FR5annPpxEyzrbAmCQirv"
+                },
+                {
+                    "artist": "Bada Seck",
+                    "title": "Nguewel",
+                    "uri": "2j7V0ZcImRUY1yc22JDTPc"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Bada Seck",
+                    "title": "Dem Ba",
+                    "uri": "1SZSvnseHrVmRP5s0926H7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bada Seck",
+                    "title": "Nguewel",
+                    "uri": "0he0rZPzd6dGu2RSZzkkD7"
+                },
+                {
+                    "artist": "Johnny Roxx",
+                    "title": "Badda Dan Dem",
+                    "uri": "4tPVLBPsBe6Vbf2U1yKtQI"
+                },
+                {
+                    "artist": "Sands sek",
+                    "title": "Bagdad",
+                    "uri": "4dX9BI9kOzMyJlOsVd3feN"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Bada Seck",
+                    "title": "Nguewel",
+                    "uri": "0he0rZPzd6dGu2RSZzkkD7"
+                },
+                {
+                    "artist": "Bada Seck",
+                    "title": "Nguewel",
+                    "uri": "2j7V0ZcImRUY1yc22JDTPc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bada Seck",
+                    "title": "Nguewel",
+                    "uri": "0he0rZPzd6dGu2RSZzkkD7"
+                },
+                {
+                    "artist": "Bada Seck",
+                    "title": "Nguewel",
+                    "uri": "2j7V0ZcImRUY1yc22JDTPc"
+                },
+                {
+                    "artist": "Thione Seck",
+                    "title": "Nguewel",
+                    "uri": "44WzOPwFqwpavHqaHQSsVr"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Bada Seck",
+                    "title": "Sabar Yi",
+                    "uri": "1sTPMCoyjhyckpCRFEbU4r"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Saad Lamjarred",
+                    "title": "Baddek Eih",
+                    "uri": "27Fga3eZMVIFd1hDFeWCKS"
+                },
+                {
+                    "artist": "Amster Gank",
+                    "title": "Sabar Sayang",
+                    "uri": "3va5ovE7RQOroXEcgpA7vW"
+                },
+                {
+                    "artist": "Anak Kompleks",
+                    "title": "Beda Server",
+                    "uri": "2NPELmkgQmnASfLvhEENdJ"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Yasser Yasmeriz",
+                    "title": "Ya Cheikh",
+                    "uri": "3l7c8WqdKcHJaq3AJKZ3Ms"
+                },
+                {
+                    "artist": "Cheb Aziz",
+                    "title": "Ya chikh",
+                    "uri": "2j4QwGnfUfX7irTX7Rltn4"
+                },
+                {
+                    "artist": "Azzedine",
+                    "title": "Ya Cheikh Khtik Ma El Hafouate",
+                    "uri": "1Ti8W3F1wG8AGdcpFfUgbM"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hamza",
+                    "title": "Cheikh",
+                    "uri": "4W9ZLuUtdSptQakOh0Envf"
+                },
+                {
+                    "artist": "Khaled",
+                    "title": "Ya Aachkou",
+                    "uri": "652JtP49hK7ygFK8cd357Y"
+                },
+                {
+                    "artist": "DKB",
+                    "title": "Twehechtek ya lemima - توحشتك يا لميمة",
+                    "uri": "1wzIp55iI84T0X8wDXDm1Q"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Khalass",
+                    "title": "Daouar Daouar",
+                    "uri": "3MnCZFsSSJPbWXE3aaA0pe"
+                },
+                {
+                    "artist": "Mocci",
+                    "title": "Khalass",
+                    "uri": "1YAcYC4yCkdBkgSczACr7C"
+                },
+                {
+                    "artist": "Khaled",
+                    "title": "Ya Aachkou",
+                    "uri": "652JtP49hK7ygFK8cd357Y"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hiro",
+                    "title": "Doudou",
+                    "uri": "2ppPvgLyLGu9dMnOiT17I8"
+                },
+                {
+                    "artist": "Dounia Jari",
+                    "title": "Moussa",
+                    "uri": "0ons0e5U6j6FrlxHSK4eYq"
+                },
+                {
+                    "artist": "Jaymax",
+                    "title": "Doudou",
+                    "uri": "4rnhC0aKXB0Kp1pSQ4duwS"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jeri-Jeri",
+                    "title": "Mbeuguel Dafa Nekh",
+                    "uri": "6vEpPn1GGrBejlD2phlUAt"
+                },
+                {
+                    "artist": "Jeri-Jeri",
+                    "title": "Xale",
+                    "uri": "2R9XiB6hsN2KP0qKLxlmoR"
+                },
+                {
+                    "artist": "Jeri-Jeri",
+                    "title": "Gawlo",
+                    "uri": "1V5HTbecaZXuKCCIHwNF7T"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Akhlou Brick",
+                    "title": "Man Lagn Bouga",
+                    "uri": "2m2dmi4lYJ6g3q2UpOVH2n"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Akhlou Brick",
+                    "title": "Man Lagn Bouga",
+                    "uri": "2m2dmi4lYJ6g3q2UpOVH2n"
+                },
+                {
+                    "artist": "Akhlou Brick",
+                    "title": "Deff Effect",
+                    "uri": "7e6LK4TyGNbDNdHN1rVfz0"
+                },
+                {
+                    "artist": "Akhlou Brick",
+                    "title": "Negu Gorr",
+                    "uri": "7B5CkYvmoJxub9ozUyjIyT"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Aïda Samb",
+                    "title": "Temps Boy",
+                    "uri": "2eOEBfV4R9qtwJ6IIWIMOr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aïda Samb",
+                    "title": "Temps Boy",
+                    "uri": "2eOEBfV4R9qtwJ6IIWIMOr"
+                },
+                {
+                    "artist": "Aïda Samb",
+                    "title": "Dieukeur Sama",
+                    "uri": "6HoX2pTODGdPvzrUeRn05o"
+                },
+                {
+                    "artist": "Giuseppe Verdi",
+                    "title": "Aida / Act 2: Giuseppe VERDI : Aida. Marche triomphale « Gloria all’ Egitto »",
+                    "uri": "1jCvvbYtxlWkUa7i4NexME"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Helmut Fritz",
+                    "title": "Ça m'énerve - Radio Edit",
+                    "uri": "1P37gwlsx2ghfr8tGzJsRE"
+                },
+                {
+                    "artist": "Mademoiselle K",
+                    "title": "Ça me vexe",
+                    "uri": "5LKdAzDeMyMXezSTIHkXcE"
+                },
+                {
+                    "artist": "Kemmler",
+                    "title": "Ça me gêne",
+                    "uri": "6M2UFhXp9gH6re7H3AUVO3"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ludwig Goransson",
+                    "title": "Nyana Wam",
+                    "uri": "7neULKRMzWJVOcOJkgz6QB"
+                },
+                {
+                    "artist": "Radical Face",
+                    "title": "Welcome Home",
+                    "uri": "1oofwLaSk4kDIWAYT5ZGK7"
+                },
+                {
+                    "artist": "Ludwig Goransson",
+                    "title": "The Mandalorian",
+                    "uri": "6tJFtthY0rI1x06qb8NjK0"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Bada Seck",
+                    "title": "Barra Mbaye",
+                    "uri": "1SLFZdjrxwfp72ui0ZSZgq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pagaye Mbaye",
+                    "title": "Bara Mbaye",
+                    "uri": "4hW2LCD2TK1pQV6h4Rzljw"
+                },
+                {
+                    "artist": "Bada Seck",
+                    "title": "Nguewel",
+                    "uri": "0he0rZPzd6dGu2RSZzkkD7"
+                },
+                {
+                    "artist": "Wally B. Seck",
+                    "title": "Baye Laye",
+                    "uri": "5SXraiHrHPWjnPqB7v9RcR"
+                }
+            ]
+        }
+    },
     "labour-28th-november-2022": {
         "00": {
             "s0": "",

@@ -24519,6 +24519,412 @@
             ]
         }
     },
+    "onotesla-28th-january-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Drummers Of The Societe Absolument Guinin",
+                    "title": "Bolero",
+                    "uri": "43eHyRFX3kzFFJTGgsqic3"
+                },
+                {
+                    "artist": "Drummers Of The Societe Absolument Guinin",
+                    "title": "Adaptation",
+                    "uri": "2tkJkzAAkQaBnGcrBPSdOs"
+                },
+                {
+                    "artist": "Drummers Of The Societe Absolument Guinin",
+                    "title": "Doki",
+                    "uri": "3jDhkUECEDdZF03mmETylR"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Burnt Friedman",
+                    "title": "The Sticks",
+                    "uri": "6AuHwmankUT2hQ2kLq4rlp"
+                },
+                {
+                    "artist": "Burnt Friedman",
+                    "title": "Fearer",
+                    "uri": "1qtgEmc5Cx1rcTzBxhlnZq"
+                },
+                {
+                    "artist": "Gitimoni Borgohain",
+                    "title": "Jakoi",
+                    "uri": "3SW5s9LxZbzTJG9vIYrN78"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Black Bombaim",
+                    "title": "Birds",
+                    "uri": "40gofUpw80pkRH2hJCwen8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Black Bomb A",
+                    "title": "Mary",
+                    "uri": "6oovFLaIWpXAZgOYQ8tHyu"
+                },
+                {
+                    "artist": "Black Bomb A",
+                    "title": "Human Circus",
+                    "uri": "3sV1SSfKrHVz6yxS5fWANe"
+                },
+                {
+                    "artist": "Black Bomb A",
+                    "title": "Bulletproof",
+                    "uri": "4lNTEenKTfZBOKK6HX4G3g"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "João Pais Filipe",
+                    "title": "Konorak",
+                    "uri": "0zGjGLsJVVg6jRaZIxHiw8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "João Pedro Pais",
+                    "title": "Fazes-me Falta",
+                    "uri": "2GtABO3ylzr7tSDg2TzzpW"
+                },
+                {
+                    "artist": "João Pedro Pais",
+                    "title": "Mentira",
+                    "uri": "4FDyy5Te4BU63IiU6YuivT"
+                },
+                {
+                    "artist": "João Pedro Pais",
+                    "title": "Mentira",
+                    "uri": "5rnVxpB6Xincost6tY522Q"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Burnt Friedman",
+                    "title": "The Sticks",
+                    "uri": "6AuHwmankUT2hQ2kLq4rlp"
+                },
+                {
+                    "artist": "Burnt Friedman",
+                    "title": "Fearer",
+                    "uri": "1qtgEmc5Cx1rcTzBxhlnZq"
+                },
+                {
+                    "artist": "Burnt Friedman",
+                    "title": "The Librarian - Nonplace Version",
+                    "uri": "6u99q0T7fmnWF6EBcZIwxo"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "João Pais Filipe",
+                    "title": "Konorak",
+                    "uri": "0zGjGLsJVVg6jRaZIxHiw8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "João Pedro Pais",
+                    "title": "Fazes-me Falta",
+                    "uri": "2GtABO3ylzr7tSDg2TzzpW"
+                },
+                {
+                    "artist": "João Pedro Pais",
+                    "title": "Mentira",
+                    "uri": "4FDyy5Te4BU63IiU6YuivT"
+                },
+                {
+                    "artist": "João Pedro Pais",
+                    "title": "Mentira",
+                    "uri": "5rnVxpB6Xincost6tY522Q"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Gnod",
+                    "title": "Faca De Água",
+                    "uri": "1QGRpL8dIGCJZ1IebBz9QC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gnod",
+                    "title": "Faca De Água",
+                    "uri": "1QGRpL8dIGCJZ1IebBz9QC"
+                },
+                {
+                    "artist": "Gnod",
+                    "title": "Faca De Terra",
+                    "uri": "1AsyfYAVHCIc45xhNmzpas"
+                },
+                {
+                    "artist": "Gnod",
+                    "title": "Faca De Ar",
+                    "uri": "0PHHviSOGahIwYnzNwngWk"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "It Starts With Alaska",
+                    "title": "UNTITLED",
+                    "uri": "4sjTouPxuWwxNFbeNybMzT"
+                },
+                {
+                    "artist": "Second Start",
+                    "title": "Untitled",
+                    "uri": "3fYt0CfXLvbFyyLHLiO6jd"
+                },
+                {
+                    "artist": "The Planes Start Falling Today",
+                    "title": "The Untitled Song",
+                    "uri": "3uI8oGwpeKU8wZZRd5uYiL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "JOIE GREY",
+                    "title": "Untitled - Slowed &Reverb",
+                    "uri": "2kNmRkCF76KljDNfFgcTfo"
+                },
+                {
+                    "artist": "RXLZQ",
+                    "title": "Untitled",
+                    "uri": "62SuiqA70mwwmjWE3sUZ14"
+                },
+                {
+                    "artist": "Vinsmar",
+                    "title": "Untitled Singer",
+                    "uri": "6nzyc4Xy3yp3CX8QJ4bwt0"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Solar Corona",
+                    "title": "A.u.",
+                    "uri": "3fhkxCfRqI9sejvsgodr2V"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "陶建峰",
+                    "title": "prayer",
+                    "uri": "2G6ZsLEwZrpaer2IInRm9D"
+                },
+                {
+                    "artist": "陶建峰",
+                    "title": "Eternal sing",
+                    "uri": "7zlEazFVstSwZAMt1Z31dB"
+                },
+                {
+                    "artist": "陶建峰",
+                    "title": "draw heart",
+                    "uri": "5jXvBcgsUFkRVyldWMMZIa"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Rafael Toral",
+                    "title": "Beyond",
+                    "uri": "3AVP7O17FCKAuIzQARER4u"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Avishai Cohen",
+                    "title": "Beyond",
+                    "uri": "7rGqI0ZGTmnWiKpylL5Dcw"
+                },
+                {
+                    "artist": "Tripssono",
+                    "title": "Beyond",
+                    "uri": "5NHcTLn41oAOkvpKAFumoN"
+                },
+                {
+                    "artist": "Tormund",
+                    "title": "Beyond",
+                    "uri": "0B5emsAmwLIx51EPR5W90G"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Burnt Friedman",
+                    "title": "22–105",
+                    "uri": "0NW0R6YSeWIdK8lpNaYkrx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Benny Friedman",
+                    "title": "Mi Shemaamin",
+                    "uri": "7uHj6McqE2fzE1xo2EIpm7"
+                },
+                {
+                    "artist": "Matt Dubb",
+                    "title": "L'chai Olamim",
+                    "uri": "6hhDOYNDfUwM2eOT5YPmqx"
+                },
+                {
+                    "artist": "Robert Schumann",
+                    "title": "Dichterliebe, Op. 48: X. Hör' ich das Liedchen klingen",
+                    "uri": "0Xy1rQBbVieYCGcVYrpBJ9"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Still Crazy Unlimited",
+                    "title": "Brace Position",
+                    "uri": "6j69jlKMKA92whUBmpDwMW"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "João Pais Filipe",
+                    "title": "XV",
+                    "uri": "5lBaBEL1mEsJJNQtqPyjWs"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "João Pedro Pais",
+                    "title": "Fazes-me Falta",
+                    "uri": "2GtABO3ylzr7tSDg2TzzpW"
+                },
+                {
+                    "artist": "João Pedro Pais",
+                    "title": "Ninguém é de ninguém",
+                    "uri": "3moLWHe3gMw2HWW9r68wN7"
+                },
+                {
+                    "artist": "João Pedro Pais",
+                    "title": "Mentira",
+                    "uri": "4FDyy5Te4BU63IiU6YuivT"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Drummers Of The Societe Absolument Guinin",
+                    "title": "Rara",
+                    "uri": "2KFaz7YEyjhGjlw1ezqBFt"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ensemble Tbilisi",
+                    "title": "Chaghara",
+                    "uri": "1wPi6djOZu6I6gxI2nZgzH"
+                },
+                {
+                    "artist": "Cafe Music Jazz Channel",
+                    "title": "Ensemble Special",
+                    "uri": "2PkukyHROvb4GTHJNhENwr"
+                },
+                {
+                    "artist": "Ensemble Rossi",
+                    "title": "Balkanisches Vorspiel",
+                    "uri": "2QkqX2eVkcFazc1t1tGFem"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sevec Aldyn-ool",
+                    "title": "Kargyraa",
+                    "uri": "61SscqiJHrzTFLH3htIhFC"
+                },
+                {
+                    "artist": "Eleni Karaindrou",
+                    "title": "Farewell Theme (Var. 1990)",
+                    "uri": "4sEfQr1agybEnuCuZT64Kl"
+                },
+                {
+                    "artist": "Eleni Karaindrou",
+                    "title": "Requiem For Willy Loman - Live",
+                    "uri": "2kpQbe2uOxVnRzDfq63Eev"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Renaud",
+                    "title": "Manhattan-Kaboul",
+                    "uri": "7eJdx83TiKsVqAzLFBelMO"
+                },
+                {
+                    "artist": "Oullahlou",
+                    "title": "Pouvoir assassin",
+                    "uri": "7g4lMNqFwbxt57r5QcmH2i"
+                },
+                {
+                    "artist": "Oulahlou",
+                    "title": "Tafloukt",
+                    "uri": "57sAyK1n7r2XZzKFtzetKM"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "CalledOut Music",
+                    "title": "Oba Ti De (The King Has Come)",
+                    "uri": "6xjVbr6rKmM1KIu0lvIDd9"
+                },
+                {
+                    "artist": "Foncho",
+                    "title": "Rumba Zumba",
+                    "uri": "2JsS88Tb4VsDIt0ubho7lo"
+                },
+                {
+                    "artist": "L.J Frazier",
+                    "title": "Obama Song",
+                    "uri": "4cq8UttBCdFRQkI7XyjfI9"
+                }
+            ]
+        }
+    },
     "onotesla-28th-march-2021": {
         "00": {
             "s0": "",
