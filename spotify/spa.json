@@ -668,9 +668,10 @@
         },
         "04": {
             "artist": "Andy Stott",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Luxury Problems",
-            "trackid": "2Qtq6zVNB4BgkLJUrdHoYR"
+            "trackid": "2Qtq6zVNB4BgkLJUrdHoYR",
+            "uri": ""
         },
         "05": {
             "artist": "Alco",
@@ -1790,9 +1791,10 @@
         },
         "16": {
             "artist": "Nazar",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Randale",
-            "trackid": "0NnmaItUggfqZwwRhj9mMe"
+            "trackid": "0NnmaItUggfqZwwRhj9mMe",
+            "uri": ""
         },
         "17": {
             "artist": "Voz da Verdade",
@@ -1914,9 +1916,10 @@
     "spa-29th-april-2019": {
         "00": {
             "artist": "DJ Fronteo",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Super Freaky x Luxurious - Remix",
-            "trackid": "3WpMpcM3rW6iVZcaxz5ohq"
+            "trackid": "3WpMpcM3rW6iVZcaxz5ohq",
+            "uri": ""
         },
         "01": {
             "artist": "Future Daughter",
@@ -1956,9 +1959,10 @@
         },
         "07": {
             "artist": "Luxury SA",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Crazy Vibez",
-            "trackid": "2nwXM9eHzj8eQBsuK9osbL"
+            "trackid": "2nwXM9eHzj8eQBsuK9osbL",
+            "uri": ""
         },
         "08": {
             "artist": "Diptera",
@@ -1991,6 +1995,116 @@
             "ratio": 9,
             "title": "A Little Breeze",
             "trackid": "6hXdxmVlbktyhRTOxkhClf"
+        }
+    },
+    "spa-31st-january-2023": {
+        "00": {
+            "artist": "Birdy",
+            "ratio": 0,
+            "title": "Wings",
+            "trackid": "0yzr0zrYvv5oyNoCMBFMAa"
+        },
+        "01": {
+            "artist": "Urtogil",
+            "ratio": 0,
+            "title": "Xzavier Stamper",
+            "trackid": "06qldTAdT04PCsbYFPRofR"
+        },
+        "02": {
+            "artist": "Glue Boy",
+            "ratio": 5,
+            "title": "Big Vaysion",
+            "trackid": "5Y7gegBIcMqgSQm3pWRPjj"
+        },
+        "03": {
+            "artist": "Simo Cell",
+            "ratio": 9,
+            "title": "Whispers",
+            "trackid": "7oL8yDVzpJVUd2LozdvQHU"
+        },
+        "04": {
+            "artist": "Florentino",
+            "ratio": 9,
+            "title": "Fuego (Bitter Babe & Nick León Remix)",
+            "trackid": "1iXSbbqp2eMHGVeMtGlqgZ"
+        },
+        "05": {
+            "artist": "Koffee",
+            "ratio": 9,
+            "title": "Raggamuffin",
+            "trackid": "1m1BWVNNPRTiYmlCd5eqW0"
+        },
+        "06": {
+            "artist": "Muse",
+            "ratio": 3,
+            "title": "Hysteria - Live from Wembley Stadium",
+            "trackid": "0dLQn1q9rYqMQgH27jMOHf"
+        },
+        "07": {
+            "artist": "Paul Williams",
+            "ratio": 5,
+            "title": "Faust",
+            "trackid": "4INWW6T86A55L3I2fjyphX"
+        },
+        "08": {
+            "artist": "Dubphone",
+            "ratio": 4,
+            "title": "Angels",
+            "trackid": "26xJYfPRvZgxlWA1wpnsOa"
+        },
+        "09": {
+            "artist": "DJ Madd",
+            "ratio": 9,
+            "title": "Detroit Skank",
+            "trackid": "5133U8cZgZum7ITmFztUau"
+        },
+        "10": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "11": {
+            "artist": "UTILITY",
+            "ratio": 9,
+            "title": "Flooot - DJ Plead Rework",
+            "trackid": "0NPwK8NRzNdVO7tle7NqXT"
+        },
+        "12": {
+            "artist": "DJ Double Oh!",
+            "ratio": 9,
+            "title": "Burst",
+            "trackid": "6vWrmSYYcpSMSMkgYxqm7t"
+        },
+        "13": {
+            "artist": "Logan",
+            "ratio": 3,
+            "title": "Love Talk Bad",
+            "trackid": "1JVTAu7HnBE1Do7Iu0FZ2L"
+        },
+        "14": {
+            "artist": "G Tha Don",
+            "ratio": 4,
+            "title": "Don't Cheat",
+            "trackid": "4pbzZ6sxOzgTNoNUwL1cIe"
+        },
+        "15": {
+            "artist": "New School Yoni",
+            "ratio": 5,
+            "title": "33 Volts",
+            "trackid": "6e11q79wEkBAlJNR7L74ye"
+        },
+        "16": {
+            "artist": "Proc Fiskal",
+            "ratio": 9,
+            "title": "Hoax Nos Trinit",
+            "trackid": "6p7Sh0YRzXm2Ex8gi5dBN5"
+        },
+        "17": {
+            "artist": "ELOI",
+            "ratio": 9,
+            "title": "Novembre Éternel",
+            "trackid": "5SzMjTUmgU29Tn3awakWRc"
         }
     },
     "spa-4th-february-2019": {

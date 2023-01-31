@@ -116,9 +116,10 @@
         },
         "19": {
             "artist": "Audio Drones",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Polaroid Picture",
-            "trackid": "3BisdrgDjtN8NKI8140KFM"
+            "trackid": "3BisdrgDjtN8NKI8140KFM",
+            "uri": ""
         },
         "20": {
             "artist": "Walton",
@@ -788,15 +789,17 @@
     "ZULI-12th-september-2022": {
         "00": {
             "artist": "Hedo Hydr8",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Mass Bleach",
-            "trackid": "0ZDFKQiLWjeTRNta44uR8H"
+            "trackid": "0ZDFKQiLWjeTRNta44uR8H",
+            "uri": ""
         },
         "01": {
             "artist": "Hedo Hydr8",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Mass Bleach",
-            "trackid": "0ZDFKQiLWjeTRNta44uR8H"
+            "trackid": "0ZDFKQiLWjeTRNta44uR8H",
+            "uri": ""
         },
         "02": {
             "artist": "",
@@ -1046,9 +1049,10 @@
         },
         "43": {
             "artist": "Samuel Kim",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Unravel",
-            "trackid": "06XWWJwKWZFEJ30E6jQcuy"
+            "trackid": "06XWWJwKWZFEJ30E6jQcuy",
+            "uri": ""
         },
         "44": {
             "artist": "Heyson",
@@ -1070,9 +1074,10 @@
         },
         "47": {
             "artist": "Hedo Hydr8",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Mass Bleach",
-            "trackid": "0ZDFKQiLWjeTRNta44uR8H"
+            "trackid": "0ZDFKQiLWjeTRNta44uR8H",
+            "uri": ""
         },
         "48": {
             "artist": "Torus",
@@ -2564,18 +2569,292 @@
             "trackid": "5In7WfVw5AinWB7FgJl75f"
         }
     },
+    "ZULI-30th-january-2023": {
+        "00": {
+            "artist": "Mohamed Ramadan",
+            "ratio": 4,
+            "title": "دوشة",
+            "trackid": "5kFk5UJRSHz4KMbzmzNLbD"
+        },
+        "01": {
+            "artist": "Tyler, The Creator",
+            "ratio": 9,
+            "title": "Potato Salad",
+            "trackid": "1jzIJcHCXneHw7ojC6LXiF"
+        },
+        "02": {
+            "artist": "Westside Gunn",
+            "ratio": 9,
+            "title": "Euro Step",
+            "trackid": "1Aa4s3YjqCvdgzw1Sd5gOd"
+        },
+        "03": {
+            "artist": "TRAKA",
+            "ratio": 9,
+            "title": "Esnaf",
+            "trackid": "0Z4SnlR0ZHyEgHybKkDOlF"
+        },
+        "04": {
+            "artist": "Evitceles",
+            "ratio": 9,
+            "title": "Expecting Autumn",
+            "trackid": "6m3MMAksfKG650tFfKkEcs"
+        },
+        "05": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "06": {
+            "artist": "Federico Montoya",
+            "ratio": 4,
+            "title": "Theme from Lazarus",
+            "trackid": "0kaL2ZHjstKZWu9MxWt3mb"
+        },
+        "07": {
+            "artist": "yatashigang",
+            "ratio": 4,
+            "title": "Asterix",
+            "trackid": "2qCvsmE9jO1QQQQ1jpndVZ"
+        },
+        "08": {
+            "artist": "Apostolic Christian Singers",
+            "ratio": 3,
+            "title": "Holy Simplicity",
+            "trackid": "3kewgyDGzsYdruSrGGKXdQ"
+        },
+        "09": {
+            "artist": "Enmity",
+            "ratio": 4,
+            "title": "STRENGTH (HARDSTYLE)",
+            "trackid": "0LZSKekXW9Q0fdahWu1dXk"
+        },
+        "10": {
+            "artist": "Fujii Kaze",
+            "ratio": 4,
+            "title": "きらり",
+            "trackid": "51oc6MEsXTpnPn6GOw5VuP"
+        },
+        "11": {
+            "artist": "Itoa",
+            "ratio": 9,
+            "title": "Girlboss Microplastix",
+            "trackid": "2mab6CyNgbF1r48dysTw5K"
+        },
+        "12": {
+            "artist": "Cocktails & Jazz",
+            "ratio": 4,
+            "title": "Jazz Music For The Perfect Cocktail",
+            "trackid": "7IDDmJhsKoGQIbwj4Lp5pt"
+        },
+        "13": {
+            "artist": "RIDSA",
+            "ratio": 3,
+            "title": "Dame",
+            "trackid": "7onTNWxT1xWTSkEpGf76G2"
+        },
+        "14": {
+            "artist": "GOMID",
+            "ratio": 9,
+            "title": "GO",
+            "trackid": "6CUtckVl3ej3GwgZ8C33cS"
+        },
+        "15": {
+            "artist": "Katsunori Sawa",
+            "ratio": 9,
+            "title": "Strange Hell",
+            "trackid": "0BMpuMmwv6r7Ixs85RTy30"
+        },
+        "16": {
+            "artist": "Julmud",
+            "ratio": 7,
+            "title": "Taghyeer Thabet",
+            "trackid": "2c77WUfIBxORNU9oIYGGSW"
+        },
+        "17": {
+            "artist": "Buunshin",
+            "ratio": 9,
+            "title": "Iron Voices",
+            "trackid": "2KnGVxmXJZPxqpFniUeuLW"
+        },
+        "18": {
+            "artist": "KAVARI",
+            "ratio": 9,
+            "title": "Mirroring (Like Me)",
+            "trackid": "3L5vHdoeDYIw9LTiq1odtC"
+        },
+        "19": {
+            "artist": "Emma DJ",
+            "ratio": 9,
+            "title": "sous pills",
+            "trackid": "094AlENmugQYRH3dAUEmZj"
+        },
+        "20": {
+            "artist": "Ludwig Wandinger",
+            "ratio": 9,
+            "title": "Adoration Echoes",
+            "trackid": "5UfaDnjqqNHoCHiRDQpwlN"
+        },
+        "21": {
+            "artist": "J Alvarez",
+            "ratio": 3,
+            "title": "Sexo, Sudor y Calor",
+            "trackid": "4eDjNcAyIuJFhQ31Fvvoc1"
+        },
+        "22": {
+            "artist": "SCENTED",
+            "ratio": 9,
+            "title": "CL01_16",
+            "trackid": "1llqrdEAqdUONSitkticRC"
+        },
+        "23": {
+            "artist": "Dxrk ダーク",
+            "ratio": 4,
+            "title": "RAVE",
+            "trackid": "01kfSdF9zfcDLri5sSWEoL"
+        },
+        "24": {
+            "artist": "Ikävä Pii",
+            "ratio": 9,
+            "title": "Relevant Channel",
+            "trackid": "4IzexRYo3fyutl93cmuCk9"
+        },
+        "25": {
+            "artist": "Ekhe",
+            "ratio": 9,
+            "title": "Rimmer's Hot Breakfast",
+            "trackid": "5OhhuxLTuoLG242iu1X4t2"
+        },
+        "26": {
+            "artist": "DJ Mehdi",
+            "ratio": 4,
+            "title": "Signatune - Thomas Bangalter Edit",
+            "trackid": "0lbVB3ktcJkLZwX3GkiNi9"
+        },
+        "27": {
+            "artist": "PRESENTE",
+            "ratio": 9,
+            "title": "Lingotto",
+            "trackid": "438lPJNo0K6S0rGoX7l53P"
+        },
+        "28": {
+            "artist": "wrist",
+            "ratio": 3,
+            "title": "early reflections",
+            "trackid": "2sZosashXLh2Mt5jNGKgOQ"
+        },
+        "29": {
+            "artist": "Pentakill",
+            "ratio": 4,
+            "title": "The Hex Core",
+            "trackid": "4HbQ2dNDJRcqkhiq6ZBMQ0"
+        },
+        "30": {
+            "artist": "Ténèbre",
+            "ratio": 9,
+            "title": "Hybrids",
+            "trackid": "6LYwJjo3vNN87jPdTXGug1"
+        },
+        "31": {
+            "artist": "Alex Index",
+            "ratio": 9,
+            "title": "bakken tool - FoxMind re-tool",
+            "trackid": "4B9TXTFKE74zqlvuOqk21i"
+        },
+        "32": {
+            "artist": "Mutant Joe",
+            "ratio": 9,
+            "title": "Atletico",
+            "trackid": "3olnuyrsRK1RS5LbBwE7vC"
+        },
+        "33": {
+            "artist": "Async Figure",
+            "ratio": 9,
+            "title": "Harsh Realm",
+            "trackid": "4eYUxjcszYZVFURQqRytqt"
+        },
+        "34": {
+            "artist": "Bitter Babe",
+            "ratio": 9,
+            "title": "Nadie Lo Puede Parar",
+            "trackid": "6bojZ3j4aNWe8kDrrzdtET"
+        },
+        "35": {
+            "artist": "OVI WOOD",
+            "ratio": 4,
+            "title": "OD",
+            "trackid": "2daZS7Wt4IRpn740XzuBKK"
+        },
+        "36": {
+            "artist": "Substrada",
+            "ratio": 9,
+            "title": "On The Run",
+            "trackid": "4HUG7lWVKSW7HuRCxHJGD5"
+        },
+        "37": {
+            "artist": "Sorcery",
+            "ratio": 9,
+            "title": "Brute Force Engine",
+            "trackid": "6rp7wuUBkxFWPdIeZngyik"
+        },
+        "38": {
+            "artist": "Daboor",
+            "ratio": 4,
+            "title": "Inn Ann",
+            "trackid": "4FTGTibd0V8qZOTMwx7lG7"
+        },
+        "39": {
+            "artist": "The Cheery Maverick",
+            "ratio": 5,
+            "title": "Cloejan",
+            "trackid": "3T1vFRsgNPasV9ZQElct7p"
+        },
+        "40": {
+            "artist": "Kronom",
+            "ratio": 9,
+            "title": "Resag",
+            "trackid": "6Baa8p0nvfc4evWPOKfYbg"
+        },
+        "41": {
+            "artist": "HØST",
+            "ratio": 9,
+            "title": "Better With A 925",
+            "trackid": "5pnTkXfTezaXSoikvSOS30"
+        },
+        "42": {
+            "artist": "The Belgian Stallion",
+            "ratio": 5,
+            "title": "KMHP",
+            "trackid": "7ugkrP9qlEiCTHAfZ4qcD9"
+        },
+        "43": {
+            "artist": "Roho",
+            "ratio": 9,
+            "title": "Storm",
+            "trackid": "0gB8ROFIEUAczqi3lNCuxZ"
+        },
+        "44": {
+            "artist": "FFF",
+            "ratio": 9,
+            "title": "Bookworms",
+            "trackid": "2Jw5VMzhTpeltK0hbe8fI5"
+        }
+    },
     "ZULI-5th-december-2022": {
         "00": {
             "artist": "Brain Power Amadeus",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Comptine D'un Autre Été",
-            "trackid": "6xkYAK0duVMRfWOglN2z3G"
+            "trackid": "6xkYAK0duVMRfWOglN2z3G",
+            "uri": ""
         },
         "01": {
             "artist": "Tego Calderón",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Al Natural (feat. Yandel)",
-            "trackid": "49vwUeeauJgEQxDViXA01C"
+            "trackid": "49vwUeeauJgEQxDViXA01C",
+            "uri": ""
         },
         "02": {
             "artist": "Cheb Akil",
@@ -2591,9 +2870,10 @@
         },
         "04": {
             "artist": "Jul",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Mama",
-            "trackid": "3NyfnA9ypzgipLR3KepwFz"
+            "trackid": "3NyfnA9ypzgipLR3KepwFz",
+            "uri": ""
         },
         "05": {
             "artist": "Cheb Terro",
@@ -2603,21 +2883,24 @@
         },
         "06": {
             "artist": "Jul",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Mama",
-            "trackid": "3NyfnA9ypzgipLR3KepwFz"
+            "trackid": "3NyfnA9ypzgipLR3KepwFz",
+            "uri": ""
         },
         "07": {
             "artist": "Tego Calderón",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Al Natural (feat. Yandel)",
-            "trackid": "49vwUeeauJgEQxDViXA01C"
+            "trackid": "49vwUeeauJgEQxDViXA01C",
+            "uri": ""
         },
         "08": {
             "artist": "Zae France",
-            "ratio": 0,
+            "ratio": -1,
             "title": "PGNL Outro",
-            "trackid": "0XgclPvWuMAk0que5WLXy4"
+            "trackid": "0XgclPvWuMAk0que5WLXy4",
+            "uri": ""
         },
         "09": {
             "artist": "Cheb terro",
@@ -2627,27 +2910,31 @@
         },
         "10": {
             "artist": "Tego Calderón",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Al Natural (feat. Yandel)",
-            "trackid": "49vwUeeauJgEQxDViXA01C"
+            "trackid": "49vwUeeauJgEQxDViXA01C",
+            "uri": ""
         },
         "11": {
             "artist": "Zae France",
-            "ratio": 0,
+            "ratio": -1,
             "title": "PGNL Outro",
-            "trackid": "0XgclPvWuMAk0que5WLXy4"
+            "trackid": "0XgclPvWuMAk0que5WLXy4",
+            "uri": ""
         },
         "12": {
             "artist": "Tego Calderón",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Al Natural (feat. Yandel)",
-            "trackid": "49vwUeeauJgEQxDViXA01C"
+            "trackid": "49vwUeeauJgEQxDViXA01C",
+            "uri": ""
         },
         "13": {
             "artist": "Taymor Namazi",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Darwa",
-            "trackid": "5CsciMOrfcKCsSUOzj1I9i"
+            "trackid": "5CsciMOrfcKCsSUOzj1I9i",
+            "uri": ""
         },
         "14": {
             "artist": "Cheb Terro",
@@ -2657,69 +2944,80 @@
         },
         "15": {
             "artist": "Jul",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Mama",
-            "trackid": "3NyfnA9ypzgipLR3KepwFz"
+            "trackid": "3NyfnA9ypzgipLR3KepwFz",
+            "uri": ""
         },
         "16": {
             "artist": "Tego Calderón",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Al Natural (feat. Yandel)",
-            "trackid": "49vwUeeauJgEQxDViXA01C"
+            "trackid": "49vwUeeauJgEQxDViXA01C",
+            "uri": ""
         },
         "17": {
             "artist": "Brain Power Amadeus",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Comptine D'un Autre Été",
-            "trackid": "6xkYAK0duVMRfWOglN2z3G"
+            "trackid": "6xkYAK0duVMRfWOglN2z3G",
+            "uri": ""
         },
         "18": {
             "artist": "Zae France",
-            "ratio": 0,
+            "ratio": -1,
             "title": "PGNL Outro",
-            "trackid": "0XgclPvWuMAk0que5WLXy4"
+            "trackid": "0XgclPvWuMAk0que5WLXy4",
+            "uri": ""
         },
         "19": {
             "artist": "Stormzy",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Big Michael",
-            "trackid": "4zrQ9UIhPD6lL6VBISJ5aE"
+            "trackid": "4zrQ9UIhPD6lL6VBISJ5aE",
+            "uri": ""
         },
         "20": {
             "artist": "Jul",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Mama",
-            "trackid": "3NyfnA9ypzgipLR3KepwFz"
+            "trackid": "3NyfnA9ypzgipLR3KepwFz",
+            "uri": ""
         },
         "21": {
             "artist": "Zae France",
-            "ratio": 0,
+            "ratio": -1,
             "title": "PGNL Outro",
-            "trackid": "0XgclPvWuMAk0que5WLXy4"
+            "trackid": "0XgclPvWuMAk0que5WLXy4",
+            "uri": ""
         },
         "22": {
             "artist": "Genezio",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Big Meetch",
-            "trackid": "2iCQznumUeoj2SiARrm4Gm"
+            "trackid": "2iCQznumUeoj2SiARrm4Gm",
+            "uri": ""
         },
         "23": {
             "artist": "Jul",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Mama",
-            "trackid": "3NyfnA9ypzgipLR3KepwFz"
+            "trackid": "3NyfnA9ypzgipLR3KepwFz",
+            "uri": ""
         },
         "24": {
             "artist": "Zae France",
-            "ratio": 0,
+            "ratio": -1,
             "title": "PGNL Outro",
-            "trackid": "0XgclPvWuMAk0que5WLXy4"
+            "trackid": "0XgclPvWuMAk0que5WLXy4",
+            "uri": ""
         },
         "25": {
             "artist": "Tego Calderón",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Al Natural (feat. Yandel)",
-            "trackid": "49vwUeeauJgEQxDViXA01C"
+            "trackid": "49vwUeeauJgEQxDViXA01C",
+            "uri": ""
         },
         "26": {
             "artist": "DJ Taye",
@@ -2845,9 +3143,10 @@
         },
         "04": {
             "artist": "Shadmehr Aghili",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Ghalbe Man (Live Version)",
-            "trackid": "0iUwGV5SFXtTQmZow9uNta"
+            "trackid": "0iUwGV5SFXtTQmZow9uNta",
+            "uri": ""
         },
         "05": {
             "artist": "Etapp Kyle",
@@ -2995,9 +3294,10 @@
         },
         "29": {
             "artist": "Shadmehr Aghili",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Ghalbe Man (Live Version)",
-            "trackid": "0iUwGV5SFXtTQmZow9uNta"
+            "trackid": "0iUwGV5SFXtTQmZow9uNta",
+            "uri": ""
         }
     },
     "zuli-10th-april-2018": {
@@ -3208,9 +3508,10 @@
         },
         "34": {
             "artist": "Lensko",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Circles",
-            "trackid": "6vsAUymjvpg45EvtxnnRzp"
+            "trackid": "6vsAUymjvpg45EvtxnnRzp",
+            "uri": ""
         },
         "35": {
             "artist": "FRKTL",
@@ -6162,9 +6463,10 @@
         },
         "27": {
             "artist": "House of Glass",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Disco Down - Unreleased Mix",
-            "trackid": "5TGECmWlpP1S1bEThrKoyx"
+            "trackid": "5TGECmWlpP1S1bEThrKoyx",
+            "uri": ""
         },
         "28": {
             "artist": "Bénédicte",
@@ -6210,9 +6512,10 @@
         },
         "35": {
             "artist": "House of Glass",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Disco Down - Unreleased Mix",
-            "trackid": "5TGECmWlpP1S1bEThrKoyx"
+            "trackid": "5TGECmWlpP1S1bEThrKoyx",
+            "uri": ""
         },
         "36": {
             "artist": "Zeth Beatz",
@@ -6892,9 +7195,10 @@
         },
         "20": {
             "artist": "SYRUP 8",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Mezzo",
-            "trackid": "2z0zuTLKS7bkvl1cxSUxrU"
+            "trackid": "2z0zuTLKS7bkvl1cxSUxrU",
+            "uri": ""
         },
         "21": {
             "artist": "Pessimist",
@@ -6904,9 +7208,10 @@
         },
         "22": {
             "artist": "SYRUP 8",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Mezzo",
-            "trackid": "2z0zuTLKS7bkvl1cxSUxrU"
+            "trackid": "2z0zuTLKS7bkvl1cxSUxrU",
+            "uri": ""
         },
         "23": {
             "artist": "Mick Harvey",
@@ -6916,9 +7221,10 @@
         },
         "24": {
             "artist": "SYRUP 8",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Mezzo",
-            "trackid": "2z0zuTLKS7bkvl1cxSUxrU"
+            "trackid": "2z0zuTLKS7bkvl1cxSUxrU",
+            "uri": ""
         },
         "25": {
             "artist": "Equiknoxx",
@@ -6946,9 +7252,10 @@
         },
         "29": {
             "artist": "SYRUP 8",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Mezzo",
-            "trackid": "2z0zuTLKS7bkvl1cxSUxrU"
+            "trackid": "2z0zuTLKS7bkvl1cxSUxrU",
+            "uri": ""
         },
         "30": {
             "artist": "Dillinja",
@@ -11019,9 +11326,10 @@
         },
         "10": {
             "artist": "Ashra",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Oasis",
-            "trackid": "3KyuU54Ui0dTtCI2Xkfkrh"
+            "trackid": "3KyuU54Ui0dTtCI2Xkfkrh",
+            "uri": ""
         },
         "11": {
             "artist": "Salac",
@@ -11061,9 +11369,10 @@
         },
         "17": {
             "artist": "Ashra",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Oasis",
-            "trackid": "3KyuU54Ui0dTtCI2Xkfkrh"
+            "trackid": "3KyuU54Ui0dTtCI2Xkfkrh",
+            "uri": ""
         },
         "18": {
             "artist": "Gaala",
@@ -11079,9 +11388,10 @@
         },
         "20": {
             "artist": "Lil AD",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Guidance",
-            "trackid": "2fpPAmfE5XKsffxU4Dr7ng"
+            "trackid": "2fpPAmfE5XKsffxU4Dr7ng",
+            "uri": ""
         },
         "21": {
             "artist": "GOTH-TRAD",
@@ -12107,15 +12417,17 @@
         },
         "25": {
             "artist": "Julian Muller",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Addiction",
-            "trackid": "3lSVzdjS320AwU15dKCaVj"
+            "trackid": "3lSVzdjS320AwU15dKCaVj",
+            "uri": ""
         },
         "26": {
             "artist": "Jones Meadow",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Mukiwa",
-            "trackid": "1Cq1IvarVqiQ3bU7TYhdsd"
+            "trackid": "1Cq1IvarVqiQ3bU7TYhdsd",
+            "uri": ""
         },
         "27": {
             "artist": "Kaaris",
@@ -12125,9 +12437,10 @@
         },
         "28": {
             "artist": "Kutmah",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Lifted",
-            "trackid": "1RP3PzeBXezyLrKRDMUA5n"
+            "trackid": "1RP3PzeBXezyLrKRDMUA5n",
+            "uri": ""
         },
         "29": {
             "artist": "Nokta FDK",
@@ -12137,9 +12450,10 @@
         },
         "30": {
             "artist": "Jones Meadow",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Mukiwa",
-            "trackid": "1Cq1IvarVqiQ3bU7TYhdsd"
+            "trackid": "1Cq1IvarVqiQ3bU7TYhdsd",
+            "uri": ""
         },
         "31": {
             "artist": "Kabaka Pyramid",
@@ -12155,9 +12469,10 @@
         },
         "33": {
             "artist": "Jones Meadow",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Mukiwa",
-            "trackid": "1Cq1IvarVqiQ3bU7TYhdsd"
+            "trackid": "1Cq1IvarVqiQ3bU7TYhdsd",
+            "uri": ""
         }
     },
     "zuli-31st-august-2021": {
@@ -16058,15 +16373,17 @@
         },
         "32": {
             "artist": "Nick Klein",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Smelling The Sheets",
-            "trackid": "2J67fmfoA3RukHcowEPlck"
+            "trackid": "2J67fmfoA3RukHcowEPlck",
+            "uri": ""
         },
         "33": {
             "artist": "Noisestorm",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Heist",
-            "trackid": "5cONIcZ21ba5694T4ayY5v"
+            "trackid": "5cONIcZ21ba5694T4ayY5v",
+            "uri": ""
         },
         "34": {
             "artist": "John T. Gast",
