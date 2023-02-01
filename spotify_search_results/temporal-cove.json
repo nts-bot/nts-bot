@@ -2168,6 +2168,467 @@
             ]
         }
     },
+    "temporal-cove-w-smilegoth-30th-january-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "His Name Is Alive",
+                    "title": "The Well",
+                    "uri": "0CQ66EUbTDFxfgq8QQjBij"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "His Name Is Alive",
+                    "title": "The Well",
+                    "uri": "0CQ66EUbTDFxfgq8QQjBij"
+                },
+                {
+                    "artist": "Luis Bacalov",
+                    "title": "Lo Chiamavano King (His Name Is King)",
+                    "uri": "342v3Is0g1CfidoxekA4f8"
+                },
+                {
+                    "artist": "Jeremy Riddle",
+                    "title": "His Name is Jesus",
+                    "uri": "4ICBDDylf1l3sMmJYq8ktz"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Tim Buckley",
+                    "title": "Song To the Siren",
+                    "uri": "4wVziiCDtgX39cglWWQDqm"
+                },
+                {
+                    "artist": "Tim Buckley",
+                    "title": "Song to the Siren",
+                    "uri": "5s5N8kSizrNMAhcCvFnYjg"
+                },
+                {
+                    "artist": "Tim Buckley",
+                    "title": "Song to the Siren - Take 7",
+                    "uri": "5ckwOX7SVzt9OISbGkD299"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tim Buckley",
+                    "title": "Song To the Siren",
+                    "uri": "4wVziiCDtgX39cglWWQDqm"
+                },
+                {
+                    "artist": "Tim Buckley",
+                    "title": "Song to the Siren - Take 7",
+                    "uri": "5ckwOX7SVzt9OISbGkD299"
+                },
+                {
+                    "artist": "Tim Buckley",
+                    "title": "Once I Was",
+                    "uri": "6iI6NXjtI3IkjK2k1juqaX"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "This Mortal Coil",
+                    "title": "Meniscus - Remastered",
+                    "uri": "7C37iWdInd6eAW3wGafYFr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "This Mortal Coil",
+                    "title": "Meniscus - Remastered",
+                    "uri": "7C37iWdInd6eAW3wGafYFr"
+                },
+                {
+                    "artist": "This Mortal Coil",
+                    "title": "Kangaroo - Remastered",
+                    "uri": "2HsOICaAi5bwnqyG7uO1Fo"
+                },
+                {
+                    "artist": "This Mortal Coil",
+                    "title": "Song To The Siren - Remastered",
+                    "uri": "26uVYNtKahTAcZMDWiuBnt"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Pogues",
+                    "title": "Dirty Old Town",
+                    "uri": "0qH487xSz8Z6Xk4kyOQkbG"
+                },
+                {
+                    "artist": "The Pogues",
+                    "title": "Fairytale of New York (feat. Kirsty MacColl)",
+                    "uri": "3VTNVsTTu05dmTsVFrmGpK"
+                },
+                {
+                    "artist": "The Pogues",
+                    "title": "Sally MacLennane",
+                    "uri": "2779hybiMKwid1gcrFVMzH"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Slowdive",
+                    "title": "Avalyn II",
+                    "uri": "2Ue894AYFKuHXCXbosikTS"
+                },
+                {
+                    "artist": "Slowdive",
+                    "title": "Avalyn I",
+                    "uri": "7eA6LDdLF7Tnw8cBDxSu0Y"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Slowdive",
+                    "title": "Avalyn I",
+                    "uri": "7eA6LDdLF7Tnw8cBDxSu0Y"
+                },
+                {
+                    "artist": "Slowdive",
+                    "title": "Avalyn II",
+                    "uri": "2Ue894AYFKuHXCXbosikTS"
+                },
+                {
+                    "artist": "Duñe",
+                    "title": "Slowdiving",
+                    "uri": "4oqyzxXvzHTptWo5l2tlpz"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sight of You",
+                    "uri": "7fectUUMiPjZijOJIJaN3S"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sight of You",
+                    "uri": "0abxrYJ6tBDBU4NTBUMD90"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sight of You - Remastered",
+                    "uri": "1eGdcY4RXaBVVQmAW16gRa"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sight of You",
+                    "uri": "7fectUUMiPjZijOJIJaN3S"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Kinky Love",
+                    "uri": "5hUCTgttGB1eS4GJdPEQEM"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Little Hammer",
+                    "uri": "10ATPakKvaHjGiKQ5eLSSu"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Cryogeyser",
+                    "title": "Bed",
+                    "uri": "3AXgYWYjS5cIYIpvSh6WG8"
+                },
+                {
+                    "artist": "Cryogeyser",
+                    "title": "Bed",
+                    "uri": "39AEny9ZOTSks7zBi9C0Fk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cryogeyser",
+                    "title": "Bed",
+                    "uri": "3AXgYWYjS5cIYIpvSh6WG8"
+                },
+                {
+                    "artist": "Boy George",
+                    "title": "The Crying Game",
+                    "uri": "3txSqHwGING6J7waJXN8RJ"
+                },
+                {
+                    "artist": "Cryogenic",
+                    "title": "Basskick Paradise [Mixed]",
+                    "uri": "66aqorn8xZBjZqh9IUBetw"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Pieter Nooten And Michael Brook",
+                    "title": "Equal Ways",
+                    "uri": "7yy5R9Mjp2Y2f0fzRBz8ky"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pieter Nooten And Michael Brook",
+                    "title": "Searching",
+                    "uri": "6JRQGWU3eaJdCknOmpCQi2"
+                },
+                {
+                    "artist": "Pieter Nooten And Michael Brook",
+                    "title": "Several Times I",
+                    "uri": "26SqnzT4MUIgXu31eFsdLk"
+                },
+                {
+                    "artist": "Pieter Nooten And Michael Brook",
+                    "title": "Several Times II",
+                    "uri": "4IitjSBfTpUEMU9GTNfpz0"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Sonic Youth",
+                    "title": "Providence (Album Version)",
+                    "uri": "6jCw83CFQpKlE8ZNcmSaAi"
+                },
+                {
+                    "artist": "Sonic Youth",
+                    "title": "Providence",
+                    "uri": "7LKLzIT4ACvlfypyVDbrb8"
+                },
+                {
+                    "artist": "Sonic Youth",
+                    "title": "Providence (Live)",
+                    "uri": "6jBfJhxZemCc7rjoavh8dr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sonic Youth",
+                    "title": "Providence",
+                    "uri": "7LKLzIT4ACvlfypyVDbrb8"
+                },
+                {
+                    "artist": "Sonic Youth",
+                    "title": "Providence (Album Version)",
+                    "uri": "6jCw83CFQpKlE8ZNcmSaAi"
+                },
+                {
+                    "artist": "Sonic Youth",
+                    "title": "Mildred Pierce",
+                    "uri": "7yHKJKvbi5xfHj0QTWUdDT"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Kicking Giant",
+                    "title": "Come in Colors",
+                    "uri": "13xMS0TY8iRUlp3FkJtOUP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kicking Giant",
+                    "title": "Make You Come",
+                    "uri": "7yPh4R5OoQz6AAd7VNiYI7"
+                },
+                {
+                    "artist": "Kicking Giant",
+                    "title": "Dubious",
+                    "uri": "04vXn9SdU0sTQ7j7diOYfl"
+                },
+                {
+                    "artist": "Kicking Giant",
+                    "title": "Dreamland Burns",
+                    "uri": "59sL6U0HnCMvpon1Y89xG3"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Spoonfed Hybrid",
+                    "title": "Boys in Zinc",
+                    "uri": "5zuCBpV1lxCTAv5tucQ6wj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Spoonfed Hybrid",
+                    "title": "Boys in Zinc",
+                    "uri": "5zuCBpV1lxCTAv5tucQ6wj"
+                },
+                {
+                    "artist": "Spoonfed Hybrid",
+                    "title": "Heaven's Knot",
+                    "uri": "7HZuvMCW08mzq9059FJqVL"
+                },
+                {
+                    "artist": "the origame",
+                    "title": "Spoon fed",
+                    "uri": "6T8akIF5ID2SaLx1P4TMFK"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": ""
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Katie Lass",
+                    "title": "Seaweedhead",
+                    "uri": "5Mex4D2rF0qFRMRfboF86b"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Katie Lass",
+                    "title": "Seaweedhead",
+                    "uri": "5Mex4D2rF0qFRMRfboF86b"
+                },
+                {
+                    "artist": "Hockey Dad",
+                    "title": "Seaweed",
+                    "uri": "4vU4WsqWJlxCfRiKaumIyj"
+                },
+                {
+                    "artist": "Seaweed",
+                    "title": "Losing Skin",
+                    "uri": "36CTxkvfEPmhZ95y2le5F2"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Magic Roundabout",
+                    "title": "She's a Waterfall",
+                    "uri": "7p0KNXsnokNi6IJrBaveLs"
+                },
+                {
+                    "artist": "Magic Roundabout",
+                    "title": "She's a Waterfall",
+                    "uri": "1gb2QnYSEBsRrCW088dBMJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Magic Roundabout",
+                    "title": "She's a Waterfall",
+                    "uri": "7p0KNXsnokNi6IJrBaveLs"
+                },
+                {
+                    "artist": "Magic Roundabout",
+                    "title": "She's a Waterfall",
+                    "uri": "1gb2QnYSEBsRrCW088dBMJ"
+                },
+                {
+                    "artist": "The Mother Goose Singers",
+                    "title": "Magic Roundabout",
+                    "uri": "4wxj06XLCizkDRg9DWrepS"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Shop Assistants",
+                    "title": "Before I Wake",
+                    "uri": "4OhmQP8g2nUIplJFgV0WyG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Shop Assistants",
+                    "title": "Before I Wake",
+                    "uri": "4OhmQP8g2nUIplJFgV0WyG"
+                },
+                {
+                    "artist": "Shop Assistants",
+                    "title": "All Day Long",
+                    "uri": "7vjouDnj2c4tVNycPjNwPc"
+                },
+                {
+                    "artist": "Shop Assistants",
+                    "title": "Looking Back",
+                    "uri": "5EUSmO5xpZ9QNAi4UbnzFo"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Harold Budd",
+                    "title": "Babylon Balboa",
+                    "uri": "3yEeocsq5ICxKgUmAHoqJF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Harold Budd",
+                    "title": "Against The Sky - 2005 Digital Remaster",
+                    "uri": "50mwGp3PgKoZldhBvfy2cf"
+                },
+                {
+                    "artist": "Cocteau Twins",
+                    "title": "Sea, Swallow Me",
+                    "uri": "7vPHiwgCOAjSBRjAirbMvS"
+                },
+                {
+                    "artist": "Harold Budd",
+                    "title": "Steal Away - Remastered 2004",
+                    "uri": "5tAb6fBqO5zgUKlhqMyxfr"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Drop Nineteens",
+                    "title": "Kick The Tragedy",
+                    "uri": "40ABtf917Ghhi2tkQDNOdn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Drop Nineteens",
+                    "title": "Kick The Tragedy",
+                    "uri": "40ABtf917Ghhi2tkQDNOdn"
+                },
+                {
+                    "artist": "Drop Nineteens",
+                    "title": "Delaware",
+                    "uri": "5QTBASG4dPerSQ7h0FQaYu"
+                },
+                {
+                    "artist": "Drop Nineteens",
+                    "title": "Winona",
+                    "uri": "466AJPxaIUvU13wQ40g2YQ"
+                }
+            ]
+        }
+    },
     "temporal-cove-w-smilegoth-5th-december-2022": {
         "00": {
             "s0": [

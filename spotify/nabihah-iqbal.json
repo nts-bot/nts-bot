@@ -5028,9 +5028,10 @@
         },
         "10": {
             "artist": "Kaddilak Jones",
-            "ratio": 3,
+            "ratio": -1,
             "title": "MOVING SOUTHERNSTYLES",
-            "trackid": "1slbifYJzu5dIrWyhUE4oS"
+            "trackid": "1slbifYJzu5dIrWyhUE4oS",
+            "uri": ""
         },
         "11": {
             "artist": "Dj Mado",
@@ -5073,6 +5074,93 @@
             "ratio": 9,
             "title": "I Need Some Money",
             "trackid": "0ZAyAqsgCIBMjKhZrcw1D8"
+        }
+    },
+    "nabihah-iqbal-31st-january-2023": {
+        "00": {
+            "artist": "Hugh Masekela",
+            "ratio": 9,
+            "title": "Don't Go Lose It Baby",
+            "trackid": "1kKvcinRJW5ci22gnTYNq6"
+        },
+        "01": {
+            "artist": "Alaska",
+            "ratio": 9,
+            "title": "Accuse",
+            "trackid": "4GAidgDaWeQpgv98gnc14q"
+        },
+        "02": {
+            "artist": "Moonchild Sanelly",
+            "ratio": 9,
+            "title": "Rabubi",
+            "trackid": "1rWe7iZw0ZjkFUfWSYKHvA"
+        },
+        "03": {
+            "artist": "Amy Ayanda",
+            "ratio": 9,
+            "title": "Rose",
+            "trackid": "61tCg0FxNBP5A76Cy2KNZM"
+        },
+        "04": {
+            "artist": "Bongeziwe Mabandla",
+            "ratio": 9,
+            "title": "Philakanzima",
+            "trackid": "64H020zKurqk9MlbPcxR1Z"
+        },
+        "05": {
+            "artist": "Udumakahle",
+            "ratio": 5,
+            "title": "Isdingo Sempilo",
+            "trackid": "6dMXpR7mCKBslvfArZqNot"
+        },
+        "06": {
+            "artist": "Miriam Makeba",
+            "ratio": 9,
+            "title": "Pata Pata - Stereo Version",
+            "trackid": "1BLXxFPDL2BT37nHKD7KrA"
+        },
+        "07": {
+            "artist": "relaiXX",
+            "ratio": 4,
+            "title": "Farah",
+            "trackid": "5nkJOhHAWarXUQS5YYoFZu"
+        },
+        "08": {
+            "artist": "Hugh Masekela",
+            "ratio": 9,
+            "title": "Excuse Me Please",
+            "trackid": "6zaPpOv5oE7keSPk6UgPvm"
+        },
+        "09": {
+            "artist": "Madirox Bryan",
+            "ratio": -1,
+            "title": "Show Us The Way",
+            "trackid": "4AX4JrDwaH3WTghNPnAgV8",
+            "uri": ""
+        },
+        "10": {
+            "artist": "Mahlathini",
+            "ratio": 9,
+            "title": "Kumnandi Emgababa",
+            "trackid": "4VBZ2sqMFg1RKsdLGGgmX3"
+        },
+        "11": {
+            "artist": "I-skoom",
+            "ratio": 4,
+            "title": "Blue Plaques",
+            "trackid": "6RPHOQntPUmo3E3VU1JDpd"
+        },
+        "12": {
+            "artist": "Mawimbi",
+            "ratio": 9,
+            "title": "Malume",
+            "trackid": "1mwL07BZpNGOeEpn5h8qCG"
+        },
+        "13": {
+            "artist": "Brenda Fassie",
+            "ratio": 3,
+            "title": "Vuli Ndlela",
+            "trackid": "68RV0HNYnbkrztSe9sBZ1W"
         }
     },
     "nabihah-iqbal-31st-july-2018": {
