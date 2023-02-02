@@ -211,9 +211,10 @@
         },
         "02": {
             "artist": "Lewi Bo",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Hella Bootsie",
-            "trackid": "3dKz7t9Wuppz14M8kfdrtM"
+            "trackid": "3dKz7t9Wuppz14M8kfdrtM",
+            "uri": ""
         },
         "03": {
             "artist": "缺省",
@@ -310,9 +311,10 @@
         },
         "18": {
             "artist": "Lewi Bo",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Hella Bootsie",
-            "trackid": "3dKz7t9Wuppz14M8kfdrtM"
+            "trackid": "3dKz7t9Wuppz14M8kfdrtM",
+            "uri": ""
         },
         "19": {
             "artist": "El David",
@@ -360,9 +362,10 @@
         },
         "05": {
             "artist": "Candor Feltzin",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Unreleased",
-            "trackid": "15NO94HgYbykxl8z3ci4m2"
+            "trackid": "15NO94HgYbykxl8z3ci4m2",
+            "uri": ""
         },
         "06": {
             "artist": "Holldën",
@@ -606,9 +609,10 @@
     "gigi-fm-14th-september-2022": {
         "00": {
             "artist": "GiGi FM",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Manas (PST)",
-            "trackid": "3nqRYHfpPU4QYnbMoNDzXG"
+            "trackid": "3nqRYHfpPU4QYnbMoNDzXG",
+            "uri": ""
         },
         "01": {
             "artist": "Sunchaser",
@@ -624,9 +628,10 @@
         },
         "03": {
             "artist": "JustLuna",
-            "ratio": 4,
+            "ratio": -1,
             "title": "The Drift - Instrumental Version",
-            "trackid": "4qJwXSyh5vFaieMCNkAQu8"
+            "trackid": "4qJwXSyh5vFaieMCNkAQu8",
+            "uri": ""
         },
         "04": {
             "artist": "Joe Dukie",
@@ -648,9 +653,10 @@
         },
         "07": {
             "artist": "Vector Seven",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Redshift",
-            "trackid": "1P6hVtm4T62n8gGjNJlmqb"
+            "trackid": "1P6hVtm4T62n8gGjNJlmqb",
+            "uri": ""
         },
         "08": {
             "artist": "Charlie Cunningham",
@@ -660,9 +666,10 @@
         },
         "09": {
             "artist": "GiGi FM",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Manas (PST)",
-            "trackid": "3nqRYHfpPU4QYnbMoNDzXG"
+            "trackid": "3nqRYHfpPU4QYnbMoNDzXG",
+            "uri": ""
         },
         "10": {
             "artist": "CYRK",
@@ -735,9 +742,10 @@
         },
         "07": {
             "artist": "D'Mixmasters",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Solo - 130 BPM",
-            "trackid": "2pCTQMXzapXNZXY9y2bF6K"
+            "trackid": "2pCTQMXzapXNZXY9y2bF6K",
+            "uri": ""
         },
         "08": {
             "artist": "GiGi FM",
@@ -803,9 +811,10 @@
         },
         "09": {
             "artist": "Donato Dozzy",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Parola - Rework",
-            "trackid": "0GQZojX9G6n6YADImDzYW4"
+            "trackid": "0GQZojX9G6n6YADImDzYW4",
+            "uri": ""
         },
         "10": {
             "artist": "Sekihan",
@@ -1015,9 +1024,10 @@
         },
         "17": {
             "artist": "CNCO",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Dejaría Todo",
-            "trackid": "1ZN2Dat0KrO0xqr9t8QP9r"
+            "trackid": "1ZN2Dat0KrO0xqr9t8QP9r",
+            "uri": ""
         },
         "18": {
             "artist": "Sterioa",
@@ -1231,9 +1241,10 @@
     "gigi-fm-1st-april-2020": {
         "00": {
             "artist": "Kejoo Beats",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Adam",
-            "trackid": "37EqWGHu9zcGuFsn782w6M"
+            "trackid": "37EqWGHu9zcGuFsn782w6M",
+            "uri": ""
         },
         "01": {
             "artist": "Deepbass",
@@ -1333,9 +1344,10 @@
         },
         "17": {
             "artist": "Reflexon",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Netflix",
-            "trackid": "4S7q41yPmF9tLUFK5ctj3L"
+            "trackid": "4S7q41yPmF9tLUFK5ctj3L",
+            "uri": ""
         },
         "18": {
             "artist": "GiGi FM",
@@ -1372,6 +1384,129 @@
             "ratio": 3,
             "title": "Frozen - Fireboy DML Remix",
             "trackid": "6LDZVinkfCfaBtqOMF1lSA"
+        }
+    },
+    "gigi-fm-1st-february-2023": {
+        "00": {
+            "artist": "Purl",
+            "ratio": 9,
+            "title": "livet vänder inte åter",
+            "trackid": "3tDO7zUfpwGsxF8MnfWxTw"
+        },
+        "01": {
+            "artist": "Northstate",
+            "ratio": 3,
+            "title": "Pontiac",
+            "trackid": "1vQGMELwKwdxpteQnhGviL"
+        },
+        "02": {
+            "artist": "Heli Bills",
+            "ratio": -1,
+            "title": "Al Soco",
+            "trackid": "0UzWq2W4y0tx7f8jke2ZVs",
+            "uri": ""
+        },
+        "03": {
+            "artist": "Ben Bondy",
+            "ratio": 9,
+            "title": "Trauma Bonding",
+            "trackid": "0AmCCkhy1A0XwbCysbT81i"
+        },
+        "04": {
+            "artist": "George Frideric Handel",
+            "ratio": 3,
+            "title": "Tacete ohime (Duo): Non sia voce...",
+            "trackid": "3k8AQUAH0bgKQOkcEwrSGj"
+        },
+        "05": {
+            "artist": "Qendresa",
+            "ratio": 9,
+            "title": "The Source",
+            "trackid": "7dBFD4w5Wfd4pHkV52ELsK"
+        },
+        "06": {
+            "artist": "Freddie King",
+            "ratio": 3,
+            "title": "Big Legged Woman",
+            "trackid": "37RtOpFMu0i0wzjtK7c1bn"
+        },
+        "07": {
+            "artist": "Hong Kong Express",
+            "ratio": 9,
+            "title": "Dreaming",
+            "trackid": "6xSozfS2CzgzqOTPizIsS9"
+        },
+        "08": {
+            "artist": "Front De Cadeaux",
+            "ratio": 9,
+            "title": "Legal Illegal",
+            "trackid": "5WEj8lZR988rJQ5XtTC2wg"
+        },
+        "09": {
+            "artist": "Identified Patient",
+            "ratio": 9,
+            "title": "Second-Hand Nostalgia",
+            "trackid": "1v9vvmlDC07k0QHHITv66M"
+        },
+        "10": {
+            "artist": "Freedom Satellite",
+            "ratio": 9,
+            "title": "Trash - Original Mix",
+            "trackid": "41mph31WX0pvdduWsjzLyO"
+        },
+        "11": {
+            "artist": "Otik",
+            "ratio": 9,
+            "title": "Summer Ghost",
+            "trackid": "5JgMjiJyXPFYL8EWWSGYxq"
+        },
+        "12": {
+            "artist": "Misanthrop",
+            "ratio": 5,
+            "title": "Deus",
+            "trackid": "6PbnIAQiytjSG0RwQhN8Iw"
+        },
+        "13": {
+            "artist": "Miss Kam",
+            "ratio": 9,
+            "title": "Let It Simmer",
+            "trackid": "1OsG4OZjeA6hDOz5R1LhFA"
+        },
+        "14": {
+            "artist": "TSVI",
+            "ratio": 9,
+            "title": "Sospiro Sospirando",
+            "trackid": "0d2jAUGRkKSXttNqhsssLN"
+        },
+        "15": {
+            "artist": "Hyperactive Leslie",
+            "ratio": 9,
+            "title": "Syncussion",
+            "trackid": "1VmawvBazd2ZfDGMix29eu"
+        },
+        "16": {
+            "artist": "Overland",
+            "ratio": 9,
+            "title": "Paloma",
+            "trackid": "1FvaS71daKPSLQYnueS4A0"
+        },
+        "17": {
+            "artist": "Sha Ru",
+            "ratio": 0,
+            "title": "Face",
+            "trackid": "4QIeJc5psuI9Yjme2vgDlI"
+        },
+        "18": {
+            "artist": "Pedro Infante",
+            "ratio": 3,
+            "title": "Café con piquete",
+            "trackid": "4yd9NBvaecb1UhaSeW4evg"
+        },
+        "19": {
+            "artist": "Arcade Player",
+            "ratio": 4,
+            "title": "Mario Raceway",
+            "trackid": "5VGyaBnrhIoRBT3ZHFAHaj"
         }
     },
     "gigi-fm-20th-july-2022": {
@@ -1479,9 +1614,10 @@
         },
         "17": {
             "artist": "Workout Music Tv",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Without Me - Workout Remix 132 Bpm",
-            "trackid": "1ghJ1kdSvlFfXVxLa782pd"
+            "trackid": "1ghJ1kdSvlFfXVxLa782pd",
+            "uri": ""
         },
         "18": {
             "artist": "5ZYL",
@@ -1663,9 +1799,10 @@
         },
         "11": {
             "artist": "Grady",
-            "ratio": 5,
+            "ratio": -1,
             "title": "RPL",
-            "trackid": "6mmiRv4V3HqEe47RGoNMs9"
+            "trackid": "6mmiRv4V3HqEe47RGoNMs9",
+            "uri": ""
         },
         "12": {
             "artist": "Killstation",
@@ -2321,9 +2458,10 @@
         },
         "02": {
             "artist": "Andrea D'Amato",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Notte Infinita - Original mix",
-            "trackid": "3M3IHuXUFogIM3SjcIbfsc"
+            "trackid": "3M3IHuXUFogIM3SjcIbfsc",
+            "uri": ""
         },
         "03": {
             "artist": "8Ball",
@@ -2544,15 +2682,17 @@
         },
         "01": {
             "artist": "Donato Dozzy",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Parola - Rework",
-            "trackid": "0GQZojX9G6n6YADImDzYW4"
+            "trackid": "0GQZojX9G6n6YADImDzYW4",
+            "uri": ""
         },
         "02": {
             "artist": "Tamino",
-            "ratio": 4,
+            "ratio": -1,
             "title": "The First Disciple",
-            "trackid": "2rkWdRk71jf5WtWXcs8qzw"
+            "trackid": "2rkWdRk71jf5WtWXcs8qzw",
+            "uri": ""
         },
         "03": {
             "artist": "Unknown Artist",
@@ -2699,9 +2839,10 @@
         },
         "03": {
             "artist": "MALTY 2BZ",
-            "ratio": 3,
+            "ratio": -1,
             "title": "10eme taff - Freestyle",
-            "trackid": "5B3D9wKAAJRNIvTsCXTgIK"
+            "trackid": "5B3D9wKAAJRNIvTsCXTgIK",
+            "uri": ""
         },
         "04": {
             "artist": "Deano (ZA)",
@@ -2977,9 +3118,10 @@
         },
         "10": {
             "artist": "Josh Cohen",
-            "ratio": 5,
+            "ratio": -1,
             "title": "All I Need",
-            "trackid": "3AIZEq1kKf295F9mEgzX5T"
+            "trackid": "3AIZEq1kKf295F9mEgzX5T",
+            "uri": ""
         },
         "11": {
             "artist": "Clint Mansell",

@@ -1832,9 +1832,10 @@
         },
         "04": {
             "artist": "Goulardo",
-            "ratio": 7,
+            "ratio": -1,
             "title": "Intriguan",
-            "trackid": "1P9YhVwNQaCosREiGB7dnF"
+            "trackid": "1P9YhVwNQaCosREiGB7dnF",
+            "uri": ""
         },
         "05": {
             "artist": "momo kimura",
@@ -2289,9 +2290,10 @@
         },
         "20": {
             "artist": "Mula (FR)",
-            "ratio": 4,
+            "ratio": -1,
             "title": "El Molino feat. Laura Romero - Original",
-            "trackid": "21FcbiXLqPC8GtlhgpyXFz"
+            "trackid": "21FcbiXLqPC8GtlhgpyXFz",
+            "uri": ""
         },
         "21": {
             "artist": "Mk.gee",
@@ -2331,9 +2333,10 @@
         },
         "27": {
             "artist": "Mula (FR)",
-            "ratio": 4,
+            "ratio": -1,
             "title": "El Molino feat. Laura Romero - Original",
-            "trackid": "21FcbiXLqPC8GtlhgpyXFz"
+            "trackid": "21FcbiXLqPC8GtlhgpyXFz",
+            "uri": ""
         },
         "28": {
             "artist": "Andrew Prahlow",
@@ -4864,9 +4867,10 @@
         },
         "29": {
             "artist": "AceMo",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Through The Pressure",
-            "trackid": "46nxNiDM5C9Z0ppVTkn1Tc"
+            "trackid": "46nxNiDM5C9Z0ppVTkn1Tc",
+            "uri": ""
         },
         "30": {
             "artist": "Fresh Dibiase",
@@ -5390,9 +5394,10 @@
         },
         "07": {
             "artist": "AceMo",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Through The Pressure",
-            "trackid": "46nxNiDM5C9Z0ppVTkn1Tc"
+            "trackid": "46nxNiDM5C9Z0ppVTkn1Tc",
+            "uri": ""
         },
         "08": {
             "artist": "Lance Skiiiwalker",
@@ -5456,9 +5461,10 @@
         },
         "18": {
             "artist": "Dibson",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Missin u",
-            "trackid": "4N0UP9rYnIQNxYOpTk6Xfm"
+            "trackid": "4N0UP9rYnIQNxYOpTk6Xfm",
+            "uri": ""
         },
         "19": {
             "artist": "Freedom Satellite",
@@ -5489,6 +5495,194 @@
             "ratio": 9,
             "title": "Can't Hold Us Down (feat. Lil' Kim)",
             "trackid": "0cv1Mnb47oMvjVKMc2cyZw"
+        }
+    },
+    "buried-light-w-ashtrejinkins-4th-january-2023": {
+        "00": {
+            "artist": "Declaime",
+            "ratio": 9,
+            "title": "Enuff",
+            "trackid": "2eto4nnntNtPsI45cJkpbl"
+        },
+        "01": {
+            "artist": "The Koreatown Oddity",
+            "ratio": 9,
+            "title": "Koreatown Oddity",
+            "trackid": "3jPlT5sQ1pvuzrWyRXhKQd"
+        },
+        "02": {
+            "artist": "Lord Tusk",
+            "ratio": 9,
+            "title": "Oppressors",
+            "trackid": "67vl4AAtX0SopOg4jaafvB"
+        },
+        "03": {
+            "artist": "Actress",
+            "ratio": 9,
+            "title": "RUNNER",
+            "trackid": "25upzA1v7IFbmRbaLmGlL8"
+        },
+        "04": {
+            "artist": "New World Soundz",
+            "ratio": 3,
+            "title": "Walking Home",
+            "trackid": "0nNL7b3bB45wiSb9yPJ4BP"
+        },
+        "05": {
+            "artist": "Onra",
+            "ratio": 0,
+            "title": "Introduction",
+            "trackid": "1TaAlOdmfAx161yOwSCybz"
+        },
+        "06": {
+            "artist": "Pablito Traducteur",
+            "ratio": 3,
+            "title": "Wanda",
+            "trackid": "42jFGyEXSF8fQwxxmOrXvF"
+        },
+        "07": {
+            "artist": "Fumitake Tamura",
+            "ratio": 9,
+            "title": "裏 14",
+            "trackid": "7H7MsdEcL0N9zHcY2ZTyWU"
+        },
+        "08": {
+            "artist": "Dean Valentine",
+            "ratio": 0,
+            "title": "Vladimir's Theme",
+            "trackid": "1joJNa3bbsWPp9aspaWuSL"
+        },
+        "09": {
+            "artist": "Dutchican Soul",
+            "ratio": 4,
+            "title": "Be Funky",
+            "trackid": "347yYEUgjRg4Db6ZFh0G2v"
+        },
+        "10": {
+            "artist": "The Roots",
+            "ratio": 4,
+            "title": "The Seed (2.0)",
+            "trackid": "6HxweNytuEQdmGeVtZPZz3"
+        },
+        "11": {
+            "artist": "DNDMC",
+            "ratio": 5,
+            "title": "Broken Cycle",
+            "trackid": "5zVnbpMHQ6l3oXwcR2wu4R"
+        },
+        "12": {
+            "artist": "ARCAS",
+            "ratio": 9,
+            "title": "GAIKAN",
+            "trackid": "4uzybJSex8lTiZu67bGXTd"
+        },
+        "13": {
+            "artist": "Nujabes",
+            "ratio": 4,
+            "title": "reflection eternal",
+            "trackid": "6eGMwVVABqVTe9bWRIm498"
+        },
+        "14": {
+            "artist": "Ras G",
+            "ratio": 9,
+            "title": "Primordial Water Formations 1",
+            "trackid": "3CvrE5QP0FTeqkEREL4N3G"
+        },
+        "15": {
+            "artist": "Phoenecia",
+            "ratio": 9,
+            "title": "Diganesa",
+            "trackid": "5Vy8SOScUYALhB0yRci8Ga"
+        },
+        "16": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "17": {
+            "artist": "Beau Wanzer",
+            "ratio": 9,
+            "title": "Storm Food",
+            "trackid": "0TzDHDlHPOUHce6fm66zR5"
+        },
+        "18": {
+            "artist": "Fontaines D.C.",
+            "ratio": 4,
+            "title": "The Cuckoo Is A-Callin'",
+            "trackid": "6oKRucpYKHiaHu5cj6yeRv"
+        },
+        "19": {
+            "artist": "Alphabets",
+            "ratio": 9,
+            "title": "Detach",
+            "trackid": "1eufKh9DvyIRGiWaNZ9L4I"
+        },
+        "20": {
+            "artist": "Matthew Davis",
+            "ratio": 5,
+            "title": "Hey Dad",
+            "trackid": "7yjoyG4A1bRpe30IUAec4l"
+        },
+        "21": {
+            "artist": "18 Carat Affair",
+            "ratio": 9,
+            "title": "Cybernetic",
+            "trackid": "0N8Jk2cDO3D1FxcwkM7HG8"
+        },
+        "22": {
+            "artist": "Shape Of Broad Minds",
+            "ratio": 9,
+            "title": "Electric Blue",
+            "trackid": "4I311mxhnn47uQv1tVzY9v"
+        },
+        "23": {
+            "artist": "wishlist",
+            "ratio": 9,
+            "title": "3XP1R3D",
+            "trackid": "4695jMXE8SswnBnycNnP7t"
+        },
+        "24": {
+            "artist": "Ash Grunwald",
+            "ratio": 4,
+            "title": "Thinking 'Bout Myself",
+            "trackid": "3cOKBor2QHIg1V9n7Mue5Q"
+        },
+        "25": {
+            "artist": "Declaime",
+            "ratio": 9,
+            "title": "Sensei Sound",
+            "trackid": "4r0iBpRe6PvRhhGIR3B52p"
+        },
+        "26": {
+            "artist": "Kendrick Lamar",
+            "ratio": 3,
+            "title": "These Walls",
+            "trackid": "7uWVT3UkCAZyANvv0bdyQn"
+        },
+        "27": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "28": {
+            "artist": "Soviet Suprem",
+            "ratio": 4,
+            "title": "Vladimir",
+            "trackid": "4St9WiBUcTKEEMfUejZuKn"
+        },
+        "29": {
+            "artist": "Georgia Anne Muldrow",
+            "ratio": 9,
+            "title": "Because",
+            "trackid": "3S2DB0fOZUNkzP2aVQaaJd"
+        },
+        "30": {
+            "artist": "RDNK",
+            "ratio": 3,
+            "title": "1",
+            "trackid": "5mCpwXLK38Gy0HJhON0XnI"
         }
     },
     "buried-light-w-ashtrejinkins-6th-february-2018": {
@@ -5700,9 +5894,10 @@
         },
         "03": {
             "artist": "Linafornia",
-            "ratio": 0,
+            "ratio": -1,
             "title": "GotchuallinCHECK!!!!",
-            "trackid": "1XRApJYNa67suZpKVRw8I4"
+            "trackid": "1XRApJYNa67suZpKVRw8I4",
+            "uri": ""
         },
         "04": {
             "artist": "Mndsgn",
@@ -5718,21 +5913,24 @@
         },
         "06": {
             "artist": "AceMo",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Through The Pressure",
-            "trackid": "46nxNiDM5C9Z0ppVTkn1Tc"
+            "trackid": "46nxNiDM5C9Z0ppVTkn1Tc",
+            "uri": ""
         },
         "07": {
             "artist": "AceMo",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Through The Pressure",
-            "trackid": "46nxNiDM5C9Z0ppVTkn1Tc"
+            "trackid": "46nxNiDM5C9Z0ppVTkn1Tc",
+            "uri": ""
         },
         "08": {
             "artist": "AceMo",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Through The Pressure",
-            "trackid": "46nxNiDM5C9Z0ppVTkn1Tc"
+            "trackid": "46nxNiDM5C9Z0ppVTkn1Tc",
+            "uri": ""
         },
         "09": {
             "artist": "Lazerpunk",
@@ -5748,9 +5946,10 @@
         },
         "11": {
             "artist": "Mula (FR)",
-            "ratio": 4,
+            "ratio": -1,
             "title": "El Molino feat. Laura Romero - Original",
-            "trackid": "21FcbiXLqPC8GtlhgpyXFz"
+            "trackid": "21FcbiXLqPC8GtlhgpyXFz",
+            "uri": ""
         },
         "12": {
             "artist": "Knxwledge",
@@ -5814,21 +6013,24 @@
         },
         "22": {
             "artist": "Teendropbeatz",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Elude - Instrumental Version",
-            "trackid": "7bFHvqePDPqN3tdmtHqQpm"
+            "trackid": "7bFHvqePDPqN3tdmtHqQpm",
+            "uri": ""
         },
         "23": {
             "artist": "Fumitake Tamura",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Nabiku",
-            "trackid": "61Ea1l1N6hH9X8qGtLS770"
+            "trackid": "61Ea1l1N6hH9X8qGtLS770",
+            "uri": ""
         },
         "24": {
             "artist": "Dibson",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Missin u",
-            "trackid": "4N0UP9rYnIQNxYOpTk6Xfm"
+            "trackid": "4N0UP9rYnIQNxYOpTk6Xfm",
+            "uri": ""
         },
         "25": {
             "artist": "",
@@ -5844,9 +6046,10 @@
         },
         "27": {
             "artist": "Congress",
-            "ratio": 4,
+            "ratio": -1,
             "title": "In bad blood",
-            "trackid": "7evJ02lVWADh02wrsloZzZ"
+            "trackid": "7evJ02lVWADh02wrsloZzZ",
+            "uri": ""
         },
         "28": {
             "artist": "Blackrap",
@@ -5856,9 +6059,10 @@
         },
         "29": {
             "artist": "Bluelow",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Low Iron",
-            "trackid": "3oPncibT7SVQs4VyYUAX0e"
+            "trackid": "3oPncibT7SVQs4VyYUAX0e",
+            "uri": ""
         }
     },
     "buried-light-w-ashtrejinkins-acemo-12th-december-2017": {
@@ -6395,9 +6599,10 @@
         },
         "02": {
             "artist": "Dibson",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Missin u",
-            "trackid": "4N0UP9rYnIQNxYOpTk6Xfm"
+            "trackid": "4N0UP9rYnIQNxYOpTk6Xfm",
+            "uri": ""
         },
         "03": {
             "artist": "Dylan Sinclair",
@@ -7611,9 +7816,10 @@
     "buried-light-w-jarren-21st-august-2018": {
         "00": {
             "artist": "Jean-Michel Jarre",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Souvenir de Chine",
-            "trackid": "5UBeEIUrTP2mUrfwWosPvD"
+            "trackid": "5UBeEIUrTP2mUrfwWosPvD",
+            "uri": ""
         },
         "01": {
             "artist": "Too $hort",
@@ -7641,15 +7847,17 @@
         },
         "05": {
             "artist": "Jarren",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Whittier Blvd.",
-            "trackid": "659n3ILVIMmDNUDpUd5fYg"
+            "trackid": "659n3ILVIMmDNUDpUd5fYg",
+            "uri": ""
         },
         "06": {
             "artist": "Jean-Michel Jarre",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Souvenir de Chine",
-            "trackid": "5UBeEIUrTP2mUrfwWosPvD"
+            "trackid": "5UBeEIUrTP2mUrfwWosPvD",
+            "uri": ""
         },
         "07": {
             "artist": "Giacomo Puccini",
@@ -7677,27 +7885,31 @@
         },
         "11": {
             "artist": "Jean-Michel Jarre",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Souvenir de Chine",
-            "trackid": "5UBeEIUrTP2mUrfwWosPvD"
+            "trackid": "5UBeEIUrTP2mUrfwWosPvD",
+            "uri": ""
         },
         "12": {
             "artist": "MCTR",
-            "ratio": 5,
+            "ratio": -1,
             "title": "MATRIX",
-            "trackid": "1ETBjckfAGgkDZJpwzlfwj"
+            "trackid": "1ETBjckfAGgkDZJpwzlfwj",
+            "uri": ""
         },
         "13": {
             "artist": "Jean-Michel Jarre",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Souvenir de Chine",
-            "trackid": "5UBeEIUrTP2mUrfwWosPvD"
+            "trackid": "5UBeEIUrTP2mUrfwWosPvD",
+            "uri": ""
         },
         "14": {
             "artist": "MCTR",
-            "ratio": 5,
+            "ratio": -1,
             "title": "MATRIX",
-            "trackid": "1ETBjckfAGgkDZJpwzlfwj"
+            "trackid": "1ETBjckfAGgkDZJpwzlfwj",
+            "uri": ""
         },
         "15": {
             "artist": "JERAN",
@@ -7713,9 +7925,10 @@
         },
         "17": {
             "artist": "JERAN",
-            "ratio": 3,
+            "ratio": -1,
             "title": "souvenirs",
-            "trackid": "2Uj4GndwRqXGabUGeyCFR7"
+            "trackid": "2Uj4GndwRqXGabUGeyCFR7",
+            "uri": ""
         }
     },
     "buried-light-w-rnd1-ashtrejinkins-1st-march-2022": {
@@ -7769,9 +7982,10 @@
         },
         "08": {
             "artist": "Teendropbeatz",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Elude - Instrumental Version",
-            "trackid": "7bFHvqePDPqN3tdmtHqQpm"
+            "trackid": "7bFHvqePDPqN3tdmtHqQpm",
+            "uri": ""
         },
         "09": {
             "artist": "AshTreJinkins",
@@ -7806,9 +8020,10 @@
         },
         "14": {
             "artist": "1920's Wurlitzer Carousel Organ",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Circus Life",
-            "trackid": "4Y9LljxPsYOfHjcORbmTZH"
+            "trackid": "4Y9LljxPsYOfHjcORbmTZH",
+            "uri": ""
         },
         "15": {
             "artist": "Jay Curry",
@@ -7824,9 +8039,10 @@
         },
         "17": {
             "artist": "1920's Wurlitzer Carousel Organ",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Circus Life",
-            "trackid": "4Y9LljxPsYOfHjcORbmTZH"
+            "trackid": "4Y9LljxPsYOfHjcORbmTZH",
+            "uri": ""
         },
         "18": {
             "artist": "Ras G",
