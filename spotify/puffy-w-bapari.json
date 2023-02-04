@@ -470,9 +470,10 @@
         },
         "16": {
             "artist": "Crescent Sun",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Deidara's Theme",
-            "trackid": "12ij9C8Ri3HNwQiJFSQMYO"
+            "trackid": "12ij9C8Ri3HNwQiJFSQMYO",
+            "uri": ""
         },
         "17": {
             "artist": "Inkos'yamagcokama",
@@ -4310,6 +4311,146 @@
             "ratio": 5,
             "title": "Coroa Azul",
             "trackid": "5TBUG7Fpz0YOmqdmWciZk6"
+        }
+    },
+    "puffy-w-bapari-28th-january-2023": {
+        "00": {
+            "artist": "Yhra",
+            "ratio": 4,
+            "title": "BORÉAL",
+            "trackid": "469aFb693nNW6gm9DUjW8Z"
+        },
+        "01": {
+            "artist": "Ziúr",
+            "ratio": 9,
+            "title": "U Feel Anything?",
+            "trackid": "5FQGntzFnNDgywQq9pGgIP"
+        },
+        "02": {
+            "artist": "lynch.",
+            "ratio": 3,
+            "title": "ENVY",
+            "trackid": "53HxKTpObGkhxdwjzBX6OG"
+        },
+        "03": {
+            "artist": "Evita Manji",
+            "ratio": 9,
+            "title": "Body/Prison",
+            "trackid": "6LqE48CXOxUdElCB0NsP3D"
+        },
+        "04": {
+            "artist": "Invexis",
+            "ratio": 9,
+            "title": "Red Storm",
+            "trackid": "1IxVbI616ZyrNA8Rc9jYd5"
+        },
+        "05": {
+            "artist": "Rilo",
+            "ratio": 5,
+            "title": "FAKE GOD",
+            "trackid": "5d4iMK6VsDhZUntkjIoNGp"
+        },
+        "06": {
+            "artist": "Gianni",
+            "ratio": 3,
+            "title": "Venom",
+            "trackid": "4ko3pKC9xAtGh2pSRLn5ct"
+        },
+        "07": {
+            "artist": "Aida Arko",
+            "ratio": 9,
+            "title": "Seven Deadly Sins - Original Mix",
+            "trackid": "516pvxfXiu5CEvkQKj9dcA"
+        },
+        "08": {
+            "artist": "Ayako Mori",
+            "ratio": 9,
+            "title": "Dear Gegen - Original Mix",
+            "trackid": "3s9fCQb02RLieXowXMERDm"
+        },
+        "09": {
+            "artist": "Capon",
+            "ratio": 9,
+            "title": "A Journey To The End Of Time",
+            "trackid": "6cL7u7GEWPgdzgOgzsmzdz"
+        },
+        "10": {
+            "artist": "Infinite Size",
+            "ratio": 3,
+            "title": "Who are you - Enkō remix",
+            "trackid": "7rMVQzYY5Wp9f7jicLAWi0"
+        },
+        "11": {
+            "artist": "VTSS",
+            "ratio": 9,
+            "title": "Notoriously Fast",
+            "trackid": "0GBLXfE9GbUSH2jF4Pr3yR"
+        },
+        "12": {
+            "artist": "Bad Boombox",
+            "ratio": 9,
+            "title": "Make It Wet - MC Yung Lil 'Super Soaker' Jersey Club Flip",
+            "trackid": "6GAQvAOWlrgw61XI4XSX07"
+        },
+        "13": {
+            "artist": "Yūgen-b",
+            "ratio": 9,
+            "title": "Mind Fight - Hot News Remix",
+            "trackid": "0OvUH15dpKSXYGWL8jBcPV"
+        },
+        "14": {
+            "artist": "Sina XX",
+            "ratio": 9,
+            "title": "Goth It",
+            "trackid": "0ATIglZ8qXxV8mmNC5Fod5"
+        },
+        "15": {
+            "artist": "CRY.NN",
+            "ratio": 9,
+            "title": "Real Ruby - Velutz Remix",
+            "trackid": "2prJyUHXN1KcUTs6sSYAK9"
+        },
+        "16": {
+            "artist": "Niotech",
+            "ratio": 9,
+            "title": "Acid Raver",
+            "trackid": "6hjseH7CiJ5qrQ1MKBGIMm"
+        },
+        "17": {
+            "artist": "SV",
+            "ratio": 9,
+            "title": "GuiltyLove",
+            "trackid": "4eaUufv8tzeQAFD8whG8Mt"
+        },
+        "18": {
+            "artist": "August Tange",
+            "ratio": 3,
+            "title": "In The Eye Of The Storm",
+            "trackid": "1R5R4okYJB1gde7NdyIdyK"
+        },
+        "19": {
+            "artist": "Scann-Tec",
+            "ratio": 4,
+            "title": "Hope",
+            "trackid": "5NLyUWTyTHZYEZxGjOo3aN"
+        },
+        "20": {
+            "artist": "MOONBOY",
+            "ratio": 0,
+            "title": "Ghost Bass",
+            "trackid": "0KnrMawcDPwUjeqqXjwWKG"
+        },
+        "21": {
+            "artist": "Claire's Accessories",
+            "ratio": 4,
+            "title": "Work Coach",
+            "trackid": "75CQ2gxYCgxuNqLvCV4kju"
+        },
+        "22": {
+            "artist": "MASTER BOOT RECORD",
+            "ratio": 3,
+            "title": "Irq 0 System Clock",
+            "trackid": "65D79dyluzNUi1eq3lHdAM"
         }
     },
     "puffy-w-bapari-29th-january-2021": {

@@ -4906,6 +4906,88 @@
             ]
         }
     },
+    "solid-state-survivor-14th-december-2022": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ash Ra Tempel",
+                    "title": "Reunion",
+                    "uri": "1e7WfoOLciVf3ioCKoRqvw"
+                },
+                {
+                    "artist": "Andrew Prahlow",
+                    "title": "The Ash Twin Project",
+                    "uri": "4RgYLomGIqt5iKhnWVNQPx"
+                },
+                {
+                    "artist": "Ash Radford",
+                    "title": "Running",
+                    "uri": "2M6f90yKmcXK71HGVpnOcB"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ash Ra Tempel",
+                    "title": "Le Sourire Volé",
+                    "uri": "1MQGBXFSYd9oCSQLGI12h4"
+                },
+                {
+                    "artist": "Ash Ra Tempel",
+                    "title": "Daydream",
+                    "uri": "5CLV2DB7vR73uVfe4Nl77G"
+                },
+                {
+                    "artist": "Ash Radford",
+                    "title": "Running",
+                    "uri": "2M6f90yKmcXK71HGVpnOcB"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ash Ra Tempel",
+                    "title": "Reunion",
+                    "uri": "1e7WfoOLciVf3ioCKoRqvw"
+                },
+                {
+                    "artist": "Ash Ra Tempel",
+                    "title": "Daydream",
+                    "uri": "5CLV2DB7vR73uVfe4Nl77G"
+                },
+                {
+                    "artist": "Papa Charlie Jackson",
+                    "title": "Ash Tray Blues",
+                    "uri": "2oods8nOG6bB6ZUFHEumbx"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ash Ra Tempel",
+                    "title": "Daydream",
+                    "uri": "5CLV2DB7vR73uVfe4Nl77G"
+                },
+                {
+                    "artist": "Papa Charlie Jackson",
+                    "title": "Ash Tray Blues",
+                    "uri": "2oods8nOG6bB6ZUFHEumbx"
+                },
+                {
+                    "artist": "Ash Radford",
+                    "title": "Running",
+                    "uri": "2M6f90yKmcXK71HGVpnOcB"
+                }
+            ]
+        }
+    },
     "solid-state-survivor-19th-october-2022": {
         "00": {
             "s0": [
@@ -8371,6 +8453,544 @@
                     "artist": "Dimmu Borgir",
                     "title": "The Serpentine Offering",
                     "uri": "1JEbu4sbfwNnjetAaaYGmU"
+                }
+            ]
+        }
+    },
+    "solid-state-survivor-w-shags-chamberlain-11th-january-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Child in a Universe",
+                    "uri": "7DC2Mq6Ve7ME2f7fXUV9Rl"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Child In A Universe - Live 1978",
+                    "uri": "2CLumqD7ofrQ47btMFjMSp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "6sj1PU9xB6bHke3bm4P3LU"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Stoned Soul Picnic",
+                    "uri": "2oV3mzorzJTZa3gmp8vAJl"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Jimmy Mack",
+                    "uri": "0Oo7umhghg2tlzJ3si1Q9X"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Sexy Mama",
+                    "uri": "1xD0o5m2rQuWlKlVvtCYNX"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Sexy Mama",
+                    "uri": "5iJCE63yskqES6ohtbSqas"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Sexy Mama - Live 1978",
+                    "uri": "0FjHycvHvr9JLu4aRpg04v"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Sexy Mama",
+                    "uri": "1xD0o5m2rQuWlKlVvtCYNX"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "6sj1PU9xB6bHke3bm4P3LU"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Stoned Soul Picnic",
+                    "uri": "2oV3mzorzJTZa3gmp8vAJl"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Spanish Harlem",
+                    "uri": "6eyjCKkBdokZJsJsQL3wIY"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Spanish Harlem",
+                    "uri": "5SX1SF0GjGrV5IEmFeD3L9"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Spanish Harlem - Live",
+                    "uri": "1vjW4Cz68vVL4JKazmWnGr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ben E. King",
+                    "title": "Spanish Harlem",
+                    "uri": "3UCmuRdeTriWgOZMEJsfqZ"
+                },
+                {
+                    "artist": "Aretha Franklin",
+                    "title": "Spanish Harlem",
+                    "uri": "0sQ594D1EuU66VDdtHBE6j"
+                },
+                {
+                    "artist": "Willy DeVille",
+                    "title": "Spanish Harlem",
+                    "uri": "6w4sAqtiljCU33OPkDfADl"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Mercy on Broadway",
+                    "uri": "7JvOslc2HJhG9iVYckFTPA"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Mercy On Broadway",
+                    "uri": "1W97F7Y5UZ5NqaUN4EcaxR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Stoned Soul Picnic",
+                    "uri": "2oV3mzorzJTZa3gmp8vAJl"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "6sj1PU9xB6bHke3bm4P3LU"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Jimmy Mack",
+                    "uri": "0Oo7umhghg2tlzJ3si1Q9X"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Timer",
+                    "uri": "5RxVHgSVGC12uYC5Q6O3Fi"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Timer",
+                    "uri": "4fQ8MvkBVxtrVCJWAmVClL"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Timer",
+                    "uri": "4zvLhyxRWx9YX3fxaVzPVk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Stoned Soul Picnic",
+                    "uri": "2oV3mzorzJTZa3gmp8vAJl"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "6sj1PU9xB6bHke3bm4P3LU"
+                },
+                {
+                    "artist": "Nomuel",
+                    "title": "Laura",
+                    "uri": "20THYUWiTFveytALH4pyUD"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Eli's Comin'",
+                    "uri": "04x9RfuAP5Pyce6fYzK9Xp"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Eli's Comin'",
+                    "uri": "0D6ULvHlJJVd6g5BWJH1d3"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Eli's Comin'",
+                    "uri": "29OYdeBC6B426OzIOSjK0I"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Eli's Comin'",
+                    "uri": "04x9RfuAP5Pyce6fYzK9Xp"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Stoned Soul Picnic",
+                    "uri": "2oV3mzorzJTZa3gmp8vAJl"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "6sj1PU9xB6bHke3bm4P3LU"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Captain for Dark Mornings",
+                    "uri": "1p95KdqQ4wwv2O2DSjeDVc"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Captain For Dark Mornings/Map To The Treasure",
+                    "uri": "7Kmv9DmH23qGKKpkz6pYQn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Captain for Dark Mornings",
+                    "uri": "1p95KdqQ4wwv2O2DSjeDVc"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "6sj1PU9xB6bHke3bm4P3LU"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Stoned Soul Picnic",
+                    "uri": "2oV3mzorzJTZa3gmp8vAJl"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Upstairs By A Chinese Lamp",
+                    "uri": "1TJcZ7w6gBijuIp5AmPiPw"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Upstairs By a Chinese Lamp",
+                    "uri": "6L68zi3KPtWEscgQ3hNoVM"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Upstairs By a Chinese Lamp",
+                    "uri": "2Ty8FEzfntYbBPhJaDmb61"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Stoned Soul Picnic",
+                    "uri": "2oV3mzorzJTZa3gmp8vAJl"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Wedding Bells Blues",
+                    "uri": "12Y4cfgtlU81OAHXbzde32"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Jimmy Mack",
+                    "uri": "0Oo7umhghg2tlzJ3si1Q9X"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Map To The Treasure",
+                    "uri": "7A3CRG8SVeghjeAYj6qlVM"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Map To The Treasure - Live",
+                    "uri": "6uLgmqx0CWZgZIMuJo9xmk"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Captain For Dark Mornings/Map To The Treasure",
+                    "uri": "7Kmv9DmH23qGKKpkz6pYQn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "6sj1PU9xB6bHke3bm4P3LU"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Stoned Soul Picnic",
+                    "uri": "2oV3mzorzJTZa3gmp8vAJl"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Stoney End",
+                    "uri": "1JWCrDwo3RtFarcaGJcFdt"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "6sj1PU9xB6bHke3bm4P3LU"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "56TAjuacJcGgZTbRia28cr"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "52Y9cDOqhcBDeMlbkVUrc1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "6sj1PU9xB6bHke3bm4P3LU"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Stoned Soul Picnic",
+                    "uri": "2oV3mzorzJTZa3gmp8vAJl"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "I Met Him On A Sunday",
+                    "uri": "1BbuB46ewGPlZYSLtcdANi"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "6sj1PU9xB6bHke3bm4P3LU"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "56TAjuacJcGgZTbRia28cr"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "52Y9cDOqhcBDeMlbkVUrc1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "6sj1PU9xB6bHke3bm4P3LU"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Stoned Soul Picnic",
+                    "uri": "2oV3mzorzJTZa3gmp8vAJl"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "I Met Him On A Sunday",
+                    "uri": "1BbuB46ewGPlZYSLtcdANi"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Captain St. Lucifer - Live",
+                    "uri": "1PLDouNp9YFQAigj7AT2uZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Captain Saint Lucifer",
+                    "uri": "2XI7KGyYmDWIPCzPdp1mO8"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "6sj1PU9xB6bHke3bm4P3LU"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Jimmy Mack",
+                    "uri": "0Oo7umhghg2tlzJ3si1Q9X"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Children of the Junks",
+                    "uri": "4VPK8VAY230W9MWZKJNEGz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Children of the Junks",
+                    "uri": "4VPK8VAY230W9MWZKJNEGz"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Stoney End",
+                    "uri": "1JWCrDwo3RtFarcaGJcFdt"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Emmie",
+                    "uri": "1Q6LHlmgQQMurLhTveYdZR"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "You Don't Love Me When I Cry",
+                    "uri": "3KlThglLgU5sE86o2SVIVM"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "You Don't Love Me When I Cry",
+                    "uri": "4JUZWmNbuwqkQJBzJEGRaz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "6sj1PU9xB6bHke3bm4P3LU"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Stoned Soul Picnic",
+                    "uri": "7FBlUGgH5CxPlsWplvMpLk"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Stoney End",
+                    "uri": "1JWCrDwo3RtFarcaGJcFdt"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "It's Gonna Take A Miracle",
+                    "uri": "6LmLVvEAnAJTSycmPgV1cs"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "It's Gonna Take A Miracle",
+                    "uri": "2uZ5HQdBXwsfXKFU8tfYUq"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "It's Gonna Take A Miracle",
+                    "uri": "4ScMVMiXacvXdYZXLoG9ye"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "It's Gonna Take A Miracle",
+                    "uri": "6LmLVvEAnAJTSycmPgV1cs"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Stoned Soul Picnic",
+                    "uri": "2oV3mzorzJTZa3gmp8vAJl"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Jimmy Mack",
+                    "uri": "0Oo7umhghg2tlzJ3si1Q9X"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Christmas In My Soul",
+                    "uri": "4se5rRrEPKyfn3PJbKr7Im"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Christmas In My Soul - Live",
+                    "uri": "6B4FaDLHzc9cQtQlIcUzBX"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Christmas In My Soul",
+                    "uri": "44ymeupWVgZh6OZ5icgRgo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Poverty Train",
+                    "uri": "6sj1PU9xB6bHke3bm4P3LU"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Stoned Soul Picnic",
+                    "uri": "2oV3mzorzJTZa3gmp8vAJl"
+                },
+                {
+                    "artist": "Laura Nyro",
+                    "title": "Wedding Bells Blues",
+                    "uri": "12Y4cfgtlU81OAHXbzde32"
                 }
             ]
         }

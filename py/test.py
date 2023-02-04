@@ -53,7 +53,7 @@ sh = True
         #     nts.youtubeplaylist(i)
 # dos = [i for i in y if i[0].lower() in ['i','j','k']]
 # nts.runscript(dos)
-            
+
 # import datetime
 # shows = []
 # tday = datetime.date.today()
@@ -84,7 +84,7 @@ sh = True
 
 # nts = script.nts(youtube=False)
 # shows = [i for i in nts.showlist]# if i not in ['guests','the-nts-guide-to','in-focus','archive-nights-cafe-oto']]
-nts.runscript(nts.showlist[500:700],False)
+nts.runscript(nts.showlist[700:1000],False)
 # for i in nts.showlist[:]:
 #     print(i,nts.showlist.index(i),'\n')
 #     while True:
