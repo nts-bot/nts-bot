@@ -1,13 +1,17 @@
 # Environment Variables
 from dotenv import load_dotenv
+
 load_dotenv()
 import warnings
+
 warnings.filterwarnings("ignore")
 # Directory
 import os
+
 dr = os.getenv("directory")
 os.chdir(f"{dr}/py")
 import script
+
 nts = script.nts()
 
 do = True
@@ -41,16 +45,16 @@ sh = True
 
 # y = nts._j2d('./yid')
 # for i in y:
-    # if i[0].lower() in ['i','j','k']:
-    # if i[0].isnumeric():
-        # print(i)
-        # try:
-        #     nts.runner(i,f"./youtube_search_results/{i}",2.5)
-        #     nts.runner(i,f"./youtube/{i}",3.5)
-        #     nts.youtubeplaylist(i)
-        # except Exception as e:
-        #     print(e)
-        #     nts.youtubeplaylist(i)
+# if i[0].lower() in ['i','j','k']:
+# if i[0].isnumeric():
+# print(i)
+# try:
+#     nts.runner(i,f"./youtube_search_results/{i}",2.5)
+#     nts.runner(i,f"./youtube/{i}",3.5)
+#     nts.youtubeplaylist(i)
+# except Exception as e:
+#     print(e)
+#     nts.youtubeplaylist(i)
 # dos = [i for i in y if i[0].lower() in ['i','j','k']]
 # nts.runscript(dos)
 
@@ -84,7 +88,7 @@ sh = True
 
 # nts = script.nts(youtube=False)
 # shows = [i for i in nts.showlist]# if i not in ['guests','the-nts-guide-to','in-focus','archive-nights-cafe-oto']]
-nts.runscript(nts.showlist[700:1000],False)
+nts.runscript(nts.showlist[1000:], False)
 # for i in nts.showlist[:]:
 #     print(i,nts.showlist.index(i),'\n')
 #     while True:

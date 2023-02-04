@@ -993,7 +993,7 @@
             "title": "SERIOUS TIME (MELODICA VERSION) UNRELEASED"
         }
     },
-    "manila-times-9th-july-2021": {},
+    "manila-times-9th-july-2021": "",
     "manila-times-w-jaygap-3rd-september-2021": {
         "00": {
             "artist": "Bing Austria, ",
@@ -1266,8 +1266,8 @@
             "title": "Satisfaction"
         }
     },
-    "vex-ruffin-11th-june-2022": {},
-    "vex-ruffin-11th-november-2016": {},
+    "vex-ruffin-11th-june-2022": "",
+    "vex-ruffin-11th-november-2016": "",
     "vex-ruffin-12th-july-2019": {
         "00": {
             "artist": "Westside Gunn",
@@ -1980,7 +1980,7 @@
             "title": "Valley Of No Return"
         }
     },
-    "vex-ruffin-17th-april-2020": {},
+    "vex-ruffin-17th-april-2020": "",
     "vex-ruffin-17th-may-2019": {
         "00": {
             "artist": "G.I.S.M.",
@@ -2245,7 +2245,7 @@
             "title": "Seltsame Gegend"
         }
     },
-    "vex-ruffin-19th-february-2022": {},
+    "vex-ruffin-19th-february-2022": "",
     "vex-ruffin-19th-march-2022": {
         "00": {
             "artist": "Celeste",
@@ -3584,7 +3584,7 @@
             "title": "Tricky Tee Rap (Part 1)"
         }
     },
-    "vex-ruffin-31st-march-2017": {},
+    "vex-ruffin-31st-march-2017": "",
     "vex-ruffin-3rd-february-2017": {
         "00": {
             "artist": "Screaming Beggars",
@@ -4419,7 +4419,80 @@
             "title": "Shock Shoppers"
         }
     },
-    "vex-ruffin-8th-december-2022": {},
+    "vex-ruffin-8th-december-2022": {
+        "00": {
+            "artist": "Katy Dela Cruz",
+            "title": "Pacing"
+        },
+        "01": {
+            "artist": "Dominic And His Orchestra",
+            "title": "Tender Loving Care"
+        },
+        "02": {
+            "artist": "Hotdog",
+            "title": "Anna"
+        },
+        "03": {
+            "artist": "Bert De Leon",
+            "title": "If Only I Had A Girl"
+        },
+        "04": {
+            "artist": "Sonny Zandueta",
+            "title": "Can't Make It Alone"
+        },
+        "05": {
+            "artist": "Dan Henry",
+            "title": "Why Cant We Be Lovers"
+        },
+        "06": {
+            "artist": "Sonny Nicolas",
+            "title": "Mr. Musikero"
+        },
+        "07": {
+            "artist": "Eugene Villaluz",
+            "title": "Narito Ka"
+        },
+        "08": {
+            "artist": "Zion Zuñiga",
+            "title": "Bibibini Sa Tabi Ko"
+        },
+        "09": {
+            "artist": "Apo Hiking Society",
+            "title": "Heto Na"
+        },
+        "10": {
+            "artist": "Charing",
+            "title": "La-La-La-La-Lalaki (Disco Lullabye)"
+        },
+        "11": {
+            "artist": "Etcetera",
+            "title": "\"Dancer Ka Ba?\""
+        },
+        "12": {
+            "artist": "Rainmakers",
+            "title": "Oh Baby"
+        },
+        "13": {
+            "artist": "Bella",
+            "title": "Prima Donna (Istariray)"
+        },
+        "14": {
+            "artist": "Cely Bautista",
+            "title": "UHAW SA LIGAYA"
+        },
+        "15": {
+            "artist": "Bella",
+            "title": "Halik"
+        },
+        "16": {
+            "artist": "Dale Adriatico",
+            "title": "Dalagita Sa Luneta"
+        },
+        "17": {
+            "artist": "VST & Co.",
+            "title": "Babay"
+        }
+    },
     "vex-ruffin-8th-september-2017": {
         "00": {
             "artist": "Shit And Shine",
