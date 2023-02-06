@@ -1,4 +1,290 @@
 {
+    "ideala-5th-february-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Luísa Mitre",
+                    "title": "Valsa da Espera",
+                    "uri": "68eg900GH5sD1RC3j30wYG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Francisco Mignone",
+                    "title": "Valsinha",
+                    "uri": "3MUR1Ku2OcQFcel5ECeR1s"
+                },
+                {
+                    "artist": "André Rieu",
+                    "title": "Valse de l'Empereur",
+                    "uri": "0G1PznpX6I6LEei3bn2etg"
+                },
+                {
+                    "artist": "Lotus Laverne",
+                    "title": "Valse Mistral",
+                    "uri": "6fnYjOnJIiCctDggEhTMti"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Francisco Sicilia",
+                    "title": "Lulú",
+                    "uri": "6EtUpAH0jVH6kEAIpFQS5u"
+                },
+                {
+                    "artist": "Francisco Sicilia",
+                    "title": "Lulú en Ginebra",
+                    "uri": "7Gz57dFLPa6WiWL7uLDjbq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gabriel Fauré",
+                    "title": "Sicilienne, Op. 78 (Arr. for Piano)",
+                    "uri": "5DF3XqsPJSj39775c3e7PK"
+                },
+                {
+                    "artist": "Lulu Silvério",
+                    "title": "mensagem de voz",
+                    "uri": "7v1SgGkkI0F5j6o6hHtreK"
+                },
+                {
+                    "artist": "Francesco Siano",
+                    "title": "Fading Winter",
+                    "uri": "2D7jJQBxcy5yza7j03jPhE"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Steve Tibbetts",
+                    "title": "Walking",
+                    "uri": "5iFZyptfcBMBi0joQLB1Ag"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Steve Tibbetts",
+                    "title": "Climbing",
+                    "uri": "3kz6NAOACWLOUKYTQVvFkN"
+                },
+                {
+                    "artist": "Steve Tibbetts",
+                    "title": "Bloodwork",
+                    "uri": "3iCvLAdsFiqlnusTzGSG64"
+                },
+                {
+                    "artist": "Steve Tibbetts",
+                    "title": "Sitavana",
+                    "uri": "6cvPcL5mGWNac2tjPMGJtF"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Star Cast",
+                    "title": "I Don't Know Why - From “Star (Season 1)\" Soundtrack",
+                    "uri": "3VAnkGcCHO0cdPleKN7cCK"
+                },
+                {
+                    "artist": "Star Cast",
+                    "title": "There For You - From “Star\" Season 2",
+                    "uri": "5YwxbpyIzPMLWmcmVIvh3E"
+                },
+                {
+                    "artist": "AmaLee",
+                    "title": "Shinzou wo Sasageyo (From \"Attack on Titan\")",
+                    "uri": "1wmb3kjUvCi2DALvatTNtp"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "eiji trio band",
+                    "title": "Bridging the Distance",
+                    "uri": "1HfXibWxQNh3da7a6ctTRd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eiji",
+                    "title": "Avenue Montaigne",
+                    "uri": "6YlpqjX0cXLo8zouFU8227"
+                },
+                {
+                    "artist": "Eiji",
+                    "title": "UFO",
+                    "uri": "592niRW6p5eJaHTepCUaXj"
+                },
+                {
+                    "artist": "Eikichi Yazawa",
+                    "title": "EBB TIDE - Live at 横浜スタジアム'95 - Remastered 2022",
+                    "uri": "6K4nAkkA8drlOPpBzB9QBk"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Kau Caldas",
+                    "title": "Mãos Nuas",
+                    "uri": "6UWEdrIySA2xj4XnXsqpcx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kau Caldas",
+                    "title": "Mãos Nuas",
+                    "uri": "6UWEdrIySA2xj4XnXsqpcx"
+                },
+                {
+                    "artist": "Kau Caldas",
+                    "title": "Migração",
+                    "uri": "3InLK6dYamfDOwd6Gw1Ogk"
+                },
+                {
+                    "artist": "Kau Caldas",
+                    "title": "Recomeço",
+                    "uri": "6QvNcu9Ia7zaPHbz9CsEWJ"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Fred Selva",
+                    "title": "Oculto",
+                    "uri": "7rscLhEo0wZRkhNxbE3ZeN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fred Selva",
+                    "title": "Oculto",
+                    "uri": "7rscLhEo0wZRkhNxbE3ZeN"
+                },
+                {
+                    "artist": "Freddy Zelada Y Su Grupo Compacto",
+                    "title": "Falso Amor",
+                    "uri": "225Wyf94LGnMlG3fKlF3nk"
+                },
+                {
+                    "artist": "Freddy Zelada Y Su Grupo Compacto",
+                    "title": "Me Dejaras",
+                    "uri": "1sILLEMMPlSjNHrbCFs7Yt"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Felipe Continentino",
+                    "title": "Tempestade Magnética",
+                    "uri": "2s4634eH4kIhqMqBhr2GR7"
+                },
+                {
+                    "artist": "Sony no Beat",
+                    "title": "Parecia Tempestade",
+                    "uri": "29adI8c6c75mnnaJ3BFLID"
+                },
+                {
+                    "artist": "RBalla",
+                    "title": "Felipe Colares Cabocao",
+                    "uri": "6bROyQlWX9zPOAtkpLkRLd"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "The Big Odd",
+                    "title": "Serpens Cauda (Bonus Track)",
+                    "uri": "2i5UPFe9XdlJnizlwCEdcf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Big Odd",
+                    "title": "Serpens Cauda (Bonus Track)",
+                    "uri": "2i5UPFe9XdlJnizlwCEdcf"
+                },
+                {
+                    "artist": "O.G.C.",
+                    "title": "The Big Ohh",
+                    "uri": "5EovJfNISHtUuBO5MyuywP"
+                },
+                {
+                    "artist": "Scheusal",
+                    "title": "Ledermaske",
+                    "uri": "6aLGmiwJxvFJrQ7JFU8xGE"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Gabriel Bruce",
+                    "title": "Espelho D'Água",
+                    "uri": "7fykZKVwzhL6XPLpULsraz"
+                },
+                {
+                    "artist": "Gabriel Bruce",
+                    "title": "Espelho D'Água",
+                    "uri": "4gOVmaUMjAJJDjwGW5bMfe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gabriel Bruce",
+                    "title": "Espelho D'Água",
+                    "uri": "4gOVmaUMjAJJDjwGW5bMfe"
+                },
+                {
+                    "artist": "Patricia Marx",
+                    "title": "Espelhos d'Água",
+                    "uri": "2O7xS5JAHwGqetnkuhvLuJ"
+                },
+                {
+                    "artist": "Xique-Xique",
+                    "title": "Espelho D'agua - Psilosamples remix",
+                    "uri": "20AGc4vkpe2eh5kvmRmxaK"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Okada Takuro",
+                    "title": "By The Pool",
+                    "uri": "7BijJGm7ERXipjVUgNfjGU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Okada Takuro",
+                    "title": "Lost",
+                    "uri": "4gcA5iPJh6mPAJ0rHkBgpV"
+                },
+                {
+                    "artist": "Okada Takuro",
+                    "title": "Shore",
+                    "uri": "5w22WqfjUJ6OsDBVj9ub5u"
+                },
+                {
+                    "artist": "Okada Takuro",
+                    "title": "Waterfront (UP-01)",
+                    "uri": "4xOceZyJTj0WuhwjLghoYo"
+                }
+            ]
+        }
+    },
     "ideala-8th-january-2023": {
         "00": {
             "s0": [

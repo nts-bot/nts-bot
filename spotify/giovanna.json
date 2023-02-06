@@ -162,9 +162,10 @@
         },
         "01": {
             "artist": "Tony Goldmark",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Tech Support - Tony Goldmark",
-            "trackid": "2DtLStXDG0eNknVZgTVZo3"
+            "trackid": "2DtLStXDG0eNknVZgTVZo3",
+            "uri": ""
         },
         "02": {
             "artist": "Pleasure Tsa Manyalo",
@@ -222,9 +223,10 @@
         },
         "11": {
             "artist": "Spirits Of Our Dreams",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Moving Silence",
-            "trackid": "1hk4wGfZMRqmfUzaPtQQL9"
+            "trackid": "1hk4wGfZMRqmfUzaPtQQL9",
+            "uri": ""
         },
         "12": {
             "artist": "Les chanteurs pyrénéens de Tarbes",
@@ -3139,6 +3141,86 @@
             "ratio": -1,
             "title": "",
             "trackid": ""
+        }
+    },
+    "giovanna-3rd-december-2022": {
+        "00": {
+            "artist": "Tony Esposito",
+            "ratio": 3,
+            "title": "Kalimba De Luna",
+            "trackid": "5JVsjYDxyCV2aIGj16M4uV"
+        },
+        "01": {
+            "artist": "Bobby Konders",
+            "ratio": 5,
+            "title": "Intro",
+            "trackid": "2Sy5TwyIgRNswpr7tMlwgg"
+        },
+        "02": {
+            "artist": "The Mauskovic Dance Band",
+            "ratio": 9,
+            "title": "Parata Est",
+            "trackid": "3vRvjiykoGp1eyUIbR8hcg"
+        },
+        "03": {
+            "artist": "Jolly Mare",
+            "ratio": 0,
+            "title": "Have Visions",
+            "trackid": "7HUN37UvvS9a83F6jKIyWA"
+        },
+        "04": {
+            "artist": "A.R.T. Wilson",
+            "ratio": 9,
+            "title": "Sun Sign Aries",
+            "trackid": "0zAO4WvRbJ4s7eqzwj5h4H"
+        },
+        "05": {
+            "artist": "The The",
+            "ratio": 9,
+            "title": "Giant",
+            "trackid": "0pAWc1N5PQdQhkyj73uJut"
+        },
+        "06": {
+            "artist": "Objekt",
+            "ratio": 3,
+            "title": "Theme from Q",
+            "trackid": "7Bzyr2VDVOAIU4o0KpSWnp"
+        },
+        "07": {
+            "artist": "Dance Party Dj Club",
+            "ratio": 4,
+            "title": "Dazzle Wavy",
+            "trackid": "00ZHuOxrFoKQ8oc0oYQUdY"
+        },
+        "08": {
+            "artist": "Sally Shapiro",
+            "ratio": 9,
+            "title": "Love In Slow Motion (Betamaxx Remix)",
+            "trackid": "7teciO06wAUA7zX2O3RzUn"
+        },
+        "09": {
+            "artist": "Julie Larson",
+            "ratio": 5,
+            "title": "Fly",
+            "trackid": "7rzCOcqW9XwMVI0uk60tWS"
+        },
+        "10": {
+            "artist": "Donald",
+            "ratio": 9,
+            "title": "A Ver, a Ver - Ric Piccolo Edit",
+            "trackid": "0Q2Gq6ddwyfbpScUIBcgOf"
+        },
+        "11": {
+            "artist": "Ivy Queen",
+            "ratio": 9,
+            "title": "Sabes Que Tu",
+            "trackid": "3qQJAbCyP6Tk59XeoeQaPv"
+        },
+        "12": {
+            "artist": "Doggy OG",
+            "ratio": 5,
+            "title": "Chapi",
+            "trackid": "4oxg3Yq467mlmg38VfKcIL"
         }
     },
     "giovanna-4th-february-2022": {

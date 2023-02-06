@@ -860,6 +860,122 @@
             "trackid": "0S2c2H7MZddb5bmTf81ywl"
         }
     },
+    "annabel-fraser-14th-january-2023": {
+        "00": {
+            "artist": "The Lincolns",
+            "ratio": 3,
+            "title": "Judy",
+            "trackid": "4sdx5cX32HjNbRzeyaSZm9"
+        },
+        "01": {
+            "artist": "Megami",
+            "ratio": 4,
+            "title": "Star Shopping - Sped Up",
+            "trackid": "64COagbSkQBnQyi9yrIHZQ"
+        },
+        "02": {
+            "artist": "Yasuaki Shimizu",
+            "ratio": 9,
+            "title": "LIZARD",
+            "trackid": "3LEfFgyKSvjFUl1cRBp0it"
+        },
+        "03": {
+            "artist": "Booker Stardrum",
+            "ratio": 9,
+            "title": "Parking Lot - Carl Stone Remix",
+            "trackid": "4sEiSIuj4N2eJ5mJDmzKI3"
+        },
+        "04": {
+            "artist": "Duster",
+            "ratio": 3,
+            "title": "Constellations",
+            "trackid": "1MXOWbSCEjoGwivtIMnlBV"
+        },
+        "05": {
+            "artist": "Tyndall",
+            "ratio": 9,
+            "title": "Unterwegs",
+            "trackid": "57D9V3FpffrYBY1Nb03Fqv"
+        },
+        "06": {
+            "artist": "Exquisite Corpse",
+            "ratio": 9,
+            "title": "Elevator",
+            "trackid": "21mKxC7uc3j0xPJ77LMLnt"
+        },
+        "07": {
+            "artist": "DJ Zozi",
+            "ratio": 9,
+            "title": "Mellow Vibe - Mixed",
+            "trackid": "1XGTvbxyJYHGPHKoW3ukKT"
+        },
+        "08": {
+            "artist": "Mr. Complex",
+            "ratio": 9,
+            "title": "Visualize",
+            "trackid": "4k9PLduIHeuRx04muUMolt"
+        },
+        "09": {
+            "artist": "Whodamanny",
+            "ratio": 9,
+            "title": "Dysomnia Dead-end Chaos",
+            "trackid": "0S54bUqU2YBzJhue3vGkxs"
+        },
+        "10": {
+            "artist": "Mark Nauseef",
+            "ratio": 9,
+            "title": "Jones",
+            "trackid": "05drpvNMGtN7uxPpE5dflI"
+        },
+        "11": {
+            "artist": "Buddy Collette Septet",
+            "ratio": 9,
+            "title": "Taboo",
+            "trackid": "1X8Gzoa7iNwek39xJT8BH1"
+        },
+        "12": {
+            "artist": "Marlon Craft",
+            "ratio": 0,
+            "title": "THE LOOP",
+            "trackid": "1dSQTFRuAAQSGbFlLukmD5"
+        },
+        "13": {
+            "artist": "Benoit B",
+            "ratio": 9,
+            "title": "Coconut Groove",
+            "trackid": "6Alzl6Ci5gyTo85ABYFcMq"
+        },
+        "14": {
+            "artist": "Montezumas Rache",
+            "ratio": 9,
+            "title": "Wu Du Wu",
+            "trackid": "643Ewus2ENo1vZO4HJoqaX"
+        },
+        "15": {
+            "artist": "Desert Sound Colony",
+            "ratio": 9,
+            "title": "Big Jason & the Fruit Fly",
+            "trackid": "0pqjaWPopn0w4guxCvjNE0"
+        },
+        "16": {
+            "artist": "Failure",
+            "ratio": 4,
+            "title": "The Nurse Who Loved Me",
+            "trackid": "3IfCsWzD0BRc0TnLQW6Y0s"
+        },
+        "17": {
+            "artist": "KOAN Sound",
+            "ratio": 4,
+            "title": "Sly Fox",
+            "trackid": "2rdyymizG2iYRPs90ZGS3R"
+        },
+        "18": {
+            "artist": "Liquid G.",
+            "ratio": 9,
+            "title": "Short Circuit",
+            "trackid": "1TfxBOd72gtlK9lGf0qSD4"
+        }
+    },
     "annabel-fraser-15th-april-2017": {
         "00": {
             "artist": "Сезон дождей",
@@ -5826,9 +5942,10 @@
         },
         "14": {
             "artist": "fenekot",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Ghost",
-            "trackid": "5cd41dKCt8rr8QixSD8Tv9"
+            "trackid": "5cd41dKCt8rr8QixSD8Tv9",
+            "uri": ""
         },
         "15": {
             "artist": "",

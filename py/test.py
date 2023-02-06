@@ -1,19 +1,12 @@
 # Environment Variables
-from dotenv import load_dotenv
-
-load_dotenv()
-import warnings
-
-warnings.filterwarnings("ignore")
-# Directory
 import os
-
+from dotenv import load_dotenv
+load_dotenv()
+# Directory
 dr = os.getenv("directory")
 os.chdir(f"{dr}/py")
 import script
-
 nts = script.nts()
-
 do = True
 # sh = False
 # _ = input("Short? [Y]")
@@ -88,7 +81,7 @@ sh = True
 
 # nts = script.nts(youtube=False)
 # shows = [i for i in nts.showlist]# if i not in ['guests','the-nts-guide-to','in-focus','archive-nights-cafe-oto']]
-nts.runscript(nts.showlist[1000:], False)
+nts.runscript(nts.showlist[::-1], retry=True)
 # for i in nts.showlist[:]:
 #     print(i,nts.showlist.index(i),'\n')
 #     while True:

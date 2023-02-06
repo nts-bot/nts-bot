@@ -1274,9 +1274,186 @@
         },
         "07": {
             "artist": "Tati au Miel",
-            "ratio": 0,
+            "ratio": -1,
             "title": "For the Sake of Eternity and Beyond",
-            "trackid": "4bJ3pdP4HxCVcAFldT5d0e"
+            "trackid": "4bJ3pdP4HxCVcAFldT5d0e",
+            "uri": ""
+        }
+    },
+    "bodywork-w-kaili-23rd-december-2022": {
+        "00": {
+            "artist": "Bad Blaxx",
+            "ratio": 9,
+            "title": "Jiggle Jiggle",
+            "trackid": "3K4OO6RZjsH17bK8OgMzeL"
+        },
+        "01": {
+            "artist": "Yves Jamait",
+            "ratio": 4,
+            "title": "Testostérone Émoi",
+            "trackid": "4Q5qLWvmM3fcXoTSbOExaq"
+        },
+        "02": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "03": {
+            "artist": "Mulatoh Prod",
+            "ratio": 3,
+            "title": "DR1",
+            "trackid": "4ULAxkqzSQRgLBjT4tIB5A"
+        },
+        "04": {
+            "artist": "Erykah Badu",
+            "ratio": 9,
+            "title": "Phone Down",
+            "trackid": "3aapF0aOexc3GMvVuu2Wdw"
+        },
+        "05": {
+            "artist": "Xana Romeo",
+            "ratio": 3,
+            "title": "Mercy Please",
+            "trackid": "1tPKiTtEqyysJbEnDZZfoz"
+        },
+        "06": {
+            "artist": "Dark Earth",
+            "ratio": 0,
+            "title": "Free Story",
+            "trackid": "66U1KKb5XZ5jOKyplWEJ9x"
+        },
+        "07": {
+            "artist": "Maara",
+            "ratio": 9,
+            "title": "Maara - Spiral 2 the Other Side - Original Mix",
+            "trackid": "6O46BrFTaxwdcjw1jte2OM"
+        },
+        "08": {
+            "artist": "Dom Kennedy",
+            "ratio": 9,
+            "title": "My Type of Party",
+            "trackid": "60wK3ylmnDG9MqbnMqbupZ"
+        },
+        "09": {
+            "artist": "Anz",
+            "ratio": 9,
+            "title": "No Harm",
+            "trackid": "5aXjGc13n2sb5DqLsBnKMJ"
+        },
+        "10": {
+            "artist": "Mina",
+            "ratio": 0,
+            "title": "Decídete",
+            "trackid": "6EPGzboEfRvK4qYiFDP0kW"
+        },
+        "11": {
+            "artist": "K2B Riquet",
+            "ratio": 5,
+            "title": "ST",
+            "trackid": "6Nq1U0vaVhuUffKDG8WosZ"
+        },
+        "12": {
+            "artist": "Flavinho Lima",
+            "ratio": 3,
+            "title": "Meu Amor Secreto",
+            "trackid": "6xQzhSrSXleRDNgR0Yuj8M"
+        },
+        "13": {
+            "artist": "DJ Flex",
+            "ratio": 4,
+            "title": "She Don't Text Afrobeat",
+            "trackid": "79WkDHrA86LckfmnjC0LIx"
+        },
+        "14": {
+            "artist": "DJ DN do Dick",
+            "ratio": 4,
+            "title": "Foragido da Justiça",
+            "trackid": "2A7uNB0QJTkBmkD7XImr4s"
+        },
+        "15": {
+            "artist": "Joe Williams",
+            "ratio": 4,
+            "title": "Keep Your Hand On Your Heart",
+            "trackid": "1UD1AgiXmaPXPPNXGB17CQ"
+        },
+        "16": {
+            "artist": "NK",
+            "ratio": 5,
+            "title": "Elefante",
+            "trackid": "1lo7E3Du67adrmc8GWA5k5"
+        },
+        "17": {
+            "artist": "Entrañas",
+            "ratio": 9,
+            "title": "Ansias",
+            "trackid": "4bZr02Al7AKPM88q8wy3Ay"
+        },
+        "18": {
+            "artist": "Ice Spice",
+            "ratio": 9,
+            "title": "No Clarity",
+            "trackid": "0tnT8B415mZyOYETy2ulVv"
+        },
+        "19": {
+            "artist": "Bayernkapelle",
+            "ratio": 3,
+            "title": "Böhmischer Traum",
+            "trackid": "1fjVqB1AkfJkmiSKBIfpgL"
+        },
+        "20": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "21": {
+            "artist": "Michael Bublé",
+            "ratio": 3,
+            "title": "You Don't Know Me",
+            "trackid": "41BxLqai6W39BVVAtzKSM1"
+        },
+        "22": {
+            "artist": "Lauren Mason",
+            "ratio": 8,
+            "title": "P.S (Witty Boy Mix)",
+            "trackid": "0S8K0qnRcEgFYxBCy7csOk"
+        },
+        "23": {
+            "artist": "YoD Ibiza",
+            "ratio": 4,
+            "title": "Animal",
+            "trackid": "0eCLKpSK5xebg0YpYPT9LA"
+        },
+        "24": {
+            "artist": "Wayne Wonder",
+            "ratio": 3,
+            "title": "Sensi Ride",
+            "trackid": "5taWj58sfaFnr0TQfSvsrV"
+        },
+        "25": {
+            "artist": "Flowdan",
+            "ratio": 4,
+            "title": "Horror Show Style",
+            "trackid": "4XWkycU8mdUILvt42FJPO3"
+        },
+        "26": {
+            "artist": "Paleface",
+            "ratio": 3,
+            "title": "Dead Man's Diary",
+            "trackid": "5Q5aJljTGmBVAMIUx5Nt3C"
+        },
+        "27": {
+            "artist": "Dexplicit",
+            "ratio": 9,
+            "title": "Might Be (Full Vocal) [feat. Gemma Fox]",
+            "trackid": "75RHynKGWgUvvclAdHw4fQ"
+        },
+        "28": {
+            "artist": "D.E.A. Project",
+            "ratio": 4,
+            "title": "Rush",
+            "trackid": "6PY9EgOoCuoMsRBZsrFOUV"
         }
     },
     "bodywork-w-kaili-23rd-january-2021": {
@@ -2548,15 +2725,17 @@
         },
         "01": {
             "artist": "Tomu DJ",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Bumpville",
-            "trackid": "60rZynxyUDmQk82sB9rs58"
+            "trackid": "60rZynxyUDmQk82sB9rs58",
+            "uri": ""
         },
         "02": {
             "artist": "Tomu DJ",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Bumpville",
-            "trackid": "60rZynxyUDmQk82sB9rs58"
+            "trackid": "60rZynxyUDmQk82sB9rs58",
+            "uri": ""
         },
         "03": {
             "artist": "Tomu DJ",
@@ -2572,9 +2751,10 @@
         },
         "05": {
             "artist": "Tomu DJ",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Bumpville",
-            "trackid": "60rZynxyUDmQk82sB9rs58"
+            "trackid": "60rZynxyUDmQk82sB9rs58",
+            "uri": ""
         },
         "06": {
             "artist": "Tomu DJ",
@@ -3471,9 +3651,10 @@
         },
         "20": {
             "artist": "KiDi",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Cinderella",
-            "trackid": "0zXIxrZiY1EzM1IwkrqPZ4"
+            "trackid": "0zXIxrZiY1EzM1IwkrqPZ4",
+            "uri": ""
         },
         "21": {
             "artist": "pichu",

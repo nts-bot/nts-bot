@@ -915,15 +915,17 @@
         },
         "14": {
             "artist": "Lord Tusk",
-            "ratio": 3,
+            "ratio": -1,
             "title": "True stories",
-            "trackid": "3soDuHTTD2Q1ZLly5d4DWH"
+            "trackid": "3soDuHTTD2Q1ZLly5d4DWH",
+            "uri": ""
         },
         "15": {
             "artist": "DJ Nigga Fox",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Talanzele",
-            "trackid": "6AskVTAkIRDedW1NH0IOJg"
+            "trackid": "6AskVTAkIRDedW1NH0IOJg",
+            "uri": ""
         },
         "16": {
             "artist": "A Tribe Called Quest",
@@ -4779,6 +4781,128 @@
             "ratio": 9,
             "title": "Columbia Rd Uptown",
             "trackid": "46VWdo77tJWhfFaK9LyCLA"
+        }
+    },
+    "cinnamon-sounds-w-chloedees-23rd-december-2022": {
+        "00": {
+            "artist": "Minnie Riperton",
+            "ratio": 9,
+            "title": "Baby, This Love I Have",
+            "trackid": "397fxHew7NyjryGWGr1Imy"
+        },
+        "01": {
+            "artist": "American Matthew",
+            "ratio": 9,
+            "title": "Orange Juice",
+            "trackid": "1am4Vmswd23EKgPVjDDFI3"
+        },
+        "02": {
+            "artist": "Erick Sermon",
+            "ratio": 9,
+            "title": "Freak Out",
+            "trackid": "0V4VFbRr9IhiF3LEs5mrT3"
+        },
+        "03": {
+            "artist": "D'Angelo",
+            "ratio": 9,
+            "title": "Left And Right",
+            "trackid": "4EQ0dK6Sg7v685NGrQvuki"
+        },
+        "04": {
+            "artist": "Wu-Tang Clan",
+            "ratio": 9,
+            "title": "The M.G.M. (feat. Ghostface Killah & Raekwon)",
+            "trackid": "1mxXB3Vsaaw9goChMrQuiK"
+        },
+        "05": {
+            "artist": "Mobb Deep",
+            "ratio": 9,
+            "title": "(The Infamous Prelude)",
+            "trackid": "41sW9ZPxYJCUj0Bw0jfJTT"
+        },
+        "06": {
+            "artist": "Griselda",
+            "ratio": 9,
+            "title": "May Store (feat. Keisha Plum)",
+            "trackid": "31yoOdpVUdqzrjNG5PFILI"
+        },
+        "07": {
+            "artist": "deem spencer",
+            "ratio": 9,
+            "title": "but",
+            "trackid": "0y7gAM4Mp09Ql9kXMaZQ1U"
+        },
+        "08": {
+            "artist": "Kari Faux",
+            "ratio": 9,
+            "title": "Lost En Los Angeles",
+            "trackid": "05uLwUq4Gl4APDYi9QHy6h"
+        },
+        "09": {
+            "artist": "Kamaiyah",
+            "ratio": 9,
+            "title": "Mo Money Mo Problems",
+            "trackid": "63a6znRAj997vjSbIcv1Mp"
+        },
+        "10": {
+            "artist": "D'Angelo",
+            "ratio": 5,
+            "title": "Untitled (How Does It Feel)",
+            "trackid": "4oPNN7syJYSjzDhRerF966"
+        },
+        "11": {
+            "artist": "SIR E.U",
+            "ratio": 9,
+            "title": "Hit Me in the Head",
+            "trackid": "0Xq75j4B234RQZqLXx5145"
+        },
+        "12": {
+            "artist": "D Double E",
+            "ratio": 9,
+            "title": "Lovely Jubbly",
+            "trackid": "43QZEQ4rm0a7ttRaP5sfQl"
+        },
+        "13": {
+            "artist": "Knucks",
+            "ratio": 9,
+            "title": "Nice & Good",
+            "trackid": "0FP75UX2W460N7q2PKrzdh"
+        },
+        "14": {
+            "artist": "LAYLA",
+            "ratio": 9,
+            "title": "Hustla",
+            "trackid": "2bCDRJuBAkvPUYyhF3UanD"
+        },
+        "15": {
+            "artist": "Katie Got Bandz",
+            "ratio": 9,
+            "title": "They Know How I'm Rockin",
+            "trackid": "61IctqnII0ouRV2ZObhziQ"
+        },
+        "16": {
+            "artist": "Young Thug",
+            "ratio": 9,
+            "title": "Special (feat. Offset and Solo Lucci)",
+            "trackid": "1DAl49mec3YC7a3Yc86Gz2"
+        },
+        "17": {
+            "artist": "2 Chainz",
+            "ratio": 9,
+            "title": "Rolls Royce Bitch",
+            "trackid": "0s9Wc5PMMEto8sImSqP4zl"
+        },
+        "18": {
+            "artist": "Jaz Elise",
+            "ratio": 9,
+            "title": "Fresh & Clean (feat. Govana)",
+            "trackid": "7paLSNLK3cp54lk3PLAD9q"
+        },
+        "19": {
+            "artist": "Beres Hammond",
+            "ratio": 9,
+            "title": "Putting Up Resistance",
+            "trackid": "178760G3d5r75lpGJ4FxRE"
         }
     },
     "cinnamon-sounds-w-chloedees-23rd-may-2021": {

@@ -8055,6 +8055,525 @@
             ]
         }
     },
+    "short-circuits-9th-december-2022": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Brendon Moeller",
+                    "title": "On the March",
+                    "uri": "03BZ3IdJuVHc0FTpyUOMjW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Brendon Moeller",
+                    "title": "On the March",
+                    "uri": "03BZ3IdJuVHc0FTpyUOMjW"
+                },
+                {
+                    "artist": "Brendon Moeller",
+                    "title": "On the Fly",
+                    "uri": "2noqFiLZzV5Z50Eyf5AfC3"
+                },
+                {
+                    "artist": "Brendon Moeller",
+                    "title": "Natural High",
+                    "uri": "0MipaVV2aqz544mFEehXaB"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Autohacker",
+                    "title": "Disarray",
+                    "uri": "5AU0oRweDY5W0YNjN1bCaP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hooverphonic",
+                    "title": "Autoharp",
+                    "uri": "0mgwjxzuJ8cRjaRAlUvs33"
+                },
+                {
+                    "artist": "Automatic",
+                    "title": "NRG",
+                    "uri": "3HIBM2AxqoYKxN86XVr4Xe"
+                },
+                {
+                    "artist": "skaiwater",
+                    "title": "auto",
+                    "uri": "6WNv10oAwdyhkYylcOPjFn"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Legowelt",
+                    "title": "Axumisia V S612",
+                    "uri": "7j5gCtzTusotzRTGxQF7cm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Legowelt",
+                    "title": "Axumisia V S612",
+                    "uri": "7j5gCtzTusotzRTGxQF7cm"
+                },
+                {
+                    "artist": "Legowelt",
+                    "title": "Elements of Houz Music",
+                    "uri": "7jvXfMFEIY2VcycosxooPP"
+                },
+                {
+                    "artist": "NERIAH",
+                    "title": "Lego Blocks",
+                    "uri": "01RJQlTi0aR0syDcSFLzTv"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Justin Timberlake",
+                    "title": "Cry Me a River",
+                    "uri": "7Lf7oSEVdzZqTA0kEDSlS5"
+                },
+                {
+                    "artist": "Peaceful Melody",
+                    "title": "Cry Me A River",
+                    "uri": "3cfzDDUaIydvRN0txCJQ3f"
+                },
+                {
+                    "artist": "Dinah Washington",
+                    "title": "Cry Me A River",
+                    "uri": "4ydtQJImyQg6UDFFZBzgxp"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Osheyack",
+                    "title": "Writhe (feat. Nahash)",
+                    "uri": "3VWSAiLtdRnQxzsMksV78v"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Moriarty",
+                    "title": "Oshkosh Blend",
+                    "uri": "7pcDp5pFi0Cu6GaC3BTkiI"
+                },
+                {
+                    "artist": "DJ OSIS",
+                    "title": "Oshey",
+                    "uri": "7tHumEh9OBdLWRT0e6DrZf"
+                },
+                {
+                    "artist": "Dynangel",
+                    "title": "Oshey",
+                    "uri": "4LIOMBdo6NXRPadCFug7f2"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Restive Plaggona",
+                    "title": "Someone Different",
+                    "uri": "3EZ8bQ4kNvmAmarBKLbHWt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Restive Plaggona",
+                    "title": "Someone Different",
+                    "uri": "3EZ8bQ4kNvmAmarBKLbHWt"
+                },
+                {
+                    "artist": "Restive Plaggona",
+                    "title": "Never Recovered",
+                    "uri": "5bhBBIDC7BNVG3B9wMmNK1"
+                },
+                {
+                    "artist": "Restive Plaggona",
+                    "title": "Fragile",
+                    "uri": "5r3hwdfNatWXtpckL5k0b8"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "VELDA",
+                    "title": "Melodic Mind",
+                    "uri": "4vRHOvD3C0sESg8srdkunk"
+                },
+                {
+                    "artist": "VELDA",
+                    "title": "Melodic Space",
+                    "uri": "7ojus18AAOWFneqLSxRyTn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "VELDA",
+                    "title": "Melodic Mind",
+                    "uri": "4vRHOvD3C0sESg8srdkunk"
+                },
+                {
+                    "artist": "VELDA",
+                    "title": "Melodic Flow",
+                    "uri": "6yfkhmXK9eBGGrBMR3ypzt"
+                },
+                {
+                    "artist": "VELDA",
+                    "title": "The Life of an Empath",
+                    "uri": "6SKHpIBF0zImsmqmRkgvwp"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Vakhtang",
+                    "title": "Aesthetics",
+                    "uri": "7DWgJtkXlJZTvwesfGc2Rf"
+                },
+                {
+                    "artist": "Vakhtang",
+                    "title": "Aesthetics - VIP Mix",
+                    "uri": "72eUl61F17imr9m3Fj58gw"
+                },
+                {
+                    "artist": "Vakhtang",
+                    "title": "Aesthetics",
+                    "uri": "0bI1ogA73AfB01O8MWGCzh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Vakhtang",
+                    "title": "Aesthetics",
+                    "uri": "7DWgJtkXlJZTvwesfGc2Rf"
+                },
+                {
+                    "artist": "Vakhtang",
+                    "title": "Aesthetics - VIP Mix",
+                    "uri": "72eUl61F17imr9m3Fj58gw"
+                },
+                {
+                    "artist": "Vakhtang",
+                    "title": "Halo",
+                    "uri": "2FULI3FKesGFRf5lxJxtQv"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Joy Odyssey",
+                    "title": "Divine Perfection",
+                    "uri": "2nOMhdovmqBWbRE1pyEVFV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Joy Odyssey",
+                    "title": "Divine Perfection",
+                    "uri": "2nOMhdovmqBWbRE1pyEVFV"
+                },
+                {
+                    "artist": "Odyssey",
+                    "title": "(Joy) I Know It",
+                    "uri": "0sdVeOosQJCheCJn1QXjzA"
+                },
+                {
+                    "artist": "Joy Odyssey",
+                    "title": "Energy",
+                    "uri": "0uvTwNILQd4n2hm86aQ24S"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "A*S*Y*S",
+                    "title": "Acid Machine - Original Mix",
+                    "uri": "0h7eh8oQICOBZpfdZP7i4G"
+                },
+                {
+                    "artist": "A*S*Y*S",
+                    "title": "Acid Machine - Chapter A Mix",
+                    "uri": "0q1PFBt0YqkMglTybd56MO"
+                },
+                {
+                    "artist": "Nid & Sancy",
+                    "title": "So Where's Your Acid, Brothers?",
+                    "uri": "0acFLJ9QC3iNUKKkofH51g"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "L.T.J. Sound Machine",
+                    "title": "Funky Superfly",
+                    "uri": "4PYrNzb362BIDehFHf6VY8"
+                },
+                {
+                    "artist": "A*S*Y*S",
+                    "title": "The Acid - Original Version",
+                    "uri": "5EK4UC92m4WqdSHYMFwQ2B"
+                },
+                {
+                    "artist": "The Acid Mind",
+                    "title": "A LIVE",
+                    "uri": "4pxWzrpwE4TejAjtbo948B"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Franck",
+                    "title": "Hear The Sound",
+                    "uri": "276lQAZfUAXTvlzpPiSFTw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Franck",
+                    "title": "Hear The Sound",
+                    "uri": "276lQAZfUAXTvlzpPiSFTw"
+                },
+                {
+                    "artist": "Yousef",
+                    "title": "Hear That Sound (feat. The Melody Men)",
+                    "uri": "7177SGzIaSxxkMliTXXX47"
+                },
+                {
+                    "artist": "FRANK",
+                    "title": "Talk",
+                    "uri": "5UqqtFr0eMdnf853hqJCBQ"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lil Wayne",
+                    "title": "Don't Cry (feat. XXXTENTACION)",
+                    "uri": "5BQrp63SHCVf4bzCzJePne"
+                },
+                {
+                    "artist": "XXXTENTACION",
+                    "title": "Revenge",
+                    "uri": "5TXDeTFVRVY7Cvt0Dw4vWW"
+                },
+                {
+                    "artist": "Guns N' Roses",
+                    "title": "Don't Cry (Original)",
+                    "uri": "2N2yrmodOnVF10mKvItC9P"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "These Hidden Hands",
+                    "title": "Shackles",
+                    "uri": "67uGmf9MlfO31lsBvyOm8f"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "These Hidden Hands",
+                    "title": "Shackles",
+                    "uri": "67uGmf9MlfO31lsBvyOm8f"
+                },
+                {
+                    "artist": "These Hidden Hands",
+                    "title": "These Moments Dismantled feat. Lucrecia Dalt",
+                    "uri": "5cG3RANhcFDeYih4wLVOtb"
+                },
+                {
+                    "artist": "Frankenstein World Premiere Cast",
+                    "title": "These Hands",
+                    "uri": "7H89ECHQV7TH4sMZgxwngF"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Sepehr",
+                    "title": "Lavashak Love",
+                    "uri": "4f8Fi52ymVy1XMQ669XqzI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Frigerio & Speriani",
+                    "title": "Lava",
+                    "uri": "4heBqSqvt2IUXCct7FARaZ"
+                },
+                {
+                    "artist": "SHANGUY",
+                    "title": "LAVA",
+                    "uri": "04SqA6UWbJ4yl3Mb2nwKP1"
+                },
+                {
+                    "artist": "семьсот семь",
+                    "title": "lava",
+                    "uri": "34XLQteTAzJ01XFat0308d"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Evita Manji",
+                    "title": "EYES/NOT ENOUGH",
+                    "uri": "7I6XKO0k1hpcsSAUh22neE"
+                },
+                {
+                    "artist": "Evita Manji",
+                    "title": "Eyes/Not Enough",
+                    "uri": "2eO2T0LHWPbHi190J9mllW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Evita Manji",
+                    "title": "Eyes/Not Enough",
+                    "uri": "2eO2T0LHWPbHi190J9mllW"
+                },
+                {
+                    "artist": "Evita Manji",
+                    "title": "Body/Prison",
+                    "uri": "6LqE48CXOxUdElCB0NsP3D"
+                },
+                {
+                    "artist": "Evita Manji",
+                    "title": "Lies?",
+                    "uri": "7lPwdIfAaOP6YCK1TqFOoT"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Michael Shrieve, Klaus Schulze & Kevin Shrieve",
+                    "title": "View from the Window",
+                    "uri": "27OUDiGgqMV9t1vaGwEioR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Michael Shrieve, Klaus Schulze & Kevin Shrieve",
+                    "title": "Communique: Approach Spiral",
+                    "uri": "07YEECpegsDNUyAjJGcG7q"
+                },
+                {
+                    "artist": "edapollo",
+                    "title": "View from the Aeroplane Window",
+                    "uri": "4mM9mgoDCa6NtWsHxe12pr"
+                },
+                {
+                    "artist": "Octavia Spencer",
+                    "title": "The View From Here",
+                    "uri": "6dzGZn4rDJCAXcXOlrOF7v"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "relaiXX",
+                    "title": "Farah",
+                    "uri": "5nkJOhHAWarXUQS5YYoFZu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "relaiXX",
+                    "title": "Farah",
+                    "uri": "5nkJOhHAWarXUQS5YYoFZu"
+                },
+                {
+                    "artist": "Farah Chreim",
+                    "title": "Albi Elou",
+                    "uri": "7uIdrMD04D7jsL7lI6ytTw"
+                },
+                {
+                    "artist": "Dole & Kom",
+                    "title": "Phara Oh",
+                    "uri": "5TrkFfJgrGa1PdAkJO5QAs"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Aïsha Devi",
+                    "title": "Dislocation of the Alpha",
+                    "uri": "1wjuvMpJPh9j2jP0M73G9t"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aïsha Devi",
+                    "title": "Dislocation of the Alpha",
+                    "uri": "1wjuvMpJPh9j2jP0M73G9t"
+                },
+                {
+                    "artist": "Aïsha Devi",
+                    "title": "Mazda",
+                    "uri": "7CuSkUZKSLUMBjW7Hhpiws"
+                },
+                {
+                    "artist": "Aisha D",
+                    "title": "L.S.2.L.V",
+                    "uri": "53IwfduGf1IjvWsler5M6F"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Autechre",
+                    "title": "Second Peng",
+                    "uri": "7dloDjTHlfmyDlXMrscezl"
+                },
+                {
+                    "artist": "Autechre",
+                    "title": "Second Peng",
+                    "uri": "1ERB77u2EGcRMYI16yfYJC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Autechre",
+                    "title": "Second Peng",
+                    "uri": "7dloDjTHlfmyDlXMrscezl"
+                },
+                {
+                    "artist": "Autechre",
+                    "title": "Second Peng",
+                    "uri": "1ERB77u2EGcRMYI16yfYJC"
+                },
+                {
+                    "artist": "Gefunkten",
+                    "title": "Autechre",
+                    "uri": "3YL5nykAw3qkmThhDXHLoj"
+                }
+            ]
+        }
+    },
     "short-circuits-w-cryborg-21st-july-2022": {
         "00": {
             "s0": [
