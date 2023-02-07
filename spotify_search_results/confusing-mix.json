@@ -3389,6 +3389,572 @@
             ]
         }
     },
+    "confusing-mix-3rd-february-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Amon Tobin",
+                    "title": "Slowly",
+                    "uri": "15J6PrzKaLtvw0dBr9sq72"
+                },
+                {
+                    "artist": "Amon Tobin",
+                    "title": "Slowly",
+                    "uri": "1eewp7eZzSgxw6pFrOjeOZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Amon Tobin",
+                    "title": "Slowly",
+                    "uri": "15J6PrzKaLtvw0dBr9sq72"
+                },
+                {
+                    "artist": "Amon Tobin",
+                    "title": "Nova",
+                    "uri": "0lcfJc4pG6xnNmrUlZ9232"
+                },
+                {
+                    "artist": "Amon Tobin",
+                    "title": "Stoney Street",
+                    "uri": "0GeezbrS87YZgXuyksdg2q"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "David Bowie",
+                    "title": "Blackout - 2017 Remaster",
+                    "uri": "5p3dakY9xb0ArzIHUBshm6"
+                },
+                {
+                    "artist": "David Bowie",
+                    "title": "Blackout - Live; 2017 Remaster",
+                    "uri": "4gBGzo2deAnqteLDi79vNi"
+                },
+                {
+                    "artist": "David Bowie",
+                    "title": "Blackout - Live",
+                    "uri": "2hY3AVFV428amZ34XsE1t5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "David Bowie",
+                    "title": "Blackout - 2017 Remaster",
+                    "uri": "5p3dakY9xb0ArzIHUBshm6"
+                },
+                {
+                    "artist": "David Bowie",
+                    "title": "Lazarus",
+                    "uri": "3Vn9oCZbdI1EMO7jxdz2Rc"
+                },
+                {
+                    "artist": "David Bowie",
+                    "title": "Changes - 2015 Remaster",
+                    "uri": "0LrwgdLsFaWh9VXIjBRe8t"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "MF DOOM",
+                    "title": "Mugwort",
+                    "uri": "0nqJB3Urv0I9E4w3JCfWBd"
+                },
+                {
+                    "artist": "MF DOOM",
+                    "title": "Mugwort",
+                    "uri": "5ZTqJ850VCzKVZoablAAWZ"
+                },
+                {
+                    "artist": "MF DOOM",
+                    "title": "Mugwort + Cinnamon = Shifting Lanes Ft. Kurious",
+                    "uri": "1gKNjEcG5hwpNhoKoL65Tl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "MF DOOM",
+                    "title": "Mugwort",
+                    "uri": "0nqJB3Urv0I9E4w3JCfWBd"
+                },
+                {
+                    "artist": "MF DOOM",
+                    "title": "Mugwort",
+                    "uri": "5ZTqJ850VCzKVZoablAAWZ"
+                },
+                {
+                    "artist": "MF DOOM",
+                    "title": "Rapp Snitch Knishes feat. Mr. Fantastik",
+                    "uri": "5KUNwkaNf8l5A9sXZhiCgI"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "George Harrison",
+                    "title": "Pure Smokey - Remastered 2004",
+                    "uri": "7jkhWo9VpzdPXxcqKQo1Ip"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "George Harrison",
+                    "title": "Pure Smokey - Remastered 2004",
+                    "uri": "7jkhWo9VpzdPXxcqKQo1Ip"
+                },
+                {
+                    "artist": "George Harrison",
+                    "title": "If Not For You - Remastered 2014",
+                    "uri": "7ykaUgkdQWJLsMuOymTV2A"
+                },
+                {
+                    "artist": "George Harrison",
+                    "title": "Got My Mind Set On You - Remastered 2004",
+                    "uri": "3OeUlriM0EZHdWleJtjoVr"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Tribalistas",
+                    "title": "Já Sei Namorar - 2004 Digital Remaster",
+                    "uri": "352FuGmGJClPjojSYjNrXG"
+                },
+                {
+                    "artist": "Tribalistas",
+                    "title": "Já Sei Namorar - Ao Vivo",
+                    "uri": "5IGCmsQqWVQEXDNX3owDuL"
+                },
+                {
+                    "artist": "Tribalistas",
+                    "title": "Já Sei Namorar - Ao Vivo",
+                    "uri": "4P9mJWRzK7F55HzdAEYVn7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tribalistas",
+                    "title": "Já Sei Namorar - 2004 Digital Remaster",
+                    "uri": "352FuGmGJClPjojSYjNrXG"
+                },
+                {
+                    "artist": "Tribalistas",
+                    "title": "Já Sei Namorar - Ao Vivo",
+                    "uri": "5IGCmsQqWVQEXDNX3owDuL"
+                },
+                {
+                    "artist": "BT Band",
+                    "title": "Ja Sei Namorar - Performed By Tribalistas",
+                    "uri": "1QERX2yQu2NGz1U7PKnSDI"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Australian Crawl",
+                    "title": "Reckless (Don't Be So...) - Remastered",
+                    "uri": "5XKw4mezzmvfzbHTFx6AwV"
+                },
+                {
+                    "artist": "Australian Crawl",
+                    "title": "Reckless (Don't Be So...) - Remastered",
+                    "uri": "5qIdgtMxQAejDLJtzeoEkA"
+                },
+                {
+                    "artist": "Australian Crawl",
+                    "title": "Reckless (Don't Be So...) - Remastered",
+                    "uri": "3PkbNfcc2v9tIaXomagmCE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Australian Crawl",
+                    "title": "Reckless (Don't Be So...) - Remastered",
+                    "uri": "5XKw4mezzmvfzbHTFx6AwV"
+                },
+                {
+                    "artist": "Australian Crawl",
+                    "title": "Reckless (Don't Be So...) - Remastered",
+                    "uri": "5qIdgtMxQAejDLJtzeoEkA"
+                },
+                {
+                    "artist": "Australian Crawl",
+                    "title": "The Boys Light Up - Remastered 2013",
+                    "uri": "687i9z2ZCKNfzpmzs7HxOu"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Jeff Beck",
+                    "title": "Beck's Bolero",
+                    "uri": "1IG6purgRT5L42cSMs7TJz"
+                },
+                {
+                    "artist": "Jeff Beck",
+                    "title": "Beck’s Bolero - Live",
+                    "uri": "7r9ry2DXKFnGZEearAydYy"
+                },
+                {
+                    "artist": "Jeff Beck",
+                    "title": "Beck's Bolero - 2005 Remaster",
+                    "uri": "7DmOJhzeLuAffkAVwGk2MX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jeff Beck",
+                    "title": "Beck's Bolero",
+                    "uri": "1IG6purgRT5L42cSMs7TJz"
+                },
+                {
+                    "artist": "Jeff Beck",
+                    "title": "Beck's Bolero - 2005 Remaster",
+                    "uri": "7DmOJhzeLuAffkAVwGk2MX"
+                },
+                {
+                    "artist": "Jeff Beck",
+                    "title": "Cause We've Ended as Lovers",
+                    "uri": "4zoQ3EqopTIGmK2c2rPV5t"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "YELLOW MAGIC ORCHESTRA",
+                    "title": "コズミック・サーフィン",
+                    "uri": "2hb5Y2ekPkp5op14DId3JW"
+                },
+                {
+                    "artist": "Rolexz",
+                    "title": "Light In The Dark",
+                    "uri": "7FtnyPTFYgngcrMk9OKiGu"
+                },
+                {
+                    "artist": "YMN.Marko",
+                    "title": "Party In Starkville",
+                    "uri": "6szncOJ1O5zi0BDLrUOEDS"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Babe Ruth",
+                    "title": "The Mexican",
+                    "uri": "0FFbJzXvag9ZRel7oNa1wU"
+                },
+                {
+                    "artist": "Babe Ruth",
+                    "title": "The Mexican - 2007 Remaster",
+                    "uri": "3Y0O6CiCqe3iPfWCNXSnkq"
+                },
+                {
+                    "artist": "Babe Ruth",
+                    "title": "The Mexican (Edit)",
+                    "uri": "79fX1ByA971MVWIVTbdpVb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Babe Ruth",
+                    "title": "The Mexican",
+                    "uri": "0FFbJzXvag9ZRel7oNa1wU"
+                },
+                {
+                    "artist": "Babe Ruth",
+                    "title": "The Mexican - 2007 Remaster",
+                    "uri": "3Y0O6CiCqe3iPfWCNXSnkq"
+                },
+                {
+                    "artist": "Babe Ruth",
+                    "title": "The Mexican (Edit)",
+                    "uri": "79fX1ByA971MVWIVTbdpVb"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nas",
+                    "title": "It Ain't Hard to Tell",
+                    "uri": "1wvU1iYbmzf8tC3IKVDaZE"
+                },
+                {
+                    "artist": "Nas",
+                    "title": "It Ain't Hard to Tell - The Stink Mix",
+                    "uri": "6EaJi2y70UllLyYpZTKFUU"
+                },
+                {
+                    "artist": "Primero",
+                    "title": "Donnie",
+                    "uri": "0GH8JLi4Vs2altQzvgr8xo"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Philip Glass",
+                    "title": "String Quartet No. 3 (Mishima): Mishima / Closing",
+                    "uri": "5vLXxf56Rj8dNYhg3F22Of"
+                },
+                {
+                    "artist": "Philip Glass",
+                    "title": "String Quartet No. 3 (Mishima): Mishima / Closing",
+                    "uri": "23E6uT0zTJrY1xZlhDjh8m"
+                },
+                {
+                    "artist": "Philip Glass",
+                    "title": "String Quartet No. 3, \"Mishima\": VI. Mishima / Closing",
+                    "uri": "4qZh3yJ7tILlDD0Wmv7Ftj"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Otis the 3rd",
+                    "title": "Time",
+                    "uri": "69isaB56OB57sPDKoucYym"
+                },
+                {
+                    "artist": "Otis the 3rd",
+                    "title": "Time",
+                    "uri": "7kLqtnUjUqKwAbtTlxO5JN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Otis the 3rd",
+                    "title": "Time",
+                    "uri": "69isaB56OB57sPDKoucYym"
+                },
+                {
+                    "artist": "Otis Sandsjö",
+                    "title": "Tremendoce, Pt. 3",
+                    "uri": "0oKWtBuUAcKUVYAfBA1Iq5"
+                },
+                {
+                    "artist": "Otis McDonald",
+                    "title": "Other Way Pt. III",
+                    "uri": "5R8AtyGQEbBU1xOGHi5vgA"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Herbie Hancock",
+                    "title": "Watermelon Man",
+                    "uri": "2zQl59dZMzwhrmeSBEgiXY"
+                },
+                {
+                    "artist": "Herbie Hancock",
+                    "title": "Watermelon Man",
+                    "uri": "5rmcFRG9Lp6KK92CMQWxfD"
+                },
+                {
+                    "artist": "Herbie Hancock",
+                    "title": "Watermelon Man - Remastered",
+                    "uri": "38xcUjiTP1ivfb7ObwjyGA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Herbie Hancock",
+                    "title": "Watermelon Man",
+                    "uri": "2zQl59dZMzwhrmeSBEgiXY"
+                },
+                {
+                    "artist": "Herbie Hancock",
+                    "title": "Watermelon Man - Remastered",
+                    "uri": "38xcUjiTP1ivfb7ObwjyGA"
+                },
+                {
+                    "artist": "The Malkovii",
+                    "title": "Chalk",
+                    "uri": "3inz4VxMVukiZ1wNejlqZc"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Marvin Gaye",
+                    "title": "After The Dance - Instrumental",
+                    "uri": "3nKhnU9IYG8y52LKJ1YI1g"
+                },
+                {
+                    "artist": "Marvin Gaye",
+                    "title": "After The Dance - Instrumental",
+                    "uri": "3dY5LWWS0gqGPB81JY2fRh"
+                },
+                {
+                    "artist": "Marvin Gaye",
+                    "title": "After The Dance - Instrumental - Alternate Version",
+                    "uri": "3kH98Wkxnutl73pxsVk0xR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Marvin Gaye",
+                    "title": "After The Dance - Instrumental",
+                    "uri": "3nKhnU9IYG8y52LKJ1YI1g"
+                },
+                {
+                    "artist": "Marvin Gaye",
+                    "title": "After The Dance - Instrumental",
+                    "uri": "3dY5LWWS0gqGPB81JY2fRh"
+                },
+                {
+                    "artist": "Marvin Gaye",
+                    "title": "After The Dance",
+                    "uri": "0m6i2lZNgIV4OOyEkFlKFz"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Harry Nilsson",
+                    "title": "Me and My Arrow",
+                    "uri": "5KjRITicSHJM88w3U9LwLM"
+                },
+                {
+                    "artist": "Harry Nilsson",
+                    "title": "Me and My Arrow",
+                    "uri": "2mu9OugimnRTNK8C3pKt88"
+                },
+                {
+                    "artist": "Harry Nilsson",
+                    "title": "Me and My Arrow",
+                    "uri": "2DBTHR2fbBHcNNKk46EUrI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Harry Nilsson",
+                    "title": "Me and My Arrow",
+                    "uri": "5KjRITicSHJM88w3U9LwLM"
+                },
+                {
+                    "artist": "Nilsen",
+                    "title": "Krise mit der Frise",
+                    "uri": "6GYfoC8eyRRc7Puv2EUyxB"
+                },
+                {
+                    "artist": "Nilsen",
+                    "title": "Piraten",
+                    "uri": "3BQ4fSmv779dXErk3lKKAe"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "CHIC",
+                    "title": "Soup for One",
+                    "uri": "2Rr4ZOnKXUrzjhMPkmkRjK"
+                },
+                {
+                    "artist": "CHIC",
+                    "title": "Soup for One",
+                    "uri": "0QF9u4OZhxte33Li1qjhcX"
+                },
+                {
+                    "artist": "CHIC",
+                    "title": "Soup for One - 12\" Version",
+                    "uri": "1CgqbYVBT215E0gIYJc18r"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "CHIC",
+                    "title": "Soup for One",
+                    "uri": "2Rr4ZOnKXUrzjhMPkmkRjK"
+                },
+                {
+                    "artist": "CHIC",
+                    "title": "Soup for One",
+                    "uri": "0QF9u4OZhxte33Li1qjhcX"
+                },
+                {
+                    "artist": "CHIC",
+                    "title": "Soup for One - 12\" Version",
+                    "uri": "1CgqbYVBT215E0gIYJc18r"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "The Rolling Stones",
+                    "title": "Too Much Blood - Remastered",
+                    "uri": "5tSTWhMTSGAvbJsyUP79kf"
+                },
+                {
+                    "artist": "The Rolling Stones",
+                    "title": "Too Much Blood - Remastered",
+                    "uri": "0vTM49QVJlk0KKZKgBuFjs"
+                },
+                {
+                    "artist": "The Rolling Stones",
+                    "title": "Too Much Blood - Remastered",
+                    "uri": "0llVmVvhhn5vS5OdiYhq8C"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Rolling Stones",
+                    "title": "Too Much Blood - Remastered",
+                    "uri": "5tSTWhMTSGAvbJsyUP79kf"
+                },
+                {
+                    "artist": "Queen",
+                    "title": "Too Much Love Will Kill You - Remastered 2011",
+                    "uri": "0W1uTK6I97CbjFKAVtRGfK"
+                },
+                {
+                    "artist": "Queen",
+                    "title": "Too Much Love Will Kill You",
+                    "uri": "6a0bGgN3heaoN211kvpCEz"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Robert Fripp",
+                    "title": "Evening Star",
+                    "uri": "5lpw5NewnpIgO1yal6Vjl4"
+                },
+                {
+                    "artist": "Robert Fripp",
+                    "title": "Evensong",
+                    "uri": "3LG2OxAR616MOrTH8EQg9i"
+                },
+                {
+                    "artist": "Robert Fripp",
+                    "title": "Wind On Water",
+                    "uri": "3PpLfTKoQtN2s2GPmrSrWt"
+                }
+            ]
+        }
+    },
     "confusing-mix-3rd-may-2019": {
         "00": {
             "s0": "",

@@ -3645,6 +3645,516 @@
             ]
         }
     },
+    "peter-doyle-6th-february-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Donald Fagen",
+                    "title": "I.G.Y.",
+                    "uri": "6bzwsAtj4TqaBysLDrGiO3"
+                },
+                {
+                    "artist": "Donald Fagen",
+                    "title": "The Nightfly",
+                    "uri": "7icC0mHYpROmIRhpa2DaFC"
+                },
+                {
+                    "artist": "Donald Fagen",
+                    "title": "Maxine",
+                    "uri": "7fW59TD8pQRSobXp3BslSd"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Illdisposed",
+                    "title": "...For the Dead",
+                    "uri": "4gAiYtELjejepUrDm0rts9"
+                },
+                {
+                    "artist": "Illdisposed",
+                    "title": "To Those Who Walk Behind Me",
+                    "uri": "5i1AfHjMusaDaZYv0uRteW"
+                },
+                {
+                    "artist": "Illdisposed",
+                    "title": "Jeff",
+                    "uri": "1vh7vBxeu8KN70UuyIWnbQ"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Fontaines D.C.",
+                    "title": "The Cuckoo Is A-Callin'",
+                    "uri": "6oKRucpYKHiaHu5cj6yeRv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fontaines D.C.",
+                    "title": "The Cuckoo Is A-Callin'",
+                    "uri": "6oKRucpYKHiaHu5cj6yeRv"
+                },
+                {
+                    "artist": "Fontaines D.C.",
+                    "title": "Jackie Down The Line",
+                    "uri": "3ITvhrRB5TlEks19k9qy2k"
+                },
+                {
+                    "artist": "Fontaines D.C.",
+                    "title": "Roman Holiday",
+                    "uri": "7MWIc6p9uOACLHGzzP9On7"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Niamh Bury",
+                    "title": "Down By The Glenside",
+                    "uri": "2HrCcSamSTuNFDRxguGyiR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Niamh Bury",
+                    "title": "Down By The Glenside",
+                    "uri": "2HrCcSamSTuNFDRxguGyiR"
+                },
+                {
+                    "artist": "Niamh Bury",
+                    "title": "Erin go Bragh",
+                    "uri": "1Mka5TLzBDkzmJ6N8239Bt"
+                },
+                {
+                    "artist": "The Dubliners",
+                    "title": "Down by the Glenside",
+                    "uri": "4l52I3XBvt9BT9uf33xkuf"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "The Dubliners",
+                    "title": "The Old Alarm Clock - 1993 Remaster",
+                    "uri": "4jI9vADfdOFzUBRynKFnW9"
+                },
+                {
+                    "artist": "The Dubliners",
+                    "title": "The Old Alarm Clock - 2012 Remaster",
+                    "uri": "5X5OZBqvDhpg8LZyaC8BvW"
+                },
+                {
+                    "artist": "The Dubliners",
+                    "title": "The Old Alarm Clock - 2012 Remaster",
+                    "uri": "4QLbn1e8N2Ne0hNPmWQTsR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Dubliners",
+                    "title": "The Rocky Road to Dublin",
+                    "uri": "69YlBCiOySCIwCAsjJ1EgJ"
+                },
+                {
+                    "artist": "The Dubliners",
+                    "title": "Seven Drunken Nights",
+                    "uri": "0mBgPugbdJQCIAy0YMxG26"
+                },
+                {
+                    "artist": "The Dubliners",
+                    "title": "The Rocky Road to Dublin - Live",
+                    "uri": "6Mer1LOfJDd7vUbeWXODrq"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Cat Power",
+                    "title": "Ye Auld Triangle",
+                    "uri": "2htMSDoUK6xIeLJiatmTw0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cat Power",
+                    "title": "Ye Auld Triangle",
+                    "uri": "2htMSDoUK6xIeLJiatmTw0"
+                },
+                {
+                    "artist": "Cat Power",
+                    "title": "The Greatest",
+                    "uri": "0OVXLPJPDCFn1IV6bFxY1N"
+                },
+                {
+                    "artist": "Cat Power",
+                    "title": "Sea of Love",
+                    "uri": "33kKcOJoyNduHwXhEnga8X"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Peggy Seeger",
+                    "title": "Song of Choice",
+                    "uri": "2Wslp0K41bLatiyWzrPoBt"
+                },
+                {
+                    "artist": "Peggy Seeger",
+                    "title": "The Ballad of Accounting",
+                    "uri": "1dUHphiDapcUvQcK2xsY29"
+                },
+                {
+                    "artist": "Ewan MacColl",
+                    "title": "Aikendrum",
+                    "uri": "75WI3j7wJcwSzX3CmQ4BCM"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Yves Montand",
+                    "title": "Les feuilles mortes",
+                    "uri": "4yKTDPH6iRBHmA44AipmIk"
+                },
+                {
+                    "artist": "Yves Montand",
+                    "title": "Les Feuilles Mortes",
+                    "uri": "73vG2IL6fSv9BAzCrMizce"
+                },
+                {
+                    "artist": "Yves Montand",
+                    "title": "Les feuilles mortes - Version alternative 1962",
+                    "uri": "2TdBY6BEReusluT1NAyg9V"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Yves Montand",
+                    "title": "Les feuilles mortes",
+                    "uri": "4yKTDPH6iRBHmA44AipmIk"
+                },
+                {
+                    "artist": "Yves Montand",
+                    "title": "Les Feuilles Mortes",
+                    "uri": "73vG2IL6fSv9BAzCrMizce"
+                },
+                {
+                    "artist": "Yves Montand",
+                    "title": "Les feuilles mortes",
+                    "uri": "5sL1Z4hmm3hXApNB5eJTYN"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tommy Dorsey Orchestra",
+                    "title": "I’m Getting Sentimental Over You",
+                    "uri": "07wsLEzUCjgZqhBQsTc3P6"
+                },
+                {
+                    "artist": "Tommy Dorsey Orchestra",
+                    "title": "Swanee River",
+                    "uri": "54mhWzphzXhNi5dNaIh8KY"
+                },
+                {
+                    "artist": "Tommy Dorsey",
+                    "title": "Violets for Your Furs (with Frank Sinatra)",
+                    "uri": "3y6XZBBVreX3wKuGbIE1R0"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Lou Reed",
+                    "title": "Power and Glory (The Situation)",
+                    "uri": "4Se5iRlvKznrS8pC3cy8Yt"
+                },
+                {
+                    "artist": "Lou Reed",
+                    "title": "Power and Glory (The Situation)",
+                    "uri": "4Rh2XVBJMzFQEYexauJS65"
+                },
+                {
+                    "artist": "Lou Reed",
+                    "title": "Power and Glory Pat II (Magic Transformation)",
+                    "uri": "5PbWDhtbtXXTmb2Ya98WyD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lou Reed",
+                    "title": "Walk On the Wild Side",
+                    "uri": "5p3JunprHCxClJjOmcLV8G"
+                },
+                {
+                    "artist": "Lou Reed",
+                    "title": "Charley's Girl",
+                    "uri": "70tBw295bLL8B13Jg3SNUs"
+                },
+                {
+                    "artist": "Lou Reed",
+                    "title": "Vicious",
+                    "uri": "4A48NL57P16zSRaq3yoYry"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Chet Baker",
+                    "title": "I Fall In Love Too Easily",
+                    "uri": "0F845nujLVqCb0XMZCh5Pc"
+                },
+                {
+                    "artist": "Chet Baker",
+                    "title": "I Fall In Love Too Easily",
+                    "uri": "2exGpkwxFIvyBHjTdkGFli"
+                },
+                {
+                    "artist": "Chet Baker Quartet",
+                    "title": "I Fall In Love Too Easily - 1953 Version",
+                    "uri": "72YBOz8pejc7v5G8Jstfun"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chet Baker",
+                    "title": "I Fall In Love Too Easily",
+                    "uri": "0F845nujLVqCb0XMZCh5Pc"
+                },
+                {
+                    "artist": "Chet Baker",
+                    "title": "I Fall In Love Too Easily",
+                    "uri": "2exGpkwxFIvyBHjTdkGFli"
+                },
+                {
+                    "artist": "Chet Baker",
+                    "title": "My Funny Valentine",
+                    "uri": "4l9hml2UCnxoNI3yCdL1BW"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Thin Lizzy",
+                    "title": "Dublin",
+                    "uri": "0ih8SJqOtEBbH0MLROfbdA"
+                },
+                {
+                    "artist": "Thin Lizzy",
+                    "title": "Dublin - 1977 Overdubbed & Remixed Version",
+                    "uri": "47SSHDX9WUdyIXO8HTTRWw"
+                },
+                {
+                    "artist": "Thin Lizzy",
+                    "title": "Chinatown - Live at RDS Hall, Dublin, 1980",
+                    "uri": "4N0pjaLt1oICdTz9JP4Erj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Thin Lizzy",
+                    "title": "Dublin",
+                    "uri": "0ih8SJqOtEBbH0MLROfbdA"
+                },
+                {
+                    "artist": "Thin Lizzy",
+                    "title": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
+                    "uri": "6BmzbaB08O0FjHXeS0cR5b"
+                },
+                {
+                    "artist": "Thin Lizzy",
+                    "title": "The Boys Are Back In Town",
+                    "uri": "43DeSV93pJPT4lCZaWZ6b1"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "The Beach Boys",
+                    "title": "Disney Girls (1957)",
+                    "uri": "27mws0ZTKLE1lzLbE8i7oQ"
+                },
+                {
+                    "artist": "The Beach Boys",
+                    "title": "Disney Girls (1957) - Remastered 2009",
+                    "uri": "17qLiavc8woWHAPAGZD0Py"
+                },
+                {
+                    "artist": "The Beach Boys",
+                    "title": "Disney Girls (1957)",
+                    "uri": "2jpGwJp8AlFp3Inxb9Cayf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Beach Boys",
+                    "title": "Disney Girls (1957) - Remastered 2009",
+                    "uri": "17qLiavc8woWHAPAGZD0Py"
+                },
+                {
+                    "artist": "The Beach Boys",
+                    "title": "Kokomo",
+                    "uri": "5qHYXcVvc9xsFB2uH7GpMN"
+                },
+                {
+                    "artist": "The Beach Boys",
+                    "title": "God Only Knows - Mono / 1997 Remastered",
+                    "uri": "6iGU74CwXuT4XVepjc9Emf"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Fontaines D.C.",
+                    "title": "A Hero's Death - Soulwax Remix",
+                    "uri": "2SHfsvx6kgQnbWD1us8RGp"
+                },
+                {
+                    "artist": "Fontaines D.C.",
+                    "title": "A Hero's Death - Soulwax Remix",
+                    "uri": "4UAWzUVqYmpZJ1jUS8gZ64"
+                },
+                {
+                    "artist": "Fontaines D.C.",
+                    "title": "A Hero's Death",
+                    "uri": "73hG0v4UZTDFVfglRx43Ky"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fontaines D.C.",
+                    "title": "A Hero's Death - Soulwax Remix",
+                    "uri": "2SHfsvx6kgQnbWD1us8RGp"
+                },
+                {
+                    "artist": "Fontaines D.C.",
+                    "title": "You Said",
+                    "uri": "6Xc20TtVbAAoxGIKHEqIwQ"
+                },
+                {
+                    "artist": "Fontaines D.C.",
+                    "title": "I Don't Belong",
+                    "uri": "4xCA8KYdeVe3AmTTEYJtVp"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Chet Baker",
+                    "title": "My Funny Valentine",
+                    "uri": "4l9hml2UCnxoNI3yCdL1BW"
+                },
+                {
+                    "artist": "Chet Baker",
+                    "title": "My Funny Valentine",
+                    "uri": "0gv1lAG1KH6xezSe20bxoV"
+                },
+                {
+                    "artist": "Chet Baker",
+                    "title": "My Funny Valentine",
+                    "uri": "3YweOPWIsuHj8ot7K3Wvg3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chet Baker",
+                    "title": "My Funny Valentine",
+                    "uri": "4l9hml2UCnxoNI3yCdL1BW"
+                },
+                {
+                    "artist": "Chet Baker",
+                    "title": "My Funny Valentine",
+                    "uri": "3YweOPWIsuHj8ot7K3Wvg3"
+                },
+                {
+                    "artist": "Chet Baker",
+                    "title": "I Fall In Love Too Easily",
+                    "uri": "0F845nujLVqCb0XMZCh5Pc"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Jefferson Airplane",
+                    "title": "Today",
+                    "uri": "0yLfXULLuRtVj2L4DIrwO7"
+                },
+                {
+                    "artist": "Jefferson Airplane",
+                    "title": "Today",
+                    "uri": "2vI5jbCSgh5cDwstFQvBAj"
+                },
+                {
+                    "artist": "Jefferson Airplane",
+                    "title": "Today",
+                    "uri": "63vmnTxDJwXeFQH2FWmdiZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jefferson Airplane",
+                    "title": "Today",
+                    "uri": "0yLfXULLuRtVj2L4DIrwO7"
+                },
+                {
+                    "artist": "Jefferson Airplane",
+                    "title": "White Rabbit",
+                    "uri": "4vpeKl0vMGdAXpZiQB2Dtd"
+                },
+                {
+                    "artist": "Jefferson Airplane",
+                    "title": "Somebody to Love",
+                    "uri": "4uGIJG1jYFonGc4LGp5uQL"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Planxty",
+                    "title": "Si Bheag, Si Mhor",
+                    "uri": "5pZOSPVTvGXd5qOv1srfSz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Planxty",
+                    "title": "Si Bheag, Si Mhor",
+                    "uri": "5pZOSPVTvGXd5qOv1srfSz"
+                },
+                {
+                    "artist": "Planxty",
+                    "title": "Cunla",
+                    "uri": "1JzKegGM0HGijQVdcnNiLx"
+                },
+                {
+                    "artist": "Straumr",
+                    "title": "Sí Bheag, Sí Mhór",
+                    "uri": "0NwRp4yV3XfJV8MTkBWfNf"
+                }
+            ]
+        }
+    },
     "peter-doyle-7th-february-2022": {
         "00": {
             "s0": [
