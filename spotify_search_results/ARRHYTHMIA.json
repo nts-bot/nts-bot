@@ -5417,6 +5417,602 @@
             ]
         }
     },
+    "ARRHYTHMIA-7th-february-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "BIG|BRAVE",
+                    "title": "carvers, farriers and knaves",
+                    "uri": "1bjPPtEidCNZnGx4TEtIeC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "BIG|BRAVE",
+                    "title": "carvers, farriers and knaves",
+                    "uri": "1bjPPtEidCNZnGx4TEtIeC"
+                },
+                {
+                    "artist": "BIG|BRAVE",
+                    "title": "Muted Shifting of Space",
+                    "uri": "2cdoqLLpuKzQ4h2OoZ0aML"
+                },
+                {
+                    "artist": "BIG|BRAVE",
+                    "title": "the fable of subjugation",
+                    "uri": "7comDe9mcfJQGIF6EbecAg"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Natalia Beylis",
+                    "title": "Prophecy of the Beetle",
+                    "uri": "4gjCshtGSkoqexbL1lPu9j"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Claire Rosinkranz",
+                    "title": "Frankenstein",
+                    "uri": "1xSmjB0t19q4CSJ0X0ymGB"
+                },
+                {
+                    "artist": "Claire Rosinkranz",
+                    "title": "Backyard Boy",
+                    "uri": "0QpOqKz66ZxHNqj2PPHiFF"
+                },
+                {
+                    "artist": "Claire Rosinkranz",
+                    "title": "i'm too pretty for this",
+                    "uri": "4shULiz3P7luscRsQobtDN"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Bill Nace",
+                    "title": "Boil First",
+                    "uri": "00gCuR71UJMdSiHIp4Es8k"
+                },
+                {
+                    "artist": "Bill Nace",
+                    "title": "Boil First",
+                    "uri": "2VlqXVPicQ0vvBlivOK1Sg"
+                },
+                {
+                    "artist": "Bill Nace",
+                    "title": "Boil First",
+                    "uri": "58zv90WWwn9WSHitdCktMO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bill Nace",
+                    "title": "Boil First",
+                    "uri": "00gCuR71UJMdSiHIp4Es8k"
+                },
+                {
+                    "artist": "Bill Nace",
+                    "title": "Part 7",
+                    "uri": "3upg7MLg49lcVaWnPpUzyT"
+                },
+                {
+                    "artist": "Bill Cantos",
+                    "title": "Sleigh Ride",
+                    "uri": "1YrVIuRdDYU9eWBBzw1QUC"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Deliluh",
+                    "title": "X-Neighbourhood",
+                    "uri": "38oy0eVnTvQHaw6Jfo9n3Y"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Deliluh",
+                    "title": "X-Neighbourhood",
+                    "uri": "38oy0eVnTvQHaw6Jfo9n3Y"
+                },
+                {
+                    "artist": "Deliluh",
+                    "title": "Amulet",
+                    "uri": "5L9Ep8E6skMbdOJg8VZtEO"
+                },
+                {
+                    "artist": "Deliluh",
+                    "title": "Credence (ash in the Winds of Reason)",
+                    "uri": "1HdLnM1KfjHBpGnLH46ls8"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Maxine Funke",
+                    "title": "Rearview",
+                    "uri": "6ZR2lfRA8ejdJ8yWd5QMZV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Maxine Funke",
+                    "title": "Rearview",
+                    "uri": "6ZR2lfRA8ejdJ8yWd5QMZV"
+                },
+                {
+                    "artist": "Maxine Funke",
+                    "title": "Fairy Baby",
+                    "uri": "0jhFUuxAhlBxuSrus6FTp3"
+                },
+                {
+                    "artist": "Maxine Funke",
+                    "title": "Moody Relish",
+                    "uri": "6Dnb1delkk380XVyW9jtpm"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Aunt Sally",
+                    "title": "I Was Chosen",
+                    "uri": "4ACS84uR19MwSRHPt3nnY0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aunt Sally",
+                    "title": "I Was Chosen",
+                    "uri": "4ACS84uR19MwSRHPt3nnY0"
+                },
+                {
+                    "artist": "Aunt Sally",
+                    "title": "New Chapter",
+                    "uri": "0ZuKysoetond2zj9rnZTw0"
+                },
+                {
+                    "artist": "Aunt Sally",
+                    "title": "Red Ocean",
+                    "uri": "2BBLylOM07SxCFLCFVNZN3"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Burd Ellen",
+                    "title": "The Lovers",
+                    "uri": "0kCQPx7JQn3Uy2O3lIPMgh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Burd Ellen",
+                    "title": "The Lovers",
+                    "uri": "0kCQPx7JQn3Uy2O3lIPMgh"
+                },
+                {
+                    "artist": "Burd Ellen",
+                    "title": "The Hermit",
+                    "uri": "5LVkxYahuPHk2bkUtwjaHv"
+                },
+                {
+                    "artist": "Burd Ellen",
+                    "title": "The Fool",
+                    "uri": "4tNWEgQ8qpM9kOJVwCKMaF"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Meg Baird",
+                    "title": "Ashes, Ashes",
+                    "uri": "3ZqUHzip0pegi8A6qzQMX0"
+                },
+                {
+                    "artist": "Meg Baird",
+                    "title": "Ashes, Ashes",
+                    "uri": "5J58rIrTTfMoZUjJzNle43"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Meg Baird",
+                    "title": "Ashes, Ashes",
+                    "uri": "3ZqUHzip0pegi8A6qzQMX0"
+                },
+                {
+                    "artist": "Meg Baird",
+                    "title": "Ashes, Ashes",
+                    "uri": "5J58rIrTTfMoZUjJzNle43"
+                },
+                {
+                    "artist": "Braden Barrie",
+                    "title": "Ashes",
+                    "uri": "7nhVMjlVGCFHbjd8eN9QT9"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Rachel Newton",
+                    "title": "Skye Air",
+                    "uri": "6UbvjDgvUBkL6gTleSOBu4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rachel Newton",
+                    "title": "Skye Air",
+                    "uri": "6UbvjDgvUBkL6gTleSOBu4"
+                },
+                {
+                    "artist": "Rachel Newton",
+                    "title": "Here's My Heart Come Take It",
+                    "uri": "1ZjhujPNzBbj9cZYaqfhQQ"
+                },
+                {
+                    "artist": "Rachel Bennett",
+                    "title": "Wings",
+                    "uri": "088UYLMtCya2Oyt83yvn87"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Angeline Morrison",
+                    "title": "Go Home",
+                    "uri": "7p2mYXrMmffBY2khFi3P6x"
+                },
+                {
+                    "artist": "Angeline Morrison",
+                    "title": "Go Home",
+                    "uri": "6Ainc9dAhAS5DF9qtqj4eB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Angeline Morrison",
+                    "title": "Go Home",
+                    "uri": "7p2mYXrMmffBY2khFi3P6x"
+                },
+                {
+                    "artist": "Angeline Morrison",
+                    "title": "Hide Yourself",
+                    "uri": "0UZHw4Yq8FTJk6VvXz7EHp"
+                },
+                {
+                    "artist": "Groove Coverage",
+                    "title": "Angeline - Cc.K Remix Edit",
+                    "uri": "4AjljcqepUoNVf8Ysh4AbQ"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Novuh Kaine",
+                    "title": "Shovel",
+                    "uri": "0nchwFQej0QfDcLPAVUxPp"
+                },
+                {
+                    "artist": "Mark Knight",
+                    "title": "Selecao",
+                    "uri": "5Xd12DZ8P8l58jxy0siQtD"
+                },
+                {
+                    "artist": "Rachel Paskal",
+                    "title": "Shovel and Wave",
+                    "uri": "09oGjXIBwJ9bBoQ44CBXGH"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Stick in the Wheel",
+                    "title": "As I Roved Out",
+                    "uri": "08o3i8x60RbW6UgYvpl3oN"
+                },
+                {
+                    "artist": "Stick in the Wheel",
+                    "title": "As I Roved Out",
+                    "uri": "0rr5rPCMXff33N0L1cKtDm"
+                },
+                {
+                    "artist": "Stick in the Wheel",
+                    "title": "As I Roved Out - EAN Remix",
+                    "uri": "4PQ2sGB6Xcc1HEYLjwF0cE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Stick in the Wheel",
+                    "title": "Villon Song",
+                    "uri": "4iwy5XblUj4v8iC0MhjS1e"
+                },
+                {
+                    "artist": "Stick in the Wheel",
+                    "title": "Over Again",
+                    "uri": "5XFTJDDbnwVBWWZq9w6Nh3"
+                },
+                {
+                    "artist": "Stick in the Wheel",
+                    "title": "Champion",
+                    "uri": "2F4acYWSWEMB6n5GgOWwzZ"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "The Phonometrician",
+                    "title": "I See You",
+                    "uri": "59UaLkttglctSdSA4gmhc9"
+                },
+                {
+                    "artist": "The Phonometrician",
+                    "title": "I See You",
+                    "uri": "4m6PJR12RruGrl8jp49gly"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Phantoms",
+                    "title": "Can't Get Enough",
+                    "uri": "5TEqGy9b5T5k5RuUryyXk9"
+                },
+                {
+                    "artist": "Lindsey Stirling",
+                    "title": "The Phoenix",
+                    "uri": "22LHIaxcDvOuBkKcKTM226"
+                },
+                {
+                    "artist": "Fall Out Boy",
+                    "title": "The Phoenix",
+                    "uri": "7jwDuO7UZvWs77KNj9HbvF"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Dawn Ray'd",
+                    "title": "Ancient Light",
+                    "uri": "16adRAOh7M5OkXMk9r3Fbn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dawn Ray'd",
+                    "title": "Ancient Light",
+                    "uri": "16adRAOh7M5OkXMk9r3Fbn"
+                },
+                {
+                    "artist": "Dawn Ray'd",
+                    "title": "The Smell of Ancient Dust",
+                    "uri": "61XpZn1EwVFaY6qgejP3aS"
+                },
+                {
+                    "artist": "RY X",
+                    "title": "Dawn",
+                    "uri": "1qla7OPe7Yz7GFnoFWdNyU"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "John Johanna",
+                    "title": "Seven Metal Mountains",
+                    "uri": "5DxlATjYXbShCHDfkm110s"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rudy Mills",
+                    "title": "John Jones",
+                    "uri": "6nqhKb3RCCCxpdNcIzjWkn"
+                },
+                {
+                    "artist": "John Johnis",
+                    "title": "Joga pra Raul",
+                    "uri": "7H8L4qCTa55Do9ura3eWTp"
+                },
+                {
+                    "artist": "Johan J.J Jonasson",
+                    "title": "My Island",
+                    "uri": "45Veuxl3pCNoq0emqcUwsF"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Irma Vep",
+                    "title": "Tears Are The Sweetest Sauce",
+                    "uri": "08fYoWwck7dI0qKtD9z3Ji"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Irma Vep",
+                    "title": "Tears Are The Sweetest Sauce",
+                    "uri": "08fYoWwck7dI0qKtD9z3Ji"
+                },
+                {
+                    "artist": "B.A.Y.",
+                    "title": "Irma",
+                    "uri": "4AHOJtFV9LFh6BSXZzNlRz"
+                },
+                {
+                    "artist": "Irma",
+                    "title": "What Are You Trying to Do - Interlude",
+                    "uri": "1KCpdF332Dpuh8jfrH0wiN"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Bill Orcutt",
+                    "title": "On the horizon",
+                    "uri": "31BJ8S1rEAFdCuMbA7cQTJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bill Orcutt",
+                    "title": "On the horizon",
+                    "uri": "31BJ8S1rEAFdCuMbA7cQTJ"
+                },
+                {
+                    "artist": "Bill Orcutt",
+                    "title": "A different view",
+                    "uri": "26himHdW46veI45mG35hmi"
+                },
+                {
+                    "artist": "Bill Orcutt",
+                    "title": "Two things close together",
+                    "uri": "0KAMrbKM7sLpFKu0QTAOx7"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Kali Malone",
+                    "title": "Does Spring Hide Its Joy v1.2",
+                    "uri": "6GDrQV3KPsKZTYulxzT1Zv"
+                },
+                {
+                    "artist": "Kali Malone",
+                    "title": "Does Spring Hide Its Joy v2.1",
+                    "uri": "1wHgfRmga8QSmFAza1Kfmv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kali Malone",
+                    "title": "Does Spring Hide Its Joy v1.2",
+                    "uri": "6GDrQV3KPsKZTYulxzT1Zv"
+                },
+                {
+                    "artist": "Kali Malone",
+                    "title": "Does Spring Hide Its Joy v1.1",
+                    "uri": "5PfKEkKVVbIiTFRVmMVfR7"
+                },
+                {
+                    "artist": "Kali",
+                    "title": "Mashallah",
+                    "uri": "2al2MksRqhJZihE1iyxK8i"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "The Smashing Times",
+                    "title": "Across The Hebrides",
+                    "uri": "3FWaaIr2XOmLy5NTjjglt4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Smashing Pumpkins",
+                    "title": "Beguiled",
+                    "uri": "6rBiMyaGB1ZJQnxb01FkPG"
+                },
+                {
+                    "artist": "The Smashing Pumpkins",
+                    "title": "1979 - Remastered 2012",
+                    "uri": "5QLHGv0DfpeXLNFo7SFEy1"
+                },
+                {
+                    "artist": "The Smashing Pumpkins",
+                    "title": "Tonight, Tonight - Remastered 2012",
+                    "uri": "7bu0znpSbTks0O6I98ij0W"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Brigid Mae Power",
+                    "title": "I Was Named After You",
+                    "uri": "0ca2MVwFom5KxLjHIgW2hk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Brigid Mae Power",
+                    "title": "I'm Grateful",
+                    "uri": "6LtQHVhoeY6nop5tyVTMj5"
+                },
+                {
+                    "artist": "Brigid Mae Power",
+                    "title": "Wedding of a Friend",
+                    "uri": "3Mgxf4XwTgU0Xk1z8hG6gc"
+                },
+                {
+                    "artist": "Brigid Mae Power",
+                    "title": "One More Cup of Coffee",
+                    "uri": "2GNgvQjMg6st4tpwPQCylT"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Old Saw",
+                    "title": "Weathervaning",
+                    "uri": "092njMQD4fykTb6t1IVktI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Old Saw",
+                    "title": "Weathervaning",
+                    "uri": "092njMQD4fykTb6t1IVktI"
+                },
+                {
+                    "artist": "Savoy",
+                    "title": "(My) Weathervane",
+                    "uri": "0GoubiSbt3YzPOMZSCkp8I"
+                },
+                {
+                    "artist": "Dave Hause",
+                    "title": "Weathervane",
+                    "uri": "0eVJmL8C2z9diHNgTkGMUY"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Dom & The Wizards",
+                    "title": "Downtown Sydney",
+                    "uri": "7rYlV9gq7UfuVAvfMVNEo1"
+                }
+            ],
+            "s1": ""
+        }
+    },
     "arrhythmia-10th-january-2023": {
         "00": {
             "s0": [
