@@ -1,4 +1,106 @@
 {
+    "early-bird-show-w-pam-10th-february-2023": {
+        "00": {
+            "artist": "Chamber Music Ensemble",
+            "title": "We Sing Of God, The Mighty Source / “Lord Have Mercy” Three Times"
+        },
+        "01": {
+            "artist": "Franciska",
+            "title": "Tryghed"
+        },
+        "02": {
+            "artist": "Patrick Gibson",
+            "title": "Yeah OK"
+        },
+        "03": {
+            "artist": "Oneohtrix Point Never",
+            "title": "Months"
+        },
+        "04": {
+            "artist": "Charlie Byrd",
+            "title": "My Funny Valentine"
+        },
+        "05": {
+            "artist": "Nagisa Ni Te",
+            "title": "Beyond The Glass"
+        },
+        "06": {
+            "artist": "Joanne Robertson",
+            "title": "Blow"
+        },
+        "07": {
+            "artist": "Regular Music",
+            "title": "The Fourth Door (Dub)"
+        },
+        "08": {
+            "artist": "Kate Bush",
+            "title": "50 Words For Snow"
+        },
+        "09": {
+            "artist": "Yoshiaki Ochi",
+            "title": "Ear Dreamin'"
+        },
+        "10": {
+            "artist": "Lady June",
+            "title": "Everythingsnothing"
+        },
+        "11": {
+            "artist": "Lawrence",
+            "title": "Falling Down A Dam Of Mashed Potatoes"
+        },
+        "12": {
+            "artist": "Okihide",
+            "title": "Blue"
+        },
+        "13": {
+            "artist": "Symbols And Instruments",
+            "title": "Tear Drops Of Yesterday"
+        },
+        "14": {
+            "artist": "Martin Wester, ",
+            "title": "Zikade"
+        },
+        "15": {
+            "artist": "Twin Cosmos",
+            "title": "Silent Love"
+        },
+        "16": {
+            "artist": "Purelink",
+            "title": "Fine Pink Mist (Low Flung Version)"
+        },
+        "17": {
+            "artist": "Coil",
+            "title": "Alternative Theme from Gay Man's Guide To Safer Sex"
+        },
+        "18": {
+            "artist": "Gavsborg",
+            "title": "Did not make this for Jah_9 feat. Shanique Marie"
+        },
+        "19": {
+            "artist": "Parsley Sound",
+            "title": "Platonic Rate"
+        },
+        "20": {
+            "artist": "Dodo",
+            "title": "Focus"
+        },
+        "21": {
+            "artist": "The Cure",
+            "title": "Lullaby"
+        },
+        "22": {
+            "artist": "Tara Clerkin Trio",
+            "title": "In The Room"
+        },
+        "23": {
+            "artist": "The Sleepwalk",
+            "title": "Warp Wet Woods (MoonDisc Version)"
+        },
+        "24": {
+            "artist": "The Smashing Pumpkins",
+            "title": "1979"
+        }
+    },
     "early-bird-show-w-pam-19th-january-2023": {
         "00": {
             "artist": "Aphex Twin",
@@ -353,6 +455,108 @@
         "19": {
             "artist": "Flare",
             "title": "Curved Flow (Rei Harakami Path Mix)"
+        }
+    },
+    "early-bird-show-w-pam-9th-february-2023": {
+        "00": {
+            "artist": "Paul K.",
+            "title": "Softly, He Closes Your Eyes. Good Night!"
+        },
+        "01": {
+            "artist": "Tim Timmerans & Skipper Wise",
+            "title": "Five Mountains"
+        },
+        "02": {
+            "artist": "Stikling",
+            "title": "Open Window"
+        },
+        "03": {
+            "artist": "Plantar",
+            "title": "Theology"
+        },
+        "04": {
+            "artist": "Bushes",
+            "title": "Hildegarde Maxi"
+        },
+        "05": {
+            "artist": "Jardino",
+            "title": "La Vie Est Longue"
+        },
+        "06": {
+            "artist": "Mary Lou Williams",
+            "title": "Black Christ Of The Andes (St. Martin De Porres)"
+        },
+        "07": {
+            "artist": "Lady June",
+            "title": "To Whom It May Not Concern"
+        },
+        "08": {
+            "artist": "Mitsu Harada",
+            "title": "大きい小供"
+        },
+        "09": {
+            "artist": "The Pastels",
+            "title": "Wilderness End Theme"
+        },
+        "10": {
+            "artist": "South",
+            "title": "Torriamo"
+        },
+        "11": {
+            "artist": "Gutevolk",
+            "title": "Rainy Dragoon"
+        },
+        "12": {
+            "artist": "Plaid",
+            "title": "Perspex"
+        },
+        "13": {
+            "artist": "Mb Jones",
+            "title": "Wabisabi Suite"
+        },
+        "14": {
+            "artist": "坂本龍一",
+            "title": "ぼくのかけら"
+        },
+        "15": {
+            "artist": "Dean Blunt",
+            "title": "MUGU MIX PROJ Dub"
+        },
+        "16": {
+            "artist": "Elvin Jones/Jimmy Garrison Sextet, ",
+            "title": "Oriental Flower"
+        },
+        "17": {
+            "artist": "Bertrand Burgalat, ",
+            "title": "Aux Cyclades Électronique"
+        },
+        "18": {
+            "artist": "Classic Man '93",
+            "title": "Rapid Winds"
+        },
+        "19": {
+            "artist": "Aphrodisiac",
+            "title": "Just Before The Dawn"
+        },
+        "20": {
+            "artist": "Satanicpornocultshop",
+            "title": "My Underwater Boy"
+        },
+        "21": {
+            "artist": "The Durutti Column",
+            "title": "Fidelity"
+        },
+        "22": {
+            "artist": "Faire Plays",
+            "title": "Premier Amour (Story)"
+        },
+        "23": {
+            "artist": "Total, ",
+            "title": "Can't You See (Vocal)"
+        },
+        "24": {
+            "artist": "The Brian Jonestown Massacre",
+            "title": "Anemone"
         }
     },
     "pam-12th-january-2023": {

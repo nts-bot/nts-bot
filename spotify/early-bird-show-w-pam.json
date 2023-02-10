@@ -1,4 +1,156 @@
 {
+    "early-bird-show-w-pam-10th-february-2023": {
+        "00": {
+            "artist": "The Tenneys",
+            "ratio": 3,
+            "title": "Sing, O Come Emmanuel",
+            "trackid": "5Hb48G9R5iyUdcmc63Ej7z"
+        },
+        "01": {
+            "artist": "Franziska",
+            "ratio": 5,
+            "title": "Unsere Stadt",
+            "trackid": "6Amq2tXHgnGDU5KbasyxGl"
+        },
+        "02": {
+            "artist": "Patrick Gibson",
+            "ratio": 9,
+            "title": "Yeah OK",
+            "trackid": "2EV18khvbwpiM0Ir9BkpyT"
+        },
+        "03": {
+            "artist": "Oneohtrix Point Never",
+            "ratio": 9,
+            "title": "Months",
+            "trackid": "2rgEoLRk2P7M7POviVXXvN"
+        },
+        "04": {
+            "artist": "Charlie Byrd",
+            "ratio": 9,
+            "title": "My Funny Valentine",
+            "trackid": "5mIlNxaLGe65DpcaruPIeN"
+        },
+        "05": {
+            "artist": "Nagisa Ni Te",
+            "ratio": 9,
+            "title": "Beyond the Glass",
+            "trackid": "2yJCMcsMUp4mnGjKCG9CzY"
+        },
+        "06": {
+            "artist": "Joanne Robertson",
+            "ratio": 9,
+            "title": "Blow",
+            "trackid": "5qMv4ieleWtAJ1Eik1XFDk"
+        },
+        "07": {
+            "artist": "Regular Music",
+            "ratio": 9,
+            "title": "The Fourth Door - Dub",
+            "trackid": "24JrerEYqjHfBZ01rDBYxM"
+        },
+        "08": {
+            "artist": "Kate Bush",
+            "ratio": 9,
+            "title": "50 Words For Snow",
+            "trackid": "6MtXVfbFWxYUWSaMwKsyZJ"
+        },
+        "09": {
+            "artist": "Yoshiaki Ochi",
+            "ratio": 9,
+            "title": "Ear Dreamin'",
+            "trackid": "2XrpPn36U2iof6eE4MS2l0"
+        },
+        "10": {
+            "artist": "Lady June",
+            "ratio": 9,
+            "title": "Everythingsnothing",
+            "trackid": "4OgDzjLvUjaXI4OjLHZjDf"
+        },
+        "11": {
+            "artist": "Lawrence",
+            "ratio": 9,
+            "title": "Falling Down a Dam of Mashed Potatoes",
+            "trackid": "27znAUzq1lyTODLjkWy62z"
+        },
+        "12": {
+            "artist": "Mujo",
+            "ratio": 4,
+            "title": "Blue Orchids",
+            "trackid": "4U78uBnxWdIaP8DFWBFaGC"
+        },
+        "13": {
+            "artist": "Symbols And Instruments",
+            "ratio": 9,
+            "title": "Tear Drops Of Yesterday - Extended Mix",
+            "trackid": "4X952yyEFOEn7zB4hs4oox"
+        },
+        "14": {
+            "artist": "Martin Waslewski",
+            "ratio": 4,
+            "title": "Gerd - Original Mix",
+            "trackid": "78aX3yIfCZegWAAD17XrKl"
+        },
+        "15": {
+            "artist": "TWIN COSMOS",
+            "ratio": 9,
+            "title": "Silent Love",
+            "trackid": "2x92zlVYtmojKL3OvUhGwF"
+        },
+        "16": {
+            "artist": "Purelink",
+            "ratio": 9,
+            "title": "Fine Pink Mist - Low Flung version",
+            "trackid": "57SZuszGOOGaeJ8MsdstHF"
+        },
+        "17": {
+            "artist": "Coil",
+            "ratio": 9,
+            "title": "Alternative Theme From Gay Man’s Guide To Safer Sex - End Version",
+            "trackid": "4dd4ebZNCHZVVfEtiUciHt"
+        },
+        "18": {
+            "artist": "Harrison Stafford",
+            "ratio": 4,
+            "title": "Jah Shine",
+            "trackid": "2LW2EM6Nt5qG1C58kycZgN"
+        },
+        "19": {
+            "artist": "Parsley Sound",
+            "ratio": 9,
+            "title": "Platonic Rate",
+            "trackid": "0vEDbKAlL0k4EjSloTYSTO"
+        },
+        "20": {
+            "artist": "Lauree Dodo",
+            "ratio": 5,
+            "title": "Focus Roughly",
+            "trackid": "6X0FWQEihNbfaDDRz2qwIZ"
+        },
+        "21": {
+            "artist": "The Cure",
+            "ratio": 9,
+            "title": "Lullaby",
+            "trackid": "09OpntwPHuNICsyEt1ETpE"
+        },
+        "22": {
+            "artist": "Tara Clerkin Trio",
+            "ratio": 9,
+            "title": "In the Room",
+            "trackid": "2ZOaeFvbpBKoEeFvsipWKw"
+        },
+        "23": {
+            "artist": "Deftones",
+            "ratio": 5,
+            "title": "Sleep Walk",
+            "trackid": "2HrgY8IeC2nE5Hrr17jIii"
+        },
+        "24": {
+            "artist": "The Smashing Pumpkins",
+            "ratio": 9,
+            "title": "1979",
+            "trackid": "3h5zik31hTTat9jmpCZZNC"
+        }
+    },
     "early-bird-show-w-pam-19th-january-2023": {
         "00": {
             "artist": "Aphex Twin",
@@ -527,6 +679,158 @@
             "ratio": 9,
             "title": "Curved Flow - Rei Harakami Path Mix",
             "trackid": "4Su3xgQFbrf6jzJs8uEBtx"
+        }
+    },
+    "early-bird-show-w-pam-9th-february-2023": {
+        "00": {
+            "artist": "Paul Kalkbrenner",
+            "ratio": 3,
+            "title": "Eyes Open",
+            "trackid": "4u1JQW97Ai1SCqmqYqVjqA"
+        },
+        "01": {
+            "artist": "Die Sternenkinder",
+            "ratio": 5,
+            "title": "Timm Thaler",
+            "trackid": "7hXUXuiOck7J0J9jy6KKkW"
+        },
+        "02": {
+            "artist": "Osaki",
+            "ratio": 4,
+            "title": "Open Window",
+            "trackid": "3LxIx3oEE5Ckg3VVQf56IB"
+        },
+        "03": {
+            "artist": "plantar",
+            "ratio": 9,
+            "title": "Theology",
+            "trackid": "4FArFWwnCcaKDeRmHXBGHL"
+        },
+        "04": {
+            "artist": "Devendra Banhart",
+            "ratio": 4,
+            "title": "Für Hildegard von Bingen",
+            "trackid": "2CG6feguaKMR3C4zCMjDNR"
+        },
+        "05": {
+            "artist": "Agoria",
+            "ratio": 4,
+            "title": "Jardin",
+            "trackid": "0gH5lfBCMOc2GlAzTxDlSg"
+        },
+        "06": {
+            "artist": "Mary Lou Williams",
+            "ratio": 9,
+            "title": "Black Christ of the Andes (St. Martin de Porres)",
+            "trackid": "4DggHO6d4yZzOHUCm47UO2"
+        },
+        "07": {
+            "artist": "Lady June",
+            "ratio": 9,
+            "title": "To Whom It May Not Concern",
+            "trackid": "0Dkz7UTjC9zi3zNZ6QDSIj"
+        },
+        "08": {
+            "artist": "miraie",
+            "ratio": 0,
+            "title": "fate/endless line",
+            "trackid": "2DM2tqpC6nEjbviJ2TdGEs"
+        },
+        "09": {
+            "artist": "The Pastels",
+            "ratio": 9,
+            "title": "Wilderness End Theme",
+            "trackid": "36DHZ4o47xhnrriHyvaVNt"
+        },
+        "10": {
+            "artist": "Komojo",
+            "ratio": 5,
+            "title": "Torino",
+            "trackid": "7dZrvvxfSFMmATIVoscG3q"
+        },
+        "11": {
+            "artist": "Gutevolk",
+            "ratio": 9,
+            "title": "Rainy Dragoon",
+            "trackid": "5lbxKJWt5auIEzRt66rDqp"
+        },
+        "12": {
+            "artist": "Plaid",
+            "ratio": 9,
+            "title": "Perspex",
+            "trackid": "5dQN5ayZKt9QEwTDCQhVXv"
+        },
+        "13": {
+            "artist": "M.B. Jones",
+            "ratio": 9,
+            "title": "Wabisabi Suite",
+            "trackid": "6d9bmcYZqClq0lMFhguWy1"
+        },
+        "14": {
+            "artist": "坂本サトル",
+            "ratio": 4,
+            "title": "僕はどこへ行く",
+            "trackid": "0jzS9ss0fJx1lqgDSv8ueR"
+        },
+        "15": {
+            "artist": "Dean Blunt",
+            "ratio": 3,
+            "title": "PRESSED",
+            "trackid": "4WYoSVibjO0PftEmfRimMN"
+        },
+        "16": {
+            "artist": "Elvin Jones",
+            "ratio": 9,
+            "title": "Oriental Flower",
+            "trackid": "3YibF0eXqXt76iVvymLINa"
+        },
+        "17": {
+            "artist": "Bertrand Burgalat",
+            "ratio": 9,
+            "title": "Aux cyclades électronique",
+            "trackid": "5Fptnr6ziyvvjQ4OcY4Mua"
+        },
+        "18": {
+            "artist": "Classic Man '93",
+            "ratio": 9,
+            "title": "Rapid Winds - 75 MPH Mix",
+            "trackid": "6HgM01c36b6oZneDQ8fMjp"
+        },
+        "19": {
+            "artist": "Aphrodisiac",
+            "ratio": 9,
+            "title": "Just Before The Dawn",
+            "trackid": "0kR7m3QryAdrJxqqHRWU3A"
+        },
+        "20": {
+            "artist": "Bleed The Wicked Menace",
+            "ratio": 3,
+            "title": "Satanic Panic",
+            "trackid": "6ClOCtJhmZ2WmunnR9vJ8D"
+        },
+        "21": {
+            "artist": "The Durutti Column",
+            "ratio": 9,
+            "title": "Fidelity",
+            "trackid": "7hsotYEpyGSe44vkQocCB0"
+        },
+        "22": {
+            "artist": "Giapolo",
+            "ratio": 3,
+            "title": "Premier Amour",
+            "trackid": "2akXv7FbmJNFbdnsKICtka"
+        },
+        "23": {
+            "artist": "Total",
+            "ratio": 9,
+            "title": "Can't You See",
+            "trackid": "0coGyBNQcxxqkOOT2UhT4v"
+        },
+        "24": {
+            "artist": "The Brian Jonestown Massacre",
+            "ratio": 9,
+            "title": "Anemone",
+            "trackid": "70WSr32oW4jC1na5I0j0D6"
         }
     },
     "pam-12th-january-2023": {
