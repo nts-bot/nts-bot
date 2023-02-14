@@ -239,6 +239,140 @@
             "trackid": "41tVuSqSXCdTPp7K8I0m7K"
         }
     },
+    "brav-11th-february-2023": {
+        "00": {
+            "artist": "The Cure",
+            "ratio": 9,
+            "title": "Lullaby - Remastered",
+            "trackid": "0ZYdUkAQmKHsaKRmq8tWSE"
+        },
+        "01": {
+            "artist": "#1 Disco Dance Hits",
+            "ratio": 5,
+            "title": "You're My Heart, You're My Soul",
+            "trackid": "42KZjlFyLVWttb7ntXxvHS"
+        },
+        "02": {
+            "artist": "Mazuzu",
+            "ratio": 3,
+            "title": "Mazuzu And Me",
+            "trackid": "5Yz8gKpGZTbPQSFTuYGpVl"
+        },
+        "03": {
+            "artist": "Tiago PZK",
+            "ratio": 4,
+            "title": "Sex & Love",
+            "trackid": "3ylhgzhvSICQcyv0U3Ozwv"
+        },
+        "04": {
+            "artist": "Moin",
+            "ratio": 9,
+            "title": "Foot Wrong",
+            "trackid": "5UygAFhpUKHOuBDu3e1OvG"
+        },
+        "05": {
+            "artist": "Bullion",
+            "ratio": 9,
+            "title": "We Had A Good Time",
+            "trackid": "2rT6h8HuC7FiVZBZjKwkSI"
+        },
+        "06": {
+            "artist": "Kiwi",
+            "ratio": 9,
+            "title": "You Want Her Too",
+            "trackid": "3h324AnMfQMzYMefZoIE2c"
+        },
+        "07": {
+            "artist": "Suzanne Kraft",
+            "ratio": 9,
+            "title": "No Worries",
+            "trackid": "1mDTCKImzhwUDFhK9atXxi"
+        },
+        "08": {
+            "artist": "James Massiah",
+            "ratio": 9,
+            "title": "Natural Born Killers (Ride for Me)",
+            "trackid": "6zfmWfJy4P2K7B1JMAte2o"
+        },
+        "09": {
+            "artist": "Tarrus Riley",
+            "ratio": 5,
+            "title": "Love Created I [Marcus Teaching]",
+            "trackid": "7qlJrpxL8dgSZqLB5mozcX"
+        },
+        "10": {
+            "artist": "Hans Zimmer",
+            "ratio": 3,
+            "title": "Mogadishu Blues",
+            "trackid": "6hZGt4L82BeuFo9ckXmggh"
+        },
+        "11": {
+            "artist": "Beck",
+            "ratio": 9,
+            "title": "Cellphone's Dead",
+            "trackid": "3KMWH9HSB8ALRI4NuaIQNK"
+        },
+        "12": {
+            "artist": "Timbo",
+            "ratio": 5,
+            "title": "STRIKE BACK",
+            "trackid": "0eX4ZQWTVCKRPuiuz4PX1f"
+        },
+        "13": {
+            "artist": "Old School Road",
+            "ratio": 4,
+            "title": "Love",
+            "trackid": "2NPSBWQfHtIzWGJZBDpc7n"
+        },
+        "14": {
+            "artist": "Jamie Paton",
+            "ratio": 9,
+            "title": "To The Light - Original Mix",
+            "trackid": "7eL4lfAOZNS6DT2IAg4bh0"
+        },
+        "15": {
+            "artist": "Blancmange",
+            "ratio": 5,
+            "title": "That's Love, That It Is",
+            "trackid": "0avLdkI5ojeOCpaiUrA5nV"
+        },
+        "16": {
+            "artist": "Sworn Virgins",
+            "ratio": 9,
+            "title": "Slide Little Monster",
+            "trackid": "2nCg3kfAth1aXh6th3rZ9u"
+        },
+        "17": {
+            "artist": "Red Axes",
+            "ratio": 3,
+            "title": "Flawless",
+            "trackid": "6mMhF0ubvWg3fWN5hsgVNj"
+        },
+        "18": {
+            "artist": "Black Strobe",
+            "ratio": 9,
+            "title": "Me & Madonna",
+            "trackid": "78f10cYWYlkcoV3HgRyP8s"
+        },
+        "19": {
+            "artist": "Richard Sen",
+            "ratio": 9,
+            "title": "My Definition of Funk",
+            "trackid": "4fqYrcYoD801CBTaRx2QcO"
+        },
+        "20": {
+            "artist": "IZ",
+            "ratio": 9,
+            "title": "Mouth - Brad Peep's Remix For Friends",
+            "trackid": "4ZBUttBZv8ziEKw9AJuLfW"
+        },
+        "21": {
+            "artist": "T. Power",
+            "ratio": 3,
+            "title": "Mercy",
+            "trackid": "5VLNgfTtg05eImDhEsvSGs"
+        }
+    },
     "brav-11th-march-2019": {
         "00": {
             "artist": "Neon Fruit Supermarket",
@@ -6321,9 +6455,10 @@
         },
         "09": {
             "artist": "GRAViiTY",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Shaman",
-            "trackid": "21wz6JzskexxE9Eqou9xCY"
+            "trackid": "21wz6JzskexxE9Eqou9xCY",
+            "uri": ""
         },
         "10": {
             "artist": "Dj Karri",
@@ -6333,9 +6468,10 @@
         },
         "11": {
             "artist": "GRAViiTY",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Shaman",
-            "trackid": "21wz6JzskexxE9Eqou9xCY"
+            "trackid": "21wz6JzskexxE9Eqou9xCY",
+            "uri": ""
         },
         "12": {
             "artist": "Speaker Music",

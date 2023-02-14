@@ -1,4 +1,803 @@
 {
+    "corticeps-12th-february-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Quintessence",
+                    "title": "Bliss Trip",
+                    "uri": "53oH6uwZ5JbzbhmRZk8Pi1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Coleman Hawkins Quartet",
+                    "title": "Quintessence",
+                    "uri": "4dUVpbIu8FW7R76gejw3cq"
+                },
+                {
+                    "artist": "Warne Marsh",
+                    "title": "Quintessence",
+                    "uri": "6lOAIBkCP7A8YnkCyA8FjA"
+                },
+                {
+                    "artist": "Heiso.",
+                    "title": "The Quintessential Quintuplets s2 op lofi",
+                    "uri": "6vFnZVADSAUrMGggUZuSSE"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Richie Havens",
+                    "title": "The Parable Of Ramon",
+                    "uri": "1QdFoVcZb0zvxksUBXlgVg"
+                },
+                {
+                    "artist": "Richie Havens",
+                    "title": "The Parable Of Ramon",
+                    "uri": "5LsKcOQOmHZGueKliedtn4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Richie Havens",
+                    "title": "Freedom",
+                    "uri": "1lJBRKkB6eIL98dv1c1PCC"
+                },
+                {
+                    "artist": "Richie Havens",
+                    "title": "Going Back to My Roots",
+                    "uri": "6PFsub5iIJwrBb8qBRqmiV"
+                },
+                {
+                    "artist": "Richie Havens",
+                    "title": "Follow",
+                    "uri": "7MUB5N5jF8m61iCP4RSPWd"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "The Mark-Almond Band",
+                    "title": "A Song for You - Live",
+                    "uri": "0U03QphSGPrPIM5ZVbUa7Y"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Marc Almond",
+                    "title": "Something's Gotten Hold of My Heart",
+                    "uri": "68O1r5xQADu0JjvBibg9zN"
+                },
+                {
+                    "artist": "Marc Almond",
+                    "title": "The Days Of Pearly Spencer",
+                    "uri": "4RdK2DCPc0d1AzbELezcDg"
+                },
+                {
+                    "artist": "Marc Almond",
+                    "title": "Something's Gotten Hold of My Heart - Solo Version",
+                    "uri": "5saxQAIuqArC9AYd7SjHLm"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gorillaz",
+                    "title": "White Light",
+                    "uri": "7hnW9af7GuGH5lyUUTa8UH"
+                },
+                {
+                    "artist": "Florist",
+                    "title": "White Light Doorway",
+                    "uri": "3t98tVLXMNEnqIZggbCs8k"
+                },
+                {
+                    "artist": "Lenii",
+                    "title": "White Lie",
+                    "uri": "7B1Lenkjs00lgpFhiaw1fd"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Fotheringay",
+                    "title": "Banks Of The Nile",
+                    "uri": "24ZABorDdHgAifHZATx62A"
+                },
+                {
+                    "artist": "Fotheringay",
+                    "title": "Banks Of The Nile",
+                    "uri": "7HccKINL6lyNhbxVxpCKgV"
+                },
+                {
+                    "artist": "Fotheringay",
+                    "title": "Banks Of The Nile",
+                    "uri": "653MIjXSGF22RO7FWQhjk9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fotheringay",
+                    "title": "Banks Of The Nile",
+                    "uri": "24ZABorDdHgAifHZATx62A"
+                },
+                {
+                    "artist": "Fotheringay",
+                    "title": "Banks Of The Nile - Alternate Take",
+                    "uri": "02yUXCdhSo0PGvGlaQKXQN"
+                },
+                {
+                    "artist": "Fotheringay",
+                    "title": "Banks Of The Nile - Live In Rotterdam / 1970",
+                    "uri": "6BMPUCIAvP8qG3w2BfFpMI"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Bill Withers",
+                    "title": "Make a Smile for Me",
+                    "uri": "7EiujtpJ3Ty0RcFhMHDHhZ"
+                },
+                {
+                    "artist": "Bill Withers",
+                    "title": "Make a Smile for Me",
+                    "uri": "3amYouhrnjq5dAUFRkvYjI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bill Withers",
+                    "title": "Make a Smile for Me",
+                    "uri": "7EiujtpJ3Ty0RcFhMHDHhZ"
+                },
+                {
+                    "artist": "Bill Withers",
+                    "title": "Make a Smile for Me",
+                    "uri": "3amYouhrnjq5dAUFRkvYjI"
+                },
+                {
+                    "artist": "Bill Withers",
+                    "title": "Ain't No Sunshine",
+                    "uri": "1k1Bqnv2R0uJXQN4u6LKYt"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "John Martyn",
+                    "title": "Lay It All Down",
+                    "uri": "57Z98SobLeJ7Cua0ScQf5F"
+                },
+                {
+                    "artist": "John Martyn",
+                    "title": "Lay It All Down",
+                    "uri": "3Gjl0YjTbzNH8WxVdMwuVj"
+                },
+                {
+                    "artist": "John Martyn",
+                    "title": "Lay It All Down",
+                    "uri": "4lSvduQoKSZ5vYp0h53hUT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "John Martyn",
+                    "title": "Lay It All Down",
+                    "uri": "57Z98SobLeJ7Cua0ScQf5F"
+                },
+                {
+                    "artist": "John Martyn",
+                    "title": "Over The Hill",
+                    "uri": "4doNObRI4sHz3klm81tZmu"
+                },
+                {
+                    "artist": "John Martyn",
+                    "title": "May You Never",
+                    "uri": "6ofam9RHTG7UBUa6uO2MjP"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Kenny Rogers",
+                    "title": "Ain't No Sunshine",
+                    "uri": "3em0PT5T4WjJWZl8aTtVzZ"
+                },
+                {
+                    "artist": "Kenny Rogers",
+                    "title": "Sunshine",
+                    "uri": "4Uc81vpIXY2G1UX1PfKGyK"
+                },
+                {
+                    "artist": "Kenny Rogers & The First Edition",
+                    "title": "Sunshine",
+                    "uri": "4ZLWIilZumYVlNAdBZElpX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kenny Rogers",
+                    "title": "Ain't No Sunshine",
+                    "uri": "3em0PT5T4WjJWZl8aTtVzZ"
+                },
+                {
+                    "artist": "Dolly Parton",
+                    "title": "Islands in the Stream",
+                    "uri": "6apPqjW8ezpKEicAkkBlvO"
+                },
+                {
+                    "artist": "Dolly Parton",
+                    "title": "Islands in the Stream",
+                    "uri": "4mnOVRRXsaqg9Nb041xR8u"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Arthur Russell",
+                    "title": "I Never Get Lonesome",
+                    "uri": "14zjlPXKkx3uCKOQB95PwU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Arthur Russell",
+                    "title": "I Never Get Lonesome",
+                    "uri": "14zjlPXKkx3uCKOQB95PwU"
+                },
+                {
+                    "artist": "Arthur Russell",
+                    "title": "That's Us/Wild Combination",
+                    "uri": "4Kh2MJAy65AfHFdGqBg1Jw"
+                },
+                {
+                    "artist": "Arthur Russell",
+                    "title": "This Is How We Walk On The Moon",
+                    "uri": "74LbkcDTjFV1WtMmTAtORI"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Matthews' Southern Comfort",
+                    "title": "What We Say",
+                    "uri": "3RjJh2vC7dAzOeMc0pUvV3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Matthews' Southern Comfort",
+                    "title": "Bits and Pieces",
+                    "uri": "1ku8M2oEy2wBQ87mSdYjeM"
+                },
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Theme from Southern Comfort",
+                    "uri": "3gY4AjIn6t0cGgPMlef0uA"
+                },
+                {
+                    "artist": "The Orwells",
+                    "title": "Southern Comfort",
+                    "uri": "7r87p4bnlP642xfobiCZlj"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Marty Robbins",
+                    "title": "They're Hanging Me Tonight",
+                    "uri": "4G9f3VGp9wjE49JUfg3XtO"
+                },
+                {
+                    "artist": "Marty Robbins",
+                    "title": "Big Iron",
+                    "uri": "0AQquaENerGps8BQmbPw14"
+                },
+                {
+                    "artist": "Marty Robbins",
+                    "title": "Saddle Tramp",
+                    "uri": "68FTJoO8edSpzuYb6lGW6P"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Marc Benno",
+                    "title": "Speak Your Mind",
+                    "uri": "1oWlvdxiEjWHv2sVURNLHM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Marc Benno",
+                    "title": "Speak Your Mind",
+                    "uri": "1oWlvdxiEjWHv2sVURNLHM"
+                },
+                {
+                    "artist": "Marc Benjamin",
+                    "title": "Anything",
+                    "uri": "74bv7UX4lmiu5ukPgHOUcY"
+                },
+                {
+                    "artist": "Marc Benjamin",
+                    "title": "When The Sounds Disappear",
+                    "uri": "76PTcvFjbHqMHKC2FQJxst"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Dick Gaughan",
+                    "title": "The Snows They Melt the Soonest",
+                    "uri": "5DO8FUJdL9csDRchO5GflU"
+                },
+                {
+                    "artist": "Dick Gaughan",
+                    "title": "The Snows They Melt the Soonest",
+                    "uri": "1Lt6oxLaD1ecgydK3OxH6m"
+                },
+                {
+                    "artist": "Dick Gaughan",
+                    "title": "The Snows They Melt the Soonest",
+                    "uri": "0zoxa2jJMJXwzC128BYtWp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dick Gaughan",
+                    "title": "The Snows They Melt the Soonest",
+                    "uri": "5DO8FUJdL9csDRchO5GflU"
+                },
+                {
+                    "artist": "Dick Gaughan",
+                    "title": "Erin Go Bragh",
+                    "uri": "7hdBiHUEyFxXmeYZT02SBn"
+                },
+                {
+                    "artist": "Dick Gaughan",
+                    "title": "Workers' Song",
+                    "uri": "5qrzjdPC1L0zqrtR0rUQb3"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Sandy Denny",
+                    "title": "Milk and Honey - Alternate Take",
+                    "uri": "1RgJZWpA8qrO5YTHhJEDeD"
+                },
+                {
+                    "artist": "Sandy Denny",
+                    "title": "Milk and Honey",
+                    "uri": "1a0n1AfpSx3MUps6LkrWkU"
+                },
+                {
+                    "artist": "Sandy Denny",
+                    "title": "Milk & Honey - Home Recording 1966",
+                    "uri": "4EeSwcTMtAovcSDwnfr2Eu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sandy Denny",
+                    "title": "Milk and Honey - Alternate Take",
+                    "uri": "1RgJZWpA8qrO5YTHhJEDeD"
+                },
+                {
+                    "artist": "Sandy Denny",
+                    "title": "It'll Take A Long Time",
+                    "uri": "5Hc8WIK7qgBQ2vRSn19gG6"
+                },
+                {
+                    "artist": "Sandy Denny",
+                    "title": "Who Knows Where The Time Goes? - BBC Session - John Peel 11/9/73",
+                    "uri": "0Adfl7F4StzQMrFgPcR5Ys"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Magnet",
+                    "title": "Willow's Song",
+                    "uri": "0P6d0hblOkNzO5Z9xIc3XZ"
+                },
+                {
+                    "artist": "Magnet",
+                    "title": "Willow's Song",
+                    "uri": "2RWBF5MtCfEfzWQPX2NUZb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pia-Sophie",
+                    "title": "Magnet",
+                    "uri": "0oE9oMN4sIDD0M7FKHW0nq"
+                },
+                {
+                    "artist": "Tom Twers",
+                    "title": "Magnet",
+                    "uri": "2g7RNpSstr7xFWvkb2WNDx"
+                },
+                {
+                    "artist": "Carolina",
+                    "title": "Magnet",
+                    "uri": "0PzW3ovMuIhI8xj3qbpfGw"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Stefan Grossman",
+                    "title": "The Drifter",
+                    "uri": "5sX28P4FS88sKDlf3QTWks"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Stefan Grossman",
+                    "title": "The Drifter",
+                    "uri": "5sX28P4FS88sKDlf3QTWks"
+                },
+                {
+                    "artist": "John Renbourn",
+                    "title": "Bermuda Triangle Exit",
+                    "uri": "06iW5fA039QeCwZNbXLJjv"
+                },
+                {
+                    "artist": "The Drifters",
+                    "title": "White Christmas",
+                    "uri": "5skPAf0IIIy7UXJch1QgZy"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Voice Of The Seven Woods",
+                    "title": "The Journey",
+                    "uri": "0wTl8iSzbr9m9WEduw9THy"
+                },
+                {
+                    "artist": "Voice Of The Seven Woods",
+                    "title": "Breaking Moonlight",
+                    "uri": "5yIFU4VShFmRbcouF5o9Uw"
+                },
+                {
+                    "artist": "Voice Of The Seven Woods",
+                    "title": "6",
+                    "uri": "0mV5iMaeEqvLz7HgLGZJom"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Cleveland Francis",
+                    "title": "The Willow Tree",
+                    "uri": "3h1ooUSQRS5KyzzsZ3zJh2"
+                },
+                {
+                    "artist": "Cleveland Francis",
+                    "title": "What's Wrong with the World",
+                    "uri": "6LnoK7UE5b0y36dKS204sq"
+                },
+                {
+                    "artist": "Cleveland Francis",
+                    "title": "The Willow Tree (Demo)",
+                    "uri": "6YFOqYTtkNWTjckZ9CDkh3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cleveland Francis",
+                    "title": "The Willow Tree",
+                    "uri": "3h1ooUSQRS5KyzzsZ3zJh2"
+                },
+                {
+                    "artist": "Cleveland Francis",
+                    "title": "Early Morning Rain",
+                    "uri": "7GQz5rXS4ArE1LTMIYjbWc"
+                },
+                {
+                    "artist": "Cleveland Francis",
+                    "title": "Little Green Apples",
+                    "uri": "4AGapwTVJn5t8PEMJsWMRu"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "David Crosby",
+                    "title": "Traction in the Rain",
+                    "uri": "0qexU8674Ii6vaeFolN6Gb"
+                },
+                {
+                    "artist": "David Crosby",
+                    "title": "Traction In The Rain - 2021 Remaster",
+                    "uri": "6osye84SuEP33V9Nlf6dCG"
+                },
+                {
+                    "artist": "David Crosby",
+                    "title": "Traction In The Rain",
+                    "uri": "07WYubHpoBLwRS0l9bg2w3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "David Crosby",
+                    "title": "Traction in the Rain",
+                    "uri": "0qexU8674Ii6vaeFolN6Gb"
+                },
+                {
+                    "artist": "David Crosby",
+                    "title": "Traction In The Rain - 2021 Remaster",
+                    "uri": "6osye84SuEP33V9Nlf6dCG"
+                },
+                {
+                    "artist": "David Crosby",
+                    "title": "Orleans - 2021 Remaster",
+                    "uri": "0LWapBa6bXgW8Udc1hguq9"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Chimera",
+                    "title": "Song in E",
+                    "uri": "2DbkpT2iIKnc8BAJCSgCIy"
+                },
+                {
+                    "artist": "Chimera",
+                    "title": "Song in E",
+                    "uri": "3AEQu93GksnfRm9enb9AwL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lucas Chambon",
+                    "title": "Chimera",
+                    "uri": "7skoeDHh0jUZ4qgjJXHsyU"
+                },
+                {
+                    "artist": "aeseaes",
+                    "title": "Chimera",
+                    "uri": "1T1J0yPTJWLrlOtQWFJQRU"
+                },
+                {
+                    "artist": "Polyphia",
+                    "title": "Chimera (feat. Lil West)",
+                    "uri": "5aVKIdM550lRzk7rFbPcF7"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Gábor Szabó",
+                    "title": "Concerto #2",
+                    "uri": "4c7nBvzUDlpuOGZZdIEHaT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gábor Szabó",
+                    "title": "Stormy",
+                    "uri": "3JeDm203MFpRlzSFaoNEv2"
+                },
+                {
+                    "artist": "Gábor Szabó",
+                    "title": "Breezin'",
+                    "uri": "6vgX6B5beQ0SXbmIDwZBDJ"
+                },
+                {
+                    "artist": "Gábor Szabó",
+                    "title": "Three King Fishers",
+                    "uri": "6w3bIc0BxTPGNHqyH4KNiY"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Bulbous Creation",
+                    "title": "End Of The Page",
+                    "uri": "3J57Luhao7OG8VQXN1ARFH"
+                },
+                {
+                    "artist": "Bulbous Creation",
+                    "title": "End Of The Page",
+                    "uri": "4xZ5avGJApuFQf3RDx9AmB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bulbous Creation",
+                    "title": "End Of The Page",
+                    "uri": "3J57Luhao7OG8VQXN1ARFH"
+                },
+                {
+                    "artist": "So.Lo",
+                    "title": "Bulb",
+                    "uri": "1f67zXVTghMxkQBOtS2vLr"
+                },
+                {
+                    "artist": "Skiter",
+                    "title": "Bulbassauro! :)",
+                    "uri": "28SXJ6gGJYP7HicDanpjqO"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Todd Rundgren",
+                    "title": "Tiny Demons - 2015 Remaster",
+                    "uri": "1AA9dzitQQMtaq51yJh3FI"
+                },
+                {
+                    "artist": "Todd Rundgren",
+                    "title": "Tiny Demons - Live",
+                    "uri": "3UzyKCwBei1d8TcZhdZPbA"
+                },
+                {
+                    "artist": "Todd Rundgren",
+                    "title": "Tiny Demons - Live",
+                    "uri": "7KYCB0uKrDLhyvJVHoaJvo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Todd Rundgren",
+                    "title": "Tiny Demons - 2015 Remaster",
+                    "uri": "1AA9dzitQQMtaq51yJh3FI"
+                },
+                {
+                    "artist": "Todd Rundgren",
+                    "title": "Tiny Demons - Live",
+                    "uri": "7KYCB0uKrDLhyvJVHoaJvo"
+                },
+                {
+                    "artist": "Todd Rundgren",
+                    "title": "I Saw the Light - 2015 Remaster",
+                    "uri": "0lHZqyRXGbuXGF7Ba4aH4M"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "Bootsy Collins",
+                    "title": "Munchies for Your Love",
+                    "uri": "6gOY69g42Ex8Kad665i53a"
+                },
+                {
+                    "artist": "Bootsy Collins",
+                    "title": "Munchies for Your Love",
+                    "uri": "2SWKEuMTMQlhxfrzfmB4Rn"
+                },
+                {
+                    "artist": "Bootsy Collins",
+                    "title": "Munchies for Your Love",
+                    "uri": "3Td7jcJbqGnOKGNLszvJ9Z"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bootsy Collins",
+                    "title": "Munchies for Your Love",
+                    "uri": "6gOY69g42Ex8Kad665i53a"
+                },
+                {
+                    "artist": "Bootsy Collins",
+                    "title": "I'd Rather Be with You",
+                    "uri": "0rDzbrqJfF0zgQKvrnAjRJ"
+                },
+                {
+                    "artist": "Bootsy Collins",
+                    "title": "I'm Leavin' U (Gotta Go, Gotta Go) (feat. MC Lyte) - C & J Fulltime Mix",
+                    "uri": "6PWSHANKexW57TDosKARmW"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "Toots & The Maytals",
+                    "title": "Night And Day",
+                    "uri": "3NsU0UlcVvPnHxtrQB5F8r"
+                },
+                {
+                    "artist": "Toots & The Maytals",
+                    "title": "Night and Day",
+                    "uri": "4jDSUeI4nr1FaguGE7B2FZ"
+                },
+                {
+                    "artist": "The Maytals",
+                    "title": "Night and Day",
+                    "uri": "7CJIHaUGCKdnWHJUFbpiU0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Toots & The Maytals",
+                    "title": "Night and Day",
+                    "uri": "4jDSUeI4nr1FaguGE7B2FZ"
+                },
+                {
+                    "artist": "Toots & The Maytals",
+                    "title": "Night And Day",
+                    "uri": "3NsU0UlcVvPnHxtrQB5F8r"
+                },
+                {
+                    "artist": "The Maytals",
+                    "title": "Pressure Drop",
+                    "uri": "55A8N3HXzIecctUSvru3Ch"
+                }
+            ]
+        },
+        "25": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DJ Hype",
+                    "title": "Peace, Love and Unity",
+                    "uri": "7Cfc6dhTAZJSihMsSYMyVD"
+                },
+                {
+                    "artist": "Fortunate Youth",
+                    "title": "Peace Love and Unity (feat. Zion Thompson)",
+                    "uri": "2EfawyFUOPCXx7IZxhOuxH"
+                },
+                {
+                    "artist": "Pedro World Citizen",
+                    "title": "Peace Love Joy",
+                    "uri": "2aHaAYyLdxtegAMZ7EI69g"
+                }
+            ]
+        },
+        "26": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Clive From Accounts",
+                    "title": "Gravitate",
+                    "uri": "2gmv9ezLNGFo2YqXu8B6Ct"
+                },
+                {
+                    "artist": "Clive Jans",
+                    "title": "Time To Live",
+                    "uri": "1KpnUnQvrYmAEjgwAVqlNx"
+                },
+                {
+                    "artist": "Clive Jans",
+                    "title": "Fourdust",
+                    "uri": "0hLu4k1CMJ8ytFvFSnh3LS"
+                }
+            ]
+        }
+    },
     "corticeps-17th-july-2022": {
         "00": {
             "s0": "",

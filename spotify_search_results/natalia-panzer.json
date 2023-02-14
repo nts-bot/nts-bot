@@ -1,4 +1,480 @@
 {
+    "natalia-panzer-11th-february-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Robert McDuffie",
+                    "title": "Sonata for Violin & Piano: Movement I",
+                    "uri": "0jFEuxWBeJ8bCi3EGGPRXP"
+                },
+                {
+                    "artist": "Robert McDuffie",
+                    "title": "Sonata for Violin & Piano: Movement II",
+                    "uri": "0uYe8jS6yBNoGn765G9c0H"
+                },
+                {
+                    "artist": "Elizabeth Raum",
+                    "title": "Pershing Concerto for Tuba and Orchestra: I. Allegro moderato",
+                    "uri": "5N2idmJlD3A7uc80E57K1g"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "R. Elizabeth",
+                    "title": "Cut Piano",
+                    "uri": "10kfDHcyjkgXKyLB84cXoI"
+                },
+                {
+                    "artist": "Wolfgang Amadeus Mozart",
+                    "title": "Idomeneo KV 366, Act 3, Scene III: Quartetto : Andrò ramingo e solo (Idamante/Ilia/Idomeneo/Elettra)",
+                    "uri": "29uJQ8nGbCdld1JyF7cH2a"
+                },
+                {
+                    "artist": "Ludwig van Beethoven",
+                    "title": "Beethoven: Romance for Violin and Orchestra No. 1 in G Major, Op. 40",
+                    "uri": "4Gw510eswk0qtVnx3wLt90"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Chypho",
+                    "title": "Yùnqì",
+                    "uri": "67OUp3R7M3CaZLf1SoAlZ4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chypho",
+                    "title": "Yùnqì",
+                    "uri": "67OUp3R7M3CaZLf1SoAlZ4"
+                },
+                {
+                    "artist": "Yuna Sound Maker",
+                    "title": "Chopped Up",
+                    "uri": "3TmE5yH68bZhTmynchFC70"
+                },
+                {
+                    "artist": "HalaCG",
+                    "title": "Yandere Cypher",
+                    "uri": "5nBVxgYgj68xwtpGslxhP5"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Broadcast",
+                    "title": "Milling Around The Village",
+                    "uri": "357GgSKqmY85OKmPRDkY5T"
+                }
+            ],
+            "s1": ""
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Cass Elliot",
+                    "title": "Dream A Little Dream Of Me",
+                    "uri": "3cOWCcBKwiwUs5PCYirwMI"
+                },
+                {
+                    "artist": "The Mamas & The Papas",
+                    "title": "Dream A Little Dream Of Me",
+                    "uri": "27hhIs2fp6w06N5zx4Eaa5"
+                },
+                {
+                    "artist": "Pro Choice Karaoke",
+                    "title": "Dream a Little Dream of Me (Karaoke Version) - Originally Performed By Mama Cass",
+                    "uri": "4RWzwBSVW3Lpmxy33o1QFm"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jeans Wilder",
+                    "title": "Dog Years",
+                    "uri": "2kzefxul4KEqDBIOA3cndb"
+                },
+                {
+                    "artist": "Jeans Wilder",
+                    "title": "Evaporated",
+                    "uri": "2rewptAh37y4sfucRIuW8y"
+                },
+                {
+                    "artist": "Jens Winther",
+                    "title": "In A Settlement Mood",
+                    "uri": "1s89Ru02HMpFNMErXaiRKn"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lispector",
+                    "title": "A. Team",
+                    "uri": "5A3R35yeziKXWIwEiERJqa"
+                },
+                {
+                    "artist": "Lispector",
+                    "title": "Seabird",
+                    "uri": "2xHYh0bD329YxzimSd0cXw"
+                },
+                {
+                    "artist": "Música Relajante",
+                    "title": "Perspectiva La",
+                    "uri": "30EF4A86jRght6yqbJpUJS"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Emily Reo",
+                    "title": "Peach",
+                    "uri": "4CcjH4fC6HwODGEt1NaT1P"
+                },
+                {
+                    "artist": "Emily Reo",
+                    "title": "Peach",
+                    "uri": "4744jwCHr1Bw8dRWdNBUBq"
+                },
+                {
+                    "artist": "Emily Reo",
+                    "title": "Peach",
+                    "uri": "0qTv0PUOn5NQEzEEc5rWiK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Emily Remler",
+                    "title": "A Taste Of Honey",
+                    "uri": "3iHNiBlXOwXJAFvWU6poMH"
+                },
+                {
+                    "artist": "Oscar Scheller",
+                    "title": "Peach",
+                    "uri": "530kyqiGiyVWIArbjrGwKj"
+                },
+                {
+                    "artist": "Pardison Fontaine",
+                    "title": "Peach (feat. City Girls)",
+                    "uri": "1lgQjuwCLFdDIE6yKz0c5R"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ckhrisk",
+                    "title": "Rocket - Original Mix",
+                    "uri": "2JSIgfB58sb2uQNdFgWotg"
+                },
+                {
+                    "artist": "Mystery Gang",
+                    "title": "Rocket-O",
+                    "uri": "0mEglULRR0FW5UKKuHBjRA"
+                },
+                {
+                    "artist": "Rocket Overdrive",
+                    "title": "Riot In Music Society",
+                    "uri": "4nY8KUWBpoWY7zOv6pWZEK"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Diane Ward",
+                    "title": "Why Don't You Go Home",
+                    "uri": "1xIDpDHXicBoflmlVhVA5F"
+                },
+                {
+                    "artist": "Harry Styles",
+                    "title": "Little Freak",
+                    "uri": "3i058E8uxTsYqJ5NWZzqSj"
+                },
+                {
+                    "artist": "Abdurrehman Sidat",
+                    "title": "Go Home",
+                    "uri": "57XEGssueTVotij34bnRMN"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Badfinger",
+                    "title": "Baby Blue - Remastered 2010",
+                    "uri": "6S3JlDAGk3uu3NtZbPnuhS"
+                },
+                {
+                    "artist": "King Krule",
+                    "title": "Baby Blue",
+                    "uri": "1RRBuxXdsIB0yazqGDlKTj"
+                },
+                {
+                    "artist": "AUDREY NUNA",
+                    "title": "Baby Blues",
+                    "uri": "08tdFfSLp50Wv6HIcfH9YP"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Avatism",
+                    "title": "The Slug - Clockwork (C/W) Remix",
+                    "uri": "232xV2Fj4e8NmYbPJtREeE"
+                },
+                {
+                    "artist": "Harrison BDP",
+                    "title": "Slugs",
+                    "uri": "6sGDCucnhlFilCxquxaWX8"
+                },
+                {
+                    "artist": "Warlord Colossus",
+                    "title": "Slugs",
+                    "uri": "02Ht9azzWembYh9Xf4keCH"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "meat computer",
+                    "title": "only1",
+                    "uri": "5lBUl7GkVC6xjOu15JD5ip"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "meat computer",
+                    "title": "only1",
+                    "uri": "5lBUl7GkVC6xjOu15JD5ip"
+                },
+                {
+                    "artist": "meat computer",
+                    "title": "shut down entirely",
+                    "uri": "2iDIFn3hIbiwfsLtCggubr"
+                },
+                {
+                    "artist": "meat computer",
+                    "title": "zyzz",
+                    "uri": "1r5eJIzmFvRMVAd6WDuDV9"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Carmen McRae",
+                    "title": "Even If It Breaks My Heart",
+                    "uri": "1rwoZHIH9rcUmgzn6Y8l30"
+                },
+                {
+                    "artist": "Carmen McRae",
+                    "title": "I'm Putting All My Eggs In One Basket",
+                    "uri": "63OYNxGrbMgvoPFatr9X9C"
+                },
+                {
+                    "artist": "Juana",
+                    "title": "Carmen Maura",
+                    "uri": "6ClMdWb43mBKHX73JfqJhO"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Milky",
+                    "title": "Just The Way You Are",
+                    "uri": "2kJo0J02qdTsD1omMouIro"
+                },
+                {
+                    "artist": "Milky",
+                    "title": "Just The Way You Are",
+                    "uri": "0jFzoO82bSus2d8xyQ5FA6"
+                },
+                {
+                    "artist": "Milky",
+                    "title": "Just The Way You Are - Extended Mix",
+                    "uri": "0L3iWlUwnWhnCOuE2GV9Oj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Milky Chance",
+                    "title": "Synchronize",
+                    "uri": "6Ql7rNuoP90aIdgwQkPYBP"
+                },
+                {
+                    "artist": "LUNAX",
+                    "title": "Milky Way - AXMO Remix",
+                    "uri": "6vM3RkvmyCcJWAMhtlidqO"
+                },
+                {
+                    "artist": "Milky Chance",
+                    "title": "Synchronize",
+                    "uri": "3GXgrEjBjonrQrPEEi13yU"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Burt Bacharach",
+                    "title": "I'll Never Fall in Love Again",
+                    "uri": "5aYR2yKYdcWxX7gAO2CYps"
+                },
+                {
+                    "artist": "Ronan Keating",
+                    "title": "I'll Never Fall In Love Again",
+                    "uri": "1hd51g2AoEpvYsyxLQM2F8"
+                },
+                {
+                    "artist": "The Bacharachs",
+                    "title": "I'll Never Fall In Love Again",
+                    "uri": "1V1pQ7oqbl9qGPgeZRTdYV"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Myslovitz",
+                    "title": "Dlugość dźwięku samotności",
+                    "uri": "5ytkHKps6RVVDFZwAqVDCB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Myslovitz",
+                    "title": "Dlugość dźwięku samotności",
+                    "uri": "5ytkHKps6RVVDFZwAqVDCB"
+                },
+                {
+                    "artist": "Myslovitz",
+                    "title": "Dla Ciebie",
+                    "uri": "4gDG78TaA7RYH17odwTXwS"
+                },
+                {
+                    "artist": "Myslovitz",
+                    "title": "Mieć czy być",
+                    "uri": "0z3GnQC4I6HDNHM16Cgvj8"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "YlangYlang",
+                    "title": "Limitless",
+                    "uri": "3Yp8T3mJIDxe4DuZWlpVPD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Yll Limani",
+                    "title": "TONAT",
+                    "uri": "6upDuyKyDjbO5XczCzgXp9"
+                },
+                {
+                    "artist": "Yll Limani",
+                    "title": "ULU",
+                    "uri": "6rMror7QMuqb0EsuwOxNql"
+                },
+                {
+                    "artist": "Yll Limani",
+                    "title": "Malet",
+                    "uri": "3yzyh2Q1L9lvK5UpFOdyMT"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Emily Reo",
+                    "title": "Honeybee",
+                    "uri": "0QRrb21zlOb4E2RgqOWoaK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Head And The Heart",
+                    "title": "Honeybee",
+                    "uri": "5CalS8Gn69OOrR9aiw0ZO9"
+                },
+                {
+                    "artist": "Unknown Mortal Orchestra",
+                    "title": "Hunnybee",
+                    "uri": "6AAYNz8jXvVlgG9IpYi42Z"
+                },
+                {
+                    "artist": "Jamaram",
+                    "title": "Honey Bee",
+                    "uri": "5g3RjnlRde8DB4gMsmWTf3"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Os Mutantes",
+                    "title": "Baby",
+                    "uri": "77YYd464qZ7ivCPDT9Tlgy"
+                },
+                {
+                    "artist": "Os Mutantes",
+                    "title": "Panis Et Circenses",
+                    "uri": "0Dmnb3C3GaGdyjlyWaWLDr"
+                },
+                {
+                    "artist": "Os Mutantes",
+                    "title": "A Minha Menina",
+                    "uri": "0lGEWOZvMexZFXckBJxlVO"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Carmen Francisco",
+                    "title": "Ay Papi",
+                    "uri": "3NSJwftKZZEgYsI5qcBBdu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Abija",
+                    "title": "Ay Papi",
+                    "uri": "6DrKjGmr1BUNfDPB8cfPYr"
+                },
+                {
+                    "artist": "Luciano Bradini",
+                    "title": "Ay Papi!",
+                    "uri": "1OuDh8C5FfR8ka2LiNzZnK"
+                },
+                {
+                    "artist": "Julian Riem",
+                    "title": "Carmen Fantasie (After Georges Bizet: Carmen, GB 9/WD 31)",
+                    "uri": "1I8zTtjjit5Y3J6CZPhID5"
+                }
+            ]
+        }
+    },
     "natalia-panzer-14th-january-2023": {
         "00": {
             "s0": [
