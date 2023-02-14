@@ -6631,9 +6631,10 @@
         },
         "17": {
             "artist": "Boys Noize",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Euphoria",
-            "trackid": "2oWFFtOQx0Qh31L89ybK8c"
+            "trackid": "2oWFFtOQx0Qh31L89ybK8c",
+            "uri": ""
         },
         "18": {
             "artist": "MEDUZA",
@@ -6918,6 +6919,140 @@
             "ratio": 9,
             "title": "Honey Dip",
             "trackid": "3H4xY3vJdvjlTtq1YUv0gu"
+        }
+    },
+    "budgie-9th-february-2023": {
+        "00": {
+            "artist": "BONES",
+            "ratio": 4,
+            "title": "SugarFree",
+            "trackid": "2n4P2UNMvMj5sNAA5xw7S3"
+        },
+        "01": {
+            "artist": "Huey Briss",
+            "ratio": 4,
+            "title": "Gil Scott Never Lied",
+            "trackid": "2XApLLI5ijEIdvs71HgLMZ"
+        },
+        "02": {
+            "artist": "Sandy B",
+            "ratio": 9,
+            "title": "Amajovi Jovi",
+            "trackid": "4Omc42upgT77RP4X4gTzVN"
+        },
+        "03": {
+            "artist": "Drake",
+            "ratio": 9,
+            "title": "Jumbotron Shit Poppin",
+            "trackid": "2ZlABhxMMa43COmZ97kKsJ"
+        },
+        "04": {
+            "artist": "Valee",
+            "ratio": 4,
+            "title": "Kelly Green",
+            "trackid": "0ZSOKZ8NewiNqQGIzwHI9T"
+        },
+        "05": {
+            "artist": "Seb Wildblood",
+            "ratio": 5,
+            "title": "ghostie",
+            "trackid": "0DiSTqizNnByGI7JAJwU7B"
+        },
+        "06": {
+            "artist": "Jack Stauber's Micropop",
+            "ratio": 3,
+            "title": "Eyelash",
+            "trackid": "6fmhQDBrLGb4qVirehoBsy"
+        },
+        "07": {
+            "artist": "Pi’erre Bourne",
+            "ratio": 9,
+            "title": "Shorty Diary",
+            "trackid": "0iJC2K6Vl7GIciMZWI62hR"
+        },
+        "08": {
+            "artist": "C-Sick House",
+            "ratio": 9,
+            "title": "Work The Middle",
+            "trackid": "0t3URRdxZM1EXqqgQjXnQY"
+        },
+        "09": {
+            "artist": "Tame Impala",
+            "ratio": 9,
+            "title": "Is It True",
+            "trackid": "6RZmhpvukfyeSURhf4kZ0d"
+        },
+        "10": {
+            "artist": "Common",
+            "ratio": 9,
+            "title": "GO!",
+            "trackid": "4JNTpbntShpUpACDUzwHV5"
+        },
+        "11": {
+            "artist": "1 9 0 5",
+            "ratio": 9,
+            "title": "Recorddeals",
+            "trackid": "1XrUXIY86zAKuoqTQmuw7u"
+        },
+        "12": {
+            "artist": "SWV",
+            "ratio": 3,
+            "title": "Right Here - Human Nature Radio Mix",
+            "trackid": "5u3FywQOPJ5O7ZAjm31cnq"
+        },
+        "13": {
+            "artist": "Brent Faiyaz",
+            "ratio": 3,
+            "title": "Missin Out",
+            "trackid": "2Lwe7PQk7mROzGezTrRVap"
+        },
+        "14": {
+            "artist": "Sandy B",
+            "ratio": 9,
+            "title": "Student Night",
+            "trackid": "5WltyA542cYUVj8NCgOjIR"
+        },
+        "15": {
+            "artist": "Cedric Burnside",
+            "ratio": 3,
+            "title": "Step In",
+            "trackid": "1b44sEBiYyl35EbYDgNGfk"
+        },
+        "16": {
+            "artist": "Wizkid",
+            "ratio": 9,
+            "title": "Pressure",
+            "trackid": "7BlmNYOn2IRWTdlk2qypvM"
+        },
+        "17": {
+            "artist": "Muzzy D Pilot",
+            "ratio": 4,
+            "title": "Shay'mpempe Amapiano Mix",
+            "trackid": "2zEubbwXFFI7bb3B0etgBf"
+        },
+        "18": {
+            "artist": "Michael Sembello",
+            "ratio": 9,
+            "title": "Maniac (New Version)",
+            "trackid": "1QqyRHiHfaEa8AHa1tes2C"
+        },
+        "19": {
+            "artist": "Kent Jamz",
+            "ratio": 3,
+            "title": "Rollin Wit The Homies (feat. Buddy)",
+            "trackid": "2X1WUhn4giE70wOXg6BTcR"
+        },
+        "20": {
+            "artist": "PRXSXNT FXTURE",
+            "ratio": 3,
+            "title": "TOKYO DRIFT",
+            "trackid": "733RnlYLskyvWMhhzs70sy"
+        },
+        "21": {
+            "artist": "Young Thug",
+            "ratio": 9,
+            "title": "Check",
+            "trackid": "1jk9c0gZI0wbn5GvAj7PBV"
         }
     },
     "budgie-9th-may-2019": {

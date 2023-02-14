@@ -735,6 +735,569 @@
             ]
         }
     },
+    "lil-c-10th-february-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Aaliyah",
+                    "title": "More Than A Woman",
+                    "uri": "4x2YdtTppdbL4kHPOjaunq"
+                },
+                {
+                    "artist": "Aaliyah",
+                    "title": "More Than A Woman",
+                    "uri": "3Qn0lCE28GSVVu274XkOhR"
+                },
+                {
+                    "artist": "Aaliyah",
+                    "title": "More Than A Woman",
+                    "uri": "023f8sPDxSWFhgfv4vfFkE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aaliyah",
+                    "title": "More Than A Woman",
+                    "uri": "3Qn0lCE28GSVVu274XkOhR"
+                },
+                {
+                    "artist": "Aaliyah",
+                    "title": "Try Again",
+                    "uri": "6dp3XPQJuC7qP7TaEFVgL5"
+                },
+                {
+                    "artist": "RhymeTube",
+                    "title": "ALL 4 U",
+                    "uri": "3M9kDFrDZaFa9i4Y5qqABt"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ultra Beats",
+                    "title": "Iguana (Reggaeton Instrumental)",
+                    "uri": "5m8N5vFVxyzkVQu4EjzifX"
+                },
+                {
+                    "artist": "Floresis Beat",
+                    "title": "Reggaeton Instrumental Base 38",
+                    "uri": "67fOLSs89kc7WrI2w6QHPc"
+                },
+                {
+                    "artist": "La Salsa Beats",
+                    "title": "Un Arrebato - Instrumental Reggaeton",
+                    "uri": "11eXp198sSFOmXX9Fswvzm"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Juls",
+                    "title": "Sade Riddim",
+                    "uri": "7B90I1KP4WqNqMA03A0K0f"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Juls",
+                    "title": "Sade Riddim",
+                    "uri": "7B90I1KP4WqNqMA03A0K0f"
+                },
+                {
+                    "artist": "Sade",
+                    "title": "Turn My Back On You",
+                    "uri": "7aiN4fPcpFmZeF88SiVdpS"
+                },
+                {
+                    "artist": "Seeed",
+                    "title": "Riddim No 1",
+                    "uri": "1ooatRQWNtl4jB7hQoanFz"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Lojay",
+                    "title": "MOTO",
+                    "uri": "1b83195i03SMUa1VWto8Z5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lojay",
+                    "title": "MOTO",
+                    "uri": "1b83195i03SMUa1VWto8Z5"
+                },
+                {
+                    "artist": "Alizée",
+                    "title": "Moi... Lolita",
+                    "uri": "6e0LjNPkRqxIAlmmdjWSV8"
+                },
+                {
+                    "artist": "Chris Veron",
+                    "title": "Motokobo",
+                    "uri": "3J8xd0PgO6nKvvsmB3q53H"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Boy Spyce",
+                    "title": "Folake",
+                    "uri": "5FCS33n2pWeNBFjQpwKaiH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Boy Spyce",
+                    "title": "Folake",
+                    "uri": "5FCS33n2pWeNBFjQpwKaiH"
+                },
+                {
+                    "artist": "Boy Spyce",
+                    "title": "Nobody",
+                    "uri": "5BvgeXx2O2ylxYmFb3y3Q8"
+                },
+                {
+                    "artist": "Boy Spyce",
+                    "title": "Destiny",
+                    "uri": "6ODiRDx64rvSTZ9rn5wwWx"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Dinamarca",
+                    "title": "7",
+                    "uri": "4ls5ceEDYCItgbouAKiAm6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dinamarca",
+                    "title": "7",
+                    "uri": "4ls5ceEDYCItgbouAKiAm6"
+                },
+                {
+                    "artist": "Dinamarca",
+                    "title": "Prins",
+                    "uri": "0I7jICHpy7NL7Uh7RQJ4Nz"
+                },
+                {
+                    "artist": "Jules Ahoi",
+                    "title": "Denmark",
+                    "uri": "5X2UuV0emUklKWP8cX2UOL"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Ms Nina",
+                    "title": "Tristechonda",
+                    "uri": "4GBrKvo7PEUG7oxj0jtg0m"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ms Nina",
+                    "title": "Tristechonda",
+                    "uri": "4GBrKvo7PEUG7oxj0jtg0m"
+                },
+                {
+                    "artist": "Ms Nina",
+                    "title": "Tu Sicaria",
+                    "uri": "5cyKYhm8vo5edvuT5tIuQ6"
+                },
+                {
+                    "artist": "Mrs. Nina Chartier",
+                    "title": "Nein Nein Nein",
+                    "uri": "4RUp0MFLqcv8NtgroIw7J5"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Don Sinini",
+                    "title": "Signs",
+                    "uri": "3UQFCTICmAhWamjVSxkhkW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Don Sinini",
+                    "title": "Signs",
+                    "uri": "3UQFCTICmAhWamjVSxkhkW"
+                },
+                {
+                    "artist": "Don Sinini",
+                    "title": "How It Be",
+                    "uri": "6Qt07rvPWUp2n8zTub8SwG"
+                },
+                {
+                    "artist": "$HYBXI",
+                    "title": "Don",
+                    "uri": "6rGB9OTjvZhMvZUESHSKrs"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Skillibeng",
+                    "title": "Bad Everyday",
+                    "uri": "4ZQJLV4AOuHHH6hIsup9L8"
+                },
+                {
+                    "artist": "Skillet",
+                    "title": "Legendary",
+                    "uri": "2pYaGdqXBrl8MdvuwgtBb7"
+                },
+                {
+                    "artist": "Skillet",
+                    "title": "Rise",
+                    "uri": "1W0YS64vF9qgMVLuN76aqg"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Skillibeng",
+                    "title": "Whap Whap (feat. F.S.)",
+                    "uri": "47MwPx7nbFUD5IGVhL38Zr"
+                },
+                {
+                    "artist": "Skillet",
+                    "title": "Legendary",
+                    "uri": "2pYaGdqXBrl8MdvuwgtBb7"
+                },
+                {
+                    "artist": "Skillet",
+                    "title": "Rise",
+                    "uri": "1W0YS64vF9qgMVLuN76aqg"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Masicka",
+                    "title": "Pieces (with Jahshii)",
+                    "uri": "6NaeXUltqK5j9NqCaiqRO4"
+                },
+                {
+                    "artist": "Masicka",
+                    "title": "Moments",
+                    "uri": "53rvxSNmKhy7wMAAygyYWr"
+                },
+                {
+                    "artist": "Masicka",
+                    "title": "Quality",
+                    "uri": "2awysZ8bXGxI6RXK2N9SJw"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Valiant",
+                    "title": "Top Meech",
+                    "uri": "6Z3t3ig3FwLfo0Pg7WGlR5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Valiant",
+                    "title": "Top Meech",
+                    "uri": "6Z3t3ig3FwLfo0Pg7WGlR5"
+                },
+                {
+                    "artist": "Dream Cave",
+                    "title": "Valiant",
+                    "uri": "1yDH9vW8GboBkqNJujPiF6"
+                },
+                {
+                    "artist": "Elenco de Soy Luna",
+                    "title": "Valiente",
+                    "uri": "488HqntnwfJNTmJ7UBQ0nS"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Landy Boy",
+                    "title": "Rampampam",
+                    "uri": "6lqghYAlOJ6coHRIovTkNR"
+                },
+                {
+                    "artist": "DJ Chemo",
+                    "title": "Check 1...2!",
+                    "uri": "23VfL7PAym109TUi29eQqE"
+                },
+                {
+                    "artist": "IQ",
+                    "title": "Soca Start",
+                    "uri": "2rDPAKcCKNH2lXE02sP7dD"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Jorge Dj Productor",
+                    "title": "Dale Friki Friki Tona",
+                    "uri": "4XwSM1w5k1FHsOUQ2TXczv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jorge Dj Productor",
+                    "title": "Dale Friki Friki Tona",
+                    "uri": "4XwSM1w5k1FHsOUQ2TXczv"
+                },
+                {
+                    "artist": "Jorge Dj Productor",
+                    "title": "Ven Pa Que Pruebe",
+                    "uri": "0KLPkTW39E0dBlXFiniAlo"
+                },
+                {
+                    "artist": "Jorge Dj Productor",
+                    "title": "Que No Pare",
+                    "uri": "3FDwqLnrsnOiUEwY25iGIl"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dualitè",
+                    "title": "HRT",
+                    "uri": "4PEaz7zSFaQcRoYByKOSyn"
+                },
+                {
+                    "artist": "Paul van Dyk",
+                    "title": "Duality",
+                    "uri": "75dtuLXf7uNtQNAGMDIM7k"
+                },
+                {
+                    "artist": "F.O.O.L",
+                    "title": "Duality",
+                    "uri": "3SdDaIM1CjAEaFN9jmqfjf"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Tallup",
+                    "title": "Pum Pum Power",
+                    "uri": "4why1mm3r0hAzFnBDnBrAW"
+                },
+                {
+                    "artist": "Tallup",
+                    "title": "Pum Pum Power",
+                    "uri": "7tpBLy3HPbtiMVW6dvwnoi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "OG LOCKE",
+                    "title": "PUM PUM",
+                    "uri": "1QR7en3X4rQMTPdi6cG1gs"
+                },
+                {
+                    "artist": "Showtek",
+                    "title": "Pum Pum",
+                    "uri": "0mPZvXXQoBL7MN8zhFQbkf"
+                },
+                {
+                    "artist": "Showtek",
+                    "title": "Pum Pum - Da Tweekaz Remix",
+                    "uri": "1rGqeJUmXtgHXWCnbEvMqT"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ariana Grande",
+                    "title": "Into You",
+                    "uri": "76FZM38RC8XaAjJ77CVTNe"
+                },
+                {
+                    "artist": "Ariana Grande",
+                    "title": "Into You - 3LAU Remix",
+                    "uri": "1cfVkL84XmRON3Gl9jDXKI"
+                },
+                {
+                    "artist": "Yung Hurn",
+                    "title": "INTO YOU (feat. meat computer)",
+                    "uri": "00FxXyZMcTO1hQutQoQazK"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Frankely Star",
+                    "title": "Manzo Ahi Dembow Beat",
+                    "uri": "46XT8xqD2w4lJmSa6wepSZ"
+                },
+                {
+                    "artist": "El Sandy RD",
+                    "title": "Dembow Instrumental",
+                    "uri": "4pqbBwWCoyzyeODqUK9PPB"
+                },
+                {
+                    "artist": "DJ Radha",
+                    "title": "Dembow Beat Dominicano",
+                    "uri": "4oxwd4utd59vH1VFNFcIh8"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Vybz Kartel",
+                    "title": "Love Mummy",
+                    "uri": "25ZKYx5sudY7Y1oOJ1dCB3"
+                },
+                {
+                    "artist": "Vybz Kartel",
+                    "title": "Love Mummy",
+                    "uri": "3CPjmnz5cd8J2MjHR5cbtA"
+                },
+                {
+                    "artist": "Vybz Kartel",
+                    "title": "Love Mummy",
+                    "uri": "3hZr8CjZJVlhuqeMTr23ea"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Vybz Kartel",
+                    "title": "Summer Tiime",
+                    "uri": "4jGE3Ct8rgMZQgJshj5Bdp"
+                },
+                {
+                    "artist": "Vybz Kartel",
+                    "title": "Clarks",
+                    "uri": "6LKeLk5IBQUb9eoXidchGQ"
+                },
+                {
+                    "artist": "Vybz Kartel",
+                    "title": "Fever",
+                    "uri": "0btB1fHGwvipD4IUmyh1vL"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rihanna",
+                    "title": "We Found Love",
+                    "uri": "0U10zFw4GlBacOy9VDGfGL"
+                },
+                {
+                    "artist": "VinDaci",
+                    "title": "We Found Drill",
+                    "uri": "278ifWUmtFFU1XtJPFd3Kn"
+                },
+                {
+                    "artist": "Niklas Dee",
+                    "title": "We Found Love",
+                    "uri": "6YQic2pBfDoSPiee4Zfllp"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": ""
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Syko",
+                    "title": "Vienna",
+                    "uri": "4RovWM2cqn1nOxy8E8LPt6"
+                },
+                {
+                    "artist": "Kollegah",
+                    "title": "Du bist Boss",
+                    "uri": "32IKJthM7ARKvGBTZCE1Et"
+                },
+                {
+                    "artist": "Kollegah",
+                    "title": "Boss der Bosse",
+                    "uri": "00km7VTPkT79iYPn7Bky44"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hardy Nimi",
+                    "title": "Riddim",
+                    "uri": "2ScxJJnxU9JC51bIRDtozU"
+                },
+                {
+                    "artist": "LASTMONDAY",
+                    "title": "Susurro Riddim",
+                    "uri": "1mGxiXPxKIuItW4D2eVgjI"
+                },
+                {
+                    "artist": "Riddim Agency",
+                    "title": "Help Me",
+                    "uri": "0pbk7OUtETAebRGu4xBHz0"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "Kelela",
+                    "title": "Bruises",
+                    "uri": "5EKjnrnyrw688C3yoMfbwK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kelela",
+                    "title": "Bruises",
+                    "uri": "5EKjnrnyrw688C3yoMfbwK"
+                },
+                {
+                    "artist": "Kelela",
+                    "title": "Contact",
+                    "uri": "02uslYmKRGArhSEe3Z72qm"
+                },
+                {
+                    "artist": "Kelela",
+                    "title": "Sorbet",
+                    "uri": "6yLrQ7UEwIknRZNm7boKHV"
+                }
+            ]
+        }
+    },
     "lil-c-11th-february-2022": {
         "00": {
             "s0": [
