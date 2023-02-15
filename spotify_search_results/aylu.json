@@ -1,4 +1,561 @@
 {
+    "aylu-14th-february-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nicola Di Bari",
+                    "title": "Rosa",
+                    "uri": "51i3mnhBGLDtmDJJ1RcHmc"
+                },
+                {
+                    "artist": "Rosa Nocturna",
+                    "title": "Fennel Bride",
+                    "uri": "2qy1SdbVBti2DynZ59E0wV"
+                },
+                {
+                    "artist": "Rosa Nocturna",
+                    "title": "Voice Inside",
+                    "uri": "5ZJuruZugRmR3HN8Gk6VwO"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tomás Vázquez",
+                    "title": "Baguala de Guachipas, Salta",
+                    "uri": "2cjrxRf4FbwvwQWxiIRK6W"
+                },
+                {
+                    "artist": "Tomas Villarreal",
+                    "title": "Las Huellas de mi Vida",
+                    "uri": "1aEGDXilNoaJb7aIkrZAeI"
+                },
+                {
+                    "artist": "Tomas Villarreal",
+                    "title": "La Regla de Oro",
+                    "uri": "01Rs5pAAHXytsFjJ7mbD2u"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Atahualpa Yupanqui",
+                    "title": "Los Ejes De Mi Carreta",
+                    "uri": "70ff1stg4fegj3BFbfhpwB"
+                },
+                {
+                    "artist": "Atahualpa Yupanqui",
+                    "title": "Los Ejes de Mi Carreta",
+                    "uri": "1IMlyGnCZuvVGFTHdfKFzo"
+                },
+                {
+                    "artist": "Atahualpa Yupanqui",
+                    "title": "Los Ejes de Mi Carreta",
+                    "uri": "0oLjZGAVTDcoAr0GyxeC31"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Atahualpa Yupanqui",
+                    "title": "Los Ejes De Mi Carreta",
+                    "uri": "70ff1stg4fegj3BFbfhpwB"
+                },
+                {
+                    "artist": "Atahualpa Yupanqui",
+                    "title": "Los Ejes de Mi Carreta",
+                    "uri": "0oLjZGAVTDcoAr0GyxeC31"
+                },
+                {
+                    "artist": "Atahualpa Yupanqui",
+                    "title": "Los Ejes de Mi Carreta",
+                    "uri": "1IMlyGnCZuvVGFTHdfKFzo"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Los Blops",
+                    "title": "Allegro Ma Non Troppo - Remasterizado 2021",
+                    "uri": "71sfAEaCnS1bXeT2NSmhJe"
+                },
+                {
+                    "artist": "Los Blops",
+                    "title": "Tartaleta De Frutillas - Remasterizado 2021",
+                    "uri": "5G2HEUbI1map3AG7LlM32O"
+                },
+                {
+                    "artist": "Los Blops",
+                    "title": "Niebla",
+                    "uri": "7DSqyTClZxziAJxnSWxmvH"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Julia Elena Dávalos",
+                    "title": "Señora Chichera",
+                    "uri": "3S1wNk6hWCvHhSbsdX1w1C"
+                },
+                {
+                    "artist": "Cesária Evora",
+                    "title": "Maria Elena",
+                    "uri": "424pAzPdudT3fTKxxgD8pr"
+                },
+                {
+                    "artist": "Julia Elena",
+                    "title": "Moola Mantra",
+                    "uri": "3hKkV5VBP1Eng0Xk2KU2NT"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "András Adorján",
+                    "title": "Jalousie",
+                    "uri": "6wDYn988GnweJkSruVLk6j"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Olson",
+                    "title": "Jalousie",
+                    "uri": "0KQeqWQlpSQl52eYRgoMPw"
+                },
+                {
+                    "artist": "Andreas Bourani",
+                    "title": "Delirium",
+                    "uri": "4DLtDJmxeHfZkZQK3tNwSV"
+                },
+                {
+                    "artist": "Andreas Bourani",
+                    "title": "Auf uns",
+                    "uri": "41QCaZw3YTYWYAk51zFqdn"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "M is We",
+                    "title": "Princess Frown",
+                    "uri": "4psO70hSiDCfYWWooTWlyU"
+                },
+                {
+                    "artist": "Princess Freesia",
+                    "title": "Forbidden Fruit",
+                    "uri": "3tm0Xzpfnlme1SP9OmcTzF"
+                },
+                {
+                    "artist": "Princess Freesia",
+                    "title": "The Sun Makes It Better",
+                    "uri": "2s5HnH4HGliQhInhhFA11h"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gert Emmens",
+                    "title": "Requiem Pour Sam",
+                    "uri": "2vb25JFU2Wsw8s7Q3E75mE"
+                },
+                {
+                    "artist": "Filharmonie Brno",
+                    "title": "Requiem for my Friend: Lacrimosa Day of Tears",
+                    "uri": "6gHNwWr1YOaBOqiq8OnHFZ"
+                },
+                {
+                    "artist": "Marcel Barsotti",
+                    "title": "Requiem",
+                    "uri": "2NHid5DZf4DjRFhnWFTm9K"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DJ Blyatman",
+                    "title": "Cyka Blyat",
+                    "uri": "4ZjYcAWfghKtYCBzVLOyi2"
+                },
+                {
+                    "artist": "DJ Blyatman",
+                    "title": "Cyka Blyat",
+                    "uri": "3P5qdDo1yIqSU0R7YH1Vly"
+                },
+                {
+                    "artist": "NXTSSN",
+                    "title": "Tokyo Drip",
+                    "uri": "7MJZbm5JiPyJ6QHF13DIMT"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "La Macanita",
+                    "title": "Adiós Tristeza",
+                    "uri": "1LpP64pILwvy6x1MJ2rfBa"
+                },
+                {
+                    "artist": "MADAH",
+                    "title": "Macetada",
+                    "uri": "2K0a6G7CrJnGtGw1G3h2c8"
+                },
+                {
+                    "artist": "Face da Morte",
+                    "title": "Mancada",
+                    "uri": "2xIe8IOhmUV8XlgMQjkbDW"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ayla",
+                    "title": "Ayla (FYH083) [Classic Selection]",
+                    "uri": "0htKYFd19VMt68gtxjc3lJ"
+                },
+                {
+                    "artist": "Aylo",
+                    "title": "Vermisst",
+                    "uri": "6kiRLhwlbK1pB1VOoRhZ0m"
+                },
+                {
+                    "artist": "Aylo",
+                    "title": "Boomerang",
+                    "uri": "1DilMm613lCaBlin10YfGM"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Xuxa",
+                    "title": "Parabéns da Xuxa",
+                    "uri": "0DO203FidgOktbX2Ly1jtr"
+                },
+                {
+                    "artist": "Xuxa",
+                    "title": "Parabéns da Xuxa",
+                    "uri": "2UhHy49cbK6TGfTBYj5h8d"
+                },
+                {
+                    "artist": "Xuxa",
+                    "title": "Parabéns da Xuxa",
+                    "uri": "46324uH6hPnP7AfoQjNE1n"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Xuxa",
+                    "title": "Parabéns da Xuxa",
+                    "uri": "0DO203FidgOktbX2Ly1jtr"
+                },
+                {
+                    "artist": "Xuxa",
+                    "title": "Estátua",
+                    "uri": "1obSgK8t84l9Cc9N3MG2n6"
+                },
+                {
+                    "artist": "Xuxa",
+                    "title": "Soco, Bate, Vira",
+                    "uri": "4JRI2krTfsJbiBAeqZDGfP"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Denis Mpunga & Paul K.",
+                    "title": "Intermezzo 02",
+                    "uri": "4k28MVWs8ypGRzvNl53a06"
+                },
+                {
+                    "artist": "Denis Mpunga & Paul K.",
+                    "title": "Intermezzo 01",
+                    "uri": "0S7KI2lOofnYLiwfumCAcF"
+                },
+                {
+                    "artist": "Denis Mpunga & Paul K.",
+                    "title": "Criola",
+                    "uri": "7rMUzapRHbCL5LuqQCZcKg"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": ""
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Luis Paniagua",
+                    "title": "Gacelle",
+                    "uri": "26cSlVwBQjuSAL7McJCvp1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Luis Paniagua",
+                    "title": "Me Llaman",
+                    "uri": "5lZTfEL7wWK8Sfa3sQZmTf"
+                },
+                {
+                    "artist": "Luis Paniagua",
+                    "title": "A Fluir",
+                    "uri": "5dcGBve3vWFyQEpoA2m9PS"
+                },
+                {
+                    "artist": "LUIS",
+                    "title": "Paranoid",
+                    "uri": "1vXgmPpkhuzBSWzyGwWWtW"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "AYLIVA",
+                    "title": "Schmetterlinge",
+                    "uri": "2jExme1T0ORJ0tL3pq5dhs"
+                },
+                {
+                    "artist": "AYLIVA",
+                    "title": "Heim",
+                    "uri": "1y7xLroWchmFgWrFvM2vrc"
+                },
+                {
+                    "artist": "AYLIVA",
+                    "title": "Sterben",
+                    "uri": "2nsxno7eC98qlcw3RyVTvF"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": ""
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gerardo Matos Rodriguez",
+                    "title": "La Cumparsita",
+                    "uri": "6tJ0zwyKkJ9pWXN0XWqLqY"
+                },
+                {
+                    "artist": "Rodolfo Biagi Y Su Orquesta Tipica",
+                    "title": "Pura Clase",
+                    "uri": "13mCW3wNuP0PbedkbEL8wc"
+                },
+                {
+                    "artist": "Rodolfo Biagi Y Su Orquesta Tipica",
+                    "title": "El Yaguaron",
+                    "uri": "1ourZydlKgqo4SnZFRgUcL"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dan Stone",
+                    "title": "Vice Versa - John Grand Remix",
+                    "uri": "0qDa4YOPgpWtL6XG1K8Syw"
+                },
+                {
+                    "artist": "V.O.C.",
+                    "title": "@ a Barbeque",
+                    "uri": "7BkdTMjrEfUZDIh70HPpFE"
+                },
+                {
+                    "artist": "viclambart",
+                    "title": "L'AMOUR",
+                    "uri": "6XsnTDjzKicJ5p4rZprWIy"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Barbatuques",
+                    "title": "Baianá",
+                    "uri": "4bndkI1TTh7itdsyixtDoD"
+                },
+                {
+                    "artist": "Bakermat",
+                    "title": "Baianá",
+                    "uri": "780be5fB7823aHG06mwTat"
+                },
+                {
+                    "artist": "Nia Archives",
+                    "title": "Baianá",
+                    "uri": "7B0gxo0jQCy5Lk93RIODAC"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Beatrice Dillon",
+                    "title": "Workaround Six",
+                    "uri": "3Ead58nBIIk0AZiI7XmviT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Beatrice Egli",
+                    "title": "Beatrice Megamix",
+                    "uri": "3XppzQ5CYEOCrPxH46EBiV"
+                },
+                {
+                    "artist": "Beatrice",
+                    "title": "Say you won't let go",
+                    "uri": "3jUhEX67qxI3SNbfk6kMSH"
+                },
+                {
+                    "artist": "Beatrice Egli",
+                    "title": "Verrückt nach dir",
+                    "uri": "55UuB2OQLx6qTTrREtBLY2"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Aylu",
+                    "title": "Corda II",
+                    "uri": "6YBrdxjoPxCwSem8YMvASj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aylu",
+                    "title": "Corda I",
+                    "uri": "7CC8l8l1ILuNzAF0FDIG5p"
+                },
+                {
+                    "artist": "Eulalio Armas y Sus Salterios",
+                    "title": "Cuerdas de Mi Guitarra",
+                    "uri": "7DoSaPjX9XVi3HAQeGXnrL"
+                },
+                {
+                    "artist": "Aylo",
+                    "title": "Irgendwo",
+                    "uri": "2Mi4XSUDKmCYOLyb9YLsh0"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Los Nocheros",
+                    "title": "Chacarera Del Rancho",
+                    "uri": "7FxhDl2TtdtWa7P490QGTS"
+                },
+                {
+                    "artist": "Franco Barrionuevo",
+                    "title": "Chacarera del Infierno",
+                    "uri": "60EADL3XaWizBiIasWr9Ab"
+                },
+                {
+                    "artist": "Santiago Rivera",
+                    "title": "Chacarera del Lamento",
+                    "uri": "7fx999SeSpQLmu6HtbsOGn"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mario Gonzales Guerra",
+                    "title": "Stand by Me",
+                    "uri": "3mvm2OEyes4VHDcVS6ZXvC"
+                },
+                {
+                    "artist": "Discovey Light Orchestra",
+                    "title": "La Primera Vez Que VI Tu Cara",
+                    "uri": "23vNinMbbCH9MZRWSWytxL"
+                },
+                {
+                    "artist": "Discovey Light Orchestra",
+                    "title": "Concierto de Aranjuez",
+                    "uri": "5SW70bJfS0Xf7GqxBqpcwi"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Quest Pistols",
+                    "title": "Санта Лючия - DEALSHOT Remix",
+                    "uri": "1IlScloly2IzkR2hKPZWYT"
+                },
+                {
+                    "artist": "DNDM",
+                    "title": "ЛЮБИ",
+                    "uri": "3CKGYGKjY8es6MR50gmiZO"
+                },
+                {
+                    "artist": "PHARAOH",
+                    "title": "Соната Ей",
+                    "uri": "4pNPLFk0ET8d7Be8DMPlcN"
+                }
+            ]
+        },
+        "25": {
+            "s0": [
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Pastelero a tus pasteles",
+                    "uri": "6av0eQd3jbkIi0ebUyOxcP"
+                },
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Pastelero a Tus Pasteles",
+                    "uri": "4Eitv0Z349VGOXoqX0JE4A"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Gracias a la Vida",
+                    "uri": "5U7MyRNbuZrWkyAI4bm3Ja"
+                },
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Gracias a la Vida",
+                    "uri": "6cWvPdqdFJOhhRd0SZOplj"
+                },
+                {
+                    "artist": "Violeta Parra",
+                    "title": "La Jardinera",
+                    "uri": "3sbXuCHjlXORPqmbrWhFot"
+                }
+            ]
+        }
+    },
     "aylu-17th-january-2023": {
         "00": {
             "s0": [
