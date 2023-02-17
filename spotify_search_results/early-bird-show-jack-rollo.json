@@ -6164,6 +6164,755 @@
             ]
         }
     },
+    "early-bird-show-jack-rollo-17th-february-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Onur Can Özcan",
+                    "title": "Eylül",
+                    "uri": "3FpZcgbiPKUx82Ir7DCT9I"
+                },
+                {
+                    "artist": "Eylül Ergül",
+                    "title": "Bir Başına",
+                    "uri": "1rO5zfkMWtcXSmtORmj1I0"
+                },
+                {
+                    "artist": "Alpay",
+                    "title": "Eylül'de Gel",
+                    "uri": "1bJcyzu66xsdRUphnXMg4B"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "MINMI",
+                    "title": "四季ノ唄",
+                    "uri": "1iTvJFjCflwCz9RYJXzcsz"
+                },
+                {
+                    "artist": "LiSA",
+                    "title": "一斉ノ喝采",
+                    "uri": "4XP3BtzCEjRYff2K0M1HkY"
+                },
+                {
+                    "artist": "二口魔菜 Futakuchi Mana",
+                    "title": "Tsunami",
+                    "uri": "4imA3BuP1wM1kn6FvbwzTh"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Ani Zakareishvili",
+                    "title": "After",
+                    "uri": "6acTKBu6qHyHy0D4sS1CSx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ani Zakareishvili",
+                    "title": "After",
+                    "uri": "6acTKBu6qHyHy0D4sS1CSx"
+                },
+                {
+                    "artist": "Peyotoff",
+                    "title": "After Darkness",
+                    "uri": "15IiPMGTWUXSQVDxSMUM0Y"
+                },
+                {
+                    "artist": "Justin Burnett",
+                    "title": "Main Theme",
+                    "uri": "5dWgEUxHtfgX7oTbempo7M"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chantal Michelle",
+                    "title": "The Sky Still Lies",
+                    "uri": "0G9iRVbQ0bLyIWg4MSviXl"
+                },
+                {
+                    "artist": "Chantal",
+                    "title": "Che Sara",
+                    "uri": "3a0DXBiy2WGzcqq2Wj40oM"
+                },
+                {
+                    "artist": "Chantal Chamberland",
+                    "title": "Vous qui passez sans me voir",
+                    "uri": "43NLZLjM5QMSCDauHRbEjj"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Игорь Корнелюк",
+                    "title": "Дожди",
+                    "uri": "5pljZ0S0WG7uIvjPLXabHI"
+                },
+                {
+                    "artist": "Egor Letov",
+                    "title": "Все идет по плану",
+                    "uri": "4JOEpAVfagRzv1GMIcqwNq"
+                },
+                {
+                    "artist": "Игорь Корнелюк",
+                    "title": "Город, которого нет",
+                    "uri": "5CyO7SwydZoRu3AQP1EbXG"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Felicia Atkinson",
+                    "title": "L’Après-Midi",
+                    "uri": "432OH7XSzgshTX1PJiWxrX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Felicia Atkinson",
+                    "title": "The Lake is Speaking",
+                    "uri": "15tLwUGIi7mqeuE2teSPqH"
+                },
+                {
+                    "artist": "Felicia Atkinson",
+                    "title": "Hier Le Désert",
+                    "uri": "2WwxRKN4VwvUiRCU5ZcnND"
+                },
+                {
+                    "artist": "Felicia Atkinson",
+                    "title": "O",
+                    "uri": "1diwWs5VYUdtNzYZtAeUxZ"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bobby Hebb",
+                    "title": "For You",
+                    "uri": "0nZAkvrGwjyMyEBEwMuSZ8"
+                },
+                {
+                    "artist": "Bruce Springsteen",
+                    "title": "Bobby Jean - Live at King's Hall, Belfast UK - 03/19/1996",
+                    "uri": "0kqVICszxlUsumrTTviDqd"
+                },
+                {
+                    "artist": "Bruce Springsteen",
+                    "title": "Bobby Jean - Live at the Point Theatre, Dublin, Ireland - November 2006",
+                    "uri": "1FVXEqavkbcb4KAFqoxjAR"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Delia Derbyshire",
+                    "title": "Falling, From the Dreams - Radio Version 1964",
+                    "uri": "5y1l7BSFZR6u3MOUyq3jZU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "King Of Woolworths",
+                    "title": "Delia Derbyshire",
+                    "uri": "5z7m0r7VqF45d6ZqQ7WBL4"
+                },
+                {
+                    "artist": "Delia Derbyshire Appreciation Society",
+                    "title": "Blue Filter",
+                    "uri": "1RDhxsm0ASUlFguGhvO3H5"
+                },
+                {
+                    "artist": "Delia Derbyshire Appreciation Society",
+                    "title": "Cloudface",
+                    "uri": "1I85hOpMd25zatIXqU6ioY"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lucky Dube",
+                    "title": "Prisoner (Remastered)",
+                    "uri": "19kihRQz1crFd1mrif75Js"
+                },
+                {
+                    "artist": "Lucky Dube",
+                    "title": "Slave",
+                    "uri": "0xDfj7JZcYCIiUa55vqQuA"
+                },
+                {
+                    "artist": "Island Gemdove",
+                    "title": "Lucy Dusk",
+                    "uri": "6HRSfvwf919Do0wez3sqiR"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hildegard Knef",
+                    "title": "Wieviel Menschen waren glücklich, daß Du gelebt? - Remastered",
+                    "uri": "0BG1ZhcuisMNKimgB00A73"
+                },
+                {
+                    "artist": "Hildegard Knef",
+                    "title": "(Ich brauch') Tapetenwechsel - Remastered",
+                    "uri": "1YTdKeCASzHWlWOjP8f0tY"
+                },
+                {
+                    "artist": "Ante Perry",
+                    "title": "Hildegard",
+                    "uri": "1PSJXT0YkaQyBZc8QIVPrD"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Joan Osborne",
+                    "title": "St. Teresa",
+                    "uri": "4d2nmevJcws03HNpYiP4FZ"
+                },
+                {
+                    "artist": "Malcolm Vaughan",
+                    "title": "St Therese of the Roses",
+                    "uri": "2uN8hMV4ZuAZdSx2z1G4Ob"
+                },
+                {
+                    "artist": "Beth Hart",
+                    "title": "St. Teresa",
+                    "uri": "4PeqWSckSVBtaC3P1n5318"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Perila",
+                    "title": "1 Room",
+                    "uri": "0aO0VzGOXaamluotV8aD3U"
+                },
+                {
+                    "artist": "Perila",
+                    "title": "Floor Position",
+                    "uri": "0vYvVrMjN1gzzAxqobT6i1"
+                },
+                {
+                    "artist": "Prod by Mg",
+                    "title": "Perilla",
+                    "uri": "0fMmK1V91q9HPmfoLondIW"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Red Scan",
+                    "title": "Unstable Mind",
+                    "uri": "3ZyOhS3mSzjsF6LrVkRZnF"
+                },
+                {
+                    "artist": "Fischer-Z",
+                    "title": "Red Skies over Paradise (A Brighton Dream)",
+                    "uri": "7tAo968xzvOcb8PbLFZBG2"
+                },
+                {
+                    "artist": "Red",
+                    "title": "Shadows",
+                    "uri": "4XwJGS4Q0P9P5ySEP0fZPN"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Camille Mandoki",
+                    "title": "Dreams and Bells",
+                    "uri": "2Jwe5A6QLVOkHVn1KLqlLz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Camille Mandoki",
+                    "title": "Llanto",
+                    "uri": "6E2ZWCcqDfOg1dHtzw99aA"
+                },
+                {
+                    "artist": "Camille Mandoki",
+                    "title": "Down My Hole",
+                    "uri": "2jltxhMUQb05FjnRWwbbu2"
+                },
+                {
+                    "artist": "Camille Mandoki",
+                    "title": "Fast Is Real",
+                    "uri": "1aalcTdDHRyOHdliSOHvCC"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Reek0",
+                    "title": "Man",
+                    "uri": "2zD74oOzLo9Zt52KR1vNzD"
+                },
+                {
+                    "artist": "Angel Fructuoso",
+                    "title": "Man recreation",
+                    "uri": "02Xn28Bu9vRYtlgckOwMFd"
+                },
+                {
+                    "artist": "Man Ré",
+                    "title": "Alambamento",
+                    "uri": "4YJ1wkAvVUcEqYdBqCfai2"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Joanne Robertson",
+                    "title": "Blue Car",
+                    "uri": "4lJK4HIEJNM2MUNC6gN5cF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Joanne Robertson",
+                    "title": "Blue Car",
+                    "uri": "4lJK4HIEJNM2MUNC6gN5cF"
+                },
+                {
+                    "artist": "Joanne Robertson",
+                    "title": "hit",
+                    "uri": "7LcC3qw4ZR0bgLDdELlQnZ"
+                },
+                {
+                    "artist": "Joanne Robertson",
+                    "title": "TRIPLE BEAM",
+                    "uri": "08ICK6hzmhIdNcvYr2geeZ"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Marvin Gaye",
+                    "title": "Save The Children",
+                    "uri": "1RpoUhwpD8ZtpJhq41EU9k"
+                },
+                {
+                    "artist": "Fools Garden",
+                    "title": "Save the World Tomorrow",
+                    "uri": "6fQXDqMfVi8AJ9vLCwomyo"
+                },
+                {
+                    "artist": "Pentatonix",
+                    "title": "Save the World / Don't Worry Child",
+                    "uri": "1k69KJ5AsFwkbK5MOOxLHx"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Stereolab",
+                    "title": "Simple Headphone Mind",
+                    "uri": "1lkxzamwyP2Th5HMmcmeS7"
+                },
+                {
+                    "artist": "Failure",
+                    "title": "The Nurse Who Loved Me",
+                    "uri": "3IfCsWzD0BRc0TnLQW6Y0s"
+                },
+                {
+                    "artist": "A Perfect Circle",
+                    "title": "The Nurse Who Loved Me",
+                    "uri": "0yRtn9coNCSWIigvKJA5wn"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Ghostwerk",
+                    "title": "Elizabeths Loop",
+                    "uri": "6lTUV9DKapOmFVTsw7u6Af"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ghost Woman",
+                    "title": "Clockwork",
+                    "uri": "3AjhJJ026nzrqEkqYugrPF"
+                },
+                {
+                    "artist": "GhostWryter",
+                    "title": "Stay Woke",
+                    "uri": "39OIwcjuYW6gc5aDRXx88j"
+                },
+                {
+                    "artist": "Ghostwriter",
+                    "title": "Redemption",
+                    "uri": "17wt3vAWJ3onFSm208Oc8y"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Klement Julienne",
+                    "title": "Pamela",
+                    "uri": "2A3XV9MSTHOxmhmz2gQ17C"
+                },
+                {
+                    "artist": "Harangue Rattle Laugh At",
+                    "title": "Pamela Anderson",
+                    "uri": "78lFbxv4gZRBkUK04yE7uM"
+                },
+                {
+                    "artist": "Brian Hughes",
+                    "title": "Pamela",
+                    "uri": "5SCZ6ciVRjDMXn7trnq3Np"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Peace Orchestra",
+                    "title": "Double Drums",
+                    "uri": "3whUFHX7grfr61GiaymK4p"
+                },
+                {
+                    "artist": "Young Slo-Be",
+                    "title": "Double Dribble",
+                    "uri": "3mu1QabA6au95BBV97twPP"
+                },
+                {
+                    "artist": "Liquido",
+                    "title": "Doubledecker",
+                    "uri": "5WwUsdGMKxdJ1eUAZ9CvdE"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Autechre",
+                    "title": "Lowride",
+                    "uri": "3Q0OROjrG0wUaF3QFFixB2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Autechre",
+                    "title": "Lowride",
+                    "uri": "3Q0OROjrG0wUaF3QFFixB2"
+                },
+                {
+                    "artist": "War",
+                    "title": "Low Rider",
+                    "uri": "7Bz8yww6UMbTgTVLG6zbI4"
+                },
+                {
+                    "artist": "Quintino",
+                    "title": "Lowrider",
+                    "uri": "4QmrKRhtR8r16U0rDEVCvr"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "A Psychic Yes",
+                    "title": "Sugar Today, Tomorrow",
+                    "uri": "02o7OMTYJ49I1MVAYfVhzq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "A Psychic Yes",
+                    "title": "Spacemaker",
+                    "uri": "4lS1tYR5YhRMSKgjQw4OhQ"
+                },
+                {
+                    "artist": "A Psychic Yes",
+                    "title": "Delicated",
+                    "uri": "6zSRyevWZKlVvcAoOxrs5i"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Move D",
+                    "title": "Silk Dub",
+                    "uri": "4cNzR9qeeTLUYpG4KMHEmT"
+                },
+                {
+                    "artist": "Rooler",
+                    "title": "MOVE 2 DA BEAT",
+                    "uri": "1LmlVtniDo8jzA9YlS3oOT"
+                },
+                {
+                    "artist": "DNCE",
+                    "title": "Move",
+                    "uri": "2ZzHR2sOKAOKyN8efCa69E"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sutari",
+                    "title": "Kośniczki",
+                    "uri": "75EXUtsjDnC71Qdo7WPM14"
+                },
+                {
+                    "artist": "Sutari",
+                    "title": "Kośniczki",
+                    "uri": "3I8QAFJ9K9xCO9zJtU8uMk"
+                },
+                {
+                    "artist": "Sutari",
+                    "title": "Kuchenny",
+                    "uri": "1mRK5sNRxaOzxukkIAGdfD"
+                }
+            ]
+        },
+        "25": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Stereolab",
+                    "title": "Simple Headphone Mind",
+                    "uri": "1lkxzamwyP2Th5HMmcmeS7"
+                },
+                {
+                    "artist": "Failure",
+                    "title": "The Nurse Who Loved Me",
+                    "uri": "3IfCsWzD0BRc0TnLQW6Y0s"
+                },
+                {
+                    "artist": "A Perfect Circle",
+                    "title": "The Nurse Who Loved Me",
+                    "uri": "0yRtn9coNCSWIigvKJA5wn"
+                }
+            ]
+        },
+        "26": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Myng",
+                    "title": "Splinter Cell",
+                    "uri": "2b5LUkmcCvnYlPWYB89Nk3"
+                },
+                {
+                    "artist": "Tycho",
+                    "title": "Jetty",
+                    "uri": "4e0YtDwcwZuf8FCdjaMDWs"
+                },
+                {
+                    "artist": "Amon Tobin",
+                    "title": "Splinter Cell: Conviction",
+                    "uri": "20nVeE1rFZGtx284kA79BY"
+                }
+            ]
+        },
+        "27": {
+            "s0": [
+                {
+                    "artist": "David Edren",
+                    "title": "Light Blue & Plink | ベイビーブルー & プリンク",
+                    "uri": "5XD5jL78FWlo2pJi1DaTkt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "David Edren",
+                    "title": "Light Blue & Plink | ベイビーブルー & プリンク",
+                    "uri": "5XD5jL78FWlo2pJi1DaTkt"
+                },
+                {
+                    "artist": "Vitja",
+                    "title": "Light Blue",
+                    "uri": "5KuspSQwH9jQYCQqHWe7sz"
+                },
+                {
+                    "artist": "David Elo",
+                    "title": "The Search",
+                    "uri": "0peigjQiQdgHe2JvdfMxSJ"
+                }
+            ]
+        },
+        "28": {
+            "s0": [
+                {
+                    "artist": "Egg Meat",
+                    "title": "Little Tune",
+                    "uri": "7i3egajoIBUWytAjcLcI3E"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Epic Mountain",
+                    "title": "The Egg",
+                    "uri": "6bAa1rz1a9t3SKLkos8gG9"
+                },
+                {
+                    "artist": "James Newton Howard",
+                    "title": "The Egg Travels",
+                    "uri": "3jUZHXPBimhWxVbwOFunk8"
+                },
+                {
+                    "artist": "Ramsey Lewis Trio",
+                    "title": "Egg Nog",
+                    "uri": "2jkGiE1xadNkG3ZpGJL9I8"
+                }
+            ]
+        },
+        "29": {
+            "s0": [
+                {
+                    "artist": "Lionmilk",
+                    "title": "shaneen",
+                    "uri": "2rd8nhP9f33EYCQdbJ3RKr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lionmilk",
+                    "title": "shaneen",
+                    "uri": "2rd8nhP9f33EYCQdbJ3RKr"
+                },
+                {
+                    "artist": "Lionmilk",
+                    "title": "no question",
+                    "uri": "4gLvVcyBfHSElZqa8jr7gV"
+                },
+                {
+                    "artist": "Shane Eagle",
+                    "title": "Chocolate Milk",
+                    "uri": "71TIATdxNMs96ivxODfAsg"
+                }
+            ]
+        },
+        "30": {
+            "s0": [
+                {
+                    "artist": "Gavsborg",
+                    "title": "The Jamaican Pesto Manifesto",
+                    "uri": "3PQ455PoiyQxCmFspOftox"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gavsborg",
+                    "title": "The Jamaican Pesto Manifesto",
+                    "uri": "3PQ455PoiyQxCmFspOftox"
+                },
+                {
+                    "artist": "Gábor Szabó",
+                    "title": "Stormy",
+                    "uri": "3JeDm203MFpRlzSFaoNEv2"
+                },
+                {
+                    "artist": "Gábor Szabó",
+                    "title": "Gypsy Queen",
+                    "uri": "5og3nbiR4hZ24Ij6ue6i3n"
+                }
+            ]
+        },
+        "31": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Anime Allstars",
+                    "title": "Heller als Licht (Winx)",
+                    "uri": "4P1CT1bfTDQXeNuUpBH7q0"
+                },
+                {
+                    "artist": "DJ axcessor",
+                    "title": "Heller Als Licht (Winx Club Hardstyle Remix)",
+                    "uri": "6XcmAZIcbGBvxupnBIvNnb"
+                },
+                {
+                    "artist": "Winx Club",
+                    "title": "Die Ölkatastrophe - Intro",
+                    "uri": "2kUyZo7N4dN0LNTufAbNCg"
+                }
+            ]
+        },
+        "32": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "B-Liv",
+                    "title": "A Little Beat of Latin Soul - Sunrise Side Edit",
+                    "uri": "2AzNBYSinKwqcyiLRPWd7d"
+                },
+                {
+                    "artist": "Jaime Córdoba",
+                    "title": "A Little Beat",
+                    "uri": "3cKrsMIpYBiHWAt7g9fSBL"
+                },
+                {
+                    "artist": "Jorge C.",
+                    "title": "Cosas Que Debes Saber",
+                    "uri": "7qqMbbF9dDcU4TxxHnpZEn"
+                }
+            ]
+        },
+        "33": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Fabich",
+                    "title": "Ecstasy",
+                    "uri": "5ICUko5tff4xEdS4DdnODT"
+                },
+                {
+                    "artist": "Ennio Morricone",
+                    "title": "The Ecstasy Of Gold - 2004 Remaster",
+                    "uri": "6PrKZUXJPmBiobMN44yR8Y"
+                },
+                {
+                    "artist": "Fabich",
+                    "title": "Ecstasy - Mixed",
+                    "uri": "2PspwQLfDzLUOyaxQ7de5L"
+                }
+            ]
+        }
+    },
     "early-bird-show-jack-rollo-17th-june-2022": {
         "00": {
             "s0": [

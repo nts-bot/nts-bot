@@ -520,6 +520,394 @@
             ]
         }
     },
+    "civilization-radio-16th-february-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "SUGAI KEN",
+                    "title": "Denden",
+                    "uri": "6yQAC0ou6kYcs5LXFi3VlF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "SUGAI KEN",
+                    "title": "Denden",
+                    "uri": "6yQAC0ou6kYcs5LXFi3VlF"
+                },
+                {
+                    "artist": "SUGAI KEN",
+                    "title": "Mukashi",
+                    "uri": "13A3RC8lbrWYoovSvET8ZR"
+                },
+                {
+                    "artist": "Heiakim",
+                    "title": "Sugoi Kawai Desu Ne!",
+                    "uri": "3wrLI8aFfpzabVoOE0XhoV"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Marcel Dettmann",
+                    "title": "Phantom Studies",
+                    "uri": "4SH86PVrzO2YbuOGDxzqqs"
+                },
+                {
+                    "artist": "Marcel Dettmann",
+                    "title": "Autumn77",
+                    "uri": "13ZJckaESmpl62Y6YnTd7g"
+                },
+                {
+                    "artist": "Marcel Dettmann",
+                    "title": "Suffice to Predict",
+                    "uri": "0EqcNEm7mOnTpTyB1N1hIt"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Nine Inch Nails",
+                    "title": "Big Man With A Gun",
+                    "uri": "44RkSiqtWOJf16XkJbHJ39"
+                },
+                {
+                    "artist": "Nine Inch Nails",
+                    "title": "Big Man With A Gun",
+                    "uri": "5wBLZpWmKTrdNa6IZe2M6Y"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nine Inch Nails",
+                    "title": "Big Man With A Gun",
+                    "uri": "44RkSiqtWOJf16XkJbHJ39"
+                },
+                {
+                    "artist": "Nine Inch Nails",
+                    "title": "Big Man With A Gun",
+                    "uri": "5wBLZpWmKTrdNa6IZe2M6Y"
+                },
+                {
+                    "artist": "Nine Inch Nails",
+                    "title": "Closer",
+                    "uri": "5mc6EyF1OIEOhAkD0Gg9Lc"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Shinichi Atobe",
+                    "title": "Love of plastic 1",
+                    "uri": "2hy83q9ytRjrDi1Ud76ZwO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Shinichi Atobe",
+                    "title": "Love of plastic 1",
+                    "uri": "2hy83q9ytRjrDi1Ud76ZwO"
+                },
+                {
+                    "artist": "Shinichi Atobe",
+                    "title": "Love of plastic 5",
+                    "uri": "4GYW2tYu3jPfFOAwbkzBAL"
+                },
+                {
+                    "artist": "Shinichi Atobe",
+                    "title": "Intro",
+                    "uri": "6GD5FuI4vSZ866pfItcY4N"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Korn",
+                    "title": "Let the Guilt Go",
+                    "uri": "3Vy1Nknw7cypFgWMTLTDp0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Korn",
+                    "title": "Let the Guilt Go",
+                    "uri": "3Vy1Nknw7cypFgWMTLTDp0"
+                },
+                {
+                    "artist": "Korn",
+                    "title": "Got the Life",
+                    "uri": "6nJPHXRpKYv2yqtalEjKy5"
+                },
+                {
+                    "artist": "Korn",
+                    "title": "Freak On a Leash",
+                    "uri": "6W21LNLz9Sw7sUSNWMSHRu"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Gábor Szabó",
+                    "title": "Walking On Nails",
+                    "uri": "0IMxcD2MxwkLA3sEDOfTrD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gábor Szabó",
+                    "title": "Stormy",
+                    "uri": "3JeDm203MFpRlzSFaoNEv2"
+                },
+                {
+                    "artist": "Gábor Szabó",
+                    "title": "Breezin'",
+                    "uri": "6vgX6B5beQ0SXbmIDwZBDJ"
+                },
+                {
+                    "artist": "Gábor Szabó",
+                    "title": "Gypsy Queen",
+                    "uri": "5og3nbiR4hZ24Ij6ue6i3n"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Hubert Lenoir",
+                    "title": "OCTEMBRE",
+                    "uri": "0ClSzOZrQAkJmmvRJY0oVV"
+                },
+                {
+                    "artist": "Hubert Lenoir",
+                    "title": "OCTEMBRE",
+                    "uri": "6sEiy6DlCZdirZ75RDWTow"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hubert Lenoir",
+                    "title": "OCTEMBRE",
+                    "uri": "0ClSzOZrQAkJmmvRJY0oVV"
+                },
+                {
+                    "artist": "Hubert Lenoir",
+                    "title": "Momo",
+                    "uri": "3embcKvCXNjrdSqJEWxPNy"
+                },
+                {
+                    "artist": "Hubert Lenoir",
+                    "title": "Recommencer",
+                    "uri": "2MxejfdrDFAgKKeYuxzShr"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Playboi Carti",
+                    "title": "Not PLaying",
+                    "uri": "03rcC8SVxCa9UdY5qgkITe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Playboi Carti",
+                    "title": "Not PLaying",
+                    "uri": "03rcC8SVxCa9UdY5qgkITe"
+                },
+                {
+                    "artist": "Trvp T",
+                    "title": "Feelin' It",
+                    "uri": "2fErDy3JjLhzMisEOmvzW8"
+                },
+                {
+                    "artist": "CC Clarke",
+                    "title": "Not Playing",
+                    "uri": "4eDroyVjMijZPerJQIb20s"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Maya",
+                    "title": "Lait de coco - Dub",
+                    "uri": "5A73Nnju5DCi8EV6wPvI5H"
+                },
+                {
+                    "artist": "1969",
+                    "title": "Laid",
+                    "uri": "7a3FHF5nj58dXEIyYcXv0d"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Club Winston",
+                    "title": "Summer",
+                    "uri": "7hipBwWBlsaiHBjqO1YsIZ"
+                },
+                {
+                    "artist": "Club Winston",
+                    "title": "Soft Half",
+                    "uri": "2vQpwEJ8ket6DqZBbArHvE"
+                },
+                {
+                    "artist": "Club Winston",
+                    "title": "DKD",
+                    "uri": "3M8CoZcFebNLowVqgYuahA"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Sergei Rachmaninoff",
+                    "title": "10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso",
+                    "uri": "3JnrutHslVXGeUsUiLqKwA"
+                },
+                {
+                    "artist": "Sergei Rachmaninoff",
+                    "title": "10 Préludes, Op. 23: No. 2. Maestoso in B-Flat Major",
+                    "uri": "4NuKvOXeLtVAF9kie7rTKS"
+                },
+                {
+                    "artist": "Sergei Rachmaninoff",
+                    "title": "10 Preludes, Op. 23: No. 2 in B-Flat Major (Maestoso)",
+                    "uri": "1IRTLk864JUL9dVYNhTcZL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sergei Rachmaninoff",
+                    "title": "10 Preludes, Op. 23: No. 2 in B-Flat Major: Maestoso",
+                    "uri": "3JnrutHslVXGeUsUiLqKwA"
+                },
+                {
+                    "artist": "Sergei Rachmaninoff",
+                    "title": "Rachmaninov: 10 Preludes, Op. 23: No. 2 in B-Flat Major",
+                    "uri": "7HuUqh5uwKNZfs1QgtDauV"
+                },
+                {
+                    "artist": "Sergei Rachmaninoff",
+                    "title": "Prélude in C-Sharp Minor, Op. 3, No. 2",
+                    "uri": "3rd1Chqzxr95fcyBaJl0JZ"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Sexy Sushi",
+                    "title": "Sex Appeal",
+                    "uri": "0If1Jxo7CjpTsKLz3aXmqW"
+                },
+                {
+                    "artist": "Sexy Sushi",
+                    "title": "Sex appeal",
+                    "uri": "7nHMOR9JuZMsz0Zil2Ki6i"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sexy Sushi",
+                    "title": "Sex Appeal",
+                    "uri": "0If1Jxo7CjpTsKLz3aXmqW"
+                },
+                {
+                    "artist": "Sexy Sushi",
+                    "title": "Oublie moi",
+                    "uri": "0LHsz6x9ZWjdDHpRHyo5iR"
+                },
+                {
+                    "artist": "Sexy Sushi",
+                    "title": "Princesse voiture",
+                    "uri": "3UYBZ8RLwUHMNnRBiy7J59"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Miles Davis",
+                    "title": "Jeru",
+                    "uri": "7o3lr6ptQ4qAP4uUl81zG1"
+                },
+                {
+                    "artist": "Miles Davis",
+                    "title": "Jeru - Remastered",
+                    "uri": "7iP2uUsfiAgUQX8M2wrVtM"
+                },
+                {
+                    "artist": "Miles Davis",
+                    "title": "Jeru",
+                    "uri": "16lSwVkFcysesdMDO5AWEZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Miles Davis",
+                    "title": "Jeru",
+                    "uri": "7o3lr6ptQ4qAP4uUl81zG1"
+                },
+                {
+                    "artist": "Miles Davis",
+                    "title": "Générique - Bande originale du film \"Ascenseur pour l'échafaud\"",
+                    "uri": "3I1LsXYKMeWbdgJgADH8yY"
+                },
+                {
+                    "artist": "Miles Davis",
+                    "title": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
+                    "uri": "1xicvSO4CJ2ymqYgpk7DFh"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "John Coltrane",
+                    "title": "Untitled Original 11383 - Take 1",
+                    "uri": "7aGpjo6SB59tpTiMlD1uvL"
+                },
+                {
+                    "artist": "John Coltrane",
+                    "title": "Untitled Original 11383 - Take 1",
+                    "uri": "1Z7IT0RP2cwysJaAsXv7wI"
+                },
+                {
+                    "artist": "John Coltrane",
+                    "title": "Untitled Original 11383 - Take 1",
+                    "uri": "3OactZ1zaxKtdV5YOkydba"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "John Coltrane",
+                    "title": "Untitled Original 11383 - Take 1",
+                    "uri": "7aGpjo6SB59tpTiMlD1uvL"
+                },
+                {
+                    "artist": "John Coltrane",
+                    "title": "My One And Only Love",
+                    "uri": "0uPkCpuoERqrkBL06Art50"
+                },
+                {
+                    "artist": "John Coltrane Quartet",
+                    "title": "It's Easy To Remember",
+                    "uri": "1lZ41PumDFX0e82XTGx4sE"
+                }
+            ]
+        }
+    },
     "civilization-radio-1st-september-2022": {
         "00": {
             "s0": [

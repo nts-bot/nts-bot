@@ -66222,6 +66222,734 @@
             ]
         }
     },
+    "the-nts-guide-to-ambient-americana-16th-february-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Paris, Texas",
+                    "uri": "1idiifjTcCoGfBeZiYOdim"
+                },
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Paris, Texas",
+                    "uri": "3PxtlY1d9VbTMkveVdbMYI"
+                },
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Paris, Texas (From Paris, Texas) - 2008 Remaster",
+                    "uri": "33OXrW25FbtmmA1DHBTPN0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Paris, Texas",
+                    "uri": "1idiifjTcCoGfBeZiYOdim"
+                },
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Paris, Texas",
+                    "uri": "3PxtlY1d9VbTMkveVdbMYI"
+                },
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Paris, Texas (From Paris, Texas) - 2008 Remaster",
+                    "uri": "33OXrW25FbtmmA1DHBTPN0"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Bruce Kaphan",
+                    "title": "Outpost",
+                    "uri": "5zHvYfTryxDynybZFREKuu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bruce Kapusta",
+                    "title": "Wie ein Clown",
+                    "uri": "2Ag8DILq6bLAX4O2UxqYKD"
+                },
+                {
+                    "artist": "Bruce Kapusta",
+                    "title": "Dä Clown für Üch",
+                    "uri": "54ptLEZA45SsMcUO6FzXcu"
+                },
+                {
+                    "artist": "Bruce Kapusta",
+                    "title": "Koelle Alaaf - ess eh Jefoehl",
+                    "uri": "1tEu4ivQ1tifalxkcrhHqa"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Chuck Johnson",
+                    "title": "Eye on the Sparrow",
+                    "uri": "6mqIbknCYcNRiVPoef1Wi5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chuck Johnson",
+                    "title": "Eye on the Sparrow",
+                    "uri": "6mqIbknCYcNRiVPoef1Wi5"
+                },
+                {
+                    "artist": "Chuck Johnson",
+                    "title": "Across White Oak Mountain",
+                    "uri": "6mFuM7qrH8p57mgYeG3IRI"
+                },
+                {
+                    "artist": "Chuck Jackson",
+                    "title": "I Don't Want to Cry",
+                    "uri": "0jVGRMTglEU2Ew2vhiAWef"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Steve Roach",
+                    "title": "Gone West",
+                    "uri": "50iOviDLTrKaG0sw68wfFJ"
+                },
+                {
+                    "artist": "Steve Roach",
+                    "title": "Gone West",
+                    "uri": "54O125crZn9ZjQHsMQFJZ4"
+                },
+                {
+                    "artist": "Steve Roach",
+                    "title": "Gone West (Excerpt)",
+                    "uri": "1HWCVYIVRZe5szw51XAQJ4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Steve Roach",
+                    "title": "Light Sound",
+                    "uri": "6e2qtr2KTnk994t67G4euy"
+                },
+                {
+                    "artist": "Steve Roach",
+                    "title": "Towards the Blue - 2021 Remastered",
+                    "uri": "4cmGoOiC6y7kUenRgG1j4u"
+                },
+                {
+                    "artist": "Steve Roach",
+                    "title": "Infinite Shore",
+                    "uri": "090bRxSmHfZK0HO0ZjYHfO"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "A Small Good Thing",
+                    "title": "Saguaro",
+                    "uri": "2OeftD85XiRMPetwyfOSKU"
+                },
+                {
+                    "artist": "A Small Good Thing",
+                    "title": "Saguaro",
+                    "uri": "66nzil77J31ePBaBNsPEHe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lazlow",
+                    "title": "Saguaro",
+                    "uri": "51Jyy3gcrLQ9VnZSGhJyKk"
+                },
+                {
+                    "artist": "GL4M",
+                    "title": "Saguaro",
+                    "uri": "3nUV7pfE5ngWM0fiTxbzt3"
+                },
+                {
+                    "artist": "Boom Kitty",
+                    "title": "Saguaro",
+                    "uri": "2mVKgSCkodvFnqKjIxF9PC"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Barn Owl",
+                    "title": "Cavern Hymn",
+                    "uri": "6P7KlvHX9wHLPZyWBijkGt"
+                },
+                {
+                    "artist": "Buckshot",
+                    "title": "Barn Owls",
+                    "uri": "12HpJPOYb5lJxIHrn8voa4"
+                },
+                {
+                    "artist": "Lofi Bird",
+                    "title": "Barn Owl",
+                    "uri": "6OdJaRFrzO5dIxkxjJsZJp"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "SUSS",
+                    "title": "Wichita",
+                    "uri": "1KUAGhDVL8AReZJu67NTLl"
+                },
+                {
+                    "artist": "SUSS",
+                    "title": "Wichita",
+                    "uri": "4pjXuFPd9RfuAdmM0bEisO"
+                },
+                {
+                    "artist": "SUSS",
+                    "title": "Canyonlands (Return to Wichita)",
+                    "uri": "4oqriQjltxe0KvoAsnh9ea"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "SUSS",
+                    "title": "Wichita",
+                    "uri": "1KUAGhDVL8AReZJu67NTLl"
+                },
+                {
+                    "artist": "SUSS",
+                    "title": "Wichita",
+                    "uri": "4pjXuFPd9RfuAdmM0bEisO"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Labradford",
+                    "title": "G",
+                    "uri": "1IA4dY6vJGn2oUqGqhDcjX"
+                },
+                {
+                    "artist": "Labradford",
+                    "title": "Gratitude",
+                    "uri": "2AHWQ6P9Lnyw8Tj8ZWYQfa"
+                },
+                {
+                    "artist": "Labradford",
+                    "title": "Sliding Glass",
+                    "uri": "3Zs9kLXaazTlR448T1wcP8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Labradford",
+                    "title": "P",
+                    "uri": "07BSS3iMuvLXUHQZdGkfU5"
+                },
+                {
+                    "artist": "Laboratorium Pieśni",
+                    "title": "Sztoj pa moru",
+                    "uri": "51pU8LOjDOrRus4ODIOqht"
+                },
+                {
+                    "artist": "Karamel19",
+                    "title": "Lagerfeld",
+                    "uri": "7IeMoHi8EJHbXdhVVqWhVi"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Date Palms",
+                    "title": "Yuba Source Part I",
+                    "uri": "2HRPjSeeFJFFgBLaQcatPJ"
+                },
+                {
+                    "artist": "Date Palms",
+                    "title": "Yuba Source Part II",
+                    "uri": "1E7IESzWCR4uU1gRiz5Gft"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ebony",
+                    "title": "Date Ur Fada",
+                    "uri": "1TlpbpfYVARNDAafsXN217"
+                },
+                {
+                    "artist": "RADWIMPS",
+                    "title": "Date",
+                    "uri": "7A7lxMWZI2Uow7WqWjWGcM"
+                },
+                {
+                    "artist": "Omiki",
+                    "title": "Yumba",
+                    "uri": "1bPH9zHcv0vBYCrPl4dtj8"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Bill Frisell",
+                    "title": "Rain, Rain",
+                    "uri": "4Dvyyfa93OpZeJ3XgvS84I"
+                },
+                {
+                    "artist": "Bill Frisell",
+                    "title": "A Hard Rain's A-Gonna Fall",
+                    "uri": "4rTIHSHAUhS7VZdv7RWaQL"
+                },
+                {
+                    "artist": "Bill Frisell",
+                    "title": "Somewhere over the Rainbow",
+                    "uri": "0BiamS80azbXRvc2rNFudp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bill Frisell",
+                    "title": "Rain, Rain",
+                    "uri": "4Dvyyfa93OpZeJ3XgvS84I"
+                },
+                {
+                    "artist": "Bill Frisell",
+                    "title": "Pipeline",
+                    "uri": "5PBP5VRLIf2XfLedZr1suU"
+                },
+                {
+                    "artist": "Bill Frisell",
+                    "title": "Waltz for Hal Willner",
+                    "uri": "5GiqJaoSZn8pMpYztkKeR1"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Marisa Anderson",
+                    "title": "Into the Light",
+                    "uri": "2pppOI1nBYWiBAucgFsMX4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Marisa Anderson",
+                    "title": "Into the Light",
+                    "uri": "2pppOI1nBYWiBAucgFsMX4"
+                },
+                {
+                    "artist": "Marisa Anderson",
+                    "title": "He is Without His Guns",
+                    "uri": "1ZkNI3JpzfQ5LMV33zH7Jg"
+                },
+                {
+                    "artist": "Marisa Anderson",
+                    "title": "Hesitation Theme and Variation Blues",
+                    "uri": "2h4KmvKPMxvZjTpHTpq2FE"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Daniel Bachman",
+                    "title": "Year of the Rat",
+                    "uri": "4KEBDWWigJAvG9czpHO7gh"
+                },
+                {
+                    "artist": "Daniel Bachman",
+                    "title": "Year of the Rat - Live",
+                    "uri": "24JrIsxokaEgSwEoAlUk8u"
+                },
+                {
+                    "artist": "Daniel Bachman",
+                    "title": "Year of the Rat (reprise) - Live",
+                    "uri": "0rX2UTYexCP9fLpFlg7ckx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Daniel Bachman",
+                    "title": "Year of the Rat",
+                    "uri": "4KEBDWWigJAvG9czpHO7gh"
+                },
+                {
+                    "artist": "Daniel Bachman",
+                    "title": "Honeysuckle Reel",
+                    "uri": "6AvLsGpRX9GEej0zB7evfj"
+                },
+                {
+                    "artist": "Tristania",
+                    "title": "Year Of The Rat",
+                    "uri": "1GexSooil3zAGrTe33mgQT"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Loren Connors",
+                    "title": "Lullaby (the 1st)",
+                    "uri": "5B4xqbTudfh4hSXXwxhv1w"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Loren Connors",
+                    "title": "Lullaby (the 1st)",
+                    "uri": "5B4xqbTudfh4hSXXwxhv1w"
+                },
+                {
+                    "artist": "Loreena McKennitt",
+                    "title": "All Souls Night",
+                    "uri": "5WOZKmG2fYjrIeUoKyrIh8"
+                },
+                {
+                    "artist": "Loren Middleton",
+                    "title": "Scotty's Stroll",
+                    "uri": "0atwMmQuw2UaQJjMxMFgf0"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Chas Smith",
+                    "title": "Santa Fe",
+                    "uri": "4LoaF5JgLGcmTqGodL6R8t"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "DEVOTED",
+                    "title": "Santa Fe",
+                    "uri": "09AWmqTAIk1cPQUzxyDUiA"
+                },
+                {
+                    "artist": "Jon Bon Jovi",
+                    "title": "Santa Fe",
+                    "uri": "1wmaAfrbe1JLiyt7SpZeQU"
+                },
+                {
+                    "artist": "Santa Fe Klan",
+                    "title": "Así Soy",
+                    "uri": "5Wvw29RKTFSK0IuCd2qs4m"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Scott Tuma",
+                    "title": "Your'n",
+                    "uri": "1prGAluxlNSIzMunouCej5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Scott Tuma",
+                    "title": "Midway",
+                    "uri": "1XpcFor6P3neBDlCqhVR45"
+                },
+                {
+                    "artist": "Scott. The Pigeon",
+                    "title": "Fragment One",
+                    "uri": "3TNURnC6a1J4tiHxODgdys"
+                },
+                {
+                    "artist": "Scott Thomas",
+                    "title": "Heart on Fire",
+                    "uri": "6qCp2Out7ymmGb4VqHLY7P"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Lake Mary",
+                    "title": "Junglessa",
+                    "uri": "07YB7sp1Dwa3jRCEfwK0pL"
+                },
+                {
+                    "artist": "Lake Mary",
+                    "title": "Junglessa (remastered)",
+                    "uri": "1vNN4IAyvxSF2YVmpkT47K"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "John Prine",
+                    "title": "Lake Marie",
+                    "uri": "5KB869ycQ5H23d7N8u0mor"
+                },
+                {
+                    "artist": "Guapdad 4000",
+                    "title": "Lake Merritt (feat. TC Jigga)",
+                    "uri": "1HtAFY0bBofwHAb753XIx5"
+                },
+                {
+                    "artist": "Lake Melville",
+                    "title": "Anita",
+                    "uri": "7gLrx7us8Cspe0inFadFZo"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Nathan Salsburg",
+                    "title": "Landwerk I",
+                    "uri": "1Pin6kqicCVvV1KNwydj7h"
+                },
+                {
+                    "artist": "Nathan Salsburg",
+                    "title": "Landwerk III",
+                    "uri": "6gid16uF4aPweAvElm0XwN"
+                },
+                {
+                    "artist": "Nathan Salsburg",
+                    "title": "Landwerk II",
+                    "uri": "5HeToD0Ew4J1BWGtkK6Kyk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nathan Salsburg",
+                    "title": "IX",
+                    "uri": "14gZrWyUfgAHl1LSvJIPzE"
+                },
+                {
+                    "artist": "Nathan Salsburg",
+                    "title": "Impossible Air",
+                    "uri": "7C23d5jyOZiXIjBiqvBEDp"
+                },
+                {
+                    "artist": "Nathan Salsburg",
+                    "title": "XI",
+                    "uri": "7nHkZnhWxkomOcdW0j2Omr"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Ezra Feinberg",
+                    "title": "Recumbent Speech",
+                    "uri": "6p6SHAPZv0lM20WTWaOCFR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ezra Furman",
+                    "title": "Restless Year",
+                    "uri": "3aOqxUnZ6LI5dxQ3iqAQ6C"
+                },
+                {
+                    "artist": "Ezra Furman & The Harpoons",
+                    "title": "Mysterious Power",
+                    "uri": "3O1TxpDQzLKu8S0uMAEkkC"
+                },
+                {
+                    "artist": "Ezra Furman",
+                    "title": "The Queen of Hearts",
+                    "uri": "4FBz9VcQ0PArlzDlsGxmlo"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Hayden Pedigo",
+                    "title": "Welcome",
+                    "uri": "6meAGnZIkgxdciOThZaySi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hayden Calnin",
+                    "title": "Unfortunate Love",
+                    "uri": "5Syb5fDjejlzXhwHhEFVzq"
+                },
+                {
+                    "artist": "Hayden Calnin",
+                    "title": "Warm with You",
+                    "uri": "0Pj6KjqwmJNdIOttPShZC9"
+                },
+                {
+                    "artist": "Hayden Phoenix",
+                    "title": "Weekend Blues",
+                    "uri": "0l7mN70fiUJ0Q3HacqvKEU"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bruce Springsteen",
+                    "title": "Darlington County",
+                    "uri": "3O5RCjnjWlF0CYkcvJaGVm"
+                },
+                {
+                    "artist": "Sam Clines",
+                    "title": "Knew I’d Find You Here",
+                    "uri": "7N3EPQF9kxdSpT6OBYPHQa"
+                },
+                {
+                    "artist": "Caleb Etheridge",
+                    "title": "Brief Moment",
+                    "uri": "0R2L8OGsDau8GX1WGx5995"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "ivonne van cleef",
+                    "title": "The Unexplainable",
+                    "uri": "7wUGIG8zgRmCqVECtpxLHf"
+                },
+                {
+                    "artist": "ivonne van cleef",
+                    "title": "Trino",
+                    "uri": "7kh8eoFDS4xVtEwBkBnFYJ"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "William Tyler",
+                    "title": "Country of Illusion",
+                    "uri": "0ZggavuoEzQ2P9iRua8UVv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "William Tyler",
+                    "title": "Country of Illusion",
+                    "uri": "0ZggavuoEzQ2P9iRua8UVv"
+                },
+                {
+                    "artist": "William Tyler",
+                    "title": "Our Lady of the Desert",
+                    "uri": "16jTcLuTGep2tFcoaIkIN8"
+                },
+                {
+                    "artist": "Gioachino Rossini",
+                    "title": "William Tell Overture",
+                    "uri": "45SmnjVvKJ2OZEo2EScn32"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Scenic",
+                    "title": "The Mid Hills",
+                    "uri": "5lARnES3NpDJG2iK0iGhjV"
+                },
+                {
+                    "artist": "Scenic",
+                    "title": "The Mid Hills",
+                    "uri": "0gFlZqkVGdRZOWE4jwadNC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Scenic",
+                    "title": "The Mid Hills",
+                    "uri": "5lARnES3NpDJG2iK0iGhjV"
+                },
+                {
+                    "artist": "Mauro Rawn",
+                    "title": "Scenic Byway",
+                    "uri": "2aIWUNSloiJI9D8HEfky6F"
+                },
+                {
+                    "artist": "Panacea",
+                    "title": "The Scenic Route",
+                    "uri": "1Mruu1MQTYzGpdnFGRAOle"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Marc Ribot",
+                    "title": "Yo, I Killed Your God",
+                    "uri": "4W3bBklc8CGp1lcJSTC2Ws"
+                },
+                {
+                    "artist": "Marc Ribot",
+                    "title": "I Should Care",
+                    "uri": "0XqtAO5WLHUyEc5yzI4Jja"
+                },
+                {
+                    "artist": "Marc Ribot",
+                    "title": "Flicker",
+                    "uri": "6tSBU5Tsku0MtO25wZw6Vs"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Calexico",
+                    "title": "Moon Never Rises",
+                    "uri": "6ErJNWzEaL0RM2oyTuF4hz"
+                },
+                {
+                    "artist": "Calexico",
+                    "title": "Ballad Of Cable Hogue",
+                    "uri": "1iBvj4bsfAbGuGWUCxYDV5"
+                },
+                {
+                    "artist": "Calexico",
+                    "title": "Inspiracion",
+                    "uri": "4LdDYUAru4AgOJCR5LN6hT"
+                }
+            ]
+        },
+        "25": {
+            "s0": [
+                {
+                    "artist": "Earth",
+                    "title": "Miami Morning Coming Down II (Shine)",
+                    "uri": "4U5BBZMFsJa0PvOFsQ6lDP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Earth",
+                    "title": "Miami Morning Coming Down II (Shine)",
+                    "uri": "4U5BBZMFsJa0PvOFsQ6lDP"
+                },
+                {
+                    "artist": "Earth",
+                    "title": "Miami Morning Coming Down",
+                    "uri": "7vtEgUwJipE7PHHfWV8EyZ"
+                },
+                {
+                    "artist": "Highimtwi$t",
+                    "title": "Miami Morning",
+                    "uri": "0FD8lds1OJfQ3HNrb2wldJ"
+                }
+            ]
+        }
+    },
     "the-nts-guide-to-angst-and-autotune-10th-march-2022": {
         "00": {
             "s0": "",
@@ -67110,6 +67838,484 @@
                     "artist": "Bladee",
                     "title": "UNDERSTATEMENT",
                     "uri": "2ORtT6vXq21ZMLjW3H7TTQ"
+                }
+            ]
+        }
+    },
+    "the-nts-guide-to-tele-music-15th-february-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pierre Daignault",
+                    "title": "Sur la route de Dijon",
+                    "uri": "5aI0oboJhwHd1cAMWgA7LF"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Bernard Estardy",
+                    "title": "Cœur polaire",
+                    "uri": "27hElQGzHPFAydOlbAmswQ"
+                },
+                {
+                    "artist": "Bernard Estardy",
+                    "title": "Coeur Polaire",
+                    "uri": "7yUilQTrocj6WsFwhROArK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bernard Estardy",
+                    "title": "Monsieur Dutour",
+                    "uri": "1pjD3F3L2ox3WQjxKTRk9U"
+                },
+                {
+                    "artist": "Bernard Estardy",
+                    "title": "Bacchanales Estardiennes",
+                    "uri": "4TWE0ZGTuFljHcusPAWWS3"
+                },
+                {
+                    "artist": "Bernard Estardy",
+                    "title": "Cha tatch ka",
+                    "uri": "6DGAPpaH9L7nWWlxVWpMcu"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Georges Chatelain & Getaroom",
+                    "title": "Mandrake",
+                    "uri": "6nqNHUmSinIaAkAV3MQMY0"
+                },
+                {
+                    "artist": "Georges Chelon",
+                    "title": "Prélude",
+                    "uri": "5S6BvQMmXOVshRzAMkOc47"
+                },
+                {
+                    "artist": "Bill Charlap",
+                    "title": "I Was So Young, And You Were So Beautiful",
+                    "uri": "4N7iWwgqcWr3p5JzngOSEF"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tony Ruvio",
+                    "title": "Delusione",
+                    "uri": "7DQ15XWPdRopZQyM0gvzWw"
+                },
+                {
+                    "artist": "Ramon Rivas II",
+                    "title": "Tonio",
+                    "uri": "00NMVpcYCmS31RVjRlxmKb"
+                },
+                {
+                    "artist": "Tonio Ruiz",
+                    "title": "Double Life",
+                    "uri": "47eYKmbAIzQwvyFN6KJnyw"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bernard Lubat",
+                    "title": "Aubergine Time",
+                    "uri": "0ETfjB5gaHd5Sqlv9ZtfVt"
+                },
+                {
+                    "artist": "Michel Portal",
+                    "title": "Mozambic",
+                    "uri": "4cyn0xZIFwdeqdO095BXAS"
+                },
+                {
+                    "artist": "Bernard Levautour",
+                    "title": "Inevitably Fragmented (A Nullset)",
+                    "uri": "32ud6SA2JZUlQdSFyiqtae"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Georges Chelon",
+                    "title": "Prélude",
+                    "uri": "5S6BvQMmXOVshRzAMkOc47"
+                },
+                {
+                    "artist": "Georges Chelon",
+                    "title": "Père prodigue",
+                    "uri": "1bsFSXwXVh9kBvIJ6X2AXy"
+                },
+                {
+                    "artist": "Renard",
+                    "title": "Cow-Boy",
+                    "uri": "37IDmW7ZEmsq9HDKFk7m2P"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Marcus Miller",
+                    "title": "Jean Pierre",
+                    "uri": "3HJqifC5bcjooXlku8w8SG"
+                },
+                {
+                    "artist": "Miles Davis",
+                    "title": "Jean Pierre (2022 Remaster) - Live at Shinjuku Nishi-Guchi Hiroba, Tokyo, Japan - Oct. 1981 - version 1",
+                    "uri": "2uIPD5kw8mtkqGqr4O5x9y"
+                },
+                {
+                    "artist": "Claude Bolling",
+                    "title": "Versatile, Pt. 1 - With Bass Flute",
+                    "uri": "4BQ3KeFwgSrb5YFxK3GJRX"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Paul Piot",
+                    "title": "Vertueuse rêveuse",
+                    "uri": "6v9Zal9Hovog4NZBtbrhHF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Paul Potts",
+                    "title": "Nessun Dorma",
+                    "uri": "1nIEsK1YwTEurUrs7PQ1AN"
+                },
+                {
+                    "artist": "Paul Potts",
+                    "title": "Piano (Memory)",
+                    "uri": "3vPelVA3tErz8WeaZTMq2J"
+                },
+                {
+                    "artist": "Traditional",
+                    "title": "Ave Maria",
+                    "uri": "2YZrSS0N7eLYw1HPJRHzbb"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Jean Pierre Martin",
+                    "title": "Yen Of You",
+                    "uri": "45GLUckHUDUQz43tRBn8Vx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jean-Pierre Mirouze",
+                    "title": "Sexopolis",
+                    "uri": "4anPtC3W9lV3g8EQCgZkPS"
+                },
+                {
+                    "artist": "Marcus Miller",
+                    "title": "Jean Pierre",
+                    "uri": "3HJqifC5bcjooXlku8w8SG"
+                },
+                {
+                    "artist": "Claude Bolling",
+                    "title": "Irlandaise, Pt. 1",
+                    "uri": "5XhNkvrmQLC9T2CPf6t9Aa"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Georges Chelon",
+                    "title": "Prélude",
+                    "uri": "5S6BvQMmXOVshRzAMkOc47"
+                },
+                {
+                    "artist": "Georges Chelon",
+                    "title": "Père prodigue",
+                    "uri": "1bsFSXwXVh9kBvIJ6X2AXy"
+                },
+                {
+                    "artist": "Georges Chelon",
+                    "title": "la porte ouverte",
+                    "uri": "60TU4QIzrAhGFGDPTOgRh1"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pierre Alain Rotzetter",
+                    "title": "L'aventuriere",
+                    "uri": "57TcoVYOSGrkuu8KTW9qgP"
+                },
+                {
+                    "artist": "Pierre Alain Rotzetter",
+                    "title": "Petite DEMOISELLE",
+                    "uri": "7qkVmDzhoQzHggVHIngNne"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tony Renis",
+                    "title": "Blu - Digital Remaster 2004",
+                    "uri": "2zXTZfhdriwosvVdkIyXkm"
+                },
+                {
+                    "artist": "Toño Rosario",
+                    "title": "Resistire",
+                    "uri": "5Sd69zm6a7lP6l0681GiPg"
+                },
+                {
+                    "artist": "Tony Richard",
+                    "title": "Don't Let The Bass Get Ya",
+                    "uri": "4rEnlfjiXHPUNm1gfuvJHR"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bernard Lavilliers",
+                    "title": "Melody Tempo Harmony - Radio Mix",
+                    "uri": "6dWjfCa4ktmU7hdiJRrtZa"
+                },
+                {
+                    "artist": "Bernard Lavilliers",
+                    "title": "Qui a tué Davy Moore? (feat. Eric Cantona, Hervé, Izïa, Gaëtan Roussel)",
+                    "uri": "6F7uKbwTl6GV7URZyYc674"
+                },
+                {
+                    "artist": "Bernard Lino",
+                    "title": "Loop is Your Land - a4",
+                    "uri": "3UQdZIs8cVoR4nsTXYNK5U"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Victor Young",
+                    "title": "Pavane: Andre Arrives on Horseback (From \"Scaramouche, 1952 Film Score \")",
+                    "uri": "5EpqBagaXJPDpthNPqOzIT"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jean-Philippe Rameau",
+                    "title": "Tambourin",
+                    "uri": "53Z6BVaNb1bH86SWA5cZ4y"
+                },
+                {
+                    "artist": "Raymond Holt",
+                    "title": "wedding",
+                    "uri": "6Zyut9qb0MIsSigfAYeTpL"
+                },
+                {
+                    "artist": "Raymond Holt",
+                    "title": "dindding",
+                    "uri": "09DzJ5ogjELYNBqgxoXXRH"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bernard Estardy",
+                    "title": "Bacchanales Estardiennes",
+                    "uri": "4TWE0ZGTuFljHcusPAWWS3"
+                },
+                {
+                    "artist": "Bernard Estardy",
+                    "title": "Monsieur Dutour",
+                    "uri": "1pjD3F3L2ox3WQjxKTRk9U"
+                },
+                {
+                    "artist": "Bernard Estardy",
+                    "title": "Cha tatch ka",
+                    "uri": "6DGAPpaH9L7nWWlxVWpMcu"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "cazyy",
+                    "title": "Engel",
+                    "uri": "1TkxAGH7kSpsc2LdXmm2J7"
+                },
+                {
+                    "artist": "Clashing Minds",
+                    "title": "Engel",
+                    "uri": "1aBZVGdbYcdFXCr9lxDIB1"
+                },
+                {
+                    "artist": "George Enescu",
+                    "title": "Impromptu concertant",
+                    "uri": "2wXfyGNWVcQ726ULv5POk8"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pierre Alain Rotzetter",
+                    "title": "Vers UN AILLEURS",
+                    "uri": "0k4MABuReAmbwxYM1nG0Kl"
+                },
+                {
+                    "artist": "Pierre Alain Rotzetter",
+                    "title": "Petite DEMOISELLE",
+                    "uri": "7qkVmDzhoQzHggVHIngNne"
+                },
+                {
+                    "artist": "Pierre Alain Rotzetter",
+                    "title": "L'aventuriere",
+                    "uri": "57TcoVYOSGrkuu8KTW9qgP"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pierre-Alain Dahan",
+                    "title": "Kuzi Kuza",
+                    "uri": "0l9txUU11eLclpFssooPXW"
+                },
+                {
+                    "artist": "Pierre-Alain Dahan",
+                    "title": "Please Love Me Again",
+                    "uri": "7HHISuYfllpioMYO1FrbFt"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Michel Gonet",
+                    "title": "Flower Dance",
+                    "uri": "0OXT5aTyQdICP2G9Cx2sej"
+                },
+                {
+                    "artist": "凡以三",
+                    "title": "Flower Dance - Guitar Ver.",
+                    "uri": "5CvvN2BlEoghbbHijQCw3E"
+                },
+                {
+                    "artist": "Michael Gotti",
+                    "title": "Londres",
+                    "uri": "6UZO1TLITuhiFO1HV1V9te"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Sauveur Mallia",
+                    "title": "Interlude Vision",
+                    "uri": "240lf4MhU6aWwaEMCSMLFw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sauveur Mallia",
+                    "title": "Synthetic Neutron",
+                    "uri": "4NWjYSNiw2byMr9Hqi54Ci"
+                },
+                {
+                    "artist": "Sauveur Mallia",
+                    "title": "Holidays Morning",
+                    "uri": "4okszR17VDDVWoObuUBuYT"
+                },
+                {
+                    "artist": "Sauveur Mallia",
+                    "title": "Grand manganèse",
+                    "uri": "0KkCTajRl6h5hrjVGsnX5T"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Sauveur Mallia",
+                    "title": "New Wave Sequence",
+                    "uri": "1zVegT48qln48nd9BlY718"
+                },
+                {
+                    "artist": "Sauveur Mallia",
+                    "title": "New Wave Sequence",
+                    "uri": "5EtqGzqfITJlZok37v1itj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sauveur Mallia",
+                    "title": "Synthetic Neutron",
+                    "uri": "4NWjYSNiw2byMr9Hqi54Ci"
+                },
+                {
+                    "artist": "Sauveur Mallia",
+                    "title": "Space People",
+                    "uri": "1d471q2DXig0BD2tVpEyy5"
+                },
+                {
+                    "artist": "Sauveur Mallia",
+                    "title": "Grand Manganese",
+                    "uri": "2TCWOwotTJ8KVXkSL16old"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Slim Pezin",
+                    "title": "Smurf, Scratch & Dance",
+                    "uri": "1UgKXgzddSZpIWVqVMkyOR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Otis Redding",
+                    "title": "Scratch My Back",
+                    "uri": "09eJmRmocBgXjMnGvraJr8"
+                },
+                {
+                    "artist": "Slim Prince",
+                    "title": "1 Billion",
+                    "uri": "2Prv58BNqT0d0nxS7CTbDr"
+                },
+                {
+                    "artist": "Slim Patrick",
+                    "title": "Glue",
+                    "uri": "71J6NS7HSZUBixtSgM5eHM"
                 }
             ]
         }

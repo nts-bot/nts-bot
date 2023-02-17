@@ -3982,6 +3982,446 @@
             ]
         }
     },
+    "acid-memories-15th-february-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Touraj",
+                    "title": "Take a Blue Handkerchief",
+                    "uri": "4wka2Lmj3UQGFlM0T6hXGe"
+                },
+                {
+                    "artist": "Touraj",
+                    "title": "Take a Blue Handkerchief",
+                    "uri": "5xJlkUNbAHa8MCjoK4Lxrt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Touraj",
+                    "title": "Take a Blue Handkerchief",
+                    "uri": "4wka2Lmj3UQGFlM0T6hXGe"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Eddie Suzuki",
+                    "title": "High Tide",
+                    "uri": "4LF7bPsclWBBLyD7jjuTke"
+                },
+                {
+                    "artist": "Eddie Suzuki",
+                    "title": "High Tide",
+                    "uri": "3daZ6LcmzeP79mbe3ivCIU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eddie Suzuki",
+                    "title": "High Tide",
+                    "uri": "3daZ6LcmzeP79mbe3ivCIU"
+                },
+                {
+                    "artist": "Parson James",
+                    "title": "High Tide, Low Tide",
+                    "uri": "63pXra8nfOVjhnnOuTG4AK"
+                },
+                {
+                    "artist": "High Tide",
+                    "title": "Dream of Tomorrow",
+                    "uri": "2WyAKRYfzWNJWtTCftYqBM"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Kram",
+                    "title": "Twoje oddalenia",
+                    "uri": "0Jik9dKEwRjkHgMHIy2Yow"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kram",
+                    "title": "The Best Thing",
+                    "uri": "6WZBn9Q4UGGJDYECEhyyzX"
+                },
+                {
+                    "artist": "Strachy Na Lachy",
+                    "title": "Twoje oczy lubią mnie",
+                    "uri": "2k9KGkKgBNVWoCQDU197sp"
+                },
+                {
+                    "artist": "Krama",
+                    "title": "Your Sky Is Mine",
+                    "uri": "7FKq66A3QSEWYPQKLwct7J"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sevil & Ayla",
+                    "title": "Bebek",
+                    "uri": "0pGBQ8HJD6vYmYaOxokAhm"
+                },
+                {
+                    "artist": "Şevval Sam",
+                    "title": "Ander Sevdaluk",
+                    "uri": "6vfgZNH2FXtlIcrSsSDg8Q"
+                },
+                {
+                    "artist": "Sevil Sevinc",
+                    "title": "Öpücem Sanma",
+                    "uri": "11y3T5g9uTqGMRQpIDY7JJ"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Nora Orlandi",
+                    "title": "Lady Luna",
+                    "uri": "75Ej5w6NWSuSAjmrpz1L85"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nora Orlandi",
+                    "title": "Lady Luna",
+                    "uri": "75Ej5w6NWSuSAjmrpz1L85"
+                },
+                {
+                    "artist": "Nora Orlandi",
+                    "title": "Uccidere in silenzio 3",
+                    "uri": "6FLBbVRnh09DvwC4ZjaThj"
+                },
+                {
+                    "artist": "Gianni Marchetti",
+                    "title": "Il segreto di una diciottenne",
+                    "uri": "3BJnEQNMLmUkqFiiDGK1Fk"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Andrzej Dabrowski",
+                    "title": "Zielono Mi",
+                    "uri": "1YgO1KgeSe4tXweQXlJNqa"
+                },
+                {
+                    "artist": "Andrzej Dabrowski",
+                    "title": "Zielono mi",
+                    "uri": "5bdAgRGbeyfATiWDvZqC2h"
+                },
+                {
+                    "artist": "Andrzej Dabrowski",
+                    "title": "Zielono mi",
+                    "uri": "46YQERUCMO1lxYQKx0cKyb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Andrzej Dabrowski",
+                    "title": "Zielono Mi",
+                    "uri": "1YgO1KgeSe4tXweQXlJNqa"
+                },
+                {
+                    "artist": "Andrzej Dabrowski",
+                    "title": "Zielono mi",
+                    "uri": "5bdAgRGbeyfATiWDvZqC2h"
+                },
+                {
+                    "artist": "Andrzej Dabrowski",
+                    "title": "Zielono mi",
+                    "uri": "46YQERUCMO1lxYQKx0cKyb"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Rüçhan Çamay",
+                    "title": "Çocukluğum",
+                    "uri": "7e0kXyx0RnhhCu3AKWgY2h"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rüçhan Çamay",
+                    "title": "Çocukluğum",
+                    "uri": "7e0kXyx0RnhhCu3AKWgY2h"
+                },
+                {
+                    "artist": "Mazlum Çimen",
+                    "title": "Çocuk",
+                    "uri": "1d1ThWfg4df8rHavVGBBhX"
+                },
+                {
+                    "artist": "Mabel Matiz",
+                    "title": "Yaşım Çocuk",
+                    "uri": "5k8Dzrcy9cY8ATHsoD62qf"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Evasio Roncarati",
+                    "title": "Privacy",
+                    "uri": "46SVYdCZgQYkD1hyoFcHSE"
+                }
+            ],
+            "s1": ""
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Arthur Verocai",
+                    "title": "Sylvia",
+                    "uri": "7gd7BDwZWjGXD6CfX7KQcF"
+                },
+                {
+                    "artist": "Arthur Verocai",
+                    "title": "Sylvia",
+                    "uri": "1zqbbWAdqfRvbl8HCt8xph"
+                },
+                {
+                    "artist": "Arthur Verocai",
+                    "title": "Sylvia",
+                    "uri": "7LUhOcGzxey9pLSedZrZZp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Arthur Verocai",
+                    "title": "Sylvia",
+                    "uri": "7gd7BDwZWjGXD6CfX7KQcF"
+                },
+                {
+                    "artist": "Arthur Verocai",
+                    "title": "Na boca do sol",
+                    "uri": "5oiueCPkJCU9wCmQO5HDTj"
+                },
+                {
+                    "artist": "Arthur Verocai",
+                    "title": "Abertura",
+                    "uri": "76KYGgMnhRHik7moyA17jj"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Jean-Claude Oliver",
+                    "title": "Aamun Sarastus",
+                    "uri": "3lSBp68G7B4ECVpHdsUAju"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jean Claude Derisier",
+                    "title": "Parole La",
+                    "uri": "2baJ4mJOtwDsGMTldbivM6"
+                },
+                {
+                    "artist": "Jean Claude Derisier",
+                    "title": "Prophetie",
+                    "uri": "2tKR5GXT4Zho2Wf5kU1OKI"
+                },
+                {
+                    "artist": "Jean Claude Derisier",
+                    "title": "Map Ri",
+                    "uri": "4YQW8xrGAWpaEuWgEDD8WH"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Andrei Petrov",
+                    "title": "Waltz From The Television Series \"Petersburg Secrets\"",
+                    "uri": "3rx372jzTPvuoLq8m78ZJ7"
+                },
+                {
+                    "artist": "Andrei Petrov",
+                    "title": "Overture To The Film \"Autumn Marathon\"",
+                    "uri": "5ukCldIxJM5zbi7BqIZHbU"
+                },
+                {
+                    "artist": "Chamber Choir of Krupskaya Leningrad Institute of Culture and Arts",
+                    "title": "Fantasia on Themes from Incidental Music for the Film The Amphibian Man (Arr. Nikolai Dranitsyn)",
+                    "uri": "6mEuZZKTNXtrgPBLDEBMNk"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Ramesh",
+                    "title": "Labe Darya",
+                    "uri": "2SypONqn9ZGKfYHKaz3mFL"
+                },
+                {
+                    "artist": "Ramesh",
+                    "title": "Labe Darya",
+                    "uri": "2gGLokqG2bYAoE5WrLvQIF"
+                },
+                {
+                    "artist": "Ramesh",
+                    "title": "Labe Darya",
+                    "uri": "3F7h1Qypr9r1ZJABYM7Rg2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ramesh",
+                    "title": "Labe Darya",
+                    "uri": "2SypONqn9ZGKfYHKaz3mFL"
+                },
+                {
+                    "artist": "Ramesh",
+                    "title": "Labe Darya",
+                    "uri": "2gGLokqG2bYAoE5WrLvQIF"
+                },
+                {
+                    "artist": "Ramesh",
+                    "title": "Darya Darya",
+                    "uri": "2QhfxQGTKz0GxmdkZtLSyb"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Bixio Frizzi Tempera",
+                    "title": "Vai gorilla",
+                    "uri": "7fKkYfRNVLZrR3FDozZylw"
+                },
+                {
+                    "artist": "Bixio Frizzi Tempera",
+                    "title": "Vai gorilla",
+                    "uri": "6KdkPHPWK8UAtrRSVTlk5e"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bixio Frizzi Tempera",
+                    "title": "Vai gorilla",
+                    "uri": "7fKkYfRNVLZrR3FDozZylw"
+                },
+                {
+                    "artist": "Bixio",
+                    "title": "Slow Violence",
+                    "uri": "0b57c4PprnKZ0T9yvH1euC"
+                },
+                {
+                    "artist": "Bicho Terra Barrica",
+                    "title": "Me Leva",
+                    "uri": "5MlCtsHYVK3Vc4n4xZuHO5"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Maha",
+                    "title": "Ala Shat El Nesyan",
+                    "uri": "6XB26JiT7YrKdZSom2A3Yw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Maha",
+                    "title": "Ala Shat El Nesyan",
+                    "uri": "6XB26JiT7YrKdZSom2A3Yw"
+                },
+                {
+                    "artist": "Fairuz",
+                    "title": "Nassam Alayna El Hawa",
+                    "uri": "7BXhyXma11NSNQlQDZOgiN"
+                },
+                {
+                    "artist": "Maher Zain",
+                    "title": "Masha Allah",
+                    "uri": "0muVpp3jrFfELrSU1E6dhv"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Edip Akbayram",
+                    "title": "Dağlar Dağladı Beni",
+                    "uri": "54LENzVddnzTIk084WkHbk"
+                },
+                {
+                    "artist": "Edip Akbayram",
+                    "title": "Daglar Dagladı Beni",
+                    "uri": "5p08kagJ4RRa2ZgrkUItZO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Edip Akbayram",
+                    "title": "Dağlar Dağladı Beni",
+                    "uri": "54LENzVddnzTIk084WkHbk"
+                },
+                {
+                    "artist": "Edip Akbayram",
+                    "title": "Hasretinle Yandı Gönlüm",
+                    "uri": "6cI0AhuTriSPcK9dtBRl1V"
+                },
+                {
+                    "artist": "Edip Akbayram",
+                    "title": "Aldırma Gönül",
+                    "uri": "0wdFEbZ7n4h3IfIvvuNhTP"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Krzysztof Komeda",
+                    "title": "Le Départ",
+                    "uri": "7zcV8xFsMisUKFw5Gkm6jj"
+                },
+                {
+                    "artist": "Krzysztof Komeda",
+                    "title": "Le Départ Final",
+                    "uri": "1qsfUBUrjiFe5M8pHLizoX"
+                },
+                {
+                    "artist": "Krzysztof Komeda",
+                    "title": "Le Scooter Et Le Tramway",
+                    "uri": "166bcwc2vPGbgL38D8lm0S"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Krzysztof Komeda",
+                    "title": "Le Départ",
+                    "uri": "7zcV8xFsMisUKFw5Gkm6jj"
+                },
+                {
+                    "artist": "Krzysztof Komeda Trio",
+                    "title": "Ballad for Bernt",
+                    "uri": "3xFwFQ1SIzajuCahC7lRei"
+                },
+                {
+                    "artist": "L'Impératrice",
+                    "title": "Le départ",
+                    "uri": "0UODoj6stYv542c7NB9MNd"
+                }
+            ]
+        }
+    },
     "acid-memories-15th-may-2019": {
         "00": {
             "s0": "",

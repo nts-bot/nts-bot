@@ -1,4 +1,324 @@
 {
+    "sigourney-16th-february-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sandrayati",
+                    "title": "Vast",
+                    "uri": "3zeMHlSsmxidNhLr11wcUN"
+                },
+                {
+                    "artist": "Ólafur Arnalds",
+                    "title": "saman",
+                    "uri": "5RqKo9P4DLA0bVyY70cWkr"
+                },
+                {
+                    "artist": "Ólafur Arnalds",
+                    "title": "momentary",
+                    "uri": "2vD20Aj8Ru9NAmJl1Ca2qS"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "prm.",
+                    "title": "Wind (Orchestral Version)",
+                    "uri": "7Bc6nC5WfsrqLLaHhrqlnd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Paul Roggenbuck",
+                    "title": "Wind",
+                    "uri": "0kXLIhoQaTtBDKBp1jTbwW"
+                },
+                {
+                    "artist": "prm.",
+                    "title": "Wind (Orchestral Version)",
+                    "uri": "7Bc6nC5WfsrqLLaHhrqlnd"
+                },
+                {
+                    "artist": "明星 <Akeboshi>",
+                    "title": "Wind",
+                    "uri": "5BqKtuCFLfZyzfZOwlgW1f"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Franz Liszt",
+                    "title": "Liszt: Franz Schuberts Grosse Wanderer-Fantasie, S. 366",
+                    "uri": "7DGWA89TLCuc8Y7kWKkJjo"
+                },
+                {
+                    "artist": "Franz Liszt",
+                    "title": "Grosse fantasie for Piano and Orchestra, S. 366 - After Franz Schubert's \"Wanderer Fantasie\"",
+                    "uri": "0R8AbyjIrmb8oySgokbhBv"
+                },
+                {
+                    "artist": "Franz Liszt",
+                    "title": "Grosse fantasie for Piano and Orchestra, S. 366 - After Franz Schubert's \"Wanderer Fantasie\"",
+                    "uri": "7JFgnX7jAvUcHQtlpikmgV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Franz Liszt",
+                    "title": "Mephisto Waltz No. 1, S. 514",
+                    "uri": "0h4Yg2192HQ8jHEcGj2Piy"
+                },
+                {
+                    "artist": "Franz Schubert",
+                    "title": "Auf dem Wasser zu singen, D. 774 - Transcription: Franz Liszt, Searle 558 No. 2",
+                    "uri": "4wYmJlEqIme358SxbbmbJ1"
+                },
+                {
+                    "artist": "Franz Liszt",
+                    "title": "Hungarian Rhapsody No. 12 in C sharp minor, S.244",
+                    "uri": "7MB8LNvuV8Cla1J3vJOzpH"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Philip Glass",
+                    "title": "Violin Concerto No.2 \"The American Four Seasons\" - Movement II",
+                    "uri": "6whknaFyzmZ8VBPoi4HD8a"
+                },
+                {
+                    "artist": "Philip Glass",
+                    "title": "Violin Concerto No.2 \"The American Four Seasons\" - Prologue",
+                    "uri": "26fan7A4vPNIIDnRlNn6Yy"
+                },
+                {
+                    "artist": "Philip Glass",
+                    "title": "String Quartet No. 3, \"Mishima\": VI. Mishima / Closing",
+                    "uri": "4qZh3yJ7tILlDD0Wmv7Ftj"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Antonín Dvořák",
+                    "title": "The Water Goblin in B Minor, Op. 107, B. 195",
+                    "uri": "4uN8D2fNvbhds8YwbsJQf7"
+                },
+                {
+                    "artist": "Antonín Dvořák",
+                    "title": "The Water Goblin in B Minor, Op. 107, B. 195",
+                    "uri": "1VWE7l8P8TP5UrbpG6xdkW"
+                },
+                {
+                    "artist": "Antonín Dvořák",
+                    "title": "The Water Goblin in B Minor, Op. 107, B. 195",
+                    "uri": "6FmJD2rLWTS3ppthrR5rYM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Antonín Dvořák",
+                    "title": "The Water Goblin, Op. 107",
+                    "uri": "4b1brNQBEcvw4Eut1JHEfw"
+                },
+                {
+                    "artist": "Sir Simon Rattle",
+                    "title": "Water Goblin: Allegro vivo",
+                    "uri": "2B7kM4FV45rXLF8lF6ReMX"
+                },
+                {
+                    "artist": "Berliner Philharmoniker",
+                    "title": "Water Goblin: Andante mesto come prima (Fig 13)",
+                    "uri": "0PR80rUmImaySSvO6JGwIg"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Ekaterina Shelehova",
+                    "title": "Earth Melodies",
+                    "uri": "3XN3MLpVCSgyeei69MY7r2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ekaterina Shelehova",
+                    "title": "Earth Melodies",
+                    "uri": "3XN3MLpVCSgyeei69MY7r2"
+                },
+                {
+                    "artist": "Ekaterina Shelehova",
+                    "title": "I Have a Dream",
+                    "uri": "5jwVzdBHrCDhYMmIlxBbeU"
+                },
+                {
+                    "artist": "Ekaterina Shelehova",
+                    "title": "Dve Dushi",
+                    "uri": "1eWv1tO5ciLJzenOgsueoJ"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Reeder",
+                    "title": "Owl Temple",
+                    "uri": "3UVnMjvuy8CPt1WXupo68m"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Reeder",
+                    "title": "Owl Temple",
+                    "uri": "3UVnMjvuy8CPt1WXupo68m"
+                },
+                {
+                    "artist": "Jonathan Geer",
+                    "title": "Owl Temple",
+                    "uri": "6WVz5C9bjpkoyAgEku3yZD"
+                },
+                {
+                    "artist": "OAJAB",
+                    "title": "TheOwlCrib! (The Owl House Type Beat)",
+                    "uri": "4jDtmkcfBMKQkQN6sQqknf"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Cicada",
+                    "title": "巨木曾在的痕跡 Remains of Ancient Trees",
+                    "uri": "3hkk3Vx4I1sKj2R94ZjYxe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cicada",
+                    "title": "巨木曾在的痕跡 Remains of Ancient Trees",
+                    "uri": "3hkk3Vx4I1sKj2R94ZjYxe"
+                },
+                {
+                    "artist": "Sátyr",
+                    "title": "Cicada",
+                    "uri": "6DnSozRZif2UTSAuZIcqsF"
+                },
+                {
+                    "artist": "Jakatta",
+                    "title": "One Fine Day - Cicada Remix",
+                    "uri": "4U9cjtBtEveRJZvlnXy2Ej"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mick Chillage",
+                    "title": "Urban Nature, Pt. 1",
+                    "uri": "11phnfZFi0iE68kpL9GoIm"
+                },
+                {
+                    "artist": "Mick Chillage",
+                    "title": "X202 - 2022 Remix",
+                    "uri": "4ptrcqrbB3cJUTK7SJPYyG"
+                },
+                {
+                    "artist": "Mick C",
+                    "title": "DÚBRAVKA",
+                    "uri": "2M5gqBBAmUI2s195c0vgVG"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Come, Sweet Death",
+                    "uri": "1Ml8jNJRcx3OnkQR9DtYzf"
+                },
+                {
+                    "artist": "ordinary__oak",
+                    "title": "\"modsfy\" (my ordinary dinner song for you)",
+                    "uri": "20s4xVwR5h3nbHUTVD2loN"
+                },
+                {
+                    "artist": "Frédéric Chopin",
+                    "title": "Les Sylphides - Ballet: VII. Waltz in C-Sharp Minor, Op. 64, No. 2 - 2021 Remastered Version",
+                    "uri": "4xHvv15hZPOnAxKowfuHUH"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Jonny Greenwood",
+                    "title": "House of Woodcock",
+                    "uri": "6FZDedaCzYhO4sdG3VYcHZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jonny Greenwood",
+                    "title": "House of Woodcock",
+                    "uri": "6FZDedaCzYhO4sdG3VYcHZ"
+                },
+                {
+                    "artist": "Jonny Greenwood",
+                    "title": "Toki no Senrei wo Uketeinai mono wo Yomuna",
+                    "uri": "6khve9GNYhAq72Sv4Wgn3E"
+                },
+                {
+                    "artist": "Jonny Greenwood",
+                    "title": "Alma",
+                    "uri": "5s1mZcxqYhgmlvDxg4IGwt"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Woodsman",
+                    "title": "dream river.",
+                    "uri": "22IVwZ1qqRkylPpBamcznF"
+                },
+                {
+                    "artist": "Woodsman",
+                    "title": "dream river.",
+                    "uri": "1Gdcsjq1KpDyqaHvnBr7u1"
+                },
+                {
+                    "artist": "Woodsman",
+                    "title": "dream river. (Async Ross rework)",
+                    "uri": "4nsncxr8x3Rdj6S3lTxPCM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Woodsman",
+                    "title": "dream river.",
+                    "uri": "22IVwZ1qqRkylPpBamcznF"
+                },
+                {
+                    "artist": "Woodsman",
+                    "title": "dream river.",
+                    "uri": "1Gdcsjq1KpDyqaHvnBr7u1"
+                },
+                {
+                    "artist": "Woodsman",
+                    "title": "dream river. (Async Ross rework)",
+                    "uri": "4nsncxr8x3Rdj6S3lTxPCM"
+                }
+            ]
+        }
+    },
     "sigourney-19th-january-2023": {
         "00": {
             "s0": "",
