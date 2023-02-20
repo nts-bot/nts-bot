@@ -1,4 +1,213 @@
 {
+    "merzbow-17th-february-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "R.Kuhn",
+                    "title": "Phalanx Suite: Canon",
+                    "uri": "6JxdQKJGiKd73ZPEdHJeCm"
+                },
+                {
+                    "artist": "Johann Pachelbel",
+                    "title": "Canon in D Major (Arr. Robert Schultz)",
+                    "uri": "4nXMiwWi9tmREdyz4iqSZc"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Goldberg Variations, BWV 988: Var. 12 - Canone alla Quarta",
+                    "uri": "4rviMEL9aNZ4KcP9JpL3Wz"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Konrad Boehmer",
+                    "title": "Aspekt",
+                    "uri": "797bkDbYO5qz0aAC93dHxR"
+                },
+                {
+                    "artist": "Konrad Boehmer",
+                    "title": "Aspekt",
+                    "uri": "2z4LPVHjxWezJ3Jv3kmvPZ"
+                },
+                {
+                    "artist": "Konrad Boehmer",
+                    "title": "Aspekt - 1966-68",
+                    "uri": "1T77S9MuuYjxwnRnSv57Iz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Knorkator",
+                    "title": "Konrad",
+                    "uri": "0VSncdSGCKJmW8vgqqDc1Z"
+                },
+                {
+                    "artist": "John Borno",
+                    "title": "Eremitensound",
+                    "uri": "1bNODsAxxkvsfxliZi9Usa"
+                },
+                {
+                    "artist": "John Borno",
+                    "title": "Zukunftsangst",
+                    "uri": "5L7TGggw3DyGO1vcmMZd4S"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mortis",
+                    "title": "Guter Tag",
+                    "uri": "7yngctRUVKBbBBWa8EoF7y"
+                },
+                {
+                    "artist": "Mortis",
+                    "title": "Furioso Melodia",
+                    "uri": "5e6Shr9n9Cfyvj39GAbsfW"
+                },
+                {
+                    "artist": "Saltatio Mortis",
+                    "title": "Orpheus",
+                    "uri": "4z58sJzRq63GLiGxoiawKr"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Franz Becker",
+                    "title": "Every Now And Then",
+                    "uri": "6JfbFi94bXYCB9ORLs7wRO"
+                },
+                {
+                    "artist": "Frank Wendler",
+                    "title": "Dein Licht",
+                    "uri": "2szjhOuUGZFO3brAn0Gbs3"
+                },
+                {
+                    "artist": "Frank Bellucci",
+                    "title": "We were Forever",
+                    "uri": "6SDx96MxJv0wGaW5JfGRRZ"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Barry Cryer",
+                    "title": "Barry Took",
+                    "uri": "5r2Y2FNqPUy0rwnBfeC9w4"
+                },
+                {
+                    "artist": "Keith Jamieson",
+                    "title": "The Barry Thornton Style",
+                    "uri": "4nmO3Dnj7vNpb0fVKUoHoz"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Roberta Kelly",
+                    "title": "Aie",
+                    "uri": "26O2AWb9Q6LnWpz3SpdgDa"
+                },
+                {
+                    "artist": "Peppino Di Capri",
+                    "title": "Roberta",
+                    "uri": "43G0kmQWAlp5Cet0Y7QuEn"
+                },
+                {
+                    "artist": "Roberta Selagea",
+                    "title": "CINE DETINE AUDI",
+                    "uri": "6q3AItuYL4vw6sMNx8o48v"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Franco Battiato",
+                    "title": "Segnali Di Vita - Remastered 2021",
+                    "uri": "3TXdrXZNCqkmNJLWCaAzeR"
+                },
+                {
+                    "artist": "Franco Battiato",
+                    "title": "Bandiera Bianca - Remastered 2021",
+                    "uri": "7fQ5piWnEFBc3whfqMjapM"
+                },
+                {
+                    "artist": "George Frideric Handel",
+                    "title": "Serse, HWV 40 / Act 1: \"Ombra mai fu\"",
+                    "uri": "71hqObzP5HYpdBBU9Cn3dH"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "The Art of the Fugue, BWV 1080: Contrapunctus XIV (Fuga à 3 soggetti) - Excerpt",
+                    "uri": "2ys7TQ7LP3T2uA4MPef08r"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "The Art of Fugue, BWV 1080: Contrapunctus 14",
+                    "uri": "59EwV6kcEXTjw98LYtT1CZ"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "The Art of Fugue, BWV 1080: Contrapunctus 11 a 4",
+                    "uri": "1DNz0JYyVrmSMGErvQpk77"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "The Art of Fugue, BWV 1080: Contrapunctus 1",
+                    "uri": "1RBMCv4YuSmRD5Vu3uH1Dm"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Bach, JS: Die Kunst der Fuge, BWV 1080: Contrapunctus XI a 4",
+                    "uri": "2u1cTmPymFNE33nz9UYfIz"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Bach, JS: Die Kunst der Fuge, BWV 1080: Contrapunctus XII a 4, inversus",
+                    "uri": "1b5XYElU6NvnHzSBwnrVja"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hiromi",
+                    "title": "Beethoven's Piano Sonata No. 8, Pathetique",
+                    "uri": "7hdbfMdjsdclkZONmT7lD6"
+                },
+                {
+                    "artist": "Hiromi",
+                    "title": "Beethoven's Piano Sonata No. 8, Pathetique",
+                    "uri": "08kouBwoppDP70MmwiNUPr"
+                },
+                {
+                    "artist": "DIALOGUE+",
+                    "title": "Omoide Shiritori",
+                    "uri": "6BnhDyXqw9v5eOuiflRoXa"
+                }
+            ]
+        }
+    },
     "merzbow-18th-february-2022": {
         "00": {
             "s0": "",

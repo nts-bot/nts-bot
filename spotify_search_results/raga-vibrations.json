@@ -1603,6 +1603,114 @@
             ]
         }
     },
+    "raga-vibrations-18th-february-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bidyut Khan Band",
+                    "title": "Raga Hemant - Alap",
+                    "uri": "6imQ2eamWdJ6vFTIoQZGD2"
+                },
+                {
+                    "artist": "Rakesh Chaurasia",
+                    "title": "Raga Hemavati (Flute)",
+                    "uri": "5lSSnYTe9Fm2KsHSnybC4F"
+                },
+                {
+                    "artist": "Raju Punjabi",
+                    "title": "Raganiyan (feat. Hemant Faujdar & Gori Nagori)",
+                    "uri": "48Vp7KgbK1qSzkS3wfo8Ar"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dagar Brothers",
+                    "title": "Rag Kambhoji: Alap",
+                    "uri": "3GfWChhY6GAjIUDNzGoCqf"
+                },
+                {
+                    "artist": "Ronu Majumdar",
+                    "title": "Rag Jainjhoti - Alap & Gat in Teental",
+                    "uri": "06b1A7Hm76A8v2wirNWdEN"
+                },
+                {
+                    "artist": "Rakesh Chaurasia",
+                    "title": "Raag Bhairavi - Alap",
+                    "uri": "5OwdGNpfx8D74GtHK3aaiH"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ronu Majumdar",
+                    "title": "Raaga Bhairav - Dadra",
+                    "uri": "4ft8L5WzFd2vvXganl6QGL"
+                },
+                {
+                    "artist": "Ronu Majumdar",
+                    "title": "Raaga Kafi - Teentaal",
+                    "uri": "4G526MTBK3TpdNBpvvYO3Z"
+                },
+                {
+                    "artist": "Harsh Marwah",
+                    "title": "Raga Navel",
+                    "uri": "64PFSlID3y1Pm3gqM6RUiG"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pandit Rambhau Bijapure",
+                    "title": "Raga Sur Malhar",
+                    "uri": "34hGFSEG0ExNAtIFQToL9c"
+                },
+                {
+                    "artist": "Desi Mohan",
+                    "title": "Hogatlaga (From \"Ranga Samudra\")",
+                    "uri": "3waY6CRqXEoulHkwXopgLM"
+                },
+                {
+                    "artist": "Mantu Chhuria",
+                    "title": "Ram Babu Ghara Jhia",
+                    "uri": "0aTiuZrskw3fNPLmgrB9cY"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Shivkumar Sharma",
+                    "title": "Raga Rageshri-Madhya Gat",
+                    "uri": "7ki1DaN1n53i7gLM1sjVTI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Shivkumar Sharma",
+                    "title": "Raga Rageshri-Madhya Gat",
+                    "uri": "7ki1DaN1n53i7gLM1sjVTI"
+                },
+                {
+                    "artist": "Shivkumar Sharma",
+                    "title": "Raga gurjari todi : Madhya lay gat in rupak tal",
+                    "uri": "0Y6AgDehZAuki4s77Gs1Qk"
+                },
+                {
+                    "artist": "Chinmaya Dunster",
+                    "title": "Shiva's Meditation",
+                    "uri": "0TxmxoCQMiXvfFA6DPM1wT"
+                }
+            ]
+        }
+    },
     "raga-vibrations-18th-october-2016": {
         "00": {
             "s0": "",
