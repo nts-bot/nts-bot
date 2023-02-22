@@ -66,6 +66,20 @@ _d2j("./count", "\n".join(a))
 
 ### ARTISTS LISTS
 
+bad = [
+    "unknown",
+    "unknown artist",
+    "untitled",
+    "????",
+    "???",
+    "?",
+    "??",
+    "n/a",
+    "artist unknown",
+    "unreleased",
+    "intro",
+]
+
 for i in os.listdir("./tracklist/"):
     t = _j2d(f"./tracklist/{i.split('.json')[0]}")
     for j in t:
