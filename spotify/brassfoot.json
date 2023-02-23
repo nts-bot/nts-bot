@@ -760,6 +760,86 @@
             "trackid": "6ZVnKlFwSthy3iRCog0Ypi"
         }
     },
+    "brassfoot-22nd-february-2023": {
+        "00": {
+            "artist": "Amerie",
+            "ratio": 9,
+            "title": "Show Me",
+            "trackid": "2AqBPsSDHe40gSX22eR0OD"
+        },
+        "01": {
+            "artist": "Mary J. Blige",
+            "ratio": 9,
+            "title": "Share My World",
+            "trackid": "1HvmjWFZpe1lrEl1ehLsvr"
+        },
+        "02": {
+            "artist": "K.P. & Envyi",
+            "ratio": 9,
+            "title": "Swing My Way",
+            "trackid": "2IObe2lNB04HPbFfsSQ89f"
+        },
+        "03": {
+            "artist": "Teedra Moses",
+            "ratio": 9,
+            "title": "Rescue Me",
+            "trackid": "6sOjHvHW3bMdjD1rkalzjX"
+        },
+        "04": {
+            "artist": "Gregory Isaacs",
+            "ratio": 9,
+            "title": "Material Man",
+            "trackid": "4PAm0u3rGMWkjPdIwb0noC"
+        },
+        "05": {
+            "artist": "Rick James",
+            "ratio": 9,
+            "title": "Spacey Love",
+            "trackid": "15nnp4Y6p6Qj99MBdPtKmz"
+        },
+        "06": {
+            "artist": "Teena Marie",
+            "ratio": 9,
+            "title": "Portuguese Love",
+            "trackid": "0rEqoKxL9HGRRvtsQygeZn"
+        },
+        "07": {
+            "artist": "Mike Candys",
+            "ratio": 5,
+            "title": "Insomnia - Radio Mix",
+            "trackid": "3nHjz62ZQQH4XqoJ8cutxt"
+        },
+        "08": {
+            "artist": "Zhané",
+            "ratio": 9,
+            "title": "Vibe",
+            "trackid": "23hnQzxulJYrxKyDc9rTVA"
+        },
+        "09": {
+            "artist": "Busta Rhymes",
+            "ratio": 9,
+            "title": "Hot Fudge",
+            "trackid": "1COHNfDBIiYmkHviuLfW1e"
+        },
+        "10": {
+            "artist": "Groove Theory",
+            "ratio": 9,
+            "title": "Come Home",
+            "trackid": "5a4O1bH0qMx1XGGUi87Zkl"
+        },
+        "11": {
+            "artist": "Buju Banton",
+            "ratio": 9,
+            "title": "What Ya Gonna Do?",
+            "trackid": "4mXSlM4xo0azoZFiMJhStz"
+        },
+        "12": {
+            "artist": "Gregory Isaacs",
+            "ratio": 9,
+            "title": "Rumours",
+            "trackid": "4Y1xrYwl4aIpQWqzXndQgJ"
+        }
+    },
     "brassfoot-2nd-november-2022": {
         "00": {
             "artist": "Erol Parlak",
@@ -9421,9 +9501,10 @@
         },
         "02": {
             "artist": "L'Infanterie Sauvage",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Un Pays à Défendre (Inédit / Unreleased 1984)",
-            "trackid": "7APud6ciAeqCpNraz3zfhS"
+            "trackid": "7APud6ciAeqCpNraz3zfhS",
+            "uri": ""
         },
         "03": {
             "artist": "John Cage",
@@ -9445,15 +9526,17 @@
         },
         "06": {
             "artist": "L'Infanterie Sauvage",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Un Pays à Défendre (Inédit / Unreleased 1984)",
-            "trackid": "7APud6ciAeqCpNraz3zfhS"
+            "trackid": "7APud6ciAeqCpNraz3zfhS",
+            "uri": ""
         },
         "07": {
             "artist": "AceMo",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Infinite Upwards",
-            "trackid": "6XomVGP5ueTsylwd07wc71"
+            "trackid": "6XomVGP5ueTsylwd07wc71",
+            "uri": ""
         },
         "08": {
             "artist": "Shiro Sagisu",
@@ -9547,9 +9630,10 @@
         },
         "23": {
             "artist": "Black Void",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Reject Everything",
-            "trackid": "4XBHWEgDYHRYGIothYGMZk"
+            "trackid": "4XBHWEgDYHRYGIothYGMZk",
+            "uri": ""
         },
         "24": {
             "artist": "Primus Brass",
@@ -9571,21 +9655,24 @@
         },
         "27": {
             "artist": "Black Void",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Reject Everything",
-            "trackid": "4XBHWEgDYHRYGIothYGMZk"
+            "trackid": "4XBHWEgDYHRYGIothYGMZk",
+            "uri": ""
         },
         "28": {
             "artist": "Black Void",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Reject Everything",
-            "trackid": "4XBHWEgDYHRYGIothYGMZk"
+            "trackid": "4XBHWEgDYHRYGIothYGMZk",
+            "uri": ""
         },
         "29": {
             "artist": "Black Void",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Reject Everything",
-            "trackid": "4XBHWEgDYHRYGIothYGMZk"
+            "trackid": "4XBHWEgDYHRYGIothYGMZk",
+            "uri": ""
         },
         "30": {
             "artist": "Afrikan Sciences",
@@ -9607,9 +9694,10 @@
         },
         "33": {
             "artist": "Brad Derrick",
-            "ratio": 5,
+            "ratio": -1,
             "title": "The Brass Fortress",
-            "trackid": "41BJf450VGTmBm0IdwBz9D"
+            "trackid": "41BJf450VGTmBm0IdwBz9D",
+            "uri": ""
         }
     },
     "the-nca-show-with-brassfoot-26th-april-2017": {

@@ -1858,9 +1858,10 @@
     "intearnet-radio-w-lyzza-6th-april-2020": {
         "00": {
             "artist": "Florence + The Machine",
-            "ratio": 0,
+            "ratio": -1,
             "title": "You've Got The Love - Jamie xx Rework",
-            "trackid": "59Y2GLn55BVjX3UTMUDtTP"
+            "trackid": "59Y2GLn55BVjX3UTMUDtTP",
+            "uri": ""
         },
         "01": {
             "artist": "Tundra Beats",
@@ -2535,9 +2536,10 @@
         },
         "10": {
             "artist": "WEEDMANE",
-            "ratio": 4,
+            "ratio": -1,
             "title": "SUICIDE YEAR - airshade Remix",
-            "trackid": "6RwgElqL69RIVhQrKgT4dE"
+            "trackid": "6RwgElqL69RIVhQrKgT4dE",
+            "uri": ""
         },
         "11": {
             "artist": "KAROL G",
@@ -2559,9 +2561,10 @@
         },
         "14": {
             "artist": "LYZA",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Burden",
-            "trackid": "7rlkYbcLLp4jtKeHWW3Se6"
+            "trackid": "7rlkYbcLLp4jtKeHWW3Se6",
+            "uri": ""
         },
         "15": {
             "artist": "Jam City",
@@ -2913,6 +2916,105 @@
             "ratio": 4,
             "title": "Dream Ya Kutoka Kwa Block",
             "trackid": "1nW9m0KKcjZ725O6dAYuKE"
+        }
+    },
+    "lyzza-22nd-february-2023": {
+        "00": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "01": {
+            "artist": "YOU LOVE HER",
+            "ratio": 9,
+            "title": "This is a Raid",
+            "trackid": "5HS3esarOpeFDzJkpdwu38"
+        },
+        "02": {
+            "artist": "Bodyrox",
+            "ratio": 9,
+            "title": "Yeah Yeah - D Ramirez Vocal Radio Edit",
+            "trackid": "4HVGC52IogHANcKFA0QYiT"
+        },
+        "03": {
+            "artist": "Key 21",
+            "ratio": 4,
+            "title": "Bendecido",
+            "trackid": "5JYiUmA2JazrSiKQjz6wOo"
+        },
+        "04": {
+            "artist": "ILLXSION",
+            "ratio": -1,
+            "title": "S.O.S",
+            "trackid": "0K4QgziyZ5Sl3JbH7jHqOv",
+            "uri": ""
+        },
+        "05": {
+            "artist": "小倉真奈",
+            "ratio": 3,
+            "title": "Quest Failed - Sunbreak Version",
+            "trackid": "72bX9DR6Jvp6HXPdnWQEPx"
+        },
+        "06": {
+            "artist": "Panteros666",
+            "ratio": 3,
+            "title": "Enter My Fantasy",
+            "trackid": "7mGonGNYr0NxjwM6EZiZT7"
+        },
+        "07": {
+            "artist": "Eartheater",
+            "ratio": 9,
+            "title": "Airborne Ashes (La Petite Mort Edit)",
+            "trackid": "0fFyihv4ZVEE0nGmwProUU"
+        },
+        "08": {
+            "artist": "Nation",
+            "ratio": 9,
+            "title": "DayDay",
+            "trackid": "6Wj6uflU7GqgctkBghxQ3K"
+        },
+        "09": {
+            "artist": "Lil Harry",
+            "ratio": 4,
+            "title": "Modula",
+            "trackid": "01yjYFJkNHfH7b5CVjZfG5"
+        },
+        "10": {
+            "artist": "Eva Under Fire",
+            "ratio": 5,
+            "title": "Blow",
+            "trackid": "5YtuCpItTVgET1biEqJsqE"
+        },
+        "11": {
+            "artist": "LYZZA",
+            "ratio": 9,
+            "title": "For When I Fall Again",
+            "trackid": "4qa06aPvIaFTLk6Jy6RiXn"
+        },
+        "12": {
+            "artist": "LYZZA",
+            "ratio": 9,
+            "title": "Blush Me Out!",
+            "trackid": "7At2LwoalVOj9MY9GH1EST"
+        },
+        "13": {
+            "artist": "Ase Manual",
+            "ratio": 9,
+            "title": "Indigo Rage",
+            "trackid": "2rn8ewEhp6Bv4qVonZCvn9"
+        },
+        "14": {
+            "artist": "Blake Shelton",
+            "ratio": 4,
+            "title": "No Body",
+            "trackid": "3knS4WXNNRBd3zkx2v78cx"
+        },
+        "15": {
+            "artist": "LYZZA",
+            "ratio": 9,
+            "title": "Fraud",
+            "trackid": "3vKjFpjkkHpq9Cyx84UePE"
         }
     },
     "lyzza-23rd-march-2022": {
