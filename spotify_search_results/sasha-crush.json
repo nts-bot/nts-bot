@@ -2270,6 +2270,369 @@
             ]
         }
     },
+    "sasha-crush-23rd-february-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Elia y Elizabeth",
+                    "title": "Descripcion",
+                    "uri": "5W4GXjPP9PEEnAJQYulvG5"
+                },
+                {
+                    "artist": "Elia y Elizabeth",
+                    "title": "Descripcion",
+                    "uri": "4odnvfCuMQLjawwGGfeOb4"
+                },
+                {
+                    "artist": "Elia y Elizabeth",
+                    "title": "Descripción",
+                    "uri": "4at1x7V7QOTAy4JkuKBMY3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Elia y Elizabeth",
+                    "title": "Descripcion",
+                    "uri": "5W4GXjPP9PEEnAJQYulvG5"
+                },
+                {
+                    "artist": "Elia y Elizabeth",
+                    "title": "Descripción",
+                    "uri": "4at1x7V7QOTAy4JkuKBMY3"
+                },
+                {
+                    "artist": "Elia y Elizabeth",
+                    "title": "Alegria",
+                    "uri": "4mNU7ddD6fRyjMRBOOfj28"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "The Chosen Few",
+                    "title": "My Thing",
+                    "uri": "6m0E4x22yU43hWkFPmqvRc"
+                },
+                {
+                    "artist": "The Chosen Few",
+                    "title": "My Thing",
+                    "uri": "3Jz1Pc5cc5oRmiAuirmeqQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Daisuke13",
+                    "title": "The Chosen",
+                    "uri": "7GGUvb34OrKKdLPb5G5Wbk"
+                },
+                {
+                    "artist": "The Pulpy Principle",
+                    "title": "The Chosen Fighter",
+                    "uri": "5KO0no8TtEIlkSy05UOb6U"
+                },
+                {
+                    "artist": "Deadly Guns",
+                    "title": "The Chosen Ones III",
+                    "uri": "1eyneV6p59whGeorw9yx6l"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Scars",
+                    "title": "All About You - Live, Groningen, Netherlands, 1981",
+                    "uri": "12YoDGFfS6Wrbkqgj6D8pV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mindy Gledhill",
+                    "title": "All About Your Heart",
+                    "uri": "5ez4of8y0xSEV268vr0lNE"
+                },
+                {
+                    "artist": "Alessia Cara",
+                    "title": "Scars To Your Beautiful",
+                    "uri": "0wI7QkCcs8FUQE1OkXUIqd"
+                },
+                {
+                    "artist": "Spa Music in Spa",
+                    "title": "Golden Slumbers",
+                    "uri": "7iTZQYGlSeQsq8NMEYfN1U"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Mylène Farmer",
+                    "title": "Maman a tort",
+                    "uri": "3W17Ka3fEeGnrJkxcpS5DI"
+                },
+                {
+                    "artist": "Mylène Farmer",
+                    "title": "Maman a tort",
+                    "uri": "3Dp2KMCaeeq8Lv23MyPUSY"
+                },
+                {
+                    "artist": "Mylène Farmer",
+                    "title": "Medley : Pourvu qu'elles soient douces / Sans contrefaçon / Maman a tort / Libertine - Mylenium Tour Live",
+                    "uri": "0mOkEqyXkJ389OgW3v3ZKA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mylène Farmer",
+                    "title": "Maman a tort",
+                    "uri": "3W17Ka3fEeGnrJkxcpS5DI"
+                },
+                {
+                    "artist": "Mylène Farmer",
+                    "title": "Medley : Pourvu qu'elles soient douces / Sans contrefaçon / Maman a tort / Libertine - Mylenium Tour Live",
+                    "uri": "0mOkEqyXkJ389OgW3v3ZKA"
+                },
+                {
+                    "artist": "Mylène Farmer",
+                    "title": "Désenchantée",
+                    "uri": "15XYdD283tK9iyJzL738bn"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Maraschino",
+                    "title": "Angelface",
+                    "uri": "5MEfxTan4X3PmkETXxOG6e"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Maraschino",
+                    "title": "Angelface",
+                    "uri": "5MEfxTan4X3PmkETXxOG6e"
+                },
+                {
+                    "artist": "EZI",
+                    "title": "Maraschino Love",
+                    "uri": "6ydd7nY6iviXFgSaK1TTEE"
+                },
+                {
+                    "artist": "Delaion",
+                    "title": "Mariachis",
+                    "uri": "6j9XnSel6z3hvRBL1QWRR7"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Fox the Fox",
+                    "title": "Flirting And Showing",
+                    "uri": "1lUT9ZnrWDVbLdnPyzjYIq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fox the Fox",
+                    "title": "Precious Little Diamond",
+                    "uri": "4lflz2Y0hbssQCx1DOWyxh"
+                },
+                {
+                    "artist": "Fox the Fox",
+                    "title": "Precious Little Diamond",
+                    "uri": "3hPzhMrPXvj5aCgkShCbO7"
+                },
+                {
+                    "artist": "Fox the Fox",
+                    "title": "Precious Little Diamond - 12\" Mix",
+                    "uri": "2IilSSaVhuQLjCqlubC4qE"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Delegation",
+                    "title": "It's Your Turn",
+                    "uri": "6gs3xeSa7L5o3HV2Hc1jtP"
+                },
+                {
+                    "artist": "Delegation",
+                    "title": "It's Your Turn - Extended Version",
+                    "uri": "5PNFUDPcIFoSlP0R8yHXE1"
+                },
+                {
+                    "artist": "Delegation",
+                    "title": "It's Your Turn - Instrumental",
+                    "uri": "5T6Q8c7oyoOQvBK0Ma93Da"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Delegation",
+                    "title": "It's Your Turn",
+                    "uri": "6gs3xeSa7L5o3HV2Hc1jtP"
+                },
+                {
+                    "artist": "Delegation",
+                    "title": "It Only Happens",
+                    "uri": "33w8iS8eFMbBHj9LpOW8Rw"
+                },
+                {
+                    "artist": "Delegation",
+                    "title": "Put a Little Love On Me",
+                    "uri": "6EOAOGls9pIdUJsrqytcXK"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Alisha",
+                    "title": "All Night Passion - Edit",
+                    "uri": "7iposLt7viGjRs94HkVydz"
+                },
+                {
+                    "artist": "Alisha",
+                    "title": "All Night Passion",
+                    "uri": "07gKujZEtDitwaJr3BSjjV"
+                },
+                {
+                    "artist": "Alisha",
+                    "title": "All Night Passion - Extended Dance Mix",
+                    "uri": "76vngiw0Ril39FXdzxWwUf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Alisha",
+                    "title": "All Night Passion - Edit",
+                    "uri": "7iposLt7viGjRs94HkVydz"
+                },
+                {
+                    "artist": "Alisha",
+                    "title": "All Night Passion - Extended Dance Mix",
+                    "uri": "76vngiw0Ril39FXdzxWwUf"
+                },
+                {
+                    "artist": "<3BEAT",
+                    "title": "All Night Parking",
+                    "uri": "1p3RlfMwnyB2dHptgYMxmP"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Robert Sandrini",
+                    "title": "Occhi Su Di Me",
+                    "uri": "79G1B6sFPHiA1xh4OGWtOz"
+                },
+                {
+                    "artist": "Robert Sandrini",
+                    "title": "Occhi Su Di Me (ZYX Extended Version)",
+                    "uri": "6WHPGcxqM3mUTEM38f13fT"
+                },
+                {
+                    "artist": "Robert Sandrini",
+                    "title": "Occhi Su Di Me (ZYX Edit Remastered 2021)",
+                    "uri": "4tVC2Q5ZrJAzRCAU2GxTPB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Robert Sandrini",
+                    "title": "Occhi Su Di Me",
+                    "uri": "79G1B6sFPHiA1xh4OGWtOz"
+                },
+                {
+                    "artist": "Robert Sandrini",
+                    "title": "Occhi Su Di Me (ZYX Extended Version)",
+                    "uri": "6WHPGcxqM3mUTEM38f13fT"
+                },
+                {
+                    "artist": "Robert Sandrini",
+                    "title": "Eyes Without A Face",
+                    "uri": "0u0kBPT2JI6DGYXx53ve36"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Teddy Pendergrass",
+                    "title": "Only You - John Morales M+M Mix",
+                    "uri": "0zTKaVISXQJxvLTK1hUl4r"
+                },
+                {
+                    "artist": "Teddy Pendergrass",
+                    "title": "Only You",
+                    "uri": "2OH7gEuDmtdlUce6y0u7EP"
+                },
+                {
+                    "artist": "Teddy Pendergrass",
+                    "title": "Only You - Single Version",
+                    "uri": "27RR6jhNsG9AgV4DzwmyCB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Teddy Pendergrass",
+                    "title": "Only You",
+                    "uri": "2OH7gEuDmtdlUce6y0u7EP"
+                },
+                {
+                    "artist": "Teddy Pendergrass",
+                    "title": "Love T.K.O.",
+                    "uri": "3IVaPHncIZWWNjfg29HVLq"
+                },
+                {
+                    "artist": "Teddy Pendergrass",
+                    "title": "Close the Door",
+                    "uri": "53m3UkzcaQVbB2DENsrJiK"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Lamar Thomas",
+                    "title": "Feel so Good Inside - Extended Waxist Edit Mix",
+                    "uri": "283Y6HOAcf48dWvtpMgVXi"
+                },
+                {
+                    "artist": "Lamar Thomas",
+                    "title": "Feel so Good Inside - Original Mix",
+                    "uri": "1t8EbRsPvsSXOiEEiiRFYm"
+                },
+                {
+                    "artist": "Lamar Thomas",
+                    "title": "Feel so Good Inside",
+                    "uri": "4IqaGOLPXATijc4OEJF7U5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lamar Thomas",
+                    "title": "Feel so Good Inside - Extended Waxist Edit Mix",
+                    "uri": "283Y6HOAcf48dWvtpMgVXi"
+                },
+                {
+                    "artist": "Lamar Thomas",
+                    "title": "Feel so Good Inside - Original Mix",
+                    "uri": "1t8EbRsPvsSXOiEEiiRFYm"
+                },
+                {
+                    "artist": "Se-Noj",
+                    "title": "Feel so Good (feat. Lance Thompson & D4)",
+                    "uri": "4bCG7rPDYXoVTVmya4zAB0"
+                }
+            ]
+        }
+    },
     "sasha-crush-24th-february-2022": {
         "00": {
             "s0": [

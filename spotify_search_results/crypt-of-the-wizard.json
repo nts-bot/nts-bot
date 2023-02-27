@@ -1787,6 +1787,242 @@
             ]
         }
     },
+    "crypt-of-the-wizard-23rd-february-2023": {
+        "00": {
+            "s0": "",
+            "s1": ""
+        },
+        "01": {
+            "s0": "",
+            "s1": ""
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Miracle Of Sound",
+                    "title": "Valhalla Calling",
+                    "uri": "587nP9FS8o0p70Z3JS9Uem"
+                },
+                {
+                    "artist": "Peyton Parrish",
+                    "title": "Valhalla Calling",
+                    "uri": "32fAGxpjvXMdEtinPLIjDQ"
+                },
+                {
+                    "artist": "Miracle Of Sound",
+                    "title": "Valhalla Calling - Duet Version",
+                    "uri": "3K92Zoo7QRawQAWQFXBF3V"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "escape",
+                    "title": "escape",
+                    "uri": "3awaFdqPYGSLWCGxqefT4K"
+                },
+                {
+                    "artist": "V21",
+                    "title": "Escape",
+                    "uri": "68Fe7ms0dEMDaadlMmCIj1"
+                },
+                {
+                    "artist": "Tevvez",
+                    "title": "Mystique, Pt. 2",
+                    "uri": "6NCu7EdeF8fASmgNqZ79ie"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Krutikov Music",
+                    "title": "Nazgul Theme - Epic Version",
+                    "uri": "4XlzQWaubEBwxAyTMA4dPm"
+                },
+                {
+                    "artist": "Diona Fona",
+                    "title": "Pistole",
+                    "uri": "67B5ilUHsXDI5GvIb8WpEm"
+                },
+                {
+                    "artist": "naazaalir",
+                    "title": "naqmwgeriii",
+                    "uri": "37isdDc0jzG7WCxqc7rcJ1"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "EMICIANO",
+                    "title": "Blut",
+                    "uri": "0EvgPNmASsMkaLKRnxHBrY"
+                },
+                {
+                    "artist": "MYLØW",
+                    "title": "Blut",
+                    "uri": "43RRWhO9Uun3ldR0AQTVEg"
+                },
+                {
+                    "artist": "Thomas Borchert",
+                    "title": "Blut",
+                    "uri": "5Pe5F0iCoPaUzep3d0MLVE"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "DJ Speedsick",
+                    "title": "Coughing up Blood and Ecstasy",
+                    "uri": "4Yz3fXz9SCuACdnUPDMc1H"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "DJ Speedsick",
+                    "title": "Head Full of Hate and Acid",
+                    "uri": "7ETFVoYhQyQZKA8SlPCtlo"
+                },
+                {
+                    "artist": "DJ Speedsick",
+                    "title": "Death Trips",
+                    "uri": "4pHdCZ9fUZKkbpAMLI5bSU"
+                },
+                {
+                    "artist": "DJ Speedsick",
+                    "title": "No Euphoria (Russian Ghetto Version)",
+                    "uri": "1eB3cXDiaInWvdGT9S57IE"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nemecist",
+                    "title": "MISANTHROPE",
+                    "uri": "6kVpU7sAdVxUFoAkYWabBj"
+                },
+                {
+                    "artist": "Misanthrop",
+                    "title": "Alert",
+                    "uri": "0ZNGImZcpg47sYibWwuhdX"
+                },
+                {
+                    "artist": "Misanthrop",
+                    "title": "Feel",
+                    "uri": "0CHLWTzh8twA4OG8TX9yu8"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mighty Oaks",
+                    "title": "The Golden Road",
+                    "uri": "7cyT1O7LXfSuR7I9DpXGdk"
+                },
+                {
+                    "artist": "Schmiddunsk",
+                    "title": "Golden Route",
+                    "uri": "5sdRMVfel2Bc5pTpkhjsbv"
+                },
+                {
+                    "artist": "Mercury Waterpond",
+                    "title": "The Golden Termite",
+                    "uri": "2cLc7LTtyRW84eiWVIqNpt"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "flashygoodness",
+                    "title": "The Lonely Tower",
+                    "uri": "7KyvJ4Nm0D9v5bC9rILYGT"
+                },
+                {
+                    "artist": "Naila",
+                    "title": "Lonely Tower",
+                    "uri": "0oChBbKoskyefxOOeXLyiG"
+                },
+                {
+                    "artist": "The LoneTones",
+                    "title": "Mole In The Ground",
+                    "uri": "3BvIMratZoqXXtlQxiz3Ej"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dj Grimoire",
+                    "title": "Bastard of Hardcore - remaster",
+                    "uri": "39SXuLTnKfvH0hZsXfKw5R"
+                },
+                {
+                    "artist": "Bastard of Loran",
+                    "title": "Transilvanian Hunger",
+                    "uri": "3qOYHEN5hanil0OjO6S4vl"
+                },
+                {
+                    "artist": "The Bastard Suns",
+                    "title": "Feel Free",
+                    "uri": "1uqVABkoK5VNOIq2Xptcx4"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hell",
+                    "title": "Helmzmen",
+                    "uri": "5jkby4zGfjGdAuo8zoLMyz"
+                },
+                {
+                    "artist": "Joseph Hellmesberger, Jr.",
+                    "title": "Entr'acte-Valse",
+                    "uri": "0z3SZVPIfl1TGHpyyye6oi"
+                },
+                {
+                    "artist": "Joseph Hellmesberger, Jr.",
+                    "title": "Gavotte",
+                    "uri": "6vexgDtC2T4CK8xeAf4k6N"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Paleface Swiss",
+                    "title": "The Orphan",
+                    "uri": "33gtSwgOxlxHLqAQftK3IW"
+                },
+                {
+                    "artist": "Infected Rain",
+                    "title": "Orphan Soul",
+                    "uri": "17yKsz2dbVEMuIt3M5OcxL"
+                },
+                {
+                    "artist": "Paleface Swiss",
+                    "title": "The Orphan",
+                    "uri": "1maGwMYv6cakqEGHbDd17h"
+                }
+            ]
+        }
+    },
     "crypt-of-the-wizard-24th-february-2022": {
         "00": {
             "s0": "",

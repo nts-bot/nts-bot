@@ -532,9 +532,10 @@
     "bubble-gum-violence-17th-june-2022": {
         "00": {
             "artist": "Falcko",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Kofal Jekyll, Pt. 1",
-            "trackid": "3b36IkyUip6uChCWpHEbwV"
+            "trackid": "3b36IkyUip6uChCWpHEbwV",
+            "uri": ""
         },
         "01": {
             "artist": "CLUBKELLY",
@@ -1093,6 +1094,104 @@
             "ratio": 9,
             "title": "Somebody That I Used To Know",
             "trackid": "6JBX1drGsMrTE8JrAYYoou"
+        }
+    },
+    "bubble-gum-violence-25th-february-2023": {
+        "00": {
+            "artist": "Ana Roxanne",
+            "ratio": 9,
+            "title": "It's a Rainy Day on the Cosmic Shore",
+            "trackid": "2fvphQzLUCR89aLAwTyDuL"
+        },
+        "01": {
+            "artist": "Shu Shu",
+            "ratio": 4,
+            "title": "Chasing Cars",
+            "trackid": "6KewNIihhMEXjGyO8PaGu1"
+        },
+        "02": {
+            "artist": "Susumu Yokota",
+            "ratio": 9,
+            "title": "Tobiume",
+            "trackid": "4IQWc6rhJwpFrRKBLx27X6"
+        },
+        "03": {
+            "artist": "Vance Joy",
+            "ratio": 0,
+            "title": "Georgia",
+            "trackid": "6Fha6tXHkL3r9m9nNqQG8p"
+        },
+        "04": {
+            "artist": "Kensuke Ushio",
+            "ratio": 9,
+            "title": "Ping Pong Phase2",
+            "trackid": "4Z3svl0qp99PtkIvfcm2Ny"
+        },
+        "05": {
+            "artist": "Fridge",
+            "ratio": 9,
+            "title": "Cut Up Piano & Xylophone",
+            "trackid": "05Nibpztiha49kIILw575E"
+        },
+        "06": {
+            "artist": "The Anix",
+            "ratio": 4,
+            "title": "Ghost",
+            "trackid": "0wmloJIaLUdk4ibdYnXb60"
+        },
+        "07": {
+            "artist": "Post Malone",
+            "ratio": 9,
+            "title": "Goodbyes (feat. Young Thug)",
+            "trackid": "0t3ZvGKlmYmVsDzBJAXK8C"
+        },
+        "08": {
+            "artist": "Birdman",
+            "ratio": 3,
+            "title": "Leather So Soft",
+            "trackid": "2QUVk7QscEdZiHi7zs4ycM"
+        },
+        "09": {
+            "artist": "The-Dream",
+            "ratio": 9,
+            "title": "Falsetto",
+            "trackid": "2P1e3xpjDhYFqOFeu8IWzS"
+        },
+        "10": {
+            "artist": "Mariah Carey",
+            "ratio": 9,
+            "title": "Shake It Off",
+            "trackid": "6rJQTvhKl5GSEA8SWW7t1X"
+        },
+        "11": {
+            "artist": "Fatima Al Qadiri",
+            "ratio": 9,
+            "title": "Body Double",
+            "trackid": "6eEuKmdpOY491Q7oXPAQk4"
+        },
+        "12": {
+            "artist": "Ssaliva",
+            "ratio": 9,
+            "title": "Deceiver",
+            "trackid": "6EzpDkgs0OpuDhS5WuHf3R"
+        },
+        "13": {
+            "artist": "Catherine Wheel",
+            "ratio": 9,
+            "title": "Black Metallic",
+            "trackid": "0jmyo9QOmFbjDCYpNaPDhy"
+        },
+        "14": {
+            "artist": "Low",
+            "ratio": 9,
+            "title": "Lullaby",
+            "trackid": "1De66xUavye2fNqhCwtgyo"
+        },
+        "15": {
+            "artist": "ROSALÍA",
+            "ratio": 9,
+            "title": "COMO UN G",
+            "trackid": "7MDfNYdpdohHjmFsYK44KU"
         }
     },
     "bubble-gum-violence-26th-february-2022": {
