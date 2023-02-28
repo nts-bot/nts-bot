@@ -905,6 +905,134 @@
             "trackid": "6aQ7nlAEOhhRnsHi6eY0zT"
         }
     },
+    "mic-records-25th-february-2023": {
+        "00": {
+            "artist": "The Necks",
+            "ratio": 9,
+            "title": "Bloodstream",
+            "trackid": "1B3ZKyx6qlxtfQbUfmnyye"
+        },
+        "01": {
+            "artist": "Jonnine",
+            "ratio": 9,
+            "title": "Tea For Two (Boo)",
+            "trackid": "76EHY28KFA81weQ6NhXidd"
+        },
+        "02": {
+            "artist": "SAULT",
+            "ratio": 9,
+            "title": "Love Will Free Your Mind",
+            "trackid": "0Gq5pptjgJK6LFZpsAz0aO"
+        },
+        "03": {
+            "artist": "Gold In The Shade",
+            "ratio": 9,
+            "title": "Over You",
+            "trackid": "1M0C1WoLcQ3VFVdWYCZGrL"
+        },
+        "04": {
+            "artist": "Peter Barclay",
+            "ratio": 9,
+            "title": "Your Are Loved",
+            "trackid": "0i1Lr2v6UvGqF70qdhZoJq"
+        },
+        "05": {
+            "artist": "Shelter",
+            "ratio": 9,
+            "title": "The Young Immortals",
+            "trackid": "6AY63d9wZYrZ6xcabb5anU"
+        },
+        "06": {
+            "artist": "Dunkelziffer",
+            "ratio": 9,
+            "title": "See It",
+            "trackid": "6omBy2UnhAIWOCEGc3SZFw"
+        },
+        "07": {
+            "artist": "Yusuf Ekşioğlu",
+            "ratio": 4,
+            "title": "Ethnique",
+            "trackid": "4amCThUWU1U7Bbuh1FXHu4"
+        },
+        "08": {
+            "artist": "Bianca Scout",
+            "ratio": 9,
+            "title": "lamina",
+            "trackid": "2aWB25Jih5qbzRseYq0WYz"
+        },
+        "09": {
+            "artist": "Lionmilk",
+            "ratio": 9,
+            "title": "I Hope You Are Well",
+            "trackid": "3LdrOruhSoQocWwr76bv4O"
+        },
+        "10": {
+            "artist": "Carlos Niño",
+            "ratio": 4,
+            "title": "Thanking the Earth",
+            "trackid": "1m5DD7MxUlIVSUpBt3JDcv"
+        },
+        "11": {
+            "artist": "Saint Abdullah",
+            "ratio": 9,
+            "title": "The Azure Sky",
+            "trackid": "6mp64xSp18L0dGEZxjNh9j"
+        },
+        "12": {
+            "artist": "great area",
+            "ratio": 9,
+            "title": "so very",
+            "trackid": "31eJJOdfMbfiqEBdqSCXXi"
+        },
+        "13": {
+            "artist": "Yazmin Lacey",
+            "ratio": 9,
+            "title": "Late Night People",
+            "trackid": "69y3XAgRaXrtO5h9YvpPHJ"
+        },
+        "14": {
+            "artist": "99LETTERS",
+            "ratio": 9,
+            "title": "Shoutotsu - 衝突",
+            "trackid": "5wJxBNdgOvKVHUOfZTFoVt"
+        },
+        "15": {
+            "artist": "Dominik Von Senger",
+            "ratio": 9,
+            "title": "Track Of Sample - Original Mix",
+            "trackid": "4ktmxzNYgJdLSH6n0hpdoj"
+        },
+        "16": {
+            "artist": "Don Cherry",
+            "ratio": 3,
+            "title": "Doussn' Gouni (Pt. 2) - Live",
+            "trackid": "5UB9V2lY2zxWdiXPBfs8oV"
+        },
+        "17": {
+            "artist": "Prins Emanuel",
+            "ratio": 3,
+            "title": "Ivys Boogie",
+            "trackid": "4pFjrI2k8TOat28bRoybKV"
+        },
+        "18": {
+            "artist": "Donna Thompson",
+            "ratio": 9,
+            "title": "Matchstick",
+            "trackid": "3doCMZQHtO1UD91PgRCBVY"
+        },
+        "19": {
+            "artist": "babyfang",
+            "ratio": 9,
+            "title": "End Credits",
+            "trackid": "5BVh2Ndj78jnjmicHX0hEZ"
+        },
+        "20": {
+            "artist": "Moor Mother",
+            "ratio": 9,
+            "title": "UMZANSI",
+            "trackid": "06mxoO1dLT8bHiuOJBuPIs"
+        }
+    },
     "mic-records-26th-february-2022": {
         "00": {
             "artist": "Tvii Son",
@@ -2428,9 +2556,10 @@
         },
         "06": {
             "artist": "Kolida Babo",
-            "ratio": 9,
+            "ratio": -1,
             "title": "Kolida Babo",
-            "trackid": "1LfvNu7ROUIbtqyF9MBH2t"
+            "trackid": "1LfvNu7ROUIbtqyF9MBH2t",
+            "uri": ""
         },
         "07": {
             "artist": "Ill Considered",
@@ -3280,9 +3409,10 @@
         },
         "17": {
             "artist": "Michael Penn",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Bunker Hill - Previously Unreleased Version",
-            "trackid": "33VDkYV5BdycFrSQ9wb4Tg"
+            "trackid": "33VDkYV5BdycFrSQ9wb4Tg",
+            "uri": ""
         },
         "18": {
             "artist": "DJ Fett Burger",

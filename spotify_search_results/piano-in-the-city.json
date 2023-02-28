@@ -1543,6 +1543,338 @@
             ]
         }
     },
+    "piano-in-the-city-25th-february-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pippi Ciez",
+                    "title": "Lua - Pippi Ciez Retake",
+                    "uri": "1ttaxvtD0pKLEEt8Iba7LE"
+                },
+                {
+                    "artist": "Pippi Langstrumpf",
+                    "title": "Hei, Pippi Langstrumpf",
+                    "uri": "10zDTM3cDcKqiqo9709MaP"
+                },
+                {
+                    "artist": "Pippi Langstrumpf",
+                    "title": "Pippi im Taka-Tuka-Land - Hörspiel zum Film - Teil 01",
+                    "uri": "4yzsaLB7OTvpKoWGB2jboy"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Blanka Mazimela",
+                    "title": "Kare Kare - David Mayer Remix",
+                    "uri": "2SYbEnBwiuatxXQtwC6a4i"
+                },
+                {
+                    "artist": "Blanka Mazimela",
+                    "title": "Gcwanini",
+                    "uri": "4RUeOL1hrJSZylryC4TnlH"
+                },
+                {
+                    "artist": "ANT LaROCK",
+                    "title": "Alkebulan - David Mayer Remix",
+                    "uri": "4Bl14xQWo7Q6jagOcPZ5mI"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Thakzin",
+                    "title": "The Magnificent Dance",
+                    "uri": "28acShbQyEjdJHvdmnxkaw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Thakzin",
+                    "title": "The Magnificent Dance",
+                    "uri": "28acShbQyEjdJHvdmnxkaw"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Dlala Thukzin",
+                    "title": "Awuzwe",
+                    "uri": "4BPIlg85hNfEuiskyhvbSt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dlala Thukzin",
+                    "title": "Awuzwe",
+                    "uri": "4BPIlg85hNfEuiskyhvbSt"
+                },
+                {
+                    "artist": "Dlala Thukzin",
+                    "title": "Phuze",
+                    "uri": "1kny8eA0I5sU4deUq8dqfi"
+                },
+                {
+                    "artist": "Dlala Thukzin",
+                    "title": "Inkinga",
+                    "uri": "2bJ3KkfVgyNI1xeoYCJ0Ir"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "DJ LESOUL",
+                    "title": "Turmoil",
+                    "uri": "4Yk9WHAIpHTBREPJzYfUsR"
+                },
+                {
+                    "artist": "DJ LESOUL",
+                    "title": "Turmoil",
+                    "uri": "3O4CiZBi3vzyKqFKqiYe3m"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dj Leska",
+                    "title": "Ghenda",
+                    "uri": "0igELlHJcgbgEtgsTmj9t0"
+                },
+                {
+                    "artist": "Dj Leska",
+                    "title": "Enfumé",
+                    "uri": "3ycQUAEhaliVnUETDYqFLG"
+                },
+                {
+                    "artist": "Vegedream",
+                    "title": "La fuite - Vegedream X Dj Leska / Edit MIx",
+                    "uri": "19IXPRtUuKFwIqJSFPY8zz"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "MÖRDA",
+                    "title": "Mohigan Sun",
+                    "uri": "5U6zQqXCVZokE7UH4kdAB1"
+                },
+                {
+                    "artist": "Morgana King",
+                    "title": "Sunny",
+                    "uri": "5WTduEM9fllIf3eBmfGuOX"
+                },
+                {
+                    "artist": "Mohican Sun",
+                    "title": "Fixation",
+                    "uri": "26Td7dSlQdAkqsUcWaYvw2"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Cooper SA",
+                    "title": "Shela",
+                    "uri": "0SKrxGs0J5Hh5lDN8Ai422"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cooper Kade",
+                    "title": "Passive",
+                    "uri": "66k6HOW6UA5QXWHVCF8uAk"
+                },
+                {
+                    "artist": "Cooper Kade",
+                    "title": "Interesting Ideas",
+                    "uri": "2Rj6moMmlSqk3fiJDhZHt1"
+                },
+                {
+                    "artist": "Cooper Alan",
+                    "title": "First Rodeo",
+                    "uri": "2I75JDeFu2xQ1FaSU4otFO"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Soa mattrix",
+                    "title": "Mina Nawe",
+                    "uri": "1y5eHXBYiLgNv00KoHXm4o"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Soa mattrix",
+                    "title": "Mina Nawe",
+                    "uri": "1y5eHXBYiLgNv00KoHXm4o"
+                },
+                {
+                    "artist": "Soa Mattrix",
+                    "title": "Stoko",
+                    "uri": "083XP3WhVu99LDCG5a1Ejq"
+                },
+                {
+                    "artist": "Soa Mattrix",
+                    "title": "Idlozi Lami (feat. Phila Dlozi, Boohle & Kabza De Small)",
+                    "uri": "11lpRETXFQtb66cqUeboRA"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Bassie",
+                    "title": "Thandumuntu",
+                    "uri": "48cBbmmDgAgFDcTKyfWr3j"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bassie",
+                    "title": "Thandumuntu",
+                    "uri": "48cBbmmDgAgFDcTKyfWr3j"
+                },
+                {
+                    "artist": "TNS",
+                    "title": "Umona (feat. Mpumi)",
+                    "uri": "2cV1UhvhumluPGfIE91uaE"
+                },
+                {
+                    "artist": "Thandi Draai",
+                    "title": "Jika - Lemon & Herb Remix",
+                    "uri": "7LdrWWVy38G7G8B9Bv2ixW"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Kukzer Wadi Piano",
+                    "title": "No Mystery",
+                    "uri": "3MM0xKUiIE3tDrX9OyCEhk"
+                },
+                {
+                    "artist": "Kukzer Wadi Piano",
+                    "title": "no mystery 2.0",
+                    "uri": "4vR8myOuMM2p4vILYITxbV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kukzer Wadi Piano",
+                    "title": "No Mystery",
+                    "uri": "3MM0xKUiIE3tDrX9OyCEhk"
+                },
+                {
+                    "artist": "Kukzer Wadi Piano",
+                    "title": "no mystery 2.0",
+                    "uri": "4vR8myOuMM2p4vILYITxbV"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Kelvin Momo",
+                    "title": "Phumelela",
+                    "uri": "2taxU3fZHbDBglLazyNmDc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kelvin Momo",
+                    "title": "Phumelela",
+                    "uri": "2taxU3fZHbDBglLazyNmDc"
+                },
+                {
+                    "artist": "Kelvin Momo",
+                    "title": "Inyembezi",
+                    "uri": "6oqzsWXndalljWVeU2MjDq"
+                },
+                {
+                    "artist": "Kelvin Momo",
+                    "title": "Izono",
+                    "uri": "4BIGl9cDzyw1znsjRytGLd"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Sfarzo Rtee",
+                    "title": "Washaaa",
+                    "uri": "1PN9qUEsfYzf8r9Av4uafK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sfarzo Rtee",
+                    "title": "Washaaa",
+                    "uri": "1PN9qUEsfYzf8r9Av4uafK"
+                },
+                {
+                    "artist": "Sferro",
+                    "title": "High Tech Low Life",
+                    "uri": "5GlumzXWOCorEBoYPeK6da"
+                },
+                {
+                    "artist": "Pisco Flow",
+                    "title": "Zafiro",
+                    "uri": "5ORbTakqWGxTIuAPruU9yT"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "PS DJz",
+                    "title": "Bawo",
+                    "uri": "1JYmF7aq9lwIH1ttV2J0CR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "PS DJz",
+                    "title": "Bawo",
+                    "uri": "1JYmF7aq9lwIH1ttV2J0CR"
+                },
+                {
+                    "artist": "Jaeden Camstra",
+                    "title": "P a z",
+                    "uri": "1iOui2AZhEphqH5Yk1ktNz"
+                },
+                {
+                    "artist": "Paul Partohap",
+                    "title": "P.S. I LOVE YOU",
+                    "uri": "1w3azB0VuRFp79AduIwrIy"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Stagz Jazz",
+                    "title": "I'm Lost Without You",
+                    "uri": "6D6uRO10P3l3CKgpfYWKYn"
+                },
+                {
+                    "artist": "SotshaFire",
+                    "title": "Without You",
+                    "uri": "50kO687IpBD5awxu1ujGop"
+                }
+            ]
+        }
+    },
     "piano-in-the-city-26th-november-2022": {
         "00": {
             "s0": "",
