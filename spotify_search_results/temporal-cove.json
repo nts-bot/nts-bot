@@ -829,6 +829,433 @@
             ]
         }
     },
+    "temporal-cove-27th-february-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Shiny Two Shiny",
+                    "title": "Moment to Moment",
+                    "uri": "0oEYkNwPcvpc6aekqskKNN"
+                },
+                {
+                    "artist": "Theo Rollins",
+                    "title": "Moment To Moment",
+                    "uri": "5iUZ1247JyTUfjSoA4nVQl"
+                },
+                {
+                    "artist": "Children 18:3",
+                    "title": "Moment To Moment",
+                    "uri": "3oIV720qRr1Q1XQtVgPi6K"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Pasteboard",
+                    "title": "Starcharts",
+                    "uri": "2GTPcID1DIda8t5TeRVUOf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pasteboard",
+                    "title": "Starcharts",
+                    "uri": "2GTPcID1DIda8t5TeRVUOf"
+                },
+                {
+                    "artist": "Slide20xx",
+                    "title": "Star Charts",
+                    "uri": "526498GHzHzbJwpzjPTcca"
+                },
+                {
+                    "artist": "hevel",
+                    "title": "STAR CITY CAFE",
+                    "uri": "4i9zZb6mPKfQRXRb5HKjSw"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "The Radio Dept.",
+                    "title": "The Video Dept.",
+                    "uri": "5YnSGEZ17gkANr8eXQ5Kvw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Radio Dept.",
+                    "title": "The Video Dept.",
+                    "uri": "5YnSGEZ17gkANr8eXQ5Kvw"
+                },
+                {
+                    "artist": "The Radio Dept.",
+                    "title": "Strange Things Will Happen",
+                    "uri": "1eOfirkC7FIVqcPtO5r5Df"
+                },
+                {
+                    "artist": "The Radio Dept.",
+                    "title": "1995",
+                    "uri": "5TE2ugMQ0MrA60ckIxiIVb"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Relaxing Guitar Club",
+                    "title": "House Full of Time",
+                    "uri": "6JqNPEs5Own5dFWqckZDVG"
+                },
+                {
+                    "artist": "Relaxing Guitar Club",
+                    "title": "House Full of Time",
+                    "uri": "63ucOaUdm2AxEe2QpUrXUh"
+                },
+                {
+                    "artist": "SPA Guitar",
+                    "title": "House Full of Time (Spa Guitar)",
+                    "uri": "5yWXJoRfEgSQWDTk4rIVsX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gui.tar",
+                    "title": "House Full Of Time",
+                    "uri": "5CxIC2Xnj0Ud0OJs0eNvuf"
+                },
+                {
+                    "artist": "John Abbot",
+                    "title": "A House Full of Memories",
+                    "uri": "0ohpSEyYyl1CG52Ef4t6NE"
+                },
+                {
+                    "artist": "Kathleen Edwards",
+                    "title": "House Full Of Empty Rooms",
+                    "uri": "3S7f7XIcZwoLkA1K2EHTlI"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Evanora Unlimited",
+                    "title": "Dibiyu",
+                    "uri": "6Q40HIdIAYJqsG5pivlpaR"
+                },
+                {
+                    "artist": "Evanora Unlimited",
+                    "title": "Dibiyu",
+                    "uri": "0Ja2Yfv35VOl6em28s62bi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Evanora Unlimited",
+                    "title": "Dibiyu",
+                    "uri": "6Q40HIdIAYJqsG5pivlpaR"
+                },
+                {
+                    "artist": "Evanora Unlimited",
+                    "title": "Dibiyu",
+                    "uri": "0Ja2Yfv35VOl6em28s62bi"
+                },
+                {
+                    "artist": "Eva Under Fire",
+                    "title": "Blow",
+                    "uri": "5YtuCpItTVgET1biEqJsqE"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Slowdive",
+                    "title": "Everyone Knows",
+                    "uri": "6wPeyFOPttrFZ5cWr77wRg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Slowdive",
+                    "title": "Everyone Knows",
+                    "uri": "6wPeyFOPttrFZ5cWr77wRg"
+                },
+                {
+                    "artist": "Slowdive",
+                    "title": "When the Sun Hits",
+                    "uri": "0oxYB9GoOIDrdzniNdKC44"
+                },
+                {
+                    "artist": "Slowdive",
+                    "title": "Sugar for the Pill",
+                    "uri": "0eVz3hV2xOXdneGpnWDFpb"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Robin Guthrie",
+                    "title": "Sparkle",
+                    "uri": "0eOcr2SOhiKAzFCszvsKWI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Robin Guthrie",
+                    "title": "Sparkle",
+                    "uri": "0eOcr2SOhiKAzFCszvsKWI"
+                },
+                {
+                    "artist": "Robin Guthrie",
+                    "title": "Les Amourettes",
+                    "uri": "6eOmK8yn18IqGAHrNpXf9b"
+                },
+                {
+                    "artist": "Rowan Guthrie",
+                    "title": "carried by the wind",
+                    "uri": "2AGqmUvz4fieLGPE18R7OL"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Swirlies",
+                    "title": "Tree Chopped Down",
+                    "uri": "43Cuq1oySxtT7CKymYxpMz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Swirlies",
+                    "title": "Tree Chopped Down",
+                    "uri": "43Cuq1oySxtT7CKymYxpMz"
+                },
+                {
+                    "artist": "Dice Roll Soundz",
+                    "title": "Swirled - 2TK23",
+                    "uri": "62Z4x84XbUYSCk4N6zfd1F"
+                },
+                {
+                    "artist": "Dreamers Delight",
+                    "title": "Swirls",
+                    "uri": "04wHj0jycIUyEfad1noQh2"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Lilys",
+                    "title": "Any Place I've Lived",
+                    "uri": "6d0cveVUL4gXC9fJ6QTxD0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lilys",
+                    "title": "Any Place I've Lived",
+                    "uri": "6d0cveVUL4gXC9fJ6QTxD0"
+                },
+                {
+                    "artist": "Lilys",
+                    "title": "The Any Several Sundays",
+                    "uri": "5n6Y2ZiOHDfezb3nCjfnwN"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Unwound",
+                    "title": "Demons Sing Love Songs",
+                    "uri": "7Fx68xe5jmn8sCRm7aGOR4"
+                },
+                {
+                    "artist": "Unwound",
+                    "title": "Demons Sing Love Songs",
+                    "uri": "0zVyHrGAKmuPaIFKKzSQkq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Unwound",
+                    "title": "Demons Sing Love Songs",
+                    "uri": "7Fx68xe5jmn8sCRm7aGOR4"
+                },
+                {
+                    "artist": "Unwound",
+                    "title": "Corpse Pose",
+                    "uri": "1kDZq29NLE2RRZ9mp8LxVe"
+                },
+                {
+                    "artist": "Unwound",
+                    "title": "December",
+                    "uri": "2iZWjWLShskPrYdhGenV4P"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Joanne Robertson",
+                    "title": "PUSHER",
+                    "uri": "44DwGouibLla1QsKYhxs3m"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Joanne Robertson",
+                    "title": "PUSHER",
+                    "uri": "44DwGouibLla1QsKYhxs3m"
+                },
+                {
+                    "artist": "Joanne Robertson",
+                    "title": "Blue Car",
+                    "uri": "4lJK4HIEJNM2MUNC6gN5cF"
+                },
+                {
+                    "artist": "Joanne Robertson",
+                    "title": "hit",
+                    "uri": "7LcC3qw4ZR0bgLDdELlQnZ"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "mark william lewis",
+                    "title": "Painkillers",
+                    "uri": "30AImxMWxIqAaGSIRYbIgG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "mark william lewis",
+                    "title": "Painkillers",
+                    "uri": "30AImxMWxIqAaGSIRYbIgG"
+                },
+                {
+                    "artist": "mark william lewis",
+                    "title": "Cold Paris Vogue",
+                    "uri": "0ZquXqzUdelOil2nV3APqN"
+                },
+                {
+                    "artist": "mark william lewis",
+                    "title": "Living",
+                    "uri": "4q5JVsHtnFPxIhfALUmWhD"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "mark william lewis",
+                    "title": "Coming",
+                    "uri": "5xUtYh3xnorpq2o67JoM1M"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "mark william lewis",
+                    "title": "Coming",
+                    "uri": "5xUtYh3xnorpq2o67JoM1M"
+                },
+                {
+                    "artist": "mark william lewis",
+                    "title": "Pleasure Is Everything",
+                    "uri": "1mkOMJZWTrRriUbvr93q11"
+                },
+                {
+                    "artist": "Mark Wilkinson",
+                    "title": "Just Be You",
+                    "uri": "3UA9pN65WTduyiLlOjHdb6"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Alison's Halo",
+                    "title": "Torn",
+                    "uri": "4lTp2R1mzVm6ZqPqwd3CaU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Annihilator",
+                    "title": "Alison Hell",
+                    "uri": "153SwL1d9SfCLWhqIs08we"
+                },
+                {
+                    "artist": "Martin O'Donnell",
+                    "title": "Halo",
+                    "uri": "4xbrgqQF8bzy22K8JhtFM9"
+                },
+                {
+                    "artist": "Madilyn Bailey",
+                    "title": "Halo - Acoustic",
+                    "uri": "0yIycZdpMCSVIKFbvkmxdS"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Drop Nineteens",
+                    "title": "Baby Wonder's Gone",
+                    "uri": "6WTrUlr614DBAWfnQF2dyI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Drop Nineteens",
+                    "title": "Baby Wonder's Gone",
+                    "uri": "6WTrUlr614DBAWfnQF2dyI"
+                },
+                {
+                    "artist": "Drop Nineteens",
+                    "title": "Kick The Tragedy",
+                    "uri": "40ABtf917Ghhi2tkQDNOdn"
+                },
+                {
+                    "artist": "Drop Nineteens",
+                    "title": "Winona",
+                    "uri": "466AJPxaIUvU13wQ40g2YQ"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Model/Actriz",
+                    "title": "Sun In",
+                    "uri": "3Rz9sSI0He1TfqcvQliaA2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Model/Actriz",
+                    "title": "Sun In",
+                    "uri": "3Rz9sSI0He1TfqcvQliaA2"
+                },
+                {
+                    "artist": "MØ",
+                    "title": "Sun In Our Eyes",
+                    "uri": "5vsRm2aCBl5T2qdpvwtrf6"
+                },
+                {
+                    "artist": "MØ",
+                    "title": "Sun In Our Eyes",
+                    "uri": "58FDNEheGy0rsZskL7dyMm"
+                }
+            ]
+        }
+    },
     "temporal-cove-w-smilegoth-10th-october-2022": {
         "00": {
             "s0": "",
