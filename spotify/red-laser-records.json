@@ -289,9 +289,10 @@
         },
         "03": {
             "artist": "Luca dell’Orso",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Reach Out",
-            "trackid": "5emeE8nW2jUYdITn8sQlpb"
+            "trackid": "5emeE8nW2jUYdITn8sQlpb",
+            "uri": ""
         },
         "04": {
             "artist": "Mashine Kid",
@@ -847,6 +848,171 @@
             "ratio": -1,
             "title": "",
             "trackid": ""
+        }
+    },
+    "red-laser-records-26th-february-2023": {
+        "00": {
+            "artist": "Mike Mareen",
+            "ratio": 9,
+            "title": "Dancing in the Dark",
+            "trackid": "3EfTVJze6o19JmNgZLpWbg"
+        },
+        "01": {
+            "artist": "Sven Stierna",
+            "ratio": 3,
+            "title": "Tranquil",
+            "trackid": "2abvtFxQLpWYqDSNnNrbRm"
+        },
+        "02": {
+            "artist": "Ceciliona",
+            "ratio": 3,
+            "title": "Sleeping City",
+            "trackid": "4TXZdc8OKJyy69LSm130hV"
+        },
+        "03": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "04": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "05": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "06": {
+            "artist": "Bedouin",
+            "ratio": 4,
+            "title": "Bufo",
+            "trackid": "3Z06MCWoUTq520YjxU4MCE"
+        },
+        "07": {
+            "artist": "ABSOLUTE.",
+            "ratio": 5,
+            "title": "Voices",
+            "trackid": "4OGbM5ZtdaCFGVkX5Wr8Tw"
+        },
+        "08": {
+            "artist": "ABSOLUTE.",
+            "ratio": 4,
+            "title": "Voices",
+            "trackid": "4OGbM5ZtdaCFGVkX5Wr8Tw"
+        },
+        "09": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "10": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "11": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "12": {
+            "artist": "Discopraise",
+            "ratio": 5,
+            "title": "Labirinto",
+            "trackid": "2tS59HnxH0B2IytNa4v0p2"
+        },
+        "13": {
+            "artist": "Tom Vek",
+            "ratio": 9,
+            "title": "Nothing But Green Lights",
+            "trackid": "3rvyilQGTIhwM1GbJIfJWF"
+        },
+        "14": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "15": {
+            "artist": "The Black Angel",
+            "ratio": 9,
+            "title": "Change an Angel",
+            "trackid": "11q3XpjWZZqOJzEyKGTqb2"
+        },
+        "16": {
+            "artist": "Sima Jones",
+            "ratio": -1,
+            "title": "Celery Man",
+            "trackid": "2JhgBqqhrDvRRctgGGY20z",
+            "uri": ""
+        },
+        "17": {
+            "artist": "Sylvi Foster",
+            "ratio": 4,
+            "title": "Hookey (Flemming Dalum Remix)",
+            "trackid": "1KnsryF2MY25RD51SyikRC"
+        },
+        "18": {
+            "artist": "Czapter",
+            "ratio": 0,
+            "title": "Nebula",
+            "trackid": "67qqdstYGImlSHRrRYMw38"
+        },
+        "19": {
+            "artist": "ABSOLUTE.",
+            "ratio": 5,
+            "title": "Stuck In Love",
+            "trackid": "6Hw597MDyZYBm9sLP8BTCN"
+        },
+        "20": {
+            "artist": "Dubscribe",
+            "ratio": 5,
+            "title": "Absolute",
+            "trackid": "2MnlE3eX1hG4Cl7mu7Wd2V"
+        },
+        "21": {
+            "artist": "Local Group",
+            "ratio": 9,
+            "title": "Random Utterances",
+            "trackid": "5HrFezHeXyEyQIJVDiUV0e"
+        },
+        "22": {
+            "artist": "Abstract",
+            "ratio": 3,
+            "title": "Close Your Eyes",
+            "trackid": "5K0xZVYQ6XEJGgJABh5fEY"
+        },
+        "23": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "24": {
+            "artist": "Ashford & Simpson",
+            "ratio": 9,
+            "title": "It Seems To Hang On",
+            "trackid": "5Ap5l96Ik6l4mRJggw9ohJ"
+        },
+        "25": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "26": {
+            "artist": "APB",
+            "ratio": 9,
+            "title": "Shoot You Down",
+            "trackid": "6RLNdIhQawfr5HgJLKb4bs"
         }
     },
     "red-laser-records-28th-march-2021": {

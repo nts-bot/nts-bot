@@ -6157,6 +6157,342 @@
             ]
         }
     },
+    "seance-centre-1st-march-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "George Jones",
+                    "title": "White Lightning - Single Version",
+                    "uri": "7o68KX6XyCS9lydBTH6TCP"
+                },
+                {
+                    "artist": "George Jones",
+                    "title": "Choices",
+                    "uri": "7ottDUMz3VomUN2Ln9FWdI"
+                },
+                {
+                    "artist": "George Jones",
+                    "title": "I Don't Need Your Rockin' Chair",
+                    "uri": "6yOHjz9NgndSgPzJFrwB4F"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": ""
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Johnny and the Expressions",
+                    "title": "Something I Want to Tell You",
+                    "uri": "4z6qj3ggP6GkLo9J5kRQM0"
+                },
+                {
+                    "artist": "Johnny And The Roccos",
+                    "title": "The Worryin' Kind",
+                    "uri": "4t1WvsuHYZeFkJxDN0sOhB"
+                },
+                {
+                    "artist": "Johnny and the Razorblades",
+                    "title": "Saturday Night",
+                    "uri": "0AstjXy7rcC5cpclOsc9M4"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Carolyn Crawford",
+                    "title": "My Heart",
+                    "uri": "3HBJeeOoZC144llxoqNdw9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Carolyn Crawford",
+                    "title": "Ready or Not Here Comes Love",
+                    "uri": "1rXE6o2n0RJVA6j5PRnHc6"
+                },
+                {
+                    "artist": "Crash Adams",
+                    "title": "Caroline",
+                    "uri": "5OtmnMwnSfADwIOElj1l2O"
+                },
+                {
+                    "artist": "Carol Cluster",
+                    "title": "My Companion",
+                    "uri": "4ENxL24dd0Dp6fY9y6prrC"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Prophet",
+                    "title": "Wanna Play?",
+                    "uri": "6iBL6TOzsO75Yz0cG1MO0o"
+                },
+                {
+                    "artist": "The Prophet",
+                    "title": "The Get Back",
+                    "uri": "22wegVv3MYQOu4WgVbhaXp"
+                },
+                {
+                    "artist": "The Prophet",
+                    "title": "Listen To Your Heart",
+                    "uri": "4LK3fEO1aN4ZJgY3doVU4q"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "The Wide Open Skies",
+                    "title": "The Night I Walked out on You",
+                    "uri": "61E71bcg7kq9B4oirT9l8p"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Martin Solveig",
+                    "title": "The Night Out",
+                    "uri": "7lEPBaxRBqbFNxS53DMpwp"
+                },
+                {
+                    "artist": "Charlie Russell",
+                    "title": "Sing With Me",
+                    "uri": "44ksgS8gIbz1GHz6D1UqmV"
+                },
+                {
+                    "artist": "MXRTAL",
+                    "title": "NIGHT OUT",
+                    "uri": "3cpkAuKFxEkDOcvXXKqjZ6"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Gino Washington",
+                    "title": "Oh Not Me",
+                    "uri": "0NK14arZwtuTtWr9RLUV3y"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gino Washington",
+                    "title": "Gino Is A Coward",
+                    "uri": "64B3w8QMMRGLLe3PRV4ZTS"
+                },
+                {
+                    "artist": "Gino Washington",
+                    "title": "Out Of This World",
+                    "uri": "2e5eegU9PqWHo0eWPog42s"
+                },
+                {
+                    "artist": "Gino Washington",
+                    "title": "Baby Be Mine",
+                    "uri": "6Vlf1VB4rQGj8LgOGSqe2X"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "The Four Sonics Plus One",
+                    "title": "Lost Without You",
+                    "uri": "2Z7dZpHaYeiMonJ368cNZd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Four Sonics Plus One",
+                    "title": "Lost Without You",
+                    "uri": "2Z7dZpHaYeiMonJ368cNZd"
+                },
+                {
+                    "artist": "The Four Sonics",
+                    "title": "Easier Said Than Done",
+                    "uri": "5i5aW3Pcofvg4rRg0sdVLp"
+                },
+                {
+                    "artist": "The Four Sonics",
+                    "title": "Where Are You",
+                    "uri": "7qbu0Q6qRY6E10rRcVyZlR"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Franz Gordon",
+                    "title": "Nocturnal Daydream",
+                    "uri": "1cf3FeaG31K4LcYXOUXJ1J"
+                },
+                {
+                    "artist": "Nocturnal Depression",
+                    "title": "A Ghostly Face into the Night",
+                    "uri": "12G7HloCgBYJoU1FwjWm4d"
+                },
+                {
+                    "artist": "Nocturna",
+                    "title": "Darkest Days",
+                    "uri": "5iWSrRWMOD9oXNrHlAu5SS"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sweet & Innocent",
+                    "title": "Cry Love",
+                    "uri": "41Ivc3CYJZbma76O0uQh7I"
+                },
+                {
+                    "artist": "Sweet & Innocent",
+                    "title": "Express Your Love",
+                    "uri": "5nzJ8294oJFXNMNs1mLIRU"
+                },
+                {
+                    "artist": "Diamond Head",
+                    "title": "Sweet and Innocent",
+                    "uri": "1qH8LVlnsYNAdfWp1lfZiD"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Fred Scotti",
+                    "title": "Populu cosentinu (Parte II)",
+                    "uri": "0QfYZnBpR55yY6dPFnszvk"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": ""
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Carousel II",
+                    "title": "What I'm Doing",
+                    "uri": "5NFAmB4XlPKQ3IU4Bpd6Cy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rich Mortimer",
+                    "title": "Carousel",
+                    "uri": "3hVSL4kM3pVj8YRmBiDcIn"
+                },
+                {
+                    "artist": "FILLY",
+                    "title": "Carousel",
+                    "uri": "2q4t1euGiFXYFEtSbHLZrO"
+                },
+                {
+                    "artist": "Juliana Giannakoudi",
+                    "title": "Carousel Song",
+                    "uri": "7Dj72t41W0iwmIBccjmuij"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nordmann",
+                    "title": "Star-Fluff",
+                    "uri": "4iru5X8cgk8vAdF6kIymIU"
+                },
+                {
+                    "artist": "R3HAB",
+                    "title": "Starflight",
+                    "uri": "3gfi5QkK23FA4EOT6JAvHq"
+                },
+                {
+                    "artist": "Lil Flurt",
+                    "title": "StarLight",
+                    "uri": "4W2ISP5WOP8af4I6HGvrSM"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Tim Murray",
+                    "title": "Thinking Of You",
+                    "uri": "4Hqz6JFi1Z0CmDWfXLHvup"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "mommy",
+                    "title": "thinking of you",
+                    "uri": "1oSevjov1EOdo8TYcrb5nQ"
+                },
+                {
+                    "artist": "Celestaby",
+                    "title": "Thinking of You",
+                    "uri": "0PUKaSZSlMQByQS62RyrHO"
+                },
+                {
+                    "artist": "Celonary",
+                    "title": "Thinking of You",
+                    "uri": "2w77c76RTvnVOimX2PvgBN"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mark Mitchell",
+                    "title": "How Can I?",
+                    "uri": "2frDSiKsn0mbipOkcoieBn"
+                },
+                {
+                    "artist": "Mark A Mitchell",
+                    "title": "How Can I?",
+                    "uri": "643ojjjenyR15q32CkaQmg"
+                },
+                {
+                    "artist": "Mark Michael",
+                    "title": "Dream Machine",
+                    "uri": "1XuFX7knx4I3LHCrariDnm"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Glockenbach",
+                    "title": "Brooklyn",
+                    "uri": "6VcBDMF2ykm5HDcJMVLRZW"
+                },
+                {
+                    "artist": "The Strokes",
+                    "title": "Brooklyn Bridge To Chorus",
+                    "uri": "2mDYYGaGd9uXKkK2YhDA3i"
+                },
+                {
+                    "artist": "Brooklyn Bounce",
+                    "title": "Born To Bounce (Music Is My Destiny) - Video Edit",
+                    "uri": "4eM3WxIRgXcHxmFt0a0pQ6"
+                }
+            ]
+        }
+    },
     "seance-centre-1st-may-2019": {
         "00": {
             "s0": [

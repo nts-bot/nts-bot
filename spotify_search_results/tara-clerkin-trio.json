@@ -1300,6 +1300,462 @@
             ]
         }
     },
+    "tara-clerkin-trio-1st-march-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Susumu Yokota",
+                    "title": "Lost Child",
+                    "uri": "2Iwks4R44aWtdLleYU7jdQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Susumu Yokota",
+                    "title": "Azukiiro No Kaori",
+                    "uri": "5J94BE34S8gqfmhTFQzHmM"
+                },
+                {
+                    "artist": "Susumu Yokota",
+                    "title": "Kirakiraboshi",
+                    "uri": "3cmnCQ0h8Ae90Xbn85VmZY"
+                },
+                {
+                    "artist": "Susumu Yokota",
+                    "title": "Tobiume",
+                    "uri": "4IQWc6rhJwpFrRKBLx27X6"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "The Sweet Enoughs",
+                    "title": "Cabin Days",
+                    "uri": "1bL5ra0Fkonlaa8fFkNybu"
+                },
+                {
+                    "artist": "The Sweet Enoughs",
+                    "title": "Cabin Days",
+                    "uri": "7s3BWwKeLF6NKNS8G4iWO6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Sweet Enoughs",
+                    "title": "Cabin Days",
+                    "uri": "1bL5ra0Fkonlaa8fFkNybu"
+                },
+                {
+                    "artist": "The Sweet Enoughs",
+                    "title": "In Mind",
+                    "uri": "75kfP0Pf6rJHRcFYeaJIx4"
+                },
+                {
+                    "artist": "The Sweet Enoughs",
+                    "title": "Mysterious River Snake",
+                    "uri": "0wnDXcJ0X5F0ZoBCKQvEuq"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Simon & Garfunkel",
+                    "title": "So Long, Frank Lloyd Wright",
+                    "uri": "4zYloXZV6NwiwXenBTc9DI"
+                },
+                {
+                    "artist": "Simon & Garfunkel",
+                    "title": "So Long, Frank Lloyd Wright",
+                    "uri": "60M6bi6hHBwVrpEqfubCXu"
+                },
+                {
+                    "artist": "Simon & Garfunkel",
+                    "title": "So Long, Frank Lloyd Wright - Live at Southern Illinois University, Carbondale, IL - November 1969",
+                    "uri": "3p8aC8TiDIfa7zg4SnsKlq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Simon & Garfunkel",
+                    "title": "So Long, Frank Lloyd Wright",
+                    "uri": "4zYloXZV6NwiwXenBTc9DI"
+                },
+                {
+                    "artist": "Simon & Garfunkel",
+                    "title": "So Long, Frank Lloyd Wright",
+                    "uri": "60M6bi6hHBwVrpEqfubCXu"
+                },
+                {
+                    "artist": "Simon & Garfunkel",
+                    "title": "So Long, Frank Lloyd Wright - Live at Southern Illinois University, Carbondale, IL - November 1969",
+                    "uri": "3p8aC8TiDIfa7zg4SnsKlq"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Astrud Gilberto",
+                    "title": "How Insensitive",
+                    "uri": "0SfcWCzO5k6PHbqiZ2yXue"
+                },
+                {
+                    "artist": "Astrud Gilberto",
+                    "title": "How Insensitive",
+                    "uri": "443Agnj7SV4wtrIXPPyjO2"
+                },
+                {
+                    "artist": "Astrud Gilberto",
+                    "title": "How Insensitive",
+                    "uri": "0nM7jWqnVPaeZw6tfZAFmP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Astrud Gilberto",
+                    "title": "How Insensitive",
+                    "uri": "443Agnj7SV4wtrIXPPyjO2"
+                },
+                {
+                    "artist": "Astrud Gilberto",
+                    "title": "Fly Me To The Moon",
+                    "uri": "7ilc2TB1RZXbQJyFs5qCiC"
+                },
+                {
+                    "artist": "Astrud Gilberto",
+                    "title": "Água de Beber",
+                    "uri": "3QKJELWORZZ7rUZDWeMWSA"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Arto Lindsay",
+                    "title": "Ondina",
+                    "uri": "1WPrCJQ7beYMEXLnlR3zjX"
+                }
+            ],
+            "s1": ""
+        },
+        "05": {
+            "s0": "",
+            "s1": ""
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Pram",
+                    "title": "Chrysalis",
+                    "uri": "66S2XAQ2hPYoeZh62yHfUB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pram",
+                    "title": "Chrysalis",
+                    "uri": "66S2XAQ2hPYoeZh62yHfUB"
+                },
+                {
+                    "artist": "Purity Filter",
+                    "title": "Chrysalis",
+                    "uri": "5gCMxQu4uNxUC2yJcRs3WX"
+                },
+                {
+                    "artist": "Brock Samuel",
+                    "title": "Chrysanthemums",
+                    "uri": "3Fqpxw41C3P6dQHwIx1oXu"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Able Noise",
+                    "title": "To Appease",
+                    "uri": "5Gqf9dtjbASxz6ANew4N5S"
+                },
+                {
+                    "artist": "Able Noise",
+                    "title": "To Appease",
+                    "uri": "6FAs1OIrq4QNWru1cZdhFP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Able Noise",
+                    "title": "To Appease",
+                    "uri": "5Gqf9dtjbASxz6ANew4N5S"
+                },
+                {
+                    "artist": "Able Noise",
+                    "title": "To Appease",
+                    "uri": "6FAs1OIrq4QNWru1cZdhFP"
+                },
+                {
+                    "artist": "Rone White",
+                    "title": "Able Neighbor",
+                    "uri": "6k71NuB0iIevv0JFz1uyUr"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Bianca Story",
+                    "title": "Dancing People Are Never Wrong - Jan Blomqvist Remix Radio Edit",
+                    "uri": "5VpMEN1kJMhBdCvtc2fE4k"
+                },
+                {
+                    "artist": "The Bianca Story",
+                    "title": "Dancing People Are Never Wrong - Jan Blomqvist Remix",
+                    "uri": "3tBDbeOgwX4GsQXmIz0Zi5"
+                },
+                {
+                    "artist": "Bianca Spiegel",
+                    "title": "Ja ich will",
+                    "uri": "4RxnWcvVGSImTzcCKzW6Um"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Focus",
+                    "title": "Early Birth",
+                    "uri": "170UAHdLSfCc56uMoCRj62"
+                },
+                {
+                    "artist": "FCG Heem",
+                    "title": "Focus",
+                    "uri": "3O6ike2c4dhhnUMdMkjWSq"
+                },
+                {
+                    "artist": "Focus.",
+                    "title": "Nirvana Cover",
+                    "uri": "5dY4Megwwo2FTi3zcEVDiE"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nobukazu Takemura",
+                    "title": "Cons (Album Version)",
+                    "uri": "345ou2OtqIY7proUNQMAZO"
+                },
+                {
+                    "artist": "Nobuyuki Tsujii",
+                    "title": "花水木の咲く頃 - 辻井伸行",
+                    "uri": "7Hn9C68R48KK9pj07ys2ak"
+                },
+                {
+                    "artist": "Reach",
+                    "title": "Nobushi",
+                    "uri": "3RovWdI0QZ2zy9h0egzlm2"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": ""
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eliza Carthy",
+                    "title": "Great Grey Back",
+                    "uri": "0sMGORvBHiaMEaUDoyeJgD"
+                },
+                {
+                    "artist": "Eliza Carthy",
+                    "title": "Peckitt's Black Mary",
+                    "uri": "56er3mRyMTTzpQt64NvMNX"
+                },
+                {
+                    "artist": "Ella McCarthy",
+                    "title": "Stay",
+                    "uri": "5p3FJipjAHwpbJ618jisiX"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "David Grubbs",
+                    "title": "The C In Certain",
+                    "uri": "1rNqvHHH5PTpX2E7guUwbj"
+                },
+                {
+                    "artist": "Dave Grusin",
+                    "title": "Sunporch Cha-Cha-Cha",
+                    "uri": "3w5Azq90Kur3qbMLqITLIZ"
+                },
+                {
+                    "artist": "David Grumel",
+                    "title": "Horizon - Piano solo",
+                    "uri": "00EP1WltmZJsVSUPl9LIrc"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Reiko Kudo",
+                    "title": "Emi & Mrs Evans",
+                    "uri": "3pxUHmRBUsAW4Wxus5LKJH"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Mica Levi",
+                    "title": "skunk boy.",
+                    "uri": "1DSfmX6bauLOPQH83X6mGC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mica Levi",
+                    "title": "skunk boy.",
+                    "uri": "1DSfmX6bauLOPQH83X6mGC"
+                },
+                {
+                    "artist": "Mica Levi",
+                    "title": "Tears",
+                    "uri": "5KihlVXoEr9fgjLkF03ee9"
+                },
+                {
+                    "artist": "Mica Levi",
+                    "title": "Lonely Void",
+                    "uri": "7g60ZczXsAtKpx3iGwOkQe"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Sentridoh",
+                    "title": "Subtle Holy Gift",
+                    "uri": "0EcwyAMxLfECvRtmDg8sFq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sentridoh",
+                    "title": "K-Sensa-My II",
+                    "uri": "0DVcK1RM6OaH63IAX1G8Cd"
+                },
+                {
+                    "artist": "Sentridoh",
+                    "title": "Take My Hand",
+                    "uri": "17COB3w8m5K6VUjdr1Cuao"
+                },
+                {
+                    "artist": "Sentridoh",
+                    "title": "Crackers And Coffee",
+                    "uri": "1KvEU94B4taNoWTirkRjQA"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Astrid Sonne",
+                    "title": "Greener",
+                    "uri": "603qsBFMCGXburZt057Wv3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Astrid Sonne",
+                    "title": "Greener",
+                    "uri": "603qsBFMCGXburZt057Wv3"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Elliott Smith",
+                    "title": "Needle In The Hay",
+                    "uri": "1bFPKxP56XWDXJOwo3Kvfp"
+                },
+                {
+                    "artist": "Elliott Smith",
+                    "title": "Needle In The Hay",
+                    "uri": "3T4J5W4SCbMNH7h5JvbacX"
+                },
+                {
+                    "artist": "Elliott Smith",
+                    "title": "Needle In The Hay - 25th Anniversary Mix",
+                    "uri": "3KQEQrJS844KzcuI1ZHa33"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Elliott Smith",
+                    "title": "Needle In The Hay",
+                    "uri": "1bFPKxP56XWDXJOwo3Kvfp"
+                },
+                {
+                    "artist": "Elliott Smith",
+                    "title": "Needle In The Hay - 25th Anniversary Mix",
+                    "uri": "3KQEQrJS844KzcuI1ZHa33"
+                },
+                {
+                    "artist": "Elliott Smith",
+                    "title": "Between The Bars",
+                    "uri": "52Bg6oaos7twR7IUtEpqcE"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Tracey Thorn",
+                    "title": "Plain Sailing",
+                    "uri": "0SPkOEKPCjGjuxTccIeqP2"
+                },
+                {
+                    "artist": "Tracey Thorn",
+                    "title": "Plain Sailing",
+                    "uri": "6euXtOeb2OBSOzd1poaDGc"
+                },
+                {
+                    "artist": "Tracey Thorn",
+                    "title": "Plain Sailing",
+                    "uri": "33dIte7GqAxZih35iC6sAE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tracey Thorn",
+                    "title": "Plain Sailing",
+                    "uri": "0SPkOEKPCjGjuxTccIeqP2"
+                },
+                {
+                    "artist": "Rea Garvey",
+                    "title": "Plain Sailing",
+                    "uri": "3tgzWn2MmFAJsAznvPZc5A"
+                },
+                {
+                    "artist": "Frank Turner",
+                    "title": "Plain Sailing Weather",
+                    "uri": "0tfgbbx3n9EFL4fKIAQRBC"
+                }
+            ]
+        }
+    },
     "tara-clerkin-trio-25th-may-2022": {
         "00": {
             "s0": "",
