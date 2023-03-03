@@ -4078,6 +4078,410 @@
             ]
         }
     },
+    "desire-paths-2nd-march-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Bill Nelson",
+                    "title": "Body of Light",
+                    "uri": "1iNTPEkmKg1GCU2cJ2n8Ld"
+                }
+            ],
+            "s1": ""
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Captain Beefheart & His Magic Band",
+                    "title": "This Is The Day",
+                    "uri": "1BAD7JUDodpLRKUREP6RyR"
+                },
+                {
+                    "artist": "Captain Beefheart",
+                    "title": "This Is The Day",
+                    "uri": "4DXwavEaySxa533dasvnG2"
+                },
+                {
+                    "artist": "Captain Beefheart & His Magic Band",
+                    "title": "This Is The Day - Live From London/1974",
+                    "uri": "5fVK0BOOnNI7NQh7zltodu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Captain Beefheart & His Magic Band",
+                    "title": "This Is The Day",
+                    "uri": "1BAD7JUDodpLRKUREP6RyR"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Flaming Tunes",
+                    "title": "Restless Mind",
+                    "uri": "6XXDcs4m3eAiu3N3tvD0jc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Flaming Tunes",
+                    "title": "Restless Mind",
+                    "uri": "6XXDcs4m3eAiu3N3tvD0jc"
+                },
+                {
+                    "artist": "Yomoti",
+                    "title": "Restless Minds",
+                    "uri": "6eMBHbovGi1RhRrViEtvaV"
+                },
+                {
+                    "artist": "Pia No",
+                    "title": "Restless Mind",
+                    "uri": "0bYlYR7fYXDCnjK3CNv8Bt"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Peter Principle",
+                    "title": "The Eleventh Race",
+                    "uri": "1AfRuVKhgKqNi0kHLPqswt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Peter Princeiples",
+                    "title": "Little Darlin'",
+                    "uri": "7785dMUFYzAWSUCNhqT9XT"
+                },
+                {
+                    "artist": "Peter Phippen",
+                    "title": "Andromeda",
+                    "uri": "43veurxia7KWQs2pbvlNLi"
+                },
+                {
+                    "artist": "Peter Prange",
+                    "title": "Kapitel 1 - Eine Familie in Deutschland - Zeit zu hoffen, Zeit zu leben",
+                    "uri": "5ivC8voIlDiawIVIc3EaV2"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Imagination",
+                    "title": "Music and Lights",
+                    "uri": "3kEA66ZM9mCxwhynOxgsLh"
+                },
+                {
+                    "artist": "Imagination",
+                    "title": "Music & Lights",
+                    "uri": "5IjRHvAK72BEtt45KS0pJl"
+                },
+                {
+                    "artist": "Imagination",
+                    "title": "Music And Lights, Just An Illusion, So Good, So Right, Flashback - Megamix",
+                    "uri": "76B9qUCFQPKXyaKA4bbdmZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Imagination",
+                    "title": "Music and Lights",
+                    "uri": "3kEA66ZM9mCxwhynOxgsLh"
+                },
+                {
+                    "artist": "Imagination",
+                    "title": "Music and Lights",
+                    "uri": "4J9PT9Sehm72gwNLEPXcno"
+                },
+                {
+                    "artist": "Imagination",
+                    "title": "Music And Lights, Just An Illusion, So Good, So Right, Flashback - Megamix",
+                    "uri": "76B9qUCFQPKXyaKA4bbdmZ"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Ministry",
+                    "title": "I Wanted To Tell Her",
+                    "uri": "5dkUNxKeFjwbQr4y4LpUFX"
+                },
+                {
+                    "artist": "Ministry",
+                    "title": "I Wanted To Tell Her (Demo)",
+                    "uri": "78CAsKF7b2WHeMn6LAFEMr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ministry",
+                    "title": "I Wanted To Tell Her",
+                    "uri": "5dkUNxKeFjwbQr4y4LpUFX"
+                },
+                {
+                    "artist": "Ministry",
+                    "title": "N.W.O.",
+                    "uri": "2D9LxUcR9zWxQtxiHsMA0n"
+                },
+                {
+                    "artist": "Ministry",
+                    "title": "Bloodlines",
+                    "uri": "1U2rFV4PEYUZdYmgGVaEA3"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Nabihah Iqbal",
+                    "title": "This World Couldn’t See Us",
+                    "uri": "13cQU9GKHqSDInv3s7h9fm"
+                }
+            ],
+            "s1": ""
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Fabiana Palladino",
+                    "title": "Mystery",
+                    "uri": "1mKnCtcBZHdnbmGcyoO2Vn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fabiana Palladino",
+                    "title": "Mystery",
+                    "uri": "1mKnCtcBZHdnbmGcyoO2Vn"
+                },
+                {
+                    "artist": "Fabian Farell",
+                    "title": "Like Lee",
+                    "uri": "40KpbysTLyRKKq8pBD2gag"
+                },
+                {
+                    "artist": "Fabian Farell",
+                    "title": "Time Takes Nothing",
+                    "uri": "6zeemilzMUopUQ4YSsuiLt"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Kate Bush",
+                    "title": "Top Of The City - 2018 Remaster",
+                    "uri": "7KsA42WRSTTOBuG6iEcLxh"
+                },
+                {
+                    "artist": "Kate Bush",
+                    "title": "Top Of The City",
+                    "uri": "12lRcWpeaI5qMaF4y4pVrl"
+                },
+                {
+                    "artist": "Kate Bush",
+                    "title": "Top Of The City - 2011 Remastered Version",
+                    "uri": "4WeR4rWQaYyEdcua15WalD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kate Bush",
+                    "title": "Top Of The City - 2018 Remaster",
+                    "uri": "7KsA42WRSTTOBuG6iEcLxh"
+                },
+                {
+                    "artist": "Kate Bush",
+                    "title": "Top Of The City - 2011 Remastered Version",
+                    "uri": "4WeR4rWQaYyEdcua15WalD"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Eugene McDaniels",
+                    "title": "Sagittarius Red",
+                    "uri": "1jriMCli0AQnb3NHtLBTNW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eugene McDaniels",
+                    "title": "Sagittarius Red",
+                    "uri": "1jriMCli0AQnb3NHtLBTNW"
+                },
+                {
+                    "artist": "Eugene Tambourine",
+                    "title": "In The Good Life",
+                    "uri": "2g3BYjCyFaZG1jjz8CU1hE"
+                },
+                {
+                    "artist": "Hans-Ulrich Pohl",
+                    "title": "Sagittarius",
+                    "uri": "2lSN2nxyzsq6AogMI4RAVk"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": ""
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Othrwld",
+                    "title": "Thought Trains",
+                    "uri": "6MxeJRT4YQsMR7gGSVR9Ds"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "treason434",
+                    "title": "Thoughts",
+                    "uri": "7mH9jDWSqaa3HOF426nI7V"
+                },
+                {
+                    "artist": "Mac Miller",
+                    "title": "Thoughts from a Balcony",
+                    "uri": "79VMlcpvgHkxz0xwsTfc9d"
+                },
+                {
+                    "artist": "Mac Miller",
+                    "title": "Thoughts from a Balcony",
+                    "uri": "1DWDoxqAXqMJ4B8QUMaQUw"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Emmylou Harris",
+                    "title": "Wrecking Ball",
+                    "uri": "7AhLSMrjWMULOB9UH7lI7p"
+                },
+                {
+                    "artist": "Emmylou Harris",
+                    "title": "Wrecking Ball",
+                    "uri": "3zMcbuLkEJ6T7UxnQUpcxD"
+                },
+                {
+                    "artist": "Emmylou Harris",
+                    "title": "Wrecking Ball",
+                    "uri": "5fOpB4djdqAfLYqdaUlCBJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Emmylou Harris",
+                    "title": "Wrecking Ball",
+                    "uri": "7AhLSMrjWMULOB9UH7lI7p"
+                },
+                {
+                    "artist": "Miley Cyrus",
+                    "title": "Wrecking Ball",
+                    "uri": "2vwlzO0Qp8kfEtzTsCXfyE"
+                },
+                {
+                    "artist": "Mother Mother",
+                    "title": "Wrecking Ball",
+                    "uri": "2y51QpLzI5qbWfCcSx9Tu1"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Donny Hathaway",
+                    "title": "Jealous Guy",
+                    "uri": "4ZMofBIe1948b23GZJriAd"
+                },
+                {
+                    "artist": "Donny Hathaway",
+                    "title": "Jealous Guy - Live",
+                    "uri": "7k0lw3bHc5JpqhMRGchjRg"
+                },
+                {
+                    "artist": "Donny Hathaway",
+                    "title": "Jealous Guy - Live at the Bitter End, New York City, 1971",
+                    "uri": "6IHnyVDbp9pfkaD2i74ceh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Donny Hathaway",
+                    "title": "Jealous Guy",
+                    "uri": "4ZMofBIe1948b23GZJriAd"
+                },
+                {
+                    "artist": "Donny Hathaway",
+                    "title": "Jealous Guy - Live",
+                    "uri": "7k0lw3bHc5JpqhMRGchjRg"
+                },
+                {
+                    "artist": "Donny Hathaway",
+                    "title": "Jealous Guy - Live at the Bitter End, New York City, 1971",
+                    "uri": "6IHnyVDbp9pfkaD2i74ceh"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Liza Minnelli",
+                    "title": "Rent",
+                    "uri": "3Ndctm6ZfYCHjoIapuTKCU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Liza Minnelli",
+                    "title": "Rent",
+                    "uri": "3Ndctm6ZfYCHjoIapuTKCU"
+                },
+                {
+                    "artist": "Liza Minnelli",
+                    "title": "Cabaret",
+                    "uri": "7AFy1aN1RQVgGOXzCtrK87"
+                },
+                {
+                    "artist": "Lisa Mitchell",
+                    "title": "California",
+                    "uri": "0x7dQOmBLZYkmlfl2rRLPP"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Anne Briggs",
+                    "title": "She Moves Through the Fair",
+                    "uri": "5GowXjPIOy9ABzC309hCPA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Anne Briggs",
+                    "title": "She Moves Through the Fair",
+                    "uri": "5GowXjPIOy9ABzC309hCPA"
+                },
+                {
+                    "artist": "Anne Briggs",
+                    "title": "Go Your Way",
+                    "uri": "4nxIqXHvluAPRmYduYLUhF"
+                },
+                {
+                    "artist": "B-Tribe",
+                    "title": "She Moves Through The Fair",
+                    "uri": "11Fo9Hod1oj6RYrVSO8PKo"
+                }
+            ]
+        }
+    },
     "desire-paths-3rd-march-2022": {
         "00": {
             "s0": [
