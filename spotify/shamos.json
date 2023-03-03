@@ -4095,9 +4095,10 @@
         },
         "11": {
             "artist": "The Doors",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Shaman's Blues",
-            "trackid": "4MSGvOyqjifxU0TtDxhQil"
+            "trackid": "4MSGvOyqjifxU0TtDxhQil",
+            "uri": ""
         },
         "12": {
             "artist": "Huerco S.",
@@ -4113,9 +4114,10 @@
         },
         "14": {
             "artist": "The Doors",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Shaman's Blues",
-            "trackid": "4MSGvOyqjifxU0TtDxhQil"
+            "trackid": "4MSGvOyqjifxU0TtDxhQil",
+            "uri": ""
         },
         "15": {
             "artist": "Clark",
@@ -4269,9 +4271,10 @@
         },
         "40": {
             "artist": "The Doors",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Shaman's Blues",
-            "trackid": "4MSGvOyqjifxU0TtDxhQil"
+            "trackid": "4MSGvOyqjifxU0TtDxhQil",
+            "uri": ""
         },
         "41": {
             "artist": "Krypts",
@@ -5444,15 +5447,17 @@
         },
         "11": {
             "artist": "The Doors",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Shaman's Blues",
-            "trackid": "4MSGvOyqjifxU0TtDxhQil"
+            "trackid": "4MSGvOyqjifxU0TtDxhQil",
+            "uri": ""
         },
         "12": {
             "artist": "The Doors",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Shaman's Blues",
-            "trackid": "4MSGvOyqjifxU0TtDxhQil"
+            "trackid": "4MSGvOyqjifxU0TtDxhQil",
+            "uri": ""
         },
         "13": {
             "artist": "",
@@ -5486,9 +5491,10 @@
         },
         "18": {
             "artist": "The Doors",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Shaman's Blues",
-            "trackid": "4MSGvOyqjifxU0TtDxhQil"
+            "trackid": "4MSGvOyqjifxU0TtDxhQil",
+            "uri": ""
         },
         "19": {
             "artist": "Emeka Ogboh",
@@ -5588,9 +5594,10 @@
         },
         "35": {
             "artist": "The Doors",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Shaman's Blues",
-            "trackid": "4MSGvOyqjifxU0TtDxhQil"
+            "trackid": "4MSGvOyqjifxU0TtDxhQil",
+            "uri": ""
         },
         "36": {
             "artist": "A. G. Cook",
@@ -8613,6 +8620,217 @@
             "trackid": "1OOtq8tRnDM8kG2gqUPjAj"
         }
     },
+    "shamos-2nd-march-2023": {
+        "00": {
+            "artist": "Muse",
+            "ratio": 4,
+            "title": "MK Ultra",
+            "trackid": "0MrkZz4D3fGlEkhebjPPrh"
+        },
+        "01": {
+            "artist": "Cajm",
+            "ratio": 9,
+            "title": "Q1",
+            "trackid": "2HRreDuhPxVAdtCzdc2JwB"
+        },
+        "02": {
+            "artist": "Yves Tumor",
+            "ratio": 9,
+            "title": "Hasdallen Lights",
+            "trackid": "49FunJ7gFKbcADyPcTaNJ4"
+        },
+        "03": {
+            "artist": "Lords Of The Underground",
+            "ratio": 3,
+            "title": "Funky Child",
+            "trackid": "3UhwS81S9L7i2byZCrhSAv"
+        },
+        "04": {
+            "artist": "Peat",
+            "ratio": 4,
+            "title": "Peter und der Wolf",
+            "trackid": "32R7Cp9yLwk0mbM3FM2hRs"
+        },
+        "05": {
+            "artist": "Unknown T",
+            "ratio": -1,
+            "title": "Prison",
+            "trackid": "6r8gO6Fx07frt2K33dYzu4",
+            "uri": ""
+        },
+        "06": {
+            "artist": "Helldanzer",
+            "ratio": 5,
+            "title": "High Tech",
+            "trackid": "1jKgtWcmYNkfQCdPCbDcLB"
+        },
+        "07": {
+            "artist": "Rian Treanor",
+            "ratio": 9,
+            "title": "Memory Pressure",
+            "trackid": "3bTYRHxu6isWHVRAEnRuCr"
+        },
+        "08": {
+            "artist": "Chad Cooke Band",
+            "ratio": 4,
+            "title": "I Wanna Go Out",
+            "trackid": "7CnFhkX8GMalNNBl3rpx3N"
+        },
+        "09": {
+            "artist": "Roger23",
+            "ratio": 9,
+            "title": "J.C.'s State Fair",
+            "trackid": "7LUmd2XUyogXdMVqWIuSZj"
+        },
+        "10": {
+            "artist": "BANKS",
+            "ratio": 5,
+            "title": "Warm Water",
+            "trackid": "0S6PypPqnAtBGFQ4etyo15"
+        },
+        "11": {
+            "artist": "Carrier",
+            "ratio": 9,
+            "title": "Harsh Features",
+            "trackid": "5cZyJZtwhOcUWK2XKNsHxc"
+        },
+        "12": {
+            "artist": "Lamin Fofana",
+            "ratio": 9,
+            "title": "Resounding Water",
+            "trackid": "6MD7nez7eFAxiK2bubbJ8s"
+        },
+        "13": {
+            "artist": "Sincere Hunte",
+            "ratio": 0,
+            "title": "SUN RUNNER",
+            "trackid": "1sNtpLAG1Cbp9Ypsv5070t"
+        },
+        "14": {
+            "artist": "Mr. G",
+            "ratio": 9,
+            "title": "Nows The Time",
+            "trackid": "4TbDtbHAzdYY4gUCrvoxAP"
+        },
+        "15": {
+            "artist": "Fritz Kalkbrenner",
+            "ratio": -1,
+            "title": "Just The One",
+            "trackid": "09wqf25BGUT4K3aGLsrV0L",
+            "uri": ""
+        },
+        "16": {
+            "artist": "Daniel Ögren",
+            "ratio": 5,
+            "title": "Idag",
+            "trackid": "3gIP4pZ9ofJiHqOpFZjgVH"
+        },
+        "17": {
+            "artist": "Torsten Kanzler",
+            "ratio": 3,
+            "title": "Fett Bass vs. Space Man - Torsten Kanzler Remix",
+            "trackid": "6M2HjJCf59JhCiDfIYQfJR"
+        },
+        "18": {
+            "artist": "Yügen Disciple",
+            "ratio": 9,
+            "title": "Pleux",
+            "trackid": "5nPnKHVWnMhRYuMstq89PK"
+        },
+        "19": {
+            "artist": "Christian Love Forum",
+            "ratio": 9,
+            "title": "Marriage With An Unbeliever",
+            "trackid": "5wv3LknJoVipCrHBZnECEb"
+        },
+        "20": {
+            "artist": "Kassem Mosse",
+            "ratio": 9,
+            "title": "A2",
+            "trackid": "2RmlpiF3SeXFnwZxm3wBS1"
+        },
+        "21": {
+            "artist": "Puto Tito",
+            "ratio": 9,
+            "title": "Tristesa",
+            "trackid": "1YvEtVPx7VlllYv7nyzxBe"
+        },
+        "22": {
+            "artist": "Chad & Wob",
+            "ratio": 3,
+            "title": "KP Freestyle",
+            "trackid": "2ZDiXv1mY5qrqXV17O6DdY"
+        },
+        "23": {
+            "artist": "Chloe x Halle",
+            "ratio": -1,
+            "title": "Babybird",
+            "trackid": "1Tpumw7gWMPujKYoMXHI6I",
+            "uri": ""
+        },
+        "24": {
+            "artist": "Sleeping At Last",
+            "ratio": 3,
+            "title": "Atom 1",
+            "trackid": "0NyBxQlgLlq6YgGEuDKekc"
+        },
+        "25": {
+            "artist": "Fall Out Boy",
+            "ratio": -1,
+            "title": "Immortals",
+            "trackid": "3c1ItvzDDDpmDgLH9SIUp4",
+            "uri": ""
+        },
+        "26": {
+            "artist": "James Bong",
+            "ratio": 9,
+            "title": "Lou",
+            "trackid": "1Is2ScT5Bw6OSkTATxhtuF"
+        },
+        "27": {
+            "artist": "Zadig",
+            "ratio": 9,
+            "title": "Tape No. 2.022",
+            "trackid": "18n6pqGOieQFxlg5kieLLp"
+        },
+        "28": {
+            "artist": "Armand Beck",
+            "ratio": 3,
+            "title": "Lac Seul",
+            "trackid": "0gllZ66ZyU90cXkt1dUPo4"
+        },
+        "29": {
+            "artist": "Benny The Butcher",
+            "ratio": 0,
+            "title": "Johnny P's Caddy",
+            "trackid": "6AshXllQhobwSXsdpgp41w"
+        },
+        "30": {
+            "artist": "Argo",
+            "ratio": 9,
+            "title": "Hit Mondial",
+            "trackid": "4otBJprF7HxjgypXeSyn6x"
+        },
+        "31": {
+            "artist": "Bayonne",
+            "ratio": -1,
+            "title": "Drastic Measures - Single Edit",
+            "trackid": "0t0fq2SAyD7YdDtBryaoOX",
+            "uri": ""
+        },
+        "32": {
+            "artist": "East Man",
+            "ratio": 9,
+            "title": "Future Tek",
+            "trackid": "3wuqTOkCAauK7TXeElRBMl"
+        },
+        "33": {
+            "artist": "Ice Spice",
+            "ratio": 9,
+            "title": "In Ha Mood",
+            "trackid": "0yUaLqhsVsguBpoOPL4cO7"
+        }
+    },
     "shamos-30th-september-2015": {
         "00": {
             "artist": "Doris Norton",
@@ -10101,9 +10319,10 @@
         },
         "06": {
             "artist": "Shamon",
-            "ratio": 5,
+            "ratio": -1,
             "title": "I WAS HERE",
-            "trackid": "3howFYjJkMHpw3HvsxyDcR"
+            "trackid": "3howFYjJkMHpw3HvsxyDcR",
+            "uri": ""
         },
         "07": {
             "artist": "Keiko Matsui",
@@ -10251,9 +10470,10 @@
         },
         "31": {
             "artist": "Shamon",
-            "ratio": 5,
+            "ratio": -1,
             "title": "I WAS HERE",
-            "trackid": "3howFYjJkMHpw3HvsxyDcR"
+            "trackid": "3howFYjJkMHpw3HvsxyDcR",
+            "uri": ""
         },
         "32": {
             "artist": "Dream_E",

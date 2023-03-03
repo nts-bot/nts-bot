@@ -1002,9 +1002,10 @@
         },
         "22": {
             "artist": "EliaZz",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Leer",
-            "trackid": "4l61PtnClMdmD1VNuZmL6g"
+            "trackid": "4l61PtnClMdmD1VNuZmL6g",
+            "uri": ""
         },
         "23": {
             "artist": "Freddie Gibbs",
@@ -1086,15 +1087,17 @@
         },
         "36": {
             "artist": "Mac Wetha",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Ode To Mumma",
-            "trackid": "4wCgFIFfMoTcdb0JfMFbwd"
+            "trackid": "4wCgFIFfMoTcdb0JfMFbwd",
+            "uri": ""
         },
         "37": {
             "artist": "Mac Wetha",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Ode To Mumma",
-            "trackid": "4wCgFIFfMoTcdb0JfMFbwd"
+            "trackid": "4wCgFIFfMoTcdb0JfMFbwd",
+            "uri": ""
         },
         "38": {
             "artist": "Imhotep",
@@ -3845,9 +3848,10 @@
         },
         "18": {
             "artist": "Finn Foxell",
-            "ratio": 0,
+            "ratio": -1,
             "title": "What For",
-            "trackid": "03v4bL9ib8scQMBRcJBVOP"
+            "trackid": "03v4bL9ib8scQMBRcJBVOP",
+            "uri": ""
         },
         "19": {
             "artist": "House of Pharaohs",
@@ -4145,9 +4149,10 @@
         },
         "01": {
             "artist": "p-rallel",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Vibes (feat. Sam Wise & Venna)",
-            "trackid": "0rpSppwgJjbbeYEmM7uujk"
+            "trackid": "0rpSppwgJjbbeYEmM7uujk",
+            "uri": ""
         },
         "02": {
             "artist": "Bakar",
@@ -4163,9 +4168,10 @@
         },
         "04": {
             "artist": "p-rallel",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Vibes (feat. Sam Wise & Venna)",
-            "trackid": "0rpSppwgJjbbeYEmM7uujk"
+            "trackid": "0rpSppwgJjbbeYEmM7uujk",
+            "uri": ""
         },
         "05": {
             "artist": "p-rallel",
@@ -4187,9 +4193,10 @@
         },
         "08": {
             "artist": "p-rallel",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Vibes (feat. Sam Wise & Venna)",
-            "trackid": "0rpSppwgJjbbeYEmM7uujk"
+            "trackid": "0rpSppwgJjbbeYEmM7uujk",
+            "uri": ""
         },
         "09": {
             "artist": "Mortred",
@@ -4748,6 +4755,98 @@
             "ratio": 9,
             "title": "Piece of Mind",
             "trackid": "16hFwhatFJaziigS0rzJpQ"
+        }
+    },
+    "p-rallel-2nd-march-2023": {
+        "00": {
+            "artist": "p-rallel",
+            "ratio": 4,
+            "title": "soulboy - IZCO Remix",
+            "trackid": "3G1YAm52YxIp0jlxalE0hK"
+        },
+        "01": {
+            "artist": "NiNE8",
+            "ratio": 9,
+            "title": "FVR105 - p-rallel Remix",
+            "trackid": "5F4jNQAtcorOBctGgpcjNh"
+        },
+        "02": {
+            "artist": "P-Rasty",
+            "ratio": 5,
+            "title": "<3",
+            "trackid": "1z2gTj8NZiA9iYaLoZG3Ae"
+        },
+        "03": {
+            "artist": "DJ Fudge",
+            "ratio": 9,
+            "title": "Simpatico",
+            "trackid": "2c1lZ3KdyPhDVW0wOLXyj4"
+        },
+        "04": {
+            "artist": "DJ Fudge",
+            "ratio": 9,
+            "title": "Keep On Wondering",
+            "trackid": "6aPI2XQqg1YurnBiWfY2fS"
+        },
+        "05": {
+            "artist": "Soul Divine",
+            "ratio": 9,
+            "title": "Secret Love - Shane D Remix",
+            "trackid": "3EHQkMCdChXnLcMWiTM0S8"
+        },
+        "06": {
+            "artist": "Osunlade",
+            "ratio": 9,
+            "title": "Momma's Groove",
+            "trackid": "7eMprrLOCDuig4qPmZScNO"
+        },
+        "07": {
+            "artist": "Oliver Dollar",
+            "ratio": 9,
+            "title": "Doin Ya Thang",
+            "trackid": "0fEowZULrTsT0lxtrwyR3X"
+        },
+        "08": {
+            "artist": "Sunlightsquare",
+            "ratio": 9,
+            "title": "Oyelo - Atjazz Love Soul Remix",
+            "trackid": "6GFcYDW9kRFoG3bMxFAX3v"
+        },
+        "09": {
+            "artist": "Black Coffee",
+            "ratio": 9,
+            "title": "We Are One - Black Coffee Original Dub",
+            "trackid": "0yRbdmtSZIAt29prSfst2U"
+        },
+        "10": {
+            "artist": "RiskSoundSystem",
+            "ratio": 9,
+            "title": "The Sound Is Yours - Kerri Chandler Remix",
+            "trackid": "586ipzQlSCyAyY1pvFthWT"
+        },
+        "11": {
+            "artist": "Stacy Kidd",
+            "ratio": 9,
+            "title": "How Bad I Want Ya - Gu Peak True Time Mix",
+            "trackid": "1ahoN2VQWi84I48TrV7r0X"
+        },
+        "12": {
+            "artist": "Hanna",
+            "ratio": 9,
+            "title": "I Needed",
+            "trackid": "4vyOcxU4oEyzEhBMFheHBj"
+        },
+        "13": {
+            "artist": "Reel People",
+            "ratio": 9,
+            "title": "If I Was Your Man",
+            "trackid": "6XxQehdz2xFy589rCT288b"
+        },
+        "14": {
+            "artist": "Roy Ayers",
+            "ratio": 9,
+            "title": "Good Vibrations - Kerri's Mad Mix",
+            "trackid": "3zxDdRmYtrXvRfIMuKpuAH"
         }
     },
     "p-rallel-30th-august-2018": {

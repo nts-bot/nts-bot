@@ -32599,6 +32599,767 @@
             ]
         }
     },
+    "shamos-2nd-march-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Muse",
+                    "title": "MK Ultra",
+                    "uri": "0MrkZz4D3fGlEkhebjPPrh"
+                },
+                {
+                    "artist": "Azurenity",
+                    "title": "Number#",
+                    "uri": "48db71uT5mlzqtkBG5BOtJ"
+                },
+                {
+                    "artist": "Markus vom Flottn3er",
+                    "title": "Nur ned hudl'n",
+                    "uri": "32NlGqoVsNnmYzQzdAd8gD"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Cajm",
+                    "title": "Q1",
+                    "uri": "2HRreDuhPxVAdtCzdc2JwB"
+                }
+            ],
+            "s1": ""
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Yves Tumor",
+                    "title": "Hasdallen Lights",
+                    "uri": "49FunJ7gFKbcADyPcTaNJ4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Yves Tumor",
+                    "title": "Hasdallen Lights",
+                    "uri": "49FunJ7gFKbcADyPcTaNJ4"
+                },
+                {
+                    "artist": "Yves Tumor",
+                    "title": "Limerence",
+                    "uri": "2wiV5iKq5F5A0KUee4OrlK"
+                },
+                {
+                    "artist": "Yves Tumor",
+                    "title": "Echolalia",
+                    "uri": "7uECCWx2tz4T102b2QBS0p"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tone-Loc",
+                    "title": "Funky Cold Medina",
+                    "uri": "5YIF6HSOtHN9HdcE5IPzMe"
+                },
+                {
+                    "artist": "Lords Of The Underground",
+                    "title": "Funky Child",
+                    "uri": "3UhwS81S9L7i2byZCrhSAv"
+                },
+                {
+                    "artist": "F430",
+                    "title": "Funky",
+                    "uri": "6tSTgxvwxGTe0PveXxSI7d"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Peder B. Helland",
+                    "title": "Wonder",
+                    "uri": "6iSO2ZLDmT7bG8b3ZWSd2M"
+                },
+                {
+                    "artist": "PRKR.",
+                    "title": "Wonder",
+                    "uri": "5eCjdVDdF66zaMcz4QJn5s"
+                },
+                {
+                    "artist": "Peat",
+                    "title": "Peter und der Wolf",
+                    "uri": "32R7Cp9yLwk0mbM3FM2hRs"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bapti",
+                    "title": "Unknown",
+                    "uri": "2V48LfT5x1dRUpnHjEJpaE"
+                },
+                {
+                    "artist": "MadeinTYO",
+                    "title": "Skateboard P",
+                    "uri": "4qdgv45EPcQqpQ08tF34f8"
+                },
+                {
+                    "artist": "Unknown T",
+                    "title": "Prison",
+                    "uri": "6r8gO6Fx07frt2K33dYzu4"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hi-Tech",
+                    "title": "Book of Life",
+                    "uri": "4tWtLjreDU4443LRv2CXmc"
+                },
+                {
+                    "artist": "Future",
+                    "title": "HiTek Tek",
+                    "uri": "5v1STk4ZTTDrhgCs6LD3nd"
+                },
+                {
+                    "artist": "Helldanzer",
+                    "title": "High Tech",
+                    "uri": "1jKgtWcmYNkfQCdPCbDcLB"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rian Treanor",
+                    "title": "Memory Pressure",
+                    "uri": "3bTYRHxu6isWHVRAEnRuCr"
+                },
+                {
+                    "artist": "Rian Treanor",
+                    "title": "Bunga Bule",
+                    "uri": "26YN99sZ89zQHb1cbX5ZNW"
+                },
+                {
+                    "artist": "Rian Treanor",
+                    "title": "As It Happens",
+                    "uri": "6ECmmkWc0esLE3hYHuD5KU"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Void",
+                    "title": "Dedication",
+                    "uri": "54AYD2f97twQCvhDazEc2U"
+                },
+                {
+                    "artist": "Chad VanGaalen",
+                    "title": "Samurai Sword",
+                    "uri": "2elHkEQ40sDJVVMETQ8GVw"
+                },
+                {
+                    "artist": "Chad Cooke Band",
+                    "title": "I Wanna Go Out",
+                    "uri": "7CnFhkX8GMalNNBl3rpx3N"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Roger23",
+                    "title": "J.C.'s State Fair",
+                    "uri": "7LUmd2XUyogXdMVqWIuSZj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Roger Waters",
+                    "title": "Mother",
+                    "uri": "4utnS9gWbwvGk5w0pACXEw"
+                },
+                {
+                    "artist": "Rogers",
+                    "title": "Komm, wir sterben aus",
+                    "uri": "6aRlYGyMvpXnS4LFeQNmJg"
+                },
+                {
+                    "artist": "The Roger one",
+                    "title": "Kay Reina",
+                    "uri": "4zYMaCjc1GsBYkzRb6sCyu"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Beau Wanzer",
+                    "title": "I Don't Even Want To",
+                    "uri": "5UJ9DauwiL8aerORPK7x90"
+                },
+                {
+                    "artist": "BANKS",
+                    "title": "Warm Water",
+                    "uri": "0S6PypPqnAtBGFQ4etyo15"
+                },
+                {
+                    "artist": "BANKS",
+                    "title": "Warm Water",
+                    "uri": "0lcxaYYEK5UnJMbaFgevtQ"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Carrier",
+                    "title": "Harsh Features",
+                    "uri": "5cZyJZtwhOcUWK2XKNsHxc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Carrier",
+                    "title": "Harsh Features",
+                    "uri": "5cZyJZtwhOcUWK2XKNsHxc"
+                },
+                {
+                    "artist": "Virtual Riot",
+                    "title": "Carrier",
+                    "uri": "6K5edq7DsClK94oiPm9p6i"
+                },
+                {
+                    "artist": "The Carrier",
+                    "title": "Unloved",
+                    "uri": "1xa3jyhUeW4uFpAlxhxK39"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Lamin Fofana",
+                    "title": "Resounding Water",
+                    "uri": "6MD7nez7eFAxiK2bubbJ8s"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lamin Fofana",
+                    "title": "Erosion / Whispers \"a laminated shout\"",
+                    "uri": "4eh1vWQgteIqtsEBreRMUT"
+                },
+                {
+                    "artist": "Lamin Fofana",
+                    "title": "Bankrupt Utopia Sez Tell Me",
+                    "uri": "0PQtLhAFcPsuA7BxGgFquW"
+                },
+                {
+                    "artist": "Lamin Fofana",
+                    "title": "A Symbol of the Withdrawn God Redux",
+                    "uri": "4DsFBLsKgCxhdDCL16YGQw"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sincere Hunte",
+                    "title": "SUN RUNNER",
+                    "uri": "1sNtpLAG1Cbp9Ypsv5070t"
+                },
+                {
+                    "artist": "Bob James",
+                    "title": "Sun Runner",
+                    "uri": "6SSInqsuuDYfj6gyLAEoj1"
+                },
+                {
+                    "artist": "The Sun Runner",
+                    "title": "Hypocrite",
+                    "uri": "0YtliyBkp2qWqzuzjsYbMn"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Mr. G",
+                    "title": "Nows The Time",
+                    "uri": "4TbDtbHAzdYY4gUCrvoxAP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mr. G",
+                    "title": "Daily Prayer",
+                    "uri": "64FyP2IcDx6cgyZUUSIPYa"
+                },
+                {
+                    "artist": "Mr. G",
+                    "title": "Transient",
+                    "uri": "4OdyI2KYWKbaS0WBOX6beN"
+                },
+                {
+                    "artist": "MR.G",
+                    "title": "I Go Crazy",
+                    "uri": "53OFJ0p2IO1xTa01moxDrn"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Grover Washington, Jr.",
+                    "title": "Just the Two of Us (feat. Bill Withers)",
+                    "uri": "1ko2lVN0vKGUl9zrU0qSlT"
+                },
+                {
+                    "artist": "Grover Washington, Jr.",
+                    "title": "Just the Two of Us",
+                    "uri": "4C426PqeHP8XqHU5mQIAKS"
+                },
+                {
+                    "artist": "Fritz Kalkbrenner",
+                    "title": "Just The One",
+                    "uri": "09wqf25BGUT4K3aGLsrV0L"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Daniel Ögren",
+                    "title": "Idag",
+                    "uri": "3gIP4pZ9ofJiHqOpFZjgVH"
+                },
+                {
+                    "artist": "Daniel Ögren",
+                    "title": "Annalena",
+                    "uri": "3QLrPMyKAIVkyL7uQsjVBo"
+                },
+                {
+                    "artist": "Daniel O'Rhys",
+                    "title": "The Watcher & The Sea",
+                    "uri": "16MsK4SIK44MsMHJCAjW4c"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "FatBoiTim",
+                    "title": "Burger",
+                    "uri": "5T6eFCe9lLc514A23vhbKt"
+                },
+                {
+                    "artist": "Maurice Haase",
+                    "title": "Fetter Bass",
+                    "uri": "32kDQiJjpaVArZE4C7CBND"
+                },
+                {
+                    "artist": "Torsten Kanzler",
+                    "title": "Fett Bass vs. Space Man - Torsten Kanzler Remix",
+                    "uri": "6M2HjJCf59JhCiDfIYQfJR"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Yügen Disciple",
+                    "title": "Pleux",
+                    "uri": "5nPnKHVWnMhRYuMstq89PK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "ONO1",
+                    "title": "Yugen",
+                    "uri": "1uAsrVZwWejTkJ87otnX7l"
+                },
+                {
+                    "artist": "Sebastian Davidson",
+                    "title": "Yugen",
+                    "uri": "4tRYo09M52D1f9UDGjSRXE"
+                },
+                {
+                    "artist": "ZARG",
+                    "title": "yugen",
+                    "uri": "4EoHSd3lQ0rxtpudzXmiwp"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Christian Love Forum",
+                    "title": "Marriage With An Unbeliever",
+                    "uri": "5wv3LknJoVipCrHBZnECEb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Christian Love Forum",
+                    "title": "Marriage With An Unbeliever",
+                    "uri": "5wv3LknJoVipCrHBZnECEb"
+                },
+                {
+                    "artist": "Christian Love Forum",
+                    "title": "Isimeria",
+                    "uri": "39Eufu6XI12M6YyMXht2tp"
+                },
+                {
+                    "artist": "Salvatore Ganacci",
+                    "title": "Marriage",
+                    "uri": "1A9HDqZ0wnYQUaYC1g1Cfe"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Kassem Mosse",
+                    "title": "A2",
+                    "uri": "2RmlpiF3SeXFnwZxm3wBS1"
+                },
+                {
+                    "artist": "Kassem Mosse",
+                    "title": "Untitled A2",
+                    "uri": "6ZJgUHFW1S36zW1L0uNtnm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kassem Mosse",
+                    "title": "A2",
+                    "uri": "2RmlpiF3SeXFnwZxm3wBS1"
+                },
+                {
+                    "artist": "Kassem Mosse",
+                    "title": "A1",
+                    "uri": "00e1gbPPvuP1tLBir7wgKD"
+                },
+                {
+                    "artist": "Kassem Mosse",
+                    "title": "B1",
+                    "uri": "4OBP3SlWs1EnxrAOAfsQtM"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Puto Tito",
+                    "title": "Tristesa",
+                    "uri": "1YvEtVPx7VlllYv7nyzxBe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Puto Tito",
+                    "title": "Tristesa",
+                    "uri": "1YvEtVPx7VlllYv7nyzxBe"
+                },
+                {
+                    "artist": "MQUEIROZ",
+                    "title": "Puto",
+                    "uri": "0ffHeUbnpnGYX2EtyjzDy3"
+                },
+                {
+                    "artist": "Dazzen",
+                    "title": "Puto",
+                    "uri": "5rvLjZ9K8OCK6IPDqF9EhI"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chad & Wob",
+                    "title": "KP Freestyle",
+                    "uri": "2ZDiXv1mY5qrqXV17O6DdY"
+                },
+                {
+                    "artist": "d0xy",
+                    "title": "VOID",
+                    "uri": "5VYAMNSmdgaqNuCKDq8GbC"
+                },
+                {
+                    "artist": "Chad Kowal",
+                    "title": "Real Boy",
+                    "uri": "79Wa5qMoPOIHmGZyamqdgR"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Whores",
+                    "title": "Baby Bird",
+                    "uri": "1tqkcwB6pkayklmFXxoF8R"
+                },
+                {
+                    "artist": "Chloe x Halle",
+                    "title": "Babybird",
+                    "uri": "1Tpumw7gWMPujKYoMXHI6I"
+                },
+                {
+                    "artist": "Lxst",
+                    "title": "Baby Bird",
+                    "uri": "2xxJC9oMWEoZfI8L48gN20"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sleeping At Last",
+                    "title": "Atom 1",
+                    "uri": "0NyBxQlgLlq6YgGEuDKekc"
+                },
+                {
+                    "artist": "Juliàn",
+                    "title": "Atom Pieces",
+                    "uri": "2irvxOyPVLbhNyHoLzHegZ"
+                },
+                {
+                    "artist": "Maarten de Jong",
+                    "title": "Atom",
+                    "uri": "0mNnRFFlfQv3BAsvCWk7nZ"
+                }
+            ]
+        },
+        "25": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Fall Out Boy",
+                    "title": "Immortals",
+                    "uri": "3c1ItvzDDDpmDgLH9SIUp4"
+                },
+                {
+                    "artist": "Kevin Quinn",
+                    "title": "Big House",
+                    "uri": "5zuh9HIAzpBM5vqYGjeUYU"
+                },
+                {
+                    "artist": "BIG HEADED TIME",
+                    "title": "HM 1",
+                    "uri": "1pSMH7OX2xglSFtCx57sir"
+                }
+            ]
+        },
+        "26": {
+            "s0": [
+                {
+                    "artist": "James Bong",
+                    "title": "Lou",
+                    "uri": "1Is2ScT5Bw6OSkTATxhtuF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The City of Prague Philharmonic Orchestra",
+                    "title": "The James Bond Theme (Original)",
+                    "uri": "4y8GgkINBu7hH7IX9CBw87"
+                },
+                {
+                    "artist": "John Barry Orchestra",
+                    "title": "James Bond Theme (From Dr. No)",
+                    "uri": "0bwsyQC5yRJB3IUK2cGQ6b"
+                },
+                {
+                    "artist": "Kollegah",
+                    "title": "James Bond",
+                    "uri": "7aBJrgibjgY4sGxlBvJPRM"
+                }
+            ]
+        },
+        "27": {
+            "s0": [
+                {
+                    "artist": "Zadig",
+                    "title": "Tape No. 2.022",
+                    "uri": "18n6pqGOieQFxlg5kieLLp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Zadig",
+                    "title": "Tape No. 2.022",
+                    "uri": "18n6pqGOieQFxlg5kieLLp"
+                },
+                {
+                    "artist": "Zadig",
+                    "title": "Tape No. 6",
+                    "uri": "3hpzJoZNCG0nvBOTWwQTRc"
+                },
+                {
+                    "artist": "Technasia",
+                    "title": "Innocuous Clouds - Zadig Remix",
+                    "uri": "4pneMAkn46ccVNzdBh89Se"
+                }
+            ]
+        },
+        "28": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Armand Beck",
+                    "title": "Lac Seul",
+                    "uri": "0gllZ66ZyU90cXkt1dUPo4"
+                }
+            ]
+        },
+        "29": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Benny The Butcher",
+                    "title": "Plug Talk (feat. 2 Chainz)",
+                    "uri": "3kKfpZ1Lwf5bG2t6mHbSOw"
+                },
+                {
+                    "artist": "Benny The Butcher",
+                    "title": "Johnny P's Caddy",
+                    "uri": "6AshXllQhobwSXsdpgp41w"
+                },
+                {
+                    "artist": "Benny The Butcher",
+                    "title": "Johnny P's Caddy",
+                    "uri": "59ClUavkkfRhryajZBn2Lf"
+                }
+            ]
+        },
+        "30": {
+            "s0": [
+                {
+                    "artist": "Argo",
+                    "title": "Hit Mondial",
+                    "uri": "4otBJprF7HxjgypXeSyn6x"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Argo Nuff",
+                    "title": "bannerzszsz",
+                    "uri": "6ghn4a6R6y7tMevckuoMvc"
+                },
+                {
+                    "artist": "André Winter",
+                    "title": "Argo - Original Mix",
+                    "uri": "2Xf5JJiLC3ewmWxj8mOe3B"
+                },
+                {
+                    "artist": "Alexandre Desplat",
+                    "title": "The Mission",
+                    "uri": "1XSpNABBVBNoHQhkTm6xiS"
+                }
+            ]
+        },
+        "31": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bayonne",
+                    "title": "Drastic Measures - Single Edit",
+                    "uri": "0t0fq2SAyD7YdDtBryaoOX"
+                },
+                {
+                    "artist": "花冷え。",
+                    "title": "Drastic Nadeshiko",
+                    "uri": "21KcwK4N7GkTCmMfjcWXaa"
+                },
+                {
+                    "artist": "UNKNOWN",
+                    "title": "Direction",
+                    "uri": "1smp9PVl3f1yIbyl7f17wR"
+                }
+            ]
+        },
+        "32": {
+            "s0": [
+                {
+                    "artist": "East Man",
+                    "title": "Future Tek",
+                    "uri": "3wuqTOkCAauK7TXeElRBMl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "East Mane",
+                    "title": "Hidden Trails",
+                    "uri": "4fZdAdcLDMxHz51Q6qXFwC"
+                },
+                {
+                    "artist": "Xavier Wulf",
+                    "title": "East Memphis Maniac",
+                    "uri": "3gnfYD3HzIkAlmi1na0CAS"
+                },
+                {
+                    "artist": "EAST LAND BEATS",
+                    "title": "The Mind",
+                    "uri": "00d6sycL9r5q2rla4vk45I"
+                }
+            ]
+        },
+        "33": {
+            "s0": [
+                {
+                    "artist": "Ice Spice",
+                    "title": "In Ha Mood",
+                    "uri": "0yUaLqhsVsguBpoOPL4cO7"
+                },
+                {
+                    "artist": "Ice Spice",
+                    "title": "In Ha Mood",
+                    "uri": "3zMdVpJwEuqFmkeUw84tmA"
+                },
+                {
+                    "artist": "Ice Spice",
+                    "title": "In Ha Mood",
+                    "uri": "2Ve66zhx33PYaULBFkRVxj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ice Spice",
+                    "title": "In Ha Mood",
+                    "uri": "0yUaLqhsVsguBpoOPL4cO7"
+                },
+                {
+                    "artist": "Ice Spice",
+                    "title": "In Ha Mood",
+                    "uri": "2Ve66zhx33PYaULBFkRVxj"
+                },
+                {
+                    "artist": "Ice Spice",
+                    "title": "Munch (Feelin’ U)",
+                    "uri": "1jOgJN75btuUONIdf57vHz"
+                }
+            ]
+        }
+    },
     "shamos-30th-september-2015": {
         "00": {
             "s0": [

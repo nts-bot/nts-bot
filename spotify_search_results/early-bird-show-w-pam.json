@@ -4373,6 +4373,634 @@
             ]
         }
     },
+    "early-bird-show-w-pam-2nd-march-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Aix Em Klemm",
+                    "title": "Sparkwood and Twentyone",
+                    "uri": "4yOmK4wIoi7VWAYIkg4cPG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aix Em Klemm",
+                    "title": "Sparkwood and Twentyone",
+                    "uri": "4yOmK4wIoi7VWAYIkg4cPG"
+                },
+                {
+                    "artist": "Aix Em Klemm",
+                    "title": "The Luxury of Dirt",
+                    "uri": "5Zwc20NK78KzGtgtNhOhUS"
+                },
+                {
+                    "artist": "Aix Em Klemm",
+                    "title": "The Girl With the Flesh Colored Crayon",
+                    "uri": "2RWxRXIiwbcKEaplXoplUv"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Francis Plagne",
+                    "title": "XI",
+                    "uri": "52c2BuSTKjyQDsolwZB9TX"
+                },
+                {
+                    "artist": "Francis Plagne",
+                    "title": "XII",
+                    "uri": "2o4jg82iisOumYHu9oG4z6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Francis Poulenc",
+                    "title": "Villageoises, FP 65: No. 2, Staccato",
+                    "uri": "6xzy2Q8tdHQFRUqsFsQBKF"
+                },
+                {
+                    "artist": "Francis Poulenc",
+                    "title": "Piano Concerto in C-Sharp Minor, FP 146: I. Allegretto commodo - Live",
+                    "uri": "6kg7bfwsTKzRqnBGGv4VqR"
+                },
+                {
+                    "artist": "Francis Poulenc",
+                    "title": "15 Improvisations, FP 170: No. 13 in A Minor",
+                    "uri": "2gypgzZAwtMG8sbkZ0GEVR"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Troth",
+                    "title": "Phare",
+                    "uri": "4N92mYGzWCFp8X925TUdSI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Troth",
+                    "title": "Phare",
+                    "uri": "4N92mYGzWCFp8X925TUdSI"
+                },
+                {
+                    "artist": "Kinder Records",
+                    "title": "Throat Chakra Activation (741 Hz)",
+                    "uri": "28W7aTw5YlT1Xa1bmAJfgR"
+                },
+                {
+                    "artist": "Float Waves",
+                    "title": "HAM - Throat Chakra - Truth",
+                    "uri": "3I5l2Ulolh87Hnt7RoGDKY"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Richard Wagner",
+                    "title": "Tristan und Isolde, WWV 90: Prelude",
+                    "uri": "6OY34zgO90pHfk4g54zIHr"
+                },
+                {
+                    "artist": "Richard Wagner",
+                    "title": "Wagner: Tristan und Isolde: Prelude to Act 3",
+                    "uri": "1AmtjiQt97lpA5inWCdzIy"
+                },
+                {
+                    "artist": "Richard Wagner",
+                    "title": "Tristan und Isolde, WWV 90 / Act 3: Prelude - Live",
+                    "uri": "6w1R2g4HFGoEYmBdPekhHq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Richard Wagner",
+                    "title": "Wagner: Tristan und Isolde: Prelude to Act 3",
+                    "uri": "1AmtjiQt97lpA5inWCdzIy"
+                },
+                {
+                    "artist": "Richard Wagner",
+                    "title": "Wagner: Tristan und Isolde: Prelude to Act 1",
+                    "uri": "59gpDDaxxRhcpQAgnrHp1U"
+                },
+                {
+                    "artist": "Richard Wagner",
+                    "title": "Tristan und Isolde, WWV 90: Prelude",
+                    "uri": "6OY34zgO90pHfk4g54zIHr"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "David Edren",
+                    "title": "Canter and Gallop | 駈歩と襲歩",
+                    "uri": "6R8oYQ8ZlgRNMBhqXNMylI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "David & Jenieva",
+                    "title": "Eternity",
+                    "uri": "0oMzqP0JHYWP2xC3NqbH4q"
+                },
+                {
+                    "artist": "David Elo",
+                    "title": "The Search",
+                    "uri": "0peigjQiQdgHe2JvdfMxSJ"
+                },
+                {
+                    "artist": "David Deep",
+                    "title": "Art and Gallery",
+                    "uri": "31zIHZtZFHrrTNUldcRuZ6"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Moin",
+                    "title": "Foot Wrong",
+                    "uri": "5UygAFhpUKHOuBDu3e1OvG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Moin",
+                    "title": "Foot Wrong",
+                    "uri": "5UygAFhpUKHOuBDu3e1OvG"
+                },
+                {
+                    "artist": "Moin",
+                    "title": "Right is Alright, Wrong is to Belong",
+                    "uri": "2AkzUxAscto4cIeJSl2aBt"
+                },
+                {
+                    "artist": "Dietmar Wischmeyer",
+                    "title": "Moin - Live",
+                    "uri": "1mQlFUFi6AxoviFY4LxipP"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Ralph Towner",
+                    "title": "Sand",
+                    "uri": "78sqlcAs0wUotSLSzieIFk"
+                },
+                {
+                    "artist": "Ralph Towner",
+                    "title": "Sand",
+                    "uri": "5rFtS3r0vRIVD3ZhI8MY6F"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ralph Towner",
+                    "title": "Sacred Place",
+                    "uri": "0od5R0qVfDsWJKa3SL2wa9"
+                },
+                {
+                    "artist": "Ralph Towner",
+                    "title": "Father Time",
+                    "uri": "4GuzBvxkGq1MHaeYVWO7dL"
+                },
+                {
+                    "artist": "Ralph Towner",
+                    "title": "Two Poets",
+                    "uri": "6txdEwJYDmPKLijFTPTSlI"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Reiko Kudo",
+                    "title": "Kaihatsu-san",
+                    "uri": "6cdVsMXU7NCJJl417dE593"
+                },
+                {
+                    "artist": "Reiko Kudo",
+                    "title": "Emi & Mrs Evans",
+                    "uri": "3pxUHmRBUsAW4Wxus5LKJH"
+                },
+                {
+                    "artist": "Konomi Suzuki",
+                    "title": "Redo",
+                    "uri": "0WjYHf18yTqGEQjLRHLNWp"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Daniel Blumberg",
+                    "title": "On&On",
+                    "uri": "1mFx19bT1ibx37gQFnnPJ5"
+                },
+                {
+                    "artist": "Daniel Blumberg",
+                    "title": "On&On&On",
+                    "uri": "4mW5Cae3OTt0zmSBJRbk2u"
+                },
+                {
+                    "artist": "Daniel Blumberg",
+                    "title": "On&On&On&On&On",
+                    "uri": "09Rvtk2bBS56NDrViyor1T"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Daniel Blume",
+                    "title": "On The Side",
+                    "uri": "1JSUNxoq3eQ8fJhD0natPB"
+                },
+                {
+                    "artist": "Cartoon",
+                    "title": "On & On - Cartoon x HAVSUN x WAYOUT Remix",
+                    "uri": "5CpcibG8alDQ0OXp3A98bX"
+                },
+                {
+                    "artist": "Cheat Codes",
+                    "title": "Who's Got Your Love",
+                    "uri": "47dABAPyBgKB3iQCrC4Vrv"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Slipstream",
+                    "title": "She Passes By",
+                    "uri": "6ykDy2EIw3LojaxnyA8euR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Four80East",
+                    "title": "Slipstream",
+                    "uri": "0v0aNSpU5UveHWSEF7Yltj"
+                },
+                {
+                    "artist": "Structure",
+                    "title": "Slipstream",
+                    "uri": "0lYJDmRLvn9m7ZTJi7S5gs"
+                },
+                {
+                    "artist": "Mitch Murder",
+                    "title": "Slipstream",
+                    "uri": "0QOQ6dwrOdhDaZvQlK3Pqi"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "UNNA Originals",
+                    "title": "Sandstorm",
+                    "uri": "1G0SK0evMvlJ40xlfmHUUR"
+                },
+                {
+                    "artist": "Original StarKid Cast of Twisted",
+                    "title": "Sands of Time - Golden Rule",
+                    "uri": "0qwjIXXneBqWKL8iRYxcR1"
+                },
+                {
+                    "artist": "Original SSCO",
+                    "title": "Black Sands",
+                    "uri": "5h7ZDNhaTC1RKKOTKQAEUn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Maija Kaunismaa",
+                    "title": "Last of the Running People",
+                    "uri": "3g8I8tR8bktMnho4n2R2P6"
+                },
+                {
+                    "artist": "Tristan Alric",
+                    "title": "Chapter 4 : Mysterious Lost Sands",
+                    "uri": "36zaVF9FhyPR6Bka1KwRja"
+                },
+                {
+                    "artist": "Sheila Withmore",
+                    "title": "Sand",
+                    "uri": "78qaTDD6WW9NnnaFJfP6wa"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Yon-Jin Jeong",
+                    "title": "Main Title",
+                    "uri": "1jUvcKkEiYsCtmUoJXDWJc"
+                },
+                {
+                    "artist": "Yon-Jin Jeong",
+                    "title": "His Recollection",
+                    "uri": "6LZbu9fomFbyJ1lOg4tpPX"
+                },
+                {
+                    "artist": "Yoon Hye Sun",
+                    "title": "월화수목금토일",
+                    "uri": "49zbBVuTRkQj0oSdyydm0W"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alda Célia",
+                    "title": "Verdadeiro Adorador",
+                    "uri": "2BFkC1xYavuNuUrCSF8j0R"
+                },
+                {
+                    "artist": "Alda Célia",
+                    "title": "Verdadeiro Adorador (Ao Vivo)",
+                    "uri": "7gwIF1l3eTmtp3j3PL7PQ3"
+                },
+                {
+                    "artist": "NGEE",
+                    "title": "Omertà",
+                    "uri": "1ijNqmj1EEgnxMBVT23DN0"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gaetano Donizetti",
+                    "title": "Lucia di Lammermoor, Act III, Scene II: No. 14a Scena ed Aria \"Oh giusto cielo!\"",
+                    "uri": "1PsKjxmXu1gwsFwOjnTNSq"
+                },
+                {
+                    "artist": "Gaetano Donizetti",
+                    "title": "Lucia di Lammermoor / Act 3: Oh, giusto cielo!...Il dolce suono",
+                    "uri": "6oPsiaG4ixTMtoHERVx7o9"
+                },
+                {
+                    "artist": "Gaetano Donizetti",
+                    "title": "Lucia di Lammermoor, Act III: O giusto cielo!",
+                    "uri": "1ZNDIQmcw7jLLPMejhQL8j"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "CS + Kreme",
+                    "title": "Saint",
+                    "uri": "57N5g23a2Ml3UcW9pdECAg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "CS + Kreme",
+                    "title": "Saint",
+                    "uri": "57N5g23a2Ml3UcW9pdECAg"
+                },
+                {
+                    "artist": "Rae Khalil",
+                    "title": "FATHER",
+                    "uri": "2OqOhH9Dgq0gTaX1yvs8Et"
+                },
+                {
+                    "artist": "Camille Saint-Saëns",
+                    "title": "IV. Der Schwan",
+                    "uri": "3jy4rrS0kKlxYwGzhR9A20"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Chris Rea",
+                    "title": "On the Beach - Special Extended Remix; 2019 Remaster",
+                    "uri": "6grfk2Suf7M9z86ZST9tjZ"
+                },
+                {
+                    "artist": "Chris Rea",
+                    "title": "On the Beach - Special Remix",
+                    "uri": "6PCWzTvoFJvxMvMhXjyrXM"
+                },
+                {
+                    "artist": "Chris Rea",
+                    "title": "On the Beach - Special Remix",
+                    "uri": "6kSeQZOtGN0gNHfY3CqQib"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chris Rea",
+                    "title": "On the Beach",
+                    "uri": "5QrNXvTQEuBb5iLoIAAuvk"
+                },
+                {
+                    "artist": "Chris Rea",
+                    "title": "On the Beach",
+                    "uri": "0fJMNr4wzaVWNM2nb9hdqx"
+                },
+                {
+                    "artist": "Chris Rea",
+                    "title": "Driving Home for Christmas - 2019 Remaster",
+                    "uri": "27qAMKrDdKEs8HDXcvR24R"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Vivian Jones",
+                    "title": "Sugar Love",
+                    "uri": "5YcA3MVrMBTQoinzhFZbIK"
+                },
+                {
+                    "artist": "La-Teeze",
+                    "title": "Jamaica Love",
+                    "uri": "0cXhH0bgYkSD41Rj2Kooo6"
+                },
+                {
+                    "artist": "Alaine",
+                    "title": "Sugar Love (feat. Tarrus Riley)",
+                    "uri": "3JVgRZUSq8sywCK6FvtrO8"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Daft Punk",
+                    "title": "Something About Us",
+                    "uri": "1NeLwFETswx8Fzxl2AFl91"
+                },
+                {
+                    "artist": "Daft Punk",
+                    "title": "Something About Us",
+                    "uri": "7KnSOsvmbc6xeIWVKUXzLd"
+                },
+                {
+                    "artist": "Daft Punk",
+                    "title": "Something About Us (Love Theme from Interstella 5555)",
+                    "uri": "3SfSYQLgcrGajPkU5EEr2E"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Daft Punk",
+                    "title": "Something About Us",
+                    "uri": "1NeLwFETswx8Fzxl2AFl91"
+                },
+                {
+                    "artist": "Daft Punk",
+                    "title": "Something About Us (Love Theme from Interstella 5555)",
+                    "uri": "3SfSYQLgcrGajPkU5EEr2E"
+                },
+                {
+                    "artist": "No Angels",
+                    "title": "Something About Us",
+                    "uri": "2SNpGQnLIzZdqey1LIW0T3"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "The Detroit Escalator Co.",
+                    "title": "Gathering Light",
+                    "uri": "5nPP3wz9e0PYzadUqS5mT2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Detroit Escalator Co.",
+                    "title": "Gathering Light",
+                    "uri": "5nPP3wz9e0PYzadUqS5mT2"
+                },
+                {
+                    "artist": "The Detroit Escalator Co.",
+                    "title": "The Inverted Man (Dreaming)",
+                    "uri": "0VEmCJYTCFmfbyTd8jGT8h"
+                },
+                {
+                    "artist": "The Detroit Escalator Co.",
+                    "title": "Folding Space",
+                    "uri": "560GlNHyrF3G1BHOZyugX4"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Time Cow",
+                    "title": "Elephant Man",
+                    "uri": "7iY8hCiK9LR0omeGo21Z9J"
+                },
+                {
+                    "artist": "Roc Marciano",
+                    "title": "Quantum Leap",
+                    "uri": "3ujsJyNJl1zxvS4G9JhJtE"
+                },
+                {
+                    "artist": "Elephant Man",
+                    "title": "Jook Gal (Wine Wine) [feat. Twista, Young Bloodz & Kiprich] - Head Gawn Version",
+                    "uri": "23TTbRZkQHjVcwtNFF4hQF"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Nina Hagen",
+                    "title": "African Reggae",
+                    "uri": "3tSBl9F29fNMp4WEsPDXiM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nina Hagen",
+                    "title": "African Reggae",
+                    "uri": "3tSBl9F29fNMp4WEsPDXiM"
+                },
+                {
+                    "artist": "Nina Hagen",
+                    "title": "Du hast den Farbfilm vergessen",
+                    "uri": "2GsdNfuxE4tHS1Hj5hfVVf"
+                },
+                {
+                    "artist": "Nina Hagen",
+                    "title": "Du hast den Farbfilm vergessen",
+                    "uri": "5x9YbePfdkPcY6HDT6cjlv"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Master Margherita",
+                    "title": "Soft Dub",
+                    "uri": "12O0vKKTk0szaDG0TaVa9z"
+                },
+                {
+                    "artist": "Acid Dub",
+                    "title": "Space Dub",
+                    "uri": "6wfdUHRMp2YoEOGKoR2qAS"
+                },
+                {
+                    "artist": "Berlin Boom Orchestra",
+                    "title": "Slow Dub - Aldubble Remix",
+                    "uri": "1ronvuDsLHY98c2SQHqvCQ"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Umberto Rosario Balsamo",
+                    "title": "Crepuscolo",
+                    "uri": "2vQMqcRP3lGbwxTgG6RNm4"
+                },
+                {
+                    "artist": "Umberto Rosario Balsamo",
+                    "title": "Crepuscolo",
+                    "uri": "1mZDsbctVhnnIJ3cO2GvEb"
+                },
+                {
+                    "artist": "Umberto Rosario Balsamo",
+                    "title": "Crepuscolo",
+                    "uri": "2QKrby3zwuea6yMBbnCUVF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Umberto Rosario Balsamo",
+                    "title": "Crepuscolo",
+                    "uri": "2vQMqcRP3lGbwxTgG6RNm4"
+                },
+                {
+                    "artist": "Piero Umiliani",
+                    "title": "Crepuscolo Sul Mare",
+                    "uri": "3c07yD1n2fRvcD9wY638hg"
+                },
+                {
+                    "artist": "Umberto Tozzi",
+                    "title": "Tu",
+                    "uri": "6Gbc24EJdvZgpY0b5pNxhA"
+                }
+            ]
+        }
+    },
     "early-bird-show-w-pam-9th-february-2023": {
         "00": {
             "s0": "",
