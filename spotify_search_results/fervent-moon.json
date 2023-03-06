@@ -26247,6 +26247,558 @@
             ]
         }
     },
+    "fervent-moon-3rd-march-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Fridge",
+                    "title": "Cut Up Piano & Xylophone",
+                    "uri": "05Nibpztiha49kIILw575E"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fridge",
+                    "title": "Cut Up Piano & Xylophone",
+                    "uri": "05Nibpztiha49kIILw575E"
+                },
+                {
+                    "artist": "Dusky",
+                    "title": "Fridge - KiNK Remix",
+                    "uri": "0sfTB8kBOGtFZm7s5VfRTX"
+                },
+                {
+                    "artist": "Cooper Alan",
+                    "title": "The Fridge",
+                    "uri": "1myMAYOXWQ6GbygLZSNK1I"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Etran de L'AÏr",
+                    "title": "Imouwizla",
+                    "uri": "5nGH0EQS0HkqfccbEZLrmj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Etran de L'AÏr",
+                    "title": "Imouwizla",
+                    "uri": "5nGH0EQS0HkqfccbEZLrmj"
+                },
+                {
+                    "artist": "Etran de L'AÏr",
+                    "title": "Adounia",
+                    "uri": "0oF0943hvTFkA9oNyjedeV"
+                },
+                {
+                    "artist": "Etran de L'AÏr",
+                    "title": "Toubouk Ine Chihoussay",
+                    "uri": "4dP3dZpo4sahSVrqMA2ilD"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "The Movers",
+                    "title": "Tau Special",
+                    "uri": "0FFe8GP7tYKS8UoZQRulGh"
+                },
+                {
+                    "artist": "The Movers",
+                    "title": "Tau Special",
+                    "uri": "1ZXFaH7MRsKBtbrCGusNnC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Movers",
+                    "title": "Tau Special",
+                    "uri": "0FFe8GP7tYKS8UoZQRulGh"
+                },
+                {
+                    "artist": "The Movers",
+                    "title": "Give Five or More",
+                    "uri": "7G2wDSQxyE9e46t0OyhaZt"
+                },
+                {
+                    "artist": "The Movers",
+                    "title": "2nd Avenue",
+                    "uri": "02STJjasT0mkttI3u1TkLK"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Maston",
+                    "title": "Les Monstres",
+                    "uri": "7tyLwQlUxEBRhyp40SqOFx"
+                },
+                {
+                    "artist": "Maston",
+                    "title": "Souvenir",
+                    "uri": "1XZFzWUsdHXeweeNxzAHel"
+                },
+                {
+                    "artist": "Maston",
+                    "title": "L'Eau Bleue",
+                    "uri": "5vORVJzuHJSUTb4VBCvhXO"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Yin Yin",
+                    "title": "Pingpxng",
+                    "uri": "5uaHxu2wJ4YRk37bHWtbTX"
+                },
+                {
+                    "artist": "Yin Yin",
+                    "title": "Pingpxng",
+                    "uri": "0qJ7h0jIc8PlUV8QqQdUBt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Yin Yin",
+                    "title": "Pingpxng",
+                    "uri": "5uaHxu2wJ4YRk37bHWtbTX"
+                },
+                {
+                    "artist": "HyunA&DAWN",
+                    "title": "PING PONG",
+                    "uri": "0Z99Xe1lGBmq60RwJ5YU18"
+                },
+                {
+                    "artist": "Enrique Iglesias",
+                    "title": "Do You Know? (The Ping Pong Song)",
+                    "uri": "4MloswMM3eu7dHZ7MOzW3i"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Manu Dibango",
+                    "title": "Groovy Flute",
+                    "uri": "672sXt55h2Ol2MTcbKR5Sw"
+                },
+                {
+                    "artist": "Manu Dibango",
+                    "title": "Soul Makossa",
+                    "uri": "21s0bjVrP7RtQskeUKZxOu"
+                },
+                {
+                    "artist": "Manu Dibango",
+                    "title": "Coconut",
+                    "uri": "5rJSFuBV3QBGTrywHJt5sA"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Shay Hazan",
+                    "title": "Remove the Talk",
+                    "uri": "0yCdTaqIReac8ZVXUzmxsu"
+                },
+                {
+                    "artist": "Shay Hazan",
+                    "title": "Remove the Talk",
+                    "uri": "3cibiSF2wifwmDiKdlUC61"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Shay Hazan",
+                    "title": "Remove the Talk",
+                    "uri": "0yCdTaqIReac8ZVXUzmxsu"
+                },
+                {
+                    "artist": "Shay Hazan",
+                    "title": "Bob Dealer",
+                    "uri": "6ZkZuB3Rbg7zXcKVOBV1JM"
+                },
+                {
+                    "artist": "Shay Holland",
+                    "title": "Carllinet Islet",
+                    "uri": "3rSraBG3x623YyeTHu4OCC"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Wau Wau Collectif",
+                    "title": "Mouhamodou Lo and His Children",
+                    "uri": "13C1lzcxlpfgtXlON9de1Z"
+                },
+                {
+                    "artist": "Orchestra Baobab",
+                    "title": "Mouhamadou Bamba",
+                    "uri": "5QdcVm85PHGVXtA14LoG59"
+                },
+                {
+                    "artist": "MOUHAMED GRINE",
+                    "title": "GHAZALI",
+                    "uri": "1SYjg4Ff4aGzZVJKfK7OEA"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Robert Stillman",
+                    "title": "It's All Is",
+                    "uri": "0CbQpokPLu2TrHzLjv4snw"
+                },
+                {
+                    "artist": "Robert Stillman",
+                    "title": "It's All Is",
+                    "uri": "1P1TcpJUE7o7G1H8VeJTSK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Robert Stillman",
+                    "title": "It's All Is",
+                    "uri": "0CbQpokPLu2TrHzLjv4snw"
+                },
+                {
+                    "artist": "Robert Stillman",
+                    "title": "Cherry Ocean",
+                    "uri": "7uNuYRHVGsxBz5oSGaoM5X"
+                },
+                {
+                    "artist": "Robert Stillman",
+                    "title": "Self-Image",
+                    "uri": "0FsrYHnW4hc1tljmEmH2Iz"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Szun Waves",
+                    "title": "Exploding Upwards",
+                    "uri": "0sdMSMI1qtlMYtlv2jUkX4"
+                },
+                {
+                    "artist": "Szun Waves",
+                    "title": "Exploding Upwards",
+                    "uri": "7hI2vY8Pe38rbycTuAKJcA"
+                },
+                {
+                    "artist": "Szun Waves",
+                    "title": "Exploding Upwards",
+                    "uri": "6E8nQTenGhStuNy5VNaaoj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Szun Waves",
+                    "title": "Exploding Upwards",
+                    "uri": "0sdMSMI1qtlMYtlv2jUkX4"
+                },
+                {
+                    "artist": "Szun Waves",
+                    "title": "In The Moon House",
+                    "uri": "6NRG419i2FiNTlmVYlx9vU"
+                },
+                {
+                    "artist": "Szun Waves",
+                    "title": "New Universe",
+                    "uri": "1UNviAQZI2IlC7rKotOOKJ"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Daniel Villarreal",
+                    "title": "Uncanny",
+                    "uri": "41Ys7DQc6hMJAZNZrR9Lql"
+                },
+                {
+                    "artist": "Daniel Villarreal",
+                    "title": "Uncanny",
+                    "uri": "1eyCqMGT0zw3fw7vloFJWi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Daniel Villarreal",
+                    "title": "Uncanny",
+                    "uri": "41Ys7DQc6hMJAZNZrR9Lql"
+                },
+                {
+                    "artist": "Daniel Villarreal",
+                    "title": "In/On",
+                    "uri": "6XwmYIGQ72gqhatC4ugYVr"
+                },
+                {
+                    "artist": "Daniel Villarreal",
+                    "title": "Patria",
+                    "uri": "49CxAYXeYYUcyoi1xqirA9"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "S.Maharba",
+                    "title": "S.I.T.W.S.M.",
+                    "uri": "3TOCusZv7Kcsoop4HDgvfw"
+                },
+                {
+                    "artist": "James Taylor",
+                    "title": "Something In The Way She Moves - Remastered",
+                    "uri": "6BrgqDrzV1EbUu3KWZOQjv"
+                },
+                {
+                    "artist": "James Taylor",
+                    "title": "Something in the Way She Moves",
+                    "uri": "69foTA1ElY03DJQb7bbA0e"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Vegyn",
+                    "title": "Big Fun Never Ending Nightmare [75 BPM]",
+                    "uri": "5mWW2kP2PSkTo2CsCJQZD9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Vegyn",
+                    "title": "Big Fun Never Ending Nightmare [75 BPM]",
+                    "uri": "5mWW2kP2PSkTo2CsCJQZD9"
+                },
+                {
+                    "artist": "Vegyn",
+                    "title": "Debold",
+                    "uri": "3pwR6SvdZq6GVpmSDz41QQ"
+                },
+                {
+                    "artist": "Years & Years",
+                    "title": "Starstruck - Vegyn Remix",
+                    "uri": "1DuPTyxPS2oiZMgLAF11gj"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Cos",
+                    "title": "Oostend, Oostend",
+                    "uri": "3znFigZPaEXcsgh8zbslHz"
+                },
+                {
+                    "artist": "Cos",
+                    "title": "Oostend, Oostend",
+                    "uri": "4xtC8T068HkZ0Fia3dZ6CO"
+                }
+            ],
+            "s1": ""
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Ben Marc",
+                    "title": "Way We Are",
+                    "uri": "7BL0yd3SW6TgTxPV6ORWQI"
+                },
+                {
+                    "artist": "Ben Marc",
+                    "title": "Way We Are",
+                    "uri": "5Pf4YgkRuedvPwSeto9Ke0"
+                },
+                {
+                    "artist": "Ben Marc",
+                    "title": "Way We Are",
+                    "uri": "56m9DNHwz6rVKVxNrAowxC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ben Marc",
+                    "title": "Way We Are",
+                    "uri": "7BL0yd3SW6TgTxPV6ORWQI"
+                },
+                {
+                    "artist": "Ben Marc",
+                    "title": "Mustard",
+                    "uri": "5ScB5asz6n3Qepj9qS5OjU"
+                },
+                {
+                    "artist": "Ben Marc",
+                    "title": "Give Me Time",
+                    "uri": "69Oe0DVgQPL3S6ooeA40xP"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Ben LaMar Gay",
+                    "title": "Mestre Candeia's Denim Hat",
+                    "uri": "4BIp1Vqrmvfaw8sFAmRXl4"
+                },
+                {
+                    "artist": "Ben LaMar Gay",
+                    "title": "Mestre Candeia's Denim Hat",
+                    "uri": "4lVFiFPtCYcWTPj5dOSPZA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ben LaMar Gay",
+                    "title": "Mestre Candeia's Denim Hat",
+                    "uri": "4BIp1Vqrmvfaw8sFAmRXl4"
+                },
+                {
+                    "artist": "Ben Laver",
+                    "title": "Her",
+                    "uri": "1h5J39FupEgSwZn43lSqgp"
+                },
+                {
+                    "artist": "Ben Laver",
+                    "title": "KIN",
+                    "uri": "23E7NEU613xv62Z0m1vz5b"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rahill",
+                    "title": "Aht Uh Mi Hed",
+                    "uri": "71R13HB10hOg2xi5TJGSpf"
+                },
+                {
+                    "artist": "Rahill",
+                    "title": "Haenim",
+                    "uri": "2Ks3jzcZHYtooBgAMixFzG"
+                },
+                {
+                    "artist": "Rahul",
+                    "title": "ANECDOTE",
+                    "uri": "6dorpHqoBlF2fgY8BqPoVr"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Nala Sinephro",
+                    "title": "Space 3",
+                    "uri": "4TS1SMLEEhjKr6qeKjfq5z"
+                },
+                {
+                    "artist": "Nala Sinephro",
+                    "title": "Space 3",
+                    "uri": "4thtPg86ELKBMbqmaXKWQO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nala Sinephro",
+                    "title": "Space 3",
+                    "uri": "4TS1SMLEEhjKr6qeKjfq5z"
+                },
+                {
+                    "artist": "Nala Sinephro",
+                    "title": "Space 1",
+                    "uri": "5xYR2G6YOEzX2X9asFUrOE"
+                },
+                {
+                    "artist": "Nala Sinephro",
+                    "title": "Space 2",
+                    "uri": "3I6J7zLXCGDwqm0PaNKqWI"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "The Field",
+                    "title": "From Here We Go Sublime",
+                    "uri": "50GjiqApQrBUcYs4EYpMfz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Field",
+                    "title": "From Here We Go Sublime",
+                    "uri": "50GjiqApQrBUcYs4EYpMfz"
+                },
+                {
+                    "artist": "Firstwave",
+                    "title": "Sublime",
+                    "uri": "0o2T56CRKV9hh4RS6PNaVN"
+                },
+                {
+                    "artist": "delo cloonz",
+                    "title": "Sublime",
+                    "uri": "0tNTdKj1k7FQTXRvvcDFc5"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Elori Saxl",
+                    "title": "Moss II",
+                    "uri": "7mYRf9giLNW3IcocHXZ1yJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Elori Saxl",
+                    "title": "Moss II",
+                    "uri": "7mYRf9giLNW3IcocHXZ1yJ"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Amon Tobin",
+                    "title": "Nova",
+                    "uri": "0lcfJc4pG6xnNmrUlZ9232"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Amon Tobin",
+                    "title": "Nova",
+                    "uri": "0lcfJc4pG6xnNmrUlZ9232"
+                },
+                {
+                    "artist": "Amon Tobin",
+                    "title": "Slowly",
+                    "uri": "15J6PrzKaLtvw0dBr9sq72"
+                },
+                {
+                    "artist": "Amon Tobin",
+                    "title": "Stoney Street",
+                    "uri": "0GeezbrS87YZgXuyksdg2q"
+                }
+            ]
+        }
+    },
     "fervent-moon-3rd-may-2018": {
         "00": {
             "s0": "",

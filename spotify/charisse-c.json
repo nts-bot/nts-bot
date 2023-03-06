@@ -101,15 +101,17 @@
         },
         "05": {
             "artist": "Josiah De Disciple",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Manuel",
-            "trackid": "6hXLZ20XG2tvjhG4HXocLp"
+            "trackid": "6hXLZ20XG2tvjhG4HXocLp",
+            "uri": ""
         },
         "06": {
             "artist": "Vuthea",
-            "ratio": 3,
+            "ratio": -1,
             "title": "កាចម្ល៉េះនាង",
-            "trackid": "2NY5FRtQliOfSYtXFufUuj"
+            "trackid": "2NY5FRtQliOfSYtXFufUuj",
+            "uri": ""
         },
         "07": {
             "artist": "Vigro Deep",
@@ -125,15 +127,17 @@
         },
         "09": {
             "artist": "3PK",
-            "ratio": 4,
+            "ratio": -1,
             "title": "sleazy slow fuk tempo (Instrumental)",
-            "trackid": "7JvjTIJjm099AuLiEKlwYw"
+            "trackid": "7JvjTIJjm099AuLiEKlwYw",
+            "uri": ""
         },
         "10": {
             "artist": "Heymen",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Pounding Drum - Rivaz Remix",
-            "trackid": "7DbU6iiHCHx2TEzq5WcvBh"
+            "trackid": "7DbU6iiHCHx2TEzq5WcvBh",
+            "uri": ""
         },
         "11": {
             "artist": "Vigro Deep",
@@ -576,6 +580,93 @@
             "ratio": 9,
             "title": "U Don't Know Bout Me",
             "trackid": "0x9RZJcAl2g4W5nffvgZA7"
+        }
+    },
+    "charisse-c-3rd-february-2023": {
+        "00": {
+            "artist": "K.O",
+            "ratio": 5,
+            "title": "SETE (feat. Young Stunna & Blxckie)",
+            "trackid": "5mXZz0tXIToxu3HRohrdSK"
+        },
+        "01": {
+            "artist": "Felo Le Tee",
+            "ratio": 3,
+            "title": "66",
+            "trackid": "1b4kqxvf4kFuB7ACj9Lvve"
+        },
+        "02": {
+            "artist": "DaMoneyBeat",
+            "ratio": 4,
+            "title": "MellowYellow",
+            "trackid": "3xPF09C2Q7FWgqYgcGCy4t"
+        },
+        "03": {
+            "artist": "Ice Beats Slide",
+            "ratio": 4,
+            "title": "JAGERMEISTER",
+            "trackid": "3VBwoaePYGdOmG1YHgGOHi"
+        },
+        "04": {
+            "artist": "Kabza De Small",
+            "ratio": 9,
+            "title": "Rekere 4 (Reloaded) (feat. DJ Maphorisa)",
+            "trackid": "3YIiUgzweY28enRsqSLDAo"
+        },
+        "05": {
+            "artist": "Bapti",
+            "ratio": -1,
+            "title": "Unknown",
+            "trackid": "2V48LfT5x1dRUpnHjEJpaE",
+            "uri": ""
+        },
+        "06": {
+            "artist": "Mfr Souls",
+            "ratio": 9,
+            "title": "Dlala Mshana",
+            "trackid": "79dESJ6YfZBoBmdxOfLuCx"
+        },
+        "07": {
+            "artist": "9umba",
+            "ratio": 4,
+            "title": "uMlando",
+            "trackid": "03GRsjCSytQo3LuspJayKT"
+        },
+        "08": {
+            "artist": "Bonga",
+            "ratio": 4,
+            "title": "Mona Ki Ngi Xica",
+            "trackid": "08fsjbOK2ruSfbBTcmEZHZ"
+        },
+        "09": {
+            "artist": "Dlala Regal",
+            "ratio": 9,
+            "title": "Mpolaye",
+            "trackid": "0TVYnw5g6Dz7Prt9qbrpa8"
+        },
+        "10": {
+            "artist": "Kabza De Small",
+            "ratio": 9,
+            "title": "REKERE YA DUBAI",
+            "trackid": "68SbALvyu51rvUjbhF62C3"
+        },
+        "11": {
+            "artist": "OVI WOOD",
+            "ratio": 3,
+            "title": "MY LIFE",
+            "trackid": "4nxYeTbcm54D05fMDYf6zU"
+        },
+        "12": {
+            "artist": "The Essence",
+            "ratio": 4,
+            "title": "Esspresso",
+            "trackid": "6hDjMiL4eL5a2b6XWWwcyH"
+        },
+        "13": {
+            "artist": "TeraphoniQue",
+            "ratio": 9,
+            "title": "MOB TIES",
+            "trackid": "6UqPgAXiEWQ6ufr6SsrYrn"
         }
     },
     "charisse-c-4th-march-2022": {

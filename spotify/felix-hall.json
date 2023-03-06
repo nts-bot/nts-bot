@@ -6640,9 +6640,10 @@
         },
         "08": {
             "artist": "Rmtrad",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Dany - Instrumental",
-            "trackid": "3OyaVTnpRPVyEaQZ9k3kqd"
+            "trackid": "3OyaVTnpRPVyEaQZ9k3kqd",
+            "uri": ""
         },
         "09": {
             "artist": "Dusk Records",
@@ -8130,15 +8131,17 @@
         },
         "10": {
             "artist": "Anthony Naples",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Entouré",
-            "trackid": "0HRTQZpPLcmymDEuok72F3"
+            "trackid": "0HRTQZpPLcmymDEuok72F3",
+            "uri": ""
         },
         "11": {
             "artist": "DJ Python",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Angel",
-            "trackid": "7dFS1FBiGkZpEYLLf6Y54X"
+            "trackid": "7dFS1FBiGkZpEYLLf6Y54X",
+            "uri": ""
         },
         "12": {
             "artist": "Avenue 001",
@@ -8166,15 +8169,17 @@
         },
         "16": {
             "artist": "Luis Miguélez",
-            "ratio": 5,
+            "ratio": -1,
             "title": "I Love You - Unreleased Track",
-            "trackid": "5WpKWKjfozCbzFPiDh8Kgd"
+            "trackid": "5WpKWKjfozCbzFPiDh8Kgd",
+            "uri": ""
         },
         "17": {
             "artist": "Varkulije",
-            "ratio": 7,
+            "ratio": -1,
             "title": "Narcissist",
-            "trackid": "76FbTaJJxf3gldyXpLZ7Df"
+            "trackid": "76FbTaJJxf3gldyXpLZ7Df",
+            "uri": ""
         },
         "18": {
             "artist": "Lunacy",
@@ -9176,9 +9181,10 @@
         },
         "22": {
             "artist": "Yameii Online",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Yameii Vs. The World",
-            "trackid": "2DcbKbERz9dTe4pYNqgbaC"
+            "trackid": "2DcbKbERz9dTe4pYNqgbaC",
+            "uri": ""
         },
         "23": {
             "artist": "Ñengo Flow",
@@ -11593,6 +11599,196 @@
             "ratio": 9,
             "title": "Pick Up The Pieces",
             "trackid": "0RPxFnAzMx6O6P6DiCE2Hq"
+        }
+    },
+    "felix-hall-3rd-march-2023": {
+        "00": {
+            "artist": "Dan Awy",
+            "ratio": 3,
+            "title": "Clearance",
+            "trackid": "2rgLD7uyW4vmHsWptsALZx"
+        },
+        "01": {
+            "artist": "Seeed",
+            "ratio": 4,
+            "title": "Riddim No 1",
+            "trackid": "1ooatRQWNtl4jB7hQoanFz"
+        },
+        "02": {
+            "artist": "Skillibeng",
+            "ratio": 9,
+            "title": "Coke",
+            "trackid": "0OTbL9Oa4FDYuP7uMeA140"
+        },
+        "03": {
+            "artist": "Erup",
+            "ratio": 9,
+            "title": "Click Mi Finger",
+            "trackid": "0cB3PmOkBRTW0afu5Z4x0K"
+        },
+        "04": {
+            "artist": "Vybz Kartel",
+            "ratio": 4,
+            "title": "Summer Tiime",
+            "trackid": "4jGE3Ct8rgMZQgJshj5Bdp"
+        },
+        "05": {
+            "artist": "Vybz Kartel",
+            "ratio": 5,
+            "title": "Summer Tiime",
+            "trackid": "4jGE3Ct8rgMZQgJshj5Bdp"
+        },
+        "06": {
+            "artist": "Mr Eazi",
+            "ratio": -1,
+            "title": "Lento",
+            "trackid": "2XghxCSGfhpGR2B3ahQXVr",
+            "uri": ""
+        },
+        "07": {
+            "artist": "Ivy Queen",
+            "ratio": 9,
+            "title": "Guillaera",
+            "trackid": "7fF9yUlW2lYxxlOr2iHs5R"
+        },
+        "08": {
+            "artist": "TROYTON & DADDY REDS",
+            "ratio": 3,
+            "title": "Intro",
+            "trackid": "1gOxVETTvLQr78GAPA7zhR"
+        },
+        "09": {
+            "artist": "Beenie Man",
+            "ratio": 9,
+            "title": "Sign Me Up",
+            "trackid": "49Q9rDs48sopEndYq9hVnm"
+        },
+        "10": {
+            "artist": "BNXN fka Buju",
+            "ratio": 4,
+            "title": "Testimony",
+            "trackid": "5L845uQOeyOSSAhGPFEmLc"
+        },
+        "11": {
+            "artist": "Tommy Trash",
+            "ratio": 3,
+            "title": "Cascade [Mix Cut] - Original Mix",
+            "trackid": "5eyYRuio6jm2bBtC1T2h7N"
+        },
+        "12": {
+            "artist": "SiM",
+            "ratio": 3,
+            "title": "Under the Tree",
+            "trackid": "7qKXSF8MilgyiL52oq1AA0"
+        },
+        "13": {
+            "artist": "Sujeto Oro 24",
+            "ratio": 4,
+            "title": "No Tamo En Ti",
+            "trackid": "45zQq7gIrFygmOAjvjQpPe"
+        },
+        "14": {
+            "artist": "Ceky Viciny",
+            "ratio": 9,
+            "title": "Nataly",
+            "trackid": "05lNOE0iWEcHRFD2lZuZZE"
+        },
+        "15": {
+            "artist": "El Shick",
+            "ratio": 9,
+            "title": "Pa Prendelo - Remix",
+            "trackid": "5VaHciFCRbV5meN3VobSwj"
+        },
+        "16": {
+            "artist": "DILO TN",
+            "ratio": -1,
+            "title": "Klick Klack",
+            "trackid": "7raa0xoUBTktKwwdxu2qgM",
+            "uri": ""
+        },
+        "17": {
+            "artist": "Yomille Omar",
+            "ratio": 4,
+            "title": "Esta es la Musica",
+            "trackid": "0KTkGqiOhaXlEH4UkN9rkj"
+        },
+        "18": {
+            "artist": "Sherman Smith",
+            "ratio": 4,
+            "title": "Pal Muro",
+            "trackid": "62JKwv9Xiz8NkyDGnddNaR"
+        },
+        "19": {
+            "artist": "NANA LE VRAI",
+            "ratio": 3,
+            "title": "Calle Ocho",
+            "trackid": "3tm09dI0IdFkPpBz6SuFCh"
+        },
+        "20": {
+            "artist": "Angel Dior",
+            "ratio": 9,
+            "title": "A I O",
+            "trackid": "2eJFFzezwWHCztF4cLKmB0"
+        },
+        "21": {
+            "artist": "El Alfa",
+            "ratio": 3,
+            "title": "Gogo Dance",
+            "trackid": "6riuMNiPqRmE4LPJZGzIuv"
+        },
+        "22": {
+            "artist": "Ward 21",
+            "ratio": 3,
+            "title": "Og Kush",
+            "trackid": "0xU4GopIZpf2axiRynv3xi"
+        },
+        "23": {
+            "artist": "Busy Signal",
+            "ratio": 9,
+            "title": "Step Out",
+            "trackid": "5WaFbatyS9ON8DRxNWv4SA"
+        },
+        "24": {
+            "artist": "T.O.K",
+            "ratio": 0,
+            "title": "Shubb Out",
+            "trackid": "6q49CeDKOXOJjzYwDwnnHG"
+        },
+        "25": {
+            "artist": "FLAVAONE",
+            "ratio": 4,
+            "title": "Baddest Ting",
+            "trackid": "30hy263UDkKSFJqjeyHdvL"
+        },
+        "26": {
+            "artist": "Heart",
+            "ratio": 4,
+            "title": "Alone",
+            "trackid": "54b8qPFqYqIndfdxiLApea"
+        },
+        "27": {
+            "artist": "Mad Anthony",
+            "ratio": 3,
+            "title": "Running from the Sun",
+            "trackid": "6gyMCiOhZOtRP5JE6MeQoZ"
+        },
+        "28": {
+            "artist": "DJ Nelson",
+            "ratio": 9,
+            "title": "Cochinear",
+            "trackid": "60QXmziHwZ4zviPrWGPZy6"
+        },
+        "29": {
+            "artist": "Wayne Wade",
+            "ratio": 5,
+            "title": "Lady",
+            "trackid": "1hCohpxXi6GDJQ85PN70ma"
+        },
+        "30": {
+            "artist": "Ivy Queen",
+            "ratio": 9,
+            "title": "Si una Vez",
+            "trackid": "4qTJOOkBP6Rxj2V8lMBSyE"
         }
     },
     "felix-hall-4th-february-2020": {

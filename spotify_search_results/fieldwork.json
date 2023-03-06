@@ -45358,6 +45358,653 @@
             "s1": ""
         }
     },
+    "fieldwork-4th-march-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Chas Smith",
+                    "title": "Beatrix",
+                    "uri": "5jeMynaWm7LqQzzbSU7t7A"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cocteau Twins",
+                    "title": "Beatrix",
+                    "uri": "00kG2B5W9MQYdPxrICYhNg"
+                },
+                {
+                    "artist": "Westend Jazz Trio",
+                    "title": "Beatrice",
+                    "uri": "30qPlOpLeJWD1mASyON1po"
+                },
+                {
+                    "artist": "Hydelic",
+                    "title": "Always Been but Never Dreamed",
+                    "uri": "0T4pRzSKGRCtq7ZqA3RHdV"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Happy Go Licky",
+                    "title": "Twist And Shout",
+                    "uri": "2fQIMg2m5kv0L47r3KB5x8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Paul Evans",
+                    "title": "Happy-Go-Lucky-Me",
+                    "uri": "18osa1s3PwYRkxM8ARgLnN"
+                },
+                {
+                    "artist": "Dixon Music",
+                    "title": "Happy Go Lucky (Piano Master) - Original Mix",
+                    "uri": "0KxGGtWwBC0BcPKmJzifGS"
+                },
+                {
+                    "artist": "Polarkreis 18",
+                    "title": "Happy Go Lucky",
+                    "uri": "7cxcNdIHVVZeCwv1yUKsAh"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Squirrel Bait",
+                    "title": "Sun God",
+                    "uri": "4zJA972ZtlXNvVMU4QMqh2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Squirrel Bait",
+                    "title": "Sun God",
+                    "uri": "4zJA972ZtlXNvVMU4QMqh2"
+                },
+                {
+                    "artist": "Johan Glössner",
+                    "title": "The Squirrel Song",
+                    "uri": "6IdF2H9e1JmMyewllRUqhX"
+                },
+                {
+                    "artist": "2 Guys n the Parque",
+                    "title": "S.I.M.P. (Squirrels in My Pants)",
+                    "uri": "7ymrbUUrrqvUKBMmdRvieZ"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Rites of Spring",
+                    "title": "Drink Deep",
+                    "uri": "6h4hUbEfzf0onI5atQD5nl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rites of Spring",
+                    "title": "Drink Deep",
+                    "uri": "6h4hUbEfzf0onI5atQD5nl"
+                },
+                {
+                    "artist": "Igor Stravinsky",
+                    "title": "The Rite of Spring: Part One: Adoration of the Earth: Introduction",
+                    "uri": "1MiWGSGDC5mGoP3MNclZ7s"
+                },
+                {
+                    "artist": "Igor Stravinsky",
+                    "title": "The Rite of Spring: Part One: Adoration of the Earth: The Augurs of Spring - Dance of the Young Girls",
+                    "uri": "5MSHxf0zVSajZknoxJC9Nj"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Unwound",
+                    "title": "We Invent You",
+                    "uri": "7EMPUKxTyyGEPud35Pi4dv"
+                },
+                {
+                    "artist": "Unwound",
+                    "title": "We Invent You",
+                    "uri": "3aDBYQZPHwPm5peQQwM2bB"
+                },
+                {
+                    "artist": "Unwound",
+                    "title": "We Invent You",
+                    "uri": "6I6ZT4e8x5FCvIv6WAaVu8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Unwound",
+                    "title": "We Invent You",
+                    "uri": "7EMPUKxTyyGEPud35Pi4dv"
+                },
+                {
+                    "artist": "Unwound",
+                    "title": "Corpse Pose",
+                    "uri": "1kDZq29NLE2RRZ9mp8LxVe"
+                },
+                {
+                    "artist": "Unwound",
+                    "title": "Look a Ghost",
+                    "uri": "32s2Ym7GFW4u4s3tT2bfZv"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Bowery Electric",
+                    "title": "Empty Words",
+                    "uri": "330w7iBKrHxlJwx3WMdHVr"
+                },
+                {
+                    "artist": "Bowery Electric",
+                    "title": "Empty Words (Twisted Science Mix)",
+                    "uri": "6RTzE4grwYqCdcA2d9Arc0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bowery Electric",
+                    "title": "Empty Words",
+                    "uri": "330w7iBKrHxlJwx3WMdHVr"
+                },
+                {
+                    "artist": "Bowery Electric",
+                    "title": "Without Stopping",
+                    "uri": "4G316jgYbgxSagagLzEW7G"
+                },
+                {
+                    "artist": "Bowery Electric",
+                    "title": "Postscript",
+                    "uri": "3g1hBwztBeoT9dK9w16ENA"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Quicksand",
+                    "title": "Freezing Process",
+                    "uri": "5VBol3e1pnxK1yjsl0jppx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Quicksand",
+                    "title": "Freezing Process",
+                    "uri": "5VBol3e1pnxK1yjsl0jppx"
+                },
+                {
+                    "artist": "Morray",
+                    "title": "Quicksand",
+                    "uri": "4iCZ6Cr76For1TuHUQ90r8"
+                },
+                {
+                    "artist": "Outline In Color",
+                    "title": "Quicksand (feat. Michael Swank)",
+                    "uri": "3B2lC0tHokLJuPOhKaLycU"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Savage Republic",
+                    "title": "Year of Exile",
+                    "uri": "6W489uWsN4kO26AMdgQBtl"
+                },
+                {
+                    "artist": "Savage Republic",
+                    "title": "Year of Exile (Live)",
+                    "uri": "5YLF2NyRMGITmXhwUpYnQd"
+                },
+                {
+                    "artist": "Savage Republic",
+                    "title": "Year of Exile",
+                    "uri": "1XX1rpZksw6dmSGonopeQV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Megan Thee Stallion",
+                    "title": "Savage Remix (feat. Beyoncé)",
+                    "uri": "5v4GgrXPMghOnBBLmveLac"
+                },
+                {
+                    "artist": "Bahari",
+                    "title": "Savage (Nightcore Remix)",
+                    "uri": "3Lr5In46gkpTLh3qdB1pZ5"
+                },
+                {
+                    "artist": "Megan Thee Stallion",
+                    "title": "Savage Remix (feat. Beyoncé)",
+                    "uri": "2Z71PZlOeF9YVze4hy1A1a"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Running Wild",
+                    "title": "The Shellback",
+                    "uri": "5bh6QfHWuR1YdnKOdj8kYA"
+                },
+                {
+                    "artist": "Nuklear",
+                    "title": "Shellshock Ricochet",
+                    "uri": "3SVLum0wDvhT0ogAUzbwTB"
+                },
+                {
+                    "artist": "Pentral",
+                    "title": "The Shell I'm Living In",
+                    "uri": "1cfZzqxxRRyZjn7d7vdQZm"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Loop",
+                    "title": "Be Here Now",
+                    "uri": "0hjYnk2kR37FmcbMqv89aF"
+                },
+                {
+                    "artist": "Loop",
+                    "title": "Be Here Now - Remastered",
+                    "uri": "7MR7x3DpLqIp2yOXe0jGCe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Brennan Heart",
+                    "title": "Be Here Now",
+                    "uri": "5Yldt1EiD9XTfZPMLfIW86"
+                },
+                {
+                    "artist": "Tinlicker",
+                    "title": "Be Here and Now",
+                    "uri": "0P8akccbaBbYPDYzFGp4JM"
+                },
+                {
+                    "artist": "Norah Jones",
+                    "title": "Be Here To Love Me",
+                    "uri": "3URb74mrpnRWY1HtTBEUKH"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gnomo Techno",
+                    "title": "The C is the new smartphone",
+                    "uri": "0xe6Ws7eU5GYjT9UJZTN7Z"
+                },
+                {
+                    "artist": "Gnomo Techno",
+                    "title": "The C is the new stereo",
+                    "uri": "7JD7ALwQDuUs1WGll8wWDt"
+                },
+                {
+                    "artist": "Gnomo Techno",
+                    "title": "The C is the new whitepaper",
+                    "uri": "3CN2FG56dAt7N91YATcf0r"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Christian Erik Frederickson",
+                    "title": "On Demeter",
+                    "uri": "5HZ7KiSOspaSZeUbGLFRLn"
+                },
+                {
+                    "artist": "Demeter",
+                    "title": "Dope",
+                    "uri": "3ZNOHVQAzLv7FhPYxlL31d"
+                },
+                {
+                    "artist": "Demeter",
+                    "title": "Make It",
+                    "uri": "7HbGgThu56WHd5u54SkWkh"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Helen Money",
+                    "title": "Runout",
+                    "uri": "1sCIhR2Rb5kyoIFuFnOAEI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Helen Merrill",
+                    "title": "Anything Goes",
+                    "uri": "7G7aecTWvlnJoLUJi7tn7f"
+                },
+                {
+                    "artist": "Helen Merrill",
+                    "title": "When I Fall In Love",
+                    "uri": "7tsVM94JLz6tl02sA8gfYY"
+                },
+                {
+                    "artist": "Helen Merrill",
+                    "title": "You'd Be So Nice To Come Home To",
+                    "uri": "5J6264keZ3ksbsHwef1U7G"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Fugazi",
+                    "title": "Recap Modotti",
+                    "uri": "2t4Hzx8xZlOJHZ5J601JGO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fugazi",
+                    "title": "Recap Modotti",
+                    "uri": "2t4Hzx8xZlOJHZ5J601JGO"
+                },
+                {
+                    "artist": "Fugazi",
+                    "title": "Waiting Room",
+                    "uri": "2DBlfjL5chsdeULzhTp5K8"
+                },
+                {
+                    "artist": "Mike Emilio",
+                    "title": "Fugazi 2016",
+                    "uri": "2i5oDJ0jbfB7udGW8ExyjH"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Christine Ott",
+                    "title": "Rêve & Pearle Noire",
+                    "uri": "0uSrZfJ5WtbdjLEdHAmCHH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Christine Ott",
+                    "title": "Time to Die",
+                    "uri": "4RU871gNytwgHsrxEbCGhM"
+                },
+                {
+                    "artist": "Christine Ott",
+                    "title": "Pulsar",
+                    "uri": "7cOiDydK9IULkz1fLPiqwq"
+                },
+                {
+                    "artist": "Machinefabriek",
+                    "title": "+ Christine Ott",
+                    "uri": "0fEZavQCpdsTZ6Lj1bNYAj"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Blonde Redhead",
+                    "title": "Futurism vs. Passeism Part 2",
+                    "uri": "3aT1dmNz5kkrSb3kjJc8GL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Blonde Redhead",
+                    "title": "Futurism vs. Passeism Part 2",
+                    "uri": "3aT1dmNz5kkrSb3kjJc8GL"
+                },
+                {
+                    "artist": "Blonde Redhead",
+                    "title": "Girl Boy",
+                    "uri": "3Z5I3tySu3V1dB2Aw3djok"
+                },
+                {
+                    "artist": "Blonde Redhead",
+                    "title": "For the Damaged Coda",
+                    "uri": "6lvJDlBrtabJWiBlMTGxKs"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Shudder To Think",
+                    "title": "I Blew Away/Ride That Sexy Horse",
+                    "uri": "6q66k6Deb7phRHrZLuxyRI"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Slint",
+                    "title": "Rhoda",
+                    "uri": "5uhEUmiKkYqAtxFE4RV1ab"
+                },
+                {
+                    "artist": "Slint",
+                    "title": "Rhoda",
+                    "uri": "3FxIy5kaJFYAZugbiy341h"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Slint",
+                    "title": "Rhoda",
+                    "uri": "5uhEUmiKkYqAtxFE4RV1ab"
+                },
+                {
+                    "artist": "Slint",
+                    "title": "Rhoda",
+                    "uri": "3FxIy5kaJFYAZugbiy341h"
+                },
+                {
+                    "artist": "Rhonda",
+                    "title": "Camera",
+                    "uri": "4JOKdrwgRH9F5SMKcTZjlY"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Lungfish",
+                    "title": "Descender",
+                    "uri": "5Kdx2Vci7bj0umlymJ7yER"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Long Distance Calling",
+                    "title": "Enter: Death Box",
+                    "uri": "5ypa2BKm7bBBRrBrUWn8vl"
+                },
+                {
+                    "artist": "Long Distance Calling",
+                    "title": "Blades",
+                    "uri": "4UrTNokVdPD3hEObibBlxD"
+                },
+                {
+                    "artist": "Long Distance Calling",
+                    "title": "Black Paper Planes",
+                    "uri": "6ZvmAXqrALWGr0sytv66NO"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Lori Goldston",
+                    "title": "Real and Imagined",
+                    "uri": "7lqT9CJJnFcFcjNX4hm7Hp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lori Goldston",
+                    "title": "Real and Imagined",
+                    "uri": "7lqT9CJJnFcFcjNX4hm7Hp"
+                },
+                {
+                    "artist": "Larry Goldings",
+                    "title": "Little Green Men",
+                    "uri": "5b1IGO8Qf4x06OjqJs0J3G"
+                },
+                {
+                    "artist": "lori grayson",
+                    "title": "vail",
+                    "uri": "4wfs5zkdVfgdBhNoRg1Ug8"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Flying Saucer Attack",
+                    "title": "In The Light Of Time",
+                    "uri": "01dZiTlQNke5Dw1Q4AbhYu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Billy Lee Riley",
+                    "title": "Flyin' Saucers Rock & Roll",
+                    "uri": "61NxE9hAjnvplyUKdY6jKv"
+                },
+                {
+                    "artist": "Aronis Sohos",
+                    "title": "Flying Saucer (Single Version)",
+                    "uri": "5DQvCFBjY1pgmYSsCQY86q"
+                },
+                {
+                    "artist": "Aronis Sohos",
+                    "title": "Flying Saucer (Radio Low Edit)",
+                    "uri": "4JcPUfN4Ns1a3blZkLUw72"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Low",
+                    "title": "Fear",
+                    "uri": "0h4FnxJdO3Pn2sk5TRawS7"
+                },
+                {
+                    "artist": "LOW-HIGH",
+                    "title": "Chears Of Fear",
+                    "uri": "1IQIz47pJe2vrL2rXaWNwG"
+                },
+                {
+                    "artist": "Lowkiid",
+                    "title": "Fearless",
+                    "uri": "5yhU5DC7Sva43nFlquYZOT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Flo Rida",
+                    "title": "Low (feat. T-Pain)",
+                    "uri": "0CAfXk7DXMnon4gLudAp7J"
+                },
+                {
+                    "artist": "Tom Enzy",
+                    "title": "Low (feat. Victor Perry)",
+                    "uri": "625TJ9ab8IthbxUDDZk8FD"
+                },
+                {
+                    "artist": "",
+                    "title": "",
+                    "uri": "1Ux3H8cZhDGRmjUrhIWqi1"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Bark Psychosis",
+                    "title": "By Blow",
+                    "uri": "28v6yubIvTq88aiOAETj5c"
+                },
+                {
+                    "artist": "Bark Psychosis",
+                    "title": "By-Blow",
+                    "uri": "2ovOLVtFeG5lteFbRMZH98"
+                },
+                {
+                    "artist": "Bark Psychosis",
+                    "title": "By-Blow",
+                    "uri": "2Mn9WyQZmgx5srZjTSz9k4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bark Psychosis",
+                    "title": "Rose",
+                    "uri": "7pAsoQlOcbMdtI8OpB2Zlr"
+                },
+                {
+                    "artist": "Bark Psychosis",
+                    "title": "Pendulum Man",
+                    "uri": "31rWHoaORhEfXqqr6y48Hm"
+                },
+                {
+                    "artist": "Bark Psychosis",
+                    "title": "Absent Friend",
+                    "uri": "6CqmencKN0UsB67DzZAP8f"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "The For Carnation",
+                    "title": "Emp. Man's Blues",
+                    "uri": "4k8IQYPRkaJHVJ0qe7qHI6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The For Carnation",
+                    "title": "Emp. Man's Blues",
+                    "uri": "4k8IQYPRkaJHVJ0qe7qHI6"
+                },
+                {
+                    "artist": "The For Carnation",
+                    "title": "Moonbeams",
+                    "uri": "2KhKOj34J8wUVrGo6jMFEq"
+                },
+                {
+                    "artist": "The For Carnation",
+                    "title": "On The Swing",
+                    "uri": "0IhXhJhsfSlOxuHW5WEPoQ"
+                }
+            ]
+        }
+    },
     "fieldwork-5th-february-2022": {
         "00": {
             "s0": [

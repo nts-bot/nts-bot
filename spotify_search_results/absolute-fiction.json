@@ -6344,6 +6344,412 @@
             ]
         }
     },
+    "absolute-fiction-4th-march-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "LITTLE TEMPO",
+                    "title": "FROSTIE",
+                    "uri": "3Gc516KGzwE0pI7Chmupiq"
+                },
+                {
+                    "artist": "LITTLE TEMPO",
+                    "title": "JEMIMA",
+                    "uri": "6onxexHLVII8s1PbfmtAhj"
+                },
+                {
+                    "artist": "Night Tempo",
+                    "title": "WAKU WAKUさせて (Night Tempo Showa Groove Mix)",
+                    "uri": "7xOo71gcmbAz9iHrBkmDG5"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Swing Slow",
+                    "title": "Capybara",
+                    "uri": "0FGSuw0Mj8Zca4wwoQljAV"
+                },
+                {
+                    "artist": "Quantic",
+                    "title": "Swing Easy",
+                    "uri": "0UCE7JNZMOiRhjNCfM1AqV"
+                },
+                {
+                    "artist": "Swingrowers",
+                    "title": "Stay Swing",
+                    "uri": "3MC0pOdS2dt2I6Po7JbO18"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Aunt Sally",
+                    "title": "New Moon",
+                    "uri": "5xzqQhRSW73Gz1D7j0JwsE"
+                },
+                {
+                    "artist": "Aunt Sally",
+                    "title": "Don't Stop Running",
+                    "uri": "2xqjes2KAi2HYHl6cXeLj4"
+                },
+                {
+                    "artist": "Aunt Sally",
+                    "title": "Braindead",
+                    "uri": "2IpcKdkOgafXlKWW77zweG"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hikaru Hayashi",
+                    "title": "L'Ile neu",
+                    "uri": "28aMSgIGocJ7YJ8rpdoVmL"
+                },
+                {
+                    "artist": "Hikaru Hayashi",
+                    "title": "Promenade",
+                    "uri": "0azZeVF4yqBx9E9dl4vsIz"
+                },
+                {
+                    "artist": "Hikaru Hayashi",
+                    "title": "La mort de l'enfant",
+                    "uri": "5anZ9YciwAoRFwrgCLzuon"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Mas Teeveh",
+                    "title": "Spirito Dionisiaco",
+                    "uri": "0424gSoQ1oKo3bsS8uZh71"
+                },
+                {
+                    "artist": "Mas Teeveh",
+                    "title": "Spirito Dionisiaco - Echologist Dub",
+                    "uri": "0RKH81otyxgy65K9hRbk4O"
+                },
+                {
+                    "artist": "Mas Teeveh",
+                    "title": "Spirito Dionisiaco - Echologist Drone Mix",
+                    "uri": "4EdUh0RkmeLiFVR6giiT8B"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mas Teeveh",
+                    "title": "Spirito Dionisiaco",
+                    "uri": "0424gSoQ1oKo3bsS8uZh71"
+                },
+                {
+                    "artist": "Mas Teeveh",
+                    "title": "Time Loop",
+                    "uri": "2H48r3RINIR3sweAwI76Bv"
+                },
+                {
+                    "artist": "Mas Teeveh",
+                    "title": "Peyote - Original",
+                    "uri": "6FuicESPYjImijvROXAZyI"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Kooks",
+                    "title": "Tesco Disco",
+                    "uri": "25EBX4pRyqkJD6CiKXWMB6"
+                },
+                {
+                    "artist": "PVRIS",
+                    "title": "Mirrors",
+                    "uri": "6WGBENIKpyM18xgCd0mYiK"
+                },
+                {
+                    "artist": "Jason Chen",
+                    "title": "Mirrors - Acoustic",
+                    "uri": "3u0vJQyY0kEAiJ3dLGAqPv"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "L'Orchestra Cinematique",
+                    "title": "Tetsuo (From \"Akira\")",
+                    "uri": "2kbVPp1cbKN809gbBBXwGk"
+                },
+                {
+                    "artist": "Tetsuo",
+                    "title": "Erde I",
+                    "uri": "4wpImvoLjIs8Q2yros5Cd5"
+                },
+                {
+                    "artist": "Skeler",
+                    "title": "Tetsuo",
+                    "uri": "38vvwdYpaWyx4IOodHYA4l"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "HAT",
+                    "title": "Organic Mango",
+                    "uri": "79XdNBBcqQZVTPWpVkH0FO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ooyy",
+                    "title": "Organic Bijou",
+                    "uri": "2nQo9UHmWCivcN9z9CZirQ"
+                },
+                {
+                    "artist": "Banjamin Mcgowen",
+                    "title": "Organic",
+                    "uri": "1Sgbj2zT118lBaTMpXlirR"
+                },
+                {
+                    "artist": "HAFT",
+                    "title": "Origami",
+                    "uri": "4A6vWru7hRAUwZV8ySuTCh"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rilassamento Mentale",
+                    "title": "Automedicazione",
+                    "uri": "1MZWHrD1ukJLWxfanmjlug"
+                },
+                {
+                    "artist": "La Via Della Consapevolezza",
+                    "title": "Affermazioni per Guarire la tua Anima",
+                    "uri": "71Nn0FxjjcYoM3u08b0ysp"
+                },
+                {
+                    "artist": "Catherine Shepherd",
+                    "title": "Kapitel 3.2 - Die Autopsie - Ein Kurz-Thriller mit Julia Schwarz",
+                    "uri": "2tJmaimoUADZuWjimAF3sr"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Moxie Raia",
+                    "title": "IRL",
+                    "uri": "66FJviG13JJSg3C69q7ELo"
+                },
+                {
+                    "artist": "Lilith Ai",
+                    "title": "IRL",
+                    "uri": "1zbHloeoGStU5QDbVlMHKa"
+                },
+                {
+                    "artist": "Edgar Wasser",
+                    "title": "IRL",
+                    "uri": "6xnVvivi2i2HhGwzeFvICa"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "The Kyoto Kabuki Orchestra",
+                    "title": "Dojoji - B",
+                    "uri": "5yxXfr7RESo1vS5gA9hU4A"
+                },
+                {
+                    "artist": "The Kyoto Kabuki Orchestra",
+                    "title": "Dojoji - A",
+                    "uri": "03a7hfZEpBiGnfr3tW7hlo"
+                },
+                {
+                    "artist": "The Kyoto Kabuki Orchestra",
+                    "title": "Dojoji - D",
+                    "uri": "4F2LYPaY3VOBWwf6rzasa2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kabuki",
+                    "title": "Haze",
+                    "uri": "5A99pFlf1dwfs0XTL7eEJ5"
+                },
+                {
+                    "artist": "Johnny Klimek",
+                    "title": "The Dojo",
+                    "uri": "7g5b7Am6SLhHdK4tXppObw"
+                },
+                {
+                    "artist": "Nikolce Zver",
+                    "title": "DODJI TATI",
+                    "uri": "018KkMiDhzTCZg5RxBQeJF"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Abel Korzeniowski",
+                    "title": "Exhibition",
+                    "uri": "0MCCRoLjILQgIgV4PjOuIK"
+                },
+                {
+                    "artist": "Alexis Weissenberg",
+                    "title": "Nocturne No 2 In E Flat Major Op 9 No 2",
+                    "uri": "44q3YAjsga0wqkf1FgaKWu"
+                },
+                {
+                    "artist": "Nogymx",
+                    "title": "Nocturne",
+                    "uri": "7aRXwYkC9v7jFLjs72PrDS"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "C418",
+                    "title": "Équinoxe",
+                    "uri": "37WtwAa4PzRprHMp7Esdds"
+                },
+                {
+                    "artist": "Atoom",
+                    "title": "Alpha Equinox 11 Hz",
+                    "uri": "1F76NetapFNFzsU3628zh3"
+                },
+                {
+                    "artist": "Galexis",
+                    "title": "Equinox",
+                    "uri": "7e0hiWq3L9YJWb5PI4Wd85"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Avalon",
+                    "title": "Mystical Experience",
+                    "uri": "6LPQmTty2Vnr2Im63pvmMd"
+                },
+                {
+                    "artist": "Coherent Energy",
+                    "title": "The Mystic",
+                    "uri": "4VRUjbRwcIcYgzQFneOyft"
+                },
+                {
+                    "artist": "Mystic Prophecy",
+                    "title": "Crazy Train",
+                    "uri": "4AkAI8T1bAsTxrg6VSvDsT"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Nino Nardini",
+                    "title": "Jungle Spell",
+                    "uri": "2JzRQ5bTv2PweqYvcqCZ0z"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nino Nardini",
+                    "title": "Bagheera",
+                    "uri": "7gHrPw1mxmtpPHpPj5YneK"
+                },
+                {
+                    "artist": "Nino Nardini",
+                    "title": "Malaysia",
+                    "uri": "42xkdkLB4bEMCyL1WAPzKg"
+                },
+                {
+                    "artist": "Nino The Dino",
+                    "title": "Where the sand is",
+                    "uri": "3VffpZvEnQsxLZ1ZgNb4Rn"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Linear Movement",
+                    "title": "The Linear Way",
+                    "uri": "0hmEpK4gYs4zFjfWvVQJfz"
+                },
+                {
+                    "artist": "KaioBarssalos",
+                    "title": "Linear Asset",
+                    "uri": "3xZl5G3QKVt3GnoKtZMSx5"
+                },
+                {
+                    "artist": "Linear Path",
+                    "title": "Night Owl",
+                    "uri": "0lMP8TTCEQmUJzpRiSVibn"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ed Solo",
+                    "title": "Bongo Bong - Original Mix",
+                    "uri": "6pfq7uuAsVEi9cmLhz57Ay"
+                },
+                {
+                    "artist": "The Bongo Hop",
+                    "title": "Ventana",
+                    "uri": "54gUVQjp771nJmf8yFrpeI"
+                },
+                {
+                    "artist": "Marren",
+                    "title": "Bongo Bob",
+                    "uri": "4iZoB4gGEDhLhNqObxdIFm"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tripped",
+                    "title": "Haven't You Learned Anything - Romantic Mix",
+                    "uri": "618bhiaT7xaue8v7W8pgrn"
+                },
+                {
+                    "artist": "Tripped",
+                    "title": "Haven't You Learned Anything",
+                    "uri": "57Sl4Uo8awX7yv3wiMRr2t"
+                },
+                {
+                    "artist": "FavMusik",
+                    "title": "Tripped - Instrumental",
+                    "uri": "1ulLyiBCFAKvEXvGcdmGrw"
+                }
+            ]
+        }
+    },
     "absolute-fiction-5th-february-2022": {
         "00": {
             "s0": "",

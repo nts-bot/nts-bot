@@ -27309,6 +27309,407 @@
             ]
         }
     },
+    "paradise-bangkok-5th-march-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Abdullah Ibrahim",
+                    "title": "Ishmael",
+                    "uri": "14IH7EB4OIb32PohyjJew4"
+                },
+                {
+                    "artist": "Abdullah Ibrahim",
+                    "title": "Ishmael",
+                    "uri": "3SHD2hAFNII0RzP59BokPg"
+                },
+                {
+                    "artist": "Abdullah Ibrahim",
+                    "title": "Ishmael",
+                    "uri": "0tMy33i5CnRDkWXyimKvOW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Abdullah Ibrahim",
+                    "title": "Ishmael",
+                    "uri": "14IH7EB4OIb32PohyjJew4"
+                },
+                {
+                    "artist": "Abdullah Ibrahim",
+                    "title": "Maraba Blue",
+                    "uri": "4TQ7mPGU4CNGi0u6Vab6p9"
+                },
+                {
+                    "artist": "Abdullah Ibrahim",
+                    "title": "Blue Bolero",
+                    "uri": "2oWbYzWfA9DwCrok5z5qBO"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Andrew Hill",
+                    "title": "Passing Ships",
+                    "uri": "2SEhThyW4lwuxegnd8p1vW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Andrew Hill",
+                    "title": "Passing Ships",
+                    "uri": "2SEhThyW4lwuxegnd8p1vW"
+                },
+                {
+                    "artist": "Andrew Hill",
+                    "title": "Sideways",
+                    "uri": "4cF4uqu49WAYHTNQIxuvZO"
+                },
+                {
+                    "artist": "Andrew Hulshult",
+                    "title": "Black Lace",
+                    "uri": "5ZpwirsK03uMkRVghyTrSA"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Baden Powell",
+                    "title": "Cegos do Nordeste",
+                    "uri": "6oIOYeCYsJcN543zugx9BN"
+                },
+                {
+                    "artist": "Baden Powell",
+                    "title": "Cegos do Nordeste",
+                    "uri": "70e1uoPkrOLmmLUpkn7tCe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Baden Powell",
+                    "title": "Consolação",
+                    "uri": "71MwJIgTuiZeNWFSjdjmBh"
+                },
+                {
+                    "artist": "Baden Powell",
+                    "title": "Canto De Ossanha",
+                    "uri": "0UxDHSgsAPL6AXNhS7lvpB"
+                },
+                {
+                    "artist": "Baden Powell",
+                    "title": "Round About Midnight",
+                    "uri": "42g1tMKVWlggF6P1c7dqiN"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Bobby Hutcherson",
+                    "title": "Montara",
+                    "uri": "46qrqcOlSXd70Sa0tuSYtv"
+                },
+                {
+                    "artist": "Bobby Hutcherson",
+                    "title": "Montara - Remix",
+                    "uri": "19WNdHW7R4mkHvNavKvleS"
+                },
+                {
+                    "artist": "Bobby Hutcherson",
+                    "title": "Montara - Remix",
+                    "uri": "6RYPLL92wi0cEzSsmAHw3K"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bobby Hutcherson",
+                    "title": "Montara",
+                    "uri": "46qrqcOlSXd70Sa0tuSYtv"
+                },
+                {
+                    "artist": "Bobby Hutcherson",
+                    "title": "Montara - Remix",
+                    "uri": "6RYPLL92wi0cEzSsmAHw3K"
+                },
+                {
+                    "artist": "Bobby Hutcherson",
+                    "title": "Stardust",
+                    "uri": "6QqXTZUL8O3y46rgDEWnsm"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Chiwoniso",
+                    "title": "Zvichapera",
+                    "uri": "0EB6LdcMyj0SHhCAR45CRi"
+                },
+                {
+                    "artist": "Chiwoniso",
+                    "title": "Zvichapera",
+                    "uri": "0QHcFdxkiqag00Tn946Zr5"
+                },
+                {
+                    "artist": "Chiwoniso",
+                    "title": "Zvichapera",
+                    "uri": "4Hofy8JpxvRCqe8Yv66xVq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chiwoniso",
+                    "title": "Zvichapera",
+                    "uri": "0EB6LdcMyj0SHhCAR45CRi"
+                },
+                {
+                    "artist": "Chiwoniso",
+                    "title": "Zvichapera",
+                    "uri": "0QHcFdxkiqag00Tn946Zr5"
+                },
+                {
+                    "artist": "Chiwoniso",
+                    "title": "Nguva Ye Kufara",
+                    "uri": "1aq0qLQ2O7kiKeipPrgKZg"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Letta Mbulu",
+                    "title": "Nomalizo",
+                    "uri": "3lB31lvF4GEwKwMgFWwCJ7"
+                },
+                {
+                    "artist": "Letta Mbulu",
+                    "title": "What's Wrong With Groovin'",
+                    "uri": "2UqE0rptNZpA2gjKDqOa0p"
+                },
+                {
+                    "artist": "Letta Mbulu",
+                    "title": "Kilimanjaro",
+                    "uri": "5pScGaO4lXcqtUqMnx7Uyf"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Clifford Jordan",
+                    "title": "John Coltrane",
+                    "uri": "1NZJahgwCwMrsT8wxgqfFq"
+                },
+                {
+                    "artist": "Clifford Jordan Quartet",
+                    "title": "John Coltrane",
+                    "uri": "0FES66XT8SPGOhWGraHE1y"
+                },
+                {
+                    "artist": "Clifford Jordan",
+                    "title": "John Coltrane - Live",
+                    "uri": "2n5fv6hFFYjPhrmFMZDEr4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Clifford Jordan",
+                    "title": "John Coltrane",
+                    "uri": "1NZJahgwCwMrsT8wxgqfFq"
+                },
+                {
+                    "artist": "Clifford Jordan",
+                    "title": "Sophisticated Lady - Remastered 1997",
+                    "uri": "4MOg9akJ30Hz8ox8NBw2j1"
+                },
+                {
+                    "artist": "John Coltrane Quartet",
+                    "title": "It's Easy To Remember",
+                    "uri": "1lZ41PumDFX0e82XTGx4sE"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Duke Ellington",
+                    "title": "The Single Petal Of A Rose - The Queen's Suite",
+                    "uri": "1PoaSCeoBUCPg25k7XTvNN"
+                },
+                {
+                    "artist": "Duke Ellington",
+                    "title": "Haupe",
+                    "uri": "05d3KM9JTyNnnWIjo8PKvf"
+                },
+                {
+                    "artist": "Oscar Peterson",
+                    "title": "John Hardy's Wife",
+                    "uri": "5ZaLdSX0UJdLWkOJOVDyzK"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Eugene Blacknell",
+                    "title": "Jump Back",
+                    "uri": "3Apw6lJDWtEbnoMUUJ8tEe"
+                },
+                {
+                    "artist": "Eugene Blacknell",
+                    "title": "Jump Back",
+                    "uri": "33GisDdcWugc3ha57zi9H9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eugene Becker",
+                    "title": "Let's Forget",
+                    "uri": "0CwP6bXi9I5gRBjJ4UlSfD"
+                },
+                {
+                    "artist": "Eugene Becker",
+                    "title": "Nihilism",
+                    "uri": "7nvGK7ZtWIsTyNsVHA9GnD"
+                },
+                {
+                    "artist": "Eugene Becker",
+                    "title": "Not Found",
+                    "uri": "6jIU2vJHnU83NPdAk6hGmR"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lorez Alexandria",
+                    "title": "I'm Wishin",
+                    "uri": "67vntCNDcm1PI1wmI5P3Am"
+                },
+                {
+                    "artist": "Lorez Alexandria",
+                    "title": "Satin Doll",
+                    "uri": "5whP1p6A6Cbjqtbkp4ytFP"
+                },
+                {
+                    "artist": "Lorez Alexandria",
+                    "title": "Give Me The Simple Life",
+                    "uri": "7Kc3hZoCRTs5dNHU7GqT9x"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Duke Ellington",
+                    "title": "Blues in Orbit",
+                    "uri": "4wNPDi3HKxLTYWGsjBOCQ0"
+                },
+                {
+                    "artist": "Duke Ellington",
+                    "title": "Blues In Orbit - Alternate Take",
+                    "uri": "4uxLsIDKjnAaI1zoub0iPj"
+                },
+                {
+                    "artist": "Duke Ellington",
+                    "title": "Blues In Orbit (with Mahalia Jackson) - (aka Tender) [Alternate Take]",
+                    "uri": "5TLXM2YcjOe0tkZafZCYRt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Duke Ellington",
+                    "title": "Take the \"A\" Train",
+                    "uri": "6LUvH2K99wNh8Mu4eaVHJb"
+                },
+                {
+                    "artist": "Duke Ellington",
+                    "title": "Take the \"A\" Train",
+                    "uri": "6KBsivP3Of4z2x6uNMAyE3"
+                },
+                {
+                    "artist": "Oscar Peterson",
+                    "title": "John Hardy's Wife",
+                    "uri": "5ZaLdSX0UJdLWkOJOVDyzK"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Getatchew Mekurya",
+                    "title": "Muziqa heywete",
+                    "uri": "0szihfA0S1MfsKOpDfb3lZ"
+                },
+                {
+                    "artist": "Getatchew Mekurya",
+                    "title": "Almaz Yèharèrwa",
+                    "uri": "5YIWgJ8jw8TySbwa3Yi70q"
+                },
+                {
+                    "artist": "Getatchew Mekurya",
+                    "title": "Yègènèt Muzika",
+                    "uri": "1bkM2lDOmUm788VLwhXaX8"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Moondog",
+                    "title": "Bumbo",
+                    "uri": "167aVyzuBZMiKFo9iPXoES"
+                },
+                {
+                    "artist": "Moondog & His Honking Geese",
+                    "title": "Bumbo",
+                    "uri": "4rIy9icPlB2zJcQvNwmC7j"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Moondog",
+                    "title": "Bird's Lament",
+                    "uri": "1EuFHPoVGfyfEZBaYExK7v"
+                },
+                {
+                    "artist": "Louis Hardin",
+                    "title": "Lament I, \"Bird's Lament\" - Instrumental",
+                    "uri": "3y2KtKfFtZtWkPmvQ6tvek"
+                },
+                {
+                    "artist": "Moondog",
+                    "title": "Bird's Lament",
+                    "uri": "771I4XsOUGOeuIdeVh0IsR"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nathan Davis",
+                    "title": "Sconsolato",
+                    "uri": "5kUE6uXelwvtA6qYKyfMWM"
+                },
+                {
+                    "artist": "Nathan Day",
+                    "title": "Hello Alien",
+                    "uri": "4apqIevNZl1POiQccrGWls"
+                },
+                {
+                    "artist": "Nathan Dawe",
+                    "title": "Goodbye",
+                    "uri": "14agcnE3UapOnnxYufVMZZ"
+                }
+            ]
+        }
+    },
     "paradise-bangkok-6th-february-2018": {
         "00": {
             "s0": "",

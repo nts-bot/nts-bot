@@ -71246,6 +71246,533 @@
             "s1": ""
         }
     },
+    "housecall-18th-february-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "SAULT",
+                    "title": "Envious",
+                    "uri": "5QrhTxjhRFYqYjQeT0tqEa"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "SAULT",
+                    "title": "Envious",
+                    "uri": "5QrhTxjhRFYqYjQeT0tqEa"
+                },
+                {
+                    "artist": "SAULT",
+                    "title": "Fight for Love",
+                    "uri": "1LPQheJpIsG8rlUkCmZx2D"
+                },
+                {
+                    "artist": "SAULT",
+                    "title": "Why Why Why Why Why",
+                    "uri": "4zwq3QUKgMNk0NSLl7fpbP"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Little Simz",
+                    "title": "No Merci",
+                    "uri": "552lBxKLGjerBDS8VYHOJn"
+                },
+                {
+                    "artist": "Little Simz",
+                    "title": "Gorilla",
+                    "uri": "0pJO1tc1GpnxFyQp6Zp82r"
+                },
+                {
+                    "artist": "Little Simz",
+                    "title": "Venom",
+                    "uri": "2tHdQjwO5zN86MLF7ZtU1X"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Myele Manzanza",
+                    "title": "Silencing the Sun",
+                    "uri": "5JFOf9cH3qlTvNWxKr87Jv"
+                },
+                {
+                    "artist": "Myele Manzanza",
+                    "title": "Silencing the Sun",
+                    "uri": "56IsrGSkmoxC8P94mq33oP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Myele Manzanza",
+                    "title": "Brixton Blues",
+                    "uri": "5ZVgiWySiGOav9Ztuj5XXW"
+                },
+                {
+                    "artist": "Myele Manzanza",
+                    "title": "Two Chords & the Truth",
+                    "uri": "0mQNkcVdEXiseyNEyxNdQc"
+                },
+                {
+                    "artist": "Myele Manzanza",
+                    "title": "Two Chords & the Truth - Soho Radio Vinyl Sessions",
+                    "uri": "5zNvrpPnAq6vtBs1cr9APR"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Loyle Carner",
+                    "title": "Blood On My Nikes",
+                    "uri": "3vhLVllWWp1452obmga9Nz"
+                },
+                {
+                    "artist": "Loyle Carner",
+                    "title": "Blood On My Nikes",
+                    "uri": "1KcOjsuGbytGJQbvJs2OFT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Loyle Carner",
+                    "title": "Blood On My Nikes",
+                    "uri": "3vhLVllWWp1452obmga9Nz"
+                },
+                {
+                    "artist": "Loyle Carner",
+                    "title": "Blood On My Nikes",
+                    "uri": "1KcOjsuGbytGJQbvJs2OFT"
+                },
+                {
+                    "artist": "Loyle Carner",
+                    "title": "Ottolenghi",
+                    "uri": "64I9byMYBlS1ARsC3vtpgW"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Surprise Chef",
+                    "title": "Pash Rash",
+                    "uri": "1Wl1mqm9URwTkFcfTOBI78"
+                },
+                {
+                    "artist": "Surprise Chef",
+                    "title": "Pash Rash",
+                    "uri": "5CiUhhHEh1sIE7CpWjMS6p"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Surprise Chef",
+                    "title": "Pash Rash",
+                    "uri": "1Wl1mqm9URwTkFcfTOBI78"
+                },
+                {
+                    "artist": "Surprise Chef",
+                    "title": "Pash Rash",
+                    "uri": "5CiUhhHEh1sIE7CpWjMS6p"
+                },
+                {
+                    "artist": "Surprise Chef",
+                    "title": "Money Music",
+                    "uri": "5aJaL72YTZmsfEK1xWexyw"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "John Beltran",
+                    "title": "Entardecer",
+                    "uri": "2E3J6m0Q4uyKC2eMVonWfC"
+                },
+                {
+                    "artist": "John Beltran",
+                    "title": "Entardecer",
+                    "uri": "6HjW0TNmeqtHo9cj5reFV5"
+                },
+                {
+                    "artist": "John Beltran",
+                    "title": "Entardecer",
+                    "uri": "56QhhBDafe65uOGi23fmEx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "John Beltran",
+                    "title": "Entardecer",
+                    "uri": "2E3J6m0Q4uyKC2eMVonWfC"
+                },
+                {
+                    "artist": "Jon Bellion",
+                    "title": "Stupid Deep",
+                    "uri": "7cK7hDrE7vAesPf8xd5zmb"
+                },
+                {
+                    "artist": "Jon Bellion",
+                    "title": "Guillotine",
+                    "uri": "2p2aCtErYX6UaFxyfpVvWC"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Rosa Maria",
+                    "title": "Samba Maneiro",
+                    "uri": "6QFy8lfzC8qP0sMG14daTZ"
+                },
+                {
+                    "artist": "Rosa Maria",
+                    "title": "Samba Maneiro - Mixed",
+                    "uri": "5gS3l4qLCbNcIeuRuyQqMf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rosa Maria",
+                    "title": "Samba Maneiro",
+                    "uri": "6QFy8lfzC8qP0sMG14daTZ"
+                },
+                {
+                    "artist": "Camaron De La Isla",
+                    "title": "Rosa Maria - Tangos",
+                    "uri": "0DbxsVb7QNeRfyPbDFN4xe"
+                },
+                {
+                    "artist": "Camaron De La Isla",
+                    "title": "Rosa María (Tangos)",
+                    "uri": "23BFlhBswPLwdxV4twDE01"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Golden Flamingo Orchestra",
+                    "title": "The Guardian Angel Is Watching over Us",
+                    "uri": "40ge4eyxt253ZELvw6KLdw"
+                },
+                {
+                    "artist": "Golden Flamingo Orchestra",
+                    "title": "The Guardian Angel Is Watching over Us",
+                    "uri": "2noCHEDOkvwboY6JleUYgo"
+                },
+                {
+                    "artist": "Golden Flamingo Orchestra",
+                    "title": "The Guardian Angel Is Watching over Us",
+                    "uri": "0sk9vVO1D26PDYmz7H9zI4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Golden Flamingo Orchestra",
+                    "title": "The Guardian Angel Is Watching over Us",
+                    "uri": "40ge4eyxt253ZELvw6KLdw"
+                },
+                {
+                    "artist": "Golden Flamingo Orchestra",
+                    "title": "The Guardian Angel Is Watching over Us",
+                    "uri": "4ncmhZJBXVLwclkomqZsMD"
+                },
+                {
+                    "artist": "Golden Flamingo Orchestra",
+                    "title": "The Guardian Angel Is Watching over Us",
+                    "uri": "0sk9vVO1D26PDYmz7H9zI4"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Jorge Ben Jor",
+                    "title": "Comanche",
+                    "uri": "6jlqL9joFnF98jY335t2y4"
+                },
+                {
+                    "artist": "Jorge Ben Jor",
+                    "title": "Comanche - Ao Vivo",
+                    "uri": "3xyZK9yFG6qt3iz6A5avIA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jorge Ben Jor",
+                    "title": "Comanche",
+                    "uri": "6jlqL9joFnF98jY335t2y4"
+                },
+                {
+                    "artist": "Jorge Ben Jor",
+                    "title": "Comanche - Ao Vivo",
+                    "uri": "3xyZK9yFG6qt3iz6A5avIA"
+                },
+                {
+                    "artist": "Jorge Ben Jor",
+                    "title": "Oba, Lá Vem Ela",
+                    "uri": "6MCaOLDl0epJPRN76H5S4N"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DjeuhDjoah",
+                    "title": "Planète",
+                    "uri": "3sl2KAPGpSztyO2s5JELz7"
+                },
+                {
+                    "artist": "DjeuhDjoah",
+                    "title": "Planète",
+                    "uri": "5DeFEMzFquQ3i5UrraAkxR"
+                },
+                {
+                    "artist": "DjeuhDjoah",
+                    "title": "El niño",
+                    "uri": "4fCevXfseuEJRmPwmNnUZr"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Willie Hutch",
+                    "title": "Brother's Gonna Work It Out - The Mack/Soundtrack Version",
+                    "uri": "1haurWCw5Yb1oP8xNQTfCV"
+                },
+                {
+                    "artist": "Willie Hutch",
+                    "title": "A Love That's Worth Having",
+                    "uri": "23SIdfiSYhb3LnuLf7HULE"
+                },
+                {
+                    "artist": "Willie Hutch",
+                    "title": "Overture Of Foxy Brown",
+                    "uri": "0F61NAIzwH4nsV67zmgvxQ"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Laura Michele",
+                    "title": "You Always Hurt the One You Love",
+                    "uri": "2HPAOcHVqZX3OsrgybwU0N"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Michele",
+                    "title": "You Always Hurt the One You Love",
+                    "uri": "2HPAOcHVqZX3OsrgybwU0N"
+                },
+                {
+                    "artist": "Laura Misch",
+                    "title": "Walk Alone to Hear Thoughts of Your Own",
+                    "uri": "5vS2T09cZO5KK8VXLlB4ZF"
+                },
+                {
+                    "artist": "Laura Misch",
+                    "title": "Glass Shards",
+                    "uri": "2ZJk9T8MQLZsBVFlePHXn3"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hidden Spheres",
+                    "title": "Laamore",
+                    "uri": "4uC2RrHmTfq96i55BTk1ML"
+                },
+                {
+                    "artist": "Hidden Spheres",
+                    "title": "Waiting",
+                    "uri": "7fxcNshGvCxlNMGHI1GmCx"
+                },
+                {
+                    "artist": "Henry And The Waiter",
+                    "title": "Hidden Spirit",
+                    "uri": "66NGYwxqmLrCzCfSXCKDSj"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Anchorsong",
+                    "title": "The Ocean",
+                    "uri": "4CTQIxwI2Z669h33loVoy7"
+                },
+                {
+                    "artist": "Anchorsong",
+                    "title": "The Ocean",
+                    "uri": "3RlZ2G6Cpnmx7Y5jGNLj9F"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Anchorsong",
+                    "title": "The Ocean",
+                    "uri": "4CTQIxwI2Z669h33loVoy7"
+                },
+                {
+                    "artist": "Alex Breitling",
+                    "title": "The Ocean - Radio Edit",
+                    "uri": "0PiALFnXJtY0oKdGVhXvrO"
+                },
+                {
+                    "artist": "AKKI (DE)",
+                    "title": "The Ocean",
+                    "uri": "7KqFzuDGtnTMfqkuAzdpCv"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Lenny Williams",
+                    "title": "You Got Me Running",
+                    "uri": "37LxU3RlzZtRYCmB6ejanv"
+                },
+                {
+                    "artist": "Lenny Williams",
+                    "title": "You Got Me Running",
+                    "uri": "0lDZ92pLHVXAhvgWmo0Dpl"
+                },
+                {
+                    "artist": "Lenny Williams",
+                    "title": "You Got Me Running - Single Version",
+                    "uri": "2qgPUCuCg9t6yMylHB5ENb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lenny Williams",
+                    "title": "You Got Me Running",
+                    "uri": "37LxU3RlzZtRYCmB6ejanv"
+                },
+                {
+                    "artist": "Lenny Williams",
+                    "title": "'Cause I Love You",
+                    "uri": "25z0QF3ANJPVM04fTbty45"
+                },
+                {
+                    "artist": "Stevie Ray Vaughan",
+                    "title": "Lenny",
+                    "uri": "1MIDCw2NTW3Dtn9c6ohSC8"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Luther Davis",
+                    "title": "You Can Be A Star",
+                    "uri": "4TdV9OY8ijccLcCvxOEU3C"
+                },
+                {
+                    "artist": "Luther Davis Group",
+                    "title": "You Can Be a Star",
+                    "uri": "3Sxwlw0xfU7SS1eTZKSR6w"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Luther Davis",
+                    "title": "You Can Be A Star",
+                    "uri": "4TdV9OY8ijccLcCvxOEU3C"
+                },
+                {
+                    "artist": "Luther Dickinson",
+                    "title": "Hallelujah (I’m a Dreamer)",
+                    "uri": "6WQfKBjx0Hcn2qq2PmagxW"
+                },
+                {
+                    "artist": "Luther Vandross",
+                    "title": "Superstar - Live at Radio City Music Hall, New York - Feb. 12, 2003",
+                    "uri": "3pAiTAdDCvqWECwRmUlxvi"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "T. P. Orchestre Poly-Rythmo",
+                    "title": "It's A Vanity",
+                    "uri": "0MiEkTtkvhohBIG2C7NdPh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "T. P. Orchestre Poly-Rythmo",
+                    "title": "It's A Vanity",
+                    "uri": "0MiEkTtkvhohBIG2C7NdPh"
+                },
+                {
+                    "artist": "T. P. Orchestre Poly-Rythmo",
+                    "title": "Minsato Le, Mi Dayihome",
+                    "uri": "3xetBt3avxuyRlcdKkCCEa"
+                },
+                {
+                    "artist": "T. P. Orchestre Poly-Rythmo",
+                    "title": "Ne Te Fache Pas",
+                    "uri": "1OXWh5wI5uospTQMLnjDQ2"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Stan Barber",
+                    "title": "I Saw the Light in Your Eyes",
+                    "uri": "4LFiuN0XUpFRl238WIMpBS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Stan Barber",
+                    "title": "I Saw the Light in Your Eyes",
+                    "uri": "4LFiuN0XUpFRl238WIMpBS"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Ploy",
+                    "title": "Bad Seed",
+                    "uri": "3gE3kUWYAIjTguFku8Sd8F"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bad Seed Rising",
+                    "title": "Bad Seed Rising",
+                    "uri": "30OdWrjBADhSyav9PCLyXl"
+                },
+                {
+                    "artist": "Metallica",
+                    "title": "Bad Seed",
+                    "uri": "0cKWKhciVCYNyxFVnV1Y4R"
+                },
+                {
+                    "artist": "Five Finger Death Punch",
+                    "title": "Bad Seed",
+                    "uri": "0Y4vrkqydY3Ziiff8hvN6C"
+                }
+            ]
+        }
+    },
     "housecall-18th-september-2022": {
         "00": {
             "s0": [
@@ -74755,6 +75282,456 @@
                     "artist": "Tom Brock",
                     "title": "If We Don't Make It, Nobody Can - Alternate Vocal Version",
                     "uri": "4SncULQybV1t1jLUQaie5o"
+                }
+            ]
+        }
+    },
+    "housecall-5th-march-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Therion",
+                    "title": "The Falling Stone - Live Gothic",
+                    "uri": "2gduDGlcPbIYbVfcETHAAR"
+                },
+                {
+                    "artist": "Call Us Janis",
+                    "title": "Falling Stones",
+                    "uri": "53nbn3wpRzyBlB2PRK0g8a"
+                },
+                {
+                    "artist": "The Falling Star",
+                    "title": "Garfieldi Ocular",
+                    "uri": "2rBqp3QrGUV8V2zlh8BMxE"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Cheers",
+                    "title": "Black Denim Trousers & Motorcycle Boots",
+                    "uri": "3j184wpfF4tD8tEcnOhPPE"
+                },
+                {
+                    "artist": "Skangal",
+                    "title": "The Cheere",
+                    "uri": "7dc1hFJGx1YxG9wihfAtpz"
+                },
+                {
+                    "artist": "The Chairs",
+                    "title": "Cheers!",
+                    "uri": "2QHbwZScxnAAaVK5UCZIV9"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Herbaliser",
+                    "title": "The Sensual Woman",
+                    "uri": "31U21fwH5izi4fVA2f1HKa"
+                },
+                {
+                    "artist": "The Herbaliser",
+                    "title": "The Hard Stuff",
+                    "uri": "3keFpYc6KG5ieHMgLMU9FG"
+                },
+                {
+                    "artist": "Alborosie",
+                    "title": "Herbalist",
+                    "uri": "1UOhKnE2fZJuGdB7ssn9nf"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pat",
+                    "title": "I Love You (Yes I Do)",
+                    "uri": "6Tgj2UFqsiyJX2JWJckNM1"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Superlatives",
+                    "title": "From One Thing to the Next",
+                    "uri": "5dB4jT4095Hwypm96jaCry"
+                },
+                {
+                    "artist": "The Superlatives",
+                    "title": "Silks",
+                    "uri": "1anivdIt7v1EZZUD9mzUBB"
+                },
+                {
+                    "artist": "The Superlatives",
+                    "title": "Waste My Time",
+                    "uri": "36AvO98G3WzHewul1av2CF"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Salena Jones",
+                    "title": "I'VE GOT THE WORLD ON A STRING",
+                    "uri": "5Qugyw0Qb5j9S0OFVBavt6"
+                },
+                {
+                    "artist": "Paola Fog",
+                    "title": "I Got The Blues",
+                    "uri": "4vv4IKXZNLoLQH7vKBNtGc"
+                },
+                {
+                    "artist": "Salena Jones",
+                    "title": "For Once In My Life (Frank Sinatra Cover) - Live",
+                    "uri": "4Y8Rz5GLkFoMYYXiSJXPhI"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jackey Beavers",
+                    "title": "Mr Bump Man (Give Me a Hand), Pt. 2",
+                    "uri": "2zkKiLJNotF3AQWBdY6k2x"
+                },
+                {
+                    "artist": "Jackey Beavers",
+                    "title": "Mr. Bump Man Pt. 2",
+                    "uri": "0JTFQUjZR0kBGpAk7M5TBB"
+                },
+                {
+                    "artist": "Jackey Beavers",
+                    "title": "Somebody Help The Beggar Man Pt. 1",
+                    "uri": "5v4vviQ4z4wAr1hvK6zoGK"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Marsha",
+                    "title": "No Hope, No Faith",
+                    "uri": "4BdmB8t0VylfelsDt2itNi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "SCALP",
+                    "title": "NO HOPE",
+                    "uri": "3b6pW4s9rqYyWxUGrUvgO7"
+                },
+                {
+                    "artist": "Kafka Tamura",
+                    "title": "No Hope",
+                    "uri": "0qUkyOIr7hNpdyinvsZKME"
+                },
+                {
+                    "artist": "Dear Marsha,",
+                    "title": "Broken",
+                    "uri": "0xj5yGsVzJoLGmncbQ0bFV"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Stive Morgan",
+                    "title": "The Master of Soul",
+                    "uri": "67LKUU4R84LGOrj4ip2IW8"
+                },
+                {
+                    "artist": "Allen Lande",
+                    "title": "Master Of Sorrow",
+                    "uri": "7KrhyFiJHgF37d73snJmSn"
+                },
+                {
+                    "artist": "System of Fury",
+                    "title": "Masters of the Shadows",
+                    "uri": "5dV2ihENcYUWCsdbKWBNJ3"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "C. Alexander London",
+                    "title": "Chapter 90 - Outbreak - The 39 Clues: Superspecial, Book 1",
+                    "uri": "31aXEXYWOGDyTStRuSYCko"
+                },
+                {
+                    "artist": "C. Alexander London",
+                    "title": "Chapter 76 - Outbreak - The 39 Clues: Superspecial, Book 1",
+                    "uri": "5PJHDnouxf8fQDyM138wj9"
+                },
+                {
+                    "artist": "C. Alexander London",
+                    "title": "Chapter 64 - Outbreak - The 39 Clues: Superspecial, Book 1",
+                    "uri": "6lGJqlhYxp2xCyVybJN2r2"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "The Hesitations",
+                    "title": "Is This the Way to Treat a Girl (You Bet It Is)",
+                    "uri": "0gOUNcrO2yaGjSHQrOVoPq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Hesitations",
+                    "title": "Is This the Way to Treat a Girl (You Bet It Is)",
+                    "uri": "0gOUNcrO2yaGjSHQrOVoPq"
+                },
+                {
+                    "artist": "Soft Touch",
+                    "title": "Is This the Way to Treat a Guy (You Bet It Is)",
+                    "uri": "0mqu04gptie8T69w6Xzr0D"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Edwin Starr",
+                    "title": "Running Back And Forth",
+                    "uri": "4rfwnBr2pkUu5sgjCTw8eE"
+                },
+                {
+                    "artist": "Edwin Starr",
+                    "title": "Running Back And Forth",
+                    "uri": "4tBiRpJs4cqofY8Cgp2jdT"
+                },
+                {
+                    "artist": "Edwin Starr",
+                    "title": "Running Back And Forth",
+                    "uri": "0ICFVPvUN21CUAaZsVey05"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Edwin Starr",
+                    "title": "Running Back And Forth",
+                    "uri": "4rfwnBr2pkUu5sgjCTw8eE"
+                },
+                {
+                    "artist": "Edwin Starr",
+                    "title": "Running Back And Forth",
+                    "uri": "4tBiRpJs4cqofY8Cgp2jdT"
+                },
+                {
+                    "artist": "Edwin Starr",
+                    "title": "War",
+                    "uri": "4ZEEcEMGjkWOfZNBcIB9yE"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "S.O.U.L.",
+                    "title": "This Time Around",
+                    "uri": "53Qx0KMaP3Np9vBJbN6uTI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "S.O.U.L.",
+                    "title": "Soul",
+                    "uri": "3uR7ZIYKaqg39LxYoka4Cx"
+                },
+                {
+                    "artist": "Iyeoka",
+                    "title": "This Time Around",
+                    "uri": "4uF2ZuAcyvfoLMLWV7zKfd"
+                },
+                {
+                    "artist": "Farewell",
+                    "title": "We All Fall Down",
+                    "uri": "44MEdX9Cnvvn6jk6p8Frm7"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Brief Encounter",
+                    "title": "What About Love - Mark Grusane Edit",
+                    "uri": "1k6tMlJREcGSfijxtNj7sC"
+                },
+                {
+                    "artist": "Brief Encounter",
+                    "title": "What About Love",
+                    "uri": "6s1Ra3fY858UsePjIswHex"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Austin Mahone",
+                    "title": "What About Love",
+                    "uri": "52vS7mJ0a70Z4uRCfl8SjH"
+                },
+                {
+                    "artist": "Daughtry",
+                    "title": "What About Now",
+                    "uri": "35SuLFF1dk9nBgjE2HzTzp"
+                },
+                {
+                    "artist": "LoQuacious",
+                    "title": "Brief Intermisson",
+                    "uri": "7vcccIDpSFyC6sCjmKttmd"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Visions of Atlantis",
+                    "title": "Melancholy Angel",
+                    "uri": "0TuFgCTS2iUWNFLhtu0lvJ"
+                },
+                {
+                    "artist": "Visions of Atlantis",
+                    "title": "Legion Of The Seas",
+                    "uri": "5TH1divgSxx00BIXSwroT6"
+                },
+                {
+                    "artist": "Visions of Atlantis",
+                    "title": "Melancholy Angel",
+                    "uri": "0sfsaYvx2fMwJq3WNrVnX5"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Benny Troy",
+                    "title": "I Wanna Give You Tomorrow",
+                    "uri": "09iNlqnx0qdhfMyKKzJJAG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Benny Troy",
+                    "title": "I Wanna Give You Tomorrow",
+                    "uri": "09iNlqnx0qdhfMyKKzJJAG"
+                },
+                {
+                    "artist": "Benny Trokan",
+                    "title": "Get It in the End",
+                    "uri": "1qpSQbKgXSSI6cyHAld4lr"
+                },
+                {
+                    "artist": "Benny Thrill",
+                    "title": "With You",
+                    "uri": "4TkJzDPo4ZctMDnv0IuLsX"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Gwen McCrae",
+                    "title": "Keep the Fire Burning",
+                    "uri": "4rS4K30qVDExdjeU4feF4c"
+                },
+                {
+                    "artist": "Gwen McCrae",
+                    "title": "Keep the Fire Burning",
+                    "uri": "3oO0py74y7Fn2tnzNC4GTm"
+                },
+                {
+                    "artist": "Gwen McCrae",
+                    "title": "Keep the Fire Burning",
+                    "uri": "34lvCeAT4ijRbeb9yqM46Y"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gwen McCrae",
+                    "title": "Keep the Fire Burning",
+                    "uri": "4rS4K30qVDExdjeU4feF4c"
+                },
+                {
+                    "artist": "Gwen McCrae",
+                    "title": "Keep the Fire Burning",
+                    "uri": "3oO0py74y7Fn2tnzNC4GTm"
+                },
+                {
+                    "artist": "Gwen McCrae",
+                    "title": "Keep the Fire Burning - Joey Negro Feed the Flame Mix",
+                    "uri": "2dTzlQCkywc1FZ8wiArxyi"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Will Sessions",
+                    "title": "Lost Without You",
+                    "uri": "6wKwnNBMw88orLCJTWpyIf"
+                },
+                {
+                    "artist": "Will Sessions",
+                    "title": "Lost Without You",
+                    "uri": "2I4eFet1KYtU2WaZyBuEwl"
+                },
+                {
+                    "artist": "Will Sessions",
+                    "title": "Lost Without You - Instrumental",
+                    "uri": "4nH6ScStfg57QpOpQ9d6ld"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Will Sessions",
+                    "title": "Lost Without You - Instrumental",
+                    "uri": "4nH6ScStfg57QpOpQ9d6ld"
+                },
+                {
+                    "artist": "Will Sessions",
+                    "title": "Coffee Cup",
+                    "uri": "3nzfkpvlC1Oan9ZyQ67yg0"
+                },
+                {
+                    "artist": "Delta Goodrem",
+                    "title": "Lost Without You",
+                    "uri": "1w0JL6vJdl82xqyRW30HrK"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "JKRS",
+                    "title": "Spectrum",
+                    "uri": "0cD5ko3dJ9G2LlYjBw7oX2"
+                },
+                {
+                    "artist": "Xd",
+                    "title": "Spectrum (Say My Name)",
+                    "uri": "71CVGT21qJKNRb1YLG1qr3"
+                },
+                {
+                    "artist": "Anthony Keyrouz",
+                    "title": "Spectrum (Say My Name)",
+                    "uri": "2DRJ8zX1cHBr2DyVJNcQhu"
                 }
             ]
         }
