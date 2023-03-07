@@ -2212,6 +2212,279 @@
             ]
         }
     },
+    "diet-clinic-6th-march-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Metallica",
+                    "title": "Lux Æterna",
+                    "uri": "4s8wbjoUkFSW4mldYu3Z1l"
+                },
+                {
+                    "artist": "Clint Mansell",
+                    "title": "Lux Aeterna",
+                    "uri": "62Da3JOu9H9EIgmqV7DoLG"
+                },
+                {
+                    "artist": "Metallica",
+                    "title": "Lux Æterna",
+                    "uri": "5iHkCqQsOafegfMl9r7EqA"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Jocelyn Pook",
+                    "title": "Romeo And Juliet",
+                    "uri": "3UOjpIYioFGDK7sm9sBZSm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Widowspeak",
+                    "title": "Romeo and Juliet",
+                    "uri": "5a3C5VFcTrd6diblnC96Tt"
+                },
+                {
+                    "artist": "Dire Straits",
+                    "title": "Romeo And Juliet",
+                    "uri": "3crlldfiUarifFlx1jHQgO"
+                },
+                {
+                    "artist": "Sergei Prokofiev",
+                    "title": "Romeo and Juliet, Op. 64 - Act 1: Romeo",
+                    "uri": "3XQpAC6VaNRJ39TQtqCMsT"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Jonquera",
+                    "title": "K est un Sociologue",
+                    "uri": "6C2Xi4zY3rMjfn4P7OxTyU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jonquera",
+                    "title": "K est un Sociologue",
+                    "uri": "6C2Xi4zY3rMjfn4P7OxTyU"
+                },
+                {
+                    "artist": "Jonquera",
+                    "title": "Tsource",
+                    "uri": "22YEkTXETkYPrJbJzVd1XG"
+                },
+                {
+                    "artist": "Black Marché",
+                    "title": "Jonquéra",
+                    "uri": "5JsnqrZDKgHfxS7ofMXvGr"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Luc Ferrari",
+                    "title": "Presque Rien Avec Files",
+                    "uri": "1qr90P8Mjq3fzkDby2zMfS"
+                },
+                {
+                    "artist": "Luc Ferrari",
+                    "title": "Didascalies",
+                    "uri": "45IQgRWLrBWFi3ouBGtsun"
+                },
+                {
+                    "artist": "Luc Ferrari",
+                    "title": "Hétérozygote",
+                    "uri": "1BCw4xFPg6fMJ3mOQyIgWW"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "JPEGMAFIA",
+                    "title": "ARE U HAPPY?",
+                    "uri": "5zChKVq8kdnWWPbVWezFW8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "JPEGMAFIA",
+                    "title": "ARE U HAPPY?",
+                    "uri": "5zChKVq8kdnWWPbVWezFW8"
+                },
+                {
+                    "artist": "JPEGMAFIA",
+                    "title": "1539 N. Calvert",
+                    "uri": "6XyxCBp6x3jvtxXvMN5sAA"
+                },
+                {
+                    "artist": "shy martin",
+                    "title": "Are you happy?",
+                    "uri": "6s86N7LVaJZuU4alwKp6XO"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kasra",
+                    "title": "Overthinking",
+                    "uri": "05IkDPJQiCT8zc2IfWhif9"
+                },
+                {
+                    "artist": "Evening Primrose",
+                    "title": "Kanzakura",
+                    "uri": "2Ytdwhq9n9JYjADu6RktpO"
+                },
+                {
+                    "artist": "Evening Primrose",
+                    "title": "Shidarezakura",
+                    "uri": "5W9xvOxeiWGatAcka6pE6u"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "So Klarity",
+                    "title": "Secrets Revealed",
+                    "uri": "05GZJuB217bJi4tpWyF605"
+                },
+                {
+                    "artist": "So Klarity",
+                    "title": "She Says",
+                    "uri": "39gbKvvclVc2w1xMa2PCRd"
+                },
+                {
+                    "artist": "So Klarity",
+                    "title": "Let Us Be",
+                    "uri": "0KrSwTVRVY58NlE84knvOW"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alban Berg",
+                    "title": "Violin Concerto \"To the Memory of an Angel\": I. Andante – Allegretto",
+                    "uri": "0TPeXLC56GfnWscAYX091j"
+                },
+                {
+                    "artist": "Goldmund",
+                    "title": "Bergen",
+                    "uri": "6w0GOM52fyULV0jjQSBdJk"
+                },
+                {
+                    "artist": "BLECHpfiff",
+                    "title": "Berg - Modern",
+                    "uri": "6kRzbCzuxJNbcwPOcWAnA8"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Eartheater",
+                    "title": "Prodigal Self",
+                    "uri": "1De1Fvd55Ru0x8ftAXnEZJ"
+                },
+                {
+                    "artist": "Eartheater",
+                    "title": "Prodigal Self",
+                    "uri": "6DzWhcaxD9NInxukedgqXm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eartheater",
+                    "title": "Prodigal Self",
+                    "uri": "1De1Fvd55Ru0x8ftAXnEZJ"
+                },
+                {
+                    "artist": "Eartheater",
+                    "title": "Prodigal Self",
+                    "uri": "6DzWhcaxD9NInxukedgqXm"
+                },
+                {
+                    "artist": "Eartheater",
+                    "title": "Scripture",
+                    "uri": "1GG23RRVNQiPbzEY8cBXNG"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Maral",
+                    "title": "Walk And A Talk",
+                    "uri": "1sgY5ppbcxSDlwI7DYGZOo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Maral",
+                    "title": "Walk And A Talk",
+                    "uri": "1sgY5ppbcxSDlwI7DYGZOo"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Jonquera",
+                    "title": "Court Dialogue avec une Porte",
+                    "uri": "2G45LBh4z2xQBaHKhfxuS8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jonquera",
+                    "title": "Court Dialogue avec une Porte",
+                    "uri": "2G45LBh4z2xQBaHKhfxuS8"
+                },
+                {
+                    "artist": "Jonquera",
+                    "title": "K est un Sociologue",
+                    "uri": "6C2Xi4zY3rMjfn4P7OxTyU"
+                },
+                {
+                    "artist": "Jonquera",
+                    "title": "Le Dormeur",
+                    "uri": "2ay9y3wrDpsqwOR6onAHSo"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Morton Feldman",
+                    "title": "Rothko Chapel 5",
+                    "uri": "3ci95cJaK7fYZN3o9YBTXf"
+                },
+                {
+                    "artist": "Morton Feldman",
+                    "title": "Why Patterns?",
+                    "uri": "0a7kqJ5P1utfJigUvyyIQ5"
+                },
+                {
+                    "artist": "Morton Feldman",
+                    "title": "Rothko Chapel 4",
+                    "uri": "1BdD77WT88HO9RRxiaRULd"
+                }
+            ]
+        }
+    },
     "diet-clinic-7th-february-2022": {
         "00": {
             "s0": "",

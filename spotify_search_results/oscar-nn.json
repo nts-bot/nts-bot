@@ -629,5 +629,424 @@
                 }
             ]
         }
+    },
+    "oscar-nn-7th-march-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hazy",
+                    "title": "Anash i lija",
+                    "uri": "7pacwNtpHnwoSr7J9Y6sIP"
+                },
+                {
+                    "artist": "Hazy",
+                    "title": "Soulful",
+                    "uri": "3ZoLfPF1YISG5RRlTTtiAL"
+                },
+                {
+                    "artist": "Haze",
+                    "title": "Hass",
+                    "uri": "74k2Kf6opyWc3yd9l2GRdE"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Yves Tumor",
+                    "title": "Limerence",
+                    "uri": "2wiV5iKq5F5A0KUee4OrlK"
+                },
+                {
+                    "artist": "Yves Tumor",
+                    "title": "Limerence",
+                    "uri": "1KeUP2WeWCXq3yd7MZsnmN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Yves Tumor",
+                    "title": "Limerence",
+                    "uri": "2wiV5iKq5F5A0KUee4OrlK"
+                },
+                {
+                    "artist": "Yves Tumor",
+                    "title": "Limerence",
+                    "uri": "1KeUP2WeWCXq3yd7MZsnmN"
+                },
+                {
+                    "artist": "Yves Tumor",
+                    "title": "Echolalia",
+                    "uri": "7uECCWx2tz4T102b2QBS0p"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pépe",
+                    "title": "Palinka Hammer",
+                    "uri": "405oemtoLfu1BsXsnfmult"
+                },
+                {
+                    "artist": "Pépé Oleka",
+                    "title": "Séyi",
+                    "uri": "0sQddXIrdG2vEg6awZh1kw"
+                },
+                {
+                    "artist": "Pépé Oleka",
+                    "title": "Yè Kpee Bèeri",
+                    "uri": "4jDWCnqhoLxnOiodPwMUcw"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Nicolas Jaar",
+                    "title": "Telallás",
+                    "uri": "1YO9Kh0x4qxSqcQNFxepGX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nicolas Jaar",
+                    "title": "Telallás",
+                    "uri": "1YO9Kh0x4qxSqcQNFxepGX"
+                },
+                {
+                    "artist": "Nicolas Jaar",
+                    "title": "El Bandido",
+                    "uri": "0YQznyH9mJn6UTwWFHqy4b"
+                },
+                {
+                    "artist": "Nicolas Jaar",
+                    "title": "Variations",
+                    "uri": "3i8PWTx08WL1vjQYLaX3Fv"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Kelela",
+                    "title": "Sorbet",
+                    "uri": "6yLrQ7UEwIknRZNm7boKHV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kelela",
+                    "title": "Sorbet",
+                    "uri": "6yLrQ7UEwIknRZNm7boKHV"
+                },
+                {
+                    "artist": "Kelela",
+                    "title": "Contact",
+                    "uri": "6RlczF1bVrcf4f65qaXuoA"
+                },
+                {
+                    "artist": "Kelela",
+                    "title": "Closure",
+                    "uri": "5tir4dUwLnKYd1rr0zLiGR"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Susumu Yokota",
+                    "title": "Incantation of the Stars",
+                    "uri": "3Vyb5kHJFNSjuxA7ZKHJeU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Susumu Yokota",
+                    "title": "Azukiiro No Kaori",
+                    "uri": "5J94BE34S8gqfmhTFQzHmM"
+                },
+                {
+                    "artist": "Susumu Yokota",
+                    "title": "Kirakiraboshi",
+                    "uri": "3cmnCQ0h8Ae90Xbn85VmZY"
+                },
+                {
+                    "artist": "Susumu Yokota",
+                    "title": "Tobiume",
+                    "uri": "4IQWc6rhJwpFrRKBLx27X6"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Beverly Glenn-Copeland",
+                    "title": "Ever New - Kelsey Lu's Transportation",
+                    "uri": "0ho4OUfbmWxSB1CprlUwDd"
+                },
+                {
+                    "artist": "Beverly Glenn-Copeland",
+                    "title": "Ever New - Kelsey Lu's Transportation",
+                    "uri": "7phAh8nVvsh8xljwTHlQSr"
+                },
+                {
+                    "artist": "Beverly Glenn-Copeland",
+                    "title": "Ever New - Kelsey Lu's Transportation",
+                    "uri": "1phg5J5iVwktvsIvYlLdgn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Beverly Glenn-Copeland",
+                    "title": "Ever New - Kelsey Lu's Transportation",
+                    "uri": "7phAh8nVvsh8xljwTHlQSr"
+                },
+                {
+                    "artist": "Beverly Glenn-Copeland",
+                    "title": "Ever New - Kelsey Lu's Transportation",
+                    "uri": "0ho4OUfbmWxSB1CprlUwDd"
+                },
+                {
+                    "artist": "Beverly Glenn-Copeland",
+                    "title": "Ever New",
+                    "uri": "6nXk3XcfNmwtig7acQxRbc"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Laraaji",
+                    "title": "Kalimba (Glimpse)",
+                    "uri": "6B7IuCCr59wErn3mVk7cqp"
+                },
+                {
+                    "artist": "Laraaji",
+                    "title": "Kalimba",
+                    "uri": "1yo8qUWGxcUfzTSBMXMXdE"
+                },
+                {
+                    "artist": "Laraaji",
+                    "title": "Kalimba 4",
+                    "uri": "78RHt6dlUHjdISfeE2sgUp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laraaji",
+                    "title": "Kalimba 4",
+                    "uri": "78RHt6dlUHjdISfeE2sgUp"
+                },
+                {
+                    "artist": "Laraaji",
+                    "title": "Kalimba (Glimpse)",
+                    "uri": "6B7IuCCr59wErn3mVk7cqp"
+                },
+                {
+                    "artist": "Tony Esposito",
+                    "title": "Kalimba De Luna",
+                    "uri": "5JVsjYDxyCV2aIGj16M4uV"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Earth Trax",
+                    "title": "Today",
+                    "uri": "4mbPtSfupWHTNlgrQX3ZBF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Earth Trax",
+                    "title": "Today",
+                    "uri": "4mbPtSfupWHTNlgrQX3ZBF"
+                },
+                {
+                    "artist": "Earth Trax",
+                    "title": "If You (Club Mix) - Mixed",
+                    "uri": "4qmaEfAe4UHGVBDMZp9xnn"
+                },
+                {
+                    "artist": "M83",
+                    "title": "Earth To Sea",
+                    "uri": "3z3HLoebu1vStmpXYaMaMa"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "rRoxymore",
+                    "title": "Water Stains",
+                    "uri": "6iqN8Yf7K1ue1RafLLK0AJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "rRoxymore",
+                    "title": "Water Stains",
+                    "uri": "6iqN8Yf7K1ue1RafLLK0AJ"
+                },
+                {
+                    "artist": "The Liberators",
+                    "title": "Water Somewhere (feat. Roxie Ray)",
+                    "uri": "4mB0EhyoYnyi2m9EN4530l"
+                },
+                {
+                    "artist": "The Liberators",
+                    "title": "Water Somewhere",
+                    "uri": "48dUNV012h6qLPmrfp2JkG"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Ceticências",
+                    "title": "Virtual Sunset",
+                    "uri": "29jx0tncvU1EXm4oSzNr4M"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hong Kong Express",
+                    "title": "Virtual Sunset",
+                    "uri": "6ZUh4f2ESAfDZFF1nl0nSd"
+                },
+                {
+                    "artist": "RedCocoa",
+                    "title": "Virtual Sunset",
+                    "uri": "5EryhIfaEwGWB2ivaWow5c"
+                },
+                {
+                    "artist": "Cinematic",
+                    "title": "Remember - Sunset Dream Mix",
+                    "uri": "6Ech1iymzFGDWTAZHGkYxb"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Dengue Dengue Dengue",
+                    "title": "Yacuruna",
+                    "uri": "5gxffK0qVVDKDNHR7VeGcn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dengue Dengue Dengue",
+                    "title": "Yacuruna",
+                    "uri": "5gxffK0qVVDKDNHR7VeGcn"
+                },
+                {
+                    "artist": "Dengue Dengue Dengue",
+                    "title": "Serpiente Dorada",
+                    "uri": "1lAwqRBdQOnGltiX0oNm9I"
+                },
+                {
+                    "artist": "Xique-Xique",
+                    "title": "Senhor Carangeju - Dengue Dengue Dengue Remix",
+                    "uri": "76WbdLgFwXC1ZwMzWDTNxt"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Otodojo",
+                    "title": "Frog Swimming in the Rain",
+                    "uri": "3WITySLKvXWJvBWzSK7yNh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Otodojo",
+                    "title": "Frog Swimming in the Rain",
+                    "uri": "3WITySLKvXWJvBWzSK7yNh"
+                },
+                {
+                    "artist": "K.Elle",
+                    "title": "Frog - Original Mix",
+                    "uri": "0R7WeAUTkXVI5fiVZmJo03"
+                },
+                {
+                    "artist": "René Aubry",
+                    "title": "The Frog",
+                    "uri": "5yZq5bVTz9aMsc9QdwkzmZ"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Herb Ohta, Jr.",
+                    "title": "He Aloha Mele",
+                    "uri": "5RWTQHrhubFDDDbpSiMmWJ"
+                },
+                {
+                    "artist": "Bryan Tolentino",
+                    "title": "Hawai'i Calls",
+                    "uri": "1dwZB896AF0g3ycl4fWYPA"
+                },
+                {
+                    "artist": "Bryan Tolentino",
+                    "title": "Kaulana Kawaihae",
+                    "uri": "0MgHhWRVG3tRYuCKT84eFZ"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Leonard Cohen",
+                    "title": "Cohen: Hallelujah",
+                    "uri": "4MoZUZ1zMX5VXTalA0PO1I"
+                },
+                {
+                    "artist": "Phileas",
+                    "title": "Field Commander Cohen",
+                    "uri": "76eRCtw9sABRqQwdGE4NZK"
+                },
+                {
+                    "artist": "Coen Molenaar",
+                    "title": "Le Printemps du Coeur- Une Liaison Amoureuse",
+                    "uri": "1XyrzokknbUbEpME4NZFVz"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Aphex Twin",
+                    "title": "aisatsana [102]",
+                    "uri": "5ljMlD10En5rRGZU0cs2Np"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aphex Twin",
+                    "title": "aisatsana [102]",
+                    "uri": "5ljMlD10En5rRGZU0cs2Np"
+                },
+                {
+                    "artist": "Aphex Twin",
+                    "title": "QKThr",
+                    "uri": "4LIM4qmpHABufePRrLWbiM"
+                },
+                {
+                    "artist": "Aphex Twin",
+                    "title": "Ageispolis",
+                    "uri": "7KRQoq9GeWeCm0ZAXg5XMb"
+                }
+            ]
+        }
     }
 }
