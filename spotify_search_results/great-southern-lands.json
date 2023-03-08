@@ -6483,6 +6483,331 @@
             ]
         }
     },
+    "great-southern-lands-7th-march-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Eternal Dust",
+                    "title": "Teddy Bear Venom",
+                    "uri": "2QsZUwYK4iRtIOBIzCqIMy"
+                },
+                {
+                    "artist": "Eternal Dust",
+                    "title": "Teddy Bear Venom",
+                    "uri": "6VCBg3NYH47D5CxccQ9pZA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eternal Dust",
+                    "title": "Teddy Bear Venom",
+                    "uri": "2QsZUwYK4iRtIOBIzCqIMy"
+                },
+                {
+                    "artist": "Eternal Dust",
+                    "title": "Teddy Bear Venom",
+                    "uri": "6VCBg3NYH47D5CxccQ9pZA"
+                },
+                {
+                    "artist": "Eternal Dust",
+                    "title": "Candy",
+                    "uri": "33XcdXPlp0a8HM8EOToD4X"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Carla dal Forno",
+                    "title": "Stay Awake",
+                    "uri": "3BXCXbFr7qSjpJzbPSRTNB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Carla dal Forno",
+                    "title": "Stay Awake",
+                    "uri": "3BXCXbFr7qSjpJzbPSRTNB"
+                },
+                {
+                    "artist": "Carla dal Forno",
+                    "title": "Come Around",
+                    "uri": "2yqgGe6ndouDRYaD7PADI6"
+                },
+                {
+                    "artist": "Carla dal Forno",
+                    "title": "Clusters",
+                    "uri": "0fMDESgC69ou2u3Utrcp6e"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Yuta Matsumura",
+                    "title": "Tabula Rasa",
+                    "uri": "56X5659ftvFedk3taJj9YN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Max Herre",
+                    "title": "Tabula Rasa Pt. 1",
+                    "uri": "07C9Hisa9t640vjUAXLZGO"
+                },
+                {
+                    "artist": "Tinush",
+                    "title": "Tabula Rasa",
+                    "uri": "1jowEszu5pmx67kSLxkf3Z"
+                },
+                {
+                    "artist": "Charizma867",
+                    "title": "Yuta",
+                    "uri": "4VsJvWf4u6xBf2xFhm1fiQ"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Hantu",
+                    "title": "Catatonic Scale",
+                    "uri": "0YHmPMs48m8F7Eg74CUGfD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hantu",
+                    "title": "Catatonic Scale",
+                    "uri": "0YHmPMs48m8F7Eg74CUGfD"
+                },
+                {
+                    "artist": "Geezer Butler",
+                    "title": "Catatonic Eclipse",
+                    "uri": "1bnADnEHZtAg42ZqWOmuKB"
+                },
+                {
+                    "artist": "StudyMonk",
+                    "title": "Hantu Ambience IV",
+                    "uri": "0cXV0ad9YqW8x6aH6kCNwb"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Benasis",
+                    "title": "Atom Bomb",
+                    "uri": "1GEVjExUuVW7bab339szBy"
+                },
+                {
+                    "artist": "Authority Zero",
+                    "title": "Atom Bomb",
+                    "uri": "4Ee0YYTuW1ZuM49eMci6bF"
+                },
+                {
+                    "artist": "Atom Bomb",
+                    "title": "Liquid Courage",
+                    "uri": "3CLal9NEnWhgyX4RzXDQlt"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Rainbow Generator",
+                    "title": "City of the Sun",
+                    "uri": "0MHVQZF2gkIagjgKNfpqbU"
+                }
+            ],
+            "s1": ""
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Portable Dogs",
+                    "title": "Sleeping in the Vacuum",
+                    "uri": "2pHyrDDXys9ACKyozLNpBx"
+                }
+            ],
+            "s1": ""
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Troth",
+                    "title": "Forget The Curse",
+                    "uri": "3TcIBuMZ2F5bc3hF1tOJbp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Troth",
+                    "title": "Forget The Curse",
+                    "uri": "3TcIBuMZ2F5bc3hF1tOJbp"
+                },
+                {
+                    "artist": "Troth",
+                    "title": "Phare",
+                    "uri": "4N92mYGzWCFp8X925TUdSI"
+                },
+                {
+                    "artist": "Troth",
+                    "title": "Amarant",
+                    "uri": "2WLiYzZA31Atm4kuVGG4AB"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "||||||",
+                    "title": "Witness",
+                    "uri": "31Vwhv0Zc9msXTBoYDOUlh"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Clout",
+                    "title": "Two Can Too",
+                    "uri": "1PS7wtan0IGxdFd1Q2qr6L"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Marvin Gaye",
+                    "title": "Two Can Have A Party",
+                    "uri": "0LIxJkq7caYmgbawjgEqMn"
+                },
+                {
+                    "artist": "Tammi Terrell",
+                    "title": "Two Can Have A Party",
+                    "uri": "7bigT4Lycn6KGeI3Nz4OgF"
+                },
+                {
+                    "artist": "DyDy",
+                    "title": "2 Can",
+                    "uri": "3yBgpFNjYTQSpurIb2Xq65"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Patrick Gibson",
+                    "title": "Yeah OK",
+                    "uri": "2EV18khvbwpiM0Ir9BkpyT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Patrick Gibson",
+                    "title": "Bland A",
+                    "uri": "1Y99wRwfCmUEvv0xDzXChh"
+                },
+                {
+                    "artist": "Patrick Gibson",
+                    "title": "My Best Friend",
+                    "uri": "1hEtj4Ps4QvJ7B67h30w1d"
+                },
+                {
+                    "artist": "Patrick Gibson",
+                    "title": "Hydrobes",
+                    "uri": "2iV0hDYllKy6d1OWxbDjjB"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Leighton Craig",
+                    "title": "Vessel",
+                    "uri": "5YkIkX9iT6PBZzAh5xLcUb"
+                },
+                {
+                    "artist": "Leighton Craig",
+                    "title": "Roads and Laneways",
+                    "uri": "1QgCQe5SAoVRiNdBRMTkZP"
+                },
+                {
+                    "artist": "Leigh Gracie",
+                    "title": "I Tell Ya",
+                    "uri": "1FnEdIVpg41Q0sAAShw0wY"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "MC ORSEN",
+                    "title": "DESTRUCTION",
+                    "uri": "6HHeDaw7X8UI6Ci17mPZ20"
+                },
+                {
+                    "artist": "James Horner",
+                    "title": "The destruction of Hometree",
+                    "uri": "4vpJ9MIOfnyVshzptSl68x"
+                },
+                {
+                    "artist": "Garçons",
+                    "title": "The Destroyer",
+                    "uri": "6W4YTp6QKGVzMPBasGeP6m"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hayden J Barlow",
+                    "title": "persona non grata",
+                    "uri": "19QUigUQ8XqHZXDs8qwV3H"
+                },
+                {
+                    "artist": "Hayden Everett",
+                    "title": "Neptune",
+                    "uri": "31MyCabBwai47mgPdVDruh"
+                },
+                {
+                    "artist": "Hayden Muir",
+                    "title": "Gotta Know",
+                    "uri": "5WwTepBEBN4yF60606bM5E"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Jonnine",
+                    "title": "Can I Trust the Flowers",
+                    "uri": "4H4sJMplHvNK7BdEToC3L6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jonnine",
+                    "title": "Can I Trust the Flowers",
+                    "uri": "4H4sJMplHvNK7BdEToC3L6"
+                },
+                {
+                    "artist": "Jonnine",
+                    "title": "There's Nothing There",
+                    "uri": "24NRsoYrkTZ4iaPeH4iB01"
+                },
+                {
+                    "artist": "Jonnine",
+                    "title": "Portrait",
+                    "uri": "1FXf8K14nTZAEMuNleobJd"
+                }
+            ]
+        }
+    },
     "great-southern-lands-8th-february-2022": {
         "00": {
             "s0": [

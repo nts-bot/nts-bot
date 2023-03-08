@@ -480,5 +480,526 @@
                 }
             ]
         }
+    },
+    "bill-brewster-7th-march-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Mystic Jungle",
+                    "title": "Hold On Your Dreams",
+                    "uri": "3x3sJuCKGIE3ZdkmJfvgmb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mystic Jungle",
+                    "title": "Hold On Your Dreams",
+                    "uri": "3x3sJuCKGIE3ZdkmJfvgmb"
+                },
+                {
+                    "artist": "Mystic Jungle",
+                    "title": "Money Wonder",
+                    "uri": "23kZyOvUJxOUL8k9GRTh12"
+                },
+                {
+                    "artist": "Mystic Jungle",
+                    "title": "Get Down On It",
+                    "uri": "0fKleXh1g3sicKvs8yHIHP"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Anchorsong",
+                    "title": "Windmills - Salamanda Remix",
+                    "uri": "2OED5zZJw9gNHeZWwm5wLg"
+                },
+                {
+                    "artist": "Anchorsong",
+                    "title": "Windmills",
+                    "uri": "3KePELHtp7jrxq570qmecL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Anchorsong",
+                    "title": "Windmills - Salamanda Remix",
+                    "uri": "2OED5zZJw9gNHeZWwm5wLg"
+                },
+                {
+                    "artist": "KaspaHauser",
+                    "title": "Windmills",
+                    "uri": "2f4mTu5Y6I3wVApqhy5wbV"
+                },
+                {
+                    "artist": "Ernesto Cortazar",
+                    "title": "The Windmills of My Mind",
+                    "uri": "5UoEI0nD5uekm0dT1xVDo6"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Bibio",
+                    "title": "Potion",
+                    "uri": "2l9ON8Qv6uW3BpqLKxPSyO"
+                },
+                {
+                    "artist": "Bibio",
+                    "title": "Potion",
+                    "uri": "3J4AAy4dA39gqlxqwRKUs7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bibio",
+                    "title": "Potion",
+                    "uri": "2l9ON8Qv6uW3BpqLKxPSyO"
+                },
+                {
+                    "artist": "Bibio",
+                    "title": "Curls",
+                    "uri": "3bylizl2h9xMjnP8fRKrdz"
+                },
+                {
+                    "artist": "Bibio",
+                    "title": "Lovers Carvings - WXAXRXP Session",
+                    "uri": "6FnqA5BcNf6EMnOIdP4H7W"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Olefonken",
+                    "title": "Quaaludes (feat. ARY)",
+                    "uri": "4IZWc3jMafBcUdZX8oUjYx"
+                },
+                {
+                    "artist": "Olefonken",
+                    "title": "Quaaludes (feat. ARY)",
+                    "uri": "13FYqrNA9JAl4e8mm56uPm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Olefonken",
+                    "title": "Quaaludes (feat. ARY)",
+                    "uri": "4IZWc3jMafBcUdZX8oUjYx"
+                },
+                {
+                    "artist": "Olefonken",
+                    "title": "Quaaludes (feat. ARY)",
+                    "uri": "13FYqrNA9JAl4e8mm56uPm"
+                },
+                {
+                    "artist": "Olefonken",
+                    "title": "Ubuntu Tutu",
+                    "uri": "60W0O1pIUu7Oh0eW91efmD"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Troy Patterson",
+                    "title": "Jackie Robinson",
+                    "uri": "0k63cyGF9ULyvquE9RvQ2i"
+                },
+                {
+                    "artist": "Drxp",
+                    "title": "JACKIE ROBINSON",
+                    "uri": "65nk9oawSqcenEi2IIRUuD"
+                },
+                {
+                    "artist": "BtgBug",
+                    "title": "Jackie Robinson",
+                    "uri": "3gVMCZIIQzTkMHAbARncwZ"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Payfone",
+                    "title": "I Feel You - Radio Edit",
+                    "uri": "6lhqG2vZTt59GrJCtuBSoc"
+                },
+                {
+                    "artist": "Payfone",
+                    "title": "I Feel You - Original Mix",
+                    "uri": "2PdVJw4ItQLSJcMA9VrUoS"
+                },
+                {
+                    "artist": "Payfone",
+                    "title": "I Feel You - Mudd Remix",
+                    "uri": "0vbk0k9ozsMLFUyCRIdPCz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Payfone",
+                    "title": "I Feel You - Original Mix",
+                    "uri": "2PdVJw4ItQLSJcMA9VrUoS"
+                },
+                {
+                    "artist": "Payfone",
+                    "title": "I Feel You - Radio Edit",
+                    "uri": "6lhqG2vZTt59GrJCtuBSoc"
+                },
+                {
+                    "artist": "James Brown & The Famous Flames",
+                    "title": "I Got You (I Feel Good)",
+                    "uri": "5haXbSJqjjM0TCJ5XkfEaC"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Prince",
+                    "title": "1000 X'S & O'S",
+                    "uri": "2TiwG63UA4MOcJdWSyk8jc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Prince",
+                    "title": "1000 X'S & O'S",
+                    "uri": "2TiwG63UA4MOcJdWSyk8jc"
+                },
+                {
+                    "artist": "Prince",
+                    "title": "Purple Rain - Live In Syracuse, March 30, 1985 - 2022 Remaster",
+                    "uri": "6P8EQDBxrHmBWJgnN9lL8g"
+                },
+                {
+                    "artist": "Prince",
+                    "title": "1999",
+                    "uri": "2H7PHVdQ3mXqEHXcvclTB0"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tinlicker",
+                    "title": "Hypnotised",
+                    "uri": "3o5P6TF0Gop8MiuuuTtttl"
+                },
+                {
+                    "artist": "Sonny Wern",
+                    "title": "Hypnotized",
+                    "uri": "4lZy71O5THGFUoTKcQFGfW"
+                },
+                {
+                    "artist": "Drakei",
+                    "title": "Hypnotized Tydem",
+                    "uri": "6D1kzHqFTkzGYu4emmK2QK"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eddy Grant",
+                    "title": "Gimme Hope Jo'anna",
+                    "uri": "6295Cr4SGdjJgnJ6DLtZFn"
+                },
+                {
+                    "artist": "Eddy Grant",
+                    "title": "I Don't Wanna Dance",
+                    "uri": "1BgqXYebLntiA4etMGoDJg"
+                },
+                {
+                    "artist": "Eddy Grant",
+                    "title": "Gimme Hope Jo'Anna",
+                    "uri": "6W99yGcIH43jskdRA7idD3"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "FREEDOM",
+                    "title": "Ecstacy",
+                    "uri": "7f2KmRUQTDGE9gIryK4TmU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "ASTRE",
+                    "title": "Freedom - Jesse Jacob Remix",
+                    "uri": "740cmV4DyAuleXnqBi6lrZ"
+                },
+                {
+                    "artist": "Café Du MIDI",
+                    "title": "Ecstacy",
+                    "uri": "28Xhh5MktqInbIZA4qPr6Y"
+                },
+                {
+                    "artist": "NXTSSN",
+                    "title": "Freedom",
+                    "uri": "6a3QAJCOvonFt3tfECMtIh"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Freda Payne",
+                    "title": "I Get High",
+                    "uri": "39ZxeUDHT7jEpRmpQP3W03"
+                },
+                {
+                    "artist": "Freda Payne",
+                    "title": "Band Of Gold (Single Mix)",
+                    "uri": "4o7pdbMDw6XwfXZFCZDoUH"
+                },
+                {
+                    "artist": "Freda Payne",
+                    "title": "Bring The Boys Home",
+                    "uri": "5EOSdLJhhq31GYCawQ5FTC"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hugh Masekela",
+                    "title": "Grazing In The Grass",
+                    "uri": "2P6Buc8kWRgShx7aHIadqu"
+                },
+                {
+                    "artist": "Hugh Masekela",
+                    "title": "Stimela (The Coal Train)",
+                    "uri": "2HDQB4bZECI76iNFlay4V6"
+                },
+                {
+                    "artist": "Hugh Mundell",
+                    "title": "Africa Must Be Free By 1983",
+                    "uri": "3LEre9p18tm6orlPSupVgD"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Stephanie Mills",
+                    "title": "Never Knew Love Like This Before",
+                    "uri": "4EUlszQIxlPwiHJ6e6j6Gy"
+                },
+                {
+                    "artist": "Stephanie Mills",
+                    "title": "What Cha Gonna Do With My Lovin'",
+                    "uri": "2x70Hd0rEY179ngworSDdO"
+                },
+                {
+                    "artist": "Stephanie Mills",
+                    "title": "Never Knew Love Like This Before",
+                    "uri": "5XGC1CD6NfVjFx8kuLHHuv"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "AIKEREMIOKHA",
+                    "title": "STARLiGHT",
+                    "uri": "4vXZsgnTFU9sAAs2sRzzNQ"
+                },
+                {
+                    "artist": "Blitzkid",
+                    "title": "Starlite Decay",
+                    "uri": "35uZWBsnPAxQf5GGfERDJm"
+                },
+                {
+                    "artist": "Blitzkid",
+                    "title": "Starlite Decay - Live",
+                    "uri": "1EZ5g8anlFPoxJK0oqdcJV"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Ingrid Chavez",
+                    "title": "Justify My Love - Radio Edit",
+                    "uri": "5CnZ55Ci5BdF0CgkuIehXh"
+                },
+                {
+                    "artist": "Ingrid Chavez",
+                    "title": "Justify My Love - Radio Edit",
+                    "uri": "3ZkVVLoVvJTPO2MHBPhW9e"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Madonna",
+                    "title": "Justify My Love",
+                    "uri": "6BWRvw630R8z2vNMok6quI"
+                },
+                {
+                    "artist": "Hush Hush",
+                    "title": "Justify My Love",
+                    "uri": "2E511mMgQLigF5FFw9zwK7"
+                },
+                {
+                    "artist": "Purple Avenue",
+                    "title": "Justify My Love",
+                    "uri": "6LvuBSp0sFJgz29h9fjP8s"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Yomille Omar",
+                    "title": "Ese Soy Yo",
+                    "uri": "0TxlP2IOSBswQj6AdqJT3z"
+                },
+                {
+                    "artist": "George Frideric Handel",
+                    "title": "Messiah, HWV 56 / Pt. 2: No. 42 \"Hallelujah\"",
+                    "uri": "2SY9s0jXx2vrUL8tjljaSK"
+                },
+                {
+                    "artist": "Vincent Fanguro",
+                    "title": "Hallelujah - Piano Version",
+                    "uri": "7tW7bfj8kHzZREXxNXzCG5"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Stefan Ringer",
+                    "title": "Sexual Obsession",
+                    "uri": "7piy4NF0gIlWRDMfZQREaD"
+                },
+                {
+                    "artist": "Stefan Ringer",
+                    "title": "Time",
+                    "uri": "0XusVx2KsKdQqTx1UWz1PP"
+                },
+                {
+                    "artist": "Stefan Ringer",
+                    "title": "Me",
+                    "uri": "3HhlGVusbNwSl9oWnIivEL"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Osunlade",
+                    "title": "Momma's Groove - Jimpster's Hip Replacement Mix",
+                    "uri": "6HjdHMNIFf6OLGE14LfqWW"
+                },
+                {
+                    "artist": "Mthandeni King Igcokama Elisha",
+                    "title": "Zinsimbi Namaketango",
+                    "uri": "64WfyggSlvgEv7CBt39F6B"
+                },
+                {
+                    "artist": "Mthandeni King Igcokama Elisha",
+                    "title": "Ngiyimpohlo",
+                    "uri": "2qXoWy2ZgYFoWfiD9Ct3OJ"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Ashley Beedle",
+                    "title": "War On The Bullshit (Revive)",
+                    "uri": "19qeMf9k2mNAxfcikDvbNr"
+                },
+                {
+                    "artist": "Ashley Beedle",
+                    "title": "War On The Bullshit (Revive)",
+                    "uri": "49555XyEOVf7lU8JVc30Km"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ashley Beedle",
+                    "title": "War On The Bullshit (Revive)",
+                    "uri": "19qeMf9k2mNAxfcikDvbNr"
+                },
+                {
+                    "artist": "Groove Armada",
+                    "title": "We're Free (feat. Roseau) - Ashley Beedle's North Street West Vocal Mix",
+                    "uri": "3m4g2j7Vj6hcm0SVD3vsjT"
+                },
+                {
+                    "artist": "MAMA",
+                    "title": "Unmask Me - Ashley Beedle Vocal Mix [Mixed}",
+                    "uri": "49JHjPXa6V6clY8Fa4VwBp"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "David Bay",
+                    "title": "saudade - Edit",
+                    "uri": "3ecmX9cdy5NKeoE4GwLoV3"
+                },
+                {
+                    "artist": "David Bay",
+                    "title": "save on love - Edit",
+                    "uri": "77tjTonIkxPWPN1pL3j7O0"
+                },
+                {
+                    "artist": "David Bay",
+                    "title": "get it done - Edit",
+                    "uri": "62zJ1of7rLArVHfizrvCiO"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Calm Shores",
+                    "title": "Misu",
+                    "uri": "6GYxlcHxzmIKFZKmbZAvqK"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Allan Rayman",
+                    "title": "Good Enough",
+                    "uri": "5iJ7WcmHvQdrOJmkfa0Ywz"
+                },
+                {
+                    "artist": "Allan Rayman",
+                    "title": "Rider",
+                    "uri": "3UycBY0s0HntcfSb9l4Bzz"
+                },
+                {
+                    "artist": "Allan Rayman",
+                    "title": "Stitch",
+                    "uri": "2lN23XVD9TVH68MYsTXEmT"
+                }
+            ]
+        }
     }
 }

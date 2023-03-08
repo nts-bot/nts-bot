@@ -5001,6 +5001,600 @@
             ]
         }
     },
+    "early-bird-show-w-pam-7th-march-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kool Music",
+                    "title": "Hot House",
+                    "uri": "0ex7cEUSrPrXZ9Rfgjs0ef"
+                },
+                {
+                    "artist": "Kool Music",
+                    "title": "Running Back to Everyone",
+                    "uri": "41W54AAo9ZsFTg5oWeCO27"
+                },
+                {
+                    "artist": "Yung Heazy",
+                    "title": "Kool Musik",
+                    "uri": "3LE0MAb3rx5IEbmBy7Pset"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Paris, Texas",
+                    "uri": "1idiifjTcCoGfBeZiYOdim"
+                },
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Paris, Texas",
+                    "uri": "3PxtlY1d9VbTMkveVdbMYI"
+                },
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Paris, Texas (From Paris, Texas) - 2008 Remaster",
+                    "uri": "33OXrW25FbtmmA1DHBTPN0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Paris, Texas",
+                    "uri": "1idiifjTcCoGfBeZiYOdim"
+                },
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Paris, Texas",
+                    "uri": "3PxtlY1d9VbTMkveVdbMYI"
+                },
+                {
+                    "artist": "Ali Farka Touré",
+                    "title": "Ai Du (with Ry Cooder)",
+                    "uri": "3c6wivu78aLN7ZXp8UbpaI"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kontra K",
+                    "title": "Venedig & Berlin",
+                    "uri": "5bboQdcdRw6KnQ7DcaoIen"
+                },
+                {
+                    "artist": "Leo da Vinci",
+                    "title": "Leo und der Pakt mit Venedig - Teil 3",
+                    "uri": "64XtWp2bx2nJFJCeafDGH1"
+                },
+                {
+                    "artist": "Leo da Vinci",
+                    "title": "Leo und der Pakt mit Venedig - Teil 2",
+                    "uri": "3Rs0Q6CChOUBZZxdjZarcz"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gavin Luke",
+                    "title": "Luster",
+                    "uri": "1cukpNLzhpPWBEyoxsWvF9"
+                },
+                {
+                    "artist": "Lister",
+                    "title": "Just A Dream",
+                    "uri": "7LmnymRUysSzlhti7ww5fB"
+                },
+                {
+                    "artist": "The Goldlight",
+                    "title": "Lustre and Mist",
+                    "uri": "2tCQYWs43KyIximDIklg7z"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Mice Parade",
+                    "title": "Distant",
+                    "uri": "2IuXF7wwnOwFDurCFaeSCO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mice Parade",
+                    "title": "Eisa Dancers",
+                    "uri": "3fiifFZXmTnW6sSbIxtTRC"
+                },
+                {
+                    "artist": "Mice Parade",
+                    "title": "Circle None",
+                    "uri": "1afsltSl3gEQvaQmFQXZBX"
+                },
+                {
+                    "artist": "Mice Parade",
+                    "title": "Swing",
+                    "uri": "7AWkfURI0iCUSmZzMqe7u6"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "AOKI,hayato",
+                    "title": "akari",
+                    "uri": "09OeQ6H4BVAEcMWZRA0gM9"
+                },
+                {
+                    "artist": "Ari Anjou",
+                    "title": "悪ノ召使",
+                    "uri": "79mULE9ZefDhI3pGXJJKFq"
+                },
+                {
+                    "artist": "Akane",
+                    "title": "Akari",
+                    "uri": "2GPxvf4A7IOWPYeJYxLHAW"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The FLK",
+                    "title": "THE PLAGUE",
+                    "uri": "7vkbcMCAU6PkC7dUf5S6va"
+                },
+                {
+                    "artist": "The FLK",
+                    "title": "JOY OF MY HEART",
+                    "uri": "3A1uoqkbHvllVuXC3Z1bWw"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Pep Llopis",
+                    "title": "El Vell Rei De La Serp",
+                    "uri": "5BwpaKBEohjpgzgdoehrMq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pep Llopis",
+                    "title": "El Vell Rei De La Serp",
+                    "uri": "5BwpaKBEohjpgzgdoehrMq"
+                },
+                {
+                    "artist": "Pep Llopis",
+                    "title": "Muntanyes De Granit",
+                    "uri": "0Z8UvszQm0lfSF43aS9HIx"
+                },
+                {
+                    "artist": "Pep Llado",
+                    "title": "Boslamb - Version 2015",
+                    "uri": "1l2YZJnViT4LgoRPwS4wDv"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "M.B. Jones",
+                    "title": "Aberration",
+                    "uri": "4qVT2JSzLD9FUBA3Kd4Wjk"
+                },
+                {
+                    "artist": "M.B. Jones",
+                    "title": "Plastic Kisses",
+                    "uri": "2a73of6bOiReXXOEzjuAmF"
+                },
+                {
+                    "artist": "Tamoledgcchi",
+                    "title": "Ms Jones",
+                    "uri": "3bR4CixqT1Sw3ZsHWyse3e"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Lolina",
+                    "title": "Music Is The Drug",
+                    "uri": "1BWGyrR8iDDXwhXmE5xmQQ"
+                },
+                {
+                    "artist": "Lolina",
+                    "title": "Music Is the Drug",
+                    "uri": "2SJzimt6ti4VaJ9LaFS3vH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lolina",
+                    "title": "Music Is The Drug",
+                    "uri": "1BWGyrR8iDDXwhXmE5xmQQ"
+                },
+                {
+                    "artist": "Lolina",
+                    "title": "What Is Power",
+                    "uri": "6g5LFDLYabKTNAYDadPSTo"
+                },
+                {
+                    "artist": "Lolina",
+                    "title": "Roulette",
+                    "uri": "1u7Cvh0mtUnG7tzwinZuny"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "The Field Mice",
+                    "title": "Let's Kiss And Make Up",
+                    "uri": "5urjgNA7TyXo74Sk9SQboB"
+                },
+                {
+                    "artist": "The Field Mice",
+                    "title": "Let's Kiss And Make Up",
+                    "uri": "6GFpLcryJIiKHra6kn5opu"
+                },
+                {
+                    "artist": "The Field Mice",
+                    "title": "Let's Kiss And Make Up",
+                    "uri": "57xTBIjHb0wPokoAGtcrqG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Field Mice",
+                    "title": "Let's Kiss And Make Up",
+                    "uri": "5urjgNA7TyXo74Sk9SQboB"
+                },
+                {
+                    "artist": "The Field Mice",
+                    "title": "Sensitive",
+                    "uri": "33zwWEUDFLFndK0nVKJ4a8"
+                },
+                {
+                    "artist": "The Field Mice",
+                    "title": "If You Need Someone",
+                    "uri": "76UnqLEbklk07LOjmv6Pma"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "James Taylor",
+                    "title": "Migration - 2019 Remaster",
+                    "uri": "0TSRDYGihXBNPxe02JDpqU"
+                },
+                {
+                    "artist": "James Taylor",
+                    "title": "Migration - 2019 Remaster",
+                    "uri": "5Xv3TQ52BTA6jw1kH8SBx3"
+                },
+                {
+                    "artist": "James D. Taylor Jr.",
+                    "title": "Migration",
+                    "uri": "2CRfvKg6d6KWpjeTqaNoXZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "James Taylor",
+                    "title": "Carolina in My Mind",
+                    "uri": "2T5Ch09nefwckOu5NQvjIk"
+                },
+                {
+                    "artist": "James Taylor",
+                    "title": "Fire and Rain - 2019 Remaster",
+                    "uri": "1oht5GevPN9t1T3kG1m1GO"
+                },
+                {
+                    "artist": "James Taylor",
+                    "title": "You've Got a Friend - 2019 Remaster",
+                    "uri": "6zV8IpLvw0tkRSVCFQJB1y"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Antonio Vivaldi",
+                    "title": "Concerto For 2 Violins In A Minor, Op. 3, No. 8, RV 522: I. Allegro",
+                    "uri": "44zX8MfytEoXLGI2o6g7XP"
+                },
+                {
+                    "artist": "Antonio Vivaldi",
+                    "title": "Concerto Grosso In G Minor, Op. 3, No. 2, RV 578: I. Adagio E Spiccato - Allegro",
+                    "uri": "5VNlUlsA6yZLzDzEctTkst"
+                },
+                {
+                    "artist": "Antonio Vivaldi",
+                    "title": "Concerto For 4 Violins In D Major, Op. 3, No. 1, RV 549: I. Allegro",
+                    "uri": "6Vbrz1HNZy79M8YXoC6MRT"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "David Edren",
+                    "title": "Shift Register | シフトレジスタ",
+                    "uri": "2FochwvQNMHcxwAtgyqmDc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "David Edren",
+                    "title": "Shift Register | シフトレジスタ",
+                    "uri": "2FochwvQNMHcxwAtgyqmDc"
+                },
+                {
+                    "artist": "M-Seven",
+                    "title": "Shift",
+                    "uri": "444N0NdLyFZ26UjisN6pnr"
+                },
+                {
+                    "artist": "Smilla",
+                    "title": "Shift Sequence - Rakom Remix",
+                    "uri": "0rfFvNRcfEYdOCdxL6F2bz"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Silent Poets",
+                    "title": "SUGAR MAN - INSTRUMENTAL",
+                    "uri": "5w216AEp0mIfb3DnSQTGA7"
+                },
+                {
+                    "artist": "Silent Poets",
+                    "title": "SUGAR MAN - PIANO, STRINGS VERSION INSTRUMENTAL",
+                    "uri": "6gAivP4uFvoigvrfmV0QJg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rodríguez",
+                    "title": "Sugar Man",
+                    "uri": "17nOJOcPbcl4sKzM2yyYDp"
+                },
+                {
+                    "artist": "Silent Poets",
+                    "title": "Asylums for the feeling feat. Leila Adu",
+                    "uri": "0zsDAdng7q4y8vAXXEDuED"
+                },
+                {
+                    "artist": "Silent Poets",
+                    "title": "Non Stoppa feat. Miss Red",
+                    "uri": "6jUAOov4kMAMn9sAItMVwE"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Laurie Anderson",
+                    "title": "Sharkey's Day - Remastered Single Edit",
+                    "uri": "6zDqBZemORqzuZ2u6481nK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laurie Anderson",
+                    "title": "Sharkey's Day",
+                    "uri": "0ARov5gkfBA3cyeWJ2x9bl"
+                },
+                {
+                    "artist": "Laurie Anderson",
+                    "title": "O Superman",
+                    "uri": "421Gp1eSmOIcD6alTWowFR"
+                },
+                {
+                    "artist": "Alexandre Desplat",
+                    "title": "Laurie and Jo on the Hill",
+                    "uri": "4xui9WfNYFy7DKZfFBzSQA"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bosse",
+                    "title": "Sunnyside",
+                    "uri": "2Q2Ql90ozo6QltoE3TLNNg"
+                },
+                {
+                    "artist": "Bosse",
+                    "title": "Sunnyside",
+                    "uri": "4w8S0k1mvVuhin66qyFNwx"
+                },
+                {
+                    "artist": "Surfaces",
+                    "title": "Sunny Side Up",
+                    "uri": "6amgTQrn3KDLFxTG2AhWUA"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Beach Boys",
+                    "title": "Kokomo",
+                    "uri": "5qHYXcVvc9xsFB2uH7GpMN"
+                },
+                {
+                    "artist": "The Beach Boys",
+                    "title": "Wouldn't It Be Nice - Remastered 2000 / Stereo Mix",
+                    "uri": "2Gy7qnDwt8Z3MNxqat4CsK"
+                },
+                {
+                    "artist": "The Beach Boys",
+                    "title": "Surfin' U.S.A. - Remastered 2001",
+                    "uri": "0wz1LjDb9ZNEYwOmDJ3Q4b"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Espoir 2000",
+                    "title": "Je t'aime",
+                    "uri": "6xhGpxZPbSsFXloHDVdw4L"
+                },
+                {
+                    "artist": "Espoir 2000",
+                    "title": "Je t'aime",
+                    "uri": "5j9H22P1C0a7F98CtVNElE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Espoir 2000",
+                    "title": "Je t'aime",
+                    "uri": "5j9H22P1C0a7F98CtVNElE"
+                },
+                {
+                    "artist": "Lara Fabian",
+                    "title": "Je T’aime",
+                    "uri": "28mwuJqKOjRpqo14GuKSkj"
+                },
+                {
+                    "artist": "Francis Cabrel",
+                    "title": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
+                    "uri": "1sTWIzAlg8HapeWz2fXvfJ"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Ray Barbee",
+                    "title": "Triumphant Procession",
+                    "uri": "0xNk17z9SKrRRkvAqudu4l"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ray Barbee",
+                    "title": "A Word Aptly Spoken",
+                    "uri": "0T06voH73tyScdFAgZiCdI"
+                },
+                {
+                    "artist": "Ray Barretto",
+                    "title": "Acid",
+                    "uri": "4J4S8Fm2BJt59zPWygsbpr"
+                },
+                {
+                    "artist": "Valexus",
+                    "title": "Ray Ban",
+                    "uri": "2WEnXGjhl3bGtMkS95fw9j"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Sade",
+                    "title": "Love Is Stronger Than Pride",
+                    "uri": "5Qrcxc2YPomtX6UB0bwNaf"
+                },
+                {
+                    "artist": "Sade",
+                    "title": "Love Is Stronger Than Pride",
+                    "uri": "6gyxAPdkCJI9lj3J1IhW5z"
+                },
+                {
+                    "artist": "Sade",
+                    "title": "Love Is Stronger Than Pride - Remastered",
+                    "uri": "0lFLrGf4IKKQatzfGy9Xit"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sade",
+                    "title": "Love Is Stronger Than Pride",
+                    "uri": "5Qrcxc2YPomtX6UB0bwNaf"
+                },
+                {
+                    "artist": "Sade",
+                    "title": "Love Is Stronger Than Pride",
+                    "uri": "6gyxAPdkCJI9lj3J1IhW5z"
+                },
+                {
+                    "artist": "Sade",
+                    "title": "Love Is Stronger Than Pride - Remastered",
+                    "uri": "0lFLrGf4IKKQatzfGy9Xit"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Sundays",
+                    "title": "You're Not The Only One I Know",
+                    "uri": "3nbFVNHVYCMCdD9vBo3udv"
+                },
+                {
+                    "artist": "The Sundays",
+                    "title": "You're Not The Only One I Know - Demo",
+                    "uri": "1SamjU4NHV7U0VVTolG836"
+                },
+                {
+                    "artist": "The Sundays",
+                    "title": "Noise",
+                    "uri": "4dWkdVNz2VJgssiWKgzRn0"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "NewJeans",
+                    "title": "Ditto",
+                    "uri": "3r8RuvgbX9s7ammBn07D3W"
+                },
+                {
+                    "artist": "NewJeans",
+                    "title": "Ditto",
+                    "uri": "5702raF31K9rvD6KZ6sCTo"
+                },
+                {
+                    "artist": "NewJeans",
+                    "title": "OMG",
+                    "uri": "65FftemJ1DbbZ45DUfHJXE"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Yung Heazy",
+                    "title": "Kool Musik",
+                    "uri": "5auSByNS2TzYfqOVhWwFEh"
+                }
+            ]
+        }
+    },
     "early-bird-show-w-pam-9th-february-2023": {
         "00": {
             "s0": "",
