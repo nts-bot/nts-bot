@@ -493,6 +493,81 @@
             "trackid": "0ebNOFRJG8I0VUyrSQyGpT"
         }
     },
+    "4threcord-7th-march-2023": {
+        "00": {
+            "artist": "Chaka Khan",
+            "ratio": 9,
+            "title": "Clouds",
+            "trackid": "1opSxQP8KkdKOGvbvlmuIV"
+        },
+        "01": {
+            "artist": "Magnus Uggla",
+            "ratio": 5,
+            "title": "Kung för en dag",
+            "trackid": "1DzYDC7LD4dyKSp0AeLj63"
+        },
+        "02": {
+            "artist": "Pletnev",
+            "ratio": 9,
+            "title": "Peep Of Dawn",
+            "trackid": "0HPVx3N3uOu9GVAQPsg7AO"
+        },
+        "03": {
+            "artist": "Ayelle",
+            "ratio": 3,
+            "title": "Feel It",
+            "trackid": "2vBOZgWZsj3be4FIm1bgry"
+        },
+        "04": {
+            "artist": "Devault",
+            "ratio": 3,
+            "title": "Stay (feat. Njomza & Bipolar Sunshine)",
+            "trackid": "6ukLaivOPRHbA0xeOlme8W"
+        },
+        "05": {
+            "artist": "Kenny Larkin",
+            "ratio": 9,
+            "title": "Wake Me",
+            "trackid": "3jXNZmZm3Pcz2b7xNpovSW"
+        },
+        "06": {
+            "artist": "Ben Hixon",
+            "ratio": 9,
+            "title": "Candy Paint",
+            "trackid": "3g3rzZjDmQnk9TOH2VpWgh"
+        },
+        "07": {
+            "artist": "Moodymann",
+            "ratio": 9,
+            "title": "Do Wrong",
+            "trackid": "1dQWvAKbpPerIYxDafDhho"
+        },
+        "08": {
+            "artist": "Junior Sanchez",
+            "ratio": -1,
+            "title": "Hit It (feat. NEZ)",
+            "trackid": "7hLnFu1Pv6u32fOYLLEc1t",
+            "uri": ""
+        },
+        "09": {
+            "artist": "Theo Parrish",
+            "ratio": 4,
+            "title": "Sweet Sticky",
+            "trackid": "7wAPKByejF2gAMm9PoWkXN"
+        },
+        "10": {
+            "artist": "Kerri Chandler",
+            "ratio": 4,
+            "title": "Never Thought [Printworks] - Main Vocal Mix",
+            "trackid": "5EQSnb89lN9K3ACVBOSsjD"
+        },
+        "11": {
+            "artist": "Ruffiction",
+            "ratio": 4,
+            "title": "Ruffnecks",
+            "trackid": "5puraiBCmYDDcPnEbLcGjG"
+        }
+    },
     "aaron-turner-25th-may-2022": {
         "00": {
             "artist": "Jerusalem in My Heart",
@@ -15433,6 +15508,128 @@
             "ratio": 9,
             "title": "I See A Halo",
             "trackid": "4vfMpmGCzilhl2funfAQYV"
+        }
+    },
+    "guests-8th-march-2023": {
+        "00": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "01": {
+            "artist": "Toshimaru Nakamura",
+            "ratio": 9,
+            "title": "NIMB 51",
+            "trackid": "59N4KqkqMlE5qNw2xV2YTd"
+        },
+        "02": {
+            "artist": "Trophie",
+            "ratio": 9,
+            "title": "Destroyer - Endgame Remix",
+            "trackid": "5ci5F5MHWvimfqYP9DLFpx"
+        },
+        "03": {
+            "artist": "Combe",
+            "ratio": 4,
+            "title": "Shepherd's Blues",
+            "trackid": "6SyD3VQUhajStGDBbiqVpk"
+        },
+        "04": {
+            "artist": "Richard Thompson",
+            "ratio": 3,
+            "title": "British Electric Guitar",
+            "trackid": "2eb7az9NZ74Ascx4nEdb5k"
+        },
+        "05": {
+            "artist": "LOYA",
+            "ratio": 9,
+            "title": "Amba - Dengue dengue dengue Remix",
+            "trackid": "6xqOWGWwlUghpSdqdiDsRR"
+        },
+        "06": {
+            "artist": "Aloka",
+            "ratio": 9,
+            "title": "B4-XL",
+            "trackid": "3fTRGq6rxBwidgtZnzpu6K"
+        },
+        "07": {
+            "artist": "KORAB",
+            "ratio": 3,
+            "title": "FOL",
+            "trackid": "6mTT2iwyK5uaTWzWGg5OMs"
+        },
+        "08": {
+            "artist": "Osheyack",
+            "ratio": 9,
+            "title": "Fake - Kat Nzingha Bootleg",
+            "trackid": "5xg6vzVRrJRaubmo5el39y"
+        },
+        "09": {
+            "artist": "Royal X",
+            "ratio": 4,
+            "title": "Nerva",
+            "trackid": "0uIh9rsLViP2HjhiVpv2TV"
+        },
+        "10": {
+            "artist": "Samuel Kerridge",
+            "ratio": 9,
+            "title": "Levitate",
+            "trackid": "1vmnMnCZr5dK4vxcJSwX9P"
+        },
+        "11": {
+            "artist": "Bianca Scout",
+            "ratio": 9,
+            "title": "Phantom Lamb",
+            "trackid": "2RoD22DKQJuwZvOdW3929S"
+        },
+        "12": {
+            "artist": "x/o",
+            "ratio": 9,
+            "title": "Indigo Drop",
+            "trackid": "3fvyksXh9kr23o7D1ig3lc"
+        },
+        "13": {
+            "artist": "John Coltrane",
+            "ratio": 4,
+            "title": "Giant Steps - Mono",
+            "trackid": "6QvVTzCv70hwn4XyRnobGi"
+        },
+        "14": {
+            "artist": "Casper Grey",
+            "ratio": 9,
+            "title": "The Best Way To Hurt Your Mum Is To Take Away Her Only Son",
+            "trackid": "2OUJQut2USppZaVzF7JDMj"
+        },
+        "15": {
+            "artist": "Cuiltud",
+            "ratio": 4,
+            "title": "Esead",
+            "trackid": "7JYRskT9SedNoFbkW0FBfY"
+        },
+        "16": {
+            "artist": "Jako Maron",
+            "ratio": 9,
+            "title": "Mégaloya",
+            "trackid": "02cwBjcTqZMtkkCyHeZ509"
+        },
+        "17": {
+            "artist": "Bong trip d",
+            "ratio": 0,
+            "title": "African Ghost - 8d mix",
+            "trackid": "3d8N950Pg18VYnC9D05Hj3"
+        },
+        "18": {
+            "artist": "Odessa",
+            "ratio": 4,
+            "title": "Get Right - Ossie Remix",
+            "trackid": "6tTi068mRIZ4YoCGlFrXv8"
+        },
+        "19": {
+            "artist": "YellowStraps x Le Motel",
+            "ratio": 3,
+            "title": "Bruxelles, ma belle..",
+            "trackid": "4R51UVrBW2DgM9wo6HQcpN"
         }
     },
     "gummy-24th-february-2023": {
@@ -37550,6 +37747,140 @@
             "ratio": 5,
             "title": "The Blister Exists",
             "trackid": "7lC4sczoxzFG7V0IIkjttL"
+        }
+    },
+    "tujiko-noriko-7th-march-2023": {
+        "00": {
+            "artist": "Stephen Sondheim",
+            "ratio": 9,
+            "title": "Anyone Can Whistle",
+            "trackid": "5HSqN3vs0f3A0eRfhl4f2A"
+        },
+        "01": {
+            "artist": "Ray Bryant",
+            "ratio": 4,
+            "title": "A Hundred Dreams from Now",
+            "trackid": "0VIr8A09UYvMTrGw0Um7op"
+        },
+        "02": {
+            "artist": "Angel Corpus Christi",
+            "ratio": 3,
+            "title": "John Cassavetes",
+            "trackid": "5hV6prC1eCDyMcSSS7iffT"
+        },
+        "03": {
+            "artist": "Trent Reznor and Atticus Ross",
+            "ratio": 3,
+            "title": "Washed Out",
+            "trackid": "3LG0UmOyT3N1wHQsOdQRLs"
+        },
+        "04": {
+            "artist": "Romance",
+            "ratio": 9,
+            "title": "Once Upon a Time",
+            "trackid": "2BxKHAVxYsO1aAkWJwKLOt"
+        },
+        "05": {
+            "artist": "Pierre Monteux & Paris Conservatoire Orchestra",
+            "ratio": 3,
+            "title": "Igor Stravinsky: L'oiseau De Feu-Suite (1919) - Dance Of The Firebird",
+            "trackid": "5rolFSkz7xk08Pxf8JHxDy"
+        },
+        "06": {
+            "artist": "Barbra Streisand",
+            "ratio": 4,
+            "title": "Woman in Love",
+            "trackid": "1pTGc8pwyo6xtgXBKCBcFn"
+        },
+        "07": {
+            "artist": "Adrian Corker",
+            "ratio": 9,
+            "title": "Inflow, Pt. 3",
+            "trackid": "2TBOPkoC8lzdaRNqYPvoH5"
+        },
+        "08": {
+            "artist": "Conrad Pope",
+            "ratio": 3,
+            "title": "Vermeer's Theme",
+            "trackid": "0iyYmhpAqvXBMEKequWJgJ"
+        },
+        "09": {
+            "artist": "Jon English",
+            "ratio": 3,
+            "title": "Six Ribbons",
+            "trackid": "5TrWxxBATFXfmjtYdCom8x"
+        },
+        "10": {
+            "artist": "Purrple Cat",
+            "ratio": 5,
+            "title": "Wild Strawberry",
+            "trackid": "1Go3vDiMMygjx2MwmskCUL"
+        },
+        "11": {
+            "artist": "Mica Levi",
+            "ratio": 9,
+            "title": "Exchange Numbers",
+            "trackid": "2M7qvLRWDRrVxFwW70KvOZ"
+        },
+        "12": {
+            "artist": "Streaming Music Studios",
+            "ratio": 4,
+            "title": "Nausicaa of the Valley of the Wind - Opening (Piano Version)",
+            "trackid": "0Os9kLTB8YQtrPvAY08FjI"
+        },
+        "13": {
+            "artist": "Valentina Magaletti",
+            "ratio": 9,
+            "title": "Words I First Saw",
+            "trackid": "0dkBUYfDAC8aB7dnQysyWG"
+        },
+        "14": {
+            "artist": "Kyle Landry",
+            "ratio": 3,
+            "title": "Shigatsu - Otouto Mitai Na Sonzai Piano",
+            "trackid": "4hqvSQZro60BpN9nz2IxBt"
+        },
+        "15": {
+            "artist": "Ned Washington",
+            "ratio": 9,
+            "title": "When I See an Elephant Fly",
+            "trackid": "6NufJV3ty1VouzP9Cnw8Dq"
+        },
+        "16": {
+            "artist": "Fumio Hayasaka",
+            "ratio": 9,
+            "title": "The Seven Samurai Main Title (From The Seven Samurai)",
+            "trackid": "2Bmc4mCQOrqWZ19NVhBz60"
+        },
+        "17": {
+            "artist": "Funeral Party",
+            "ratio": 0,
+            "title": "Finale",
+            "trackid": "1uVRDU2mIxkP6fW9b5bwyo"
+        },
+        "18": {
+            "artist": "Jeff Parker",
+            "ratio": 9,
+            "title": "La Jetée",
+            "trackid": "11EIFr5OJiO9aIjzkMJoil"
+        },
+        "19": {
+            "artist": "Husbands",
+            "ratio": 4,
+            "title": "No One's Dreaming",
+            "trackid": "6L0qUhfJvA6jP2tNP8DDS0"
+        },
+        "20": {
+            "artist": "Eiko Ishibashi",
+            "ratio": 9,
+            "title": "Ask me how I sleep at night",
+            "trackid": "0mw3nKb5zvmy3vfmOPqa7u"
+        },
+        "21": {
+            "artist": "Stephen Sondheim",
+            "ratio": 9,
+            "title": "Losing My Mind",
+            "trackid": "67gjUn9DKeTCB9qqxsJVk6"
         }
     },
     "tumi-mogorosi-25th-august-2022": {

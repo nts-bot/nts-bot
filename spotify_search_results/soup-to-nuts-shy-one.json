@@ -7752,6 +7752,672 @@
             ]
         }
     },
+    "soup-to-nuts-shy-one-8th-march-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mark Webb Jr.",
+                    "title": "Queen",
+                    "uri": "6ZdhER9wLnAcqWcuTrpe86"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Barry Brown",
+                    "title": "Far East",
+                    "uri": "1S0ByRYztydxw1l4FEv0H4"
+                },
+                {
+                    "artist": "Barry Brown",
+                    "title": "Far East",
+                    "uri": "3uEJT5nC94FT7wYu4RgR8K"
+                },
+                {
+                    "artist": "The Far East Collective",
+                    "title": "Shadow of Fearson",
+                    "uri": "50CKAKQwQIprXeGvtuP5qa"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Yazmin Lacey",
+                    "title": "Sea Glass",
+                    "uri": "4ksIh1HrWcU4sQZeH9SOLs"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Yazmin Lacey",
+                    "title": "Sea Glass",
+                    "uri": "4ksIh1HrWcU4sQZeH9SOLs"
+                },
+                {
+                    "artist": "Yazmin Lacey",
+                    "title": "Morning Matters",
+                    "uri": "1EeS8SQ0BAhNrLVLCNrxrj"
+                },
+                {
+                    "artist": "Yazmin Lacey",
+                    "title": "Own Your Own",
+                    "uri": "3v7IwjkgOvcdoT0Odgrwzc"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Shamos",
+                    "title": "Collusion",
+                    "uri": "4jLwlgbTvQKEJU9eqHn6VO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Celestial Aeon Project",
+                    "title": "The Shaman Drum",
+                    "uri": "6rvhmEwAscjPaCPeLWX4P2"
+                },
+                {
+                    "artist": "Bilbo Hendrix",
+                    "title": "The shamans dream",
+                    "uri": "0EPyRnP2eCkzE82mwxXMcW"
+                },
+                {
+                    "artist": "Shaman's Harvest",
+                    "title": "In Chains",
+                    "uri": "28DPIonehVeildrxEXf2CC"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Isabelle Antena",
+                    "title": "Seaside Weekend",
+                    "uri": "5pxoMD2nIg4z3eSdTwZfaU"
+                },
+                {
+                    "artist": "Isabelle Antena",
+                    "title": "Seaside Weekend",
+                    "uri": "6YuKTuXl0POTDw0j3mdlLQ"
+                },
+                {
+                    "artist": "Isabelle Antena",
+                    "title": "Seaside Weekend",
+                    "uri": "2vvH5DCqMUY4SRGsCYdGCE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Isabelle Antena",
+                    "title": "Seaside Weekend",
+                    "uri": "5pxoMD2nIg4z3eSdTwZfaU"
+                },
+                {
+                    "artist": "Isabelle Antena",
+                    "title": "Seaside Weekend",
+                    "uri": "6YuKTuXl0POTDw0j3mdlLQ"
+                },
+                {
+                    "artist": "JPL",
+                    "title": "Seaside",
+                    "uri": "5fbYwugh8LQSflnDGQTxeO"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Pedro Ricardo",
+                    "title": "Cantar das Kandakinhas",
+                    "uri": "2wmls4AG00GFwZCk62yTKg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pedro Ricardo",
+                    "title": "Cantar das Kandakinhas",
+                    "uri": "2wmls4AG00GFwZCk62yTKg"
+                },
+                {
+                    "artist": "Pedro Ricardo",
+                    "title": "A Marcha Que o Monte Parou",
+                    "uri": "2oXPvtKGPueqvbTZ5lvZok"
+                },
+                {
+                    "artist": "Pedro Ricardo",
+                    "title": "Ode ao Gato",
+                    "uri": "37lQxLiEfMv3J4DgAsqyg7"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Wayne Shorter",
+                    "title": "Ponta de Areia",
+                    "uri": "2SU21YLdwyTnqJpS7Jc3lD"
+                },
+                {
+                    "artist": "Wayne Shorter",
+                    "title": "Ponta de Areia",
+                    "uri": "7kKkdL5I1cJfpgPYCVdOmC"
+                },
+                {
+                    "artist": "Wayne Shorter",
+                    "title": "Ponta de Areia",
+                    "uri": "6XbAy5tKVKi0iJa9o0xwY4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Wayne Shorter",
+                    "title": "Ponta de Areia",
+                    "uri": "2SU21YLdwyTnqJpS7Jc3lD"
+                },
+                {
+                    "artist": "Wayne Shorter",
+                    "title": "Footprints - Remastered",
+                    "uri": "2JITVZu8o6ls9k8SoMRy7w"
+                },
+                {
+                    "artist": "Wayne Shorter",
+                    "title": "Speak No Evil - Remastered 1998 / Rudy Van Gelder Edition",
+                    "uri": "0qxiaagtTvTeNvzxHHc441"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "The In Crowd",
+                    "title": "Give Us More Time",
+                    "uri": "2Mm02VVX76kTMPfOlj94xg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The In Crowd",
+                    "title": "Give Us More Time",
+                    "uri": "2Mm02VVX76kTMPfOlj94xg"
+                },
+                {
+                    "artist": "Zlovizor",
+                    "title": "In Crowd",
+                    "uri": "1i0Lt6qbcZJzsAdDKmLGSD"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "The Undisputed Truth",
+                    "title": "Sandman",
+                    "uri": "3jtBqDNrYOSx2CzAkrcTWb"
+                },
+                {
+                    "artist": "The Undisputed Truth",
+                    "title": "Sandman",
+                    "uri": "3lOO7pChb3cM96R3xo11bG"
+                },
+                {
+                    "artist": "The Undisputed Truth",
+                    "title": "Sandman",
+                    "uri": "3UCMoSPdFXvrJyR1EWqQ9A"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Undisputed Truth",
+                    "title": "Sandman",
+                    "uri": "3jtBqDNrYOSx2CzAkrcTWb"
+                },
+                {
+                    "artist": "The Undisputed Truth",
+                    "title": "Smiling Faces Sometimes",
+                    "uri": "5Vdg4tP25ffeGEC5GGmCwm"
+                },
+                {
+                    "artist": "le Shuuk",
+                    "title": "Sandmann",
+                    "uri": "7AO4SbDUqGQ3vY6SQYEFRZ"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bugz in the Attic",
+                    "title": "Losalamitoslatinfunklovesong - Re-Work",
+                    "uri": "6CO7WcOEq73nWbJ5NGBQHu"
+                },
+                {
+                    "artist": "Gene Harris",
+                    "title": "Losalamitoslatinfunklovesong",
+                    "uri": "6fK7vB7NeJCSB4ZaLptgwW"
+                },
+                {
+                    "artist": "Olexesh",
+                    "title": "Bugs & Bunnies",
+                    "uri": "0CwkOuF9UDrkebhsBG7wt9"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Blaze feat. Amira",
+                    "title": "I Think Of You (BG Vox Parts 2)",
+                    "uri": "7DyEXhUuPdCRsKRKryscjS"
+                },
+                {
+                    "artist": "Blaze feat. Amira",
+                    "title": "I Think Of You (BG Vox Parts 1)",
+                    "uri": "02xjUPOYWtm0Ec7BGPeY84"
+                },
+                {
+                    "artist": "Blaze feat. Amira",
+                    "title": "I Think Of You (Acapella Lead Vox Parts 1)",
+                    "uri": "41SHpSfhIv0I86gI3UJs0V"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Blaze",
+                    "title": "I Think Of You (feat. Amira) - Atjazz Remix",
+                    "uri": "1cmbcvDJUirHjrruLnw86A"
+                },
+                {
+                    "artist": "II-VAN",
+                    "title": "I Think Of You",
+                    "uri": "4R1FVPHooVShMDcvQj257B"
+                },
+                {
+                    "artist": "Case",
+                    "title": "Think Of You",
+                    "uri": "71JmEEOliL5JOwEoDQZBp0"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "PVA",
+                    "title": "Divine Intervention",
+                    "uri": "0Y8GlWktCJbWu52QZ8r5Xd"
+                },
+                {
+                    "artist": "Abr.",
+                    "title": "Divine Intervention",
+                    "uri": "0glY2KRbL4ErRB3xhKqAe9"
+                },
+                {
+                    "artist": "Awake At Last",
+                    "title": "Divine Intervention",
+                    "uri": "1CiBCkKhLcqAPaDYppAZqr"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "TOWA TEI",
+                    "title": "TECHNOVA",
+                    "uri": "2quj0lAmQxytVLVR1LYQYV"
+                },
+                {
+                    "artist": "TOWA TEI",
+                    "title": "ALPHA",
+                    "uri": "5rQjWeSuUA1yGN1NwcFvem"
+                },
+                {
+                    "artist": "Omoi",
+                    "title": "Teo",
+                    "uri": "0avbIGWVb4n7CcbomSEogt"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Missy Elliott",
+                    "title": "Work It",
+                    "uri": "3jagJCUbdqhDSPuxP8cAqF"
+                },
+                {
+                    "artist": "Missy Elliott",
+                    "title": "Gossip Folks (feat. Ludacris)",
+                    "uri": "75DjPjiIp2fvJDjtt41Jfs"
+                },
+                {
+                    "artist": "Missy Elliott",
+                    "title": "Bomb Intro / Pass That Dutch",
+                    "uri": "1MaI6NwdrqnE3mRzOYTpoo"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Q-Tip",
+                    "title": "Let's Ride",
+                    "uri": "4UZlEcQmkAeh4mYokk8TNs"
+                },
+                {
+                    "artist": "Q-Tip",
+                    "title": "Vivrant Thing - Club Mix",
+                    "uri": "4YCBBxP0AeWPpEwidahrha"
+                },
+                {
+                    "artist": "Hiatus Kaiyote",
+                    "title": "Nakamarra (feat. Q-Tip)",
+                    "uri": "12v5GBM74fB8WsHJPQRTIe"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "José Feliciano",
+                    "title": "Golden Lady",
+                    "uri": "347p4ZQ9qTdbkxYrFcGrvP"
+                },
+                {
+                    "artist": "José Feliciano",
+                    "title": "Light My Fire - Digitally Mastered - April 1992",
+                    "uri": "7GJk5vL7Q1RrlhptnT8xJV"
+                },
+                {
+                    "artist": "José Feliciano",
+                    "title": "Loving Her Was Easier",
+                    "uri": "2U7pQ2Z2jULfzShIVKBra0"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Underdog Project",
+                    "title": "Summer Jam - Radio Edit",
+                    "uri": "6L54wM12STr1kS8nPjPIaS"
+                },
+                {
+                    "artist": "R.I.O.",
+                    "title": "Summer Jam",
+                    "uri": "1FfZ8sEWfZkC9bpT02JVMw"
+                },
+                {
+                    "artist": "The Underdog Project",
+                    "title": "Summer Jam - Jerome Remix",
+                    "uri": "5CHguyJ9h81QrwbCCDvNqT"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Business City Orchestra",
+                    "title": "Metro",
+                    "uri": "0urcdz3QfYEczomGu7R0d5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tomoko Aran",
+                    "title": "Busy City",
+                    "uri": "1dyaPNZ33iDN7FeBckpyuM"
+                },
+                {
+                    "artist": "Tamera",
+                    "title": "Busy Metropolitan City",
+                    "uri": "0712prKB3Tgg4df3UaEL4E"
+                },
+                {
+                    "artist": "Relaxing Office Music Collection",
+                    "title": "City Binary",
+                    "uri": "5438HXwzEPonrNa1Xxf9oA"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "S. Fidelity",
+                    "title": "Higher",
+                    "uri": "62Culb8jZdIdEJvG3vHrEI"
+                },
+                {
+                    "artist": "S. Fidelity",
+                    "title": "Higher - Sam Ruffillo Remix",
+                    "uri": "5746Lt5BJlIdd1ZOkUePN0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "S. Fidelity",
+                    "title": "Higher",
+                    "uri": "62Culb8jZdIdEJvG3vHrEI"
+                },
+                {
+                    "artist": "S. Fidelity",
+                    "title": "Higher - Sam Ruffillo Remix",
+                    "uri": "5746Lt5BJlIdd1ZOkUePN0"
+                },
+                {
+                    "artist": "Galv",
+                    "title": "Perlenvorhang",
+                    "uri": "6P0OwU8tXtTzFbgPkPkGcv"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Fil Callender",
+                    "title": "Baby My Love",
+                    "uri": "68HCQwAQO9Ta0YXhxEqVup"
+                },
+                {
+                    "artist": "Isak Shorty",
+                    "title": "BABY MY LOVE",
+                    "uri": "0CJEreZvu07sIZ6l2rBgAo"
+                },
+                {
+                    "artist": "Clef",
+                    "title": "Baby My Love",
+                    "uri": "0tAGaQ6cltlXEKB1BImVAe"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "En Vogue",
+                    "title": "Free Your Mind",
+                    "uri": "2vG1yrWSMiL6egg6w4e9ma"
+                },
+                {
+                    "artist": "Rondò Veneziano",
+                    "title": "Musica... Fantasia",
+                    "uri": "6GCqVVhgAgo56YReWw4Moh"
+                },
+                {
+                    "artist": "Wolfgang Amadeus Mozart",
+                    "title": "Fantasia No. 3 in D Minor, K. 397",
+                    "uri": "4yExhO3Vh6bLW32qU4DOOs"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "KenLou",
+                    "title": "The Bounce",
+                    "uri": "30y6AIWDz0xop8Vtfn2EyM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "KenLou",
+                    "title": "The Bounce",
+                    "uri": "30y6AIWDz0xop8Vtfn2EyM"
+                },
+                {
+                    "artist": "KenLou",
+                    "title": "Moonshine - Masters At Work Remix",
+                    "uri": "5CZ76YTYMcdR89whGymEaT"
+                },
+                {
+                    "artist": "KenDoll",
+                    "title": "Bounce",
+                    "uri": "4iz2Ku8o7f6Pn2vfYh50kC"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Tony Touch",
+                    "title": "Sacude 2021 - Louie Vega Brooklyn Short Mix",
+                    "uri": "0wdnx2hDeCHwR9XRWShomX"
+                },
+                {
+                    "artist": "Tony Touch",
+                    "title": "Sacude 2021 - Louie Vega Brooklyn Short Mix",
+                    "uri": "2RbClLAHh8V5Y2PWcDoquj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tony Touch",
+                    "title": "Sacude 2021 - Louie Vega Brooklyn Short Mix",
+                    "uri": "2RbClLAHh8V5Y2PWcDoquj"
+                },
+                {
+                    "artist": "Tony Touch",
+                    "title": "Sacude 2021 - Louie Vega Brooklyn Short Mix",
+                    "uri": "0wdnx2hDeCHwR9XRWShomX"
+                },
+                {
+                    "artist": "AchtVier",
+                    "title": "Tony Touch",
+                    "uri": "15lDbyCM8NnlyfhsI7UMuy"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lipps Inc.",
+                    "title": "Designer Music",
+                    "uri": "5aVvVMwfFwu5JSoMFZojDE"
+                },
+                {
+                    "artist": "Rebels Rule",
+                    "title": "Good Girls Don't",
+                    "uri": "3UssI3sSiA0odnr1ZAx3Kt"
+                },
+                {
+                    "artist": "ITG Studios",
+                    "title": "Good Girls Don't Make History",
+                    "uri": "6CWLfsMOuJEuR4WpcEGRJZ"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "Soul Fuzion",
+                    "title": "I Got Rhythm (Louie's Break Remix)",
+                    "uri": "05UHCDyv4xeGCBV5SQrGJH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Soul Fuzion",
+                    "title": "I Got Rhythm (Original Mix)",
+                    "uri": "4RxPV1yqEbkobZDy3yudgK"
+                },
+                {
+                    "artist": "Soul Fuzion",
+                    "title": "I Got Rhythm (Louie's Break Remix)",
+                    "uri": "05UHCDyv4xeGCBV5SQrGJH"
+                },
+                {
+                    "artist": "Soul Fuzion",
+                    "title": "I Got Rhythm (Kenny Dope Remix)",
+                    "uri": "2ajFp8PNBi1SmgNzbXoLSx"
+                }
+            ]
+        },
+        "25": {
+            "s0": [
+                {
+                    "artist": "SMTHNG SMTIME",
+                    "title": "Luck (With You)",
+                    "uri": "2ldXDCn3LMsqvBe6PWziWE"
+                },
+                {
+                    "artist": "SMTHNG SMTIME",
+                    "title": "Luck (With You)",
+                    "uri": "3Bp5NJAJGjB9JWlMluxjpB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "SMTHNG SMTIME",
+                    "title": "Luck (With You)",
+                    "uri": "3Bp5NJAJGjB9JWlMluxjpB"
+                },
+                {
+                    "artist": "SMTHNG SMTIME",
+                    "title": "Luck (With You)",
+                    "uri": "2ldXDCn3LMsqvBe6PWziWE"
+                },
+                {
+                    "artist": "Crystal Rock",
+                    "title": "Lucky - TikTok Edit",
+                    "uri": "7yB0XnhDVUcgrqfDyJnhgn"
+                }
+            ]
+        },
+        "26": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Robert Owens",
+                    "title": "I'll Be Your Friend - Original Mix (2011 Remastered Version)",
+                    "uri": "5SMnHUNB2iBm3rkuoHpIZO"
+                },
+                {
+                    "artist": "Robert Owens",
+                    "title": "I'll Be Your Friend - Glamourous Mix",
+                    "uri": "27Din6MKgRQ0LmwncvKNWH"
+                },
+                {
+                    "artist": "AndMe & Bastian",
+                    "title": "Set Free - Edit",
+                    "uri": "0N4WxsIzTQg5NvoHjOmYZL"
+                }
+            ]
+        }
+    },
     "soup-to-nuts-w-shy-one-10th-august-2022": {
         "00": {
             "s0": [

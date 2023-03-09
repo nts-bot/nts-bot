@@ -331,6 +331,56 @@
             "title": "Noctober"
         }
     },
+    "4threcord-7th-march-2023": {
+        "00": {
+            "artist": "Chaka Khan",
+            "title": "Clouds"
+        },
+        "01": {
+            "artist": "Kungen Av 3,5",
+            "title": "Osynlig Fetma"
+        },
+        "02": {
+            "artist": "Peep Of Dawn",
+            "title": "Pletnev"
+        },
+        "03": {
+            "artist": "NEZ",
+            "title": "Feel It (Unreleased)"
+        },
+        "04": {
+            "artist": "NEZ Feat Bipolar Sunshine",
+            "title": "Danger (Unreleased)"
+        },
+        "05": {
+            "artist": "Kenny Larkin",
+            "title": "Wake Me"
+        },
+        "06": {
+            "artist": "Ben Hixon",
+            "title": "Candy Paint"
+        },
+        "07": {
+            "artist": "Moodymann",
+            "title": "Do Wrong"
+        },
+        "08": {
+            "artist": "NEZ Feat Vanessa The Finessa",
+            "title": "Unreleased"
+        },
+        "09": {
+            "artist": "Theo Parish X Moodymann",
+            "title": "Lakeshore Drive"
+        },
+        "10": {
+            "artist": "Kerry Chandler",
+            "title": "Turn Of The Lights"
+        },
+        "11": {
+            "artist": "The DarkCyde",
+            "title": "SeptBounce Ruff Mix"
+        }
+    },
     "7038634357-19th-october-2022": "",
     "aaron-turner-25th-may-2022": {
         "00": {
@@ -10371,6 +10421,88 @@
         "16": {
             "artist": "Boo",
             "title": "I See A Halo"
+        }
+    },
+    "guests-8th-march-2023": {
+        "00": {
+            "artist": "Malvern Brume",
+            "title": "Body Traffic"
+        },
+        "01": {
+            "artist": "Toshimaru Nakamura",
+            "title": "NIMB #51"
+        },
+        "02": {
+            "artist": "Trophie",
+            "title": "Destroyer (Endgame Remix)"
+        },
+        "03": {
+            "artist": "Sabla + Đ.K.",
+            "title": "Nubes Shepherd"
+        },
+        "04": {
+            "artist": "British Electric Foundation",
+            "title": "Music To Kill Your Parents By"
+        },
+        "05": {
+            "artist": "Loya",
+            "title": "Amba (Dengue Dengue Dengue Remix)"
+        },
+        "06": {
+            "artist": "Aloka",
+            "title": "B4-XL"
+        },
+        "07": {
+            "artist": "FOQL, ",
+            "title": "Communication Swamp "
+        },
+        "08": {
+            "artist": "Osheyack",
+            "title": "Fake (Kat Nzingha Bootleg)"
+        },
+        "09": {
+            "artist": "Nerve",
+            "title": "Akimbo"
+        },
+        "10": {
+            "artist": "Samuel Kerridge",
+            "title": "Levitate"
+        },
+        "11": {
+            "artist": "Bianca Scout",
+            "title": "Phantom Lamb"
+        },
+        "12": {
+            "artist": "x/o",
+            "title": "Indigo Drop"
+        },
+        "13": {
+            "artist": "Giant Skeletons",
+            "title": "*Schlaf Strahler"
+        },
+        "14": {
+            "artist": "Casper Grey",
+            "title": "The Best Way To Hurt Your Mum Is To Take Away Her Only Son"
+        },
+        "15": {
+            "artist": "Eszaid",
+            "title": "Chained"
+        },
+        "16": {
+            "artist": "Jako Maron",
+            "title": "Mégaloya"
+        },
+        "17": {
+            "artist": "African Ghost Valley",
+            "title": "MEER"
+        },
+        "18": {
+            "artist": "Logos",
+            "title": "Eska (Ossia Remix)"
+        },
+        "19": {
+            "artist": "Magugu X Le Motel",
+            "title": "Kindness Weakness"
         }
     },
     "gummy-24th-february-2023": {
@@ -25246,7 +25378,96 @@
             "title": "A Salve"
         }
     },
-    "tujiko-noriko-7th-march-2023": "",
+    "tujiko-noriko-7th-march-2023": {
+        "00": {
+            "artist": "Stephen Sondheim",
+            "title": "Anyone Can Whistle"
+        },
+        "01": {
+            "artist": "Ray Brown",
+            "title": "Film ‘Husbands’ Intro"
+        },
+        "02": {
+            "artist": "John Cassavetes & Bo Harwood (Vo : Gena Rowlands)",
+            "title": "Film ‘Love Streams’ Operetta"
+        },
+        "03": {
+            "artist": "Trent Reznor & Atticus Ross",
+            "title": "Film ‘Empire Of Light’, High Windows"
+        },
+        "04": {
+            "artist": "Romance",
+            "title": "Once Upon A Time"
+        },
+        "05": {
+            "artist": "Monteux, ",
+            "title": "The Firebird Suite"
+        },
+        "06": {
+            "artist": "Yumi Matsutoya And Takashi Matsumoto",
+            "title": "Film ‘Wの悲劇’, Woman"
+        },
+        "07": {
+            "artist": "Adrian Corker",
+            "title": "Inflow Pt3"
+        },
+        "08": {
+            "artist": "‘All The Vermeers In New York’",
+            "title": "Sound Of The Museum Scene From"
+        },
+        "09": {
+            "artist": "Jon A. English",
+            "title": "Music"
+        },
+        "10": {
+            "artist": "‘Wild Strawberries’",
+            "title": "Sound Of The Last Scene From"
+        },
+        "11": {
+            "artist": "Mica Levi",
+            "title": "Exchange Numbers"
+        },
+        "12": {
+            "artist": "Haruomi Hosono And Takashi Matsumoto",
+            "title": "Nausicaä Of The Valley Of The Wind"
+        },
+        "13": {
+            "artist": "Valentina Magaletti",
+            "title": "Words I First Saw"
+        },
+        "14": {
+            "artist": "‘Ugetsu Monogatari’",
+            "title": "Sound Of The Boat Scene From"
+        },
+        "15": {
+            "artist": "Ned Washington, ",
+            "title": "When I See An Elephant Fly"
+        },
+        "16": {
+            "artist": "Fumio Hayasaka",
+            "title": "The Seven Samurai Main Title"
+        },
+        "17": {
+            "artist": "'Husbands'",
+            "title": "Sound Of The Funeral Party Scene From"
+        },
+        "18": {
+            "artist": "Jeff Parker",
+            "title": "La Jetée"
+        },
+        "19": {
+            "artist": "'Husbands'",
+            "title": "Sound From The Hotel Scene Of"
+        },
+        "20": {
+            "artist": "Eiko Ishibashi",
+            "title": "Ask Me How I Sleep At Night"
+        },
+        "21": {
+            "artist": "Stephen Sondheim",
+            "title": "Losing My Mind"
+        }
+    },
     "tumi-mogorosi-25th-august-2022": {
         "00": {
             "artist": "Johnny Dyani Quartet",
