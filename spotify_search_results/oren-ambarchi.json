@@ -430,5 +430,275 @@
                 }
             ]
         }
+    },
+    "oren-ambarchi-9th-march-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Billy Nicholls",
+                    "title": "Feeling Easy",
+                    "uri": "35orY6RuIbg3IXT4ev1QKV"
+                },
+                {
+                    "artist": "Billy Nicholls",
+                    "title": "London Social Degree",
+                    "uri": "62T5xpB87Dz8bieycwsmwC"
+                },
+                {
+                    "artist": "Russell Shaw",
+                    "title": "White Rose",
+                    "uri": "3aI6v7hq8EOwLUAwIXkUvZ"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Obijuan",
+                    "title": "SOLARIUM",
+                    "uri": "2LwTh5dp8wGaA4ilAiONPW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Obijuan",
+                    "title": "BARXLAYS",
+                    "uri": "0S0aDABUjm6TYNPMoyJF4z"
+                },
+                {
+                    "artist": "Philanthrope",
+                    "title": "soul blue",
+                    "uri": "79PstczkNMWF4Cjd2bo5AS"
+                },
+                {
+                    "artist": "Basmati",
+                    "title": "Obiah",
+                    "uri": "3QPb53vJO0VCtdgPg3mXxZ"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": ""
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eiko Ishibashi",
+                    "title": "I'm old",
+                    "uri": "3SynO0UVs6jSYR5Gb7jwy0"
+                },
+                {
+                    "artist": "Eiko Ishibashi",
+                    "title": "Drive My Car",
+                    "uri": "2tFwftU9bB8WIS1spfZPIf"
+                },
+                {
+                    "artist": "Eiko Ishibashi",
+                    "title": "Drive My Car (Misaki)",
+                    "uri": "7ug0c7aiNdQqvhqgTbpZgP"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bill Fay",
+                    "title": "The Healing Day",
+                    "uri": "4oObNo6gbtVdFmC9SVPGHF"
+                },
+                {
+                    "artist": "Bill Fay",
+                    "title": "Jesus, Etc.",
+                    "uri": "65y06cXpmPD1N9NLhy1Akj"
+                },
+                {
+                    "artist": "Bill Fay",
+                    "title": "Thank You Lord",
+                    "uri": "61Xjc1NVeVtoBnJyiDfbZx"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Benny Neyman",
+                    "title": "Oh How I Miss You Tonight",
+                    "uri": "05otO46hmwst2di0TsUhVh"
+                },
+                {
+                    "artist": "Tommy Walton",
+                    "title": "Still! - Instrumental",
+                    "uri": "7H82tr75789r1XEWX6VOO8"
+                },
+                {
+                    "artist": "for KING & COUNTRY",
+                    "title": "Amen (Reborn)",
+                    "uri": "5LOmYKKXSkAeB4m2YsDJrI"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "keiyaA",
+                    "title": "A Mile, a Way",
+                    "uri": "6nT6SL0ga342nm5UiAB9ui"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "keiyaA",
+                    "title": "A Mile, a Way",
+                    "uri": "6nT6SL0ga342nm5UiAB9ui"
+                },
+                {
+                    "artist": "keiyaA",
+                    "title": "I! Gits! Weary!",
+                    "uri": "1ZeubAX1d0y0BO3gO0fmLd"
+                },
+                {
+                    "artist": "Stefan Obermaier",
+                    "title": "Keya",
+                    "uri": "7aWFnpijG4mmsxt3JArLPC"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Cities Aviv",
+                    "title": "Tones of Ponder",
+                    "uri": "6yyIUtE9yAWSB3g4qGgwUr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cities Aviv",
+                    "title": "If I Could Hold Your Soul",
+                    "uri": "5QDjiZPJosipiZ8VZEMWXq"
+                },
+                {
+                    "artist": "Cities Aviv",
+                    "title": "ESCORTS",
+                    "uri": "0WbtGHO7DpklcJtv70UVv1"
+                },
+                {
+                    "artist": "Cities Aviv",
+                    "title": "Head",
+                    "uri": "5c7JV9jAHQGwTumwd8j9ir"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eduardo Mateo",
+                    "title": "Señora Diana La Ví",
+                    "uri": "1WHun58cINB7qnT60KcHtQ"
+                },
+                {
+                    "artist": "Eduardo Mateo",
+                    "title": "Jacinta",
+                    "uri": "0oL3giITI3mtlF5Z5WRGSz"
+                },
+                {
+                    "artist": "Edoardo Más",
+                    "title": "I Can Be Irresistible",
+                    "uri": "60mst0uGpdKZUHQhrPin5N"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "SiM",
+                    "title": "The Rumbling",
+                    "uri": "6k0X05danQOXSBTVek5DU1"
+                },
+                {
+                    "artist": "Ade Astrid",
+                    "title": "Rumpaka Cinta",
+                    "uri": "3DwRI4zDut1454EwL2hbx2"
+                },
+                {
+                    "artist": "Matthias Meyer-Göllner",
+                    "title": "Rumpel-Pumpel",
+                    "uri": "0IxGBgH70FxLJXA7j9r6f8"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "BJ Cole",
+                    "title": "Ely Revisited",
+                    "uri": "1dagAgYRTzV61lr24Lccih"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "John Abercrombie",
+                    "title": "Timeless",
+                    "uri": "3nTQL2ScjeyOxjqSmDoCCr"
+                },
+                {
+                    "artist": "John Abercrombie",
+                    "title": "Love Song",
+                    "uri": "50nwkIyP5OvBq7yOVpSmfz"
+                },
+                {
+                    "artist": "John Abercrombie Quartet",
+                    "title": "Flipside",
+                    "uri": "4EUsNUDouagq2u1YIDW0dB"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Rita Lee",
+                    "title": "Atlântida - Renato Cohen Remix",
+                    "uri": "6vQFtZCfZMWAP8DURzR4hI"
+                },
+                {
+                    "artist": "Rita Lee",
+                    "title": "Atlântida - Alex Justino Remix",
+                    "uri": "4ZTviD2q3R93CmAUOBnTqK"
+                },
+                {
+                    "artist": "Rita Lee",
+                    "title": "Atlântida - DJ Meme Remix",
+                    "uri": "4I6PNZlv2fBo3i9SonOtUX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rita Lee",
+                    "title": "Mania De Você",
+                    "uri": "6owwZC8gUvrBuygvOHaYXb"
+                },
+                {
+                    "artist": "Rita Lee",
+                    "title": "Mutante - Gui Boratto Rework",
+                    "uri": "6pfGxlp0yBwaydQft6qvCr"
+                },
+                {
+                    "artist": "Rita Lee",
+                    "title": "All My Loving",
+                    "uri": "5dIZa3pwSn1vDenZpSBEFO"
+                }
+            ]
+        }
     }
 }
