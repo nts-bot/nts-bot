@@ -19220,6 +19220,547 @@
             ]
         }
     },
+    "otologic-13th-march-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Pan-American",
+                    "title": "Quarry A",
+                    "uri": "3JfHnrrVVZwFuhdVPR9PBn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pan-American",
+                    "title": "Quarry A",
+                    "uri": "3JfHnrrVVZwFuhdVPR9PBn"
+                },
+                {
+                    "artist": "Pan-American",
+                    "title": "Lights On Water",
+                    "uri": "7JcGySsJWYeAxESN63zowD"
+                },
+                {
+                    "artist": "Pan-American",
+                    "title": "Swimming in a Western Hotel",
+                    "uri": "1ATXbroEubTRLUdwtFLgX9"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Thomas Brinkmann",
+                    "title": "Margins",
+                    "uri": "1I3XBZ2G0ZfFVc1pVpdBR5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jim Brickman",
+                    "title": "Your Love",
+                    "uri": "6YFYYxoLH9Aoasz0unIXiK"
+                },
+                {
+                    "artist": "Benjamin Britten",
+                    "title": "Soirees musicales, Op. 9: I. March",
+                    "uri": "2CLfoR3VRCFGNYeeaHcTKx"
+                },
+                {
+                    "artist": "Yeat",
+                    "title": "Brink!",
+                    "uri": "4VBYg24JhAyU1sILOI14nz"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Geins't Naït & L. Petitgand",
+                    "title": "BRA",
+                    "uri": "0CG59Wz35ynyjmvNOj0LEv"
+                },
+                {
+                    "artist": "Geins't Naït & L. Petitgand",
+                    "title": "MT-26",
+                    "uri": "145gIRBmTlW2lFqXq4W826"
+                },
+                {
+                    "artist": "Geins't Naït & L. Petitgand",
+                    "title": "370",
+                    "uri": "0eauE7ROGIeRhosFI8SVk4"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Konduku",
+                    "title": "Scale",
+                    "uri": "17OZSgjTnBKu76q773Uj3M"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Konduku",
+                    "title": "Scale",
+                    "uri": "17OZSgjTnBKu76q773Uj3M"
+                },
+                {
+                    "artist": "Hideki Taniuchi",
+                    "title": "Kodoku",
+                    "uri": "4zf78h85BhpcTeiwjFav4a"
+                },
+                {
+                    "artist": "syudou",
+                    "title": "Kodoku no Syukyo",
+                    "uri": "4Uoj7vkr9EnE5t9KHPnUHF"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Carla Bley",
+                    "title": "Útviklingssang",
+                    "uri": "4B7XL3W2m7KUCV1KEK0CLD"
+                },
+                {
+                    "artist": "Gisbert Zu Knyphausen",
+                    "title": "Carla Bruno",
+                    "uri": "3M8MSexb0ow57Vg1TbT0Uh"
+                },
+                {
+                    "artist": "Carl Borg",
+                    "title": "Seeds",
+                    "uri": "6cV7Um84WO3IATI08tY1K2"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Caroline Polachek",
+                    "title": "Welcome To My Island - PVA Remix",
+                    "uri": "3acBnMBl2MJWktwusvsyj8"
+                },
+                {
+                    "artist": "PVA",
+                    "title": "Exhaust / Surroundings",
+                    "uri": "1ZxkEYMc2koZHb62qmUBzW"
+                },
+                {
+                    "artist": "PVA",
+                    "title": "Bunker",
+                    "uri": "4qFJUZTSVBpiDxG8gO8DNx"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ryan Caraveo",
+                    "title": "Nutcase",
+                    "uri": "2mvMckCSPqzP0n49PShLl2"
+                },
+                {
+                    "artist": "PEEKABOO",
+                    "title": "Nut Case",
+                    "uri": "6m9bxuTDyinbqkCc747vbw"
+                },
+                {
+                    "artist": "PSYRUS",
+                    "title": "Nutcase",
+                    "uri": "1c6btUUJA3xY4ADNeFkU2x"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Andro",
+                    "title": "Черемушка",
+                    "uri": "4DZy2DY310An1XGlzRqzqY"
+                },
+                {
+                    "artist": "Andro",
+                    "title": "Другому",
+                    "uri": "7LQHN8FoxivykGUgDvHMqD"
+                },
+                {
+                    "artist": "Andro",
+                    "title": "Я бачу - Ayshot Prod. Remix",
+                    "uri": "4kj8hhuKdWTuIaY3tsc849"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kanka",
+                    "title": "West Dub",
+                    "uri": "44gwHVT3wPyGTVJiO9UPpC"
+                },
+                {
+                    "artist": "Friction",
+                    "title": "Forever Dub",
+                    "uri": "5DQxsXWLhLcjNz6buUZSJl"
+                },
+                {
+                    "artist": "Unifya",
+                    "title": "Dirty Dub",
+                    "uri": "3ALwXnwi7xbPXFezs4jTTe"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Irma Thomas",
+                    "title": "Time Is On My Side",
+                    "uri": "6IpxLzChgCbFSJwso2Q84D"
+                },
+                {
+                    "artist": "Bazz Boyz",
+                    "title": "Time Is Ticking - G4bby Remix Edit",
+                    "uri": "2sJw85fT1BXU9uH5KpiQPZ"
+                },
+                {
+                    "artist": "C-Block",
+                    "title": "Time Is Tickin - Radio Version",
+                    "uri": "21GSP35QcbFluU8i77hdEj"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kevin Morby",
+                    "title": "I Have Been to the Mountain",
+                    "uri": "2umTklGNx0IiiTFFVNZNlC"
+                },
+                {
+                    "artist": "Kevin Morby",
+                    "title": "Beautiful Strangers",
+                    "uri": "30l8jqVysaGj7bPcGSVUgD"
+                },
+                {
+                    "artist": "Macklemore & Ryan Lewis",
+                    "title": "Kevin (feat. Leon Bridges)",
+                    "uri": "5qjWSyuU0rTLI8ohmx2K3Q"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ariel Kalma",
+                    "title": "Arrival - Remastered",
+                    "uri": "3Cl55s20Th5GHbu56Sltz7"
+                },
+                {
+                    "artist": "Ariel Kalma",
+                    "title": "First Light - Remastered",
+                    "uri": "2aUkNmO4g5iSCxly4bPKuj"
+                },
+                {
+                    "artist": "Claude Debussy",
+                    "title": "Dieu, qu'il l'a fait bon regarder",
+                    "uri": "0KhWjYjBNnBonlE7Lg3c5P"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Virgil Abloh",
+                    "title": "Delicate Limbs (feat. serpentwithfeet) - Special Request Remix",
+                    "uri": "2vvSCgK0NMYiOImew2oYbJ"
+                },
+                {
+                    "artist": "alhivi",
+                    "title": "Delicate",
+                    "uri": "1uYhzZXEUDkrbTLDA8uwHi"
+                },
+                {
+                    "artist": "Virgil Abloh",
+                    "title": "Delicate Limbs (feat. serpentwithfeet) - Bedouin Remix",
+                    "uri": "69wkH0lQdtpH9E6XBCOHfS"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Bryozone",
+                    "title": "Sub Nautica",
+                    "uri": "1reAzqZGJ6tj4YbrrOCXR0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bryozone",
+                    "title": "Sub Nautica",
+                    "uri": "1reAzqZGJ6tj4YbrrOCXR0"
+                },
+                {
+                    "artist": "Bryson the Alien",
+                    "title": "Soul Music",
+                    "uri": "2scLh6GZfxcKDKqdjzh5VB"
+                },
+                {
+                    "artist": "Bryzone",
+                    "title": "Wonderlight",
+                    "uri": "2aL16dJegZLIKSw7B3weJd"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "ayaz",
+                    "title": "Ilham Comes With Irada",
+                    "uri": "430eqENHwG25ZwkApbzLcT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "ayaz",
+                    "title": "Ilham Comes With Irada",
+                    "uri": "430eqENHwG25ZwkApbzLcT"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Roger Robinson",
+                    "title": "Brixton Summer",
+                    "uri": "1K1yzVRfdbYjmjtlhmpB2l"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Roger Robin",
+                    "title": "For Life",
+                    "uri": "4opFDW7HHbUacFWixDosZc"
+                },
+                {
+                    "artist": "Sleeping With Sirens",
+                    "title": "Scene Two - Roger Rabbit",
+                    "uri": "7la8N6YLMUDAXl2iAEe9Sy"
+                },
+                {
+                    "artist": "Rogers",
+                    "title": "Eingesperrt",
+                    "uri": "5FrfbKublPUwAhTh6JlIWu"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jon Iverson",
+                    "title": "Danaus",
+                    "uri": "2Iu1mAkbFwUHIPo9dzSEKu"
+                },
+                {
+                    "artist": "Jon Iverson",
+                    "title": "Fox Tales",
+                    "uri": "58RjcwXTxEpUsR5VA4ir2U"
+                },
+                {
+                    "artist": "Ivory",
+                    "title": "Jonny",
+                    "uri": "2tqV2NRqvGYWYVHJm3iozx"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mystic Prophecy",
+                    "title": "Because the Night",
+                    "uri": "5UHNEyr0StokdWPuxEUjHq"
+                },
+                {
+                    "artist": "Mystic Prophecy",
+                    "title": "Ravenlord",
+                    "uri": "7LBv83ZQoiqK0KBTrhDYFe"
+                },
+                {
+                    "artist": "Mystic Prophecy",
+                    "title": "Dracula",
+                    "uri": "2W1BrF8bIClOOZEjMTTOeI"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "I:Cube",
+                    "title": "Kaszio plus 1",
+                    "uri": "7cPG1g4sN86E3V2j8ZCOcO"
+                },
+                {
+                    "artist": "I:Cube",
+                    "title": "Kaszio plus 1",
+                    "uri": "4JnrhvfqUIi0v1Vf1z9wVp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "I:Cube",
+                    "title": "Kaszio plus 1",
+                    "uri": "7cPG1g4sN86E3V2j8ZCOcO"
+                },
+                {
+                    "artist": "I:Cube",
+                    "title": "Kaszio plus 1",
+                    "uri": "4JnrhvfqUIi0v1Vf1z9wVp"
+                },
+                {
+                    "artist": "BIBI",
+                    "title": "KAZINO",
+                    "uri": "245onUPHGD1DYuiacxTuW0"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": ""
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "The Souvenirs",
+                    "title": "Bush Lark Ritual",
+                    "uri": "5InxuzkSAMwkhWxuj8vc3Q"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Souvenirs",
+                    "title": "Laughing Dove Dance",
+                    "uri": "3bNExJtbHAsFs6ZiVmRqdR"
+                },
+                {
+                    "artist": "Jim Rider",
+                    "title": "The Souvenir",
+                    "uri": "1EXioXtI3odm0fO6Dc6kGc"
+                },
+                {
+                    "artist": "Outline In Color",
+                    "title": "The Souvenir Scheme",
+                    "uri": "1lACfOSFYPbVS7Y5uRHn4h"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Hidden Operator",
+                    "title": "So Slow",
+                    "uri": "2UQwBekKWpeNCFiizMpEKU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hidden Orchestra",
+                    "title": "Spoken",
+                    "uri": "5EuanBT58m17JqKxCeqbQI"
+                },
+                {
+                    "artist": "Hidden Orchestra",
+                    "title": "Wingbeats Source IV: Tuned Percussion, Harp, Mey",
+                    "uri": "60PI0JgBZDQeWG18G35oQF"
+                },
+                {
+                    "artist": "Hidden Orchestra",
+                    "title": "Footsteps",
+                    "uri": "6WtdkugsafdVAcpJS7tI5I"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Daniel Jang",
+                    "title": "High Hopes",
+                    "uri": "7HzNLmOYu196Lg3UPo8Isg"
+                },
+                {
+                    "artist": "Rachel Pierce",
+                    "title": "A Thousand Years",
+                    "uri": "7Ere7g0XUQ43JHi44NplLS"
+                },
+                {
+                    "artist": "Violin Sky",
+                    "title": "Prayer",
+                    "uri": "19keGP0vzkTjhum2eyttwr"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Brebo",
+                    "title": "Amira",
+                    "uri": "2NuqXPoMqLLnRfYu7Xh7O9"
+                },
+                {
+                    "artist": "Amirina",
+                    "title": "Гитара",
+                    "uri": "2a2muRlSBWoXuLVTAWxl35"
+                },
+                {
+                    "artist": "Amira Bowden",
+                    "title": "Patterns",
+                    "uri": "6ssrsr0MumEjM2CeYioYcU"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "Mioclono",
+                    "title": "Fog and Fire",
+                    "uri": "1wap9ke74xyEfY5HjQRG0Q"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mioclono",
+                    "title": "Fog and Fire",
+                    "uri": "1wap9ke74xyEfY5HjQRG0Q"
+                },
+                {
+                    "artist": "Great Dane",
+                    "title": "Fog & Fear",
+                    "uri": "7u9JNdDYSdRTaj8r7B8J9B"
+                },
+                {
+                    "artist": "Laurence Ipsum",
+                    "title": "The Utmost Edge of the World",
+                    "uri": "6kyAKXZM5XASS9waF3t27i"
+                }
+            ]
+        }
+    },
     "otologic-14th-february-2022": {
         "00": {
             "s0": [

@@ -1,4 +1,224 @@
 {
+    "late-night-billiards-10th-february-2023": {
+        "00": {
+            "artist": "Ryan Koffi",
+            "ratio": 9,
+            "title": "ADDIS ABABA",
+            "trackid": "3HFVtgUUKhExjo0XzKxkvl"
+        },
+        "01": {
+            "artist": "Manu Delago",
+            "ratio": 9,
+            "title": "Freeze",
+            "trackid": "21x0q2ckrIoSjhMwqHnBzc"
+        },
+        "02": {
+            "artist": "Hector Plimmer",
+            "ratio": 9,
+            "title": "Kalimba",
+            "trackid": "3YGt9soOGcn7aoMvTLxaHL"
+        },
+        "03": {
+            "artist": "Saints",
+            "ratio": 9,
+            "title": "Katarina",
+            "trackid": "6vMyWy3jHRRKPxCRpoC59e"
+        },
+        "04": {
+            "artist": "Nusrat Fateh Ali Khan",
+            "ratio": 9,
+            "title": "Taboo",
+            "trackid": "5BTPVD6a9e6y4FuOqDzl5F"
+        },
+        "05": {
+            "artist": "Fred again..",
+            "ratio": 9,
+            "title": "Winnie (rosslyn crescent)",
+            "trackid": "2TN2PcgQMQPnPVYHHts3Hu"
+        },
+        "06": {
+            "artist": "Sans",
+            "ratio": 9,
+            "title": "she",
+            "trackid": "26FmrnQX533Oxqbi1MbQcn"
+        },
+        "07": {
+            "artist": "Ibeyi",
+            "ratio": 9,
+            "title": "Made of Gold",
+            "trackid": "2dOlQsivPlIDjgISeoTJQw"
+        },
+        "08": {
+            "artist": "Brent Lewis",
+            "ratio": 9,
+            "title": "Doom Tac a Doom",
+            "trackid": "6mRGmkOtIzfauxePjoOBW4"
+        },
+        "09": {
+            "artist": "Totó La Momposina",
+            "ratio": 9,
+            "title": "Ven Pronto",
+            "trackid": "7jbLLWAOpWxrGz8GpMFGxd"
+        },
+        "10": {
+            "artist": "Wealstarcks",
+            "ratio": 9,
+            "title": "Ta Faltando Um",
+            "trackid": "2ulugT3jtketebnq2DUAqh"
+        },
+        "11": {
+            "artist": "Pablo Nouvelle",
+            "ratio": 9,
+            "title": "Milambi",
+            "trackid": "6Bg9rnY8OXQZOG79lCveyu"
+        },
+        "12": {
+            "artist": "Harry Belafonte",
+            "ratio": 9,
+            "title": "My Angel (Malaika)",
+            "trackid": "0eP52OQtijQQzZBXDc923Z"
+        },
+        "13": {
+            "artist": "Persian Empire",
+            "ratio": 9,
+            "title": "Jugo",
+            "trackid": "1FGO5lEI64IfiufMS6A9hS"
+        },
+        "14": {
+            "artist": "Nosaj Thing",
+            "ratio": 9,
+            "title": "Mountain",
+            "trackid": "1th4PAEaEQEV0NWAFfwWvv"
+        },
+        "15": {
+            "artist": "Muzi",
+            "ratio": 9,
+            "title": "Mncane",
+            "trackid": "3KqGK6a7S87kGLFYdDugPx"
+        },
+        "16": {
+            "artist": "iZem",
+            "ratio": 9,
+            "title": "Agua Viva",
+            "trackid": "5qQviPvlrLAezMa8EzmZev"
+        },
+        "17": {
+            "artist": "Hans Zimmer",
+            "ratio": 9,
+            "title": "First Step",
+            "trackid": "1gLLVtr9kIjmyoRzENZ11w"
+        },
+        "18": {
+            "artist": "Not Drowning, Waving",
+            "ratio": 9,
+            "title": "Overlay",
+            "trackid": "2M1xaPIsoSRQdX8r9olkZB"
+        }
+    },
+    "late-night-billiards-10th-march-2023": {
+        "00": {
+            "artist": "Miles Davis",
+            "ratio": 9,
+            "title": "He Loved Him Madly",
+            "trackid": "4lZpLYUCRXmIiwdtNIbxVq"
+        },
+        "01": {
+            "artist": "Herbie Hancock",
+            "ratio": 9,
+            "title": "Sonrisa",
+            "trackid": "67h3S0LMoMkwmbX6xJU0Gz"
+        },
+        "02": {
+            "artist": "Michael Small",
+            "ratio": 9,
+            "title": "Love Theme",
+            "trackid": "1w5LNMQslctoeOwoQjwqnu"
+        },
+        "03": {
+            "artist": "Ahmad Jamal",
+            "ratio": 9,
+            "title": "What's New",
+            "trackid": "6wjWrgQt2XmC7yhjZ9Fi43"
+        },
+        "04": {
+            "artist": "Side Effect",
+            "ratio": 9,
+            "title": "The Loneliest Man in Town",
+            "trackid": "2cd44XY8d2bmXS2cLNagC3"
+        },
+        "05": {
+            "artist": "ゼロ戦",
+            "ratio": 9,
+            "title": "サン・オブ・ピン・ヘッド",
+            "trackid": "4wzbxPoelr1yj0rAXrQnDV"
+        },
+        "06": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "07": {
+            "artist": "24 Carat Black",
+            "ratio": 9,
+            "title": "The Best Of Good Love Gone",
+            "trackid": "25bH2tf4GyjyJsJPUoontU"
+        },
+        "08": {
+            "artist": "Jose Siveira",
+            "ratio": 4,
+            "title": "Um Dia",
+            "trackid": "0qPc50J9cOSDx6Jiqw1qXM"
+        },
+        "09": {
+            "artist": "Héctor Lavoe",
+            "ratio": 9,
+            "title": "Taxi",
+            "trackid": "6hqqBWimVhXmWcA8OMzTKX"
+        },
+        "10": {
+            "artist": "Pescado Rabioso",
+            "ratio": 9,
+            "title": "Cementerio Club",
+            "trackid": "0O9BqfU1Cdm7YqmD0TrT9i"
+        },
+        "11": {
+            "artist": "Rachika Nayar",
+            "ratio": 9,
+            "title": "Promises",
+            "trackid": "1zqtGjTEQFR098z9nfCDES"
+        },
+        "12": {
+            "artist": "Robert Glasper",
+            "ratio": 9,
+            "title": "Cherish The Day",
+            "trackid": "4ZMmUFcNgjBNiA377QCGeh"
+        },
+        "13": {
+            "artist": "Loose Ends",
+            "ratio": 9,
+            "title": "Love Controversy, Pt. 1",
+            "trackid": "65vHeUg08NqpNjgp4J78Th"
+        },
+        "14": {
+            "artist": "Caron Wheeler",
+            "ratio": 9,
+            "title": "I Adore You",
+            "trackid": "59lAWaxivYS1Py4JnRP1Bd"
+        },
+        "15": {
+            "artist": "Goya Gumbani",
+            "ratio": 9,
+            "title": "It All Depends",
+            "trackid": "04JWYC8VRTHm6bhPo3j9Zc"
+        },
+        "16": {
+            "artist": "Subculture",
+            "ratio": 4,
+            "title": "Gunning for Fees",
+            "trackid": "6mndlpVVP32RHGyCwcvTQu"
+        }
+    },
     "late-night-billiards-11th-february-2022": {
         "00": {
             "artist": "Alice Coltrane",
