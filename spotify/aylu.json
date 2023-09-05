@@ -1,0 +1,946 @@
+{
+    "aylu-10th-april-2023": {
+        "00": {
+            "artist": "César Bolaños",
+            "ratio": 9,
+            "title": "Intensidad y Altura",
+            "trackid": "3Y4eAerXlpJcwYwAMZZt6F"
+        },
+        "01": {
+            "artist": "Leyda Vanessa",
+            "ratio": 4,
+            "title": "De Arriba Viene Lo Bueno",
+            "trackid": "6hSqOagqDwvDJg6sf6dSg0"
+        },
+        "02": {
+            "artist": "Sylvia Meyer",
+            "ratio": 3,
+            "title": "De las Partituras",
+            "trackid": "3tB1xewxyJTPLWjHj2fWd0"
+        },
+        "03": {
+            "artist": "Marco Francia",
+            "ratio": 4,
+            "title": "Dalla stessa parte",
+            "trackid": "28sJ2tIslTYWPwia4GywKu"
+        },
+        "04": {
+            "artist": "Bocho Ramos",
+            "ratio": 4,
+            "title": "El Chaneke",
+            "trackid": "1waL0zT3AH6rqyopj7HDLl"
+        },
+        "05": {
+            "artist": "Astor Piazzolla",
+            "ratio": 9,
+            "title": "Muerte del Angel",
+            "trackid": "7CESNJVPLEf1aitha83n9Y"
+        },
+        "06": {
+            "artist": "Miguel Angel Fuster",
+            "ratio": 9,
+            "title": "Dame De Comer",
+            "trackid": "5eq3HjACKS3d8ZIhkVunVa"
+        },
+        "07": {
+            "artist": "Doctor Krápula",
+            "ratio": 0,
+            "title": "Jose María",
+            "trackid": "2tAU1IlrTy4Vw1N5kx6lZz"
+        },
+        "08": {
+            "artist": "QUY",
+            "ratio": 3,
+            "title": "MALOCAL",
+            "trackid": "65b2ETE2gFwJCgxiQ0RM5W"
+        },
+        "09": {
+            "artist": "Soledad",
+            "ratio": 9,
+            "title": "Que Nadie Sepa Mi Sufrir",
+            "trackid": "0YhkCXDzIkVcv1ToW5BSbt"
+        },
+        "10": {
+            "artist": "Piotr Kurek",
+            "ratio": 9,
+            "title": "Peach Blossom",
+            "trackid": "2JeDfwzqnbjoyrzEReS1LP"
+        },
+        "11": {
+            "artist": "Rosa Nutty",
+            "ratio": 3,
+            "title": "Intro",
+            "trackid": "1fbws4T2PAqGF7jYCiehhP"
+        },
+        "12": {
+            "artist": "Os Originais Do Samba",
+            "ratio": 3,
+            "title": "Falador Passa Mal - Ao Vivo",
+            "trackid": "02HoSehzspHGWF4GGB8Hb7"
+        },
+        "13": {
+            "artist": "Mudi",
+            "ratio": 3,
+            "title": "Aylin",
+            "trackid": "1wnf8bJjqThIQ7W6tYhgKZ"
+        },
+        "14": {
+            "artist": "Romero",
+            "ratio": 4,
+            "title": "POV",
+            "trackid": "69Ww2PG3syEd5xZSPAY7mY"
+        },
+        "15": {
+            "artist": "Zubi",
+            "ratio": 3,
+            "title": "sugar",
+            "trackid": "5IjIbGO7lih9CVDBFLCtTT"
+        },
+        "16": {
+            "artist": "Yotto",
+            "ratio": 5,
+            "title": "Just Over",
+            "trackid": "6vOane9RzzOIITCvbHJ6m2"
+        },
+        "17": {
+            "artist": "Aylu",
+            "ratio": 9,
+            "title": "Tayko",
+            "trackid": "7xuC5MsTGpSLMMZeij1KTw"
+        },
+        "18": {
+            "artist": "Samara",
+            "ratio": 4,
+            "title": "Minimum",
+            "trackid": "3NLawjT84oW1PPbhjJWhi6"
+        },
+        "19": {
+            "artist": "Atahualpa Yupanqui",
+            "ratio": 9,
+            "title": "Canción del Carretero",
+            "trackid": "5q4FIU52K5HZIGI5rtsSGz"
+        },
+        "20": {
+            "artist": "Mira Calix",
+            "ratio": 9,
+            "title": "Nostalgia",
+            "trackid": "35o6WIhbRJaDm3gXoelBzq"
+        },
+        "21": {
+            "artist": "Miguel Rosales",
+            "ratio": 3,
+            "title": "Florita Del Alma",
+            "trackid": "6Z02gqfusDKvkJaQoLkyZB"
+        },
+        "22": {
+            "artist": "Mateo Ottonello",
+            "ratio": 4,
+            "title": "Festejo",
+            "trackid": "6QhFH67WGZ9Q8ipoQfqodf"
+        },
+        "23": {
+            "artist": "Violeta Parra",
+            "ratio": 9,
+            "title": "Anticueca 1",
+            "trackid": "4LRraH0gm49GQ1G7olQTgR"
+        }
+    },
+    "aylu-14th-february-2023": {
+        "00": {
+            "artist": "Nicola Di Bari",
+            "ratio": 4,
+            "title": "Rosa",
+            "trackid": "51i3mnhBGLDtmDJJ1RcHmc"
+        },
+        "01": {
+            "artist": "Tomas Villarreal",
+            "ratio": 4,
+            "title": "Las Huellas de mi Vida",
+            "trackid": "1aEGDXilNoaJb7aIkrZAeI"
+        },
+        "02": {
+            "artist": "Atahualpa Yupanqui",
+            "ratio": 9,
+            "title": "Los Ejes De Mi Carreta",
+            "trackid": "70ff1stg4fegj3BFbfhpwB"
+        },
+        "03": {
+            "artist": "Los Blops",
+            "ratio": 5,
+            "title": "Allegro Ma Non Troppo - Remasterizado 2021",
+            "trackid": "71sfAEaCnS1bXeT2NSmhJe"
+        },
+        "04": {
+            "artist": "Julia Elena Dávalos",
+            "ratio": 9,
+            "title": "Señora Chichera",
+            "trackid": "3S1wNk6hWCvHhSbsdX1w1C"
+        },
+        "05": {
+            "artist": "András Adorján",
+            "ratio": 9,
+            "title": "Jalousie",
+            "trackid": "6wDYn988GnweJkSruVLk6j"
+        },
+        "06": {
+            "artist": "M is We",
+            "ratio": 5,
+            "title": "Princess Frown",
+            "trackid": "4psO70hSiDCfYWWooTWlyU"
+        },
+        "07": {
+            "artist": "Gert Emmens",
+            "ratio": 5,
+            "title": "Requiem Pour Sam",
+            "trackid": "2vb25JFU2Wsw8s7Q3E75mE"
+        },
+        "08": {
+            "artist": "DJ Blyatman",
+            "ratio": 4,
+            "title": "Cyka Blyat",
+            "trackid": "4ZjYcAWfghKtYCBzVLOyi2"
+        },
+        "09": {
+            "artist": "MADAH",
+            "ratio": 5,
+            "title": "Macetada",
+            "trackid": "2K0a6G7CrJnGtGw1G3h2c8"
+        },
+        "10": {
+            "artist": "Aylo",
+            "ratio": 4,
+            "title": "Vermisst",
+            "trackid": "6kiRLhwlbK1pB1VOoRhZ0m"
+        },
+        "11": {
+            "artist": "Xuxa",
+            "ratio": 9,
+            "title": "Parabéns da Xuxa",
+            "trackid": "0DO203FidgOktbX2Ly1jtr"
+        },
+        "12": {
+            "artist": "Denis Mpunga & Paul K.",
+            "ratio": 0,
+            "title": "Criola",
+            "trackid": "7rMUzapRHbCL5LuqQCZcKg"
+        },
+        "13": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "14": {
+            "artist": "Luis Paniagua",
+            "ratio": 9,
+            "title": "Gacelle",
+            "trackid": "26cSlVwBQjuSAL7McJCvp1"
+        },
+        "15": {
+            "artist": "AYLIVA",
+            "ratio": 5,
+            "title": "Heim",
+            "trackid": "1y7xLroWchmFgWrFvM2vrc"
+        },
+        "16": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "17": {
+            "artist": "Gerardo Matos Rodriguez",
+            "ratio": 4,
+            "title": "La Cumparsita",
+            "trackid": "6tJ0zwyKkJ9pWXN0XWqLqY"
+        },
+        "18": {
+            "artist": "viclambart",
+            "ratio": 4,
+            "title": "L'AMOUR",
+            "trackid": "6XsnTDjzKicJ5p4rZprWIy"
+        },
+        "19": {
+            "artist": "Bakermat",
+            "ratio": 4,
+            "title": "Baianá",
+            "trackid": "780be5fB7823aHG06mwTat"
+        },
+        "20": {
+            "artist": "Beatrice Dillon",
+            "ratio": 9,
+            "title": "Workaround Six",
+            "trackid": "3Ead58nBIIk0AZiI7XmviT"
+        },
+        "21": {
+            "artist": "Aylu",
+            "ratio": 9,
+            "title": "Corda II",
+            "trackid": "6YBrdxjoPxCwSem8YMvASj"
+        },
+        "22": {
+            "artist": "Los Nocheros",
+            "ratio": 3,
+            "title": "Chacarera Del Rancho",
+            "trackid": "7FxhDl2TtdtWa7P490QGTS"
+        },
+        "23": {
+            "artist": "Mario Gonzales Guerra",
+            "ratio": 3,
+            "title": "Stand by Me",
+            "trackid": "3mvm2OEyes4VHDcVS6ZXvC"
+        },
+        "24": {
+            "artist": "PHARAOH",
+            "ratio": 3,
+            "title": "Соната Ей",
+            "trackid": "4pNPLFk0ET8d7Be8DMPlcN"
+        },
+        "25": {
+            "artist": "Violeta Parra",
+            "ratio": 9,
+            "title": "Pastelero a tus pasteles",
+            "trackid": "6av0eQd3jbkIi0ebUyOxcP"
+        }
+    },
+    "aylu-17th-january-2023": {
+        "00": {
+            "artist": "Sylvia Meyer",
+            "ratio": 9,
+            "title": "Canción del Tiempo y el Espacio",
+            "trackid": "4LVnJxFSLbM7FXmC1W10PA"
+        },
+        "01": {
+            "artist": "Andréa Daltro",
+            "ratio": 9,
+            "title": "Kiuá",
+            "trackid": "6qNVSJK7zTKrn9SSL0Vriv"
+        },
+        "02": {
+            "artist": "Caetano Veloso",
+            "ratio": 9,
+            "title": "Fla-Flu",
+            "trackid": "0YHpEeFeRznRnDNV3X6Dw6"
+        },
+        "03": {
+            "artist": "Zapoteca Roots",
+            "ratio": 3,
+            "title": "Mix Zapoteka",
+            "trackid": "1eFmDOBQ5hbkY3PZ6k73je"
+        },
+        "04": {
+            "artist": "Germán Bringas",
+            "ratio": 9,
+            "title": "Blues for Lyle",
+            "trackid": "7erMU14aJnr3Kf16wuvlBO"
+        },
+        "05": {
+            "artist": "AYLØ",
+            "ratio": 4,
+            "title": "Romantic (Live Performance)",
+            "trackid": "2oRZ46eyFmx2GWovYiBrSV"
+        },
+        "06": {
+            "artist": "Beatriz Ferreyra",
+            "ratio": 9,
+            "title": "Echos",
+            "trackid": "1zhIvWLjJ1PaCTd2JyZUz7"
+        },
+        "07": {
+            "artist": "Mercedes Sosa",
+            "ratio": 9,
+            "title": "La Maza",
+            "trackid": "4KeQTQAqpf5izW07xghEHP"
+        },
+        "08": {
+            "artist": "Fred Frith",
+            "ratio": 3,
+            "title": "A Single Street Stretched Tight By the Waters",
+            "trackid": "6vOLaK5v0WWqC2AhJgsZ7F"
+        },
+        "09": {
+            "artist": "Domi Koba",
+            "ratio": 5,
+            "title": "Tigres de savana",
+            "trackid": "2NVObXkMEYhtKVyTthIhZv"
+        },
+        "10": {
+            "artist": "Mercy Chinwo",
+            "ratio": 5,
+            "title": "Chinedum",
+            "trackid": "7LcoRUZI1URqzeumgGbKWp"
+        },
+        "11": {
+            "artist": "Cesária Evora",
+            "ratio": 4,
+            "title": "Maria Elena",
+            "trackid": "424pAzPdudT3fTKxxgD8pr"
+        },
+        "12": {
+            "artist": "Aime Nkanu",
+            "ratio": 3,
+            "title": "Unkuatshishe",
+            "trackid": "5JqpWWHqIOsiN8ECqLnooi"
+        },
+        "13": {
+            "artist": "Aylu",
+            "ratio": 9,
+            "title": "Screamae, Pt. 2",
+            "trackid": "2ekDyrVLbJwvFK8uofwdot"
+        },
+        "14": {
+            "artist": "Atahualpa Yupanqui",
+            "ratio": 9,
+            "title": "El mal dormido",
+            "trackid": "2swHYdcimFIv0t6wXIPQsL"
+        },
+        "15": {
+            "artist": "David Dunn",
+            "ratio": 3,
+            "title": "Today Is Beautiful",
+            "trackid": "7LFWiZSNsUE9my26kd8vqB"
+        },
+        "16": {
+            "artist": "Sun Araw",
+            "ratio": 3,
+            "title": "Deep Cover",
+            "trackid": "6rne7RR7YOkAuRYeNP9GQT"
+        },
+        "17": {
+            "artist": "Fäaschtbänkler",
+            "ratio": 4,
+            "title": "Humpa Humpa",
+            "trackid": "7HsaoYuEe7JOgUOyJdOiV5"
+        },
+        "18": {
+            "artist": "J Lucia",
+            "ratio": 5,
+            "title": "Pon Me",
+            "trackid": "3EFVSjoNvZbno4q8jNkd7d"
+        },
+        "19": {
+            "artist": "Michel Berger",
+            "ratio": 3,
+            "title": "Seras-tu là - Remasterisé en 2002",
+            "trackid": "08hGU2oAtPcVVNWKFI0CYI"
+        },
+        "20": {
+            "artist": "Vic Bang",
+            "ratio": 9,
+            "title": "Uze",
+            "trackid": "3H0m9CbRzxUEZCFhJeUeCU"
+        },
+        "21": {
+            "artist": "El⁓murki↯",
+            "ratio": 9,
+            "title": "Raje",
+            "trackid": "0eKmI6gD2QfVTJWBJ89M8n"
+        },
+        "22": {
+            "artist": "Jaco Pastorius",
+            "ratio": 9,
+            "title": "Opus Pocus",
+            "trackid": "1hk6KMDQwGWsdy08PYotmM"
+        },
+        "23": {
+            "artist": "Dada",
+            "ratio": 4,
+            "title": "Raw Daw",
+            "trackid": "1s12rhpwz9KyBkIRAz8GJk"
+        },
+        "24": {
+            "artist": "Paulo Dantas",
+            "ratio": 4,
+            "title": "Chapa Quente",
+            "trackid": "7GdpiDEDXmM5OwIaiGRpQv"
+        },
+        "25": {
+            "artist": "Sandy Reyna",
+            "ratio": 4,
+            "title": "Old Lady",
+            "trackid": "5vx92KuJUjB7m73jRYWKJ5"
+        },
+        "26": {
+            "artist": "YAO",
+            "ratio": 5,
+            "title": "Toi",
+            "trackid": "1SdJZ1oStIOK1PBCcdiMQL"
+        },
+        "27": {
+            "artist": "Lennky Wezzy",
+            "ratio": 4,
+            "title": "Pipada",
+            "trackid": "7vfZyZH8Jj5lWy2Y5QhrAo"
+        }
+    },
+    "aylu-21st-august-2023": {
+        "00": {
+            "artist": "La Excelencia De Oaxaca",
+            "ratio": 4,
+            "title": "San Juan Del Río",
+            "trackid": "6bmuuEW7ghUEWGuZ1pxSyz"
+        },
+        "01": {
+            "artist": "Simón Díaz",
+            "ratio": 9,
+            "title": "Garcita",
+            "trackid": "1k3DeYEBFJVC1tAMFkjuWv"
+        },
+        "02": {
+            "artist": "Facundo Cabral",
+            "ratio": 0,
+            "title": "No Soy De Aqui, Ni Soy De Alla",
+            "trackid": "70xSLxbCLBQSxBtP46AuZq"
+        },
+        "03": {
+            "artist": "Jose Manuel Solis",
+            "ratio": 3,
+            "title": "Mientras Viva",
+            "trackid": "3aiwgthaLDLN2deMWZnw5D"
+        },
+        "04": {
+            "artist": "Juan Falú",
+            "ratio": 9,
+            "title": "Taficeña",
+            "trackid": "5SH7GMq0hNsgvC54x9QwQD"
+        },
+        "05": {
+            "artist": "Piotr Kurek",
+            "ratio": 9,
+            "title": "The Art of Swapping Hearts",
+            "trackid": "0HMfCYO7oYw7Bd01vNFuvU"
+        },
+        "06": {
+            "artist": "Miguel Ríos",
+            "ratio": 4,
+            "title": "Santa Lucia - Remastered 2005",
+            "trackid": "5bycn7SuJzYnxte0W54mNX"
+        },
+        "07": {
+            "artist": "Yotto",
+            "ratio": 5,
+            "title": "Just Over",
+            "trackid": "6vOane9RzzOIITCvbHJ6m2"
+        },
+        "08": {
+            "artist": "Symi",
+            "ratio": 9,
+            "title": "mnc",
+            "trackid": "5RL1qTpSGU9qIApiZ1ytma"
+        },
+        "09": {
+            "artist": "Vic Bang",
+            "ratio": 9,
+            "title": "Minyatiri",
+            "trackid": "4wW8bz6B6qDUP64rLITn0g"
+        },
+        "10": {
+            "artist": "Paulo Dandrea",
+            "ratio": 9,
+            "title": "Diatonic Arrests",
+            "trackid": "5IJx52ShjcygWvJrnThX1w"
+        },
+        "11": {
+            "artist": "Aylu",
+            "ratio": 9,
+            "title": "Screamae",
+            "trackid": "4R54QIr78BwH2KuXWFkZuY"
+        },
+        "12": {
+            "artist": "glwzbll",
+            "ratio": 3,
+            "title": "Untitled #13 (Slowed + Reverb)",
+            "trackid": "4w2C4w02lvnh4jcx6bq0Pj"
+        },
+        "13": {
+            "artist": "Marga y Betty",
+            "ratio": 9,
+            "title": "La Tía Paca",
+            "trackid": "0Ia5A0iWeBENYcvDP21KZQ"
+        },
+        "14": {
+            "artist": "Charly García",
+            "ratio": 9,
+            "title": "Futuro Pobre",
+            "trackid": "5dmP09b2sSdBXJXn3w9ytZ"
+        },
+        "15": {
+            "artist": "Dino Saluzzi",
+            "ratio": 9,
+            "title": "Misachico",
+            "trackid": "7tNy0eOXVCuuDMrhJ2QR9F"
+        },
+        "16": {
+            "artist": "Esteban Sajama",
+            "ratio": 9,
+            "title": "Misachico",
+            "trackid": "2WnxELe4HtrVhbTrgGVCHW"
+        },
+        "17": {
+            "artist": "Diego Morales",
+            "ratio": 9,
+            "title": "A Favor De La Crítica",
+            "trackid": "1SS7YJCGKYmTXjcQbuQFG0"
+        },
+        "18": {
+            "artist": "Federico Durand",
+            "ratio": 9,
+            "title": "Tomillo",
+            "trackid": "4X3Kq7oMGkuTT2fGspheur"
+        },
+        "19": {
+            "artist": "Marcelo Marinho Tex",
+            "ratio": 3,
+            "title": "Pacman",
+            "trackid": "4y9SRXVGJN8KVpFBYWYTs8"
+        }
+    },
+    "aylu-24th-july-2023": {
+        "00": {
+            "artist": "Tomas Calderon",
+            "ratio": 4,
+            "title": "The Hills",
+            "trackid": "0g809LpjXp334VI2xWRYDY"
+        },
+        "01": {
+            "artist": "Omuchi Hanzo",
+            "ratio": 5,
+            "title": "hako",
+            "trackid": "2GsTyNvrhDi2XMLKYdie2t"
+        },
+        "02": {
+            "artist": "Mariano And Sinesi",
+            "ratio": 9,
+            "title": "17th Cross",
+            "trackid": "1I5cMtOAx4MfoTkM5VQnYb"
+        },
+        "03": {
+            "artist": "Pescado Rabioso",
+            "ratio": 9,
+            "title": "Corto",
+            "trackid": "04vzMMB7ZSidyd3H71zgdt"
+        },
+        "04": {
+            "artist": "Hugo Fattoruso y rey tambor",
+            "ratio": 9,
+            "title": "Emotivo / Estampa Negra",
+            "trackid": "5dfBzGy0hfPx0VfkICmMqa"
+        },
+        "05": {
+            "artist": "Pablo Ziegler",
+            "ratio": 9,
+            "title": "Milonga para Hermeto",
+            "trackid": "3fS9OGyXShi92xSMH5sszk"
+        },
+        "06": {
+            "artist": "Facundo Cabral",
+            "ratio": 8,
+            "title": "Yo Se Que Si (with Waldo De Los Rios Y Su Orquesta)",
+            "trackid": "3y2e8HQMw7ronlPzZZ0EUS"
+        },
+        "07": {
+            "artist": "Lucrecia Dalt",
+            "ratio": 9,
+            "title": "Blob on the Lawn",
+            "trackid": "104LLrwbK0zPPtfvFKddp3"
+        },
+        "08": {
+            "artist": "Mira Calix",
+            "ratio": 9,
+            "title": "surrender",
+            "trackid": "03feoyUsP5PfVB6Ub6GQAa"
+        },
+        "09": {
+            "artist": "Redkattseven",
+            "ratio": 3,
+            "title": "Elsa Joubert",
+            "trackid": "41dHWAUkcuagixBqHUJ8uL"
+        },
+        "10": {
+            "artist": "Leda Valladares Y María Elena Walsh",
+            "ratio": 9,
+            "title": "Al Olivo, Al Olivo",
+            "trackid": "6ElaTNH1Ci8I4vAczdxqdq"
+        },
+        "11": {
+            "artist": "Leda Valladares",
+            "ratio": 9,
+            "title": "Baguala Salteña del Valle de Lerna",
+            "trackid": "5WaQKlZ4c2u9wdTaMPXtfC"
+        },
+        "12": {
+            "artist": "Jaco Pastorius",
+            "ratio": 9,
+            "title": "Opus Pocus",
+            "trackid": "1hk6KMDQwGWsdy08PYotmM"
+        },
+        "13": {
+            "artist": "Tumba",
+            "ratio": 9,
+            "title": "Infinity Ends",
+            "trackid": "59HkN6rxjRYMyBmAY7GaSL"
+        },
+        "14": {
+            "artist": "Milky Day",
+            "ratio": 4,
+            "title": "Youuu",
+            "trackid": "7AtCIuQLBDXlu3nWhYuwJ0"
+        },
+        "15": {
+            "artist": "Daris",
+            "ratio": 5,
+            "title": "PO IKI",
+            "trackid": "2HREknAk7i5anKHM2BzDO2"
+        },
+        "16": {
+            "artist": "Koeosaeme",
+            "ratio": 9,
+            "title": "Ellissi",
+            "trackid": "3tj9zKqdac6lgA2bgUxMM7"
+        },
+        "17": {
+            "artist": "Señor Service",
+            "ratio": 0,
+            "title": "Deadliest Catch",
+            "trackid": "0tuYJajqErUVuCSWFFiie3"
+        },
+        "18": {
+            "artist": "Bad Religion",
+            "ratio": 3,
+            "title": "Big Bang",
+            "trackid": "318CznWjAUDlkYDHP2VYTQ"
+        },
+        "19": {
+            "artist": "Son Con Ron",
+            "ratio": 4,
+            "title": "Flor",
+            "trackid": "2mIB7SBvlofAxAIdH1hmx4"
+        }
+    },
+    "aylu-6th-june-2023": {
+        "00": {
+            "artist": "Jamn",
+            "ratio": 4,
+            "title": "Aroma",
+            "trackid": "0N5FHyg3jiuyFHnJXMy1oD"
+        },
+        "01": {
+            "artist": "Chavela Vargas",
+            "ratio": 9,
+            "title": "La Churrasca",
+            "trackid": "67L0Z7yrjhmrwyCFkP68rR"
+        },
+        "02": {
+            "artist": "Gérard Grisey",
+            "ratio": 9,
+            "title": "Partiels",
+            "trackid": "79L9jq1zIUlqVMC3luHQRD"
+        },
+        "03": {
+            "artist": "Eduardo Falú",
+            "ratio": 9,
+            "title": "La cuartelera",
+            "trackid": "2DMgLcTnbEPI9t8I3duavM"
+        },
+        "04": {
+            "artist": "Juan Lavoe",
+            "ratio": 3,
+            "title": "Polvo y Agua",
+            "trackid": "2v7ZyV6jk5Kg1tDXG25dHu"
+        },
+        "05": {
+            "artist": "Aylu",
+            "ratio": 9,
+            "title": "Bianco",
+            "trackid": "474QDfNKkwXAQ7So8sTY0G"
+        },
+        "06": {
+            "artist": "Oliver Marson",
+            "ratio": 5,
+            "title": "Manipulator",
+            "trackid": "10KquU4j3KjWi7DN6jKLPZ"
+        },
+        "07": {
+            "artist": "Kosmonova",
+            "ratio": 4,
+            "title": "Ayla",
+            "trackid": "7iTCChWTj4SMfpvGKUoXRf"
+        },
+        "08": {
+            "artist": "Ayüü",
+            "ratio": 3,
+            "title": "Serpent",
+            "trackid": "75sj0jvAGespYP7lcm4iQR"
+        },
+        "09": {
+            "artist": "Lisa Mélissa & The Mess",
+            "ratio": 3,
+            "title": "Je broie du noir",
+            "trackid": "5d8J6r6ZkNVbLw2S6VCDNH"
+        },
+        "10": {
+            "artist": "MC Rick",
+            "ratio": 9,
+            "title": "Nada Vai Mudar",
+            "trackid": "5GlGQL3kO41azAED4dzHVI"
+        },
+        "11": {
+            "artist": "YL",
+            "ratio": 7,
+            "title": "Y",
+            "trackid": "3U6A3flmLR7Bww958zhd6v"
+        },
+        "12": {
+            "artist": "Simón Díaz",
+            "ratio": 9,
+            "title": "Tonada Del Cabrestero",
+            "trackid": "1lcKzup3Of7lfFLhYSBJw3"
+        },
+        "13": {
+            "artist": "Hugo Fattoruso",
+            "ratio": 5,
+            "title": "La Explicación",
+            "trackid": "2HlWEGp5Hefb38uuwEL4dI"
+        },
+        "14": {
+            "artist": "Paco de Lucía",
+            "ratio": 5,
+            "title": "Entre Dos Aguas - Remastered 2014",
+            "trackid": "4WO5q4gmBiPJbv2xqVDADE"
+        },
+        "15": {
+            "artist": "Cesária Evora",
+            "ratio": 3,
+            "title": "Maria Elena",
+            "trackid": "424pAzPdudT3fTKxxgD8pr"
+        }
+    },
+    "aylu-9th-may-2023": {
+        "00": {
+            "artist": "Nicolas Jaar",
+            "ratio": 9,
+            "title": "Screams at the Edge of Dawn",
+            "trackid": "1ztkIwOXxjW2jjRsoAZi7N"
+        },
+        "01": {
+            "artist": "Yotto",
+            "ratio": 8,
+            "title": "Observer",
+            "trackid": "1dbtntf2KpYWrpVZvEdArL"
+        },
+        "02": {
+            "artist": "Sun Araw",
+            "ratio": 4,
+            "title": "Deep Cover",
+            "trackid": "6rne7RR7YOkAuRYeNP9GQT"
+        },
+        "03": {
+            "artist": "Leda Valladares",
+            "ratio": 9,
+            "title": "Baguala Salteña del Valle de Lerna",
+            "trackid": "5WaQKlZ4c2u9wdTaMPXtfC"
+        },
+        "04": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "05": {
+            "artist": "Chavela Vargas",
+            "ratio": 9,
+            "title": "Rayando el Sol",
+            "trackid": "0aYUIQyAR6P7R4FtEEG9Ik"
+        },
+        "06": {
+            "artist": "Mateo Ottonello",
+            "ratio": 4,
+            "title": "Festejo",
+            "trackid": "6QhFH67WGZ9Q8ipoQfqodf"
+        },
+        "07": {
+            "artist": "No-Ce",
+            "ratio": 4,
+            "title": "Waldemar",
+            "trackid": "1AesHnRe6EGavSW1V53rqa"
+        },
+        "08": {
+            "artist": "Aylu",
+            "ratio": 9,
+            "title": "Miau",
+            "trackid": "6kEIRclfzZfraQY9Cn3F01"
+        },
+        "09": {
+            "artist": "Aylo",
+            "ratio": 4,
+            "title": "Boomerang",
+            "trackid": "1DilMm613lCaBlin10YfGM"
+        },
+        "10": {
+            "artist": "Cthulluminaty",
+            "ratio": 9,
+            "title": "Damn It Feels Good to Smoke Trees",
+            "trackid": "1HpNHZeHg13ElRLRuOEiDb"
+        },
+        "11": {
+            "artist": "foodman",
+            "ratio": 9,
+            "title": "Mosquito & Clap",
+            "trackid": "7qzqgq96ouuA0ginck3IDi"
+        },
+        "12": {
+            "artist": "ZENDAMAN",
+            "ratio": 5,
+            "title": "ZENDA MI RAGGA",
+            "trackid": "6ot8CCXcIcyYKXJ6pCNIr7"
+        },
+        "13": {
+            "artist": "LEVELTWO",
+            "ratio": 3,
+            "title": "Le diable ça va",
+            "trackid": "4WjGqlQc9K7Ezc3gXuYEJ5"
+        },
+        "14": {
+            "artist": "Qeei",
+            "ratio": 9,
+            "title": "Alarma 1",
+            "trackid": "4NOoJzm5NK17tHnXuS2BTo"
+        },
+        "15": {
+            "artist": "Jorge Antunes",
+            "ratio": 9,
+            "title": "Cinta Cita",
+            "trackid": "0o3P1C2uxeYkEuqNWU5XcN"
+        },
+        "16": {
+            "artist": "Mercedes Sosa",
+            "ratio": 9,
+            "title": "Unicornio",
+            "trackid": "5KFdrN3kEFfWxme6d2cG89"
+        },
+        "17": {
+            "artist": "Elomar",
+            "ratio": 9,
+            "title": "Abertura",
+            "trackid": "64Ke2eVlaI8rBCwiVFwWE9"
+        },
+        "18": {
+            "artist": "Jocy de Oliveira",
+            "ratio": 4,
+            "title": "Ofélia presa nas cordas do piano",
+            "trackid": "2moTeI2aSKviUEKbCXJFNl"
+        },
+        "19": {
+            "artist": "Violeta Parra",
+            "ratio": 9,
+            "title": "Tema Libre 2",
+            "trackid": "0XeFF5jfBosVADYT4nxIwn"
+        },
+        "20": {
+            "artist": "Fernando Gelbard",
+            "ratio": 9,
+            "title": "Mojo 1",
+            "trackid": "3vZPWgBYII1kJCQ635uY7o"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "ppu-luv-radio-3rd-june-2016": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Impressions",
+                    "title": "I'm So Proud",
+                    "uri": "3bq9YHKExHdNzMCublodNs"
+                },
+                {
+                    "artist": "James Blake",
+                    "title": "Mile High (feat. Travis Scott & Metro Boomin)",
+                    "uri": "6gWo0JYLA6Dnw40WIx1MTl"
+                },
+                {
+                    "artist": "KEY",
+                    "title": "Proud",
+                    "uri": "6BdYzWKgwvaS3PyBaKF3Gz"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Dan Mastroianni",
+                    "title": "You & I",
+                    "uri": "61ENU37M2YdClbNyHC6kKq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dan Mastroianni",
+                    "title": "A Million and One",
+                    "uri": "03V87hThgwbKlasu6g8qvj"
+                },
+                {
+                    "artist": "Dan Mastroianni",
+                    "title": "Blame It on Love",
+                    "uri": "4A838F1MruOn3U2f8ATFeN"
+                },
+                {
+                    "artist": "Dan Mastroianni",
+                    "title": "Lead On",
+                    "uri": "3ITFp5EezJ0ZRLkOo6xSPg"
+                }
+            ]
+        }
+    }
+}

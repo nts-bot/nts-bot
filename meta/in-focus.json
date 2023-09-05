@@ -1,0 +1,968 @@
+{
+    "a-guy-called-gerald-7th-april-2022": {
+        "date": "07.04.22",
+        "title": "In Focus: A Guy Called Gerald"
+    },
+    "annea-lockwood-2nd-september-2022": {
+        "date": "02.09.22",
+        "title": "In Focus: Annea Lockwood "
+    },
+    "aphex-twin-18th-august-2021": {
+        "date": "27.08.21",
+        "title": "In Focus: Aphex Twin"
+    },
+    "archie-shepp-24th-may-2022": {
+        "date": "24.05.22",
+        "title": "In Focus: Archie Shepp"
+    },
+    "asha-puthli-10th-february-2022": {
+        "date": "10.02.22",
+        "title": "In Focus: Asha Puthli "
+    },
+    "bill-evans-30th-april-2022": {
+        "date": "30.04.22",
+        "title": "In Focus: Bill Evans"
+    },
+    "bones-14th-october-2022": {
+        "date": "14.10.22",
+        "title": "In Focus: Bones"
+    },
+    "daniel-johnston-in-focus-16th-september-2019": {
+        "date": "16.09.19",
+        "title": "In Focus: DANIEL JOHNSTON"
+    },
+    "dave-hamilton-5th-august-2022": {
+        "date": "05.08.22",
+        "title": "In Focus: Dave Hamilton"
+    },
+    "description": "A deeper look into the back catalogs of various artists.",
+    "dillinja-23rd-september-2021": {
+        "date": "23.09.21",
+        "title": "In Focus: Dillinja"
+    },
+    "dj-koze-30th-january-2021": {
+        "date": "30.01.21",
+        "title": "In Focus: DJ Koze"
+    },
+    "eliane-radigue-11th-april-2022": {
+        "date": "12.04.22",
+        "title": "In Focus: Éliane Radigue"
+    },
+    "enya-17th-may-2021": {
+        "date": "17.05.21",
+        "title": "In Focus: Enya"
+    },
+    "flying-nun-13th-december-2021": {
+        "date": "13.12.21",
+        "title": "In Focus: Flying Nun Records"
+    },
+    "foxy-brown-17th-june-2021": {
+        "date": "17.06.21",
+        "title": "In Focus: Foxy Brown"
+    },
+    "gangsta-boo-6th-january-2023": {
+        "date": "06.01.23",
+        "title": "In Focus: Gangsta Boo"
+    },
+    "grouper-3rd-june-2022": {
+        "date": "03.06.22",
+        "title": "In Focus: Grouper"
+    },
+    "guillermo-scott-herren-27th-march-2021": {
+        "date": "27.03.21",
+        "title": "In Focus: Guillermo Scott Herren"
+    },
+    "hank-williams-16th-september-2021": {
+        "date": "16.09.21",
+        "title": "In Focus: Hank Williams"
+    },
+    "hildegard-von-bingen-19th-november-2021": {
+        "date": "19.11.21",
+        "title": "In Focus: Hildegard Von Bingen"
+    },
+    "in-focus-11th-november-2022": {
+        "date": "11.11.22",
+        "title": "In Focus: J Hus"
+    },
+    "in-focus-12th-august-2022": {
+        "date": "12.08.22",
+        "title": "In Focus: Paul Chain"
+    },
+    "in-focus-13th-september-2019": {
+        "date": "13.09.19",
+        "title": "In Focus: Joe Hisaishi"
+    },
+    "in-focus-15th-december-2017": {
+        "date": "15.12.17",
+        "title": "In Focus: Nico"
+    },
+    "in-focus-15th-january-2022": {
+        "date": "15.01.22",
+        "title": "In Focus: Ronnie Spector"
+    },
+    "in-focus-15th-july-2022": {
+        "date": "15.07.22",
+        "title": "In Focus: Missy Elliott"
+    },
+    "in-focus-16th-september-2022": {
+        "date": "16.09.22",
+        "title": "In Focus: Michael Rother"
+    },
+    "in-focus-17th-november-2019": {
+        "date": "17.11.19",
+        "title": "In Focus: Bobbi Humphrey "
+    },
+    "in-focus-19th-february-2020": {
+        "date": "19.02.20",
+        "title": "In Focus: Simón Díaz"
+    },
+    "in-focus-1st-july-2022": {
+        "date": "01.07.22",
+        "title": "In Focus: Peven Everett"
+    },
+    "in-focus-23rd-february-2023": {
+        "date": "23.02.23",
+        "title": "In Focus: Ariel Kalma"
+    },
+    "in-focus-24th-july-2020": {
+        "date": "24.07.20",
+        "title": "In Focus: Roxy Music"
+    },
+    "in-focus-24th-june-2022": {
+        "date": "24.06.22",
+        "title": "In Focus: Yoshiko Sai"
+    },
+    "in-focus-26th-august-2022": {
+        "date": "26.08.22",
+        "title": "In Focus: Zapp & Roger Troutman"
+    },
+    "in-focus-29th-july-2022": {
+        "date": "29.07.22",
+        "title": "In Focus: Kate Bush"
+    },
+    "in-focus-2nd-december-2022": {
+        "date": "02.12.22",
+        "title": "In Focus: DJ Bongz"
+    },
+    "in-focus-6th-december-2019": {
+        "date": "06.12.19",
+        "title": "In Focus: Pet Shop Boys"
+    },
+    "in-focus-6th-september-2019": {
+        "date": "06.09.19",
+        "title": "In Focus: Caravan "
+    },
+    "in-focus-8th-july-2022": {
+        "date": "08.07.22",
+        "title": "In Focus: Gilberto Gil"
+    },
+    "in-focus-algebra-suicide-10th-march-2023": {
+        "date": "10.03.23",
+        "title": "In Focus: Algebra Suicide"
+    },
+    "in-focus-andrea-parker-7th-april-2023": {
+        "date": "07.04.23",
+        "title": "In Focus: Andrea Parker"
+    },
+    "in-focus-anita-baker-6th-november-2020": {
+        "date": "06.11.20",
+        "title": "In Focus: Anita Baker"
+    },
+    "in-focus-anne-briggs-11th-august-2020": {
+        "date": "11.08.20",
+        "title": "In Focus: Anne Briggs"
+    },
+    "in-focus-annette-peacock": {
+        "date": "04.11.17",
+        "title": "In Focus: Annette Peacock"
+    },
+    "in-focus-antena": {
+        "date": "30.07.21",
+        "title": "In Focus: Isabelle Antena"
+    },
+    "in-focus-ar-kane-8th-october-2020": {
+        "date": "08.10.20",
+        "title": "In Focus: AR Kane"
+    },
+    "in-focus-arca-16th-june-2023": {
+        "date": "16.06.23",
+        "title": "In Focus: Arca"
+    },
+    "in-focus-azymuth": {
+        "date": "28.09.18",
+        "title": "In Focus: Azymuth "
+    },
+    "in-focus-bauhaus-20th-december-2018": {
+        "date": "20.12.18",
+        "title": "In Focus: Bauhaus "
+    },
+    "in-focus-beatriz-ferreyra-14th-april-2023": {
+        "date": "14.04.23",
+        "title": "In Focus: Beatriz Ferreyra"
+    },
+    "in-focus-bezunesh-bekele-31st-july-2019": {
+        "date": "31.07.19",
+        "title": "In Focus: Bezunesh Bekele"
+    },
+    "in-focus-big-star-18th-april-2022": {
+        "date": "18.04.22",
+        "title": "In Focus: Big Star"
+    },
+    "in-focus-bikini-kill-22nd-october-2019": {
+        "date": "22.10.19",
+        "title": "In Focus: Bikini Kill "
+    },
+    "in-focus-black-sabbath-9th-december-2022": {
+        "date": "23.12.22",
+        "title": "In Focus: Black Sabbath"
+    },
+    "in-focus-boredoms-19th-february-2022": {
+        "date": "19.02.22",
+        "title": "In Focus: Boredoms"
+    },
+    "in-focus-bourbonese-qualk-5th-may-2019": {
+        "date": "05.05.19",
+        "title": "In Focus: Bourbonese Qualk "
+    },
+    "in-focus-brenda-ray-4th-october-2019": {
+        "date": "04.10.19",
+        "title": "In Focus: Brenda Ray "
+    },
+    "in-focus-celtic-frost-4th-august-2023": {
+        "date": "04.08.23",
+        "title": "In Focus: Celtic Frost"
+    },
+    "in-focus-chalino-sanchez-25th-june-2019": {
+        "date": "25.06.19",
+        "title": "In Focus: Chalino Sanchez "
+    },
+    "in-focus-chick-corea-19th-february-2021": {
+        "date": "19.02.21",
+        "title": "In Focus: Chick Corea"
+    },
+    "in-focus-chief-keef-31st-may-2019": {
+        "date": "31.05.19",
+        "title": "In Focus: Chief Keef "
+    },
+    "in-focus-cibo-matto-8th-february-2021": {
+        "date": "08.02.21",
+        "title": "In Focus: Cibo Matto"
+    },
+    "in-focus-clara-schumann-5th-may-2023": {
+        "date": "05.05.23",
+        "title": "In Focus: Clara Schumann"
+    },
+    "in-focus-coil-31st-october-2020": {
+        "date": "31.10.20",
+        "title": "In Focus: Coil"
+    },
+    "in-focus-cornel-campbell-31st-march-2023": {
+        "date": "31.03.23",
+        "title": "In Focus: Cornel Campbell"
+    },
+    "in-focus-corrupted-22-july-2022": {
+        "date": "22.07.22",
+        "title": "In Focus: Corrupted"
+    },
+    "in-focus-craig-leon-15th-august-2019": {
+        "date": "15.08.19",
+        "title": "In Focus: Craig Leon"
+    },
+    "in-focus-datblygu-1st-march-2021": {
+        "date": "01.03.21",
+        "title": "In Focus: Datblygu"
+    },
+    "in-focus-david-sylvian": {
+        "date": "23.01.18",
+        "title": "In Focus: David Sylvian"
+    },
+    "in-focus-devo-18th-august-2023": {
+        "date": "18.08.23",
+        "title": "In Focus: Devo"
+    },
+    "in-focus-dip-in-the-pool-friday-5th-june": {
+        "date": "05.06.20",
+        "title": "In Focus: Dip In The Pool "
+    },
+    "in-focus-dj-sprinkles-12th-february-2020": {
+        "date": "12.02.20",
+        "title": "In Focus: Terre Thaemlitz / DJ Sprinkles"
+    },
+    "in-focus-dmx-15th-april-2021": {
+        "date": "15.04.21",
+        "title": "In Focus: DMX"
+    },
+    "in-focus-dollar-band-30th-may-2021": {
+        "date": "31.05.21",
+        "title": "In Focus: Dollar Brand"
+    },
+    "in-focus-don-cherry-23rd-february-2018": {
+        "date": "23.02.18",
+        "title": "In Focus: Don Cherry"
+    },
+    "in-focus-donna-summer-26th-may-2019": {
+        "date": "26.05.19",
+        "title": "In Focus: Donna Summer "
+    },
+    "in-focus-durutti-column": {
+        "date": "21.10.18",
+        "title": "In Focus: The Durutti Column "
+    },
+    "in-focus-eddie-hazel-14th-may-2020": {
+        "date": "14.05.20",
+        "title": "In Focus: Eddie Hazel"
+    },
+    "in-focus-el-p": {
+        "date": "21.03.18",
+        "title": "In Focus: El-P"
+    },
+    "in-focus-elysia-crampton-16th-january-2020": {
+        "date": "16.01.20",
+        "title": "In Focus: Elysia Crampton "
+    },
+    "in-focus-em-records-27th-july-2019": {
+        "date": "27.07.19",
+        "title": "In Focus: EM records"
+    },
+    "in-focus-fairuz-16th-december-2022": {
+        "date": "09.12.22",
+        "title": "In Focus: Fairuz"
+    },
+    "in-focus-faye-wong-6th-november-2020": {
+        "date": "18.12.20",
+        "title": "In Focus: Faye Wong"
+    },
+    "in-focus-fishmans-7th-july-2023": {
+        "date": "07.07.23",
+        "title": "In Focus: Fishmans"
+    },
+    "in-focus-francis-bebey-25th-february-2021": {
+        "date": "25.02.21",
+        "title": "In Focus: Francis Bebey"
+    },
+    "in-focus-francoise-hardy-9th-may-2019": {
+        "date": "09.05.19",
+        "title": "In Focus: Françoise Hardy"
+    },
+    "in-focus-gabor-szabo-17th-march-2023": {
+        "date": "17.03.23",
+        "title": "In Focus: Gábor Szabó"
+    },
+    "in-focus-gal-costa-14th-may-2021": {
+        "date": "14.05.21",
+        "title": "In Focus: Gal Costa"
+    },
+    "in-focus-george-michael-28th-february-2019": {
+        "date": "28.02.19",
+        "title": "In Focus: George Michael"
+    },
+    "in-focus-germaine-tailleferre-24th-march-2023": {
+        "date": "24.03.23",
+        "title": "In Focus: Germaine Tailleferre"
+    },
+    "in-focus-ghost-10th-december-2020": {
+        "date": "10.12.20",
+        "title": "In Focus: Ghost "
+    },
+    "in-focus-giggs-10th-july-2020": {
+        "date": "10.07.20",
+        "title": "In Focus: Giggs"
+    },
+    "in-focus-gil-scott-heron-10th-december-2019": {
+        "date": "10.12.19",
+        "title": "In Focus: Gil Scott-Heron "
+    },
+    "in-focus-glenn-branca": {
+        "date": "16.05.18",
+        "title": "In Focus: Glenn Branca"
+    },
+    "in-focus-godley-creme-26th-march-2020": {
+        "date": "26.03.20",
+        "title": "In Focus: Godley & Creme"
+    },
+    "in-focus-gong-25th-september-2019": {
+        "date": "26.09.19",
+        "title": "In Focus: Gong"
+    },
+    "in-focus-goodie-mob-11th-october-2017": {
+        "date": "10.10.17",
+        "title": "In Focus: Goodie Mob"
+    },
+    "in-focus-grace-jones-15th-february-2019": {
+        "date": "15.02.19",
+        "title": "In Focus: Grace Jones"
+    },
+    "in-focus-gucci-mane-4th-march-2020": {
+        "date": "04.03.20",
+        "title": "In Focus: Gucci Mane"
+    },
+    "in-focus-hector-zazou": {
+        "date": "12.07.17",
+        "title": "In Focus: Hector Zazou"
+    },
+    "in-focus-hype-williams": {
+        "date": "19.07.17",
+        "title": "In Focus: Hype Williams"
+    },
+    "in-focus-iggy-pop-27th-april-2021": {
+        "date": "27.04.21",
+        "title": "In Focus: Iggy Pop"
+    },
+    "in-focus-insane-music-for-insane-people": {
+        "date": "20.11.20",
+        "title": "In Focus: Insane Music For Insane People"
+    },
+    "in-focus-janet-jackson-5th-july-2019": {
+        "date": "05.07.19",
+        "title": "In Focus: Janet Jackson "
+    },
+    "in-focus-janet-kay-2nd-october-2020": {
+        "date": "02.10.20",
+        "title": "In Focus: Janet Kay"
+    },
+    "in-focus-jang-pil-soon-23rd-june-2023": {
+        "date": "23.06.23",
+        "title": "In Focus: Jang Pil-Soon"
+    },
+    "in-focus-jessica-bailiff-9th-june-2023": {
+        "date": "09.06.23",
+        "title": "In Focus: Jessica Bailiff"
+    },
+    "in-focus-jj-cale-25th-april-2019": {
+        "date": "25.04.19",
+        "title": "In Focus: JJ Cale"
+    },
+    "in-focus-john-cage": {
+        "date": "12.12.18",
+        "title": "In Focus: John Cage"
+    },
+    "in-focus-joni-mitchell": {
+        "date": "31.03.18",
+        "title": "In Focus: Joni Mitchell"
+    },
+    "in-focus-juan-garcia-esquivel-19th-march-2021": {
+        "date": "19.03.21",
+        "title": "In Focus: Juan García Esquivel"
+    },
+    "in-focus-kelis-100622": {
+        "date": "10.06.22",
+        "title": "In Focus: Kelis "
+    },
+    "in-focus-kendra-smith-30th-august-2019": {
+        "date": "30.08.19",
+        "title": "In Focus: Kendra Smith "
+    },
+    "in-focus-lady-saw-5th-april-2019": {
+        "date": "05.04.19",
+        "title": "In Focus: Lady Saw"
+    },
+    "in-focus-larry-heard-30th-june-2023": {
+        "date": "30.06.23",
+        "title": "In Focus: Larry Heard"
+    },
+    "in-focus-laura-nyro-8th-may-2020": {
+        "date": "08.05.20",
+        "title": "In Focus: Laura Nyro"
+    },
+    "in-focus-laurie-spiegel-21st-july-2023": {
+        "date": "21.07.23",
+        "title": "In Focus: Laurie Spiegel"
+    },
+    "in-focus-lee-hazlewood": {
+        "date": "22.06.17",
+        "title": "In Focus: Lee Hazlewood"
+    },
+    "in-focus-lenky-28th-february-2020": {
+        "date": "28.02.20",
+        "title": "In Focus: Lenky "
+    },
+    "in-focus-leroy-hutson-17th-march-2019": {
+        "date": "17.03.19",
+        "title": "In Focus: Leroy Hutson"
+    },
+    "in-focus-lex-luger-16th-december-2022": {
+        "date": "16.12.22",
+        "title": "In Focus: Lex Luger"
+    },
+    "in-focus-lil-kim-11th-august-2023": {
+        "date": "11.08.23",
+        "title": "In Focus: Lil' KIm"
+    },
+    "in-focus-lil-ugly-mane": {
+        "date": "24.07.18",
+        "title": "In Focus: Lil Ugly Mane"
+    },
+    "in-focus-loose-ends-17th-october-2019": {
+        "date": "17.10.19",
+        "title": "In Focus: Loose Ends"
+    },
+    "in-focus-ltj-bukem-11th-september-2020": {
+        "date": "11.09.20",
+        "title": "In Focus: LTJ Bukem "
+    },
+    "in-focus-luc-ferrari": {
+        "date": "05.02.19",
+        "title": "In Focus: Luc Ferrari"
+    },
+    "in-focus-mad-professor-17th-may-2019": {
+        "date": "17.05.19",
+        "title": "In Focus: Mad Professor"
+    },
+    "in-focus-mark-renner-20th-february-2018": {
+        "date": "20.02.18",
+        "title": "In Focus: Mark Renner"
+    },
+    "in-focus-mary-lou-williams-5th-february-2020": {
+        "date": "05.02.20",
+        "title": "In Focus: Mary Lou Williams "
+    },
+    "in-focus-mercedes-sosa-25th-august-2023": {
+        "date": "25.08.23",
+        "title": "In Focus: Mercedes Sosa"
+    },
+    "in-focus-mica-levi-10th-april-2020": {
+        "date": "10.04.20",
+        "title": "In Focus: Mica Levi"
+    },
+    "in-focus-milford-graves-26th-may-2023": {
+        "date": "26.05.23",
+        "title": "In Focus: Milford Graves "
+    },
+    "in-focus-milton-nascimiento": {
+        "date": "07.06.19",
+        "title": "In Focus: Milton Nascimento"
+    },
+    "in-focus-mississippi-fred-mcdowell": {
+        "date": "19.07.19",
+        "title": "In Focus: Mississippi Fred Mcdowell"
+    },
+    "in-focus-monchy-y-alexandra-12th-august-2021": {
+        "date": "12.08.21",
+        "title": "In Focus: Monchy y Alexandra"
+    },
+    "in-focus-moniek-darge": {
+        "date": "22.03.19",
+        "title": "In Focus: Moniek Darge"
+    },
+    "in-focus-mylene-farmer-26th-september-2020": {
+        "date": "24.09.20",
+        "title": "In Focus: Mylène Farmer"
+    },
+    "in-focus-n-dongo-lo-30th-may-2020": {
+        "date": "30.05.20",
+        "title": "In Focus: Ndongo Lô"
+    },
+    "in-focus-nengo-flow-23rd-august-2019": {
+        "date": "23.08.19",
+        "title": "In Focus: Ñengo Flow "
+    },
+    "in-focus-nick-martinelli-4th-december-2020": {
+        "date": "04.12.20",
+        "title": "In Focus: Nick Martinelli"
+    },
+    "in-focus-norman-connors-14th-february-2023": {
+        "date": "14.02.23",
+        "title": "In Focus: Norman Connors"
+    },
+    "in-focus-odd-future-3rd-march-2023": {
+        "date": "03.03.23",
+        "title": "In Focus: Odd Future"
+    },
+    "in-focus-os-mutantes-10th-september-2021": {
+        "date": "10.09.21",
+        "title": "In Focus: Os Mutantes"
+    },
+    "in-focus-osamu-shoji-14th-july-2023": {
+        "date": "14.07.23",
+        "title": "In Focus: Osamu Shoji "
+    },
+    "in-focus-outkast-19th-august-2020": {
+        "date": "19.08.20",
+        "title": "In Focus: Outkast"
+    },
+    "in-focus-patrice-rushen-28th-january-2019": {
+        "date": "28.01.19",
+        "title": "In Focus: Patrice Rushen "
+    },
+    "in-focus-paul-mccartney": {
+        "date": "12.09.18",
+        "title": "In Focus: Paul McCartney"
+    },
+    "in-focus-peter-ivers-10th-march-2020": {
+        "date": "10.03.20",
+        "title": "In Focus: Peter Ivers"
+    },
+    "in-focus-philip-glass-14th-november-2020": {
+        "date": "14.11.20",
+        "title": "In Focus: Philip Glass"
+    },
+    "in-focus-piero-umiliani-29th-april-2020": {
+        "date": "29.04.20",
+        "title": "In Focus: Piero Umiliani "
+    },
+    "in-focus-pj-harvey-22nd-september-2019": {
+        "date": "22.09.19",
+        "title": "In Focus: PJ Harvey "
+    },
+    "in-focus-playboi-carti-2nd-june-2023": {
+        "date": "02.06.23",
+        "title": "In Focus: Playboi Carti"
+    },
+    "in-focus-prince-jazzbo-29th-january-2022": {
+        "date": "29.01.22",
+        "title": "In Focus: Prince Jazzbo"
+    },
+    "in-focus-public-enemi-21st-october-2022": {
+        "date": "21.10.22",
+        "title": "In Focus: Public Enemy"
+    },
+    "in-focus-queen-latifah-20th-january-2023": {
+        "date": "20.01.23",
+        "title": "In Focus: Queen Latifah"
+    },
+    "in-focus-ranking-ann-21st-january-2019": {
+        "date": "21.01.20",
+        "title": "In Focus: Ranking Ann "
+    },
+    "in-focus-ricardo-villalobos-11th-august-2019": {
+        "date": "11.08.19",
+        "title": "In Focus: Ricardo Villalobos "
+    },
+    "in-focus-rl-burnside-2nd-july-2020": {
+        "date": "02.07.20",
+        "title": "In Focus: RL Burnside"
+    },
+    "in-focus-robert-wyatt-28th-january-2020": {
+        "date": "28.01.20",
+        "title": "In Focus: Robert Wyatt"
+    },
+    "in-focus-roky-erickson-4th-june-2019": {
+        "date": "04.06.19",
+        "title": "In Focus: Roky Erickson"
+    },
+    "in-focus-ron-trent-4th-september-2020": {
+        "date": "04.09.20",
+        "title": "In Focus: Ron Trent"
+    },
+    "in-focus-ros-sereysothea-1st-september-2023": {
+        "date": "01.09.23",
+        "title": "In Focus: Ros Serey Sothea"
+    },
+    "in-focus-ruff-squad-23rd-october-2020": {
+        "date": "23.10.20",
+        "title": "In Focus: Ruff Sqwad"
+    },
+    "in-focus-sade-18th-august-2018": {
+        "date": "20.08.18",
+        "title": "In Focus: Sade"
+    },
+    "in-focus-sarah-records-22nd-february-2019": {
+        "date": "22.02.19",
+        "title": "In Focus: Sarah Records"
+    },
+    "in-focus-seefeel-12-th-april-2019": {
+        "date": "12.04.19",
+        "title": "In Focus: Seefeel"
+    },
+    "in-focus-shirley-kwan-10th-february-2023": {
+        "date": "10.02.23",
+        "title": "In Focus: Shirley Kwan"
+    },
+    "in-focus-siouxsie-soux-29th-october-2019": {
+        "date": "29.10.19",
+        "title": "In Focus: Siouxsie Sioux"
+    },
+    "in-focus-sister-rosetta-tharpe-21st-march-2020": {
+        "date": "21.03.20",
+        "title": "In Focus: Sister Rosetta Tharpe"
+    },
+    "in-focus-snd-27th-january-2023": {
+        "date": "27.01.23",
+        "title": "In Focus: SND"
+    },
+    "in-focus-sonia-pottinger-30th-april-2020": {
+        "date": "30.04.21",
+        "title": "In Focus: Sonia Pottinger"
+    },
+    "in-focus-spacemen-3": {
+        "date": "30.07.17",
+        "title": "In Focus: Spacemen 3"
+    },
+    "in-focus-stevie-hyper-d-7th-november-2019": {
+        "date": "07.11.19",
+        "title": "In Focus: Stevie Hyper D "
+    },
+    "in-focus-strawberry-switchblade-15th-january-2021": {
+        "date": "15.01.21",
+        "title": "In Focus: Strawberry Switchblade "
+    },
+    "in-focus-susumu-yokota": {
+        "date": "26.06.17",
+        "title": "In Focus: Susumu Yokota "
+    },
+    "in-focus-swv-19th-june-2020": {
+        "date": "19.06.20",
+        "title": "In Focus: SWV"
+    },
+    "in-focus-tangerine-dream-13th-june-2019": {
+        "date": "13.06.19",
+        "title": "In Focus: Tangerine Dream"
+    },
+    "in-focus-tatsuro-yamashita-17th-april-2020": {
+        "date": "17.04.20",
+        "title": "In Focus: Tatsuro Yamashita"
+    },
+    "in-focus-teena-marie-9th-july-2021": {
+        "date": "09.07.21",
+        "title": "In Focus: Teena Marie"
+    },
+    "in-focus-terry-riley": {
+        "date": "02.08.18",
+        "title": "In Focus: Terry Riley"
+    },
+    "in-focus-the-beach-boys-11th-december-2021": {
+        "date": "24.12.21",
+        "title": "In Focus: The Beach Boys"
+    },
+    "in-focus-the-residents-11th-june-2020": {
+        "date": "11.06.20",
+        "title": "In Focus: The Residents "
+    },
+    "in-focus-the-techniques-25th-june-2020": {
+        "date": "25.06.20",
+        "title": "In Focus: The Techniques"
+    },
+    "in-focus-this-heat": {
+        "date": "03.10.17",
+        "title": "In Focus: This Heat"
+    },
+    "in-focus-towa-tei-19th-april-2021": {
+        "date": "19.04.21",
+        "title": "In Focus: Towa Tei"
+    },
+    "in-focus-tricky-7th-january-2020": {
+        "date": "07.01.21",
+        "title": "In Focus: Tricky"
+    },
+    "in-focus-vybz-kartel-19th-november-2019": {
+        "date": "19.11.19",
+        "title": "In Focus: Vybz Kartel "
+    },
+    "in-focus-w-alice-coltraine-3rd-august-2020": {
+        "date": "03.08.20",
+        "title": "In Focus: Alice Coltrane"
+    },
+    "in-focus-w-svitlana-nianio-17th-july-2020": {
+        "date": "17.07.20",
+        "title": "In Focus: Svitlana Nianio"
+    },
+    "in-focus-waldjinah-4th-june-2021": {
+        "date": "04.06.21",
+        "title": "In Focus: Waldjinah"
+    },
+    "in-focus-ween-28th-april-2023": {
+        "date": "21.04.23",
+        "title": "In Focus: Ween"
+    },
+    "in-focus-weldon-irvine-3rd-april-2020": {
+        "date": "03.04.20",
+        "title": "In Focus: Weldon Irvine "
+    },
+    "in-focus-william-basinski-28th-july-2023": {
+        "date": "28.07.23",
+        "title": "In Focus: William Basinski"
+    },
+    "in-focus-wire-26th-april-2018": {
+        "date": "26.04.18",
+        "title": "In Focus: Wire"
+    },
+    "in-focus-woo-28th-april-2023": {
+        "date": "28.04.23",
+        "title": "In Focus: Woo"
+    },
+    "in-focus-yo-la-tengo-23rd-april-2020": {
+        "date": "23.04.20",
+        "title": "In Focus: Yo La Tengo"
+    },
+    "in-focus-yoko-ono-19th-april-2019": {
+        "date": "19.04.19",
+        "title": "In Focus: Yoko Ono"
+    },
+    "in-focus-yoshida-minako-17th-september-2020": {
+        "date": "17.09.20",
+        "title": "In Focus: Minako Yoshida"
+    },
+    "jeanne-lee-29th-march-2022": {
+        "date": "29.03.22",
+        "title": "In Focus: Jeanne Lee"
+    },
+    "joan-armatrading-18th-november-2022": {
+        "date": "18.11.22",
+        "title": "In Focus: Joan Armatrading"
+    },
+    "joe-mcphee-7th-march-2019": {
+        "date": "07.03.19",
+        "title": "In Focus: Joe McPhee"
+    },
+    "john-tchicai-3rd-february-2023": {
+        "date": "03.02.23",
+        "title": "In Focus: John Tchicai"
+    },
+    "johnny-paycheck-13th-january-2023": {
+        "date": "13.01.23",
+        "title": "In Focus: Johnny Paycheck"
+    },
+    "jon-hassell-29th-june-2021": {
+        "date": "29.06.21",
+        "title": "In Focus: Jon Hassell"
+    },
+    "joseph-beuys-6th-august-2021": {
+        "date": "06.08.21",
+        "title": "In Focus: Joseph Beuys"
+    },
+    "julius-eastman-2nd-april-2021": {
+        "date": "02.04.21",
+        "title": "In Focus: Julius Eastman"
+    },
+    "k-hand-20th-august-2021": {
+        "date": "20.08.21",
+        "title": "In Focus: K-HAND"
+    },
+    "klaus-schulze-6th-may-2022": {
+        "date": "06.05.22",
+        "title": "In Focus: Klaus Schulze"
+    },
+    "knxwledge-28th-april-2022": {
+        "date": "28.04.22",
+        "title": "In Focus: Knxwledge"
+    },
+    "kuroyuri-shimai-12th-march-2021": {
+        "date": "12.03.21",
+        "title": "In Focus: Kuroyuri Shimai  "
+    },
+    "lee-scratch-perry-4th-september-2021": {
+        "date": "04.09.21",
+        "title": "In Focus: Lee Scratch Perry"
+    },
+    "lil-peep-19th-august-2022": {
+        "date": "19.08.22",
+        "title": "In Focus: Lil Peep"
+    },
+    "luther-van-dross-7th-april-2021": {
+        "date": "07.04.21",
+        "title": "In Focus: Luther Vandross"
+    },
+    "mariya-takeuchi-25th-november-2022": {
+        "date": "25.11.22",
+        "title": "In Focus: Mariya Takeuchi "
+    },
+    "marta-sebestyen-31st-july-2020": {
+        "date": "31.07.20",
+        "title": "In Focus: Marta Sebestyen"
+    },
+    "meredith-monk-4th-november-2022": {
+        "date": "04.11.22",
+        "title": "In Focus: Meredith Monk"
+    },
+    "minnie-riperton-in-focus-10th-july-2019": {
+        "date": "12.07.19",
+        "title": "In Focus: Minnie Riperton"
+    },
+    "mira-calix-5th-april-2022": {
+        "date": "05.04.22",
+        "title": "In Focus: Mira Calix"
+    },
+    "mort-garson-8th-january-2021": {
+        "date": "08.01.22",
+        "title": "In Focus: Mort Garson"
+    },
+    "my-bloody-valentine-4th-november-2021": {
+        "date": "04.11.21",
+        "title": "In Focus: My Bloody Valentine"
+    },
+    "nujabes-28th-february-2022": {
+        "date": "28.02.22",
+        "title": "In Focus: Nujabes"
+    },
+    "ozdemir-erdogan-24th-june-2021": {
+        "date": "24.06.21",
+        "title": "In Focus: Özdemir Erdoğan"
+    },
+    "peter-gutteridge-25th-may-2021": {
+        "date": "25.05.21",
+        "title": "In Focus: Peter Gutteridge"
+    },
+    "pharoah-sanders-30th-september-2022": {
+        "date": "30.09.22",
+        "title": "In Focus: Phaorah Sanders"
+    },
+    "poison-girlfriend-9th-september-2022": {
+        "date": "09.09.22",
+        "title": "In Focus: POiSON GiRL FRiEND"
+    },
+    "richard-h-kirk-24th-september-2021": {
+        "date": "24.09.21",
+        "title": "In Focus: Richard H Kirk"
+    },
+    "sandra-de-sa-23rd-october-2021": {
+        "date": "23.10.21",
+        "title": "In Focus: Sandra de Sá"
+    },
+    "sandy-denny-12th-october-2021": {
+        "date": "12.10.21",
+        "title": "In Focus: Sandy Denny"
+    },
+    "sean-price-7th-october-2022": {
+        "date": "07.10.22",
+        "title": "In Focus: Sean Price"
+    },
+    "serge-gainsbourg-26th-october-2022": {
+        "date": "26.10.22",
+        "title": "In Focus: Serge Gainsbourg"
+    },
+    "six-seven-4th-february-2022": {
+        "date": "04.02.22",
+        "title": "In Focus: 67"
+    },
+    "steely-dan-13th-january-2021": {
+        "date": "13.01.22",
+        "title": "In Focus: Steely Dan"
+    },
+    "stereolab-20th-may-2020": {
+        "date": "20.05.20",
+        "title": "In Focus: Stereolab"
+    },
+    "susumu-hirasawa-20th-may-2022": {
+        "date": "20.05.22",
+        "title": "In Focus: Susumu Hirasawa"
+    },
+    "the-isley-brothers-16th-july-2021": {
+        "date": "16.07.21",
+        "title": "In Focus: The Isley Brothers"
+    },
+    "third-line-butterfly-2nd-december-2021": {
+        "date": "02.12.21",
+        "title": "In Focus: 3rd Line Butterfly"
+    },
+    "three-six-mafia-12th-june-2021": {
+        "date": "12.06.21",
+        "title": "In Focus: Three 6 Mafia"
+    },
+    "timbaland-20th-october-2022": {
+        "date": "20.10.22",
+        "title": "In Focus: Timbaland"
+    },
+    "title": "In Focus",
+    "veljo-tormis-31st-march-2022": {
+        "date": "31.03.22",
+        "title": "In Focus: Veljo Tormis"
+    },
+    "young-thug-29th-october-2021": {
+        "date": "29.10.21",
+        "title": "In Focus: Young Thug"
+    },
+    "yumi-matsutoya-21st-january-2022": {
+        "date": "21.01.22",
+        "title": "In Focus: Yumi Matsutoya"
+    }
+}

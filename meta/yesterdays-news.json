@@ -1,0 +1,684 @@
+{
+    "description": "Yesterday's News: a thorough re-cap of the finest in punk, noise, garage and other ratty guitar sounds from the past few decades. ",
+    "title": "Yesterday's News",
+    "yesterday-s-news-10th-april-2019": {
+        "date": "10.04.19",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-10th-february-2021": {
+        "date": "10.02.21",
+        "title": "Yesterday's News w/ Not Dead Yet"
+    },
+    "yesterday-s-news-10th-march-2021": {
+        "date": "10.03.21",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-11th-august-2021": {
+        "date": "11.08.21",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-11th-january-2023": {
+        "date": "11.01.23",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-11th-october-2017": {
+        "date": "11.10.17",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-12th-august-2020": {
+        "date": "12.08.20",
+        "title": "Yesterday's News w/ Humanity Stoked "
+    },
+    "yesterday-s-news-12th-february-2020": {
+        "date": "12.02.20",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-12th-september-2018": {
+        "date": "12.09.18",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-13th-january-2021": {
+        "date": "13.01.21",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-14th-july-2021": {
+        "date": "14.07.21",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-15th-august-2018": {
+        "date": "15.08.18",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-16th-june-2021": {
+        "date": "16.06.21",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-17th-november-2021": {
+        "date": "17.11.21",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-18th-december-2019": {
+        "date": "18.12.19",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-18th-july-2018": {
+        "date": "18.07.18",
+        "title": "Yesterday's News w/ Quality Control HQ"
+    },
+    "yesterday-s-news-18th-november-2020": {
+        "date": "18.11.20",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-19th-july-2017": {
+        "date": "19.07.17",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-19th-june-2019": {
+        "date": "19.06.19",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-19th-may-2021": {
+        "date": "19.05.21",
+        "title": "Yesterday's News w/ Howard Paar"
+    },
+    "yesterday-s-news-1st-december-2021": {
+        "date": "01.12.21",
+        "title": "Yesterday's News w/ Vinyl Nation"
+    },
+    "yesterday-s-news-1st-july-2020": {
+        "date": "01.07.20",
+        "title": "Yesterday’s News w/ Brontez Purnell"
+    },
+    "yesterday-s-news-1th-july-2020": {
+        "date": "15.07.20",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-20th-may-2020": {
+        "date": "20.05.20",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-20th-october-2021": {
+        "date": "20.10.21",
+        "title": "Yesterday’s News 5th Anniversary Show"
+    },
+    "yesterday-s-news-21st-april-2021": {
+        "date": "21.04.21",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-21st-june-2017": {
+        "date": "21.06.17",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-21st-october-2020": {
+        "date": "21.10.20",
+        "title": "Yesterday's News: 4th Year Anniversary Show"
+    },
+    "yesterday-s-news-22nd-december-2022": {
+        "date": "22.12.22",
+        "title": "Yesterday's News: Terry Hall Special"
+    },
+    "yesterday-s-news-22nd-may-2019": {
+        "date": "22.05.19",
+        "title": "Yesterday's News w/ The Number Ones"
+    },
+    "yesterday-s-news-22nd-september-2020": {
+        "date": "22.09.20",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-24th-march-2021": {
+        "date": "24.03.21",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-24th-may-2017": {
+        "date": "24.05.17",
+        "title": "Yesterday's News w/ La Vida es un mus "
+    },
+    "yesterday-s-news-25th-august-2021": {
+        "date": "25.08.21",
+        "title": "Yesterday's News w/ Jes Skolnik"
+    },
+    "yesterday-s-news-26th-august-2020": {
+        "date": "26.08.20",
+        "title": "Yesterday's News w/ Las Nubes"
+    },
+    "yesterday-s-news-26th-february-2020": {
+        "date": "26.02.20",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-26th-september-2018": {
+        "date": "26.09.18",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-27th-january-2021": {
+        "date": "27.01.21",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-27th-september-2017": {
+        "date": "27.09.17",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-28th-august-2019": {
+        "date": "28.08.19",
+        "title": "Yesterday's News w/ Jonah Falco"
+    },
+    "yesterday-s-news-28th-july-2021": {
+        "date": "28.07.21",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-29th-july-2020": {
+        "date": "29.07.20",
+        "title": "Yesterday's News w/ Bridge Nine Records"
+    },
+    "yesterday-s-news-2nd-december-2020": {
+        "date": "02.12.20",
+        "title": "Yesterday's News w/ Fury"
+    },
+    "yesterday-s-news-2nd-june-2021": {
+        "date": "02.06.21",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-30-08-17": {
+        "date": "30.08.17",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-30th-december-2020": {
+        "date": "30.12.20",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-30th-june-2021": {
+        "date": "30.06.21",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-31st-july-2019": {
+        "date": "31.07.19",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-3rd-july-2019": {
+        "date": "03.07.19",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-3rd-november-2021": {
+        "date": "03.11.21",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-4th-november-2020": {
+        "date": "04.11.20",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-5th-june-2019": {
+        "date": "05.06.19",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-5th-may-2021": {
+        "date": "05.05.21",
+        "title": "Yesterday's News w/ Iron Lungs Records"
+    },
+    "yesterday-s-news-6th-december-2017": {
+        "date": "06.12.17",
+        "title": "Yesterday's News w/ James Morrison"
+    },
+    "yesterday-s-news-6th-october-2021": {
+        "date": "06.10.21",
+        "title": "Yesterday's News w/ Kerry Cardoza"
+    },
+    "yesterday-s-news-7th-april-2021": {
+        "date": "07.04.21",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-7th-june-2017": {
+        "date": "07.06.17",
+        "title": "Yesterday's News w/ Static Shock Records"
+    },
+    "yesterday-s-news-7th-october-2020": {
+        "date": "07.10.20",
+        "title": "Yesterday's News w/ Souvenir Jewelry"
+    },
+    "yesterday-s-news-8th-september-2020": {
+        "date": "08.09.20",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-8th-september-2021": {
+        "date": "08.09.21",
+        "title": "Yesterday's News"
+    },
+    "yesterday-s-news-w-artificial-joy-27th-july-2022": {
+        "date": "27.07.22",
+        "title": "Yesterday's News w/ Artificial Joy"
+    },
+    "yesterday-s-news-w-ben-ratliff-3rd-june-2020": {
+        "date": "03.06.20",
+        "title": "Yesterday's News w/ Ben Ratliff"
+    },
+    "yesterday-s-news-w-culture-abuse-24th-april-2019": {
+        "date": "24.04.19",
+        "title": "Yesterday's News w/ Culture Abuse"
+    },
+    "yesterday-s-news-w-hygiene-15th-march-2019": {
+        "date": "15.03.19",
+        "title": "Yesterday's News w/ Hygiene"
+    },
+    "yesterdays-news-10th-august-2022": {
+        "date": "10.08.22",
+        "title": "Yesterday's News - Midwestern Punk Special"
+    },
+    "yesterdays-news-10th-may-2017": {
+        "date": "10.05.17",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-11th-april-2018": {
+        "date": "11.04.18",
+        "title": "Yesterday's News w/ Permission "
+    },
+    "yesterdays-news-11th-march-2020": {
+        "date": "11.03.20",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-11th-september-2019": {
+        "date": "11.09.19",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-12th-april-2017": {
+        "date": "12.04.17",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-12th-january-2022": {
+        "date": "12.01.22",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-12th-july-2023": {
+        "date": "12.07.23",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-13th-february-2019": {
+        "date": "13.02.19",
+        "title": "Yesterday's News w/ Mere Mortal"
+    },
+    "yesterdays-news-13th-july-2022": {
+        "date": "13.07.22",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-13th-september-2017": {
+        "date": "13.09.17",
+        "title": "Yesterday's News - Lookout Records Special"
+    },
+    "yesterdays-news-14-march-2018": {
+        "date": "14.03.18",
+        "title": "Yesterday's News w/ Pinkgrip"
+    },
+    "yesterdays-news-14th-august-2019": {
+        "date": "14.08.19",
+        "title": "Yesterday's News w/ The Number Ones "
+    },
+    "yesterdays-news-14th-february-2018": {
+        "date": "14.02.18",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-15th-december-2021": {
+        "date": "15.12.21",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-15th-february-2017": {
+        "date": "15.02.17",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-15th-january-2020": {
+        "date": "15.01.20",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-15th-june-2022": {
+        "date": "15.06.22",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-15th-march-2017": {
+        "date": "15.03.17",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-16-08-17": {
+        "date": "16.08.17",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-16th-january-2019": {
+        "date": "16.01.19",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-16th-november-2022": {
+        "date": "16.11.22",
+        "title": "Yesterday's News: Keith Levene Dedication"
+    },
+    "yesterdays-news-17th-january-2018": {
+        "date": "17.01.18",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-17th-july-2019": {
+        "date": "17.07.19",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-17th-june-2020": {
+        "date": "17.06.20",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-17th-may-2023": {
+        "date": "17.05.23",
+        "title": "Yesterday's News w/ Spiritual Cramp"
+    },
+    "yesterdays-news-18th-january-2017": {
+        "date": "18.01.17",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-18th-may-2022": {
+        "date": "18.05.22",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-19th-april-2023": {
+        "date": "19.04.23",
+        "title": "Yesterday's News w/ Arrêt"
+    },
+    "yesterdays-news-19th-december-2018": {
+        "date": "19.12.18",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-19th-october-2022": {
+        "date": "19.10.22",
+        "title": "Yesterday's News 6th Anniversary show"
+    },
+    "yesterdays-news-1st-august-2018": {
+        "date": "01.08.18",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-1st-february-2017": {
+        "date": "01.02.17",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-1st-june-2022": {
+        "date": "01.06.22",
+        "title": "Yesterday's News w/ Cristy C. Road "
+    },
+    "yesterdays-news-1st-march-2017": {
+        "date": "01.03.17",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-20th-april-2022": {
+        "date": "20.04.22",
+        "title": "Yesterday's News w/ Billy Graziadei (Biohazard)"
+    },
+    "yesterdays-news-20th-december-2017": {
+        "date": "20.12.17",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-20th-june-2018": {
+        "date": "20.06.18",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-20th-november-2019": {
+        "date": "20.11.19",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-21st-december-2016": {
+        "date": "21.12.16",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-21st-november-2018": {
+        "date": "21.11.18",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-22nd-april-2020": {
+        "date": "22.04.20",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-22nd-february-2023": {
+        "date": "22.02.23",
+        "title": "Yesterday's News w/ Militarie Gun"
+    },
+    "yesterdays-news-22nd-march-2023": {
+        "date": "22.03.23",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-23rd-august-2023": {
+        "date": "23.08.23",
+        "title": "Yesterday's News w/ Triple B Records"
+    },
+    "yesterdays-news-23rd-march-2022": {
+        "date": "23.03.22",
+        "title": "Yesterday's News w/ Generación Suicida"
+    },
+    "yesterdays-news-23rd-may-2018": {
+        "date": "23.05.18",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-23rd-november-2016": {
+        "date": "23.11.16",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-23rd-october-2019": {
+        "date": "23.10.19",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-24th-august-2022": {
+        "date": "24.08.22",
+        "title": "Yesterday's News w/ Castillo"
+    },
+    "yesterdays-news-24th-october-2018": {
+        "date": "24.10.18",
+        "title": "Yesterday's News - 2nd Birthday Special"
+    },
+    "yesterdays-news-25th-april-2018": {
+        "date": "25.04.18",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-25th-january-2023": {
+        "date": "25.01.23",
+        "title": "Yesterday's News w/ Scowl"
+    },
+    "yesterdays-news-25th-march-2020": {
+        "date": "25.03.20",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-25th-october-2017": {
+        "date": "25.10.17",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-26th-april-2017": {
+        "date": "26.04.17",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-26th-january-2022": {
+        "date": "26.01.22",
+        "title": "Yesterday’s News w/ Sammy Siegler/Revelation Records"
+    },
+    "yesterdays-news-26th-july-2023": {
+        "date": "26.07.23",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-26th-october-2016": {
+        "date": "26.10.16",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-28th-february-2018": {
+        "date": "28.02.18",
+        "title": "Yesterday's News - Florida Punk"
+    },
+    "yesterdays-news-28th-june-2023": {
+        "date": "28.06.23",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-28th-march-2018": {
+        "date": "28.03.18",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-29th-august-2018": {
+        "date": "29.08.18",
+        "title": "Yesterday's News w/ Nekra"
+    },
+    "yesterdays-news-29th-january-2020": {
+        "date": "29.01.20",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-29th-june-2022": {
+        "date": "29.06.22",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-29th-march-2017": {
+        "date": "29.03.17",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-2nd-august-2017": {
+        "date": "02.08.17",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-2nd-november-2022": {
+        "date": "02.11.22",
+        "title": "Yesterday's News w/ Ivy Langston "
+    },
+    "yesterdays-news-30th-january-2019": {
+        "date": "30.01.19",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-30th-november-2022": {
+        "date": "30.11.22",
+        "title": "Yesterday's News w/ Amy Madden"
+    },
+    "yesterdays-news-31st-january-2018": {
+        "date": "31.01.18",
+        "title": "Yesterday's News w/ Sarcasm"
+    },
+    "yesterdays-news-3rd-january-2018": {
+        "date": "03.01.18",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-3rd-may-2023": {
+        "date": "03.05.23",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-4th-january-2017": {
+        "date": "04.01.17",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-4th-july-2018": {
+        "date": "04.07.18",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-4th-may-2022": {
+        "date": "04.05.22",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-5th-april-2023": {
+        "date": "05.04.23",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-5th-december-2018": {
+        "date": "05.12.18",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-5th-july-2017": {
+        "date": "05.07.17",
+        "title": "Yesterday's News w/ Static Shock Records"
+    },
+    "yesterdays-news-5th-october-2022": {
+        "date": "05.10.22",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-6th-april-2022": {
+        "date": "06.04.22",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-6th-june-2018": {
+        "date": "06.06.18",
+        "title": "Yesterday's News w/ SHIT"
+    },
+    "yesterdays-news-6th-may-2020": {
+        "date": "06.05.20",
+        "title": "Yesterday's News w/ Dripper World"
+    },
+    "yesterdays-news-6th-november-2019": {
+        "date": "06.11.19",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-7th-december-2016": {
+        "date": "07.12.16",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-7th-september-2022": {
+        "date": "07.09.22",
+        "title": "Yesterday's News "
+    },
+    "yesterdays-news-8th-april-2020": {
+        "date": "08.04.20",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-8th-february-2023": {
+        "date": "08.02.23",
+        "title": "Yesterday's News w/ Smirk"
+    },
+    "yesterdays-news-8th-march-2023": {
+        "date": "08.03.23",
+        "title": "Yesterday's News w/ Trust Records"
+    },
+    "yesterdays-news-8th-may-2019": {
+        "date": "08.05.19",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-8th-november-2017": {
+        "date": "08.11.17",
+        "title": "Yesterday's News w/ Jonah Falco"
+    },
+    "yesterdays-news-9th-august-2023": {
+        "date": "09.08.23",
+        "title": "Yesterday's News w/ Gel"
+    },
+    "yesterdays-news-9th-february-2022": {
+        "date": "09.02.22",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-9th-march-2022": {
+        "date": "09.03.22",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-9th-may-2018": {
+        "date": "09.05.18",
+        "title": "Yesterday's News w/ Tome Records"
+    },
+    "yesterdays-news-9th-november-2016": {
+        "date": "09.11.16",
+        "title": "Yesterday's News"
+    },
+    "yesterdays-news-9th-october-2019": {
+        "date": "09.10.19",
+        "title": "Yesterday's News w/ Sheet Noise"
+    },
+    "yesterdays-news-high-vis-14th-june-2023": {
+        "date": "14.06.23",
+        "title": "Yesterday's News w/ High Vis"
+    },
+    "yesterdays-news-powerplant-31st-may-2023": {
+        "date": "31.05.23",
+        "title": "Yesterday's News w/ Powerplant"
+    },
+    "yesterdays-news-w-arms-race-22nd-november-2017": {
+        "date": "22.11.17",
+        "title": "Yesterday's News w/ Arms Race"
+    },
+    "yesterdays-news-w-es-27th-march-2019": {
+        "date": "27.03.19",
+        "title": "Yesterday's News w/ Es"
+    },
+    "yesterdays-news-w-sauna-youth-2nd-january-2019": {
+        "date": "02.01.19",
+        "title": "Yesterday's News w/ Sauna Youth"
+    },
+    "yesterdays-news-w-sheer-mag-25th-september-2019": {
+        "date": "25.09.19",
+        "title": "Yesterday's News w/ Sheer Mag"
+    },
+    "yesterdays-news-w-the-flex-10th-october-2018": {
+        "date": "10.10.18",
+        "title": "Yesterday's News w/ the Flex "
+    },
+    "yesterdays-news-w-tom-ellis-and-ryan-naideau-27th-february-2019": {
+        "date": "27.02.19",
+        "title": "Yesterday's News w/ Tom Ellis & Ryan Naideau"
+    },
+    "yesterdays-news-w-vile-spirit-7th-november-2018": {
+        "date": "07.11.18",
+        "title": "Yesterday's News w/ Vile Spirit"
+    }
+}

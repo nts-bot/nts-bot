@@ -1,0 +1,990 @@
+{
+    "sasha-crush-10th-august-2023": {
+        "00": {
+            "artist": "Rags & Riches",
+            "title": "Oye Mamacita"
+        },
+        "01": {
+            "artist": "The Blackbyrds",
+            "title": "Rock Creek Park"
+        },
+        "02": {
+            "artist": "Digable Planets",
+            "title": "Escapism"
+        },
+        "03": {
+            "artist": "Kurtis Blow",
+            "title": "If I Ruled The World"
+        },
+        "04": {
+            "artist": "Odyssey",
+            "title": "Don't Tell Me, Tell Her"
+        },
+        "05": {
+            "artist": "Sha-lor",
+            "title": "I'm In Love (Caught Up Version)"
+        },
+        "06": {
+            "artist": "George Kranz",
+            "title": "Din Daa Daa (US Mix)"
+        },
+        "07": {
+            "artist": "River Ocean",
+            "title": "Love & Happiness (Yemaya Y Ochun)"
+        },
+        "08": {
+            "artist": "Voilaaa",
+            "title": "Spies Are Watching Me"
+        },
+        "09": {
+            "artist": "Two Man Sound",
+            "title": "Que Tal America"
+        }
+    },
+    "sasha-crush-11th-august-2022": {
+        "00": {
+            "artist": "Super Grupo G",
+            "title": "Cumbia De Los Monjes"
+        },
+        "01": {
+            "artist": "William DeVaughn",
+            "title": "Be Thankful For What You Got"
+        },
+        "02": {
+            "artist": "Linda Taylor",
+            "title": "You And Me Just Started"
+        },
+        "03": {
+            "artist": "Grace Jones",
+            "title": "Pull Up To The Bumper"
+        },
+        "04": {
+            "artist": "Sister Sledge",
+            "title": "Pretty Baby"
+        },
+        "05": {
+            "artist": "Frankie Smith",
+            "title": "Double Dutch Bus"
+        },
+        "06": {
+            "artist": "L.A.X.",
+            "title": "All My Love"
+        },
+        "07": {
+            "artist": "Altered Images",
+            "title": "Don't Talk To Me About Love"
+        },
+        "08": {
+            "artist": "Alicia Myers",
+            "title": "I Want To Thank You"
+        },
+        "09": {
+            "artist": "Vicky \"D\"",
+            "title": "This Beat Is Mine"
+        },
+        "10": {
+            "artist": "Righeira",
+            "title": "Vamos A La Playa"
+        },
+        "11": {
+            "artist": "Jonathan Richman & The Modern Lovers",
+            "title": "I Love Hot Nights"
+        }
+    },
+    "sasha-crush-13th-july-2023": {
+        "00": {
+            "artist": "Crown Heights Affair",
+            "title": "Music Is The World"
+        },
+        "01": {
+            "artist": "Dynasty",
+            "title": "I Don't Want To Be A Freak (But I Can't Help Myself)"
+        },
+        "02": {
+            "artist": "Mariah Carey",
+            "title": "Fantasy"
+        },
+        "03": {
+            "artist": "Haywoode",
+            "title": "Single Handed"
+        },
+        "04": {
+            "artist": "Barbara Roy, ",
+            "title": "If You Want Me"
+        },
+        "05": {
+            "artist": "Wham!",
+            "title": "Young Guns (Go For It)"
+        },
+        "06": {
+            "artist": "Kitty Grant",
+            "title": "Glad To Know You"
+        },
+        "07": {
+            "artist": "Lil Suzy",
+            "title": "Take Me In Your Arms"
+        },
+        "08": {
+            "artist": "Bobby \"O\"",
+            "title": "I'm So Hot For You"
+        },
+        "09": {
+            "artist": "The Flirts",
+            "title": "Passion"
+        },
+        "10": {
+            "artist": "De La Soul",
+            "title": "A Roller Skating Jam Named \"Saturdays\""
+        },
+        "11": {
+            "artist": "Eslabon Armado & Peso Pluma",
+            "title": "Ella Baila Sola"
+        }
+    },
+    "sasha-crush-14th-july-2022": {
+        "00": {
+            "artist": "The Jones Girls",
+            "title": "Nights Over Egypt"
+        },
+        "01": {
+            "artist": "O.T. Sykes",
+            "title": "Stone Crush On You."
+        },
+        "02": {
+            "artist": "The Whispers",
+            "title": "Keep On Lovin' Me"
+        },
+        "03": {
+            "artist": "プリンス, ",
+            "title": "セクシー・ダンサー = Sexy Dancer"
+        },
+        "04": {
+            "artist": "Skyy",
+            "title": "Here's To You"
+        },
+        "05": {
+            "artist": "Cerrone",
+            "title": "Give Me Love"
+        },
+        "06": {
+            "artist": "Sheila & B. Devotion",
+            "title": "Spacer"
+        },
+        "07": {
+            "artist": "Rick James",
+            "title": "Give It To Me Baby"
+        },
+        "08": {
+            "artist": "Gwen McCrae",
+            "title": "Keep The Fire Burning"
+        },
+        "09": {
+            "artist": "First Choice",
+            "title": "Let No Man Put Asunder (Vocal)"
+        },
+        "10": {
+            "artist": "Deee-Lite",
+            "title": "Bittersweet Loving"
+        }
+    },
+    "sasha-crush-15th-june-2023": {
+        "00": {
+            "artist": "Nu Guinea",
+            "title": "Nuova Napoli"
+        },
+        "01": {
+            "artist": "Miss Lene",
+            "title": "Foi Aqui"
+        },
+        "02": {
+            "artist": "Matia Bazar",
+            "title": "Solo Tu"
+        },
+        "03": {
+            "artist": "Rino Gaetano",
+            "title": "Sfiorivano Le Viole"
+        },
+        "04": {
+            "artist": "Alan Sorrenti",
+            "title": "Figli Delle Stelle"
+        },
+        "05": {
+            "artist": "Marcos Valle",
+            "title": "Estrelar"
+        },
+        "06": {
+            "artist": "Dori Ghezzi",
+            "title": "Notte"
+        },
+        "07": {
+            "artist": "Loose Ends",
+            "title": "Nights Of Pleasure"
+        },
+        "08": {
+            "artist": "Ivan",
+            "title": "Fotonovela (Chapter 1)"
+        },
+        "09": {
+            "artist": "Lucio Battisti, ",
+            "title": "L'Interprete Di Un Film"
+        },
+        "10": {
+            "artist": "Pino D'Angiò",
+            "title": "Una Notte Maledetta"
+        },
+        "11": {
+            "artist": "Gino Soccio",
+            "title": "Dancer"
+        }
+    },
+    "sasha-crush-16th-june-2022": {
+        "00": {
+            "artist": "Iggy Pop",
+            "title": "Family Affair"
+        },
+        "01": {
+            "artist": "Michèle Claire",
+            "title": "Nice And Slow"
+        },
+        "02": {
+            "artist": "New Paradise",
+            "title": "I Love Video"
+        },
+        "03": {
+            "artist": "Gino Soccio",
+            "title": "Try It Out"
+        },
+        "04": {
+            "artist": "Goody Goody",
+            "title": "It Looks Like Love"
+        },
+        "05": {
+            "artist": "Loredana Berte'",
+            "title": "In Alto Mare"
+        },
+        "06": {
+            "artist": "Ornella Vanoni",
+            "title": "Ti Voglio"
+        },
+        "07": {
+            "artist": "Punkin Machine",
+            "title": "I Need You Tonight"
+        },
+        "08": {
+            "artist": "Pino D'Angiò",
+            "title": "Ma Quale Idea"
+        },
+        "09": {
+            "artist": "Cappuccino",
+            "title": "Hell Dance With Me"
+        },
+        "10": {
+            "artist": "Sabrina",
+            "title": "Boys"
+        }
+    },
+    "sasha-crush-18th-may-2023": {
+        "00": {
+            "artist": "Lime",
+            "title": "I Don't Wanna Lose You"
+        },
+        "01": {
+            "artist": "Oliver",
+            "title": "Everybody Wants To Be The Boss"
+        },
+        "02": {
+            "artist": "René & Angela",
+            "title": "I Love You More (Instrumental Edit)"
+        },
+        "03": {
+            "artist": "James Otis White Jr.",
+            "title": "Baby Come On (Extended Version)"
+        },
+        "04": {
+            "artist": "Susana Estrada",
+            "title": " Quitate El Sosten (Javi Frias Extended Disco Edit)"
+        },
+        "05": {
+            "artist": "Sharon Brown",
+            "title": "I Specialize In Love"
+        },
+        "06": {
+            "artist": "Sheila E",
+            "title": "A Love Bizarre (Massimo Voci Re-Edit)"
+        },
+        "07": {
+            "artist": "Jomanda",
+            "title": "I Cried The Tears"
+        },
+        "08": {
+            "artist": "Ross",
+            "title": "Búscame"
+        }
+    },
+    "sasha-crush-19th-may-2022": {
+        "00": {
+            "artist": "Black Flag",
+            "title": "Nervous Breakdown"
+        },
+        "01": {
+            "artist": "Iggy And The Stooges",
+            "title": "I Got A Right"
+        },
+        "02": {
+            "artist": "Adam & The Ants",
+            "title": "Kings Of The Wild Frontier"
+        },
+        "03": {
+            "artist": "Gun Club",
+            "title": "Sex Beat"
+        },
+        "04": {
+            "artist": "Devo",
+            "title": "Come Back Jonee"
+        },
+        "05": {
+            "artist": "The Runaways",
+            "title": "I Love Playin' With Fire"
+        },
+        "06": {
+            "artist": "Richard Hell & The Voidoids",
+            "title": "The Kid With The Replaceable Head"
+        },
+        "07": {
+            "artist": "Buzzcocks",
+            "title": "I Believe"
+        },
+        "08": {
+            "artist": "Martha Reeves & The Vandellas",
+            "title": "Love Is Like A Heat Wave"
+        },
+        "09": {
+            "artist": "Beastie Boys",
+            "title": "Girls"
+        },
+        "10": {
+            "artist": "Bow Wow Wow",
+            "title": "Cowboy"
+        },
+        "11": {
+            "artist": "GG Allin",
+            "title": "Don't Talk To Me"
+        },
+        "12": {
+            "artist": "The Cramps",
+            "title": "Can Your Pussy Do The Dog?"
+        },
+        "13": {
+            "artist": "AC/DC",
+            "title": "Touch Too Much"
+        },
+        "14": {
+            "artist": "Van Halen",
+            "title": "Hot For Teacher"
+        },
+        "15": {
+            "artist": "The Clash",
+            "title": "Deny"
+        },
+        "16": {
+            "artist": "Shinya Ohe, ",
+            "title": "Great Big Kiss"
+        }
+    },
+    "sasha-crush-1st-december-2022": {
+        "00": {
+            "artist": "Rahill",
+            "title": "I Do Wonder"
+        },
+        "01": {
+            "artist": "Breton Wood",
+            "title": "I Want Love"
+        },
+        "02": {
+            "artist": "Dionne Warwick",
+            "title": "Walk On By"
+        },
+        "03": {
+            "artist": "Charme",
+            "title": "Georgy Porgy"
+        },
+        "04": {
+            "artist": "Luther Vandross",
+            "title": "Never Too Much"
+        },
+        "05": {
+            "artist": "Dayton",
+            "title": "We Can't Miss"
+        },
+        "06": {
+            "artist": "C-Bank, ",
+            "title": "I Won't Stop Loving You (Dub)"
+        },
+        "07": {
+            "artist": "Purple Flash",
+            "title": "Creme Soufflee (DJ Law Remix)"
+        },
+        "08": {
+            "artist": "Stone Roses",
+            "title": "Fools Gold"
+        },
+        "09": {
+            "artist": "Frankie Knuckles",
+            "title": "Your Love"
+        },
+        "10": {
+            "artist": "Mariah Carey",
+            "title": "Daydream Interlude (Fantasy Sweet Dub Mix)"
+        }
+    },
+    "sasha-crush-20th-april-2023": {
+        "00": {
+            "artist": "Roberta Flack",
+            "title": "Feel Like Makin' Love"
+        },
+        "01": {
+            "artist": "Chrisma",
+            "title": "Amore"
+        },
+        "02": {
+            "artist": "Bibi Flash",
+            "title": "Téléphone Moi"
+        },
+        "03": {
+            "artist": "George McGrae",
+            "title": "Rock Your Baby"
+        },
+        "04": {
+            "artist": "Harold Melvin & The Blue Notes",
+            "title": "The Love I Lost"
+        },
+        "05": {
+            "artist": "Bop Whopper",
+            "title": "Milky Way Kiss (Single Version)"
+        },
+        "06": {
+            "artist": "Letta Mbulu",
+            "title": "Nomalizo"
+        },
+        "07": {
+            "artist": "Donna McGhee",
+            "title": "It Ain't No Big Thing"
+        },
+        "08": {
+            "artist": "Soft Cell",
+            "title": "Say Hello, Wave Goodbye"
+        },
+        "09": {
+            "artist": "Bootsy Collins",
+            "title": "Munchies for Your Love"
+        }
+    },
+    "sasha-crush-21st-april-2022": {
+        "00": {
+            "artist": "James Brown",
+            "title": "Get On The Good Foot"
+        },
+        "01": {
+            "artist": "Bush Tetras",
+            "title": "Can't Be Funky"
+        },
+        "02": {
+            "artist": "Ritchie Family",
+            "title": "I'll Do My Best (RD Remix)"
+        },
+        "03": {
+            "artist": "Saâda Bonaire",
+            "title": "I Am So Curious"
+        },
+        "04": {
+            "artist": "Vicious Pink",
+            "title": "Cccan't You See..."
+        },
+        "05": {
+            "artist": "Mary Jane Girls",
+            "title": "Candy Man"
+        },
+        "06": {
+            "artist": "ESG",
+            "title": "The Beat"
+        },
+        "07": {
+            "artist": "Kiki Gyan",
+            "title": "Disco Dancer"
+        },
+        "08": {
+            "artist": "Ralphi Rosario, ",
+            "title": "You Used To Hold Me (Kenny's Mix)"
+        },
+        "09": {
+            "artist": "Saâda Bonaire",
+            "title": "Follow Your Mind"
+        },
+        "10": {
+            "artist": "Fingers Inc.",
+            "title": "Never No More Lonely"
+        },
+        "11": {
+            "artist": "Iggy Pop",
+            "title": "Real Wild Child"
+        }
+    },
+    "sasha-crush-23rd-february-2023": {
+        "00": {
+            "artist": "Elia y Elizabeth",
+            "title": "Descripción"
+        },
+        "01": {
+            "artist": "The Chosen Few",
+            "title": "My Thing"
+        },
+        "02": {
+            "artist": "Scars",
+            "title": "All About You"
+        },
+        "03": {
+            "artist": "Mylene Farmer",
+            "title": "Maman A Tort"
+        },
+        "04": {
+            "artist": "Maraschino",
+            "title": "Angelface"
+        },
+        "05": {
+            "artist": "Fox The Fox",
+            "title": "Flirting And Showing"
+        },
+        "06": {
+            "artist": "Delegation",
+            "title": "It's Your Turn"
+        },
+        "07": {
+            "artist": "Alisha",
+            "title": "All Night Passion"
+        },
+        "08": {
+            "artist": "Robert Sandrini",
+            "title": "Occhi Su Di Me"
+        },
+        "09": {
+            "artist": "Teddy Pendergrass",
+            "title": "Only You"
+        },
+        "10": {
+            "artist": "Lamar Thomas",
+            "title": "Feel So Good Inside"
+        }
+    },
+    "sasha-crush-23rd-march-2023": {
+        "00": {
+            "artist": "Surface",
+            "title": "Falling In Love"
+        },
+        "01": {
+            "artist": "Ruins",
+            "title": "Sexual Desire"
+        },
+        "02": {
+            "artist": "Asha",
+            "title": "Mr. Moonlight"
+        },
+        "03": {
+            "artist": "Barrabas",
+            "title": "Woman"
+        },
+        "04": {
+            "artist": "George McCrae, ",
+            "title": "Winners Together Or Losers Apart"
+        },
+        "05": {
+            "artist": "Alaska Y Los Pegamoides",
+            "title": "Bailando"
+        },
+        "06": {
+            "artist": "The Sugarhill Gang",
+            "title": "The Lover In You"
+        },
+        "07": {
+            "artist": "Barry White",
+            "title": "It's Ecstasy When You Lay Down Next To Me"
+        },
+        "08": {
+            "artist": "Escape From New York",
+            "title": "Save Our Love"
+        },
+        "09": {
+            "artist": "Christine Lewin",
+            "title": "Juicy Fruit"
+        },
+        "10": {
+            "artist": "Poussez!",
+            "title": "Come On And Do It"
+        }
+    },
+    "sasha-crush-24th-february-2022": {
+        "00": {
+            "artist": "The Cure",
+            "title": "Just Like Heaven"
+        },
+        "01": {
+            "artist": "Jennifer Lara, ",
+            "title": "I'm In Love"
+        },
+        "02": {
+            "artist": "Yvonne Elliman",
+            "title": "If I Can't Have You"
+        },
+        "03": {
+            "artist": "Buzzcocks",
+            "title": "Just Lust"
+        },
+        "04": {
+            "artist": "Velvet Underground",
+            "title": "Pale Blue Eyes"
+        },
+        "05": {
+            "artist": "Chemise",
+            "title": "She Can't Love You"
+        },
+        "06": {
+            "artist": "Skee-Lo",
+            "title": "I Wish"
+        },
+        "07": {
+            "artist": "Blondie",
+            "title": "Hanging On The Telephone"
+        },
+        "08": {
+            "artist": "Soft Cell",
+            "title": "Tainted Love"
+        },
+        "09": {
+            "artist": "The Stooges",
+            "title": "I Wanna Be Your Dog"
+        },
+        "10": {
+            "artist": "Modern English",
+            "title": "I Melt With You"
+        },
+        "11": {
+            "artist": "The Cars",
+            "title": "You Are The Girl"
+        },
+        "12": {
+            "artist": "Barbara Lynn",
+            "title": "You'll Lose A Good Thing"
+        },
+        "13": {
+            "artist": "Gang Of Four",
+            "title": "Damaged Goods"
+        },
+        "14": {
+            "artist": "Haddaway",
+            "title": "What Is Love"
+        }
+    },
+    "sasha-crush-24th-march-2022": {
+        "00": {
+            "artist": "Haruomi Hosono",
+            "title": "Sports Men"
+        },
+        "01": {
+            "artist": "Echo & The Bunnymen",
+            "title": "Blue Blue Ocean"
+        },
+        "02": {
+            "artist": "Nico",
+            "title": "Little Sister"
+        },
+        "03": {
+            "artist": "Iggy Pop",
+            "title": "Baby"
+        },
+        "04": {
+            "artist": "Suicide",
+            "title": "Diamonds, Fur Coat, Champagne"
+        },
+        "05": {
+            "artist": "Bauhaus",
+            "title": "Kick In The Eye"
+        },
+        "06": {
+            "artist": "The Cure",
+            "title": "Charlotte Sometimes"
+        },
+        "07": {
+            "artist": "Sei Still",
+            "title": "Exilio"
+        },
+        "08": {
+            "artist": "Kino",
+            "title": "Blood Type"
+        },
+        "09": {
+            "artist": "Depeche Mode",
+            "title": "Black Celebration"
+        },
+        "10": {
+            "artist": "Orchestral Manoeuvres In The Dark",
+            "title": "Messages"
+        },
+        "11": {
+            "artist": "Kraftwerk",
+            "title": "Computer World..2"
+        },
+        "12": {
+            "artist": "Joy Division",
+            "title": "Transmission"
+        },
+        "13": {
+            "artist": "Siouxsie & The Banshees",
+            "title": "Forever"
+        }
+    },
+    "sasha-crush-26th-january-2023": {
+        "00": {
+            "artist": "Supermax",
+            "title": "Love Machine"
+        },
+        "01": {
+            "artist": "Stacey Q",
+            "title": "Don't Make A Fool Of Yourself"
+        },
+        "02": {
+            "artist": "Vera",
+            "title": "Special Treatment"
+        },
+        "03": {
+            "artist": "Nohelai Cypriano",
+            "title": "Lihue"
+        },
+        "04": {
+            "artist": "Rick James",
+            "title": "Fool On The Street"
+        },
+        "05": {
+            "artist": "Melba Moore",
+            "title": "Your Sweet Lovin'"
+        },
+        "06": {
+            "artist": "Lio",
+            "title": "Sage Comme Une Image"
+        },
+        "07": {
+            "artist": "Loose Joints",
+            "title": "Is It All Over My Face"
+        },
+        "08": {
+            "artist": "Rim Kwaku Obeng",
+            "title": "Love Me For Real"
+        },
+        "09": {
+            "artist": "Charlie",
+            "title": "Spacer Woman (Vocal)"
+        },
+        "10": {
+            "artist": "Berlin",
+            "title": "Dancing In Berlin"
+        }
+    },
+    "sasha-crush-27th-jjanuary-2022": {
+        "00": {
+            "artist": "Rolling Stones",
+            "title": "I’m A King Bee"
+        },
+        "01": {
+            "artist": "Ramones",
+            "title": "Beat On The Brat"
+        },
+        "02": {
+            "artist": "The Ronettes",
+            "title": "Be My Baby"
+        },
+        "03": {
+            "artist": "David Bowie",
+            "title": "Sorrow"
+        },
+        "04": {
+            "artist": "Sweet",
+            "title": "Fox On The Run"
+        },
+        "05": {
+            "artist": "Jonathan Richman",
+            "title": "Velvet Underground"
+        },
+        "06": {
+            "artist": "Soda Stereo",
+            "title": "Cuando Pase El Temblor"
+        },
+        "07": {
+            "artist": "Indeep",
+            "title": "Last Night A DJ Saved My Life"
+        },
+        "08": {
+            "artist": "Kim Wilde",
+            "title": "You Keep Me Hangin' On"
+        },
+        "09": {
+            "artist": "Iggy Pop",
+            "title": "Fall In Love With Me"
+        },
+        "10": {
+            "artist": "New Order",
+            "title": "True Faith"
+        },
+        "11": {
+            "artist": "Odyssey",
+            "title": "Native New Yorker"
+        },
+        "12": {
+            "artist": "Lou Reed",
+            "title": "Coney Island Baby"
+        },
+        "13": {
+            "artist": "The Jesus And Mary Chain",
+            "title": "Just Like Honey"
+        }
+    },
+    "sasha-crush-3rd-november-2022": {
+        "00": {
+            "artist": "Peter Richard",
+            "title": "Fly Away"
+        },
+        "01": {
+            "artist": "Delegation",
+            "title": "Oh Honey"
+        },
+        "02": {
+            "artist": "Johnny Osborne",
+            "title": "Over 31 Under 21"
+        },
+        "03": {
+            "artist": "Silent Circle",
+            "title": "Touch In The Night"
+        },
+        "04": {
+            "artist": "Funky 4 + 1",
+            "title": "That's The Joint"
+        },
+        "05": {
+            "artist": "Richard Hell & The Voidoids",
+            "title": "Time"
+        },
+        "06": {
+            "artist": "Cool Edition",
+            "title": "Mr. Telephone Man"
+        },
+        "07": {
+            "artist": "Eno",
+            "title": "I'll Come Running"
+        },
+        "08": {
+            "artist": "The Church",
+            "title": "Under The Milky Way"
+        },
+        "09": {
+            "artist": "Charme",
+            "title": "Georgy Porgy"
+        },
+        "10": {
+            "artist": "Lisa M",
+            "title": "No Lo Derrumbes"
+        },
+        "11": {
+            "artist": "Sonic Youth",
+            "title": "Into The Groovey"
+        }
+    },
+    "sasha-crush-6th-october-2022": {
+        "00": {
+            "artist": "FORGET",
+            "title": "A Break"
+        },
+        "01": {
+            "artist": "The Egyptian Lover",
+            "title": "I Cry (Night After Night)"
+        },
+        "02": {
+            "artist": "Stacy Lattisaw",
+            "title": "Attack Of The Name Game"
+        },
+        "03": {
+            "artist": "One Way",
+            "title": "Cutie Pie"
+        },
+        "04": {
+            "artist": "OOIOO",
+            "title": "Honki Ponki"
+        },
+        "05": {
+            "artist": "George Michael",
+            "title": "Too Funky (Extended Version)"
+        },
+        "06": {
+            "artist": "The Jones Girls",
+            "title": "You Gonna Make Me Love Somebody Else"
+        },
+        "07": {
+            "artist": "Gwen Guthrie",
+            "title": "It Should Have Been You (Vocal)"
+        },
+        "08": {
+            "artist": "Sahara",
+            "title": "Growing Beats"
+        },
+        "09": {
+            "artist": "Stacey Q",
+            "title": "Don't Make A Fool Of Yourself"
+        },
+        "10": {
+            "artist": "ICC",
+            "title": "Donde Estaras"
+        },
+        "11": {
+            "artist": "Donald Byrd & 125th Street, N.Y.C.",
+            "title": "Love Has Come Around"
+        }
+    },
+    "sasha-crush-8th-september-2022": {
+        "00": {
+            "artist": "Cracy Coconuts",
+            "title": "Rubberdub Dance"
+        },
+        "01": {
+            "artist": "Glass Candy",
+            "title": "Miss Broadway"
+        },
+        "02": {
+            "artist": "Was (Not Was)",
+            "title": "Tell Me That I'm Dreaming"
+        },
+        "03": {
+            "artist": "Geraldine Hunt",
+            "title": "Can't Fake The Feeling"
+        },
+        "04": {
+            "artist": "Vera",
+            "title": "Take Me To The Bridge"
+        },
+        "05": {
+            "artist": "Pet Shop Boys",
+            "title": "Pop Kids"
+        },
+        "06": {
+            "artist": "Val Young",
+            "title": "Seduction"
+        },
+        "07": {
+            "artist": "Susan Estrada",
+            "title": "Mi Chico Favorito"
+        },
+        "08": {
+            "artist": "Gary's Gang",
+            "title": "Makin Music"
+        },
+        "09": {
+            "artist": "Sheila E",
+            "title": "Glamorous Life"
+        }
+    }
+}
