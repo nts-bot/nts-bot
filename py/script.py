@@ -436,7 +436,7 @@ class nts:
         # if kind == "cre":
         extent = self.showlist[(200 * (usr - 1)) : (200 * (usr))]
 
-        print(f"Unfollowing: {usr}")
+        print(f"{usr}: Unfollowing")
         cn = False
         while not cn:
             try:
@@ -451,19 +451,22 @@ class nts:
             except:
                 logging.warning(traceback.format_exc())
 
-        print(f"Following: {usr}")
+        print(f"{usr}: Following")
         print(f"{extent[0][0]} : {extent[-1][0]}")
         cn = False
         while not cn:
             try:
                 for i in extent[::-1]:
-                    print(i[:20])
-                    playlist_owner_id = "31yeoenly5iu5pvoatmuvt7i7ksy"
-                    playlist_id = pids[i]
-                    if playlist_id:
-                        spot.user_playlist_follow_playlist(
-                            playlist_owner_id, playlist_id
-                        )
+                    if i in pids:
+                        print(f"{usr}: {i[:20]}", end="\r")
+                        playlist_owner_id = "31yeoenly5iu5pvoatmuvt7i7ksy"
+                        playlist_id = pids[i]
+                        if playlist_id:
+                            spot.user_playlist_follow_playlist(
+                                playlist_owner_id, playlist_id
+                            )
+                        else:
+                            print(f"FAILED : {i}")
                     else:
                         print(f"FAILED : {i}")
                 cn = True
