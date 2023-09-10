@@ -413,6 +413,7 @@ class nts:
 
     def follow(self, kind="cre"):
         """SECONDARY SPOTIFY USERS WHO MAINTAIN ALPHABETICALLY ORGANIZED PLAYLISTS BELOW SPOTIFY (VISIBLE) PUBLIC PLAYLIST LIMIT (200)"""
+        pids = utils.rnw_json("pid")
         creds = utils.rnw_json(f"{kind}dentials")
         usrcall = round(len(self.showlist) / 200 + 0.4999)
         for us in range(usrcall):
@@ -433,13 +434,13 @@ class nts:
                 retries=5,
             )
             logging.info("Testing .")
-            test = spot.user(user)
+            _ = spot.user(user)
             logging.info("Successful .")
 
             if kind == "cre":
                 extent = self.showlist[(200 * (usr - 1)) : (200 * (usr))]
 
-            logging.info("Unfollowing")
+            print("Unfollowing")
             cn = False
             while not cn:
                 try:
@@ -452,28 +453,26 @@ class nts:
                         spot.user_playlist_unfollow(playlist_owner_id, i)
                     cn = True
                 except:
-                    logging.info(
-                        "error",
-                    )
+                    logging.warning(traceback.format_exc())
 
-            logging.info("Following")
-            logging.info(f"{extent[0][0]} : {extent[-1][0]}")
+            print("Following")
+            print(f"{extent[0][0]} : {extent[-1][0]}")
             cn = False
             while not cn:
                 try:
                     for i in extent[::-1]:
-                        logging.info(i[:20])
+                        print(i[:20])
                         playlist_owner_id = "31yeoenly5iu5pvoatmuvt7i7ksy"
-                        playlist_id = self.pid(i)
+                        playlist_id = pids[i]
                         if playlist_id:
                             spot.user_playlist_follow_playlist(
                                 playlist_owner_id, playlist_id
                             )
                         else:
-                            logging.info(f"FAILED : {i}")
+                            print(f"FAILED : {i}")
                     cn = True
                 except:
-                    logging.info("error")
+                    logging.warning(traceback.format_exc())
 
             del creds[str(usr)]
             # u = []
