@@ -16,7 +16,7 @@ from importlib import import_module
 # .2 Local Libraries
 sys.path.insert(0, "./py")
 utils = import_module("utils")
-utils.logger(False)  # Start Log
+utils.logger(True)  # Start Log
 
 # .3 Init Class
 script = import_module("script")

@@ -451,8 +451,9 @@ class nts:
             except:
                 logging.warning(traceback.format_exc())
 
-        print(f"{usr}: Following")
-        print(f"{extent[0][0]} : {extent[-1][0]}")
+        _ = f"{usr}: Following: {extent[0][0]} : {extent[-1][0]}"
+        print(_)
+        logging.info(_)
         cn = False
         while not cn:
             try:
