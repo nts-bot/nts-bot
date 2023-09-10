@@ -411,7 +411,6 @@ class nts:
         """ UPDATE UPLOADED EPISODES METADATA """
         utils.rnw_json(f"./uploaded/{show}", uploaded)
 
-    @utils.monitor
     def subfollow(self, creds, pids, usr):
         user = creds[str(usr)]["user"]
         cid = creds[str(usr)]["cid"]
@@ -485,7 +484,7 @@ class nts:
         pids = utils.rnw_json("pid")
         creds = utils.rnw_json(f"{kind}dentials")
         usrcall = round(len(self.showlist) / 200 + 0.4999)
-        _ = range(usrcall)
+        _ = range(1, usrcall + 1)
         f = {f"subfollow_{c}": self.subfollow for c in _}
         p = {f"subfollow_{c}": [creds, pids, c] for c in _}
         utils.parallel_process(f, p)
