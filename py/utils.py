@@ -19,6 +19,7 @@ import datetime as dt
 from pprint import pformat
 from threading import Thread
 from timeit import default_timer as timer
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 """
 
@@ -140,3 +141,16 @@ def rnw_json(filename, store=None):
             logging.warning(traceback.format_exc())
             time.sleep(0.5)
             rnw_json(filename, store)
+
+
+def parallel_process(functions_dictionary: dict, parameters_dictionary: dict) -> None:
+    with ThreadPoolExecutor(max_workers=None) as executor:
+        future_to_node = {
+            executor.submit(
+                functions_dictionary[key], *parameters_dictionary[key]
+            ): str(key)
+            for key in parameters_dictionary
+            if parameters_dictionary[key]
+        }
+        for future in as_completed(future_to_node):
+            globals()[future_to_node[future]] = future.result()

@@ -411,74 +411,80 @@ class nts:
         """ UPDATE UPLOADED EPISODES METADATA """
         utils.rnw_json(f"./uploaded/{show}", uploaded)
 
+    @utils.monitor
+    def subfollow(self, creds, pids, usr):
+        user = creds[str(usr)]["user"]
+        cid = creds[str(usr)]["cid"]
+        secret = creds[str(usr)]["secret"]
+
+        callback = "http://localhost:8888/callback"
+        spot = spotipy.Spotify(
+            auth_manager=spotipy.SpotifyOAuth(
+                client_id=cid,
+                client_secret=secret,
+                redirect_uri=f"{callback}",
+                scope="playlist-modify-public user-follow-modify",
+                username=user,
+            ),
+            requests_timeout=5,
+            retries=5,
+        )
+        logging.info("Testing .")
+        _ = spot.user(user)
+        logging.info("Successful .")
+
+        # if kind == "cre":
+        extent = self.showlist[(200 * (usr - 1)) : (200 * (usr))]
+
+        print(f"Unfollowing: {usr}")
+        cn = False
+        while not cn:
+            try:
+                plys = []
+                for i in range(4):
+                    it = spot.user_playlists(user, offset=(i * 50))["items"]
+                    plys += [k["id"] for k in it]
+                for i in plys:
+                    playlist_owner_id = "31yeoenly5iu5pvoatmuvt7i7ksy"
+                    spot.user_playlist_unfollow(playlist_owner_id, i)
+                cn = True
+            except:
+                logging.warning(traceback.format_exc())
+
+        print(f"Following: {usr}")
+        print(f"{extent[0][0]} : {extent[-1][0]}")
+        cn = False
+        while not cn:
+            try:
+                for i in extent[::-1]:
+                    print(i[:20])
+                    playlist_owner_id = "31yeoenly5iu5pvoatmuvt7i7ksy"
+                    playlist_id = pids[i]
+                    if playlist_id:
+                        spot.user_playlist_follow_playlist(
+                            playlist_owner_id, playlist_id
+                        )
+                    else:
+                        print(f"FAILED : {i}")
+                cn = True
+            except:
+                logging.warning(traceback.format_exc())
+
+        del creds[str(usr)]
+        # u = []
+        # for i in creds:
+        #     u += [creds[i]['user']]
+        # spot.user_follow_users(u)
+
     def follow(self, kind="cre"):
         """SECONDARY SPOTIFY USERS WHO MAINTAIN ALPHABETICALLY ORGANIZED PLAYLISTS BELOW SPOTIFY (VISIBLE) PUBLIC PLAYLIST LIMIT (200)"""
         pids = utils.rnw_json("pid")
         creds = utils.rnw_json(f"{kind}dentials")
         usrcall = round(len(self.showlist) / 200 + 0.4999)
-        for us in range(usrcall):
-            usr = us + 1
-            user = creds[str(usr)]["user"]
-            cid = creds[str(usr)]["cid"]
-            secret = creds[str(usr)]["secret"]
-            callback = "http://localhost:8888/callback"
-            spot = spotipy.Spotify(
-                auth_manager=spotipy.SpotifyOAuth(
-                    client_id=cid,
-                    client_secret=secret,
-                    redirect_uri=f"{callback}",
-                    scope="playlist-modify-public user-follow-modify",
-                    username=user,
-                ),
-                requests_timeout=5,
-                retries=5,
-            )
-            logging.info("Testing .")
-            _ = spot.user(user)
-            logging.info("Successful .")
-
-            if kind == "cre":
-                extent = self.showlist[(200 * (usr - 1)) : (200 * (usr))]
-
-            print("Unfollowing")
-            cn = False
-            while not cn:
-                try:
-                    plys = []
-                    for i in range(4):
-                        it = spot.user_playlists(user, offset=(i * 50))["items"]
-                        plys += [k["id"] for k in it]
-                    for i in plys:
-                        playlist_owner_id = "31yeoenly5iu5pvoatmuvt7i7ksy"
-                        spot.user_playlist_unfollow(playlist_owner_id, i)
-                    cn = True
-                except:
-                    logging.warning(traceback.format_exc())
-
-            print("Following")
-            print(f"{extent[0][0]} : {extent[-1][0]}")
-            cn = False
-            while not cn:
-                try:
-                    for i in extent[::-1]:
-                        print(i[:20])
-                        playlist_owner_id = "31yeoenly5iu5pvoatmuvt7i7ksy"
-                        playlist_id = pids[i]
-                        if playlist_id:
-                            spot.user_playlist_follow_playlist(
-                                playlist_owner_id, playlist_id
-                            )
-                        else:
-                            print(f"FAILED : {i}")
-                    cn = True
-                except:
-                    logging.warning(traceback.format_exc())
-
-            del creds[str(usr)]
-            # u = []
-            # for i in creds:
-            #     u += [creds[i]['user']]
-            # spot.user_follow_users(u)
+        _ = range(len(usrcall))
+        f = {f"subfollow_{c}": self.subfollow for c in _}
+        p = {f"subfollow_{c}": [creds, pids, c] for c in _}
+        utils.parallel_process(f, p)
 
     # SPOTIFY API SEARCH FUNCTIONS
 
