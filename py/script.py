@@ -481,7 +481,7 @@ class nts:
         pids = utils.rnw_json("pid")
         creds = utils.rnw_json(f"{kind}dentials")
         usrcall = round(len(self.showlist) / 200 + 0.4999)
-        _ = range(len(usrcall))
+        _ = range(usrcall)
         f = {f"subfollow_{c}": self.subfollow for c in _}
         p = {f"subfollow_{c}": [creds, pids, c] for c in _}
         utils.parallel_process(f, p)
