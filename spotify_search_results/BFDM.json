@@ -27337,6 +27337,645 @@
             ]
         }
     },
+    "bfdm-5th-september-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Snoop Dogg",
+                    "title": "21 Jumpstreet",
+                    "uri": "6M9BMY5Smb21xrvx34IMMj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Snoop Dogg",
+                    "title": "21 Jumpstreet",
+                    "uri": "6M9BMY5Smb21xrvx34IMMj"
+                },
+                {
+                    "artist": "50 Cent",
+                    "title": "P.I.M.P. - Snoop Dogg Remix",
+                    "uri": "0fLILzjVXRCLC0lsNKcQ8I"
+                },
+                {
+                    "artist": "Snoop Dogg",
+                    "title": "That's That Shit",
+                    "uri": "41sLy8IQUSgvjjeW2CN0vc"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "The Jacka",
+                    "title": "All My Ho Say",
+                    "uri": "1mlknJDZa0cfbN1hR0IOs1"
+                },
+                {
+                    "artist": "The Jacka",
+                    "title": "All My Ho Say",
+                    "uri": "5uxU8K3as1cRzvvYshjEoG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Jacka",
+                    "title": "All My Ho Say",
+                    "uri": "1mlknJDZa0cfbN1hR0IOs1"
+                },
+                {
+                    "artist": "The Jacka",
+                    "title": "They Dying Soon",
+                    "uri": "0JQ1XYJpC6XUAQ2ko1154l"
+                },
+                {
+                    "artist": "The Jackal",
+                    "title": "Turn Me up (Freestyle)",
+                    "uri": "75V88Ooow9TjOzK9XHreUw"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "G-Slimm",
+                    "title": "Live To Be A Man",
+                    "uri": "3NEBxdbpLDKGIOI06o4Aae"
+                },
+                {
+                    "artist": "G-Slimm",
+                    "title": "Live To Be A Man",
+                    "uri": "5Lg5FMor0kUmdkcyVCBEnW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "G-Slimm",
+                    "title": "Live To Be A Man",
+                    "uri": "3NEBxdbpLDKGIOI06o4Aae"
+                },
+                {
+                    "artist": "G-Slimm",
+                    "title": "Live To Be A Man",
+                    "uri": "5Lg5FMor0kUmdkcyVCBEnW"
+                },
+                {
+                    "artist": "Lil Mama",
+                    "title": "G-Slide (Tour Bus) - Radio Version",
+                    "uri": "0bzKociATbg931pwZ9AQE9"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rae Sremmurd",
+                    "title": "Royal Flush (feat. Young Thug)",
+                    "uri": "6iN3ICXAJjrNuSAlWMzwz7"
+                },
+                {
+                    "artist": "2ara",
+                    "title": "Royal Flush",
+                    "uri": "1A4090AmdgnNfAM5TB8Vox"
+                },
+                {
+                    "artist": "Silva Hound",
+                    "title": "Royal Flush",
+                    "uri": "4jdz6HYsEraoeGJwD8JoY9"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Southwest Connect",
+                    "title": "Peep Game",
+                    "uri": "0cGj0M2B9h6tKEOtBd6nPd"
+                },
+                {
+                    "artist": "Dundolgrad",
+                    "title": "Peep Game",
+                    "uri": "4N9j31Rw2Gzy9LskOV3IPY"
+                },
+                {
+                    "artist": "FCP TERIO",
+                    "title": "Peep Hole",
+                    "uri": "0kmAq7YGmLgIxjx1DmjmjG"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DJ Alex Funk",
+                    "title": "Compton",
+                    "uri": "4P0fbCL5Cd50aekUfrT9K9"
+                },
+                {
+                    "artist": "Guerilla Black",
+                    "title": "Compton",
+                    "uri": "0nUNxZPdIOAfHT3r9doeBj"
+                },
+                {
+                    "artist": "Compton's Most Wanted",
+                    "title": "Hit the Floor",
+                    "uri": "1i1xpq56YUvzhgoQ8S6xdM"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rosc",
+                    "title": "Priceless",
+                    "uri": "6Xodcio6kA9oXKkzUhyqCn"
+                },
+                {
+                    "artist": "Movements",
+                    "title": "Priceless",
+                    "uri": "3onY1VZxLq5G0zZQ2BH0zv"
+                },
+                {
+                    "artist": "for KING & COUNTRY",
+                    "title": "Priceless",
+                    "uri": "7BTmtN6bP35E54vVASTqao"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Young Richie Rich",
+                    "title": "Rauch in den Sky",
+                    "uri": "3dbUs0Pt101uhwKAMOAo6E"
+                },
+                {
+                    "artist": "Young Richie Rich",
+                    "title": "Wohin",
+                    "uri": "3AGlbejbdLJ1ISdem4PVhM"
+                },
+                {
+                    "artist": "Young Richie Rich",
+                    "title": "Perspektiven",
+                    "uri": "1h7VL5Kwnf6cXXUmjiHhtu"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Yung Smiley",
+                    "title": "Saks",
+                    "uri": "2avx4kOxxzk705UjFvI4yO"
+                },
+                {
+                    "artist": "SHUSH",
+                    "title": "Yung Slaughter",
+                    "uri": "48yNYmVnY1EG6O10OGTxms"
+                },
+                {
+                    "artist": "BabySlime",
+                    "title": "Out The Cut",
+                    "uri": "44jmzFZEwsDNNOsEbkeOvP"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Pasadena Roof Orchestra",
+                    "title": "Looney Tunes",
+                    "uri": "5RKElYkkqI3yEQvpuDuMGF"
+                },
+                {
+                    "artist": "The Straikerz",
+                    "title": "Looney Tunes",
+                    "uri": "7GpJgasjlHNNvfOQHicmjS"
+                },
+                {
+                    "artist": "PierceTheSkies",
+                    "title": "Looney Tunes",
+                    "uri": "39KUurZXLovoIHNtrC0Zzm"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Daz Dillinger",
+                    "title": "Bomb Azz Pu**y",
+                    "uri": "5nPsotwtxIHGu6bWrnSLYw"
+                },
+                {
+                    "artist": "Daz Dillinger",
+                    "title": "Money On My Mind",
+                    "uri": "1uqMiLD3uoBepH4sf8OEuF"
+                },
+                {
+                    "artist": "Daz Dillinger",
+                    "title": "Stay Out The Way (feat. Snoop Dogg)",
+                    "uri": "693xGvqOaeuxur7BKCznpO"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "C-Bo",
+                    "title": "Birds In The Kitchen",
+                    "uri": "78Z3NqnOywYI6qUWMbRqf0"
+                },
+                {
+                    "artist": "C-Bo",
+                    "title": "Birds In The Kitchen",
+                    "uri": "7rtV7QUBSV05rpdRm1qKmz"
+                },
+                {
+                    "artist": "C-Bo",
+                    "title": "Birds In The Kitchen",
+                    "uri": "7wbma2nv34oGhRCLnJ7ePp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "C-Bo",
+                    "title": "Birds In The Kitchen",
+                    "uri": "78Z3NqnOywYI6qUWMbRqf0"
+                },
+                {
+                    "artist": "Rikas",
+                    "title": "Birds in the Sky",
+                    "uri": "40jRakdcCSedRbHwrNbmLW"
+                },
+                {
+                    "artist": "C-Bo",
+                    "title": "Murder One (feat. BG Knockout & MC Eight)",
+                    "uri": "0YJSlF8TDGyVzZOzRZ7IaF"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Cold World Hustlers",
+                    "title": "415 Reasons",
+                    "uri": "3KmhezCMtVzGqJVpXgrs6s"
+                },
+                {
+                    "artist": "Cold World Hustlers",
+                    "title": "415 Reasons",
+                    "uri": "720XbH0QXqMfXHasqeMYRx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cold World Hustlers",
+                    "title": "415 Reasons",
+                    "uri": "3KmhezCMtVzGqJVpXgrs6s"
+                },
+                {
+                    "artist": "Eric Reprid",
+                    "title": "Cold World",
+                    "uri": "2zeuF5HInFWvvDGBwekGvD"
+                },
+                {
+                    "artist": "Brennan Savage",
+                    "title": "Cold World",
+                    "uri": "2v4TT618J9TLe6hmLwUTXj"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "t-low",
+                    "title": "Geh Allein",
+                    "uri": "4oqNPntVP6etEEhWDS0RPf"
+                },
+                {
+                    "artist": "t-low",
+                    "title": "sucht",
+                    "uri": "2BSC9M3S8LhoVvFlEYecN9"
+                },
+                {
+                    "artist": "t-low",
+                    "title": "K TATTOO",
+                    "uri": "1bWiYJGbgM0ZYG68HYMuyv"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Agerman",
+                    "title": "Fire",
+                    "uri": "0GoWih5y2B6YBN2SH78D9b"
+                },
+                {
+                    "artist": "Agerman",
+                    "title": "Fire",
+                    "uri": "4NcMEL6E8QP7qDOXLazBnA"
+                },
+                {
+                    "artist": "Agerman",
+                    "title": "Christ 4 Life",
+                    "uri": "6BeA5D9BUqGagOIo8kwmjJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ran-D",
+                    "title": "Armageddon",
+                    "uri": "1B0CqyND87WJzPIahEXGOv"
+                },
+                {
+                    "artist": "Alan Silvestri",
+                    "title": "Totally Fine",
+                    "uri": "10F9vRZJFsnB8KGesrzAPy"
+                },
+                {
+                    "artist": "Gamma Ray",
+                    "title": "Armageddon - Remastered",
+                    "uri": "3ox7WFAkfu9P8kHQP7dMcK"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Messy Marv",
+                    "title": "The Ice Down (Skit)",
+                    "uri": "0Ll2yuVLNEBnYRHdkimGa9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "DJ HBK RoseGold",
+                    "title": "Messy Nigga's",
+                    "uri": "3orixG0TDJFZKet1jhI4zB"
+                },
+                {
+                    "artist": "Messy the Man",
+                    "title": "No Rest for the Wicked",
+                    "uri": "6VO8vzAgtcsUnK2EEl7rYj"
+                },
+                {
+                    "artist": "Messy the Man",
+                    "title": "Harder They Fall",
+                    "uri": "3qD6vAnHPnAvEcsa68KXvD"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Poohman",
+                    "title": "The Hit",
+                    "uri": "63chVT8DHp9h0SeFNfVEzc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Alpha & Omega",
+                    "title": "Poorman Style",
+                    "uri": "5fwc75cA1G19tmmAn5RAw2"
+                },
+                {
+                    "artist": "Pooh Money Major",
+                    "title": "Bang Bang",
+                    "uri": "5ps9xQeyw67KKiCk5AHRHv"
+                },
+                {
+                    "artist": "Pooh Money Major",
+                    "title": "Took a Minus",
+                    "uri": "2jAHtQEZ310VhjXfi2LOQN"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nilsen",
+                    "title": "Teddybär - Radio TEDDY Remix",
+                    "uri": "36pSxaAnvDgfAeEz7bQ02a"
+                },
+                {
+                    "artist": "Eli Demir",
+                    "title": "Teddy Toddler",
+                    "uri": "5n2NlCI1zRcvPHTmiKSgds"
+                },
+                {
+                    "artist": "Mozart and Baby Friends",
+                    "title": "Sleepy Teddy Tunes for Restful Slumber",
+                    "uri": "0CDZxsQXz3hfE7lF0xjUz1"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Swertas",
+                    "title": "Here We Go Again",
+                    "uri": "52COlLZUzHFtBoM2F8LwCa"
+                },
+                {
+                    "artist": "Totally Enormous Extinct Dinosaurs",
+                    "title": "The Distance",
+                    "uri": "3MOUt4k7KUP8qVheHT8RG0"
+                },
+                {
+                    "artist": "Ev Wilde",
+                    "title": "Here We Go Again (feat. Shanice Griffin & David Ryan)",
+                    "uri": "4D5d2gz2XcnkubPLmM5ezl"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Kam",
+                    "title": "Givin' It Up",
+                    "uri": "5yWI0GbxeKaHdtXd7Hp7u7"
+                },
+                {
+                    "artist": "Kami Foxx",
+                    "title": "Givin' It Up",
+                    "uri": "0utFcMr1TdmwzLsf6IXIOb"
+                },
+                {
+                    "artist": "Kami Foxx",
+                    "title": "Givin' It Up - Extended Mix",
+                    "uri": "0J8lkjQjiLLuw9RLm5oshF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Vim Cortez",
+                    "title": "Givin' It Up - Edit",
+                    "uri": "171HDpiSlkWTYGp5oLsfsD"
+                },
+                {
+                    "artist": "VEME",
+                    "title": "Giving Up On",
+                    "uri": "0K7QrH2fT24KjcOKGrrdyX"
+                },
+                {
+                    "artist": "Kameron Marlowe",
+                    "title": "Giving You Up - Acoustic",
+                    "uri": "5NIGKX5at9iO87OyOHmoiV"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bloods & Crips",
+                    "title": "Bangin on Wax",
+                    "uri": "6sIY9HYHfskCi6My0SeuHd"
+                },
+                {
+                    "artist": "Bloods & Crips",
+                    "title": "Slob 187",
+                    "uri": "7vaNdiOzBcFR96DRM27FV8"
+                },
+                {
+                    "artist": "Malik Harris",
+                    "title": "Bangin' On My Drum",
+                    "uri": "0n6GRusqkUxWOMHJJLpq8P"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Rappin' 4-Tay",
+                    "title": "Do Your Thing (feat. V'launce Davis & Simon Smith)",
+                    "uri": "2GUuvXkbYuNDj9TKlsuk43"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rappin' 4-Tay",
+                    "title": "You Do Your Thang",
+                    "uri": "2K9ELeSVW4oXfLjvPuUzPr"
+                },
+                {
+                    "artist": "Rappin' 4-Tay",
+                    "title": "A Message For Your Mind",
+                    "uri": "4I2z2boU3rFaOqBpeKdsPE"
+                },
+                {
+                    "artist": "Rappin' 4-Tay",
+                    "title": "Playaz Club",
+                    "uri": "4ZYM6R5nOZywxACY90Bsla"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "San Quinn",
+                    "title": "Hitz I'm Making - STUDIO",
+                    "uri": "11fA3OLQncAGd5FZ9TMmq5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nickelback",
+                    "title": "San Quentin - Live from Starland Ballroom",
+                    "uri": "14crvdTnXcVa76SvJfaWhn"
+                },
+                {
+                    "artist": "Nickelback",
+                    "title": "San Quentin",
+                    "uri": "4Q9zJZBVJRGkiOWaZbEFIK"
+                },
+                {
+                    "artist": "Nickelback",
+                    "title": "San Quentin",
+                    "uri": "5snEv4pbxvt7nQI6sBnN4v"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "Black Dynasty",
+                    "title": "Wonder",
+                    "uri": "00p95osVIcjkQlgF0spWIl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nimo",
+                    "title": "Black Domina Day",
+                    "uri": "0LGrthfGM0buXfUrD0Xeex"
+                },
+                {
+                    "artist": "Dynazty",
+                    "title": "The Black",
+                    "uri": "1oAZZp31NpgMedmizH2k3H"
+                },
+                {
+                    "artist": "JVLIAH",
+                    "title": "Black Diamond",
+                    "uri": "2y4uALh6kU3nATtBru3Tvk"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Oh No",
+                    "title": "Welcome To Los Santos",
+                    "uri": "4cQoodud0csr4WVt5eNxFn"
+                },
+                {
+                    "artist": "Standart Skill",
+                    "title": "GTA",
+                    "uri": "6GEbjb4gBo13BZF7G2PuEZ"
+                },
+                {
+                    "artist": "Michael Hunter",
+                    "title": "Soviet Connection (Theme from GTA IV)",
+                    "uri": "4VWmybjnJ0Oh0PEkNaH2f8"
+                }
+            ]
+        },
+        "25": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lil Jon & The East Side Boyz",
+                    "title": "Get Low",
+                    "uri": "0r2Bul2NuCViraT2zX1l5j"
+                },
+                {
+                    "artist": "Lil Jon & The East Side Boyz",
+                    "title": "Get Low",
+                    "uri": "0jrz4ZQKCsC6h2vzqgHiEp"
+                },
+                {
+                    "artist": "Designer Disguise",
+                    "title": "Get Low - Extended",
+                    "uri": "3ESMwV34A2AB0qkrcVnXTZ"
+                }
+            ]
+        }
+    },
     "bfdm-6th-august-2018": {
         "00": {
             "s0": "",

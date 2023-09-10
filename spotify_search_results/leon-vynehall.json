@@ -1272,5 +1272,432 @@
                 }
             ]
         }
+    },
+    "leon-vynehall-5th-september-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "ghost orchard",
+                    "title": "bruise - Billy Lemos flip",
+                    "uri": "4Y2nQ86lLu36wPuDqKf6lU"
+                },
+                {
+                    "artist": "Billy Nomates",
+                    "title": "saboteur forcefield",
+                    "uri": "3jvtnqB9atmguttX4fZDMD"
+                },
+                {
+                    "artist": "Lylos",
+                    "title": "Billy",
+                    "uri": "2rm2TQhyB34XIKjfEa4DJ7"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tiwony",
+                    "title": "La Révolution",
+                    "uri": "61rzaIWxkKFJKzXMtTxG8m"
+                },
+                {
+                    "artist": "La Casa Azul",
+                    "title": "La Revolución Sexual",
+                    "uri": "5zHvsFZoCzLmhbRbYDkg42"
+                },
+                {
+                    "artist": "Saycet",
+                    "title": "La révolution - Main Theme",
+                    "uri": "0vjbTsBPvAxJYl3RqXOLWl"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "HARDSTYLE WE GO GYM",
+                    "title": "Reload (Hardstyle)",
+                    "uri": "1w2r3CMtE4ch6p8zMqiGL8"
+                },
+                {
+                    "artist": "Luca Testa",
+                    "title": "Reload - Hardstyle Remix",
+                    "uri": "4IMVM78Hp9PscaTSVTgPy7"
+                },
+                {
+                    "artist": "Ennja",
+                    "title": "Reload",
+                    "uri": "4WPpPXTHgu47wr2VEtKO6f"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "BOA",
+                    "title": "BOA - Mosca's Constricted Version",
+                    "uri": "7xldPNGuvOAAx6l1qPnffJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "La Mosca Tse-Tse",
+                    "title": "Te Quiero Comer La Boca",
+                    "uri": "6Y5k0NupErwLzOQXDxfVFa"
+                },
+                {
+                    "artist": "BoA",
+                    "title": "Forgive Me",
+                    "uri": "4TXo3KpvdwHSdrPJlWDfgn"
+                },
+                {
+                    "artist": "BoA",
+                    "title": "MASAYUME CHASING",
+                    "uri": "3Hg898AnfapEcgRwa4PT9L"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Beck",
+                    "title": "Cellphone's Dead",
+                    "uri": "3KMWH9HSB8ALRI4NuaIQNK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Beck",
+                    "title": "Cellphone's Dead",
+                    "uri": "3KMWH9HSB8ALRI4NuaIQNK"
+                },
+                {
+                    "artist": "Beck",
+                    "title": "Lost Cause",
+                    "uri": "29i8axWOLDmgbiutJb9prB"
+                },
+                {
+                    "artist": "Old Mervs",
+                    "title": "Cellphone",
+                    "uri": "3WGmlIrxn9JNX7uE4Ks1jG"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Natural Wonder Beauty Concept",
+                    "title": "The Veil I",
+                    "uri": "5CjocOEk24VVSCidMkemlb"
+                },
+                {
+                    "artist": "Natural Wonder Beauty Concept",
+                    "title": "The Veil II",
+                    "uri": "6DLHxbSJxktgB0TBzWQuPa"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Natural Wonder Beauty Concept",
+                    "title": "The Veil I",
+                    "uri": "5CjocOEk24VVSCidMkemlb"
+                },
+                {
+                    "artist": "Natural Wonder Beauty Concept",
+                    "title": "The Veil II",
+                    "uri": "6DLHxbSJxktgB0TBzWQuPa"
+                },
+                {
+                    "artist": "Natural Wonder Beauty Concept",
+                    "title": "Natural Wonder Beauty Concept",
+                    "uri": "6ABsQgxBbFvgSPSvxv4PgM"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Isaiah Rashad",
+                    "title": "Headshots (4r da Locals)",
+                    "uri": "0xta6Gah3inmeHbj0e3F9a"
+                },
+                {
+                    "artist": "Isaiah Rashad",
+                    "title": "Headshots (4r da Locals)",
+                    "uri": "3OmSlSu8GJqvFzLq4SZPRI"
+                },
+                {
+                    "artist": "Isaiah Rashad",
+                    "title": "Headshots (4r da Locals)",
+                    "uri": "2rFTRICumonxxZKxxfEu8R"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Isaiah Rashad",
+                    "title": "Headshots (4r da Locals)",
+                    "uri": "0xta6Gah3inmeHbj0e3F9a"
+                },
+                {
+                    "artist": "Isaiah Rashad",
+                    "title": "Headshots (4r da Locals)",
+                    "uri": "2rFTRICumonxxZKxxfEu8R"
+                },
+                {
+                    "artist": "Isaiah Rashad",
+                    "title": "Headshots (4r da Locals)",
+                    "uri": "3OmSlSu8GJqvFzLq4SZPRI"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Mandar",
+                    "title": "Antithetical Affirmation",
+                    "uri": "0rgjXRNvVhtF5lQfSSgiTY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mandar",
+                    "title": "Antithetical Affirmation",
+                    "uri": "0rgjXRNvVhtF5lQfSSgiTY"
+                },
+                {
+                    "artist": "Bukahara",
+                    "title": "Mandera - Live",
+                    "uri": "3Ihhm8kEuLkshoTgS0rCUe"
+                },
+                {
+                    "artist": "Alexo_DBS",
+                    "title": "Mandarin",
+                    "uri": "6VQTYb4pkFQ1XOfEBxpJn7"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Coral O'Connor",
+                    "title": "Disco Kanazawa",
+                    "uri": "0IP7jZBIMN8QOhld1u1dG9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mwuah",
+                    "title": "Coral",
+                    "uri": "55RpiZ4sQaEEbcGAOukL3S"
+                },
+                {
+                    "artist": "Ananta",
+                    "title": "Coral",
+                    "uri": "7jHyMwv86JfAoBgALjZbwM"
+                },
+                {
+                    "artist": "The Distillers",
+                    "title": "Coral Fang",
+                    "uri": "1hqVh8yKX1BxFxX9732UUJ"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Maceo Plex",
+                    "title": "Solitary Daze",
+                    "uri": "7vqcDtNvoJn5pXhktc8qe8"
+                },
+                {
+                    "artist": "Gabriel Ananda",
+                    "title": "Solitary Daze",
+                    "uri": "7vVsRUOFWmT0bNwo4AIJjx"
+                },
+                {
+                    "artist": "Future",
+                    "title": "Solitaires (feat. Travis Scott)",
+                    "uri": "4kfeRwpq5KUaqTkgi4TbDF"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Designer Loops",
+                    "title": "I Believe - Original Mix",
+                    "uri": "0QIgyxaw4E2lJynpB5Gyxq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lostboi Lino",
+                    "title": "Designer",
+                    "uri": "4iOYDt91mBArgLnGMm1dHd"
+                },
+                {
+                    "artist": "MARIA Die RUHE",
+                    "title": "Designer Love - Short Version",
+                    "uri": "5NfgFRdfNQ4HFVPGRoVMU6"
+                },
+                {
+                    "artist": "Designer Disguise",
+                    "title": "Get Low - Extended",
+                    "uri": "3ESMwV34A2AB0qkrcVnXTZ"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Ron Morelli",
+                    "title": "House Music Revenge",
+                    "uri": "28G1zyQTnCDsjN71OhjHx3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ron Morelli",
+                    "title": "House Music Revenge",
+                    "uri": "28G1zyQTnCDsjN71OhjHx3"
+                },
+                {
+                    "artist": "Ron Morelli",
+                    "title": "Tangled Trap Of Love",
+                    "uri": "5C8BiS5Z0JnmsBozaSe1Di"
+                },
+                {
+                    "artist": "Ron Morelli",
+                    "title": "Time Stands Still",
+                    "uri": "5tY0yyq51XwzAYOEbtdEfM"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Matt Jam Lamont",
+                    "title": "Comeback - Oppidan Remix",
+                    "uri": "06cvvDKG9LjJuw1Rq58dO2"
+                },
+                {
+                    "artist": "Matt Jam Lamont",
+                    "title": "Comeback",
+                    "uri": "6Y0giekHpAUJRMVgZXMrMH"
+                },
+                {
+                    "artist": "Matt Jam Lamont",
+                    "title": "Comeback - Oppidan Remix",
+                    "uri": "7eMfnYPM8dAHm4usBndjhg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Matt Jam Lamont",
+                    "title": "Haribo",
+                    "uri": "45wsXcGKtFzlxGPn1piial"
+                },
+                {
+                    "artist": "Matt Johnson",
+                    "title": "Rest Of My Life",
+                    "uri": "4koLDLgkBcSKNPjZReFpqU"
+                },
+                {
+                    "artist": "Matt Lament",
+                    "title": "M.P.H.",
+                    "uri": "2avEQY46rUepVvTKj6jJ0r"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "SP:MC",
+                    "title": "Missing You",
+                    "uri": "1PQrlJodAkRqBSszes9gmZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "SP:MC",
+                    "title": "Missing You",
+                    "uri": "1PQrlJodAkRqBSszes9gmZ"
+                },
+                {
+                    "artist": "Aeyes Libe",
+                    "title": "Missing You",
+                    "uri": "5zj5thfMd7zGlgMGIBbLag"
+                },
+                {
+                    "artist": "TWICE",
+                    "title": "Missing U",
+                    "uri": "533SwLFNhqFUo4Ae6sByFe"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "GAZZI",
+                    "title": "no pasa nada",
+                    "uri": "2TzCDf2EwNUYExReOUiiBZ"
+                },
+                {
+                    "artist": "GAZZI",
+                    "title": "inténtalo",
+                    "uri": "011o2Gk4N4uFgJdLI7en2c"
+                },
+                {
+                    "artist": "La Femme",
+                    "title": "No pasa nada",
+                    "uri": "3HQH8zMayirYiM556CRSiA"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Stonebourne",
+                    "title": "Argue",
+                    "uri": "7GLoVXqzkh8QctZ3bnbpYl"
+                },
+                {
+                    "artist": "Stone Broken",
+                    "title": "Black Sunrise",
+                    "uri": "5hyi3yYMNJyf668g1deKQS"
+                },
+                {
+                    "artist": "Stone Broken",
+                    "title": "Wait For You",
+                    "uri": "2ROFl0dzJ4yiCkHpt3xfEF"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Gaslight Anthem",
+                    "title": "Mulholland Drive",
+                    "uri": "3wZ80omW9yIwtSebDYYGBh"
+                },
+                {
+                    "artist": "LESKY",
+                    "title": "Mulholland Drive",
+                    "uri": "57gfGCAZMdVkwxcHNQrar4"
+                },
+                {
+                    "artist": "Alcemist",
+                    "title": "Stars On The Roof (feat. MoMo)",
+                    "uri": "354Cv7huFJnlEdVAHvhH3Q"
+                }
+            ]
+        }
     }
 }

@@ -5776,6 +5776,91 @@
             ]
         }
     },
+    "literaryfriction-6th-september-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Bobby Oroza",
+                    "title": "My Place, My Time",
+                    "uri": "5N9JbYHH2kgvj2nilv8aua"
+                },
+                {
+                    "artist": "Bobby Oroza",
+                    "title": "My Place, My Time (Instrumental)",
+                    "uri": "4J2ALo37k3M2Irqvqd0KPj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bobby Oroza",
+                    "title": "My Place, My Time",
+                    "uri": "5N9JbYHH2kgvj2nilv8aua"
+                },
+                {
+                    "artist": "Bobby Oroza",
+                    "title": "Bobby’s New Mood",
+                    "uri": "6ZUB0jyroOQ9iUSXi0LUcu"
+                },
+                {
+                    "artist": "Bobby Oroza",
+                    "title": "The Otherside",
+                    "uri": "7dXYHyEg7TdcnbwcG3R0xG"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Alex Ho",
+                    "title": "Neary",
+                    "uri": "4EO2r5nH2CalNUyutfumPm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Alex Ho",
+                    "title": "Neary",
+                    "uri": "4EO2r5nH2CalNUyutfumPm"
+                },
+                {
+                    "artist": "Alex Hobson",
+                    "title": "Easy To Love",
+                    "uri": "79L6atwx7nxDC6c5XeWkvu"
+                },
+                {
+                    "artist": "Alex Hobson",
+                    "title": "What's the Rush",
+                    "uri": "5eEivBY3EnYuImy6KNNRnn"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Frazey Ford",
+                    "title": "Done",
+                    "uri": "0SBgqjWlmhPfz5HTl9yHp3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Frazey Ford",
+                    "title": "Done",
+                    "uri": "0SBgqjWlmhPfz5HTl9yHp3"
+                },
+                {
+                    "artist": "Frazey Ford",
+                    "title": "If You Gonna Go",
+                    "uri": "583hRFIZlkPCG4aQg1YXQi"
+                },
+                {
+                    "artist": "Frazey Ford",
+                    "title": "Blue Streak Mama",
+                    "uri": "7w2tQMwr2AXEVsLSok1yBc"
+                }
+            ]
+        }
+    },
     "literaryfriction-9th-august-2023": {
         "00": {
             "s0": "",

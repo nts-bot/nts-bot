@@ -114,6 +114,50 @@
             ]
         }
     },
+    "whits-giggles-10th-august-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "FKA twigs",
+                    "title": "Weak Spot",
+                    "uri": "2nGVWtDBkCEhziZdY2gOGY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "FKA twigs",
+                    "title": "Weak Spot",
+                    "uri": "2nGVWtDBkCEhziZdY2gOGY"
+                },
+                {
+                    "artist": "Näver",
+                    "title": "Twigs",
+                    "uri": "4mXIW02IV45ryBCq3HKDnU"
+                },
+                {
+                    "artist": "Twigg",
+                    "title": "Frágil",
+                    "uri": "2Ygnsm2Txaa5jZtAu0SyCp"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "ABRA",
+                    "title": "THINKING OF U",
+                    "uri": "48MJMlRCueTzPS8wcJxbv0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "ABRA",
+                    "title": "THINKING OF U",
+                    "uri": "48MJMlRCueTzPS8wcJxbv0"
+                }
+            ]
+        }
+    },
     "whits-giggles-19th-may-2022": {
         "00": {
             "s0": [
@@ -2243,6 +2287,65 @@
                     "artist": "TeeZone",
                     "title": "Greedy",
                     "uri": "6eh0TokxcTnfrun6e1i3GF"
+                }
+            ]
+        }
+    },
+    "whits-giggles-6th-september-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Slum Princess",
+                    "title": "Miss Me?",
+                    "uri": "7BgwPfoPnMPQEpvgguTbOF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Slum Princess",
+                    "title": "Miss Me?",
+                    "uri": "7BgwPfoPnMPQEpvgguTbOF"
+                },
+                {
+                    "artist": "Votabia",
+                    "title": "Miss Me - Slowed",
+                    "uri": "5LoHYwIGlslr379crbdeef"
+                },
+                {
+                    "artist": "Stray Kids",
+                    "title": "SLUMP - \"Tower of God\" ED",
+                    "uri": "7clTWebfXxZG2lQYe24luY"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Ojerime",
+                    "title": "Keep It Lo",
+                    "uri": "1rDQZor4MclkUhxkz4iNYn"
+                },
+                {
+                    "artist": "Ojerime",
+                    "title": "Keep It Lo",
+                    "uri": "3RBtnsOmltWgeRge3lQDjG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ojerime",
+                    "title": "Keep It Lo",
+                    "uri": "1rDQZor4MclkUhxkz4iNYn"
+                },
+                {
+                    "artist": "Ojerime",
+                    "title": "Keep It Lo",
+                    "uri": "3RBtnsOmltWgeRge3lQDjG"
+                },
+                {
+                    "artist": "DVN069",
+                    "title": "Keep It Moving",
+                    "uri": "675jrl6Y37yBb7WxP7A6JJ"
                 }
             ]
         }
