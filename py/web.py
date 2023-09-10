@@ -225,7 +225,7 @@ class webscraper:
                         else:
                             print(f". . . . . . .{episode[-5:]}", end="\r")
                     else:
-                        logging.info("href failed")
+                        logging.info("href failed (again)")
 
             # EPISODES META
 
