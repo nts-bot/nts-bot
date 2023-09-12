@@ -841,6 +841,411 @@
             ]
         }
     },
+    "dactylian-and-palo-santo-11th-september-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Edu Lobo",
+                    "title": "Ponteio",
+                    "uri": "3PsGlZaMR6W3luCmp3RgRc"
+                },
+                {
+                    "artist": "Edu Lobo",
+                    "title": "Zum-Zum",
+                    "uri": "4ApvuCjlZNe3RoIFoBX29y"
+                },
+                {
+                    "artist": "Edu Lobo",
+                    "title": "Terra do Nunca",
+                    "uri": "7ccMcBkYbGyEdXxQF85kGV"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Paulo Lucas",
+                    "title": "Cascata",
+                    "uri": "38QZjaaJwTLwEpSjF5nVXY"
+                },
+                {
+                    "artist": "Paulo Ricardo",
+                    "title": "Dois",
+                    "uri": "0VAtnVgXyVlQOtRLfzoQ62"
+                },
+                {
+                    "artist": "Paulo Roberto N S",
+                    "title": "Mexe Essa Raba",
+                    "uri": "2VPbRQ2jwcbBM0kE2NauDa"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tom & Dito",
+                    "title": "Não Peça Perdão",
+                    "uri": "2doMDtvktoK5WvSm2m5OGL"
+                },
+                {
+                    "artist": "Tom Diakité",
+                    "title": "Fala",
+                    "uri": "5X2nlhwLnyAhzsa3viWIoJ"
+                },
+                {
+                    "artist": "Tom e Leo",
+                    "title": "Domingão Nublado - Ao Vivo",
+                    "uri": "1KHQfyinDDxuXKzzHtmErL"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kris Kristofferson",
+                    "title": "The Pilgrim, Chapter 33",
+                    "uri": "6NayIkUhQX2HEixCmvbKvY"
+                },
+                {
+                    "artist": "Kris Kristofferson",
+                    "title": "Loving Arms",
+                    "uri": "2BR7FF7KdaL1ygxVJ39Iad"
+                },
+                {
+                    "artist": "Khris Rosas",
+                    "title": "Enloquecido",
+                    "uri": "5HNwzKfchO083MjaQFbBnA"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Paulinho Da Viola",
+                    "title": "Meu Mundo É Hoje (Eu Sou Assim)",
+                    "uri": "0y0fFz3nSXeub9pN2lTQCo"
+                },
+                {
+                    "artist": "Teuterekordz",
+                    "title": "Elisabeth",
+                    "uri": "5nhvDmqEI0f00E8hsV9Fbu"
+                },
+                {
+                    "artist": "Jubiläumscast Wien 2012",
+                    "title": "Ich gehör nur mir",
+                    "uri": "2sKicm6LdaK052AqRXPhMt"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Slavik",
+                    "title": "Top Top",
+                    "uri": "6QQ6x5L8Iow76TeDQ1j67Z"
+                },
+                {
+                    "artist": "Tushar Jha",
+                    "title": "Tip Top",
+                    "uri": "0sAOG3W85ZzVGP6TzcufWs"
+                },
+                {
+                    "artist": "Stray Kids",
+                    "title": "TOP - \"Tower of God\" OP",
+                    "uri": "4yosBfkEtlSLxH7n4PonsI"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Wilson Das Neves",
+                    "title": "Não Dá",
+                    "uri": "1awkt4PToK0nObKsIQYxtc"
+                },
+                {
+                    "artist": "Wilson Das Neves",
+                    "title": "Samba para o João",
+                    "uri": "2NU2BFgHWJ0MnqLDUeVDJY"
+                },
+                {
+                    "artist": "Wilson Das Neves",
+                    "title": "Se Me Chamar, Ô Sorte!",
+                    "uri": "0CbaCHAddjPeDbA7x5Y2xp"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Orlandivo",
+                    "title": "Ondo Anda a Meu Amor",
+                    "uri": "5TjvCcwV1zdiG3K201yOgR"
+                },
+                {
+                    "artist": "Orlandivo",
+                    "title": "Onde Anda O Meu Amor",
+                    "uri": "15py9tatpwM5za2NgLUVtE"
+                },
+                {
+                    "artist": "Orlandivo",
+                    "title": "Tudo Jóia",
+                    "uri": "6Ez4tWkvP4Aj99mRtSz4Gr"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Ed Lincoln",
+                    "title": "Se Ficar o Bicho Pega Se Ficar o Bicho Come (A.K.A Se Correr o Bicho Pega)",
+                    "uri": "0rvt1aSvaBCqLr1AaOqEZn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ed Lincoln",
+                    "title": "Cochise",
+                    "uri": "4wBcBzVbutUXKdR3I5XUd6"
+                },
+                {
+                    "artist": "Ed Lincoln",
+                    "title": "O Amor que eu Guardei",
+                    "uri": "6py0tB5jqzTvn6kAolpAH5"
+                },
+                {
+                    "artist": "Ed Lincoln",
+                    "title": "Um Samba Gostoso",
+                    "uri": "4n6whjEhlm2naYcnCfy1iL"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Baden Powell",
+                    "title": "Consolação",
+                    "uri": "71MwJIgTuiZeNWFSjdjmBh"
+                },
+                {
+                    "artist": "Joaquim Azevedo",
+                    "title": "Consilium",
+                    "uri": "5Yd5eQlc2x0ve3JCFSgoAQ"
+                },
+                {
+                    "artist": "Fabio Vee",
+                    "title": "Consolation",
+                    "uri": "5NzzWzh36BfpDFVhezrLLZ"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "John Manet",
+                    "title": "Diagonale",
+                    "uri": "6Xc5xZaMYSHIkPqaFCvw4s"
+                },
+                {
+                    "artist": "Stan Getz",
+                    "title": "Samba Dees Days",
+                    "uri": "68ELKUCl9CkRx3gXpMfjzL"
+                },
+                {
+                    "artist": "YouNotUs",
+                    "title": "Samba",
+                    "uri": "0skgJbXMM4sPRwSKXvO2id"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Os Originais Do Samba",
+                    "title": "Canto Chorado",
+                    "uri": "5FZJuO5h2jaW08ajHYJIz0"
+                },
+                {
+                    "artist": "El RG Rogelio Garnica",
+                    "title": "La mimi",
+                    "uri": "6SCVDBk9Y4EyJMpFb5vyO4"
+                },
+                {
+                    "artist": "El RG Rogelio Garnica",
+                    "title": "La furia",
+                    "uri": "04aXY4rCZKztovhURCO1Zb"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Zé Renato",
+                    "title": "Um Caso Perdido",
+                    "uri": "4iRdzybP9SgiBqFrdRjVg6"
+                },
+                {
+                    "artist": "João Fênix",
+                    "title": "Toada",
+                    "uri": "11cJdrfChEI6a1Reeb9Amo"
+                },
+                {
+                    "artist": "Renato Borghetti",
+                    "title": "Milonga Para As Missões",
+                    "uri": "1IZ0tizP29RDttLwGEddR1"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Fred Rovella",
+                    "title": "Tarantella Napoletana",
+                    "uri": "01DNT4CRtOq5s85j7t29tE"
+                },
+                {
+                    "artist": "Fred Rovella",
+                    "title": "Come Prima",
+                    "uri": "6C2An9Xzd7AbtKr7yMr8et"
+                },
+                {
+                    "artist": "Fred Rovella",
+                    "title": "Al Di Lá",
+                    "uri": "5lrwCdH9aP87X9vr2tqTxE"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Toinho Melodia",
+                    "title": "Eu Mesmo",
+                    "uri": "5c1G4Y8CBJdyqwGWhahGMo"
+                },
+                {
+                    "artist": "Toinho Melodia",
+                    "title": "Eu Mesmo - Versão Dub",
+                    "uri": "3Ygd5N8TNMUACvRp7aL9MI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Toninho Ferreira",
+                    "title": "Tou Indo Embora (Minha Senhora)",
+                    "uri": "1vjCPSfOvvSIaeqVvqD0Gx"
+                },
+                {
+                    "artist": "Toinho & Forró Show",
+                    "title": "Jeito Bom",
+                    "uri": "43QIz8DD2CsVDj9br9rffH"
+                },
+                {
+                    "artist": "Toinho Piseiro",
+                    "title": "Minha Falta",
+                    "uri": "3ymXZzmtQH0izlq7RSjZO4"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Percussioney",
+                    "title": "Reggae Afro",
+                    "uri": "448gESUgb10kKtgZrbulm4"
+                },
+                {
+                    "artist": "TMX Official",
+                    "title": "Afro Ragga",
+                    "uri": "5jJqg5lrh7Ve9iirQyH6UC"
+                },
+                {
+                    "artist": "Bob Marley & The Wailers",
+                    "title": "Soul Rebel - Afrodisiac Soundsystem Remix",
+                    "uri": "3y0t6uVSWcHqT1pzBYH0V2"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Carlinhos Brown",
+                    "title": "Carlito Marron",
+                    "uri": "56Zo2NIzYJAWxlozHTwPxr"
+                },
+                {
+                    "artist": "Carlinhos Caiçara",
+                    "title": "Fica",
+                    "uri": "1P1nGDi4ayZy2iEGY7XXGp"
+                },
+                {
+                    "artist": "Carlinhos Caiçara",
+                    "title": "Eu me apaixonei",
+                    "uri": "64B7x4prKkXJlt9h1gvjE1"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Carlinhos Brown",
+                    "title": "Carlito Marron",
+                    "uri": "56Zo2NIzYJAWxlozHTwPxr"
+                },
+                {
+                    "artist": "Carlinhos Caiçara",
+                    "title": "Fica",
+                    "uri": "1P1nGDi4ayZy2iEGY7XXGp"
+                },
+                {
+                    "artist": "Carlinhos Conceição",
+                    "title": "Amai Vossos Inimigos",
+                    "uri": "7vpz6DalPIg5D4vfMvPCbs"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Toinho Melodia",
+                    "title": "Eu Mesmo - Versão Dub",
+                    "uri": "3Ygd5N8TNMUACvRp7aL9MI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Toinho Melodia",
+                    "title": "Eu Mesmo - Versão Dub",
+                    "uri": "3Ygd5N8TNMUACvRp7aL9MI"
+                },
+                {
+                    "artist": "Toinho & Forró Show",
+                    "title": "Tudo Demais É Veneno - Ao Vivo",
+                    "uri": "0fjH7BRoz6KbLexDqM6RN0"
+                },
+                {
+                    "artist": "Toinho & Forró Show",
+                    "title": "Jeito Bom",
+                    "uri": "43QIz8DD2CsVDj9br9rffH"
+                }
+            ]
+        }
+    },
     "dactylian-and-palo-santo-12th-september-2022": {
         "00": {
             "s0": "",

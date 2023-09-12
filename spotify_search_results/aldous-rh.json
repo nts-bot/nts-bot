@@ -3975,6 +3975,405 @@
             ]
         }
     },
+    "aldous-rh-11th-september-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Crackaveli",
+                    "title": "Finito",
+                    "uri": "0YstVXZWCaz9dsPPZNPiZ9"
+                },
+                {
+                    "artist": "Capkekz",
+                    "title": "Finito 2",
+                    "uri": "7xVYsxCqo0epM625dbKnke"
+                },
+                {
+                    "artist": "Dj Leska",
+                    "title": "Finito Pipo",
+                    "uri": "7jlNkQ3kUSLXAPtOUzzUGr"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "MUTSUMI",
+                    "title": "Hello Bored Biz Man",
+                    "uri": "2HWIYmEhddzxelmC53qXDM"
+                },
+                {
+                    "artist": "MUTSUMI",
+                    "title": "Hello Bored Biz Man (Maurice Fulton Instr)",
+                    "uri": "6mRCILGUfusAUXqvO7cxsQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "MUTSUMI",
+                    "title": "Hello Bored Biz Man",
+                    "uri": "2HWIYmEhddzxelmC53qXDM"
+                },
+                {
+                    "artist": "MUTSUMI",
+                    "title": "Hello Bored Biz Man (Maurice Fulton Instr)",
+                    "uri": "6mRCILGUfusAUXqvO7cxsQ"
+                },
+                {
+                    "artist": "MUTSUMI",
+                    "title": "Let's Get Sick",
+                    "uri": "5P7NUuI2yyLLHR4MaRBahC"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Karl Biscuit",
+                    "title": "Fatal Reverie",
+                    "uri": "7FEKWLPYLFwrLDoE0VuydI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fatal",
+                    "title": "Leben Hinterfragen",
+                    "uri": "43SWq1YxigckBWnHmQH49H"
+                },
+                {
+                    "artist": "Fatal & Rico",
+                    "title": "Keine Zeit",
+                    "uri": "1HpnAWP8X8mnaWccaBl6v8"
+                },
+                {
+                    "artist": "Lea Cristina",
+                    "title": "Fatal Recuerdo",
+                    "uri": "6lLJNK7cof65Wh9IkkEfO4"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Siniestro Total",
+                    "title": "Bailaré sobre tu tumba",
+                    "uri": "36PL1fiYUnX7pJQRY1qwVw"
+                },
+                {
+                    "artist": "Siniestro Total",
+                    "title": "Bailaré Sobre Tu Tumba",
+                    "uri": "6WDnwoDyxUW8aAV4tv1pHU"
+                },
+                {
+                    "artist": "Siniestro Total",
+                    "title": "Bailare Sobre Tu Tumba",
+                    "uri": "61TbVMpB8doectN6Sp2j83"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Siniestro Total",
+                    "title": "Bailaré sobre tu tumba",
+                    "uri": "36PL1fiYUnX7pJQRY1qwVw"
+                },
+                {
+                    "artist": "Siniestro Total",
+                    "title": "Bailare Sobre Tu Tumba",
+                    "uri": "61TbVMpB8doectN6Sp2j83"
+                },
+                {
+                    "artist": "Siniestro Total",
+                    "title": "Bailaré sobre tu tumba",
+                    "uri": "53VX6zYTIDEHRKROmQ4Rce"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Imagine Dragons",
+                    "title": "Friction",
+                    "uri": "4odGB283pgwsBUCYmjpXRq"
+                },
+                {
+                    "artist": "Friction",
+                    "title": "Into The Night",
+                    "uri": "60FYYWyVBHGWgVOEsQweuS"
+                },
+                {
+                    "artist": "Friction",
+                    "title": "Set Me Free",
+                    "uri": "3q2uX1BAjCiKmhEQiqWZTD"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DJ Koze",
+                    "title": "XTC",
+                    "uri": "1wYg1Ud13bBAJgKocnm73h"
+                },
+                {
+                    "artist": "Kiraw",
+                    "title": "XTC - slowed to perfection",
+                    "uri": "3KZgLEGyAzESQndoWIWkem"
+                },
+                {
+                    "artist": "Kiraw",
+                    "title": "XTC - sped up",
+                    "uri": "0kfx3xeINY6DCxV7Ev9OTC"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lena Platonos",
+                    "title": "Ki Akoume S' Agapo",
+                    "uri": "2uAVb19rMQGFGRL77v5Il7"
+                },
+                {
+                    "artist": "Lena Platonos",
+                    "title": "And We Hear \"I Love You\" - Ki Akoume «s' Agapo»",
+                    "uri": "2jRg8IoSF6PRuNKzkjt7p5"
+                },
+                {
+                    "artist": "Rena Koumioti",
+                    "title": "Agapiomastan",
+                    "uri": "4u9FNM45iLAWNSU38Xc1rr"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Paralisis Permanente",
+                    "title": "Autosuficiencia",
+                    "uri": "5p4QGTJiTFStnddffBS4bK"
+                },
+                {
+                    "artist": "Paralisis Permanente",
+                    "title": "Autosuficiencia",
+                    "uri": "62Uxz6QQKq0haIak2jlW7Q"
+                },
+                {
+                    "artist": "Paralisis Permanente",
+                    "title": "Autosuficiencia",
+                    "uri": "7j3r4JuvZRv8dZHQeUrOi0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Paralisis Permanente",
+                    "title": "Autosuficiencia",
+                    "uri": "5p4QGTJiTFStnddffBS4bK"
+                },
+                {
+                    "artist": "Paralisis Permanente",
+                    "title": "Autosuficiencia",
+                    "uri": "62Uxz6QQKq0haIak2jlW7Q"
+                },
+                {
+                    "artist": "Paralisis Permanente",
+                    "title": "Autosuficiencia - con Javier Benavente",
+                    "uri": "0MONEY3VRhORehlrpXaCOP"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": ""
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Doddodo",
+                    "title": "exciseise of mouth",
+                    "uri": "6TEtrldrVE0ddP4b3wYYEw"
+                },
+                {
+                    "artist": "Debordo Leekunfa",
+                    "title": "Do Do Do",
+                    "uri": "5wyf3C0w1PUynV1BwyCTp1"
+                },
+                {
+                    "artist": "Eva Grace",
+                    "title": "Goes Like (Do Do Do)",
+                    "uri": "2H3rryBWmx6frhSoEZimFB"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Sympathy Nervous",
+                    "title": "Inverted Type - Remastered",
+                    "uri": "4D9HfNIyD9XdY8xtm8vChh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Rolling Stones",
+                    "title": "Sympathy For The Devil",
+                    "uri": "75zMKn5euxQdlkZgu4P42J"
+                },
+                {
+                    "artist": "The Rolling Stones",
+                    "title": "Sympathy For The Devil - 50th Anniversary Edition",
+                    "uri": "1Ud6moTC0KyXMq1Oxfien0"
+                },
+                {
+                    "artist": "Motörhead",
+                    "title": "Sympathy For The Devil",
+                    "uri": "5Yql4ooghbDqwXIvCGXsdx"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pyrolator",
+                    "title": "Danger Cruising",
+                    "uri": "6f9XTpWP56nPrvNyulyk5B"
+                },
+                {
+                    "artist": "Pyrolator",
+                    "title": "Max",
+                    "uri": "0bofT51ANMOg4XI0wQCkm8"
+                },
+                {
+                    "artist": "Pyrolator",
+                    "title": "Die Geschichte vom heißgelaufenen Reißwolf",
+                    "uri": "43IfmRVRRqI4BX2UR2fe5i"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Eskorbuto",
+                    "title": "Mierda, Mierda, Mierda",
+                    "uri": "0meDExz1597KughOqVcVo0"
+                },
+                {
+                    "artist": "Eskorbuto",
+                    "title": "A la mierda el País Vasco (Zona especial norte)",
+                    "uri": "6VOrg0PVSvToWEPQFG1sFF"
+                },
+                {
+                    "artist": "Eskorbuto",
+                    "title": "Iros a la Mierda",
+                    "uri": "3W3V6k82SCo1Tu7USMDHtO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eskorbuto",
+                    "title": "Mierda, Mierda, Mierda",
+                    "uri": "0meDExz1597KughOqVcVo0"
+                },
+                {
+                    "artist": "Vilchezz",
+                    "title": "Eskorbuto - Original Mix",
+                    "uri": "3bw0Kvh97TsmA7DZGYtnXF"
+                },
+                {
+                    "artist": "Vilchezz",
+                    "title": "Eskorbuto - CAIVA Remix",
+                    "uri": "2TahbRM7FmrfqUpGVu8zi2"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lame",
+                    "title": "Almas Muertas",
+                    "uri": "3edcXOSV4eKqxVPNwmT0eS"
+                },
+                {
+                    "artist": "Las Almas Nuevas",
+                    "title": "Quiereme Corazon Quiereme",
+                    "uri": "0K38jgUjNNXz6AEgQneS6M"
+                },
+                {
+                    "artist": "Alma Meris",
+                    "title": "Seguro",
+                    "uri": "33jgsXDccgPQ6C4LLLPwhp"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Mausoleo",
+                    "title": "Detrás de un disfraz",
+                    "uri": "0ef4iGtyoWiND0p3LI8Exc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mausoleo",
+                    "title": "Verte ser",
+                    "uri": "3KCT1nBAI5xhEc0nqFatxv"
+                },
+                {
+                    "artist": "Grafi",
+                    "title": "Mausoleum",
+                    "uri": "2WiJCyUnifAyXk94bSCYyk"
+                },
+                {
+                    "artist": "Shadow of Intent",
+                    "title": "The Mausoleum of Liars",
+                    "uri": "3eoyfMJq07ZQSxwdYbq6Bu"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Unknown Detroit Female Group",
+                    "title": "Are You Ready? - Previously Unreleased Title",
+                    "uri": "7oFCWa38gfCnsSCRXmTQwt"
+                },
+                {
+                    "artist": "Unknown Detroit Female Group",
+                    "title": "Draw Me Nearer - Previously Unreleased Title",
+                    "uri": "7wx2tZZmeh9su0ugHp4KHa"
+                },
+                {
+                    "artist": "Unknown Detroit Male Group",
+                    "title": "I Must Tell Jesus - Previously Unreleased Title",
+                    "uri": "1j7wG33P29KOR7JXkWzTqN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Blksmiith",
+                    "title": "unknown - sped up",
+                    "uri": "1x0juMRWwFN514FItOiESU"
+                },
+                {
+                    "artist": "Unknown Mortal Orchestra",
+                    "title": "So Good At Being in Trouble",
+                    "uri": "2lwi35A2ym3FAmSlvOGnQp"
+                },
+                {
+                    "artist": "Unknown Mortal Orchestra",
+                    "title": "Necessary Evil",
+                    "uri": "4EZ2C0321dYtzKD0zEfsUy"
+                }
+            ]
+        }
+    },
     "aldous-rh-12th-january-2019": {
         "00": {
             "s0": [

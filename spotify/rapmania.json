@@ -1,4 +1,376 @@
 {
+    "rapmania-10th-september-2023": {
+        "00": {
+            "artist": "Oziris",
+            "ratio": 0,
+            "title": "Doux Leurres",
+            "trackid": "037TjwweHxMtHDNdGgHWEf"
+        },
+        "01": {
+            "artist": "Althea And Donna",
+            "ratio": 4,
+            "title": "Jah Rastafari - Remastered 2001",
+            "trackid": "6AwunqOdRD8wDgqzORe9Le"
+        },
+        "02": {
+            "artist": "กรองทอง ทัศนพันธ์",
+            "ratio": 3,
+            "title": "เซ่อก็รัก",
+            "trackid": "02v3pcpZRkvFApqG6OpIGh"
+        },
+        "03": {
+            "artist": "A.r.d.i.",
+            "ratio": 5,
+            "title": "I Am (Mixed)",
+            "trackid": "4Nnvq83FTlSmYD9Z8uKGFM"
+        },
+        "04": {
+            "artist": "Melody Gardot",
+            "ratio": 4,
+            "title": "Sweet Memory",
+            "trackid": "7uCYyqkND086wKanPTbBP0"
+        },
+        "05": {
+            "artist": "ณัฐ ยนตรรักษ์",
+            "ratio": 0,
+            "title": "หมากเกมนี้",
+            "trackid": "7aGBjDwvECg0IKHMsAw28w"
+        },
+        "06": {
+            "artist": "OPFuture",
+            "ratio": 3,
+            "title": "Joy Boy",
+            "trackid": "5h4ZiscJcML1iUMQ3QzTzB"
+        },
+        "07": {
+            "artist": "Cocoon",
+            "ratio": 5,
+            "title": "I Got You (feat Lola Marsh)",
+            "trackid": "2rmk4LsLFzVll7ceG3V2wq"
+        },
+        "08": {
+            "artist": "The Marvelettes",
+            "ratio": 4,
+            "title": "Playboy",
+            "trackid": "5jsxE1nDuRrEgN9gmbWWYS"
+        },
+        "09": {
+            "artist": "NVBR",
+            "ratio": 0,
+            "title": "Taco Truck x Radio (TikTok Edit) - Remix",
+            "trackid": "4O3P7SICo4DipmLOhCRRc1"
+        },
+        "10": {
+            "artist": "Craig Connelly",
+            "ratio": 4,
+            "title": "Phuket (ASOT 899) - UnKonscious Anthem",
+            "trackid": "3EzQ0RMxDMLeSfoYTantP1"
+        },
+        "11": {
+            "artist": "PAPAGUMP",
+            "ratio": 3,
+            "title": "พิษ...สวาท",
+            "trackid": "6VNP1fv0XM5Sp4uTILhkss"
+        },
+        "12": {
+            "artist": "Amazingblaze",
+            "ratio": 5,
+            "title": "Inner Fire",
+            "trackid": "2z1eTgub49WD8F7RWBO2Fg"
+        },
+        "13": {
+            "artist": "Blaiz Fayah",
+            "ratio": 0,
+            "title": "Bounce It",
+            "trackid": "5oZSRPzpGvymJQ2p3oxCW4"
+        },
+        "14": {
+            "artist": "O side mafia",
+            "ratio": 3,
+            "title": "Thai freestyle",
+            "trackid": "4hUioIZHcCvEgJM2wvIPjc"
+        },
+        "15": {
+            "artist": "Sharon Van Etten",
+            "ratio": 3,
+            "title": "Jupiter 4",
+            "trackid": "74n118P9h9Sz2AwDSc3f8N"
+        },
+        "16": {
+            "artist": "DABOYWAY",
+            "ratio": 9,
+            "title": "GANGSH!T - THAI REMIX",
+            "trackid": "6trVemhMxjun0bOkQIDlBC"
+        },
+        "17": {
+            "artist": "Cam'ron",
+            "ratio": 3,
+            "title": "Oh Boy",
+            "trackid": "62GKI6s5Em2ofFQZVaZXFz"
+        },
+        "18": {
+            "artist": "OG BOBBY",
+            "ratio": 9,
+            "title": "HYPE TRAIN - OG BOBBY",
+            "trackid": "6y0Zo7nuhVn3zyECFQDwBs"
+        },
+        "19": {
+            "artist": "MIKE",
+            "ratio": 4,
+            "title": "No Curse Lifted (rivers of love)",
+            "trackid": "46DeAcIDA5eXPBOVIcFmPM"
+        },
+        "20": {
+            "artist": "YOUNGCHIANG",
+            "ratio": 9,
+            "title": "เหมือนกับ Hip - Hop (Almost Hip - Hop)",
+            "trackid": "56fQBC33WS2gpkabXsTMoD"
+        },
+        "21": {
+            "artist": "CAIRO!",
+            "ratio": 0,
+            "title": "SMOKE!",
+            "trackid": "01lyKZYfn81AymaA3iYikR"
+        },
+        "22": {
+            "artist": "Realmatick",
+            "ratio": 0,
+            "title": "BLACK MAMBA",
+            "trackid": "5ppEKnylz7YPIe6weSoA4G"
+        },
+        "23": {
+            "artist": "Muse",
+            "ratio": 3,
+            "title": "Liberation",
+            "trackid": "3I0PsB3pr6PPyesjPIXjA9"
+        },
+        "24": {
+            "artist": "1MILL",
+            "ratio": 9,
+            "title": "ผมมันไม่ดี",
+            "trackid": "2eL4MYgC5l4176MPvApVYc"
+        },
+        "25": {
+            "artist": "J.B.O.",
+            "ratio": 4,
+            "title": "Hurra hurra die Schule brennt",
+            "trackid": "5nEe4hRXYACfx0GdmGZoGF"
+        },
+        "26": {
+            "artist": "2Pac",
+            "ratio": 3,
+            "title": "Niggaz Nature",
+            "trackid": "4R1NwdbLPEvKI6MaoLjN9S"
+        },
+        "27": {
+            "artist": "Younggu",
+            "ratio": 9,
+            "title": "44444 GUN BON DOI",
+            "trackid": "2mOr2WMMx20ISyqzhVIybK"
+        },
+        "28": {
+            "artist": "DJ T-Double E",
+            "ratio": 9,
+            "title": "WE MADE IT",
+            "trackid": "0Gy0FjLDzrrFj1HuWIf0l8"
+        },
+        "29": {
+            "artist": "Тото",
+            "ratio": 4,
+            "title": "Rastafaray",
+            "trackid": "4uaoXw3yy8RFDNioBf7ay7"
+        },
+        "30": {
+            "artist": "Jabair",
+            "ratio": 0,
+            "title": "Onda",
+            "trackid": "40mlD0CntWZVCG3ZFNfI7S"
+        },
+        "31": {
+            "artist": "Joey Boy",
+            "ratio": 3,
+            "title": "ร้ายก็รัก",
+            "trackid": "5CJuepjH9YXSQXNNXyjO8z"
+        },
+        "32": {
+            "artist": "Solveno",
+            "ratio": 3,
+            "title": "Bounce It on the Floor",
+            "trackid": "5XEWM9jmylPsUzbW5Roz2Q"
+        }
+    },
+    "rapmania-11th-september-2023": {
+        "00": {
+            "artist": "Frédéric Chopin",
+            "ratio": 0,
+            "title": "24 Préludes, Op. 28: 4. In E Minor - 1974 Recording",
+            "trackid": "2bgJtH1MgEV7CgaU3aDYAk"
+        },
+        "01": {
+            "artist": "So!YoON!",
+            "ratio": 9,
+            "title": "Fntsy (feat. Jvcki Wai)",
+            "trackid": "3hhRPce7mxuMg89VjCAsZJ"
+        },
+        "02": {
+            "artist": "Truedy",
+            "ratio": 9,
+            "title": "ALL KILL",
+            "trackid": "72sPwtPmGaJm03Ul7ktaLf"
+        },
+        "03": {
+            "artist": "Swervy",
+            "ratio": 9,
+            "title": "Mama Lisa",
+            "trackid": "3gWTuODmUUQde8KlgH5YrF"
+        },
+        "04": {
+            "artist": "Jvcki Wai",
+            "ratio": 9,
+            "title": "Go Back",
+            "trackid": "4WRzvrqXTdzpEB6KaO1Oqh"
+        },
+        "05": {
+            "artist": "LISA",
+            "ratio": 9,
+            "title": "MONEY",
+            "trackid": "7hU3IHwjX150XLoTVmjD0q"
+        },
+        "06": {
+            "artist": "Femol",
+            "ratio": 5,
+            "title": "Y2K.exe",
+            "trackid": "6a6cDSMcMGChTopFv5Mzu0"
+        },
+        "07": {
+            "artist": "baehyuni",
+            "ratio": 9,
+            "title": "제 ceremony",
+            "trackid": "3Qf6kPmGA0sSTwpowm9Qw6"
+        },
+        "08": {
+            "artist": "Luci Gang",
+            "ratio": 9,
+            "title": "MISSILE",
+            "trackid": "4n82BYsZxtMJh03Tbwcoe8"
+        },
+        "09": {
+            "artist": "Y2K92",
+            "ratio": 9,
+            "title": "Bi-elijah",
+            "trackid": "7ew0KJ2Z6d2wpoYFTriF8C"
+        },
+        "10": {
+            "artist": "HEIZE",
+            "ratio": 9,
+            "title": "클럽이라도 좀 가",
+            "trackid": "3XgKtyywo4NAsaFPGdCkSg"
+        },
+        "11": {
+            "artist": "Lil Cherry",
+            "ratio": 3,
+            "title": "MUKKBANG!",
+            "trackid": "1ytyN1DG9CmuZv5YeGxZjR"
+        },
+        "12": {
+            "artist": "Camo & Krooked",
+            "ratio": 3,
+            "title": "Good Times Bad Times",
+            "trackid": "44nRLXNwTmTIV7Zk7lRol5"
+        },
+        "13": {
+            "artist": "Lil Cherry",
+            "ratio": 9,
+            "title": "PYE LIFE",
+            "trackid": "575UVLiKt2Cpv4Nx5sLs9Q"
+        },
+        "14": {
+            "artist": "박혜진 Park Hye Jin",
+            "ratio": 3,
+            "title": "Like this",
+            "trackid": "7pY3HE16Ir4ZFTEOmosP57"
+        },
+        "15": {
+            "artist": "Liu Lee",
+            "ratio": 9,
+            "title": "Excuse Me",
+            "trackid": "4pKsnEYmRBgPr3H28yWdX3"
+        },
+        "16": {
+            "artist": "So!YoON!",
+            "ratio": 9,
+            "title": "Gave you all my love (feat. jibin of Y2K92)",
+            "trackid": "4ujNn5e87bUdpOjrmvZbz8"
+        },
+        "17": {
+            "artist": "DAMINI",
+            "ratio": 9,
+            "title": "ALONE",
+            "trackid": "2drjEMaFLN4oQwCxKiwVn2"
+        }
+    },
+    "rapmania-12th-september-2023": {
+        "00": {
+            "artist": "Azzi Memo",
+            "ratio": 3,
+            "title": "Check",
+            "trackid": "6MWdQzgxLAgRhnBPEZxG8s"
+        },
+        "01": {
+            "artist": "SamRecks",
+            "ratio": 5,
+            "title": "BACK PACK",
+            "trackid": "5WAMHyec9GXj0P4E1qnCJk"
+        },
+        "02": {
+            "artist": "Notch",
+            "ratio": 0,
+            "title": "Nuttin Nuh Go So",
+            "trackid": "2eKcAEvYtwcuK4zFcYdtX3"
+        },
+        "03": {
+            "artist": "azuki",
+            "ratio": 9,
+            "title": "Chi Town (Packs Flow)",
+            "trackid": "5Ob9V75E4O9gsgpsjqHP0I"
+        },
+        "04": {
+            "artist": "MAJ",
+            "ratio": 5,
+            "title": "Sloppy Seconds",
+            "trackid": "65hRTH6400D3pZRTGFn7bw"
+        },
+        "05": {
+            "artist": "azuki",
+            "ratio": 9,
+            "title": "Weekend",
+            "trackid": "7sCHkPSJeFVGzvHNIuiCS6"
+        },
+        "06": {
+            "artist": "Crowskin",
+            "ratio": 4,
+            "title": "Recycle Dich Selbst",
+            "trackid": "7vh2u4V1M3cYU8vVXG9fD3"
+        },
+        "07": {
+            "artist": "padlock ariké",
+            "ratio": 9,
+            "title": "ELMO",
+            "trackid": "5Uq2EInXF7nD9OfzFr2gSg"
+        },
+        "08": {
+            "artist": "azuki",
+            "ratio": 9,
+            "title": "Peace Out",
+            "trackid": "2w8oTYEjJmpIYHg8GapQk0"
+        },
+        "09": {
+            "artist": "VILLYY",
+            "ratio": 9,
+            "title": "SUP MATE",
+            "trackid": "6NFIlpM9pbGGsAEDU0Pz26"
+        }
+    },
     "rapmania-29th-august-2023": {
         "00": {
             "artist": "Crocadile",
@@ -894,6 +1266,152 @@
             "ratio": 9,
             "title": "Lieutenant",
             "trackid": "3tSRym9wIheImfMi0budC6"
+        }
+    },
+    "rapmania-7th-september-2023": {
+        "00": {
+            "artist": "Lala &ce",
+            "ratio": 9,
+            "title": "Parapluie - A COLORS SHOW",
+            "trackid": "7r7X523k0SGBTpQMmGeqEL"
+        },
+        "01": {
+            "artist": "HOUDI",
+            "ratio": 9,
+            "title": "SENSATION",
+            "trackid": "4u10hXkMIHWXQc7eSJM6ZN"
+        },
+        "02": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "03": {
+            "artist": "AleXZavesa",
+            "ratio": 4,
+            "title": "Mad Racer",
+            "trackid": "0c7mlflhdwZOvtW1MO9JCs"
+        },
+        "04": {
+            "artist": "J9ueve",
+            "ratio": 9,
+            "title": "ALRIGHT",
+            "trackid": "3HVz8qNT9yfPs6CqQEKKEe"
+        },
+        "05": {
+            "artist": "H.LA DROGUE",
+            "ratio": 9,
+            "title": "#horsérie2",
+            "trackid": "54d1Q1p8dsUcfCimbFnCD8"
+        },
+        "06": {
+            "artist": "Mad Rey",
+            "ratio": 4,
+            "title": "Never Know - Dub Mix",
+            "trackid": "6GCGcr0tmvHgn90CjwbMpX"
+        },
+        "07": {
+            "artist": "Jul",
+            "ratio": 9,
+            "title": "Flow mitraillette",
+            "trackid": "5jI7gQjONtUMq7tVVLdq4S"
+        },
+        "08": {
+            "artist": "Yassin",
+            "ratio": 9,
+            "title": "ONE KISS RMX",
+            "trackid": "38xId6NOrBneW3efDjkAyM"
+        },
+        "09": {
+            "artist": "Hamza",
+            "ratio": 9,
+            "title": "Nocif",
+            "trackid": "7FeWKPL2gj7xIRv5gyHejU"
+        },
+        "10": {
+            "artist": "Jeunesaint",
+            "ratio": 9,
+            "title": "Un Verre ou Deux",
+            "trackid": "0h7q2OhukXlVtbrtCHwE7Z"
+        },
+        "11": {
+            "artist": "Sasso",
+            "ratio": 9,
+            "title": "J'picole",
+            "trackid": "3DIYanBth8SOpko0IIB5CD"
+        },
+        "12": {
+            "artist": "Jul",
+            "ratio": 9,
+            "title": "La faille",
+            "trackid": "4F1fVi7f1h1fN4FrwoyWMa"
+        },
+        "13": {
+            "artist": "Sierra Kidd",
+            "ratio": 5,
+            "title": "MADE IN PAIN",
+            "trackid": "2WFlpXkItX2z8sGSjUQfqx"
+        },
+        "14": {
+            "artist": "Squidji",
+            "ratio": 9,
+            "title": "STRIPPER",
+            "trackid": "0947wHqNlYwNiNRhxM9bFt"
+        },
+        "15": {
+            "artist": "Stony Stone",
+            "ratio": 9,
+            "title": "Step #9 - Clio 2",
+            "trackid": "2vcUEiHGAMTPBQ5L7u0J1h"
+        },
+        "16": {
+            "artist": "Jwles",
+            "ratio": 9,
+            "title": "Shit & Choc",
+            "trackid": "2Y8iGlHQwQiOgu8Q9Jr9Ki"
+        },
+        "17": {
+            "artist": "Theodora",
+            "ratio": 9,
+            "title": "C TROP LA LOOSE </3",
+            "trackid": "4vB922lHaBk0Ct53K1C3Wf"
+        },
+        "18": {
+            "artist": "Malaka Hostel",
+            "ratio": 4,
+            "title": "Made for Living",
+            "trackid": "3hJtnF1nRi61XycLHgSfcw"
+        },
+        "19": {
+            "artist": "Jwles",
+            "ratio": 9,
+            "title": "Lamantin",
+            "trackid": "6jjTIibXmIfdKH0MdH6vqH"
+        },
+        "20": {
+            "artist": "Theodora",
+            "ratio": 4,
+            "title": "Le Paradis se trouve dans le 93 (LPSTD93)",
+            "trackid": "2ZNIlj2LV2QrREeDGe7bdr"
+        },
+        "21": {
+            "artist": "Stony Stone",
+            "ratio": 3,
+            "title": "HNINA (feat. Ghost Killer Track)",
+            "trackid": "7wTop5ElIt0HcZJpxCcxdX"
+        },
+        "22": {
+            "artist": "J9ueve",
+            "ratio": 9,
+            "title": "Sans toi",
+            "trackid": "5FpR9fuQCIeyMhZN6FUxU8"
+        },
+        "23": {
+            "artist": "Naps",
+            "ratio": 9,
+            "title": "La Maxance",
+            "trackid": "6yP8ZNACztmI2UfAfw9sQO"
         }
     },
     "rapmania-8th-september-2023": {
