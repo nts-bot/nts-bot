@@ -600,6 +600,152 @@
             ]
         }
     },
+    "organic-music-13th-september-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Muhal Richard Abrams",
+                    "title": "The Bird Song",
+                    "uri": "4XLYMknxfdo8LBayiKJg7w"
+                },
+                {
+                    "artist": "Muhal Richard Abrams",
+                    "title": "The Bird Song",
+                    "uri": "5tKLoHcEJF8fwqBYwd8HB1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Muhal Richard Abrams",
+                    "title": "Afrisong",
+                    "uri": "0kbyZSRE9WRnrqD06jtXAu"
+                },
+                {
+                    "artist": "Lene Lovich",
+                    "title": "Bird Song",
+                    "uri": "04BHT55FLKwNz1WWY7Tz1e"
+                },
+                {
+                    "artist": "Richard Ashcroft",
+                    "title": "A Song For The Lovers",
+                    "uri": "7a90gal9tr3yS8bEXUvu8D"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Harald Weiss",
+                    "title": "Trommelgeflüster 1",
+                    "uri": "3LSzif3UVEKTIFo0U8KrSt"
+                },
+                {
+                    "artist": "Harald Weiss",
+                    "title": "Trommelgeflüster 2",
+                    "uri": "1L75AwUzQec4nulMiZywhP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Trommel Rosy",
+                    "title": "Sali Bonani",
+                    "uri": "1zvsrR6z5KNcJXMU9t6g0S"
+                },
+                {
+                    "artist": "ENMA",
+                    "title": "Trommeln der Befreiung",
+                    "uri": "41tGPvL8KmkThV57zCKLW7"
+                },
+                {
+                    "artist": "Hans Glock",
+                    "title": "Trommels",
+                    "uri": "6aDqCxxfcz2d9Rxbjdg8DB"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Jack DeJohnette's Special Edition",
+                    "title": "The Gri Gri Man",
+                    "uri": "2C3zQoIB3KvQjgBkTufcQf"
+                },
+                {
+                    "artist": "Jack DeJohnette's Special Edition",
+                    "title": "The Gri Gri Man",
+                    "uri": "0DKvi0toEo4GGlGhZbCuZT"
+                },
+                {
+                    "artist": "Jack DeJohnette's Special Edition",
+                    "title": "The Gri Gri Man",
+                    "uri": "0RqgUMO7Ha4oYkBVj1jua8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jack DeJohnette's Special Edition",
+                    "title": "The Gri Gri Man",
+                    "uri": "2C3zQoIB3KvQjgBkTufcQf"
+                },
+                {
+                    "artist": "Keith Jarrett",
+                    "title": "Guess I'll Hang Out My Tears To Dry",
+                    "uri": "5g3O8EUyEr0nquFAUf3bPc"
+                },
+                {
+                    "artist": "Keith Jarrett",
+                    "title": "So Tender",
+                    "uri": "0Dt1B5dNfajRczQKZA87aL"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ingmar Stadelmann",
+                    "title": "Günther",
+                    "uri": "0VrOS779OLmknhn8pUOYBq"
+                },
+                {
+                    "artist": "Günter Grünwald",
+                    "title": "Probleme mit den Eltern",
+                    "uri": "6mwZi21eXQNWvqcFFVEqxP"
+                },
+                {
+                    "artist": "Günter Grünwald",
+                    "title": "Adoption",
+                    "uri": "41isbDKC7gMK9YeGa8BelP"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Somei Satoh",
+                    "title": "Emerald Tablet",
+                    "uri": "2YQnu1Se8XLZaWpeMy5URh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Somei Satoh",
+                    "title": "Emerald Tablet",
+                    "uri": "2YQnu1Se8XLZaWpeMy5URh"
+                },
+                {
+                    "artist": "Somei Satoh",
+                    "title": "Mandara",
+                    "uri": "0j72AX4GFO1gHAJoAJaZy7"
+                },
+                {
+                    "artist": "Sato",
+                    "title": "N04",
+                    "uri": "4eRRD7IAgepERtb9lg3RbH"
+                }
+            ]
+        }
+    },
     "organic-music-16th-august-2023": {
         "00": {
             "s0": "",
