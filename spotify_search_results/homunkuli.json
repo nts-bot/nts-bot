@@ -1,4 +1,541 @@
 {
+    "homunkuli-14th-september-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "France Gall",
+                    "title": "Poupée de cire, poupée de son",
+                    "uri": "5kLCC1MMxOACV632KrSAS3"
+                },
+                {
+                    "artist": "Creeds | Hardside",
+                    "title": "Poupée de son",
+                    "uri": "3zfsqk7iP3yBxelKKMBjYK"
+                },
+                {
+                    "artist": "Lujipeka",
+                    "title": "Poupée Russe",
+                    "uri": "08Wp4lUKmtyAgX6w9KhTeM"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "_tillus",
+                    "title": "dosed",
+                    "uri": "3XRb7D2J6jREwyVQhmd7NF"
+                },
+                {
+                    "artist": "Ferre Gola",
+                    "title": "Dose unique",
+                    "uri": "1mieNKaevRYCAvMUjSKFUN"
+                },
+                {
+                    "artist": "Kid Quill",
+                    "title": "Dose of Reality",
+                    "uri": "2HAP8pwQKrKIGjGiPYDZjE"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "France Gall",
+                    "title": "Poupée de cire, poupée de son",
+                    "uri": "5kLCC1MMxOACV632KrSAS3"
+                },
+                {
+                    "artist": "Creeds | Hardside",
+                    "title": "Poupée de son",
+                    "uri": "3zfsqk7iP3yBxelKKMBjYK"
+                },
+                {
+                    "artist": "Lujipeka",
+                    "title": "Poupée Russe",
+                    "uri": "08Wp4lUKmtyAgX6w9KhTeM"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Bomboto",
+                    "uri": "74sTNIvhRDyqvqWDr0WF0k"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Bomboto",
+                    "uri": "74sTNIvhRDyqvqWDr0WF0k"
+                },
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Sinaya",
+                    "uri": "4YwLmz2oWbAWDmiQqS9tC9"
+                },
+                {
+                    "artist": "Irie Maffia",
+                    "title": "Bomboklaat",
+                    "uri": "7dJhchgrqQtnI2r2yv9VZV"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Moscú Está Helado",
+                    "uri": "6RS6HGmctqx0qbzQwu6bHR"
+                },
+                {
+                    "artist": "A_A_RonHD",
+                    "title": "Electroman Adventures (From \"Geometry Dash\")",
+                    "uri": "2NUnm7Qq7bLWHHIkbZv5t9"
+                },
+                {
+                    "artist": "Ricchi E Poveri",
+                    "title": "Esplendida Velada",
+                    "uri": "0OAHPE8wbkHBzZSAtIyqW3"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gunna",
+                    "title": "3 Headed Snake (feat. Young Thug)",
+                    "uri": "2OaKHGvIxoOzIYjyMsxcT8"
+                },
+                {
+                    "artist": "Neutral Milk Hotel",
+                    "title": "Two-Headed Boy",
+                    "uri": "27AG99NmWMFLRoyZMMPNW2"
+                },
+                {
+                    "artist": "Coleman Hell",
+                    "title": "2 Heads",
+                    "uri": "32FX4D4eT8LFP07QvlhSn8"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Ensayo de Compresión",
+                    "uri": "226Js1HxdFWQgDdc7iDQel"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Muerte a Escala Industrial",
+                    "uri": "32jGQ7nOJ95t0lcQUyLtmM"
+                },
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Sinaya",
+                    "uri": "4YwLmz2oWbAWDmiQqS9tC9"
+                },
+                {
+                    "artist": "Conjunto Esplendor Norteño",
+                    "title": "Mi Sueño Hecho Realidad",
+                    "uri": "0G26hDWNYS8C8sY6An6RSv"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Cada Día Más",
+                    "uri": "1tEJGMCcYI7IQqlgPq4dq6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Moscú Está Helado",
+                    "uri": "6RS6HGmctqx0qbzQwu6bHR"
+                },
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Sinaya",
+                    "uri": "4YwLmz2oWbAWDmiQqS9tC9"
+                },
+                {
+                    "artist": "Conjunto Esplendor Norteño",
+                    "title": "Eres Tú",
+                    "uri": "63dmErp13hC21avVv6dnXl"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Metallum by Atom TM",
+                    "uri": "5vd3ZniNO7xLL7FOVT9kUT"
+                },
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Metallum - Atom TM Remix",
+                    "uri": "3jsMZFOLVpk0wveiEpiLpZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Moscú Está Helado",
+                    "uri": "6RS6HGmctqx0qbzQwu6bHR"
+                },
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Sinaya",
+                    "uri": "4YwLmz2oWbAWDmiQqS9tC9"
+                },
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Muerte a Escala Industrial",
+                    "uri": "32jGQ7nOJ95t0lcQUyLtmM"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Atom And His Package",
+                    "title": "Head (She's Just A)",
+                    "uri": "77F9Fqw6JwwO3YhdrCaxjs"
+                },
+                {
+                    "artist": "Jonathan Sharp",
+                    "title": "Time and Tide",
+                    "uri": "6Ntnj7WuqBItRMavYgsLma"
+                },
+                {
+                    "artist": "Atom And His Package",
+                    "title": "Head (Shes Just A)",
+                    "uri": "2EtzGgUSl3Wo7ggQ9CZHaT"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Michi Michi",
+                    "uri": "2ILH7EN7J2IP2iGgkMEpxG"
+                },
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Michi Michi",
+                    "uri": "5mFlVmjIq6JKfDwWsw2PLq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Moscú Está Helado",
+                    "uri": "6RS6HGmctqx0qbzQwu6bHR"
+                },
+                {
+                    "artist": "Ricchi E Poveri",
+                    "title": "Esplendida Velada",
+                    "uri": "0OAHPE8wbkHBzZSAtIyqW3"
+                },
+                {
+                    "artist": "Grupo Brissa",
+                    "title": "La Esplendorosa",
+                    "uri": "2zyIuxSoTHnqiOPE9j3uLi"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "CoolAm7",
+                    "title": "The Most Significant Bit Is You",
+                    "uri": "2q1ODuoksDACuQEPsxFDJc"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "France Gall",
+                    "title": "Poupée de cire, poupée de son",
+                    "uri": "5kLCC1MMxOACV632KrSAS3"
+                },
+                {
+                    "artist": "France Gall",
+                    "title": "Poupée de cire, poupée de son",
+                    "uri": "0e3LOEZR3NwbbHFGPYr3uQ"
+                },
+                {
+                    "artist": "Creeds | Hardside",
+                    "title": "Poupée de son",
+                    "uri": "3zfsqk7iP3yBxelKKMBjYK"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Codachrom",
+                    "title": "Star Cross",
+                    "uri": "38YCPWtuiMOOFUNPtDjcKi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Fratellis",
+                    "title": "Starcrossed Losers",
+                    "uri": "462awlSdAv4Vk9iTbqUgBh"
+                },
+                {
+                    "artist": "Josiah MacCartney",
+                    "title": "starcrossed girl",
+                    "uri": "6vZ8M2EPfQi6S8UEF9z02C"
+                },
+                {
+                    "artist": "Bill Brown",
+                    "title": "Crossroad at Dawn",
+                    "uri": "5rQx4Rhe1gey7FJSO5F4aV"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Belew",
+                    "uri": "4EHHcUxF0Pp0iXv9ZjGPQw"
+                },
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Belew",
+                    "uri": "0x9XP4H5ZMc5AzRM9Jebtq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Sinaya",
+                    "uri": "4YwLmz2oWbAWDmiQqS9tC9"
+                },
+                {
+                    "artist": "M83",
+                    "title": "Splendor",
+                    "uri": "17iTW9OVhmLLdC0Cco9eka"
+                },
+                {
+                    "artist": "Pink Martini",
+                    "title": "Splendor in the Grass",
+                    "uri": "3PfLaEnZ7rLjY0NBv2Y1qH"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "A La Escucha",
+                    "uri": "45cBUhTZqnm8rNqCqQDgzb"
+                },
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "A la Escucha",
+                    "uri": "5hpkPO2JVfIwr43GxpYstG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Moscú Está Helado",
+                    "uri": "6RS6HGmctqx0qbzQwu6bHR"
+                },
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Sinaya",
+                    "uri": "4YwLmz2oWbAWDmiQqS9tC9"
+                },
+                {
+                    "artist": "Ricchi E Poveri",
+                    "title": "Esplendida Velada",
+                    "uri": "0OAHPE8wbkHBzZSAtIyqW3"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Atlas-Y",
+                    "uri": "6Uism9kKQr74iDbqFH6kJX"
+                },
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Atlas-Y (Live 1989)",
+                    "uri": "6vuYwRudafHm7JABwPBUVj"
+                },
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Atlas y",
+                    "uri": "4OTVeHARkGwizwnF5AGofJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Atlas y",
+                    "uri": "4OTVeHARkGwizwnF5AGofJ"
+                },
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Moscú Está Helado",
+                    "uri": "6RS6HGmctqx0qbzQwu6bHR"
+                },
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Sinaya",
+                    "uri": "4YwLmz2oWbAWDmiQqS9tC9"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Dekatron",
+                    "title": "Instant Arithmetic",
+                    "uri": "2wbNyBlpLlk1NQ8DknlG4X"
+                },
+                {
+                    "artist": "Dekatron II",
+                    "title": "Mercury Relay-Instant Arithmetic-Titan Installation",
+                    "uri": "4UKL9wijjgz0hx8puNXt0W"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Deetron",
+                    "title": "Bright City Lights",
+                    "uri": "5UgzOTHyhEqBi0mC1GLIkh"
+                },
+                {
+                    "artist": "Gamma Ray",
+                    "title": "Dethrone Tyranny - Remastered",
+                    "uri": "3jPXnbdxziaxnkUeA8e5Cc"
+                },
+                {
+                    "artist": "Barren Gates",
+                    "title": "Dethroned",
+                    "uri": "0qm0sW5CC0yO5rdaJ9qPIZ"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Magneta Ripeto",
+                    "uri": "3Zyoo0ON0ukrynxJUUuPcJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Moscú Está Helado",
+                    "uri": "6RS6HGmctqx0qbzQwu6bHR"
+                },
+                {
+                    "artist": "Quantic",
+                    "title": "Magnetica",
+                    "uri": "2pR9lYypE2a1yEzUKx7JD5"
+                },
+                {
+                    "artist": "Ricchi E Poveri",
+                    "title": "Esplendida Velada",
+                    "uri": "0OAHPE8wbkHBzZSAtIyqW3"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Monika Kruse",
+                    "title": "Morgana",
+                    "uri": "61vVUI8xmM9K3CJ0XxqdQk"
+                },
+                {
+                    "artist": "Lord Of The Lost",
+                    "title": "Morgana",
+                    "uri": "2rJZL9xNBoiTr8ZCslaN22"
+                },
+                {
+                    "artist": "Morgana",
+                    "title": "Impact",
+                    "uri": "4PqUvq8OSLjjMInGYeOvL0"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Sinaya",
+                    "uri": "4YwLmz2oWbAWDmiQqS9tC9"
+                },
+                {
+                    "artist": "Pink Martini",
+                    "title": "Splendor in the Grass",
+                    "uri": "3PfLaEnZ7rLjY0NBv2Y1qH"
+                },
+                {
+                    "artist": "Ivano Pavesi",
+                    "title": "Splendore Di Venezia",
+                    "uri": "314gvbjo9TOrk56qwx7bg5"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Esplendor Geométrico",
+                    "title": "Sinaya",
+                    "uri": "4YwLmz2oWbAWDmiQqS9tC9"
+                },
+                {
+                    "artist": "Donatella Rettore",
+                    "title": "Splendido splendente",
+                    "uri": "6cTDaZELhhgPxzdPn5lruI"
+                },
+                {
+                    "artist": "Pink Martini",
+                    "title": "Splendor in the Grass",
+                    "uri": "3PfLaEnZ7rLjY0NBv2Y1qH"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": ""
+        }
+    },
     "homunkuli-20th-july-2023": {
         "00": {
             "s0": [

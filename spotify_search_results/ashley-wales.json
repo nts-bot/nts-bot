@@ -207,6 +207,106 @@
             ]
         }
     },
+    "ashley-wales-14th-september-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Igor Stravinsky",
+                    "title": "Stravinsky: Symphonies of Wind Instruments (1947 version)",
+                    "uri": "4igXgX9iI9dnVmmgi7Ynfy"
+                },
+                {
+                    "artist": "Igor Stravinsky",
+                    "title": "Stravinsky: Symphonies of Wind Instruments (1947 version)",
+                    "uri": "19MuY1REDk6sRMiCL6Nt5E"
+                },
+                {
+                    "artist": "Igor Stravinsky",
+                    "title": "Symphonies of Wind Instruments (1947 Version)",
+                    "uri": "4ENdDsIIy1Y41vixYyMD8K"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Igor Stravinsky",
+                    "title": "Symphonies for Wind Instruments",
+                    "uri": "6L09QmBKYI8VIDHqFdt4Mz"
+                },
+                {
+                    "artist": "Igor Stravinsky",
+                    "title": "Stravinsky: Symphonies of Wind Instruments",
+                    "uri": "5eX20ma4N9PkPhLiLBRMSu"
+                },
+                {
+                    "artist": "Igor Stravinsky",
+                    "title": "Symphonies of Wind Instruments - Live, 1947 Version",
+                    "uri": "3q14yVYuHa7MCLBFwAiFBR"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Donnacha Dennehy",
+                    "title": "Grá Agus Bás",
+                    "uri": "7cb72c78e2C1XZacy9ihIr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Donnacha Dennehy",
+                    "title": "O",
+                    "uri": "2OVva0fbB5TBtS1LyqbB8c"
+                },
+                {
+                    "artist": "Augustus Muller",
+                    "title": "Next Subject",
+                    "uri": "79o0aQEIShGTskcSVMmNIh"
+                },
+                {
+                    "artist": "Augustus Muller",
+                    "title": "Body as Machine",
+                    "uri": "0rBHRYqud68KqKQ0YP5aW5"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Roy Harris",
+                    "title": "Symphony No. 3",
+                    "uri": "0jGwOCAg0OU0GIW28f2Xlc"
+                },
+                {
+                    "artist": "Roy Harris",
+                    "title": "Symphony NO. 3",
+                    "uri": "1AS9Zu9mATEowR0ULs9cRW"
+                },
+                {
+                    "artist": "Roy Harris",
+                    "title": "Harris: Symphony No. 3: (Tragic - Lyrical - Pastoral - Fugue Dramatic - Dramatic Tragic)",
+                    "uri": "5We7AXF3WPDBjXuZ4pOzcH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Roy Harris",
+                    "title": "Harris: Symphony No. 3: (Tragic - Lyrical - Pastoral - Fugue Dramatic - Dramatic Tragic)",
+                    "uri": "5We7AXF3WPDBjXuZ4pOzcH"
+                },
+                {
+                    "artist": "Roy Hargrove",
+                    "title": "Ruby My Dear",
+                    "uri": "1czzmAtPTw287TyMQEfCfg"
+                },
+                {
+                    "artist": "Roy Hargrove",
+                    "title": "Strasbourg / St. Denis",
+                    "uri": "62VWmsNoDmqT0Mj9oHHFVh"
+                }
+            ]
+        }
+    },
     "ashley-wales-15th-september-2022": {
         "00": {
             "s0": "",
