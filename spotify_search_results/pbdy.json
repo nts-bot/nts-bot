@@ -1,4 +1,453 @@
 {
+    "pbdy-13th-september-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Column",
+                    "title": "A Year in Your Garden",
+                    "uri": "5Yv2Tu2Cded3FaiqPq8UIO"
+                },
+                {
+                    "artist": "Column",
+                    "title": "「The Art of Fun」 (Raj)",
+                    "uri": "2Sf4UeImpFj5Esa5ndsIqr"
+                },
+                {
+                    "artist": "Column",
+                    "title": "Aerolove",
+                    "uri": "6KmPMdbuxbTTklTKToXugN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Column",
+                    "title": "A Year in Your Garden",
+                    "uri": "5Yv2Tu2Cded3FaiqPq8UIO"
+                },
+                {
+                    "artist": "Column",
+                    "title": "「The Art of Fun」 (Raj)",
+                    "uri": "2Sf4UeImpFj5Esa5ndsIqr"
+                },
+                {
+                    "artist": "Basil Poledouris",
+                    "title": "Column of Sadness / Wheel of Pain",
+                    "uri": "7ynQUM3Kyua3iCPWK7CErl"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Autolux",
+                    "title": "The Bouncing Wall",
+                    "uri": "3AylMtWBIKvZIUPtbYulsp"
+                },
+                {
+                    "artist": "Autolux",
+                    "title": "The Bouncing Wall",
+                    "uri": "0N2QfFj7bULbOgcDdJSPfn"
+                },
+                {
+                    "artist": "Autolux",
+                    "title": "The Bouncing Wall",
+                    "uri": "59FKicfYdfevibUPX6h6z3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Autolux",
+                    "title": "Turnstile Blues",
+                    "uri": "1AhPF3fqcJklUGSjYNTQ9H"
+                },
+                {
+                    "artist": "Autolux",
+                    "title": "Sugarless",
+                    "uri": "54M2XssVMTLbj1xhFiJIhj"
+                },
+                {
+                    "artist": "Autolux",
+                    "title": "Becker",
+                    "uri": "1S6iWTZuTsc77mwYNaWGKq"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Broadcast",
+                    "title": "Living Room",
+                    "uri": "2YnDtndoHrtacH81T5bxfB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Broadcast",
+                    "title": "Living Room",
+                    "uri": "2YnDtndoHrtacH81T5bxfB"
+                },
+                {
+                    "artist": "Jhené Aiko",
+                    "title": "living room flow - Bonus",
+                    "uri": "4Li8dc3ucCesQJMKErU5zM"
+                },
+                {
+                    "artist": "Living Room",
+                    "title": "Glooming",
+                    "uri": "4S1gjv72PIP5QMfCRN4Y9N"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Hype Williams",
+                    "title": "Break4love",
+                    "uri": "5LRFjZ3lyfo7tlDAPuiL7V"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hype Williams",
+                    "title": "Break4love",
+                    "uri": "5LRFjZ3lyfo7tlDAPuiL7V"
+                },
+                {
+                    "artist": "Raze",
+                    "title": "Break 4 Love - Rob Made Disco Edit",
+                    "uri": "30oRPNefnSnXEBL2aOifIS"
+                },
+                {
+                    "artist": "Robin Schulz",
+                    "title": "Break for You",
+                    "uri": "03Q1beF0kuuTLbDgR48inf"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "White Magic",
+                    "title": "The Gypsies Came Marching After",
+                    "uri": "5CsP6mK2kFapZJjSLDENwN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "White Magic",
+                    "title": "The Gypsies Came Marching After",
+                    "uri": "5CsP6mK2kFapZJjSLDENwN"
+                },
+                {
+                    "artist": "Atli Örvarsson",
+                    "title": "White Magic",
+                    "uri": "5cBbUAntKaqWeqB2wFuBww"
+                },
+                {
+                    "artist": "Saint Vitus",
+                    "title": "White Magic/Black Magic",
+                    "uri": "3MFnMeC4sw77jnZAVRECOa"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Jessica Pratt",
+                    "title": "Strange Melody",
+                    "uri": "3jiR2hTq0Y9Rlyb3kBLnvz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jessica Pratt",
+                    "title": "Strange Melody",
+                    "uri": "3jiR2hTq0Y9Rlyb3kBLnvz"
+                },
+                {
+                    "artist": "Jessica Pratt",
+                    "title": "Poly Blue",
+                    "uri": "5ufSZDoTjoJBrOwx61CHor"
+                },
+                {
+                    "artist": "Jessica Pratt",
+                    "title": "Greycedes",
+                    "uri": "50ukPbQlU2nKMLwnnsxzwd"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Moondog",
+                    "title": "Bird's Lament",
+                    "uri": "1EuFHPoVGfyfEZBaYExK7v"
+                },
+                {
+                    "artist": "Louis Hardin",
+                    "title": "Lament I, \"Bird's Lament\" - Instrumental",
+                    "uri": "3y2KtKfFtZtWkPmvQ6tvek"
+                },
+                {
+                    "artist": "Moon Dog",
+                    "title": "Seat",
+                    "uri": "7K30wL2fXA9qxrTS9JR8Om"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sonic Youth",
+                    "title": "Teen Age Riot (Album Version)",
+                    "uri": "0WIbzDVEpmOyBnqqdtqIL9"
+                },
+                {
+                    "artist": "Sonic Youth",
+                    "title": "Incinerate",
+                    "uri": "6bGnkppjxJJY4HeOQ5dheD"
+                },
+                {
+                    "artist": "Sonic Youth",
+                    "title": "Mildred Pierce",
+                    "uri": "7yHKJKvbi5xfHj0QTWUdDT"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Woodsman",
+                    "title": "Hocus Pocus",
+                    "uri": "1B5dup1cLpwJznFXX2dlJe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Woodsman",
+                    "title": "dream river.",
+                    "uri": "1Gdcsjq1KpDyqaHvnBr7u1"
+                },
+                {
+                    "artist": "JC Flores",
+                    "title": "Hocus Pocus",
+                    "uri": "3DKYLLWPbKHv8aK0fJnDcp"
+                },
+                {
+                    "artist": "Inki Nici",
+                    "title": "Hokus Pokus",
+                    "uri": "5KJnTKn6jUxsXuQ0I3z7Ih"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Migos",
+                    "title": "Slippery (feat. Gucci Mane)",
+                    "uri": "0TBgMKD86t1VP3IzhxCoUl"
+                },
+                {
+                    "artist": "Amy Liz",
+                    "title": "Slippery Fish",
+                    "uri": "7toIqSTfa9Phsmu2hKwTyx"
+                },
+                {
+                    "artist": "Frost E Flake",
+                    "title": "Slippery",
+                    "uri": "27yb748xmfaX5jpKfcKbOe"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Stephen David Heitkotter",
+                    "title": "I Don't Mind",
+                    "uri": "2FX8Okct5XzTnvZv1SD4Ld"
+                },
+                {
+                    "artist": "Stephen David Heitkotter",
+                    "title": "I Don't Mind",
+                    "uri": "3qwurt28uCKjZAb23sZVkR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Stephen David Heitkotter",
+                    "title": "Cadillace Woman",
+                    "uri": "5xclmTzeow0AX0kjZaViM9"
+                },
+                {
+                    "artist": "Stephen Disario",
+                    "title": "Moving Heads",
+                    "uri": "5fpXSIuVpk9p8vbAe6mlco"
+                },
+                {
+                    "artist": "Steven David Fay",
+                    "title": "Some Strut",
+                    "uri": "3UUOtYLStk5PoZvV25iaHQ"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Asobi Seksu",
+                    "title": "Strings",
+                    "uri": "1JxCBvUuByrX8N1b9WytpL"
+                },
+                {
+                    "artist": "Asobi Seksu",
+                    "title": "Strings",
+                    "uri": "3glxYac8VCUXKImX0Zo5Iv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Asobi Seksu",
+                    "title": "Strings",
+                    "uri": "1JxCBvUuByrX8N1b9WytpL"
+                },
+                {
+                    "artist": "Asobi Seksu",
+                    "title": "Thursday",
+                    "uri": "6MC9eyZJiicT4tT2YOqf5d"
+                },
+                {
+                    "artist": "ASOBI同盟",
+                    "title": "誰も彼も何処も何も知らない",
+                    "uri": "4HXLOgMIVNTfiuWiMBoRa4"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Dungen",
+                    "title": "Skit I Allt",
+                    "uri": "7oeXZViXbtvs26oBBvtf3v"
+                },
+                {
+                    "artist": "Dungen",
+                    "title": "Skit I Allt",
+                    "uri": "5u7mAYIPf4babWSyVSvqJO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dungen",
+                    "title": "Skit I Allt",
+                    "uri": "7oeXZViXbtvs26oBBvtf3v"
+                },
+                {
+                    "artist": "Dungen",
+                    "title": "Aladdin och lampan, del 2",
+                    "uri": "1kgmvfVeryf8qbJUfNC5Fu"
+                },
+                {
+                    "artist": "Henrik Lindstrand",
+                    "title": "Dungen",
+                    "uri": "6pcmogPlEHPMasnzS4PRbA"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Liars",
+                    "title": "Proud Evolution",
+                    "uri": "7iM1zwamb0tom7x526ttFh"
+                },
+                {
+                    "artist": "Liars",
+                    "title": "Proud Evolution",
+                    "uri": "04Bg60O4tZERPLkw4vB4Gx"
+                },
+                {
+                    "artist": "Liars",
+                    "title": "Proud Evolution",
+                    "uri": "7zr6a5Ai4JkQeGzaoBkS4u"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hedex",
+                    "title": "Liars",
+                    "uri": "3OCaoefS1DjvXBDfgZVBzt"
+                },
+                {
+                    "artist": "Gregory Alan Isakov",
+                    "title": "Liars",
+                    "uri": "3c7XZaCvvdG2wjMF5SEcUY"
+                },
+                {
+                    "artist": "Coheed and Cambria",
+                    "title": "The Liars Club",
+                    "uri": "5N2kRCVevaX7V87akBBLs1"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Aimyon",
+                    "title": "愛を伝えたいだとか",
+                    "uri": "0N8Xztr4pBHJ7V0moJWhbO"
+                },
+                {
+                    "artist": "MUSASHI PROJECT",
+                    "title": "朝",
+                    "uri": "5qIkTyeeCxNRHlNoJEb0pT"
+                },
+                {
+                    "artist": "卿君",
+                    "title": "朝暮",
+                    "uri": "2YKdgIOS5G6eMw9uT1NLTb"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Tim Buckley",
+                    "title": "Chase the Blues Away",
+                    "uri": "24PCzyJtVO6EN1XbA8RQCX"
+                },
+                {
+                    "artist": "Tim Buckley",
+                    "title": "Chase the Blues Away - Take 3",
+                    "uri": "2juVvUjeSzfkPxcbniui3C"
+                },
+                {
+                    "artist": "Tim Buckley",
+                    "title": "Chase the Blues Away",
+                    "uri": "0O6vnHyQAKDbs9j7Nlpqw8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tim Buckley",
+                    "title": "Chase the Blues Away",
+                    "uri": "24PCzyJtVO6EN1XbA8RQCX"
+                },
+                {
+                    "artist": "Tim Buckley",
+                    "title": "Song to the Siren - Take 7",
+                    "uri": "5ckwOX7SVzt9OISbGkD299"
+                },
+                {
+                    "artist": "Tim Buckley",
+                    "title": "Phantasmagoria in Two",
+                    "uri": "1EfWxxlaLLiwnLS3ABr8vu"
+                }
+            ]
+        }
+    },
     "pbdy-17th-august-2022": {
         "00": {
             "s0": "",
