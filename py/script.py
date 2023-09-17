@@ -130,7 +130,6 @@ class nts:
                         second = True
                     if second:
                         _ = f"{show[:7]}{episode[:7]}. . . . .{list(ok).index(trdx)}:{len(list(ok))}."
-                        logging.info(_)
                         print(_, end="\r")
                         if kind == "search":
                             # 0 : TRACKLIST ; 1 : SEARCH
@@ -411,6 +410,7 @@ class nts:
         """ UPDATE UPLOADED EPISODES METADATA """
         utils.rnw_json(f"./uploaded/{show}", uploaded)
 
+    @utils.timeout(30.0)
     def subfollow(self, creds, pids, usr):
         user = creds[str(usr)]["user"]
         cid = creds[str(usr)]["cid"]
@@ -452,7 +452,6 @@ class nts:
 
         _ = f"{usr}: Following: {extent[0][0]} : {extent[-1][0]}"
         print(_)
-        logging.info(_)
         cn = False
         while not cn:
             try:

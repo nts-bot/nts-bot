@@ -110,7 +110,6 @@ def prerun(comparison_path):
     missing_eps = scene(missing_eps)
     if missing_eps:
         _ = f". . . . . . . . . . . . . . . .:{len(missing_eps)}."
-        logging.info(_)
         print(_, end="\r")
         boolean = True
     else:
@@ -132,7 +131,6 @@ def runscript(self, test, shows, short=True, retry=False):
 
     connection.connect()
     _ = {i: shows[i] for i in range(len(shows))}
-    logging.info(_)
     print(len(_))
 
     for i in range(len(shows)):
@@ -144,7 +142,6 @@ def runscript(self, test, shows, short=True, retry=False):
         if retry:
             webscrape.retryepisodes(show)
         _ = f"{str(show + '. . . . . . . . . . . . . . . . . . . . . . . .')[:50]}{i}/{len(shows)}"
-        logging.info(_)
         print(_)
 
         # SCRAPE / PRELIMINARY
