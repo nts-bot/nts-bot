@@ -56,7 +56,6 @@ if __name__ == "__main__":
     try:
         check()
         main(class_instance)
-        import_module("count")
         _git()
     except Exception as error:
         print("--------------\nCheck LOG file\n--------------")

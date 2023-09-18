@@ -1,9 +1,9 @@
 """
 
-Description: Follow
+Description: Weekly Tasks
 Authors: GAMM
-Version: 1
-Year: 2023-09-02
+Version: 2
+Year: 2023-09-18
 
 """
 
@@ -22,8 +22,11 @@ utils.logger(False)  # Start Log
 script = import_module("script")
 class_instance = script.nts()
 
-# .4 Follow
-try:
-    class_instance.follow()
-except:
-    logging.warning(traceback.format_exc())
+# .4 todo
+todo = ["counter", "privatise", "publicise", "follow"]
+
+for i in todo:
+    try:
+        eval(f"class_instance.{i}()")
+    except:
+        logging.warning(traceback.format_exc())

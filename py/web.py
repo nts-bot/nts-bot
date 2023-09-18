@@ -309,15 +309,12 @@ class webscraper:
                 not self.episodelist[episode]
                 and isinstance(self.episodelist[episode], dict)
             ) or (not self.meta[episode]):
-                logging.info(f"{episode[:7]}{episode[-7:]}")
+                logging.info(episode)
                 url = f"https://www.nts.live/shows/{show}/episodes/{episode}"
                 soup = bs(self.req(url).content, "html.parser")
                 if not self.episodelist[episode]:
-                    logging.info(f"{episode[:7]}{episode[-7:]}:soup")
-                    # try:
                     tracks = soup.select(".track")
                     for j in range(len(tracks)):
-                        logging.info(f"{episode[:7]}{episode[-7:]}:{j:02}")
                         try:
                             self.episodelist[episode][f"{j:02}"] = {
                                 "artist": f"{tracks[j].select('.track__artist')[0].get_text()}",
@@ -336,12 +333,12 @@ class webscraper:
                                     "title": f"{tracks[j].select('.track__title')[0].get_text()}",
                                 }
                     if not self.episodelist[episode]:
-                        logging.info(f"{episode[:7]}{episode[-7:]}:fail")
+                        logging.info("fail")
                         self.episodelist[episode] = {}  # NOTE: ""
                     else:
-                        logging.info(f"{episode[:7]}{episode[-7:]}:succ")
+                        logging.info("succ")
                 if not self.meta[episode]:
-                    logging.info(f"{episode[:7]}{episode[-7:]}:meta")
+                    logging.info("meta")
                     try:
                         bt = soup.select(".episode__btn")
                         date = bt[0]["data-episode-date"]

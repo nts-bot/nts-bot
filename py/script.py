@@ -4,6 +4,7 @@ import re
 import time
 import queue
 import urllib
+import pprint
 import logging
 import traceback
 import datetime as dt
@@ -32,6 +33,7 @@ connection = web.connection()
 class nts:
     def __init__(self):
         self.showlist = [i.split(".")[0] for i in os.listdir("./tracklist/")]
+        self.pid = utils.rnw_json("pid")
 
     # RUN SCRIPT
 
@@ -62,9 +64,8 @@ class nts:
     @utils.monitor
     def pid(self, show):
         """GET/CREATE SHOW PLAYLIST ID"""
-        pid = utils.rnw_json("pid")
         try:
-            shelf = pid[show]
+            shelf = self.pid[show]
             return shelf
         except KeyError:  # new show
             #
@@ -87,8 +88,8 @@ class nts:
                 public=True,
                 description=f"(https://www.nts.live/shows/{show})",
             )
-            pid[show] = ref["id"]
-            utils.rnw_json("pid", pid)
+            self.pid[show] = ref["id"]
+            utils.rnw_json("pid", self.pid)
             try:  # FIXME
                 connection.sp.playlist_upload_cover_image(ref["id"], b64_string)
             except:
@@ -394,8 +395,6 @@ class nts:
                 else:
                     reduced_title = _title
 
-        # logging.info(reduced_title)
-
         """ UPDATE SPOTIFY PLAYLIST DETAILS """
         x_test = connection.sp.user_playlist_change_details(
             connection.user, pid, name=f"{title} - NTS", description=f"{syn}"
@@ -411,7 +410,9 @@ class nts:
         utils.rnw_json(f"./uploaded/{show}", uploaded)
 
     @utils.timeout(30.0)
-    def subfollow(self, creds, pids, usr):
+    def subfollow(self, creds, usr):
+        if str(usr) not in creds:
+            return None
         user = creds[str(usr)]["user"]
         cid = creds[str(usr)]["cid"]
         secret = creds[str(usr)]["secret"]
@@ -456,10 +457,10 @@ class nts:
         while not cn:
             try:
                 for i in extent[::-1]:
-                    if i in pids:
+                    if i in self.pid:
                         print(f"{usr}: {i[:20]}", end="\r")
                         playlist_owner_id = "31yeoenly5iu5pvoatmuvt7i7ksy"
-                        playlist_id = pids[i]
+                        playlist_id = self.pid[i]
                         if playlist_id:
                             spot.user_playlist_follow_playlist(
                                 playlist_owner_id, playlist_id
@@ -473,19 +474,129 @@ class nts:
                 logging.warning(traceback.format_exc())
 
         del creds[str(usr)]
-        # u = []
-        # for i in creds:
-        #     u += [creds[i]['user']]
-        # spot.user_follow_users(u)
 
     def follow(self, kind="cre"):
         """SECONDARY SPOTIFY USERS WHO MAINTAIN ALPHABETICALLY ORGANIZED PLAYLISTS BELOW SPOTIFY (VISIBLE) PUBLIC PLAYLIST LIMIT (200)"""
-        pids = utils.rnw_json("pid")
         creds = utils.rnw_json(f"{kind}dentials")
         usrcall = round(len(self.showlist) / 200 + 0.4999)
         _ = range(1, usrcall + 1)
-        f = {f"subfollow_{c}": self.subfollow for c in _}
-        p = {f"subfollow_{c}": [creds, pids, c] for c in _}
+        ranger = [i for i in range(usrcall + 1)]
+        self.parallel(self.subfollow, ranger, [creds, ranger])
+
+    @staticmethod
+    def subwings(pid):
+        connection.connect()
+        return connection.sp.playlist(pid)["followers"]["total"]
+
+    def wings(self):
+        self.parallel(self.subwers, list(self.pid))
+
+    @staticmethod
+    def subprivatise(pid, b):
+        connection.connect()
+        return connection.sp.playlist_change_details(pid, public=b)
+
+    def privatise(self):
+        self.parallel(self.subprivatise, list(self.pid), [False])
+
+    def publicise(self):
+        keys = list(self.pid)
+        r = range(len(keys))
+        d = dict()
+        o = 0
+        k = []
+        self.wings()
+        for c in r:
+            d[keys[c]] = eval(f"utils.subw{c}")
+        most = {k: v for k, v in sorted(d.items(), key=lambda item: item[1])[::-1]}
+        for i in most:
+            o += 1
+            if o > 200:
+                break
+            else:
+                k += [i]
+        self.parallel(self.subprivatise, k, [True])
+
+    def subcounter(self):
+        track_d = dict()
+        artist_d = dict()
+        l = list()
+
+        bad = [
+            "unknown",
+            "unknown artist",
+            "untitled",
+            "????",
+            "???",
+            "?",
+            "??",
+            "n/a",
+            "artist unknown",
+            "unreleased",
+            "intro",
+            "guest mix",
+        ]
+
+        for i in self.showlist:
+            t = utils.rnw_json(f"./tracklist/{i}")
+            for j in t:
+                for k in t[j]:
+                    a = (
+                        t[j][k]["artist"]
+                        .replace(",", "")
+                        .replace("'", "")
+                        .replace('"', "")
+                        .strip()
+                    )
+                    r = (
+                        t[j][k]["title"]
+                        .replace(",", "")
+                        .replace("'", "")
+                        .replace('"', "")
+                        .strip()
+                    )
+                    if not ((a.lower() in bad) or (r.lower() in bad)):
+                        info1 = f"{i} -- {a} -- {r}"
+                        info2 = f"{i} -- {r} -- {a}"
+                        track = f"{a} -- {r}"
+                        if any(i not in l for i in [info1, info2]):
+                            if track not in track_d:
+                                track_d[track] = 1
+                            else:
+                                track_d[track] += 1
+                        else:
+                            pass
+                            # track_d[track] += 1
+                        if f"{r}" in artist_d:
+                            artist_d[f"{r}"] += 1
+                        elif f"{a}" not in artist_d:
+                            artist_d[f"{a}"] = 1
+                        else:
+                            artist_d[f"{a}"] += 1
+                        l += [info1, info2]
+        return track_d, artist_d
+
+    @staticmethod
+    def cleaners_from_venus(dic, amount):
+        c = dict(
+            [i for i in sorted(dic.items(), key=lambda item: item[1])[::-1][:amount]]
+        )
+        a = pprint.pformat(c, sort_dicts=False).split("\n")
+        for i in range(len(a)):
+            a[i] = f"{i+1:03}. {a[i].replace('{','').replace('}','')}"
+        return "\n".join(a)
+
+    def counter(self):
+        track_d, artist_d = self.subcounter()
+        utils.rnw_json("./most_played_tracks", self.cleaners_from_venus(track_d, 200))
+        utils.rnw_json("./most_played_artists", self.cleaners_from_venus(artist_d, 100))
+
+    @staticmethod
+    def parallel(function, ranger, kwargs=[]):
+        r = range(len(ranger))
+        anem = str(function).split(" ")[1].split(".")[-1][:4]
+        f = {f"{anem}_{c}": function for c in r}
+        p = {f"{anem}_{c}": [ranger[c], *kwargs] for c in r}
         utils.parallel_process(f, p)
 
     # SPOTIFY API SEARCH FUNCTIONS
@@ -563,9 +674,8 @@ class nts:
             try:
                 c += 1
                 return urllib.request.urlopen(request).read()
-                repeat = False
             except:
-                logging.info(f"{c}$")
+                logging.debug(f"{c}$")
                 time.sleep(1.0)
 
     def mt_spotifysearch(self, showson, multiple):
@@ -732,7 +842,7 @@ class multithread:
                         selbst.t.double += [taskid]
                     c = len(selbst.t.keys) - selbst.t.count
                     if (c % 10 == 0) or (c < 50):
-                        logging.info(f"{c}.")
+                        logging.debug(f"{c}.")
                     selbst.queue.task_done()
 
             @utils.timeout(5.0)
@@ -805,5 +915,5 @@ class multithread:
         c = 0
         for taskid in keys:
             c += 1
-            logging.info(f".{c}:{len(keys)}.")
+            logging.debug(f".{c}:{len(keys)}.")
             self.task(taskid)
