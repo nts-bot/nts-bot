@@ -859,6 +859,524 @@
             ]
         }
     },
+    "ouri-18th-september-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Underworld",
+                    "title": "Shudder / King Of Snake",
+                    "uri": "7LMlABN7q53QvOxEmmjDFZ"
+                },
+                {
+                    "artist": "Underworld",
+                    "title": "Shudder / King Of Snake",
+                    "uri": "4HaVLNQgCg6zbwqCHiqvzN"
+                },
+                {
+                    "artist": "Underworld",
+                    "title": "Shudder / King Of Snake - Live / Brussels, Belgium / 1999",
+                    "uri": "3yPjva6fELrbvKTjtQfU8A"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Underworld",
+                    "title": "Shudder / King Of Snake",
+                    "uri": "7LMlABN7q53QvOxEmmjDFZ"
+                },
+                {
+                    "artist": "Underworld",
+                    "title": "Shudder / King Of Snake - Live / Brussels, Belgium / 1999",
+                    "uri": "3yPjva6fELrbvKTjtQfU8A"
+                },
+                {
+                    "artist": "Underworld",
+                    "title": "Born Slippy (Nuxx)",
+                    "uri": "7xQYVjs4wZNdCwO0EeAWMC"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "KayBlack",
+                    "title": "Licor 43",
+                    "uri": "3l5VjEAeUTqrlD50iEo8Yn"
+                },
+                {
+                    "artist": "KayBlack",
+                    "title": "Segredo",
+                    "uri": "6hu4HvpNzrW2RIEEAZC3vD"
+                },
+                {
+                    "artist": "Joel Corry",
+                    "title": "Liquor Store",
+                    "uri": "3aLsMcZZTLgQqjpWgeWMMM"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "tomcbumpz",
+                    "title": "braincells",
+                    "uri": "6aMk9gUq9pjZgmjsAm3FjS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "tomcbumpz",
+                    "title": "braincells",
+                    "uri": "6aMk9gUq9pjZgmjsAm3FjS"
+                },
+                {
+                    "artist": "Tom Budin",
+                    "title": "Flying Again",
+                    "uri": "0JPbYc3aGg7fB8brCiYQag"
+                },
+                {
+                    "artist": "The Satan",
+                    "title": "Brain Confusion",
+                    "uri": "0ivxkq4p7RH4kTOGPkMLhB"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "KALIM",
+                    "title": "AirDrop",
+                    "uri": "3d2VATBZJbAVXyqoKQcBe7"
+                },
+                {
+                    "artist": "EMICIANO",
+                    "title": "Airdrop",
+                    "uri": "2S84SNJSgcbBAc2pfL3KCN"
+                },
+                {
+                    "artist": "KALIM",
+                    "title": "AirDrop",
+                    "uri": "3f0MwzXw4sa40mIJkoHW9L"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "oqbqbo",
+                    "title": "Dandelions",
+                    "uri": "2sjTCA3qv9NKz6btRu0O5h"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "oqbqbo",
+                    "title": "Dandelions",
+                    "uri": "2sjTCA3qv9NKz6btRu0O5h"
+                },
+                {
+                    "artist": "fenekot",
+                    "title": "Dandelions",
+                    "uri": "5mpAS0gbuemMHGeN4Zr4xP"
+                },
+                {
+                    "artist": "Ruth B.",
+                    "title": "Dandelions - slowed + reverb",
+                    "uri": "6cii6vbf1gITzGEpDrc5BP"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Digable Planets",
+                    "title": "Jettin'",
+                    "uri": "1BXastKgdI3AiFipVt69Fv"
+                },
+                {
+                    "artist": "Dony Tmack",
+                    "title": "Jetty",
+                    "uri": "2kPx7RNw6CrX5DRoLfy8mK"
+                },
+                {
+                    "artist": "Jetty Rachers",
+                    "title": "Life Of Mine",
+                    "uri": "3oZh6FfM8H1fZAidy9evez"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Smerz",
+                    "title": "Remember",
+                    "uri": "7h4qasm8leGPBNXiodoGyG"
+                },
+                {
+                    "artist": "Smerz",
+                    "title": "Remember",
+                    "uri": "0nWX57hJUGJ8ebYJ5CZNRt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Smerz",
+                    "title": "Remember",
+                    "uri": "7h4qasm8leGPBNXiodoGyG"
+                },
+                {
+                    "artist": "Lauren Daigle",
+                    "title": "Remember",
+                    "uri": "5qA5acnPNB7v1vdZdbA0lA"
+                },
+                {
+                    "artist": "Cutmaster GB",
+                    "title": "Remember",
+                    "uri": "6gLFXWYWMiIjGOU2FtxiF1"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nina Kraviz",
+                    "title": "Don’t Mind Wrong Keys",
+                    "uri": "4l6YNQ4Nx5yNfkrj8KnoP6"
+                },
+                {
+                    "artist": "Nina Kraviz",
+                    "title": "Skyscrapers - Hi-Lo Remix",
+                    "uri": "2g95XDCx4GqcaJPv7TTk8C"
+                },
+                {
+                    "artist": "Nina Kraviz",
+                    "title": "tarde",
+                    "uri": "5LrkoYgRaJlKpTQdo2E53X"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Croatian Amor",
+                    "title": "Still Possible",
+                    "uri": "1YYQ4RJjxAuFaCeieQLX6b"
+                },
+                {
+                    "artist": "Croatian Amor",
+                    "title": "Sister - Club Mix",
+                    "uri": "4NBVxgAjGBJtmivNnu6mug"
+                },
+                {
+                    "artist": "Daniel K Universe",
+                    "title": "Croatia",
+                    "uri": "4qFMvIZOLZhfIcHcLn8jY2"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Kai Campos",
+                    "title": "Zone 3 (City Limits) - Beatrice Dillon Remix",
+                    "uri": "7JPugeDFZ8ng7r1fYmreum"
+                },
+                {
+                    "artist": "Kai Campos",
+                    "title": "Zone 3 (City Limits) - Beatrice Dillon Remix",
+                    "uri": "4kXUcqkPueZoqOtoqLeFKG"
+                },
+                {
+                    "artist": "Kai Campos",
+                    "title": "Zone 3 (City Limits) - Beatrice Dillon Remix",
+                    "uri": "0FQaI3uv0NfCRXgBaCimyG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kai Campos",
+                    "title": "Zone 3 (City Limits) - Beatrice Dillon Remix",
+                    "uri": "4kXUcqkPueZoqOtoqLeFKG"
+                },
+                {
+                    "artist": "Kai Campos",
+                    "title": "Zone 3 (City Limits) - Beatrice Dillon Remix",
+                    "uri": "7JPugeDFZ8ng7r1fYmreum"
+                },
+                {
+                    "artist": "Mount Kimbie",
+                    "title": "Zone 3 (City Limits)",
+                    "uri": "4YfhEA0aJfNIlYm4BL51Lv"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tycho",
+                    "title": "Jetty",
+                    "uri": "4e0YtDwcwZuf8FCdjaMDWs"
+                },
+                {
+                    "artist": "Dony Tmack",
+                    "title": "Jetty",
+                    "uri": "2kPx7RNw6CrX5DRoLfy8mK"
+                },
+                {
+                    "artist": "Jetty Rachers",
+                    "title": "Life Of Mine",
+                    "uri": "3oZh6FfM8H1fZAidy9evez"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Lokowat",
+                    "title": "Ponto Suspeito",
+                    "uri": "7I4seoIWSwL7ZePZRkraPu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lokowat",
+                    "title": "Ponto Suspeito",
+                    "uri": "7I4seoIWSwL7ZePZRkraPu"
+                },
+                {
+                    "artist": "Lokowat",
+                    "title": "Canoa Abatida",
+                    "uri": "0pRSY5BAusWr2DZgzFZPKg"
+                },
+                {
+                    "artist": "Lokowat",
+                    "title": "Coroa Azul",
+                    "uri": "5TBUG7Fpz0YOmqdmWciZk6"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "ROSALÍA",
+                    "title": "BESO",
+                    "uri": "609E1JCInJncactoMmkDon"
+                },
+                {
+                    "artist": "ROSALÍA",
+                    "title": "LA FAMA",
+                    "uri": "6Y46tOTRhkBamosyuWa6YX"
+                },
+                {
+                    "artist": "ROSALÍA",
+                    "title": "TUYA",
+                    "uri": "1HII0EIufOG0nGpWCQixbO"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Modulaw",
+                    "title": "C",
+                    "uri": "4gQfgKt7co85cb368ROHhI"
+                },
+                {
+                    "artist": "modular music",
+                    "title": "module three",
+                    "uri": "7atzjGaN0nC48JzvKtypjn"
+                },
+                {
+                    "artist": "modular music",
+                    "title": "module eight",
+                    "uri": "6ka9Sac4qAQ5D1cG8U9cv0"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "BAMBII",
+                    "title": "Hooked",
+                    "uri": "2fClz4vY0KCaERVbAIAYqu"
+                },
+                {
+                    "artist": "PNL",
+                    "title": "Bambina",
+                    "uri": "6npyDB4mn8MO1A1h666FTk"
+                },
+                {
+                    "artist": "JOEF",
+                    "title": "She Got Me Hooked",
+                    "uri": "542Bvr7d54I6wC2pFUCK0l"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Kedr Livanskiy",
+                    "title": "Sky Kisses (на танцполе)",
+                    "uri": "4UPwHfnCSOuUIZd6lSCjKI"
+                },
+                {
+                    "artist": "Kedr Livanskiy",
+                    "title": "Sky Kisses (на танцполе)",
+                    "uri": "5JHPmE3A1yzRZJouyJGfbc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kedr Livanskiy",
+                    "title": "Sky Kisses (на танцполе)",
+                    "uri": "4UPwHfnCSOuUIZd6lSCjKI"
+                },
+                {
+                    "artist": "Kedr Livanskiy",
+                    "title": "Kiska (киска)",
+                    "uri": "5VkZXhdpIKFSHICfdlqObU"
+                },
+                {
+                    "artist": "Kedr Livanskiy",
+                    "title": "Your Turn",
+                    "uri": "5XS80suSJ7uFJz8BKDojki"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Anthony Naples",
+                    "title": "Love Loop To Fade",
+                    "uri": "2tFR5NPXOFszGPGcrAazJB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Anthony Naples",
+                    "title": "Love Loop To Fade",
+                    "uri": "2tFR5NPXOFszGPGcrAazJB"
+                },
+                {
+                    "artist": "Anthony Naples",
+                    "title": "Silas",
+                    "uri": "7brjAMmOX4WP0ROhpQcC35"
+                },
+                {
+                    "artist": "Anthony Naples",
+                    "title": "Goodness",
+                    "uri": "1yqngjXZDWfN7oo8vERppp"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Sassy 009",
+                    "title": "Til (*****)",
+                    "uri": "5esi0tdDwrM2ADcdxbXJT8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sassy 009",
+                    "title": "Til (*****)",
+                    "uri": "5esi0tdDwrM2ADcdxbXJT8"
+                },
+                {
+                    "artist": "Sassy",
+                    "title": "DU SALE",
+                    "uri": "4zTUdN99yrEaYBVRNqlEVo"
+                },
+                {
+                    "artist": "Sassy.RapZ",
+                    "title": "The Journey to the Top",
+                    "uri": "2UmmL59u4PcVgE3s3T3oRl"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Emma DJ",
+                    "title": "lemaire",
+                    "uri": "64zwJlYPNcOgLMzH0SpxrG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Emma DJ",
+                    "title": "HRTBRK",
+                    "uri": "2J5f9a1fzWQCC83oguTMHy"
+                },
+                {
+                    "artist": "Emma'a",
+                    "title": "Encré",
+                    "uri": "68oq1f0Jd0gtdmofDUR5wn"
+                },
+                {
+                    "artist": "Emma'a",
+                    "title": "Encré - Remix",
+                    "uri": "2sWkQckwLZeWs95sawDrTc"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Doja Cat",
+                    "title": "Attention",
+                    "uri": "11xC6P3iKYpFThT6Ce1KdG"
+                },
+                {
+                    "artist": "Charlie Puth",
+                    "title": "Attention",
+                    "uri": "5cF0dROlMOK5uNZtivgu50"
+                },
+                {
+                    "artist": "Omah Lay",
+                    "title": "attention (with Justin Bieber)",
+                    "uri": "6tTeRmhhuwDl5Y4UiJdHuO"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "sora",
+                    "title": "Etude:Diagonal",
+                    "uri": "7MgLIadfiug86MKflEn97t"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Anime Allstars",
+                    "title": "Sorae (Dragonball GT)",
+                    "uri": "0SGg7mKEJoz3Iq5LcHJo4c"
+                },
+                {
+                    "artist": "Felix Mendelssohn",
+                    "title": "Etude in F Minor",
+                    "uri": "31O7SFeM96OU5rxSmArDey"
+                },
+                {
+                    "artist": "Milkwish",
+                    "title": "Sora",
+                    "uri": "4IeAeBQdLlP8wTyp4wbWx5"
+                }
+            ]
+        }
+    },
     "ouri-19th-september-2022": {
         "00": {
             "s0": [
