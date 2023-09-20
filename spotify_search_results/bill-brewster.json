@@ -1,4 +1,631 @@
 {
+    "bill-brewster-19th-september-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Juicy",
+                    "title": "Sugar Free - Deo / Super Dance Mix",
+                    "uri": "7fr3ubpgsHrYv54HWs9YtO"
+                },
+                {
+                    "artist": "Juicy",
+                    "title": "Sugar Free - Deo / Super Dance Mix",
+                    "uri": "2PbkzGu2AXMQfsXaoyndNL"
+                },
+                {
+                    "artist": "Juicy",
+                    "title": "Sugar Free - Deo / Super Dance Mix",
+                    "uri": "39ispySHOmemrI4mU44LMF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Juicy",
+                    "title": "Sugar Free - Deo / Super Dance Mix",
+                    "uri": "2PbkzGu2AXMQfsXaoyndNL"
+                },
+                {
+                    "artist": "Mtume",
+                    "title": "Juicy Fruit - Single Version",
+                    "uri": "0VZaYVM92VL8dDakvdsS9E"
+                },
+                {
+                    "artist": "Juicy Romance",
+                    "title": "Juicy Bitch - Marlon Hoffstadt AKA DJ Daddy Trance Remix",
+                    "uri": "7AcFCeQlTEYqdmN2n3WtFm"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Session Victim",
+                    "title": "Over and Over",
+                    "uri": "3CN50NfaGfPIrAnBNiFvNW"
+                },
+                {
+                    "artist": "Session Victim",
+                    "title": "Crystal Maze",
+                    "uri": "5dJRyGT1eftJYYttOs6EmU"
+                },
+                {
+                    "artist": "Session Victim",
+                    "title": "Good Intentions - LP Mix",
+                    "uri": "1MLEgLIn8xJelIAAJTcmgc"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tori Amos",
+                    "title": "Crucify - 2015 Remaster",
+                    "uri": "6DVySQASssOCxJOyWMY1jW"
+                },
+                {
+                    "artist": "Tori Amos",
+                    "title": "Winter - 2015 Remaster",
+                    "uri": "11dfOCV0oBxzZ9fi2PZhvS"
+                },
+                {
+                    "artist": "Tori Amos",
+                    "title": "Professional Widow - Armand's Star Trunk Funkin' Mix; Radio Edit; 2016 Remaster",
+                    "uri": "0MT7RXj7XwkyvA0e05fgo6"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Nicole",
+                    "title": "New York Eyes",
+                    "uri": "7bsjiwNLKlpWYzCzEpJ8DS"
+                },
+                {
+                    "artist": "Nicole",
+                    "title": "New York Eyes",
+                    "uri": "20oUeycXhRS3iNp0Hl32hh"
+                },
+                {
+                    "artist": "Nicole",
+                    "title": "New York Eyes",
+                    "uri": "0dE3ZQoCKAHoCLImUS8LgK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nicole",
+                    "title": "New York Eyes",
+                    "uri": "7bsjiwNLKlpWYzCzEpJ8DS"
+                },
+                {
+                    "artist": "Nicole",
+                    "title": "New York Eyes",
+                    "uri": "20oUeycXhRS3iNp0Hl32hh"
+                },
+                {
+                    "artist": "Nicole",
+                    "title": "Die zweite Liebe (2022 Version) - Zero & DeNiro Remix",
+                    "uri": "6zoUkuXkTrM8gnQrKGPKnw"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Dan Davis",
+                    "title": "Feel So Glad",
+                    "uri": "4MKAZE8dCRLt4wGlfxaLuF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dan Davis",
+                    "title": "Feel So Glad",
+                    "uri": "4MKAZE8dCRLt4wGlfxaLuF"
+                },
+                {
+                    "artist": "Dan Deacon",
+                    "title": "When I Was Done Dying",
+                    "uri": "69L4d5HlE0YOCwWFYVFGoW"
+                },
+                {
+                    "artist": "Dan Deacon",
+                    "title": "Become a Mountain",
+                    "uri": "1NIjx6oS7ECM5UtTpPUFIa"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Nadg",
+                    "title": "We a Run E Grung - Ms Banks Remix",
+                    "uri": "4qmt2Oey1mkGdz5TUVuFNq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nadg",
+                    "title": "We a Run E Grung - Ms Banks Remix",
+                    "uri": "4qmt2Oey1mkGdz5TUVuFNq"
+                },
+                {
+                    "artist": "Nadg",
+                    "title": "We a Run E Grung - Remix",
+                    "uri": "2pWpmS722XsVz1IVDlKtGw"
+                },
+                {
+                    "artist": "Nadg",
+                    "title": "We A Run E Grung",
+                    "uri": "5UzOftNUJEjGSwjvejcpTk"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Future Utopia",
+                    "title": "This Time",
+                    "uri": "79ob9RdP6xf1MmdIxW9jSt"
+                },
+                {
+                    "artist": "Future Utopia",
+                    "title": "This Time",
+                    "uri": "46YmYCaARrMr58NyRpyllG"
+                },
+                {
+                    "artist": "Future Utopia",
+                    "title": "This Time",
+                    "uri": "5Fl9hbTyTQD2Upttr3RaQB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Future Utopia",
+                    "title": "This Time",
+                    "uri": "46YmYCaARrMr58NyRpyllG"
+                },
+                {
+                    "artist": "Future Utopia",
+                    "title": "This Time",
+                    "uri": "79ob9RdP6xf1MmdIxW9jSt"
+                },
+                {
+                    "artist": "Future Utopia",
+                    "title": "Children Of The Internet - Ezra Collective Remix",
+                    "uri": "0gSLaX91J2Cs9cWXqsRc4X"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Simply Red",
+                    "title": "Sweet Child - Crooked Soul Remix",
+                    "uri": "5oDM8GrM0gC512h4KAT6Ns"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Simply Red",
+                    "title": "Something Got Me Started - 2008 Remaster",
+                    "uri": "0DJnqFhVWoTDs58JPem5Zh"
+                },
+                {
+                    "artist": "Simply Red",
+                    "title": "Holding Back the Years - 2008 Remaster",
+                    "uri": "1yg7fwwYmx9DQ2TdXUmfpJ"
+                },
+                {
+                    "artist": "Simply Red",
+                    "title": "If You Don't Know Me by Now - 2008 Remaster",
+                    "uri": "7DFawVSjI88xR9mjnWwURg"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Brian Jackson",
+                    "title": "Mami Wata - Joaquin's Cosmic Arts Future Instrumental Slow Dub",
+                    "uri": "6QOOVpoWseA32UOI1f9i74"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Brian Jackson",
+                    "title": "Mami Wata - Joaquin's Cosmic Arts Future Instrumental Slow Dub",
+                    "uri": "6QOOVpoWseA32UOI1f9i74"
+                },
+                {
+                    "artist": "Brian Jackson",
+                    "title": "All Talk",
+                    "uri": "2Z10cdAOhMyeN9kL9WVIOs"
+                },
+                {
+                    "artist": "The Brian Jonestown Massacre",
+                    "title": "It Girl",
+                    "uri": "3FChADSthLqW3Lsh2fohXd"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Skeete",
+                    "title": "Tek Buddy",
+                    "uri": "10OmeI0uRJArozB5QpnQke"
+                },
+                {
+                    "artist": "Skeete",
+                    "title": "Set It Arff",
+                    "uri": "06mtMKkZiwzA1BHCTb1IBy"
+                },
+                {
+                    "artist": "Skeete",
+                    "title": "Notice Me",
+                    "uri": "1587W3oFc7tZwYtJvovP1P"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "ASHRR",
+                    "title": "Fizzy (Felix Dickinson Remix)",
+                    "uri": "4DQapLchw6WkuLthDjUMiZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "ASHRR",
+                    "title": "Fizzy (Felix Dickinson Remix)",
+                    "uri": "4DQapLchw6WkuLthDjUMiZ"
+                },
+                {
+                    "artist": "Mista Trick",
+                    "title": "Smile",
+                    "uri": "4SuNxKrkCjdC4mJdzwbUX3"
+                },
+                {
+                    "artist": "ASMR Janina",
+                    "title": "Harry Potter Asmr - Teil 1",
+                    "uri": "2FwXOSZlNHqynCCwy9vcmj"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "tamo.",
+                    "title": "Hot Chocolate",
+                    "uri": "2qlYmYY2Q71HKKb4raeP08"
+                },
+                {
+                    "artist": "dark cat",
+                    "title": "hot chocolate",
+                    "uri": "3xkGcE52Hpr8zd34ws2D0A"
+                },
+                {
+                    "artist": "Cher",
+                    "title": "Fernando - From \"Mamma Mia! Here We Go Again\"",
+                    "uri": "4btXKZvLKtOfpIU4DR1MW5"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rhonda",
+                    "title": "Camera",
+                    "uri": "4JOKdrwgRH9F5SMKcTZjlY"
+                },
+                {
+                    "artist": "Rhonda",
+                    "title": "Santa Barbara",
+                    "uri": "4e94L4KJUZfkAnC9ihvQ2F"
+                },
+                {
+                    "artist": "Rhonda Holland",
+                    "title": "Callistea",
+                    "uri": "0cCb6YtxKMYur2ZXqndAvH"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Thompson Twins",
+                    "title": "The Saint - 8th Street Dub",
+                    "uri": "33pMUHbVKWQARARM1wHAjw"
+                },
+                {
+                    "artist": "Thompson Twins",
+                    "title": "The Saint - 8th Street Dub",
+                    "uri": "1KGKTIVHDk3mK4wEes2q6Q"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Thompson Twins",
+                    "title": "Hold Me Now",
+                    "uri": "0ELzxemxnjAasucn8Sww3m"
+                },
+                {
+                    "artist": "Thompson Twins",
+                    "title": "Hold Me Now - Phil Thornalley Mix",
+                    "uri": "0LAG9oBDVbbfWvhb9fFYtn"
+                },
+                {
+                    "artist": "Marko Perković Thompson",
+                    "title": "Moj Ivane",
+                    "uri": "14s4JVWdfprNQWnfbvGKiD"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Saucy Lady",
+                    "title": "Why",
+                    "uri": "3lgGB1vqMtGiSjL4htKVQn"
+                },
+                {
+                    "artist": "Saucy Lady",
+                    "title": "Baby Tell Me Why",
+                    "uri": "0lpbsn34H1s7B45tCU9wqe"
+                },
+                {
+                    "artist": "Saucy Lady",
+                    "title": "Why - Instrumental",
+                    "uri": "2fQSZ0jnFLkTwRqO6H1MuI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Saucy Lady",
+                    "title": "Why",
+                    "uri": "3lgGB1vqMtGiSjL4htKVQn"
+                },
+                {
+                    "artist": "Saucy Lady",
+                    "title": "Why - Instrumental",
+                    "uri": "2fQSZ0jnFLkTwRqO6H1MuI"
+                },
+                {
+                    "artist": "Paypaz",
+                    "title": "Saucy",
+                    "uri": "58YQ1pHuL1f3BKQXZdjHjB"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "c4rl",
+                    "title": "Barbados",
+                    "uri": "5CqFpxCNELXBFSRsUfzhjF"
+                },
+                {
+                    "artist": "VanIves",
+                    "title": "Bardennoch",
+                    "uri": "1YQjWqGwJmyscFhUNxsC33"
+                },
+                {
+                    "artist": "Barderos",
+                    "title": "Perdidos",
+                    "uri": "5eOvjONjZKsvIoYQA14toc"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tocotronic",
+                    "title": "Let There Be Rock",
+                    "uri": "414oiHLxFHpMZaRBN4obzp"
+                },
+                {
+                    "artist": "Nat King Cole",
+                    "title": "Let There Be Love",
+                    "uri": "7AL1pxI9IwHoXs98G0T8cC"
+                },
+                {
+                    "artist": "Simple Minds",
+                    "title": "Let There Be Love - 2002 Digital Remaster",
+                    "uri": "1KKAzCSZ7tS4KWDqG6uxVA"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Guy Gerber",
+                    "title": "Leave It On",
+                    "uri": "6b3FYC28wp3uQIihoSe5tK"
+                },
+                {
+                    "artist": "Guy Gerber",
+                    "title": "Leave Me",
+                    "uri": "0BuxyBvuePBGL88XiEXFX7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Guy Gerber",
+                    "title": "Leave It On",
+                    "uri": "6b3FYC28wp3uQIihoSe5tK"
+                },
+                {
+                    "artist": "Guy Gerber",
+                    "title": "What To Do - &ME Remix",
+                    "uri": "0RMQgXHIBTsAVcaS7qahLq"
+                },
+                {
+                    "artist": "Guy Gerber",
+                    "title": "What To Do - (Mixed)",
+                    "uri": "3b8EAvwU10M3FLaTOTwV7R"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "ASHRR",
+                    "title": "Talking in Your Sleep - Fernando's Disco Dub Mix",
+                    "uri": "1jZDH1QiEEOVmIs03mXaFh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "ASHRR",
+                    "title": "Talking in Your Sleep - Fernando Deep Mix",
+                    "uri": "1jHjZTdDV66REa8rs77HVG"
+                },
+                {
+                    "artist": "The Romantics",
+                    "title": "Talking In Your Sleep",
+                    "uri": "7fRvtXvJMpGfTLdF0M09a1"
+                },
+                {
+                    "artist": "CHVRCHES",
+                    "title": "Talking In My Sleep",
+                    "uri": "2Ki90r0uFO0MB7WHOjn5P4"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Chris Rea",
+                    "title": "Let It Loose",
+                    "uri": "6or42wyIjt3Y3ozY4tUJBQ"
+                },
+                {
+                    "artist": "Chris Rea",
+                    "title": "Let It Loose - 2020 Remaster",
+                    "uri": "1ozzog8ibk2Oxo1Ze97kJv"
+                },
+                {
+                    "artist": "Chris Rea",
+                    "title": "Let It Loose - Special Extended Remix, 2020 Remaster",
+                    "uri": "4ttCIYfT91p8XS3umTYNRp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chris Rea",
+                    "title": "Let It Loose",
+                    "uri": "6or42wyIjt3Y3ozY4tUJBQ"
+                },
+                {
+                    "artist": "Chris Rea",
+                    "title": "Fool (If You Think It's Over)",
+                    "uri": "5GYzxG9pPDGOBiQrynxjQm"
+                },
+                {
+                    "artist": "Chris Rea",
+                    "title": "Josephine",
+                    "uri": "6JFfOp1LTXnyDCTfHlOc9j"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Prince",
+                    "title": "Alice Through the Looking Glass",
+                    "uri": "7sArXWDg86rMoLG46QE2ac"
+                },
+                {
+                    "artist": "Prince",
+                    "title": "Kiss",
+                    "uri": "62LJFaYihsdVrrkgUOJC05"
+                },
+                {
+                    "artist": "Prince",
+                    "title": "1999",
+                    "uri": "2H7PHVdQ3mXqEHXcvclTB0"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Reggie B",
+                    "title": "I Know You Feel It",
+                    "uri": "53vaqaSR2bnyxWXhYibl4A"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Mndsgn",
+                    "title": "Finallyalone",
+                    "uri": "3LdMuj28pgxaVRUFpSHlKh"
+                },
+                {
+                    "artist": "Mndsgn",
+                    "title": "Finallyalone",
+                    "uri": "1iiCAhQoWeaodcqR4kDFlK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mndsgn",
+                    "title": "Finallyalone",
+                    "uri": "3LdMuj28pgxaVRUFpSHlKh"
+                },
+                {
+                    "artist": "Mndsgn",
+                    "title": "Finallyalone",
+                    "uri": "1iiCAhQoWeaodcqR4kDFlK"
+                },
+                {
+                    "artist": "Mac DeMarco",
+                    "title": "Finally Alone",
+                    "uri": "7JyhhEb1LKIuDiHy6bWdet"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "The Sylvers",
+                    "title": "I Don't Need to Prove Myself",
+                    "uri": "7rdCPoc48N52OG90GcQ2F9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Sylvers",
+                    "title": "I Don't Need to Prove Myself",
+                    "uri": "7rdCPoc48N52OG90GcQ2F9"
+                },
+                {
+                    "artist": "The Sylvers",
+                    "title": "Wish That I Could Talk to You",
+                    "uri": "2n5BCKChXCrv9QoIbkUADA"
+                },
+                {
+                    "artist": "The Sylvers",
+                    "title": "Storybook Girl",
+                    "uri": "7wTSEFDjRFaLqhJdtUWaVk"
+                }
+            ]
+        }
+    },
     "bill-brewster-22nd-august-2023": {
         "00": {
             "s0": [
