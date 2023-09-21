@@ -17600,6 +17600,152 @@
             "title": "The Five Stars"
         }
     },
+    "hick-duarte-19th-september-2023": {
+        "00": {
+            "artist": "Mbé, ",
+            "title": "Cerimônia"
+        },
+        "01": {
+            "artist": "Kid From Amazon",
+            "title": "Escadarias"
+        },
+        "02": {
+            "artist": "Itsairu Huni Kuin",
+            "title": "Canção Do Pajé"
+        },
+        "03": {
+            "artist": "Psilosamples",
+            "title": "Morfo "
+        },
+        "04": {
+            "artist": "Raquel Dimantas",
+            "title": "Flecha Azul"
+        },
+        "05": {
+            "artist": "Kolx, ",
+            "title": "Ibogaína"
+        },
+        "06": {
+            "artist": "Trevo",
+            "title": "Hora da Estrela"
+        },
+        "07": {
+            "artist": "BaianaSystem, ",
+            "title": "Vixe"
+        },
+        "08": {
+            "artist": "Yaminah Mello",
+            "title": "Azontofunk (Unreleased)"
+        },
+        "09": {
+            "artist": "RHR",
+            "title": "Proibidao"
+        },
+        "10": {
+            "artist": "DJ Anderson do Paraíso",
+            "title": "Rola o Trepa Trepa"
+        },
+        "11": {
+            "artist": "MC ZKW, ",
+            "title": "Beat Assombração"
+        },
+        "12": {
+            "artist": "DJ Ramemes",
+            "title": "Upa Upa Pocotó X 170bpm"
+        },
+        "13": {
+            "artist": "Devil Gremory, ",
+            "title": "Uma Caixa E Muita Disposição"
+        },
+        "14": {
+            "artist": "Me Jesmay",
+            "title": "Black Girl Feeling"
+        },
+        "15": {
+            "artist": "Barulhista",
+            "title": "A Caneta Caiu No Chão Da Afonso Pena"
+        },
+        "16": {
+            "artist": "Marcelo Gerab",
+            "title": "Mega Fauna (Unreleased)"
+        },
+        "17": {
+            "artist": "7FA",
+            "title": "Ato III (Unreleased)"
+        },
+        "18": {
+            "artist": "Felinto",
+            "title": "Turmalina"
+        },
+        "19": {
+            "artist": "Snowfuks",
+            "title": "Don’t (Unreleased)"
+        },
+        "20": {
+            "artist": "Parque Da São",
+            "title": "Estados Unidos (Unreleased)"
+        },
+        "21": {
+            "artist": "Negro Leo",
+            "title": "I Worship Your Snatch"
+        },
+        "22": {
+            "artist": "Linn da Quebrada",
+            "title": "Medrosa - Ode A Stella Do Patrocínio"
+        },
+        "23": {
+            "artist": "Pio Lobato",
+            "title": "Areceúna"
+        },
+        "24": {
+            "artist": "Rico Jorge",
+            "title": "Sangue (Unreleased)"
+        },
+        "25": {
+            "artist": "Afroito",
+            "title": "Diga"
+        },
+        "26": {
+            "artist": "dadá Joãozinho",
+            "title": "Cura"
+        },
+        "27": {
+            "artist": "Carlos do Complexo",
+            "title": "Índigo"
+        },
+        "28": {
+            "artist": "Mundo Video",
+            "title": "Mundo Girar (Unreleased)"
+        },
+        "29": {
+            "artist": "Letrícia",
+            "title": "Reage"
+        },
+        "30": {
+            "artist": "Swatch, ",
+            "title": "Senha Da Favela (Unreleased)"
+        },
+        "31": {
+            "artist": "DJ K",
+            "title": "Isso Não é um Teste - feat MC GH SP MC GB DO ABC & MC Kaique da Sul"
+        },
+        "32": {
+            "artist": "Deafkids",
+            "title": "Selva Pulsátil"
+        },
+        "33": {
+            "artist": "Duniya",
+            "title": "Vida Morte Extermina"
+        },
+        "34": {
+            "artist": "M.Takara, ",
+            "title": "Princípio"
+        },
+        "35": {
+            "artist": "Ibã Sales Huni Kuin",
+            "title": "Ni Hewã Pūskeni"
+        }
+    },
     "hit-factory-sessions-w-dj-wawa-clay-wilson-28th-march-2022": "",
     "hitech-17th-june-2023": {
         "00": {
@@ -21907,7 +22053,44 @@
             "title": "My World...My Way"
         }
     },
-    "kids-ost---folk-implosion-w-florence-scott-anderton-18th-september-2023": {},
+    "kids-ost---folk-implosion-w-florence-scott-anderton-18th-september-2023": {
+        "00": {
+            "artist": "Folk Implosion",
+            "title": "Nothing Gonna Stop"
+        },
+        "01": {
+            "artist": "Folk Implosion",
+            "title": "Jenny’s Theme"
+        },
+        "02": {
+            "artist": "Public Image Ltd.",
+            "title": "Graveyard"
+        },
+        "03": {
+            "artist": "Liquid Liquid",
+            "title": "Optimo"
+        },
+        "04": {
+            "artist": "Folk Implosion",
+            "title": "Wet Stuff"
+        },
+        "05": {
+            "artist": "Sun Ra",
+            "title": "Mu"
+        },
+        "06": {
+            "artist": "Moonshake",
+            "title": "Secondhand Clothes"
+        },
+        "07": {
+            "artist": "Folk Implosion",
+            "title": "Natural One"
+        },
+        "08": {
+            "artist": "Folk Implosion",
+            "title": "Raise The Bells"
+        }
+    },
     "kim-durbeck-24th-november-2022": {
         "00": {
             "artist": "Tran Quang Hai Et Bach Yen",
@@ -44678,6 +44861,96 @@
         "13": {
             "artist": "Loss",
             "title": "Shallow Pulse"
+        }
+    },
+    "vanessa-bedoret-20th-september-2023": {
+        "00": {
+            "artist": "Susumu Hirasawa",
+            "title": "Byakko No (Paprika Version)"
+        },
+        "01": {
+            "artist": "Kelis",
+            "title": "Milkshake (Remix)"
+        },
+        "02": {
+            "artist": "Ekaterina Bazhenova-Yamasaki",
+            "title": "EBY160822"
+        },
+        "03": {
+            "artist": "Astrid Sonne",
+            "title": "Real"
+        },
+        "04": {
+            "artist": "Ans M",
+            "title": "Into the Thicket"
+        },
+        "05": {
+            "artist": "Coby Sey",
+            "title": "Mist Through the Bits"
+        },
+        "06": {
+            "artist": "Philomène Pirecki",
+            "title": "Oxygenate"
+        },
+        "07": {
+            "artist": "Cathedral Choir of the Holy Virgin Protection Cathedral of New York, ",
+            "title": "Hymn to the Mother of God"
+        },
+        "08": {
+            "artist": "Diagram Of Suburban Chaos",
+            "title": "Fn-Tonal (Reversed)"
+        },
+        "09": {
+            "artist": "Björk",
+            "title": "Pleasure Is All Mine"
+        },
+        "10": {
+            "artist": "Ana Quiroga",
+            "title": "Inner City Light"
+        },
+        "11": {
+            "artist": "James Dashow, ",
+            "title": "Oedipus Orca"
+        },
+        "12": {
+            "artist": "Sd Laika",
+            "title": "Tropic Of Cancer"
+        },
+        "13": {
+            "artist": "Nourished By Time",
+            "title": "Interlude I."
+        },
+        "14": {
+            "artist": "Zero Boys",
+            "title": "Mom’s Wallet"
+        },
+        "15": {
+            "artist": "Vanessa Bedoret",
+            "title": "Untitled"
+        },
+        "16": {
+            "artist": "Esplendor Geométrico",
+            "title": "Blanco De Fuerza I"
+        },
+        "17": {
+            "artist": "Slim Guerilla",
+            "title": "Set The Play"
+        },
+        "18": {
+            "artist": "Body Void",
+            "title": "Cop Show"
+        },
+        "19": {
+            "artist": "50% Of The Dreamteam",
+            "title": "The Thundertheme (Prophet Rmx)"
+        },
+        "20": {
+            "artist": "Howard Shore, ",
+            "title": "Gollum's Song"
+        },
+        "21": {
+            "artist": "The Truman Show",
+            "title": "Opening Scene"
         }
     },
     "vanyfox-17th-may-2023": {
