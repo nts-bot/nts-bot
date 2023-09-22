@@ -900,6 +900,131 @@
             ]
         }
     },
+    "moon-duo-21st-september-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Pharoah Sanders",
+                    "title": "Harvest Time",
+                    "uri": "1ZDu9XM32hQgc6YWPnQ9H5"
+                },
+                {
+                    "artist": "Pharoah Sanders",
+                    "title": "Harvest Time Live - Version 2",
+                    "uri": "4qUHs31q3Ae4eoKO6Wdlkx"
+                },
+                {
+                    "artist": "Pharoah Sanders",
+                    "title": "Harvest Time Live - Version 1",
+                    "uri": "6NIRiKu4psvwdaZwn4SZWp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pharoah Sanders",
+                    "title": "Harvest Time",
+                    "uri": "1ZDu9XM32hQgc6YWPnQ9H5"
+                },
+                {
+                    "artist": "Pharoah Sanders",
+                    "title": "Harvest Time Live - Version 1",
+                    "uri": "6NIRiKu4psvwdaZwn4SZWp"
+                },
+                {
+                    "artist": "Pharoahe Monch",
+                    "title": "Simon Says",
+                    "uri": "62l1ZGNoUlJlVwhwMKu2T6"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Floating Points",
+                    "title": "Movement 1",
+                    "uri": "5mVNAL01dr6qjEWqwIMmmo"
+                },
+                {
+                    "artist": "Pharoahe Monch",
+                    "title": "Simon Says",
+                    "uri": "67IvfvAMYQzJEeHopvwMMW"
+                },
+                {
+                    "artist": "Pharoahe Monch",
+                    "title": "Simon Says",
+                    "uri": "62l1ZGNoUlJlVwhwMKu2T6"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Pharoah Sanders",
+                    "title": "Harvest Time Live - Version 2",
+                    "uri": "4qUHs31q3Ae4eoKO6Wdlkx"
+                },
+                {
+                    "artist": "Pharoah Sanders",
+                    "title": "Harvest Time Live - Version 1",
+                    "uri": "6NIRiKu4psvwdaZwn4SZWp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Journey In Satchidananda",
+                    "uri": "2gG3ivmsfylVXLyIJvLXyN"
+                },
+                {
+                    "artist": "Pharoahe Monch",
+                    "title": "Simon Says",
+                    "uri": "62l1ZGNoUlJlVwhwMKu2T6"
+                },
+                {
+                    "artist": "flora cash",
+                    "title": "Pharaoh - 1987 Remix",
+                    "uri": "3fWsLjAffHbTzTK4pMCDWO"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Tisziji Munoz",
+                    "title": "Purification By Fire",
+                    "uri": "2h8pbpLSNFIYSvN5qhzjWR"
+                },
+                {
+                    "artist": "Tisziji Munoz",
+                    "title": "Purification By Fire",
+                    "uri": "5jdCi5Zpqmc1iMnSmeVCVb"
+                },
+                {
+                    "artist": "Tisziji Munoz",
+                    "title": "Purification By Fire - Live",
+                    "uri": "5oKGxvsv996uAz676dn3ED"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dalai Lama",
+                    "title": "Purification",
+                    "uri": "6uz15WulA17DDA12LzhIw4"
+                },
+                {
+                    "artist": "Allegra Lusini",
+                    "title": "Purification",
+                    "uri": "4IO5pTnFSbnFZ8Yho54FUe"
+                },
+                {
+                    "artist": "Paso Doble",
+                    "title": "Tishiki",
+                    "uri": "4n45b6oeOc8GSphOmavMxe"
+                }
+            ]
+        }
+    },
     "moon-duo-22nd-september-2022": {
         "00": {
             "s0": "",
