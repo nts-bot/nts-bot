@@ -23,7 +23,7 @@ script = import_module("script")
 class_instance = script.nts()
 
 # .4 todo
-todo = ["counter", "privatise", "publicise", "follow"]
+todo = ["counter", "publicise", "follow"]
 
 for i in todo:
     script.connection.connect()

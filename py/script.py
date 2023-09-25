@@ -393,7 +393,6 @@ class nts:
         """ UPDATE UPLOADED EPISODES METADATA """
         utils.rnw_json(f"./uploaded/{show}", uploaded)
 
-    @utils.timeout(30.0)
     def subfollow(self, usr, creds):
         if str(usr) not in creds:
             return None
@@ -451,9 +450,9 @@ class nts:
                                 playlist_owner_id, playlist_id
                             )
                         else:
-                            print(f"FAILED : {i}")
+                            logging.warning(f"FAILED : {i}")
                     else:
-                        print(f"FAILED : {i}")
+                        logging.warning(f"FAILED : {i}")
                 cn = True
             except:
                 logging.warning(traceback.format_exc())
@@ -469,45 +468,43 @@ class nts:
         return self.parallel(self.subfollow, ranger, [creds])
 
     @staticmethod
-    def subwings(pid):
+    @utils.timeout(10)
+    def subsubprivatise(pid, b):
+        _ = connection.sp.playlist(pid, fields="followers,public")
+        if _["public"] != b:
+            connection.sp.playlist_change_details(pid, public=b)
+        if not b:
+            return _["followers"]["total"]
+        else:
+            return 0
+
+    def subprivatise(self, pid, b):
+        logging.info(f"Privitising: {str(not b):<8} {pid}")
         while True:
             try:
-                return connection.sp.playlist(pid)["followers"]["total"]
+                return self.subsubprivatise(pid, b)
             except:
                 logging.warning(traceback.format_exc())
                 connection.connect()
-
-    def wings(self):
-        return self.parallel(self.subwings, list(self.pid.values()))
-
-    @staticmethod
-    def subprivatise(pid, b):
-        while True:
-            try:
-                return connection.sp.playlist_change_details(pid, public=b)
-            except:
-                logging.warning(traceback.format_exc())
-                connection.connect()
-
-    def privatise(self):
-        return self.parallel(self.subprivatise, list(self.pid.values()), [False])
 
     def publicise(self):
-        keys = list(self.pid)
-        d = dict()
+        values = list(self.pid.values())
+        followers = dict()
         o = 0
-        k = []
-        anem, r = self.wings()
-        for c in r:
-            d[keys[c]] = eval(f"utils.{anem}_{c}")
-        most = {k: v for k, v in sorted(d.items(), key=lambda item: item[1])[::-1]}
+        pids = []
+        anem, r = self.parallel(self.subprivatise, values, [False])
+        for c in range(r):
+            followers[values[c]] = eval(f"utils.{anem}_{c}")
+        most = {
+            k: v for k, v in sorted(followers.items(), key=lambda item: item[1])[::-1]
+        }
         for i in most:
             o += 1
             if o > 200:
                 break
             else:
-                k += [i]
-        return self.parallel(self.subprivatise, k, [True])
+                pids += [i]
+        return self.parallel(self.subprivatise, pids, [True])
 
     def subsubcounter(self, show, episodes):
         bad = [

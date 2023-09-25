@@ -73,6 +73,7 @@ class connection:
         )
         logging.info(". Testing . ")
         _ = self.sp.user(self.user)
+        _ = self.sp.playlist("4yN04eQGIl1Vs1ijVCCyeL")
         logging.info("Successful")
 
     def connect(self):
