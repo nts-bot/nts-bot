@@ -1,4 +1,258 @@
 {
+    "jane-remover-15th-september-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jane Remover",
+                    "title": "Lips",
+                    "uri": "05SEi2EuY93D6UHHUSNZGc"
+                },
+                {
+                    "artist": "Jane Remover",
+                    "title": "how to lie",
+                    "uri": "3mPk0eckjHFr7Q6L0M8dt9"
+                },
+                {
+                    "artist": "Jane Remover",
+                    "title": "movies for guys",
+                    "uri": "1urgZoAjz91vFqPEokA1OR"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Carly Rae Jepsen",
+                    "title": "Talking to Yourself",
+                    "uri": "7I7Dk8FOkZqhqZp9N2RKiP"
+                },
+                {
+                    "artist": "Carly Rae Jepsen",
+                    "title": "Talking to Yourself",
+                    "uri": "4YtsVmEEaptzgX6uoTBpCl"
+                },
+                {
+                    "artist": "Carly Rae Jepsen",
+                    "title": "Talking to Yourself",
+                    "uri": "02qgkoUBtCzTM1IUXQ1dMC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Carly Rae Jepsen",
+                    "title": "Talking to Yourself",
+                    "uri": "7I7Dk8FOkZqhqZp9N2RKiP"
+                },
+                {
+                    "artist": "Carly Rae Jepsen",
+                    "title": "Run Away With Me",
+                    "uri": "0FS7B5o3QyvOD8eWjnbLoO"
+                },
+                {
+                    "artist": "Carly Rae Jepsen",
+                    "title": "I Really Like You",
+                    "uri": "2hHLbkatPwOOmrNxTiD41L"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "SOPHIE",
+                    "title": "Faceshopping",
+                    "uri": "2rN1ODOsaNfYu782rw36jR"
+                },
+                {
+                    "artist": "SOPHIE",
+                    "title": "Not Okay - Alone Mix",
+                    "uri": "57aGMQ5ZOSWIAf4n0fYEnt"
+                },
+                {
+                    "artist": "Sophie Ellis-Bextor",
+                    "title": "Get Over You",
+                    "uri": "0r8U4M18cn9WGWWlVIfQ7i"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bar9",
+                    "title": "Piano Tune",
+                    "uri": "7nmdmrJFiIDj8L5sINCUQQ"
+                },
+                {
+                    "artist": "Peppertune",
+                    "title": "Float",
+                    "uri": "6xHxN9kY5EUjEo1160pnMl"
+                },
+                {
+                    "artist": "BARO",
+                    "title": "İSTANBUL",
+                    "uri": "5EJQMvBbVVIFJkDb9J3fu3"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hatfield & The North",
+                    "title": "Going Up To People And Tinkling",
+                    "uri": "0Y96JrNGuhHlZJMoMa8gUK"
+                },
+                {
+                    "artist": "Xandl",
+                    "title": "The Reason - Radio Edit",
+                    "uri": "5KThtMIv1xANYdpvhVHKEx"
+                },
+                {
+                    "artist": "Harfordrdtay",
+                    "title": "Freestyle",
+                    "uri": "5UPVQTTMjzwP0A1k2rEAIB"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jane Remover",
+                    "title": "goldfish",
+                    "uri": "7A8YnjMhMrTfVqMRRfayv7"
+                },
+                {
+                    "artist": "Jane Remover",
+                    "title": "pretender",
+                    "uri": "44auFUrGECh2dOIWHyGZyl"
+                },
+                {
+                    "artist": "Jane Remover",
+                    "title": "movies for guys",
+                    "uri": "1urgZoAjz91vFqPEokA1OR"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "underscores",
+                    "title": "You don't even know who I am",
+                    "uri": "6ClqRD9uFMj4VD8GuSr7mG"
+                },
+                {
+                    "artist": "underscores",
+                    "title": "You don't even know who I am",
+                    "uri": "17BgCZrJKTBY9Z9A7dJAaa"
+                },
+                {
+                    "artist": "Pop Talk",
+                    "title": "You Don't Even Know Me Now",
+                    "uri": "47gLTYb2DYcNIxMqxPMYut"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ryan Beatty",
+                    "title": "White Teeth - Live Performance",
+                    "uri": "4vD1vb8wlLVtweYK67Praf"
+                },
+                {
+                    "artist": "Ryan Beatty",
+                    "title": "Andromeda",
+                    "uri": "5Br4bQG5MwYZTKpFfiw4no"
+                },
+                {
+                    "artist": "Ryan Beatty",
+                    "title": "Ribbons",
+                    "uri": "1mn1vm47Qm3h91kgNRmXf0"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mariah Carey",
+                    "title": "Vanishing",
+                    "uri": "6PP8I9FUWPIVRvV81anBnR"
+                },
+                {
+                    "artist": "fam0uz",
+                    "title": "Vanished - Slowed",
+                    "uri": "3QiT3AwJFczfpRnYrx9Z0J"
+                },
+                {
+                    "artist": "Crystal Castles",
+                    "title": "Vanished",
+                    "uri": "3gGMsx3jxYKfhXq8LMj1tz"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Liz Phair",
+                    "title": "Polyester Bride",
+                    "uri": "3Tbs9O6zy07BjjCU1omonJ"
+                },
+                {
+                    "artist": "Liz Phair",
+                    "title": "Polyester Bride - Girly-Sound Version",
+                    "uri": "2T70mNgnmtGG2uU1IfH73Q"
+                },
+                {
+                    "artist": "Liz Phair",
+                    "title": "Polyester Bride - Girly-Sound Version",
+                    "uri": "1TAVqhzsIYqbFVzrHncSGe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Liz Phair",
+                    "title": "Polyester Bride",
+                    "uri": "3Tbs9O6zy07BjjCU1omonJ"
+                },
+                {
+                    "artist": "Liz Phair",
+                    "title": "Fuck and Run - 2018 Remaster",
+                    "uri": "2qpmugEb0DI8kZLszkBLBT"
+                },
+                {
+                    "artist": "Liz Phair",
+                    "title": "Why Can't I?",
+                    "uri": "4z4PB23xYTg1oANmyZovsw"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jane Remover",
+                    "title": "your clothes",
+                    "uri": "5gFfE8UgFslvqjVQw7dktZ"
+                },
+                {
+                    "artist": "Jane Weaver",
+                    "title": "Lux",
+                    "uri": "5cpe7ADi7m36UwUVK7KHRS"
+                },
+                {
+                    "artist": "JanRevolution",
+                    "title": "Man Without Return",
+                    "uri": "1ZG9t1NWQl1aHZ3QKeCBGR"
+                }
+            ]
+        }
+    },
     "jane-remover-18th-august-2023": {
         "00": {
             "s0": "",

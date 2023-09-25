@@ -906,9 +906,10 @@
         },
         "11": {
             "artist": ".",
-            "ratio": 9,
+            "ratio": -1,
             "title": "이별의 왈츠 : 쇼팽",
-            "trackid": "1GK6UNMQilupIpSxmlvxbu"
+            "trackid": "1GK6UNMQilupIpSxmlvxbu",
+            "uri": ""
         },
         "12": {
             "artist": "Sepalcure",

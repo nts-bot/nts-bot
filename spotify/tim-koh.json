@@ -4073,9 +4073,10 @@
         },
         "12": {
             "artist": "AKUGETSU",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Unknown (Till The End...)",
-            "trackid": "76zvyaDfQAXTfWBAq9qxgY"
+            "trackid": "76zvyaDfQAXTfWBAq9qxgY",
+            "uri": ""
         },
         "13": {
             "artist": "Arthur Brown",

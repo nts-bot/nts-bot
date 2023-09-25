@@ -117,23 +117,23 @@ def timeout(timeout):
 
 def rnw_json(filename, store=None):
     if store is None:
-        logging.info(f"Opening: {filename}.json")
+        logging.debug(f"Opening: {filename}.json")
         try:
             with open(f"{filename}.json", "r", encoding="utf-8") as f:
                 return json.load(f)
         except FileNotFoundError:
-            logging.info(f"Creating: {filename}.json")
+            logging.warning(f"Creating: {filename}.json")
             rnw_json(filename, dict())
             return dict()
         except PermissionError:
-            logging.info(f"Issues Accessing: {filename}.json")
+            logging.warning(f"Issues Accessing: {filename}.json")
             time.sleep(0.5)
             return rnw_json(filename)
         except Exception as error:
             logging.warning(traceback.format_exc())
             raise Exception(error)
     else:
-        logging.info(f"Saving: {filename}.json")
+        logging.debug(f"Saving: {filename}.json")
         try:
             with open(f"{filename}.json", "w", encoding="utf-8") as f:
                 json.dump(store, f, ensure_ascii=False, sort_keys=True, indent=4)

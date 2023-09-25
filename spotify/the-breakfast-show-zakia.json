@@ -9388,9 +9388,10 @@
         },
         "13": {
             "artist": "Unknown Prince",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Unknown Prince",
-            "trackid": "4huqlI5zhDyBKXLmQr887f"
+            "trackid": "4huqlI5zhDyBKXLmQr887f",
+            "uri": ""
         },
         "14": {
             "artist": "Paprika Soul",

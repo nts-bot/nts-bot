@@ -46,9 +46,9 @@ def scripts(self, show, test=False):
     runner(self, show, f"./spotify/{show}", 3)
     # ADD
     if test:
-        logging.info(f"Running Test, Skipping Upload: {show}")
+        logging.warning(f"Running Test, Skipping Upload: {show}")
     else:
-        logging.info("S-Playlist")
+        logging.debug("S-Playlist")
         runner(self, show, f"./uploaded/{show}", 6)
 
 
@@ -56,19 +56,19 @@ def scripts(self, show, test=False):
 def runner(self, show, comparison, command):
     rq, do = prerun(comparison)
     if rq:
-        logging.info(f"Runner {show}: {command}")
+        logging.debug(f"Runner {show}: {command}")
         if command == 1:
             webscrape.ntstracklist(show, do)
         elif command == 2:
-            logging.info("Spotify")
+            logging.debug("Spotify")
             self.searchloop(show, ["tracklist", "spotify_search_results"], "search", do)
         elif command == 3:
-            logging.info("Spotify-Rate")
+            logging.debug("Spotify-Rate")
             self.searchloop(
                 show, ["tracklist", "spotify", "spotify_search_results"], "rate", do
             )
         elif command == 6:
-            logging.info("Spotify-Playlist")
+            logging.debug("Spotify-Playlist")
             self.spotifyplaylist(show)
 
 

@@ -7197,21 +7197,24 @@
         },
         "45": {
             "artist": "Unknown Mortal Orchestra",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Meshuggah",
-            "trackid": "7FpD6W73sZuEEp4dNRCwy9"
+            "trackid": "7FpD6W73sZuEEp4dNRCwy9",
+            "uri": ""
         },
         "46": {
             "artist": "The Casualties",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Unknown Soldier",
-            "trackid": "5gl3rFZJnNwemQFD2qkZu7"
+            "trackid": "5gl3rFZJnNwemQFD2qkZu7",
+            "uri": ""
         },
         "47": {
             "artist": "Night Lovell",
-            "ratio": 3,
+            "ratio": -1,
             "title": "UNKNOWN LOCATION INTERLUDE",
-            "trackid": "1e4dTHi7htSUtrQJkx4qOm"
+            "trackid": "1e4dTHi7htSUtrQJkx4qOm",
+            "uri": ""
         }
     },
     "circadian-rhythms-22nd-december-2016": {

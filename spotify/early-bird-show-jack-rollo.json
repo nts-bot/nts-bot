@@ -5494,9 +5494,10 @@
     "early-bird-show-jack-rollo-22nd-september-2023": {
         "00": {
             "artist": "Johann Pachelbel",
-            "ratio": 9,
+            "ratio": -1,
             "title": "???????????????????????????????????????????",
-            "trackid": "4SrxsLKbHc4ItzaRVETVkw"
+            "trackid": "4SrxsLKbHc4ItzaRVETVkw",
+            "uri": ""
         },
         "01": {
             "artist": "URA",

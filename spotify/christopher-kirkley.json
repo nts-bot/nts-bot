@@ -3894,9 +3894,10 @@
         },
         "03": {
             "artist": "Pablo U-Know",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Unknown Caller",
-            "trackid": "5wObiOIDEn9gY8UBI8XkT6"
+            "trackid": "5wObiOIDEn9gY8UBI8XkT6",
+            "uri": ""
         },
         "04": {
             "artist": "The Ronettes",
@@ -3948,9 +3949,10 @@
         },
         "12": {
             "artist": "DJ SUNCO",
-            "ratio": 9,
+            "ratio": -1,
             "title": "TIMBILU",
-            "trackid": "0vOGGlwFiuXRkQqyedjIej"
+            "trackid": "0vOGGlwFiuXRkQqyedjIej",
+            "uri": ""
         },
         "13": {
             "artist": "Soweto Gospel Choir",

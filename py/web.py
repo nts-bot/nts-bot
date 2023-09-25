@@ -71,10 +71,10 @@ class connection:
             requests_timeout=5,
             retries=10,
         )
-        logging.info(". Testing . ")
+        logging.debug(". Testing . ")
         _ = self.sp.user(self.user)
         _ = self.sp.playlist("4yN04eQGIl1Vs1ijVCCyeL")
-        logging.info("Successful")
+        logging.debug("Successful")
 
     def connect(self):
         """CONNECTION HANDLER ; VIA https://developer.spotify.com/dashboard/applications"""
@@ -99,7 +99,7 @@ class connection:
         try:
             with open("./pickle/spotipywebapi.pickle", "rb") as handle:
                 pick = pickle.load(handle)
-            logging.info(index[pick])
+            logging.warning(index[pick])
             self.subconnect(index, pick)
             time.sleep(1.0)
             lock.release()
@@ -127,7 +127,7 @@ class connection:
             "o",
         ]
         try:
-            logging.info(". . . . . . . . Unsuccessful")
+            logging.warning(". Unsuccessful .")
             dr = os.listdir()
             if ".cache-31yeoenly5iu5pvoatmuvt7i7ksy" in dr:
                 os.remove(".cache-31yeoenly5iu5pvoatmuvt7i7ksy")
