@@ -50,9 +50,10 @@
         },
         "08": {
             "artist": "NIKSTER",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Unknown",
-            "trackid": "5ZIUcAYOukzQ6qx5c4LNpu"
+            "trackid": "5ZIUcAYOukzQ6qx5c4LNpu",
+            "uri": ""
         },
         "09": {
             "artist": "Kyoto Jazz Massive",

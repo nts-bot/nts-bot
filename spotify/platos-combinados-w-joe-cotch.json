@@ -1310,9 +1310,10 @@
         },
         "20": {
             "artist": "NIKSTER",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Unknown",
-            "trackid": "5ZIUcAYOukzQ6qx5c4LNpu"
+            "trackid": "5ZIUcAYOukzQ6qx5c4LNpu",
+            "uri": ""
         },
         "21": {
             "artist": "Rove Ranger",

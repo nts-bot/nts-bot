@@ -163,7 +163,7 @@ class nts:
         connection.connect()
 
         """ APPEND-FROM/CREATE SPOTIFY PLAYLIST """
-        pid = self.pid(show)
+        pid = self.pid[show]
         meta = utils.rnw_json(f"./meta/{show}")
         sortmeta = sorted(
             [".".join(value["date"].split(".")[::-1]), key]
