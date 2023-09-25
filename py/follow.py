@@ -26,6 +26,8 @@ class_instance = script.nts()
 todo = ["counter", "privatise", "publicise", "follow"]
 
 for i in todo:
+    script.connection.connect()
+    logging.info(f"Starting: {i}")
     try:
         eval(f"class_instance.{i}()")
     except:

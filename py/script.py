@@ -3,8 +3,10 @@ import os
 import re
 import time
 import queue
+import string
 import urllib
 import pprint
+import random
 import logging
 import traceback
 import datetime as dt
@@ -298,10 +300,6 @@ class nts:
         """ STORE UPDATED RATE INFO (REMOVING UNKNOWN ARTIST) """
         utils.rnw_json(f"./spotify/{show}", rate)
 
-        # """ GET NUMBER OF DUPLICATE TRACKS """
-        # tidup = self.scene(tid[::-1])[::-1]
-        # dups = len(tid) - len(tidup)
-
         """ RESET CONDITION """
         if reset:
             logging.warning("RESET")
@@ -338,20 +336,6 @@ class nts:
                             connection.user, pid, i, 0
                         )
             print(".tracks appended.", end="\r")
-
-        # """ STRING OF UNSURE/DUPLICATE RESULTS """
-        # if almost:
-        #     almost = f" {almost} mayb;"  # Not insightful.
-        # else:
-        #     almost = ""
-        # if empty:
-        #     empty = f" {empty} eps w/o tracklist;"  # Dropping for now
-        # else:
-        #     empty = ""
-        # if dups:
-        #     duplicates = f" {dups} reps;"  # Dropping for now
-        # else:
-        #     duplicates = ""
 
         """ DESCRIPTION / TITLES """
         title, desk = (
@@ -410,7 +394,7 @@ class nts:
         utils.rnw_json(f"./uploaded/{show}", uploaded)
 
     @utils.timeout(30.0)
-    def subfollow(self, creds, usr):
+    def subfollow(self, usr, creds):
         if str(usr) not in creds:
             return None
         user = creds[str(usr)]["user"]
@@ -453,12 +437,13 @@ class nts:
 
         _ = f"{usr}: Following: {extent[0][0]} : {extent[-1][0]}"
         print(_)
+        logging.info(_)
         cn = False
         while not cn:
             try:
                 for i in extent[::-1]:
                     if i in self.pid:
-                        print(f"{usr}: {i[:20]}", end="\r")
+                        logging.info(f"{usr}: {i}")
                         playlist_owner_id = "31yeoenly5iu5pvoatmuvt7i7ksy"
                         playlist_id = self.pid[i]
                         if playlist_id:
@@ -481,33 +466,40 @@ class nts:
         usrcall = round(len(self.showlist) / 200 + 0.4999)
         _ = range(1, usrcall + 1)
         ranger = [i for i in range(usrcall + 1)]
-        self.parallel(self.subfollow, ranger, [creds, ranger])
+        return self.parallel(self.subfollow, ranger, [creds])
 
     @staticmethod
     def subwings(pid):
-        connection.connect()
-        return connection.sp.playlist(pid)["followers"]["total"]
+        while True:
+            try:
+                return connection.sp.playlist(pid)["followers"]["total"]
+            except:
+                logging.warning(traceback.format_exc())
+                connection.connect()
 
     def wings(self):
-        self.parallel(self.subwers, list(self.pid))
+        return self.parallel(self.subwings, list(self.pid.values()))
 
     @staticmethod
     def subprivatise(pid, b):
-        connection.connect()
-        return connection.sp.playlist_change_details(pid, public=b)
+        while True:
+            try:
+                return connection.sp.playlist_change_details(pid, public=b)
+            except:
+                logging.warning(traceback.format_exc())
+                connection.connect()
 
     def privatise(self):
-        self.parallel(self.subprivatise, list(self.pid), [False])
+        return self.parallel(self.subprivatise, list(self.pid.values()), [False])
 
     def publicise(self):
         keys = list(self.pid)
-        r = range(len(keys))
         d = dict()
         o = 0
         k = []
-        self.wings()
+        anem, r = self.wings()
         for c in r:
-            d[keys[c]] = eval(f"utils.subw{c}")
+            d[keys[c]] = eval(f"utils.{anem}_{c}")
         most = {k: v for k, v in sorted(d.items(), key=lambda item: item[1])[::-1]}
         for i in most:
             o += 1
@@ -515,13 +507,9 @@ class nts:
                 break
             else:
                 k += [i]
-        self.parallel(self.subprivatise, k, [True])
+        return self.parallel(self.subprivatise, k, [True])
 
-    def subcounter(self):
-        track_d = dict()
-        artist_d = dict()
-        l = list()
-
+    def subsubcounter(self, show, episodes):
         bad = [
             "unknown",
             "unknown artist",
@@ -536,45 +524,55 @@ class nts:
             "intro",
             "guest mix",
         ]
+        for k in episodes:
+            a = (
+                episodes[k]["artist"]
+                .replace(",", "")
+                .replace("'", "")
+                .replace('"', "")
+                .strip()
+            )
+            r = (
+                episodes[k]["title"]
+                .replace(",", "")
+                .replace("'", "")
+                .replace('"', "")
+                .strip()
+            )
+            if not ((a.lower() in bad) or (r.lower() in bad)):
+                info1 = f"{show} -- {a} -- {r}"
+                info2 = f"{show} -- {r} -- {a}"
+                track = f"{a} -- {r}"
+                if any(i not in self.list for i in [info1, info2]):
+                    if track not in self.track_d:
+                        self.track_d[track] = 1
+                    else:
+                        self.track_d[track] += 1
+                else:
+                    pass
+                    # track_d[track] += 1
+                if f"{r}" in self.artist_d:
+                    self.artist_d[f"{r}"] += 1
+                elif f"{a}" not in self.artist_d:
+                    self.artist_d[f"{a}"] = 1
+                else:
+                    self.artist_d[f"{a}"] += 1
+                self.list += [info1, info2]
 
-        for i in self.showlist:
-            t = utils.rnw_json(f"./tracklist/{i}")
-            for j in t:
-                for k in t[j]:
-                    a = (
-                        t[j][k]["artist"]
-                        .replace(",", "")
-                        .replace("'", "")
-                        .replace('"', "")
-                        .strip()
-                    )
-                    r = (
-                        t[j][k]["title"]
-                        .replace(",", "")
-                        .replace("'", "")
-                        .replace('"', "")
-                        .strip()
-                    )
-                    if not ((a.lower() in bad) or (r.lower() in bad)):
-                        info1 = f"{i} -- {a} -- {r}"
-                        info2 = f"{i} -- {r} -- {a}"
-                        track = f"{a} -- {r}"
-                        if any(i not in l for i in [info1, info2]):
-                            if track not in track_d:
-                                track_d[track] = 1
-                            else:
-                                track_d[track] += 1
-                        else:
-                            pass
-                            # track_d[track] += 1
-                        if f"{r}" in artist_d:
-                            artist_d[f"{r}"] += 1
-                        elif f"{a}" not in artist_d:
-                            artist_d[f"{a}"] = 1
-                        else:
-                            artist_d[f"{a}"] += 1
-                        l += [info1, info2]
-        return track_d, artist_d
+    def subcounter(self, show):
+        return self.parallel(
+            self.subsubcounter, utils.rnw_json(f"./tracklist/{show}"), [show]
+        )
+
+    def counter(self):
+        self.track_d = dict()
+        self.artist_d = dict()
+        self.list = list()
+        _ = self.parallel(self.subcounter, self.showlist)
+        with open("./most_played_tracks.txt", "w", encoding="utf-8") as f:
+            f.write(self.cleaners_from_venus(self.track_d, 200))
+        with open("./most_played_artists.txt", "w", encoding="utf-8") as f:
+            f.write(self.cleaners_from_venus(self.track_d, 100))
 
     @staticmethod
     def cleaners_from_venus(dic, amount):
@@ -586,18 +584,14 @@ class nts:
             a[i] = f"{i+1:03}. {a[i].replace('{','').replace('}','')}"
         return "\n".join(a)
 
-    def counter(self):
-        track_d, artist_d = self.subcounter()
-        utils.rnw_json("./most_played_tracks", self.cleaners_from_venus(track_d, 200))
-        utils.rnw_json("./most_played_artists", self.cleaners_from_venus(artist_d, 100))
-
     @staticmethod
     def parallel(function, ranger, kwargs=[]):
         r = range(len(ranger))
-        anem = str(function).split(" ")[1].split(".")[-1][:4]
+        anem = "".join(random.choice(string.ascii_letters) for i in range(10))
         f = {f"{anem}_{c}": function for c in r}
         p = {f"{anem}_{c}": [ranger[c], *kwargs] for c in r}
         utils.parallel_process(f, p)
+        return anem, len(ranger)
 
     # SPOTIFY API SEARCH FUNCTIONS
 
