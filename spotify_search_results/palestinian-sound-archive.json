@@ -436,6 +436,206 @@
             ]
         }
     },
+    "palestinian-sound-archive-21st-august-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Karim Atari",
+                    "title": "Amnesiac",
+                    "uri": "6fu753gugDbbbCUArIeXC9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Karim",
+                    "title": "Für die ganze Stadt",
+                    "uri": "1ZOugtwtHiCWB087LF2prJ"
+                },
+                {
+                    "artist": "Karim Alkhayat",
+                    "title": "Mirage",
+                    "uri": "7wqQ92BF3CMJywHRKmCLl1"
+                },
+                {
+                    "artist": "Mahmoud El Esseily",
+                    "title": "سمع هس",
+                    "uri": "7v6T4DIvmmmUmyAxMdNUAJ"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Karim Atari",
+                    "title": "Stargazer",
+                    "uri": "5QhaVbb1r0cWnRcXoRX39A"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "ISLAND",
+                    "title": "Stargazer",
+                    "uri": "4iMvFFQwzEaoI5xzZE0W2y"
+                },
+                {
+                    "artist": "Karim",
+                    "title": "Für die ganze Stadt",
+                    "uri": "1ZOugtwtHiCWB087LF2prJ"
+                },
+                {
+                    "artist": "Karim Alkhayat",
+                    "title": "Mirage",
+                    "uri": "7wqQ92BF3CMJywHRKmCLl1"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Karim",
+                    "title": "Woman of the Ghetto - Original Mix",
+                    "uri": "2wQ9EG969cquLD8qM9y9am"
+                },
+                {
+                    "artist": "Karim",
+                    "title": "Für die ganze Stadt",
+                    "uri": "1ZOugtwtHiCWB087LF2prJ"
+                },
+                {
+                    "artist": "Karim Alkhayat",
+                    "title": "Mirage",
+                    "uri": "7wqQ92BF3CMJywHRKmCLl1"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Karim Atari",
+                    "title": "Dweller",
+                    "uri": "36vMNluIpmZlCXTMOO7BgF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Karim",
+                    "title": "Knasthof",
+                    "uri": "5mQvqHPRqSyLqxgd7zNXdG"
+                },
+                {
+                    "artist": "Karim",
+                    "title": "Gangsta Paradies",
+                    "uri": "0IWwMmYA5UmZZuiNWDwy1C"
+                },
+                {
+                    "artist": "Karim Alkhayat",
+                    "title": "Mirage",
+                    "uri": "7wqQ92BF3CMJywHRKmCLl1"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Karim Tizouiar",
+                    "title": "Ul-iw Idouqous",
+                    "uri": "5SJmDAFsdE2K2pGBpmnbLk"
+                },
+                {
+                    "artist": "Salim Bahanan",
+                    "title": "Surah Al Qari'ah",
+                    "uri": "28gRmlQmls6oCgDzoXcYN5"
+                },
+                {
+                    "artist": "Karim Alkhayat",
+                    "title": "New Era - Original Mix",
+                    "uri": "2XJp4bn9HAJLC8lldbePZ4"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Karim",
+                    "title": "Für die ganze Stadt",
+                    "uri": "1ZOugtwtHiCWB087LF2prJ"
+                },
+                {
+                    "artist": "Karim",
+                    "title": "Gangsta Paradies",
+                    "uri": "0IWwMmYA5UmZZuiNWDwy1C"
+                },
+                {
+                    "artist": "Karim Alkhayat",
+                    "title": "Mirage",
+                    "uri": "7wqQ92BF3CMJywHRKmCLl1"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kaisaschnitt",
+                    "title": "Checkpoint Charlie",
+                    "uri": "0C8R8iVEIpcSNT7tIbuwm9"
+                },
+                {
+                    "artist": "Neon Nox",
+                    "title": "Checkpoint",
+                    "uri": "5dS5QGa0oIXoRn8jknDHfG"
+                },
+                {
+                    "artist": "Uncircle",
+                    "title": "Checkpoint",
+                    "uri": "2SUFwuAo5iSegSmAU2NkZf"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jamila & The Other Heroes",
+                    "title": "Fragments of Palestine (Remembering Juliano Mer-Khamis)",
+                    "uri": "5CJzu0tAbrCcJVstxQoqSO"
+                },
+                {
+                    "artist": "Jamila & The Other Heroes",
+                    "title": "Abu Dub",
+                    "uri": "6X3XDA36ekI3xQ75QkfKdZ"
+                },
+                {
+                    "artist": "Abbude",
+                    "title": "Jamila",
+                    "uri": "6jkvg6BaAYuXwu2G23wF3p"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Khaled El Habre",
+                    "title": "Ahmad El Zaatar",
+                    "uri": "10Jk4P8H45D5GRMDuyqLSB"
+                },
+                {
+                    "artist": "خالد عزيز الكملي",
+                    "title": "تلاوة مريحة للقلوب والنفوس المتعبة بصوت فضيلة الشيخ خالد الجليل سورة الجن",
+                    "uri": "2xyb51e84PJeXiFHEg83oP"
+                },
+                {
+                    "artist": "أحمد خضر",
+                    "title": "سورة طه",
+                    "uri": "0Czdvi9836pASMouXVxcHA"
+                }
+            ]
+        }
+    },
     "palestinian-sound-archive-24th-october-2022": {
         "00": {
             "s0": "",
