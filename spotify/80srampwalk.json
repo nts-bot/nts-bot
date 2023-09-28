@@ -6764,6 +6764,110 @@
             "trackid": "1KwlBhULXOD6MwUymxZiI3"
         }
     },
+    "80srampwalk-27th-september-2023": {
+        "00": {
+            "artist": "Carlo Karacho",
+            "ratio": 5,
+            "title": "Weltraumsex",
+            "trackid": "4B6B834kLy0e8wvHdc764Z"
+        },
+        "01": {
+            "artist": "Marine Girls",
+            "ratio": 9,
+            "title": "On My Mind",
+            "trackid": "0UQzrCzruzItZpXtn1VAp3"
+        },
+        "02": {
+            "artist": "Marine Girls",
+            "ratio": 9,
+            "title": "Second Sight",
+            "trackid": "5rmDW2vpyjKTHqyn6CX5B3"
+        },
+        "03": {
+            "artist": "April Magazine",
+            "ratio": 9,
+            "title": "If the Ceiling Were a Kite",
+            "trackid": "57YRt29TdX0avRvpEEppFL"
+        },
+        "04": {
+            "artist": "Choo Choo Flame",
+            "ratio": 9,
+            "title": "Nein",
+            "trackid": "1cfh1Uln5FtpAUqnH03IfT"
+        },
+        "05": {
+            "artist": "Desmond Dekker",
+            "ratio": 3,
+            "title": "Israelites",
+            "trackid": "0di7hMT6o1ogeUN1XDB9Ft"
+        },
+        "06": {
+            "artist": "Normil Hawaiians",
+            "ratio": 9,
+            "title": "New Standard",
+            "trackid": "464yDRngSoRwRkGomNvnkk"
+        },
+        "07": {
+            "artist": "Mac Miller",
+            "ratio": 3,
+            "title": "Small Worlds",
+            "trackid": "4gT3mNJA8lnlkYFqGZ8IA2"
+        },
+        "08": {
+            "artist": "Echo & the Bunnymen",
+            "ratio": 9,
+            "title": "Seven Seas",
+            "trackid": "5qzwrPRbnaqSOK545OEJBq"
+        },
+        "09": {
+            "artist": "Josh Hamelin",
+            "ratio": 4,
+            "title": "instead of me",
+            "trackid": "5GjYAGUPHmbdVBHi9oyHDl"
+        },
+        "10": {
+            "artist": "I Bimbo Jet",
+            "ratio": 4,
+            "title": "Il gatto zafferano",
+            "trackid": "0BoFcOnVRPKOTpSAUN8BQM"
+        },
+        "11": {
+            "artist": "Keenan Te",
+            "ratio": 4,
+            "title": "Dependent",
+            "trackid": "1LEEVrSTobMkzG7r2vSoEJ"
+        },
+        "12": {
+            "artist": "Peppermint Beats",
+            "ratio": 4,
+            "title": "Dance The Night",
+            "trackid": "1Fojoxyz2Sngf7wwY5jOeR"
+        },
+        "13": {
+            "artist": "SS-Say",
+            "ratio": 9,
+            "title": "Care",
+            "trackid": "292b5xSNQAny1AExy8FYEI"
+        },
+        "14": {
+            "artist": "Shelter",
+            "ratio": 9,
+            "title": "Dub of the Scarlet City",
+            "trackid": "45fiDQXt9xTf31c1i0bvQZ"
+        },
+        "15": {
+            "artist": "Matt Maeson",
+            "ratio": 5,
+            "title": "Hallucinogenics",
+            "trackid": "6bLU8e0LGyztE9iD5DWBQ1"
+        },
+        "16": {
+            "artist": "czn",
+            "ratio": 9,
+            "title": "Year of the Rat",
+            "trackid": "3KDf7X94tTKEEjkiprmNHA"
+        }
+    },
     "80srampwalk-28th-september-2022": {
         "00": {
             "artist": "Epic Soundtracks",
@@ -6964,9 +7068,10 @@
     "80srampwalk-30th-september-2023": {
         "00": {
             "artist": "Unknown Mortal Orchestra",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Meshuggah",
-            "trackid": "7FpD6W73sZuEEp4dNRCwy9"
+            "trackid": "7FpD6W73sZuEEp4dNRCwy9",
+            "uri": ""
         },
         "01": {
             "artist": "Marine Girls",

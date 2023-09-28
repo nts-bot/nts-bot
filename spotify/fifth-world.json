@@ -3793,6 +3793,122 @@
             "trackid": "0YsxgCRV8ba1dmPqcUv9nz"
         }
     },
+    "fifth-world-27th-september-2023": {
+        "00": {
+            "artist": "Dualizm",
+            "ratio": 5,
+            "title": "Kanaan",
+            "trackid": "5G5nj9Ie8asmAQp8b1JS2I"
+        },
+        "01": {
+            "artist": "Abor & Tynna",
+            "ratio": 3,
+            "title": "Time Bender - Radio Version",
+            "trackid": "785vKujAiQKTApN2iEO5yl"
+        },
+        "02": {
+            "artist": "Ans M",
+            "ratio": 9,
+            "title": "Cicada Lullaby II",
+            "trackid": "6oV6TE3P3URJqaFmCDxCtZ"
+        },
+        "03": {
+            "artist": "KUNZITE",
+            "ratio": 3,
+            "title": "LEMON SWAYZE",
+            "trackid": "6o8CcR3mVK2WvZcIurnvAZ"
+        },
+        "04": {
+            "artist": "J and the woolen stars",
+            "ratio": 9,
+            "title": "Sweeter",
+            "trackid": "7q7SlxJDApnkoN8hJZ18Mo"
+        },
+        "05": {
+            "artist": "Y-Limit",
+            "ratio": 0,
+            "title": "Sippin' on Nirvana",
+            "trackid": "4YXswNdqOXJj3UWjk0rR7q"
+        },
+        "06": {
+            "artist": "The Smashing Pumpkins",
+            "ratio": 9,
+            "title": "Cupid De Locke - Remastered 2012",
+            "trackid": "7zwwvrJAWGjfc9wFD3bVzZ"
+        },
+        "07": {
+            "artist": "Eera",
+            "ratio": 9,
+            "title": "Would You Remember Me If Tomorrow I Was Gone",
+            "trackid": "5ULmywlwlqMWIKYkZbKBHW"
+        },
+        "08": {
+            "artist": "NAVACHA",
+            "ratio": 3,
+            "title": "Magenta",
+            "trackid": "0QvZ08WJMdisBtRATftFV1"
+        },
+        "09": {
+            "artist": "LEOPOLDO",
+            "ratio": 4,
+            "title": "Every Day",
+            "trackid": "5VzppAnnZpOgjhaBPmGOjS"
+        },
+        "10": {
+            "artist": "Yuichiro Fujimoto",
+            "ratio": 9,
+            "title": "Puddle",
+            "trackid": "6n2mvV2UE8yfIGl5TlqOF5"
+        },
+        "11": {
+            "artist": "Khotin",
+            "ratio": 3,
+            "title": "Dwellberry",
+            "trackid": "6924XH4uThVPk4CpFv30gG"
+        },
+        "12": {
+            "artist": "Lorenz Ambeek",
+            "ratio": 4,
+            "title": "Linoleum",
+            "trackid": "1SKkGFpO4nPOHxIO3ZvnfH"
+        },
+        "13": {
+            "artist": "Billy Paul",
+            "ratio": 4,
+            "title": "Me and Mrs. Jones",
+            "trackid": "6Ro2z4RtAUew9Kz2HZWZUi"
+        },
+        "14": {
+            "artist": "Bladee",
+            "ratio": 9,
+            "title": "Westfield",
+            "trackid": "4fI9NDKGs0LXj3GRdH1sCX"
+        },
+        "15": {
+            "artist": "Juri Bojka",
+            "ratio": 3,
+            "title": "Russian Standart",
+            "trackid": "0BHHOWdtaPmhRt2JaWgzRF"
+        },
+        "16": {
+            "artist": "The Crying Nudes",
+            "ratio": 9,
+            "title": "angel heart",
+            "trackid": "5pmM1AJrwEG7ICkNLjFEW9"
+        },
+        "17": {
+            "artist": "Lauren Daigle",
+            "ratio": 4,
+            "title": "Ego",
+            "trackid": "2udUyMvX1xp5kjb3HApR9I"
+        },
+        "18": {
+            "artist": "Lyze",
+            "ratio": 4,
+            "title": "shades",
+            "trackid": "6y9lqOQTRd1p7n6mQ0CMt5"
+        }
+    },
     "fifth-world-28th-october-2020": {
         "00": {
             "artist": "Secret Colours",
@@ -4304,15 +4420,17 @@
         },
         "14": {
             "artist": "Pippi Langstrumpf",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Pippi im Taka-Tuka-Land - Hörspiel zum Film - Teil 14",
-            "trackid": "4yER5NTdHtth4zGIC0iJ8f"
+            "trackid": "4yER5NTdHtth4zGIC0iJ8f",
+            "uri": ""
         },
         "15": {
             "artist": "Pippi Langstrumpf",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Pippi im Taka-Tuka-Land - Hörspiel zum Film - Teil 14",
-            "trackid": "4yER5NTdHtth4zGIC0iJ8f"
+            "trackid": "4yER5NTdHtth4zGIC0iJ8f",
+            "uri": ""
         }
     },
     "fifth-world-30th-september-2020": {
