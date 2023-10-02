@@ -1823,6 +1823,165 @@
             ]
         }
     },
+    "dubuntu-1st-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Innov Gnawa",
+                    "title": "Toura Toura",
+                    "uri": "2IDfgp6XFrBHzxbNb6TbxI"
+                },
+                {
+                    "artist": "Innov Gnawa",
+                    "title": "Toura Toura",
+                    "uri": "4YXZl7ZDKQJ4EQXGJT8U3q"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Innov Gnawa",
+                    "title": "Toura Toura",
+                    "uri": "2IDfgp6XFrBHzxbNb6TbxI"
+                },
+                {
+                    "artist": "Innov Gnawa",
+                    "title": "Youbati - Boulila",
+                    "uri": "36SFAw8cptxZYvWd33kMa6"
+                },
+                {
+                    "artist": "Bonobo",
+                    "title": "Bambro Koyo Ganda",
+                    "uri": "5EGJ7e7frJjYja6H4afzoT"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mahmoud Guinia",
+                    "title": "Shaba Kouria",
+                    "uri": "6tghScpQTCpuhlhkrVztdO"
+                },
+                {
+                    "artist": "Melhem Barakat",
+                    "title": "Sallem Alayha",
+                    "uri": "7wtPJEWAN0iFyR0yEaBxWX"
+                },
+                {
+                    "artist": "Melhem Zein",
+                    "title": "اعراس الغوالى",
+                    "uri": "0BODnguxwsakNy8F9cimeQ"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Simo Lagnawi",
+                    "title": "Samasama",
+                    "uri": "1xQSepbkkxcpn5W9nv6Ihl"
+                },
+                {
+                    "artist": "Simo Lagnawi",
+                    "title": "Arabiato",
+                    "uri": "2THND2AOdM0UKRIi5RJNZk"
+                },
+                {
+                    "artist": "Simo Lagnawi",
+                    "title": "Baniyorkoy",
+                    "uri": "1Igxw5lYI0lGE9sHj1pefi"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Simo Lagnawi",
+                    "title": "Aichato",
+                    "uri": "6MikhIqC7T1yqvs30ystho"
+                },
+                {
+                    "artist": "Simo Lagnawi",
+                    "title": "Arabiato",
+                    "uri": "2THND2AOdM0UKRIi5RJNZk"
+                },
+                {
+                    "artist": "Simo Lagnawi",
+                    "title": "Baniyorkoy",
+                    "uri": "1Igxw5lYI0lGE9sHj1pefi"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Altaf Gnawa Group",
+                    "title": "Baba Mimoun (Father Mimoun)",
+                    "uri": "5M71QfNOpiXVn8oMRDoS0N"
+                },
+                {
+                    "artist": "Traditional",
+                    "title": "Baba Mimoun (Father Mimoun)",
+                    "uri": "44OxuEzsKn7VP4gs5dDbob"
+                },
+                {
+                    "artist": "Gnawa Impulse",
+                    "title": "Gnawi Baba Mimoun - Jan Rase Remix",
+                    "uri": "7MJn7pkVO1chHyXvjemfqY"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mahmoud Guinia",
+                    "title": "Sadati Houma El Bouhala",
+                    "uri": "1Ka4OdpYtJ8zL5rVk4r5Bx"
+                },
+                {
+                    "artist": "Nass El Ghiwane",
+                    "title": "Mahmoume - Tourmenté",
+                    "uri": "63TIFnEUF8mzPOVw0wYhT3"
+                },
+                {
+                    "artist": "Melhem Barakat",
+                    "title": "Sallem Alayha",
+                    "uri": "7wtPJEWAN0iFyR0yEaBxWX"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Maalem Si Mohamed Chaouqi",
+                    "title": "Marhaba - Les Mlouks",
+                    "uri": "5UH3CEKTwhw2PnxVEnF1TC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Maalem Si Mohamed Chaouqi",
+                    "title": "Marhaba - Les Mlouks",
+                    "uri": "5UH3CEKTwhw2PnxVEnF1TC"
+                },
+                {
+                    "artist": "Mahmoud Guinia",
+                    "title": "Mimoun Marhaba",
+                    "uri": "68tS8zt1kpPHxunJ7Xq4PI"
+                },
+                {
+                    "artist": "Melhem Zein",
+                    "title": "دلعونا",
+                    "uri": "7sKRep0Z6sZnQjqc6qOvSH"
+                }
+            ]
+        }
+    },
     "dubuntu-21st-november-2020": {
         "00": {
             "s0": "",

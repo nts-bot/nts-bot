@@ -2483,6 +2483,356 @@
             ]
         }
     },
+    "ruby-savage-30th-september-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Duval Timothy",
+                    "title": "Plunge",
+                    "uri": "3kCAE2mfUsjm7Ab2JAKMkC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Duval Timothy",
+                    "title": "Plunge",
+                    "uri": "3kCAE2mfUsjm7Ab2JAKMkC"
+                },
+                {
+                    "artist": "Duval Timothy",
+                    "title": "Up",
+                    "uri": "4bUTP4O5QHWEfLBDz2yzU0"
+                },
+                {
+                    "artist": "Duval Timothy",
+                    "title": "Fall Again",
+                    "uri": "3DU0kVyL8d8DgINz9qBxPQ"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Luke Sanger",
+                    "title": "Mycelium Networks",
+                    "uri": "2e4iKibwnYbVoDgj87jGLI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Luke Slater",
+                    "title": "Love",
+                    "uri": "5tzZgbws2GMfF4B2gxa7Xf"
+                },
+                {
+                    "artist": "Luke Sital-Singh",
+                    "title": "Wiser Too",
+                    "uri": "78c7FC7MgvfLVcVVbgEXrf"
+                },
+                {
+                    "artist": "MyceliumBug",
+                    "title": "Starless Nightsky",
+                    "uri": "3vN6BrVxHOCbvEn6FOGt5u"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "John Haycock",
+                    "title": "Cascade",
+                    "uri": "6BdHT8ZGdwLnafHqVZEX44"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "John Hayes",
+                    "title": "Fond",
+                    "uri": "3o6kUlFORwCD5Pq6aXBjx6"
+                },
+                {
+                    "artist": "John Hayes",
+                    "title": "Fond - il:lo Remix",
+                    "uri": "5DknnDaH2kQasK4orZWMGq"
+                },
+                {
+                    "artist": "John Hiatt",
+                    "title": "Long Time Comin'",
+                    "uri": "4OfCkjpcpqKgr9igYyOSHm"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "James Holden",
+                    "title": "Common Land",
+                    "uri": "1GzMcuifCMSYlfYkGK3fYW"
+                },
+                {
+                    "artist": "James Holden",
+                    "title": "Common Land",
+                    "uri": "2AFtfheEQwKT3d4CYKO9Ix"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "James Holden",
+                    "title": "Common Land",
+                    "uri": "1GzMcuifCMSYlfYkGK3fYW"
+                },
+                {
+                    "artist": "James Holden",
+                    "title": "Common Land",
+                    "uri": "2AFtfheEQwKT3d4CYKO9Ix"
+                },
+                {
+                    "artist": "James Holden",
+                    "title": "Solidarity Theme (Villagers)",
+                    "uri": "13soDJHFYHF1XhdWqhzpjY"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dub FX",
+                    "title": "Wandering Love",
+                    "uri": "5DOyX5f3i42rbauDAsqZcv"
+                },
+                {
+                    "artist": "Desert Dwellers",
+                    "title": "Wandering Sadhu",
+                    "uri": "1HdY92x0hBRSRMAaSymZ9c"
+                },
+                {
+                    "artist": "Weeding Dub",
+                    "title": "Gypsy Dub (feat. Ras Divarius)",
+                    "uri": "1nd2dVDbsBZGrsm8NEwBIV"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Moin",
+                    "title": "Melon",
+                    "uri": "5734g7WLlFBFsRJoG2vw46"
+                },
+                {
+                    "artist": "Moin",
+                    "title": "Melon",
+                    "uri": "41sTKft7OkBgiLQdARWxtC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Moin",
+                    "title": "Melon",
+                    "uri": "5734g7WLlFBFsRJoG2vw46"
+                },
+                {
+                    "artist": "Eliane Elias",
+                    "title": "Movin' Me On",
+                    "uri": "7bI4VZAikZnvAmSckRPs58"
+                },
+                {
+                    "artist": "Freya Rääf",
+                    "title": "Min Melodi",
+                    "uri": "0rafHfCcXPvNoLf5uHQvpr"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lonnie Holley",
+                    "title": "I Am A Part Of The Wonder",
+                    "uri": "75SXdkNWnbRmBTCemtwx6o"
+                },
+                {
+                    "artist": "Lonnie Holley",
+                    "title": "Like Hell Broke Away",
+                    "uri": "7s6hONRYtuGrybyyeulpIF"
+                },
+                {
+                    "artist": "Lonnie Holley",
+                    "title": "Earth Will Be There",
+                    "uri": "6SnEaK6TRDyAJkADrRaTdB"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "L.T.D.",
+                    "title": "Love To The World",
+                    "uri": "3WDBN6uvRNYqcgZCApxKrP"
+                },
+                {
+                    "artist": "Diplo",
+                    "title": "Love To The World",
+                    "uri": "0TR69tw5aybYHbSC1w4xy5"
+                },
+                {
+                    "artist": "Diplo",
+                    "title": "Love To The World",
+                    "uri": "15JXQwQUL9DDqDbMmNo72i"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Joseph Shabason",
+                    "title": "I Thought That I Could Get Away with It",
+                    "uri": "40WdZIsorrSW8rfCLIHss5"
+                },
+                {
+                    "artist": "Joseph Shabason",
+                    "title": "Broken Hearted Kota",
+                    "uri": "2nP8BQtLMXpaUWjUGWAwhy"
+                },
+                {
+                    "artist": "Joseph Shabason",
+                    "title": "Our Place ft. Thom Gill",
+                    "uri": "4fvyspoROGz30LjX2Fu47O"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Yussef Dayes",
+                    "title": "Black Classical Music (feat. Venna & Charlie Stacey)",
+                    "uri": "4DPh5NuaRuSSMTemdEoFCk"
+                },
+                {
+                    "artist": "Yussef Dayes",
+                    "title": "Black Classical Music (feat. Venna & Charlie Stacey)",
+                    "uri": "3jT3NYsADHgJCBUMz93udD"
+                },
+                {
+                    "artist": "Yussef Dayes",
+                    "title": "Black Classical Music (feat. Venna & Charlie Stacey)",
+                    "uri": "1VEenuWe5CRR4gDNPqGjia"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Yussef Dayes",
+                    "title": "Black Classical Music (feat. Venna & Charlie Stacey)",
+                    "uri": "3jT3NYsADHgJCBUMz93udD"
+                },
+                {
+                    "artist": "Yussef Dayes",
+                    "title": "Black Classical Music (feat. Venna & Charlie Stacey)",
+                    "uri": "4DPh5NuaRuSSMTemdEoFCk"
+                },
+                {
+                    "artist": "Yussef Dayes",
+                    "title": "Early Dayes",
+                    "uri": "0RoJvMcg6qd4DuzjXLp1UV"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Visioneers",
+                    "title": "LuAnne From Harlem",
+                    "uri": "1t4JfgFRc1rMGw50gFkm88"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Visioneers",
+                    "title": "LuAnne From Harlem",
+                    "uri": "1t4JfgFRc1rMGw50gFkm88"
+                },
+                {
+                    "artist": "Visionary",
+                    "title": "Visionary Combo #5",
+                    "uri": "5XSyV7n3vGn4wxM39fHqru"
+                },
+                {
+                    "artist": "Visions of Atlantis",
+                    "title": "In & Out Of Love",
+                    "uri": "69drmBpc2lu5SdXO7TkuKe"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Prince Fatty",
+                    "title": "The Beat Goes On",
+                    "uri": "7J9pbj9Kx103AJOe35HTEK"
+                },
+                {
+                    "artist": "Prince Fatty",
+                    "title": "Shimmy Shimmy Ya",
+                    "uri": "2A0wCdXcNJbHUuw4VTq94A"
+                },
+                {
+                    "artist": "Prince Fatty",
+                    "title": "Milk and Honey",
+                    "uri": "7noMTQDPvffmPOUIJ0J50E"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Horatio Luna",
+                    "title": "Brunswick Massive Pt. 2",
+                    "uri": "7zfHrWtNj1hRHhQEQ4cdDE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Horatio Luna",
+                    "title": "Brunswick Massive Pt. 2",
+                    "uri": "7zfHrWtNj1hRHhQEQ4cdDE"
+                },
+                {
+                    "artist": "Horatio Luna",
+                    "title": "Brunswick Massive",
+                    "uri": "3OK7egZyy5FkXIihjCyMQQ"
+                },
+                {
+                    "artist": "Horatio",
+                    "title": "Release - Tech Us Out Remix",
+                    "uri": "23ugKR2aqOUQCNPzvXn2i2"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ahmad Jamal Trio",
+                    "title": "I Love Music",
+                    "uri": "4MIPpjKWw1lLVwS6tLhis1"
+                },
+                {
+                    "artist": "Ahmad Jamal",
+                    "title": "Excerpts From The Blues",
+                    "uri": "4jY2c0mzMwB9PZbGEeCZZn"
+                },
+                {
+                    "artist": "Ahmad Jamal Trio",
+                    "title": "Dolphin Dance",
+                    "uri": "0kUYnVS6z9YhL22l9pDDcB"
+                }
+            ]
+        }
+    },
     "ruby-savage-4th-august-2023": {
         "00": {
             "s0": "",

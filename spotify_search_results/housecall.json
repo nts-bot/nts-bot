@@ -74272,6 +74272,543 @@
             "s1": ""
         }
     },
+    "housecall-1st-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Betty Wright",
+                    "title": "Girls Can't Do What the Guys Do",
+                    "uri": "2geMYfXFhqZFMdrF08XSLz"
+                },
+                {
+                    "artist": "Betty Wright",
+                    "title": "Girls Can't Do What the Guys Do",
+                    "uri": "4etFd7qu1VNeQs5qZcpntJ"
+                },
+                {
+                    "artist": "Betty Wright",
+                    "title": "Girls can't do what the guys do",
+                    "uri": "7Iq0WlrK2eCDctqbtict3N"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Betty Wright",
+                    "title": "Girls Can't Do What the Guys Do",
+                    "uri": "2geMYfXFhqZFMdrF08XSLz"
+                },
+                {
+                    "artist": "Betty Wright",
+                    "title": "Old Songs",
+                    "uri": "1ZZuj3tFsn2mLUUTqPKQmk"
+                },
+                {
+                    "artist": "Betty Wright",
+                    "title": "Shoorah! Shoorah!",
+                    "uri": "1X9povBxQkI1ojRA893fv8"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Sylvia",
+                    "title": "Sweet Stuff",
+                    "uri": "4vDqlzw70CYC5zvJykJElX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sylvia",
+                    "title": "Sweet Stuff",
+                    "uri": "4vDqlzw70CYC5zvJykJElX"
+                },
+                {
+                    "artist": "Focus",
+                    "title": "Sylvia",
+                    "uri": "6TJa7RJhrlI4PYaBv0Nx8h"
+                },
+                {
+                    "artist": "Dr. Hook",
+                    "title": "Sylvia's Mother",
+                    "uri": "4hLk7Bjz1XJWNDiqovvgBW"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "The Delfonics",
+                    "title": "Ready or Not Here I Come (Can't Hide from Love)",
+                    "uri": "5RnlUyTKgmd7V6tXdQcKVK"
+                },
+                {
+                    "artist": "The Delfonics",
+                    "title": "Ready or Not Here I Come (Can't Hide from Love)",
+                    "uri": "0XIemdDLdO9ujIcF5PRcg4"
+                },
+                {
+                    "artist": "The Delfonics",
+                    "title": "Ready or Not Here I Come (Rerecorded)",
+                    "uri": "7kHFXqc29GXZjg34vjhGrH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Delfonics",
+                    "title": "Ready or Not Here I Come (Can't Hide from Love)",
+                    "uri": "5RnlUyTKgmd7V6tXdQcKVK"
+                },
+                {
+                    "artist": "The Delfonics",
+                    "title": "Ready or Not Here I Come (Can't Hide from Love)",
+                    "uri": "0XIemdDLdO9ujIcF5PRcg4"
+                },
+                {
+                    "artist": "The Delfonics",
+                    "title": "Didn't I (Blow Your Mind This Time)",
+                    "uri": "1NeKY4qWsCnhY8fvhwQa7q"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "TTRRUUCES",
+                    "title": "Sensations of Cool",
+                    "uri": "4SfyAvpcSQxijDWXLQd57b"
+                },
+                {
+                    "artist": "Billy Cobham",
+                    "title": "Sensations - Lexx Remix",
+                    "uri": "4KRW1UlBmYssYs4SrGw3Nj"
+                },
+                {
+                    "artist": "TTRRUUCES",
+                    "title": "Sensations of Cool",
+                    "uri": "2LDYJE4Xo4EG5ewhec5Kcr"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Willie Hutch",
+                    "title": "I Choose You",
+                    "uri": "6GEq2FrZksbrO3otMV9ZDh"
+                },
+                {
+                    "artist": "Willie Hutch",
+                    "title": "I Choose You - The Mack/Soundtrack Version",
+                    "uri": "6WUYwjET4BBUeRfU0kbmWR"
+                },
+                {
+                    "artist": "Willie Hutch",
+                    "title": "I Choose You - The Mack/Soundtrack Version",
+                    "uri": "79mD0QXIk6XmEg24TawxRe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Willie Hutch",
+                    "title": "I Choose You",
+                    "uri": "6GEq2FrZksbrO3otMV9ZDh"
+                },
+                {
+                    "artist": "Willie Hutch",
+                    "title": "I Choose You - The Mack/Soundtrack Version",
+                    "uri": "6WUYwjET4BBUeRfU0kbmWR"
+                },
+                {
+                    "artist": "Willie Hutch",
+                    "title": "Overture Of Foxy Brown",
+                    "uri": "0F61NAIzwH4nsV67zmgvxQ"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Leon Haywood",
+                    "title": "Long As There's You (I Got Love)",
+                    "uri": "4Hs5gnts6gl7SkWybE0X3o"
+                },
+                {
+                    "artist": "Leon Haywood",
+                    "title": "Long As There's You (I Got Love)",
+                    "uri": "2wt119osbD1ush0UOBsCt0"
+                },
+                {
+                    "artist": "Leon Haywood",
+                    "title": "Long As There's You (I Got Love)",
+                    "uri": "5Vplf5z2dX1iVZZBykhmyV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Leon Haywood",
+                    "title": "Long As There's You (I Got Love)",
+                    "uri": "5Vplf5z2dX1iVZZBykhmyV"
+                },
+                {
+                    "artist": "Ted Hawkins",
+                    "title": "Long As I Can See The Light",
+                    "uri": "6wQB9EcZWOyXV3SygKsNYH"
+                },
+                {
+                    "artist": "Mikey B",
+                    "title": "Long as You Can",
+                    "uri": "4DP59Vpv73jNlpGiWOV8m8"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "The Four Sonics Plus One",
+                    "title": "Lost Without You",
+                    "uri": "2Z7dZpHaYeiMonJ368cNZd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Arcade Player",
+                    "title": "The Four Sinistrals (From \"Lufia and the Fortress of Doom\")",
+                    "uri": "1CtESbmxLkA456lDh5PiWh"
+                },
+                {
+                    "artist": "The Four Skinz",
+                    "title": "Coast Lines",
+                    "uri": "3z8ryZ0bHntQdqjtRIeslh"
+                },
+                {
+                    "artist": "Four Sons Of Horus",
+                    "title": "Scholars",
+                    "uri": "3KKn6czJTRQYlSQ9BTkvN7"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "The Sophisticates",
+                    "title": "I Need You",
+                    "uri": "1SXCM2n3snSIy0Goy2MbWM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Meters",
+                    "title": "Sophisticated Cissy",
+                    "uri": "02ZYIF6aoXo6Zz7EUBpoIc"
+                },
+                {
+                    "artist": "The Pezheads",
+                    "title": "Sophisticated Girl",
+                    "uri": "5BRmhuBxMiTVKPySQeVhZ1"
+                },
+                {
+                    "artist": "Falcom Sound Team jdk",
+                    "title": "Sophisticated Fight",
+                    "uri": "0FVqFeyED5diKE3GSSWErU"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lee Moses",
+                    "title": "Bad Girl (Pt. 2)",
+                    "uri": "2My2bTTL2noFotCCM0UXM9"
+                },
+                {
+                    "artist": "Lee Moses",
+                    "title": "Bad Girl Pt. 2",
+                    "uri": "7yoj3OxOY9vTt23ZJm8W9V"
+                },
+                {
+                    "artist": "Splice Records",
+                    "title": "Bad Girls (Speed Up) - Remix",
+                    "uri": "3i4tUIlb5uueL1PsJ4qb9k"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "James Dee",
+                    "title": "Jealous over Love",
+                    "uri": "2mUMnFsoMz13edbBYBJRdT"
+                },
+                {
+                    "artist": "James Dee & A Piece Of The Action",
+                    "title": "Jealous over Love",
+                    "uri": "7rzIzWy4oElKUQicQqsIAN"
+                },
+                {
+                    "artist": "James Dee & A Piece Of The Action",
+                    "title": "Jealous over Love",
+                    "uri": "4GUTdfoSmNJzq4lEGgwMkp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ufo361",
+                    "title": "James Dean",
+                    "uri": "4x1Fsyl8v1mWSmtEt27jYy"
+                },
+                {
+                    "artist": "Haley Joelle",
+                    "title": "Jealous of Paris",
+                    "uri": "2bS4tGfbBQ7Psy1NjzruK0"
+                },
+                {
+                    "artist": "James Deen",
+                    "title": "Moving Up",
+                    "uri": "2CfGbG0u33YtZypwpCixXt"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Freddie Waters",
+                    "title": "Groovin' On My Baby's Love",
+                    "uri": "2ptDz5oR8aID5U7NS8Bu8K"
+                },
+                {
+                    "artist": "Rod Stewart",
+                    "title": "It's All Over Now",
+                    "uri": "78H0GpZn9EXwEI6gr2FZUA"
+                },
+                {
+                    "artist": "Ry Cooder",
+                    "title": "It's All over Now",
+                    "uri": "0ISIEBuq6GwygeAjubdrxb"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The O'Jays",
+                    "title": "I Love Music",
+                    "uri": "222TScMmzaZ0IdkvbLoin2"
+                },
+                {
+                    "artist": "The O'Jays",
+                    "title": "Back Stabbers",
+                    "uri": "0KpMY3D2G8253VTZbDBUmA"
+                },
+                {
+                    "artist": "The O'Jays",
+                    "title": "Darlin' Darlin' Baby (Sweet, Tender, Love)",
+                    "uri": "2gdvXdZatpwlUM1bfTzwxi"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Donny Moen",
+                    "title": "The Danger in the Dark",
+                    "uri": "0wzQl29bpcxBw96XG2pCvV"
+                },
+                {
+                    "artist": "Donny Moen",
+                    "title": "Glory to God in All",
+                    "uri": "3a7f5t9XSCeaBR1WY3UZE4"
+                },
+                {
+                    "artist": "Donny Moen",
+                    "title": "Your Right Hand",
+                    "uri": "7lVKyX25Y9MHAoJyFf1H82"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jerry Jaye",
+                    "title": "Hello Josephine",
+                    "uri": "34rELaJxpfAqSgo7CCfpaq"
+                },
+                {
+                    "artist": "Jerry Habakkuk",
+                    "title": "Prophet",
+                    "uri": "1fM6ghwIVfqgPG7mQ12K4T"
+                },
+                {
+                    "artist": "Jerry Jaye",
+                    "title": "Redneck Rock",
+                    "uri": "1UH6UAeMdL5k8hJe8dNrk8"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Natural Yogurt Band",
+                    "title": "Flowers in the Rain",
+                    "uri": "7qMjPg2ObzASVKeUwiSg3l"
+                },
+                {
+                    "artist": "The Natural Yogurt Band",
+                    "title": "Heat",
+                    "uri": "0fyHYloSy2YeTXplLYl3wr"
+                },
+                {
+                    "artist": "Biffy Clyro",
+                    "title": "The Naturals",
+                    "uri": "5GkwqUEyvNtKEO3TZuG4Va"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Universal Minds",
+                    "title": "A Chance at Love",
+                    "uri": "1MsRfQdxZRp5imq0cewP9a"
+                },
+                {
+                    "artist": "Universal Minds",
+                    "title": "A Chance At Love",
+                    "uri": "0EWaVapzewDUhXHrxPOppi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Push",
+                    "title": "Universal Nation - Original Mix",
+                    "uri": "34PgbZHudjUapNEqsb1WcW"
+                },
+                {
+                    "artist": "Monkey Safari",
+                    "title": "Universal Love",
+                    "uri": "531RaZXLyYi8ZiIpqSGjwJ"
+                },
+                {
+                    "artist": "GFM",
+                    "title": "Universaly Money",
+                    "uri": "20WcIBjgWvuVfS4JBkF37O"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bradley Kincaid",
+                    "title": "Barbara Allen",
+                    "uri": "7IKviaNxgzeaTe5L4xABaS"
+                },
+                {
+                    "artist": "Kerry Butler",
+                    "title": "Barbara 2.0",
+                    "uri": "7whkc1c9c7O2JJZt4no80u"
+                },
+                {
+                    "artist": "King Dude",
+                    "title": "Barbara Anne",
+                    "uri": "2XexCZoOc4d8B6IPmjBHSx"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Betty Everett",
+                    "title": "You're No Good",
+                    "uri": "1R0F50VZmBEAJs2UErdQB8"
+                },
+                {
+                    "artist": "Betty Everett",
+                    "title": "Its In His Kiss",
+                    "uri": "6TNCYMSq7L3SfOLcGbYHFz"
+                },
+                {
+                    "artist": "Betty Everett",
+                    "title": "It's In The Kiss (The Shoop Shoop Song)",
+                    "uri": "35hfuechuOqaW31ogdauO7"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bosh",
+                    "title": "Walter White",
+                    "uri": "6SSEDegzHlRv8FQqeojPPg"
+                },
+                {
+                    "artist": "Bosh",
+                    "title": "Walter White",
+                    "uri": "0DCT31701WuF0pv73aTkVB"
+                },
+                {
+                    "artist": "Hämatom",
+                    "title": "Walter White (Non-Album-Track)",
+                    "uri": "4GPB7KLElGoVKEI8V2bXyB"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "L.J. Reynolds",
+                    "title": "Find Your Love",
+                    "uri": "0iKZRrzFT72FdZ2YB7OQ5s"
+                },
+                {
+                    "artist": "L.J. Reynolds",
+                    "title": "So Good",
+                    "uri": "1jwM2aUeuoCv9amLF59NZm"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Leroy Hutson",
+                    "title": "It's the Music",
+                    "uri": "1llZcDoMR61oe46Jc2IYrQ"
+                },
+                {
+                    "artist": "Leroy Hutson",
+                    "title": "It's the Music",
+                    "uri": "3UasbEcRMXJ44rSlxWiZWv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Leroy Hutson",
+                    "title": "Love the Feeling",
+                    "uri": "5LbYJuBLePb3NqqDT1e7XH"
+                },
+                {
+                    "artist": "Leroy Hutson",
+                    "title": "I Think I'm Falling In Love",
+                    "uri": "37JNHHrTofN1SPd26itroQ"
+                },
+                {
+                    "artist": "Leroy Hutson",
+                    "title": "Cool Out",
+                    "uri": "5Rb6tpkWiNQQoCfxaFVB9c"
+                }
+            ]
+        }
+    },
     "housecall-20th-august-2023": {
         "00": {
             "s0": [
