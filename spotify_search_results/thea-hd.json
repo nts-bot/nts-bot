@@ -12710,6 +12710,415 @@
             "s1": ""
         }
     },
+    "thea-hd-1st-october-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Max Richter",
+                    "title": "November",
+                    "uri": "2NGhKPZdZk2pPZinWphTzh"
+                },
+                {
+                    "artist": "Euan Allison",
+                    "title": "November",
+                    "uri": "7r2r9MEN7YMDuIc5F1OoMg"
+                },
+                {
+                    "artist": "Kai Engel",
+                    "title": "November",
+                    "uri": "3tTlEN4tOEku4cNjmtP6vU"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DJ Fronteo",
+                    "title": "Dady Isues - Remix",
+                    "uri": "0UVqHMVOR8rA9Lyn72Iioh"
+                },
+                {
+                    "artist": "Lindsey Stirling",
+                    "title": "Roundtable Rival",
+                    "uri": "7plqlR090X9rjj23xn5p4g"
+                },
+                {
+                    "artist": "DROELOE",
+                    "title": "Lines of the Broken",
+                    "uri": "38q117S1yZJorvr6hvMhkT"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Kirk Barley",
+                    "title": "Lake Of Gold",
+                    "uri": "0fI8RRzQhbc92lhT8bN7xr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kirk Barley",
+                    "title": "Lake Of Gold",
+                    "uri": "0fI8RRzQhbc92lhT8bN7xr"
+                },
+                {
+                    "artist": "Kirk Barley",
+                    "title": "Bathe, Pt. 2",
+                    "uri": "18SXZacMbsFaVKc6HGEPOu"
+                },
+                {
+                    "artist": "Kirk Nancy",
+                    "title": "For All We Know",
+                    "uri": "4OamHMQ5Xcqw7aeTecrCUp"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Cocteau Twins",
+                    "title": "Watchlar",
+                    "uri": "7I36fcz2SBQDKQNTDVhwu4"
+                },
+                {
+                    "artist": "Dreama Traxx",
+                    "title": "Ice Blinks",
+                    "uri": "5ZTAo6nLYxoKR0wSmOA80J"
+                },
+                {
+                    "artist": "FalKKonE",
+                    "title": "Icebound Calamity",
+                    "uri": "5q7fpLjomP3VC6J6p9v6gy"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Daniel Rossen",
+                    "title": "Golden Mile",
+                    "uri": "5bWVa5sv9RSg6xBlNCPHcB"
+                },
+                {
+                    "artist": "Daniel Rossen",
+                    "title": "Golden Mile - Live in Pioneertown",
+                    "uri": "7FEEQ8Qd7K2dlCrTdXsQj4"
+                },
+                {
+                    "artist": "Daniel Rossen",
+                    "title": "Golden Mile - Live in Pioneertown",
+                    "uri": "4CAHEonN3KyOUcACBdovMQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Daniel Rossen",
+                    "title": "Golden Mile",
+                    "uri": "5bWVa5sv9RSg6xBlNCPHcB"
+                },
+                {
+                    "artist": "Daniel Rossen",
+                    "title": "Golden Mile - Live in Pioneertown",
+                    "uri": "7FEEQ8Qd7K2dlCrTdXsQj4"
+                },
+                {
+                    "artist": "Daniel Rossen",
+                    "title": "Golden Mile - Live in Pioneertown",
+                    "uri": "4CAHEonN3KyOUcACBdovMQ"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bartleby Delicate",
+                    "title": "Winter's Dark",
+                    "uri": "0Cj7H47ZQZiLvIHcY923Op"
+                },
+                {
+                    "artist": "Herman Melville",
+                    "title": "Kapitel 1 - Bartleby",
+                    "uri": "0uqL3OddfKyrfeaVOFWHBi"
+                },
+                {
+                    "artist": "Meandre",
+                    "title": "Saint Patrick's An Dro, Danza Leonada",
+                    "uri": "0CkK85u2haV5ooKxfGrsZM"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Broadcast",
+                    "title": "Tender Buttons",
+                    "uri": "5nCScIjCua6SYp4VKNjugD"
+                },
+                {
+                    "artist": "Broadcast",
+                    "title": "Tender Buttons",
+                    "uri": "2MzJHIIfqwcF8rWVFPYunw"
+                },
+                {
+                    "artist": "Broadcast",
+                    "title": "Tender Buttons",
+                    "uri": "3gvg3M6LXZAgwoIQHTetSb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Broadcast",
+                    "title": "Tender Buttons",
+                    "uri": "5nCScIjCua6SYp4VKNjugD"
+                },
+                {
+                    "artist": "Blur",
+                    "title": "Tender",
+                    "uri": "42cxPm9jgbaxIVN77XA1m6"
+                },
+                {
+                    "artist": "TesseracT",
+                    "title": "Tender",
+                    "uri": "1f9o628ctIzq33UxMPPsde"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "The Sabres Of Paradise",
+                    "title": "Smokebelch II - Beatless Mix",
+                    "uri": "5Z8BtdkhEzHbb8QlYODMgM"
+                },
+                {
+                    "artist": "The Sabres Of Paradise",
+                    "title": "Smokebelch II - Beatless Mix",
+                    "uri": "70xCVwbtD4CrDS0qX46XwK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Sabres Of Paradise",
+                    "title": "Smokebelch II - Beatless Mix",
+                    "uri": "5Z8BtdkhEzHbb8QlYODMgM"
+                },
+                {
+                    "artist": "The Sabres Of Paradise",
+                    "title": "Smokebelch II - Beatless Mix",
+                    "uri": "70xCVwbtD4CrDS0qX46XwK"
+                },
+                {
+                    "artist": "The Sabres Of Paradise",
+                    "title": "Smokebelch II",
+                    "uri": "706nE34Vs37qSQxKpT3ZXB"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "And Phobos Falls",
+                    "title": "Orbit",
+                    "uri": "192XL54fVA1ooyGdeRddYX"
+                },
+                {
+                    "artist": "Jamin",
+                    "title": "Orbit",
+                    "uri": "5kIIYeistxLrw1ZgsWmxp3"
+                },
+                {
+                    "artist": "Orbit Culture",
+                    "title": "Sorrower",
+                    "uri": "0UFSiu5wOYdriBahqWSexU"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Laurence Guy",
+                    "title": "My Heart Still Leans On You",
+                    "uri": "7hTcipfBVimzXdYd9ynEbA"
+                },
+                {
+                    "artist": "Laurence Guy",
+                    "title": "On Your Side",
+                    "uri": "0vypXe8paGmxoY0fxkLh0X"
+                },
+                {
+                    "artist": "Feint",
+                    "title": "Laurence",
+                    "uri": "0vh3PLPxWL5qhan4euxUUT"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Natural Information Society",
+                    "title": "Stigmergy",
+                    "uri": "4fPjmIh4C6YQPoFFS9ATN5"
+                },
+                {
+                    "artist": "Bill Callahan",
+                    "title": "Natural Information",
+                    "uri": "3dsIMfhpMddGl8YyzTN1Sx"
+                },
+                {
+                    "artist": "Natural Information Society",
+                    "title": "Moontide Chorus",
+                    "uri": "6xUk3EqHrNeMVM5EX9VJTP"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mose Allison",
+                    "title": "The Seventh Son",
+                    "uri": "7xNzzXvTBzRG68G19N7iA5"
+                },
+                {
+                    "artist": "Mose Allison",
+                    "title": "I Don't Worry About a Thing",
+                    "uri": "0POJr2bfkh1KYg1L9F7cX8"
+                },
+                {
+                    "artist": "Mose Allison",
+                    "title": "Hey, Good Lookin'",
+                    "uri": "19hTukT1BH2TcCPQOptv1l"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Nora Orlandi",
+                    "title": "Night Story 1",
+                    "uri": "6VQ7dPWQU59DPeumKswJx7"
+                },
+                {
+                    "artist": "Nora Orlandi",
+                    "title": "Night Story 2",
+                    "uri": "6oURCHPD7W11pQbxKKm5P2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nora Orlandi",
+                    "title": "Night Story 1",
+                    "uri": "6VQ7dPWQU59DPeumKswJx7"
+                },
+                {
+                    "artist": "Nora Orlandi",
+                    "title": "Night Story 2",
+                    "uri": "6oURCHPD7W11pQbxKKm5P2"
+                },
+                {
+                    "artist": "Era Istrefi",
+                    "title": "Nuk E Di (feat. Nora Istrefi)",
+                    "uri": "2Uk6TlAhrvyiHaXeuw5c3h"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Lovin' Spoonful",
+                    "title": "Didn't Want To Have To Do It",
+                    "uri": "257YFNPcDJUp8c7v1q8hPp"
+                },
+                {
+                    "artist": "The Lovin' Spoonful",
+                    "title": "Daydream",
+                    "uri": "3c06k9x6MHHdPQi3ix68yF"
+                },
+                {
+                    "artist": "The Lovin' Spoonful",
+                    "title": "Summer in the City - Remastered",
+                    "uri": "7AzFID6u1b3zIWbd9pb8Dk"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Connie Converse",
+                    "title": "Father Neptune",
+                    "uri": "5xE9MAoSU76nxKx4F3nBtK"
+                },
+                {
+                    "artist": "Connie Converse",
+                    "title": "Father Neptune",
+                    "uri": "0OzObmwBoouEDShNgNiSQv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Connie Converse",
+                    "title": "Father Neptune",
+                    "uri": "5xE9MAoSU76nxKx4F3nBtK"
+                },
+                {
+                    "artist": "Connie Converse",
+                    "title": "Father Neptune",
+                    "uri": "0OzObmwBoouEDShNgNiSQv"
+                },
+                {
+                    "artist": "Max Diaz",
+                    "title": "Connie",
+                    "uri": "0YkpOTJex8ADEH1bdPnSEV"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Alessi Brothers",
+                    "title": "Seabird",
+                    "uri": "7qw4F9ebIh2z1dSBpJMfdt"
+                },
+                {
+                    "artist": "Alessi Brothers",
+                    "title": "Seabird",
+                    "uri": "6UmslOyMdTKrTmeeOWVRSx"
+                },
+                {
+                    "artist": "Alessi Brothers",
+                    "title": "Seabird",
+                    "uri": "3ubU5NW7xqgIplWzeugdlX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Alessi Brothers",
+                    "title": "Seabird",
+                    "uri": "7qw4F9ebIh2z1dSBpJMfdt"
+                },
+                {
+                    "artist": "Alessi Brothers",
+                    "title": "Seabird",
+                    "uri": "6UmslOyMdTKrTmeeOWVRSx"
+                },
+                {
+                    "artist": "Alessi Brothers",
+                    "title": "Seabird",
+                    "uri": "3ubU5NW7xqgIplWzeugdlX"
+                }
+            ]
+        }
+    },
     "thea-hd-20th-august-2023": {
         "00": {
             "s0": [
