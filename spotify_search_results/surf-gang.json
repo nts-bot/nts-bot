@@ -1,4 +1,656 @@
 {
+    "surf-gang-3rd-october-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "ShaqnLivin",
+                    "title": "Having My Way",
+                    "uri": "4rThBqgVMCEp1tyQH0FqLM"
+                },
+                {
+                    "artist": "DeeBaby",
+                    "title": "Havin Yo Way",
+                    "uri": "2jSBKtaFQmAoS71BK58MCA"
+                },
+                {
+                    "artist": "HEARSE.T",
+                    "title": "Havin' Thangz",
+                    "uri": "1szzeAItdz8nfHErwovMTS"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Babyface Ray",
+                    "title": "Sincerely Face",
+                    "uri": "1waGPIj1dVvVj1K7g2Qqkl"
+                },
+                {
+                    "artist": "Sero El Mero",
+                    "title": "BabyFaceFlow",
+                    "uri": "4SSvPcmMksQdjNFEdoIhYe"
+                },
+                {
+                    "artist": "Bhad Bhabie",
+                    "title": "Babyface Savage (feat. Tory Lanez)",
+                    "uri": "2xB64x7pRS8Qa9uuZktOnA"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Wtm Solid",
+                    "title": "Do My Dance",
+                    "uri": "20eoupAoU25FL3gJlQSH3c"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Wtm Solid",
+                    "title": "Whats the difference",
+                    "uri": "2HZyrWOt51Y4ujEgvWPUTE"
+                },
+                {
+                    "artist": "Wtm Solid",
+                    "title": "Peace of Mind",
+                    "uri": "7zZcvztdWyx71KhXLt5sAK"
+                },
+                {
+                    "artist": "WM Virtuose",
+                    "title": "DMTO",
+                    "uri": "4To8i5aUONmkw9JkDDHkTN"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Fleacoo",
+                    "title": "10k Day",
+                    "uri": "0kWqWafurKqr9vYwqsxAfT"
+                },
+                {
+                    "artist": "flaco largo mc",
+                    "title": "euro - remastered",
+                    "uri": "40csPkc9wpAQP2i2wTotRQ"
+                },
+                {
+                    "artist": "Joel Fletcher",
+                    "title": "Flacko",
+                    "uri": "5NvU6DpB4ug8zLXbU7sncy"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nettspend",
+                    "title": "drankdrankdrank",
+                    "uri": "4iISuABxl9PeoefsTpIH2A"
+                },
+                {
+                    "artist": "Bläck Fööss",
+                    "title": "Drink doch eine met",
+                    "uri": "5XPBdRP0LKjA9tpJderx2v"
+                },
+                {
+                    "artist": "Lil Kleine",
+                    "title": "Drank & Drugs",
+                    "uri": "4rHIGjDTXXL9Eudf3YF036"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Diego Money",
+                    "title": "Real Money",
+                    "uri": "2w5JyRU0JPzhwB8gJVbQp0"
+                },
+                {
+                    "artist": "Big Diego",
+                    "title": "Money Dont Make You Real",
+                    "uri": "6fa0RKrPOalshunmVpTrSa"
+                },
+                {
+                    "artist": "Luis Diego",
+                    "title": "Don't U Really Care",
+                    "uri": "3lvE5IkamfAjfblIbmdghO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Diego Money",
+                    "title": "100 Round Biscuit",
+                    "uri": "13gmFCQjOPrWwl4tYGnRol"
+                },
+                {
+                    "artist": "Tay-K",
+                    "title": "Gotta Blast (feat. Diego Money & Bandman Fari)",
+                    "uri": "7de1qGSxUfnKLNqncRksuk"
+                },
+                {
+                    "artist": "Diego Miranda",
+                    "title": "Together",
+                    "uri": "3xq0hlLUd7CvaYntVC5Hkp"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Arjun",
+                    "title": "Mohabbat Barsa De (From \"Creature 3D\")",
+                    "uri": "2hudVKD1B0hzinyUVa20QY"
+                },
+                {
+                    "artist": "Aslam Singer Original",
+                    "title": "Mohabbat Me Bewafai",
+                    "uri": "2H7LOuw7GBfyosygEOj6y1"
+                },
+                {
+                    "artist": "Salman Ali",
+                    "title": "Mohabbat Ke Kaabil",
+                    "uri": "7FaOJ4SsTaO0l6C7TuzGkA"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Shawny Binladen",
+                    "title": "Grinchset Shyt",
+                    "uri": "496hSENxmYtOHOWfBvSp1h"
+                },
+                {
+                    "artist": "Shawny Binladen",
+                    "title": "Hercules",
+                    "uri": "1DZQIIT8WNA5I7snt33LEY"
+                },
+                {
+                    "artist": "Shawny Binladen",
+                    "title": "Wockhardt",
+                    "uri": "1Da2DD3CJyXvVWe3e80C3I"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bushido",
+                    "title": "Bada Boom Bada Bang",
+                    "uri": "255ZK64KxyJ1oujcrXh0jU"
+                },
+                {
+                    "artist": "Hank Trill",
+                    "title": "Bada Bing Bada Boom",
+                    "uri": "3aYYg6E86xrbJYQZsYMO6F"
+                },
+                {
+                    "artist": "Jeaw",
+                    "title": "Badaboom",
+                    "uri": "1BoiteydR9fqD5gLoXfD6P"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sdot Go",
+                    "title": "WNA",
+                    "uri": "7oyMyuSQq0GcBRMUXzNYuM"
+                },
+                {
+                    "artist": "SweepersENT",
+                    "title": "WNA",
+                    "uri": "7MfDVWYoADkyGNbs8YqsYo"
+                },
+                {
+                    "artist": "nour",
+                    "title": "Wana",
+                    "uri": "6ygaR0OCPjB2YdBbbNKvss"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lil Ugly Mane",
+                    "title": "Serious Shit",
+                    "uri": "521qLebnOvsIOtJKhQvGmi"
+                },
+                {
+                    "artist": "Russ",
+                    "title": "Serious",
+                    "uri": "6hp5Ytt1DmRaviuXkSTO7L"
+                },
+                {
+                    "artist": "Admiral Tibet",
+                    "title": "Serious Time",
+                    "uri": "1RjXbkAJqfEoZxwOvr4YNd"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Thirty Seconds To Mars",
+                    "title": "World On Fire",
+                    "uri": "7CxAGUICNbA8GQixb6bQNN"
+                },
+                {
+                    "artist": "Nate Smith",
+                    "title": "World on Fire",
+                    "uri": "5ya0TmUQw2wHMkq36rPsnd"
+                },
+                {
+                    "artist": "Slash",
+                    "title": "World on Fire",
+                    "uri": "50XuBmcV8THyLBczxD0c2k"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dom Kennedy",
+                    "title": "Dream To Me",
+                    "uri": "7yflDT7Hm2j9Y8BFqf5IqT"
+                },
+                {
+                    "artist": "Nipsey Hussle",
+                    "title": "Double Up (feat. Belly and Dom Kennedy)",
+                    "uri": "4iVD0fTHGxV9JWloujsL3s"
+                },
+                {
+                    "artist": "Blxst",
+                    "title": "Got It All",
+                    "uri": "5sHVIQEzTg8qcEstqlIig1"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ethereal",
+                    "title": "Beef",
+                    "uri": "47Obor5zpUwTRLEQIX9woV"
+                },
+                {
+                    "artist": "Playboi Carti",
+                    "title": "@ MEH",
+                    "uri": "5UusfWUMMLEXLMc1ViNZoe"
+                },
+                {
+                    "artist": "AyeDNicole",
+                    "title": "H.B.I.C Intro",
+                    "uri": "3V9ePvl7zJgslMeOf5yZqK"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Foot Soldier",
+                    "title": "Skinhead Forever",
+                    "uri": "10kA99xqpq9iJCjTKThH7U"
+                },
+                {
+                    "artist": "Elektroföb",
+                    "title": "Xan",
+                    "uri": "3g0h47SYr1n4zWDOUY9EMC"
+                },
+                {
+                    "artist": "Feo Night",
+                    "title": "Xandung",
+                    "uri": "7d4nOOJjC8eHLRcAnVCSD2"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Wanski",
+                    "title": "No trish / Golden (Bonus track)",
+                    "uri": "39WZzHn2frQ32XrT2iorGp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Le Wanski",
+                    "title": "La Couleur Du Son",
+                    "uri": "2pOQHwJPBvo8wZSRu4xuPA"
+                },
+                {
+                    "artist": "Le Wanski",
+                    "title": "Tarte à la myrtille",
+                    "uri": "2M5r3sEMYhAUDJWJoxP8Uv"
+                },
+                {
+                    "artist": "Le Wanski",
+                    "title": "Atlantide",
+                    "uri": "3wFzOSm8XqeH2RFfoK0oSc"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ken Carson",
+                    "title": "Freestyle 3",
+                    "uri": "3ZuKr1NfTecyfGuYwuXb7c"
+                },
+                {
+                    "artist": "Ken Carson",
+                    "title": "Freestyle 2",
+                    "uri": "28niVl6iodHnHpE1bCeJiV"
+                },
+                {
+                    "artist": "TreyzBeatz",
+                    "title": "Freestyle 2",
+                    "uri": "60LvqFd8SmLG0UQHfOGRS2"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Harto Falión",
+                    "title": "We Ite X2",
+                    "uri": "38ze1gfnEOUg3GMXYJ4hmw"
+                },
+                {
+                    "artist": "Harto Falión",
+                    "title": "Y ? !",
+                    "uri": "1GZldrSwdo7FzqGesme2p2"
+                },
+                {
+                    "artist": "Harrison BDP",
+                    "title": "Implosion",
+                    "uri": "4VdfC3pgzv8LTYqkKo4JpR"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sam LGND",
+                    "title": "Loose Screw",
+                    "uri": "63ABLINiAs6YHHiqw00khe"
+                },
+                {
+                    "artist": "YSB Tril",
+                    "title": "LOOSE SCREWS",
+                    "uri": "4Q2ISirM0amo7N3VSRX16C"
+                },
+                {
+                    "artist": "Libercio",
+                    "title": "Loose Screw - Fuck Them",
+                    "uri": "0kqTXGqzXhLx0Ufy6LKbMR"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Neiiburr",
+                    "title": "Too Much",
+                    "uri": "2J1qKwBO8zqQ8xHR6blJp7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Migos",
+                    "title": "Too Much Jewelry",
+                    "uri": "4loAa1lBkE83qJXU1ddmCV"
+                },
+                {
+                    "artist": "Marzville",
+                    "title": "Too Much",
+                    "uri": "4hYlMt88kDIIVzbXQg5vkE"
+                },
+                {
+                    "artist": "Dimitri Vegas & Like Mike",
+                    "title": "Too Much",
+                    "uri": "4m9HfhURlzkhM8kK4SqTqM"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tony Shhnow",
+                    "title": "On Me",
+                    "uri": "6gF8Znf7szlnXPPvJOCPmm"
+                },
+                {
+                    "artist": "Tony Shhnow",
+                    "title": "Summer Off Relaxxx",
+                    "uri": "0zdhcrcxLHBzUG6FXrx4HO"
+                },
+                {
+                    "artist": "Cashcache!",
+                    "title": "real runtz",
+                    "uri": "7ycLRIVfn3cJ6S9p2g5x4t"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Los",
+                    "title": "Yessir",
+                    "uri": "6ZwN2CQI81fBkXh5ZRqSCN"
+                },
+                {
+                    "artist": "Los Fabulosos",
+                    "title": "YESSIR",
+                    "uri": "05W71DtFQ8zbFLodXob6Fd"
+                },
+                {
+                    "artist": "lostsoulkami",
+                    "title": "Yessirski",
+                    "uri": "5ZgiYp0dAIVF5geUhd08jN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "lil ErikA",
+                    "title": "Yessir",
+                    "uri": "5m38uL7Z1fTWez7buZiNmM"
+                },
+                {
+                    "artist": "SICK LEGEND",
+                    "title": "YESSIR",
+                    "uri": "5c5EeR8uu1DZUzGr53w9dh"
+                },
+                {
+                    "artist": "Lil Uzi Vert",
+                    "title": "Yessirskiii",
+                    "uri": "59JWp4PjZ9TRM8cmtaDYB1"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Baby Smoove",
+                    "title": "Losing My Mind",
+                    "uri": "2JMW1iCKgPnSqbVVhHR6wI"
+                },
+                {
+                    "artist": "Baby Smoove",
+                    "title": "Losing My Mind, Pt.2",
+                    "uri": "0vn8Vw0faNIgdVdpAw0JaS"
+                },
+                {
+                    "artist": "Baby Smoove",
+                    "title": "Tings",
+                    "uri": "2HrrRZ7pk2tK3dxr2Hl1zJ"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lil Yachty",
+                    "title": "Poland",
+                    "uri": "74loibzxXRL875X20kenvk"
+                },
+                {
+                    "artist": "Lil Yachty",
+                    "title": "Yacht Club (feat. Juice WRLD)",
+                    "uri": "5R2rsbwCDXORX2tLfprRmM"
+                },
+                {
+                    "artist": "Lil Yachty",
+                    "title": "Coffin",
+                    "uri": "5vDNippoMr52KpXBO9b9KQ"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Warhol.SS",
+                    "title": "Deuce & Fanta",
+                    "uri": "1d7I0U9uUGlE5OAQEMzAmH"
+                },
+                {
+                    "artist": "Warhol.SS",
+                    "title": "Wave Bros Pt. 2",
+                    "uri": "1fCDzkBjwSey5GkSLDU0da"
+                },
+                {
+                    "artist": "Warhol.SS",
+                    "title": "New Year",
+                    "uri": "6WsEitxaYUHuHV5SB0dpCk"
+                }
+            ]
+        },
+        "25": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Xavier Wulf",
+                    "title": "Hollow Be They Squad",
+                    "uri": "5OMNVzNkXIs6HP4tnExf5m"
+                },
+                {
+                    "artist": "Xavier Rudd",
+                    "title": "Storm Boy",
+                    "uri": "7J4GmvwgVBKMS6BAWnhLwB"
+                },
+                {
+                    "artist": "Xavier Wulf",
+                    "title": "First Light",
+                    "uri": "7AUHZBFJ5c7fiLhl0I9r5S"
+                }
+            ]
+        },
+        "26": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Michael Schulte",
+                    "title": "Remember Me",
+                    "uri": "78MATjjZr1LB5RNntxSCGY"
+                },
+                {
+                    "artist": "Leslie Parrish",
+                    "title": "Remember me",
+                    "uri": "7vcKbYEM5MMohOttO2N0rf"
+                },
+                {
+                    "artist": "Bryce Vine",
+                    "title": "Drew Barrymore",
+                    "uri": "0OgGn1ofaj55l2PcihQQGV"
+                }
+            ]
+        },
+        "27": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "D'Angelo",
+                    "title": "Playa Playa",
+                    "uri": "6j0FBH06L1YlVkxBvE972P"
+                },
+                {
+                    "artist": "ANGELPLAYA",
+                    "title": "PLAYAS NEVER DIE",
+                    "uri": "43bEmGTSrAViM7cplkNaSM"
+                },
+                {
+                    "artist": "Ethan Ross",
+                    "title": "GR1MREAPER",
+                    "uri": "0juFSiUkyc2KmV1HhpsOGN"
+                }
+            ]
+        },
+        "28": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Babys World",
+                    "title": "Slime Talk",
+                    "uri": "1NfwV9ceHGVOAgeMioONFx"
+                },
+                {
+                    "artist": "Slime",
+                    "title": "Heute hier, morgen dort",
+                    "uri": "37XkhQ5jvkFxuu3g7KtH7r"
+                },
+                {
+                    "artist": "Slime",
+                    "title": "Sein wie die",
+                    "uri": "1FsYckWypnPyH7wj63ECWC"
+                }
+            ]
+        },
+        "29": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "LUZI",
+                    "title": "AirBnb",
+                    "uri": "5XWG8yWH1RLU7eToXQf0Nc"
+                },
+                {
+                    "artist": "Rap La Rue",
+                    "title": "Air bnb",
+                    "uri": "6g8vCwRNTWuK0FOQkKVN3J"
+                },
+                {
+                    "artist": "Airbourne",
+                    "title": "Raise the Flag",
+                    "uri": "1ZvPPexW1i3wCp28jYlVdF"
+                }
+            ]
+        }
+    },
     "surf-gang-8th-august-2023": {
         "00": {
             "s0": "",
