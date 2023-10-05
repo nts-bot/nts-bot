@@ -5694,6 +5694,96 @@
             ]
         }
     },
+    "literaryfriction-4th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "The Architect",
+                    "title": "Jacqueline",
+                    "uri": "1nDWNjX7GadwD6mnGoAog5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Architect",
+                    "title": "Jacqueline",
+                    "uri": "1nDWNjX7GadwD6mnGoAog5"
+                },
+                {
+                    "artist": "The Architect",
+                    "title": "Dreader Than Dread",
+                    "uri": "0BW2kb7IHdH2QnWwvXqeqe"
+                },
+                {
+                    "artist": "The Architect",
+                    "title": "Design of the Future",
+                    "uri": "2B4PNudCuqwiRaACB1KMca"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Frazey Ford",
+                    "title": "Done",
+                    "uri": "0SBgqjWlmhPfz5HTl9yHp3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Frazey Ford",
+                    "title": "Done",
+                    "uri": "0SBgqjWlmhPfz5HTl9yHp3"
+                },
+                {
+                    "artist": "Frazey Ford",
+                    "title": "Azad",
+                    "uri": "0aHxckLq5GYRC6W8ofzzkL"
+                },
+                {
+                    "artist": "Frazey Ford",
+                    "title": "If You Gonna Go",
+                    "uri": "583hRFIZlkPCG4aQg1YXQi"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Protassov",
+                    "title": "I Wonder",
+                    "uri": "5fuJMvVKNeTbIcflFTLqg6"
+                },
+                {
+                    "artist": "Protassov",
+                    "title": "I Wonder",
+                    "uri": "2iGIavEP4eqqAEEZqEgeqG"
+                },
+                {
+                    "artist": "Protassov",
+                    "title": "I Wonder",
+                    "uri": "2sTa5RonhXNbd0NilKO9EI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Protassov",
+                    "title": "I Wonder",
+                    "uri": "5fuJMvVKNeTbIcflFTLqg6"
+                },
+                {
+                    "artist": "Protassov",
+                    "title": "I Wonder",
+                    "uri": "2iGIavEP4eqqAEEZqEgeqG"
+                },
+                {
+                    "artist": "Protassov",
+                    "title": "March of 100",
+                    "uri": "5Ovb0UzZ9UZqrTjgN19moR"
+                }
+            ]
+        }
+    },
     "literaryfriction-5th-october-2022": {
         "00": {
             "s0": "",
