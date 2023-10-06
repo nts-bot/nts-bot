@@ -7057,7 +7057,76 @@
             "title": "Body Music"
         }
     },
-    "in-focus-ensemble-organum-22nd-september-2023": {},
+    "in-focus-ensemble-organum-22nd-september-2023": {
+        "00": {
+            "artist": "Ensemble Organum, ",
+            "title": "Salve Regina"
+        },
+        "01": {
+            "artist": "Ensemble Organum, ",
+            "title": "Antienne: Ego Sum Alpha Et Omega"
+        },
+        "02": {
+            "artist": "Ensemble Organum, ",
+            "title": "Antienne : Otin To Stauron (A) / O Quando In Cruce (P)"
+        },
+        "03": {
+            "artist": "Ensemble Organum, ",
+            "title": "Ascension - Repons De Procession]- Pater Cum Essem Cum Eis"
+        },
+        "04": {
+            "artist": "Ensemble Organum, ",
+            "title": "[St Jean Baptiste - Ad Missam In Die] - Alleluia - Fuit Homo Missus A Deo"
+        },
+        "05": {
+            "artist": "Ensemble Organum, ",
+            "title": "St Jean Baptiste Ad Magnam Missam - Alleluia - Inter Natos Mulierum"
+        },
+        "06": {
+            "artist": "Ensemble Organum, ",
+            "title": "Alleluia: Pascha Nostrum; Epulemur"
+        },
+        "07": {
+            "artist": "François Couperin, ",
+            "title": "Introït Pour Le Jour De Pâques"
+        },
+        "08": {
+            "artist": "Ensemble Organum",
+            "title": "Mass For The Nativity Of The Virgin_ I. Conduit Monodique _Beata Viscera Marie Virginis_"
+        },
+        "09": {
+            "artist": "Ensemble Organum, ",
+            "title": "Canticle, Benedicite Omnia Opera"
+        },
+        "10": {
+            "artist": "Ensemble Organum, ",
+            "title": "Introit Suscepimus"
+        },
+        "11": {
+            "artist": "Ensemble Organum, ",
+            "title": "Kyrie Eleison"
+        },
+        "12": {
+            "artist": "Ensemble Organum, ",
+            "title": "Antienne_ Proskinumen Ton Stauron"
+        },
+        "13": {
+            "artist": "Ensemble Organum, ",
+            "title": "Mass For The Nativity Of The Virgin_ IX. Sanctus à Deux Voix Sanctorum Exultatio"
+        },
+        "14": {
+            "artist": "Ensemble Organum, ",
+            "title": "Antienne : Enumen Sou Xriste / Laudamus Te Christe (A) - Psaume 149 : Cantate Domino Canticum Novum (C, A)"
+        },
+        "15": {
+            "artist": "Ensemble Organum, ",
+            "title": "Gloria In Excelsis Deo"
+        },
+        "16": {
+            "artist": "Ensemble Organum, ",
+            "title": "Psalmellus : « Tui Sunt Celi Et Terra » (Tutti, Soliste 2)"
+        }
+    },
     "in-focus-fairuz-16th-december-2022": {
         "00": {
             "artist": "Fairouz",
@@ -8462,6 +8531,128 @@
         "19": {
             "artist": "Grace Jones",
             "title": "Slave To The Rhythm (Ladies And Gentlemen: Miss Grace Jones)"
+        }
+    },
+    "in-focus-grateful-dead-6th-october-2023": {
+        "00": {
+            "artist": "Grateful Dead",
+            "title": "Intro"
+        },
+        "01": {
+            "artist": "Grateful Dead",
+            "title": "China Cat Sunflower"
+        },
+        "02": {
+            "artist": "Grateful Dead",
+            "title": "I Know You Rider"
+        },
+        "03": {
+            "artist": "Grateful Dead",
+            "title": "Playing In The Band"
+        },
+        "04": {
+            "artist": "Grateful Dead",
+            "title": "Bertha"
+        },
+        "05": {
+            "artist": "Grateful Dead",
+            "title": "Feel Like A Stranger"
+        },
+        "06": {
+            "artist": "Grateful Dead",
+            "title": "Franklin’s Tower (2013 Remaster)"
+        },
+        "07": {
+            "artist": "Grateful Dead",
+            "title": "Eyes Of The World"
+        },
+        "08": {
+            "artist": "Grateful Dead",
+            "title": "St. Stephen"
+        },
+        "09": {
+            "artist": "Grateful Dead",
+            "title": "The Golden Road (To Unlimited Devotion)"
+        },
+        "10": {
+            "artist": "Grateful Dead",
+            "title": "Mind Left Body Jam"
+        },
+        "11": {
+            "artist": "Grateful Dead",
+            "title": "Mama Tried"
+        },
+        "12": {
+            "artist": "Grateful Dead",
+            "title": "Box Of Rain"
+        },
+        "13": {
+            "artist": "Grateful Dead",
+            "title": "Uncle John’s Band>"
+        },
+        "14": {
+            "artist": "Grateful Dead",
+            "title": "Dire Wolf (Live)"
+        },
+        "15": {
+            "artist": "Grateful Dead",
+            "title": "Friend Of The Devil"
+        },
+        "16": {
+            "artist": "Grateful Dead",
+            "title": "Friend Of The Devil (Live)"
+        },
+        "17": {
+            "artist": "Grateful Dead",
+            "title": "He's Gone"
+        },
+        "18": {
+            "artist": "Bob Weir",
+            "title": "Looks Like Rain"
+        },
+        "19": {
+            "artist": "Grateful Dead",
+            "title": "Brokedown Palace"
+        },
+        "20": {
+            "artist": "Grateful Dead",
+            "title": "Brown Eyed Women"
+        },
+        "21": {
+            "artist": "Grateful Dead",
+            "title": "Jack Straw"
+        },
+        "22": {
+            "artist": "Grateful Dead",
+            "title": "Althea"
+        },
+        "23": {
+            "artist": "Grateful Dead",
+            "title": "Dark Star"
+        },
+        "24": {
+            "artist": "Grateful Dead",
+            "title": "Truckin' (Live)"
+        },
+        "25": {
+            "artist": "Grateful Dead",
+            "title": "Casey Jones"
+        },
+        "26": {
+            "artist": "Grateful Dead",
+            "title": "Ripple"
+        },
+        "27": {
+            "artist": "Grateful Dead",
+            "title": "Wharf Rat"
+        },
+        "28": {
+            "artist": "Grateful Dead",
+            "title": "Morning Dew "
+        },
+        "29": {
+            "artist": "Grateful Dead",
+            "title": "We Bid You Goodnight"
         }
     },
     "in-focus-gucci-mane-4th-march-2020": {
