@@ -1863,6 +1863,56 @@
             "title": "Hommage á Ndongo Lô"
         }
     },
+    "labour-7th-october-2023": {
+        "00": {
+            "artist": "Coumba Gawlo Feat. Fatou Kine Mbaye",
+            "title": "Djessy"
+        },
+        "01": {
+            "artist": "Fatou Kine Mbaye",
+            "title": "Baye Lahat"
+        },
+        "02": {
+            "artist": "Fatou Kine Mbaye",
+            "title": "Dabakh"
+        },
+        "03": {
+            "artist": "Fatou Kine Mbaye",
+            "title": "Yaye Sophie"
+        },
+        "04": {
+            "artist": "Fatou Kine Mbaye",
+            "title": "Tidiane Niang"
+        },
+        "05": {
+            "artist": "Fatou Kine Mbaye",
+            "title": "Daba Sourang"
+        },
+        "06": {
+            "artist": "Coumba Gawlo",
+            "title": "Waxkatbi"
+        },
+        "07": {
+            "artist": "Coumba Gawlo",
+            "title": "Ku Bax"
+        },
+        "08": {
+            "artist": "Coumba Gawlo",
+            "title": "Bine Bine Dagou"
+        },
+        "09": {
+            "artist": "Coumba Gawlo",
+            "title": "Aldiana"
+        },
+        "10": {
+            "artist": "Coumba Gawlo",
+            "title": "Dagotte"
+        },
+        "11": {
+            "artist": "Coumba Gawlo",
+            "title": "Deweneti"
+        }
+    },
     "labour-8th-august-2022": {
         "00": {
             "artist": "Fallou Dieng Et Le DLC",
@@ -1959,5 +2009,54 @@
             "title": "Untitled"
         }
     },
-    "labour-9th-september-2023": {}
+    "labour-9th-september-2023": {
+        "00": {
+            "artist": "Dou Dou N'Diaye M'Bengue",
+            "title": "Thiato thiate"
+        },
+        "01": {
+            "artist": "Djamil Thiam",
+            "title": "Degue Dji"
+        },
+        "02": {
+            "artist": "Djamil Thiam",
+            "title": "Khadim"
+        },
+        "03": {
+            "artist": "Doudou Ndiaye Mbengue",
+            "title": "Baykat"
+        },
+        "04": {
+            "artist": "Djamil Thiam",
+            "title": "Boutourngale"
+        },
+        "05": {
+            "artist": "Djamil Thiam",
+            "title": "Xam Xamale"
+        },
+        "06": {
+            "artist": "Doudou Ndiaye Mbengue",
+            "title": "Seyuele"
+        },
+        "07": {
+            "artist": "Doudou Ndiaye Mbengue",
+            "title": "Serigne Modou Habib"
+        },
+        "08": {
+            "artist": "Doudou Ndiaye Mbengue",
+            "title": "Ridial "
+        },
+        "09": {
+            "artist": "Doudou Ndiaye Mbengue",
+            "title": "Gueleme"
+        },
+        "10": {
+            "artist": "Doudou Ndiaye Mbengue",
+            "title": "Mbeuguel"
+        },
+        "11": {
+            "artist": "Doudou Ndiaye Mbengue",
+            "title": "Yalou Wane"
+        }
+    }
 }
