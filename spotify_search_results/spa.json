@@ -1,4 +1,635 @@
 {
+    "spa-10th-october-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Unknown Mortal Orchestra",
+                    "title": "Meshuggah",
+                    "uri": "7FpD6W73sZuEEp4dNRCwy9"
+                },
+                {
+                    "artist": "Unknown T",
+                    "title": "PASSA",
+                    "uri": "3AfXQIcCbpyKsJmqOFMvhP"
+                },
+                {
+                    "artist": "AKUGETSU",
+                    "title": "Unknown (Till The End...)",
+                    "uri": "76zvyaDfQAXTfWBAq9qxgY"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Liaze",
+                    "title": "YURA",
+                    "uri": "6IOZjHS0V4B9cjUwr7c945"
+                },
+                {
+                    "artist": "Kida",
+                    "title": "URU",
+                    "uri": "1qNslTGLrEFKJGe4AihLdo"
+                },
+                {
+                    "artist": "Uru",
+                    "title": "紙一重",
+                    "uri": "4WqWAyxI9uf6CVxUBwglrb"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Stevie Wonder",
+                    "title": "The Little Drummer Boy",
+                    "uri": "4gBDcipCwY45vwMaj2NcIc"
+                },
+                {
+                    "artist": "Bing Crosby",
+                    "title": "The Little Drummer Boy - Remastered 2006",
+                    "uri": "0pAT3JUEjIiqUkwxE0vbBQ"
+                },
+                {
+                    "artist": "Mat.Joe",
+                    "title": "Drummer Loco",
+                    "uri": "4lVJOwn7OCEKinvPa5Uf9w"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gisa Pauly",
+                    "title": "Kapitel 109.2 & Kapitel 110.1 - Sturmflut (Mamma Carlotta 13)",
+                    "uri": "2YLqLZyEgcfEqI0eb7zXIH"
+                },
+                {
+                    "artist": "Gisa Pauly",
+                    "title": "Kapitel 168.2 & Kapitel 169 & Kapitel 170.1 - Sturmflut (Mamma Carlotta 13)",
+                    "uri": "5TpHolJ11wLc7hubgzKjtb"
+                },
+                {
+                    "artist": "Gisa Pauly",
+                    "title": "Kapitel 62.2 & Kapitel 63.1 - Sturmflut (Mamma Carlotta 13)",
+                    "uri": "0aNLL2T6reeIKADNruaU5F"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "GABRIEL VITEL",
+                    "title": "Burn It Down",
+                    "uri": "3JnbdWWcv4p6YkLQ2gmTwi"
+                },
+                {
+                    "artist": "Gabrielle Steele",
+                    "title": "Increase Slowly",
+                    "uri": "1mEZ5babsxKrYvqhKEV7cS"
+                },
+                {
+                    "artist": "Gabrielle Steele",
+                    "title": "Telephone Ring",
+                    "uri": "219ZfFUruRzsHIVw3saCwd"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "TEKKNO",
+                    "title": "paradise tekkno (sped up)",
+                    "uri": "6ZpLzlHarNRJwd86jnyXYF"
+                },
+                {
+                    "artist": "Æj",
+                    "title": "Paradise",
+                    "uri": "0ZYECZKqIf7VMVkSDgfrZj"
+                },
+                {
+                    "artist": "Arem Ozguc",
+                    "title": "Paradise",
+                    "uri": "7ifpl2RJ7ixMCeClHb24Uu"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nightmare",
+                    "title": "Alumina",
+                    "uri": "34qsiP8jDp3GNIqACvmNlQ"
+                },
+                {
+                    "artist": "Aluminium",
+                    "title": "I'm Bound To Pack It Up",
+                    "uri": "1idbhOar602sbsCh0vJxFV"
+                },
+                {
+                    "artist": "JOSEPH",
+                    "title": "Nervous System",
+                    "uri": "6L4gFqY2OumTh17xbnsUnu"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "i9bonsai",
+                    "title": "misery + company",
+                    "uri": "0ecuRMuMk72XIE8cO9eyNO"
+                },
+                {
+                    "artist": "BONES",
+                    "title": "Misery",
+                    "uri": "37WO9r4U3LLqFkwHqZ2qg1"
+                },
+                {
+                    "artist": "BONES",
+                    "title": "Misery",
+                    "uri": "7BE22JskbiZkSOJ24OwRPL"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rustage",
+                    "title": "Blood (Alucard Rap)",
+                    "uri": "2deb24yUrqgOVwGJjaIaYp"
+                },
+                {
+                    "artist": "Rain City Drive",
+                    "title": "Blood Runs Cold",
+                    "uri": "3zW296mo9KBiCuTNh2PxVK"
+                },
+                {
+                    "artist": "Bloodred Hourglass",
+                    "title": "Veritas",
+                    "uri": "3rJX3TvtVhkcE8Sgbiwt6c"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pharoah Sanders",
+                    "title": "Memories Of Edith Johnson",
+                    "uri": "5jnoIDwUWauZ8lizjcG5On"
+                },
+                {
+                    "artist": "Míper Güel",
+                    "title": "Chromium",
+                    "uri": "2xMdXQxvOJGozOU0Y6gKmw"
+                },
+                {
+                    "artist": "RAF Camora",
+                    "title": "Chromosom",
+                    "uri": "1S07HTTUMYEUHAPtxQKIzK"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Shiho Yabuki",
+                    "title": "Tenshingoso",
+                    "uri": "7tBRbIJT35Va7vkYhdvWXd"
+                },
+                {
+                    "artist": "ELIX9R",
+                    "title": "Tenshu",
+                    "uri": "3PBEB59GZaCxjMvblU9fpR"
+                },
+                {
+                    "artist": "TENSHU",
+                    "title": "These Streets",
+                    "uri": "6d8p93HfEdHAx7mCgaCV1d"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Paige Julia",
+                    "title": "Compassion",
+                    "uri": "3MA0J40DkX0eq41cNeiiZi"
+                },
+                {
+                    "artist": "Paige Julia",
+                    "title": "Compassion",
+                    "uri": "33yuDWWCuA2YsmTlF5rHyQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Paige Julia",
+                    "title": "Compassion",
+                    "uri": "3MA0J40DkX0eq41cNeiiZi"
+                },
+                {
+                    "artist": "Paige",
+                    "title": "Say",
+                    "uri": "51o86RT9X0EqMLJ43hrYe9"
+                },
+                {
+                    "artist": "Paige Fish",
+                    "title": "26 and 24",
+                    "uri": "3H4XpNN0NRi12euYWsJf44"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Manowar",
+                    "title": "Kingdom Come",
+                    "uri": "1KJSyY61dglJHGEUV8CdMm"
+                },
+                {
+                    "artist": "Sabaton",
+                    "title": "Kingdom Come",
+                    "uri": "6L9ea0SMinGXfSK8jZ3V4v"
+                },
+                {
+                    "artist": "KELTEK",
+                    "title": "Kingdom Comes",
+                    "uri": "3pr7N1tEtoQbJUlediJWJ3"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mason Groovy",
+                    "title": "Easy Money",
+                    "uri": "244246e83SKcxMW8Krgx2Q"
+                },
+                {
+                    "artist": "Mason",
+                    "title": "Someone Like You",
+                    "uri": "4cW2Acc84hAKTvN54nZ1ab"
+                },
+                {
+                    "artist": "Mason Dane",
+                    "title": "YOU'RE MINE",
+                    "uri": "6yFj73WVFDmwVT8R3Ji88Q"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Brannten Schnüre",
+                    "title": "Ich versäum‘ doch nichts",
+                    "uri": "0uzmjDuqKmw61H7CBT1Bel"
+                },
+                {
+                    "artist": "Käpt'n Sharky",
+                    "title": "In der Pyramide - Teil 01",
+                    "uri": "5CQ7WdAfkKpdjA77yR4zQX"
+                },
+                {
+                    "artist": "Käpt'n Sharky",
+                    "title": "In der Pyramide - Teil 04",
+                    "uri": "5Yna4ehgdGTw1HDTj3gh28"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Laure Briard",
+                    "title": "Cravado",
+                    "uri": "2qwfSHxylQvdFxnSisLHuq"
+                },
+                {
+                    "artist": "Laure Briard",
+                    "title": "Je vole",
+                    "uri": "5WdYHMbq9mIyS7MgApa9dC"
+                },
+                {
+                    "artist": "Laura Cahen",
+                    "title": "La complainte du soleil",
+                    "uri": "0RWX9cO2baaLvinRez7SzJ"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "BoyWithUke",
+                    "title": "Out Of Reach",
+                    "uri": "5nXCKYd6lt9gO7AhZPv6Wh"
+                },
+                {
+                    "artist": "Fakear",
+                    "title": "Out Of Reach",
+                    "uri": "2OPzBDNfY1Qx4FkHQcLgci"
+                },
+                {
+                    "artist": "relaiXX",
+                    "title": "Farah",
+                    "uri": "6f0gXUAxEqA6xLA9f72CO0"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pankow",
+                    "title": "Die wundersame Geschichte von Gabi",
+                    "uri": "443Ev91F7fH5yC31imu1C1"
+                },
+                {
+                    "artist": "Pankow",
+                    "title": "Die wundersame Geschichte von Gabi",
+                    "uri": "7qH5O74FFCJxxv1NCI6jqe"
+                },
+                {
+                    "artist": "Gaby López",
+                    "title": "Pares y Nones",
+                    "uri": "4htFR7aMsbFC9oQS2xh6d0"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Me Go",
+                    "title": "Angel Caught On Camera",
+                    "uri": "5QGIJgZotf48LyscA8eCjO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "El Jesus Metir",
+                    "title": "Me gogozo",
+                    "uri": "0zwYLZgcRcSGas3vv7yv6v"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Atte Elias Kantonen",
+                    "title": "snail loves moth",
+                    "uri": "5SHXhAopPqRFjnBp4boJWq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Atte Elias Kantonen",
+                    "title": "snail loves moth",
+                    "uri": "5SHXhAopPqRFjnBp4boJWq"
+                },
+                {
+                    "artist": "Snail Mail",
+                    "title": "Easy Thing",
+                    "uri": "3UgSN3Sk0Bj1EdschiKTRB"
+                },
+                {
+                    "artist": "Snail's House",
+                    "title": "Hot Milk",
+                    "uri": "4mCwspCTPF1aoWUNxsS5aD"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "NCT DREAM",
+                    "title": "Beatbox",
+                    "uri": "0CatzXH85XWyBqqdB6qPMB"
+                },
+                {
+                    "artist": "Beat Boy",
+                    "title": "Rain Man",
+                    "uri": "5TafXG3mAHhR6feWrm5FJk"
+                },
+                {
+                    "artist": "Ben Böhmer",
+                    "title": "Erase",
+                    "uri": "22QG2saDLvgToHzeOZPm20"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Prius Missile",
+                    "title": "Kimigayo Overdose 1",
+                    "uri": "5oWlKQaRwCngRlVaGwbTOL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pharmacist",
+                    "title": "OVERDO$E",
+                    "uri": "2QUAM6GL6MpxUgMg50VUWG"
+                },
+                {
+                    "artist": "natori",
+                    "title": "Overdose",
+                    "uri": "2Dzzhb1oV5ckgOjWZLraIB"
+                },
+                {
+                    "artist": "Jamule",
+                    "title": "Overdose",
+                    "uri": "0iSNXzEBlNNJrqRiEIAw1s"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Act of Aces",
+                    "title": "New Era",
+                    "uri": "7aQZhgOzo982eeQciRymh6"
+                },
+                {
+                    "artist": "Act of Rage",
+                    "title": "Crazy",
+                    "uri": "4yKjG2a8xS68h7J6t9ycGX"
+                },
+                {
+                    "artist": "Cryex",
+                    "title": "APEX - Combining Forces",
+                    "uri": "5drzYozxplwXw3sqSZTuFY"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "LIGH TN ING",
+                    "title": "Take the Fall",
+                    "uri": "5W2a6VgQQvizGFwozdWAgP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Revro Jay",
+                    "title": "Take the Fall",
+                    "uri": "2cVVE8m52PSrtn9By12p39"
+                },
+                {
+                    "artist": "COIN",
+                    "title": "Take The Stairs",
+                    "uri": "37ultvoFXvydBENnPp4iyX"
+                },
+                {
+                    "artist": "Green Day",
+                    "title": "Take the Money and Crawl",
+                    "uri": "65sfhq9TVW74GjbaMwXmnU"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "Lilac Pavilion",
+                    "title": "Copper Rays",
+                    "uri": "22pIo0g3FAc6vyQDO6VBuT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aaron Parks",
+                    "title": "Lilac",
+                    "uri": "1jGDDbxY1FBBdi9eia6Q2y"
+                },
+                {
+                    "artist": "Jeff Buckley",
+                    "title": "Lilac Wine",
+                    "uri": "1StXVL5gClph4z4XzanYko"
+                },
+                {
+                    "artist": "wet n salty",
+                    "title": "Lilac Luster",
+                    "uri": "5CBIJIcjgIhkzyIMWVXSeh"
+                }
+            ]
+        },
+        "25": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Abshari",
+                    "title": "Parde Awal (پرده اول)",
+                    "uri": "7lzHB6Dy8OnnEE0CtGToUw"
+                },
+                {
+                    "artist": "Abshari",
+                    "title": "Parde Awal (پرده اول بیخی نو و کاغذ پبچ است)",
+                    "uri": "2plBXcSCwKre90VcBcGICN"
+                },
+                {
+                    "artist": "Abshari",
+                    "title": "Parde Awal Mast (آهنگ بسیار شاد پرده اول)",
+                    "uri": "1MuwvvKcUIRGQfir8eY9X4"
+                }
+            ]
+        },
+        "26": {
+            "s0": [
+                {
+                    "artist": "Sineraw",
+                    "title": "WHAT´S MY NAME",
+                    "uri": "6MetTuBExdLX6X17zJuqud"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Snoop Dogg",
+                    "title": "Who Am I (What’s My Name)?",
+                    "uri": "0eO8MW9YSTK3CjdaTYKlhF"
+                },
+                {
+                    "artist": "China Anne McClain",
+                    "title": "What's My Name",
+                    "uri": "53xAT6jud1w0NqlBjSW4VB"
+                },
+                {
+                    "artist": "blink-182",
+                    "title": "What's My Age Again?",
+                    "uri": "4LJhJ6DQS7NwE7UKtvcM52"
+                }
+            ]
+        },
+        "27": {
+            "s0": [
+                {
+                    "artist": "J and the woolen stars",
+                    "title": "Knees",
+                    "uri": "031SI9SO1fLmbGVNlOSMIj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "uplotnenie",
+                    "title": "Knees",
+                    "uri": "7DebcgmO0MJWqGWbQsqM3X"
+                },
+                {
+                    "artist": "Little Feet Music",
+                    "title": "Knees Knees",
+                    "uri": "3AKd6pyV5fM3nGtHkfAsIU"
+                },
+                {
+                    "artist": "mAsis",
+                    "title": "Knees",
+                    "uri": "67rfRcOyZTGahMhTykITgJ"
+                }
+            ]
+        },
+        "28": {
+            "s0": [
+                {
+                    "artist": "Himera",
+                    "title": "Our Garden",
+                    "uri": "4QR3di8kHGNfG9JsVfiUHX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Himera",
+                    "title": "Our Garden",
+                    "uri": "4QR3di8kHGNfG9JsVfiUHX"
+                },
+                {
+                    "artist": "Himera",
+                    "title": "Ecstas",
+                    "uri": "56cS2ylnaI4iUPVWcSciyb"
+                },
+                {
+                    "artist": "SCXR SOUL",
+                    "title": "HIMARS",
+                    "uri": "5tbD3QOzHSRHRBS4iLFldk"
+                }
+            ]
+        }
+    },
     "spa-11th-november-2019": {
         "00": {
             "s0": "",

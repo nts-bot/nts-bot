@@ -40676,6 +40676,383 @@
             ]
         }
     },
+    "150session-9th-october-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "José González",
+                    "title": "Step Out",
+                    "uri": "5TORlzrrvDGBMAM10QsiSy"
+                },
+                {
+                    "artist": "Fäaschtbänkler",
+                    "title": "Walterli",
+                    "uri": "3DyVHQBIAO9Z3fDqdF7UjX"
+                },
+                {
+                    "artist": "Walter Mazzaccaro",
+                    "title": "Our Story - Tuning at 432 Hz",
+                    "uri": "5KKgAOO8JJwQ7W0MTa4QHL"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Suzanne Langille",
+                    "title": "Nothing At All",
+                    "uri": "135KKCDbzxUUi0IspFSozp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "LOKI",
+                    "title": "Suzanne",
+                    "uri": "2LDQV9Wzttmj4SLOyxVDHB"
+                },
+                {
+                    "artist": "MeSSy",
+                    "title": "Nothing At All",
+                    "uri": "2zFso09Jfpz7zIYLF3Kk3N"
+                },
+                {
+                    "artist": "Traceless",
+                    "title": "Nothing at All",
+                    "uri": "7B2Uijz8ocrIuhg8waFUM9"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jeff Greinke",
+                    "title": "Moving Though Fog",
+                    "uri": "1ee3u6PYpUG42ALynb78dS"
+                },
+                {
+                    "artist": "Jeff Greinke",
+                    "title": "Precipice",
+                    "uri": "4oTeGVTZhMgn1ZwuJzroOu"
+                },
+                {
+                    "artist": "Jeff Grecia",
+                    "title": "Kim K",
+                    "uri": "4N1WpXzLybSiztONEJ5UFw"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Cornell Campbell",
+                    "title": "I'll Mash You Down",
+                    "uri": "0KUBOqwEeWMrDqHWuOrbSf"
+                },
+                {
+                    "artist": "Campbell",
+                    "title": "Would You (go to bed with me?)",
+                    "uri": "2N8gR2yftrHbZR53U5kYnX"
+                },
+                {
+                    "artist": "David Rawlings",
+                    "title": "Cumberland Gap",
+                    "uri": "5FGStn8OcEzH4VWPIF8dIv"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Miami Yacine",
+                    "title": "Testarossa",
+                    "uri": "3hyNCKPuVxsG4F2RTq9dDY"
+                },
+                {
+                    "artist": "Le classico organisé",
+                    "title": "Testarossa",
+                    "uri": "64haesXb9PmM0AK0cgniRH"
+                },
+                {
+                    "artist": "Trizto",
+                    "title": "C19 Mafia",
+                    "uri": "4sPrTVAJJkr2rnz8ZlDARQ"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "TR/ST",
+                    "title": "Unbleached",
+                    "uri": "59bfvGOOQGElQe6cOg6FVw"
+                },
+                {
+                    "artist": "Unbelehrt",
+                    "title": "Unbelehrt",
+                    "uri": "316TgjocFnFT2mG1pGTVbQ"
+                },
+                {
+                    "artist": "Isabel Maria",
+                    "title": "Unreal - Radio Edit",
+                    "uri": "0zVaDT4Kh9R60tEcuNPPBh"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "I Start Counting",
+                    "title": "Still Smiling",
+                    "uri": "6LV9ZHgcD7mU1GqMDMYGc5"
+                },
+                {
+                    "artist": "I Start Counting",
+                    "title": "Talk About The Weather",
+                    "uri": "6AYQkvgrP2phOWIz5SSvgw"
+                },
+                {
+                    "artist": "I Start Counting",
+                    "title": "Lose Him",
+                    "uri": "5AWom4EI1kyrMj3Cm3HzQ8"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Thierry David",
+                    "title": "Huong Vietnam",
+                    "uri": "0TsB65yQbPROr6K0xC1bSL"
+                },
+                {
+                    "artist": "Jaya Satria",
+                    "title": "Autumn Moon",
+                    "uri": "617j8A02xmQkm0EahkbMrv"
+                },
+                {
+                    "artist": "Liu Fang",
+                    "title": "High Mountain and Flowing Water",
+                    "uri": "2itp7lrU3LxVaZOboOeCs6"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Holy Tongue",
+                    "title": "Dey Sey Dub",
+                    "uri": "7CWvfreov8WcdeYpePP3vK"
+                },
+                {
+                    "artist": "Holy Tongue",
+                    "title": "Dey Sey",
+                    "uri": "4QFa9497ITCqFOoBgtd0M5"
+                },
+                {
+                    "artist": "Holy Tongue",
+                    "title": "Dey Sey Dub II",
+                    "uri": "6YMkXnU8AGtL35vGi5YgI8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Holy Tongue",
+                    "title": "Dey Sey Dub",
+                    "uri": "7CWvfreov8WcdeYpePP3vK"
+                },
+                {
+                    "artist": "Holy Tongue",
+                    "title": "Dey Sey Dub II",
+                    "uri": "6YMkXnU8AGtL35vGi5YgI8"
+                },
+                {
+                    "artist": "FKA twigs",
+                    "title": "holy terrain",
+                    "uri": "5ZmzzBiEAIVCkgsPyh80gt"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Mladen Tomic",
+                    "title": "Giant Vice",
+                    "uri": "32aztvuQTCPFrAHuB1fk9l"
+                },
+                {
+                    "artist": "MLK Krew",
+                    "title": "GIATI ?",
+                    "uri": "4De8jH7VrPzlvzDoFZxGaS"
+                },
+                {
+                    "artist": "Mlbors",
+                    "title": "The Quiet Storm of a Giant Dwarf",
+                    "uri": "3tz48UpHzCY1TbX8eLw1f2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "LX",
+                    "title": "ML",
+                    "uri": "1yNP4jxHEGwYL9PI52ORwp"
+                },
+                {
+                    "artist": "Thaman S",
+                    "title": "Velli Nillavae",
+                    "uri": "7I5kZPaIuDKabc55Sj5U1k"
+                },
+                {
+                    "artist": "Geetha Madhuri",
+                    "title": "Vaddaanam",
+                    "uri": "7nI4lPNYTSjwy0XWRcjPrT"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "SSIEGE",
+                    "title": "Novo Eden",
+                    "uri": "1eXp1fFBW48c7RUV6vetzP"
+                },
+                {
+                    "artist": "バーチャルボーイA t s u",
+                    "title": "Neon Paradise",
+                    "uri": "6oGFDLTnQRiVoWGg4tsCcu"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "AZAD",
+                    "title": "Fly Away (feat. Kool Savas & Francisco)",
+                    "uri": "0j47JavPWxtz8uz84n6VXU"
+                },
+                {
+                    "artist": "Flausen",
+                    "title": "Fly Away For A Summer - Deep Chills Remix",
+                    "uri": "33W4hxXnb32auMEgofefnd"
+                },
+                {
+                    "artist": "Jesse Bloch",
+                    "title": "Fly Away (with Chockablock)",
+                    "uri": "4qSsjaTOMzCli0pEnMmAjB"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Magic Affair",
+                    "title": "Omen III - Single Edit",
+                    "uri": "5FA90DipIi1TKifttlVKF1"
+                },
+                {
+                    "artist": "Disclosure",
+                    "title": "Omen - Radio Edit",
+                    "uri": "32WoeOOWX1LxpScsVe1iD9"
+                },
+                {
+                    "artist": "Magic Affair",
+                    "title": "Omen 3 - Rene Rodrigezz Cut",
+                    "uri": "7wLfEJVWy5h9SMWgAA3jpJ"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Voice Actor",
+                    "title": "Camden",
+                    "uri": "5lkPBn3ocVXEynT6DAawZM"
+                },
+                {
+                    "artist": "Voice Actor",
+                    "title": "Camden",
+                    "uri": "5i2fhQJuGIUKNXT4yL0SlY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Voice Actor",
+                    "title": "Camden",
+                    "uri": "5lkPBn3ocVXEynT6DAawZM"
+                },
+                {
+                    "artist": "Voice Actor",
+                    "title": "Camden",
+                    "uri": "5i2fhQJuGIUKNXT4yL0SlY"
+                },
+                {
+                    "artist": "Gracie Abrams",
+                    "title": "Camden",
+                    "uri": "1NAWiOec7X7xTa24nXQFCG"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Bene Gesserit",
+                    "uri": "5Jwajocn1leNg7A3310iFB"
+                },
+                {
+                    "artist": "A.e.r.o.",
+                    "title": "Bene Gesserit",
+                    "uri": "4pQT2MVLJqUcJDaEDv1vXI"
+                },
+                {
+                    "artist": "Die Biene Maja",
+                    "title": "Geheimnisvolle Spuren - Teil 04",
+                    "uri": "5yaqr4ZbKpizsrIXwn57qc"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Alien Sex Fiend",
+                    "title": "In and Out of My Mind... - Version; Edit",
+                    "uri": "1Lu5SBrqh9k92QDrhohkcj"
+                },
+                {
+                    "artist": "Alien Sex Fiend",
+                    "title": "In and Out of My Mind... - Version; Edit",
+                    "uri": "2trI5XeVy1ArD11NMGvNSE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Alien Sex Fiend",
+                    "title": "Dead & Buried - 12\" Version",
+                    "uri": "4zvwporoplttLna2hmfsjZ"
+                },
+                {
+                    "artist": "Alien Sex Fiend",
+                    "title": "I Walk the Line",
+                    "uri": "6kJoVUIqzlkjNeVGatlGKB"
+                },
+                {
+                    "artist": "7rio",
+                    "title": "Alien",
+                    "uri": "2BpEIqaO7MaQcJ5euhDyaL"
+                }
+            ]
+        }
+    },
     "150session11042014": {
         "00": {
             "s0": [
