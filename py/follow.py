@@ -29,6 +29,6 @@ for i in todo:
     script.connection.connect()
     logging.info(f"Starting: {i}")
     try:
-        eval(f"class_instance.{i}()")
+        getattr(class_instance, i)()
     except:
         logging.warning(traceback.format_exc())

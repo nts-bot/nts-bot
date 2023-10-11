@@ -1,3 +1,12 @@
+"""
+
+Description: Main Logic
+Authors: GAMM
+Version: 3
+Year: 2023-09-18
+
+"""
+
 # BASIC LIBRARIES
 import os
 import re

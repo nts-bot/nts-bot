@@ -1,6 +1,6 @@
 """
 
-Description: Main File
+Description: Web scraping & Connections
 Authors: GAMM
 Version: 1
 Year: 2023-09-02
@@ -241,7 +241,6 @@ class webscraper:
             # ARTIST IMAGES
 
             try:
-                # imlist = [i.split('.')[0] for i in os.listdir('./jpeg/')]
                 imlist = [
                     i.split(".")[0] for i in os.listdir("./spotify/")
                 ]  # IF IN SPOTIFY THEN IMAGE EXISTS
@@ -279,9 +278,6 @@ class webscraper:
                 self.meta["title"] = title
                 self.meta["description"] = desk
 
-            # utils.rnw_json(f"./meta/{show}", meta)
-            # utils.rnw_json(f"./tracklist/{show}", episodelist)
-
     @utils.timeout(50.0)
     def req(self, url):
         try:
@@ -307,8 +303,8 @@ class webscraper:
             except:
                 self.episodelist[episode] = dict()
             if (
-                not self.episodelist[episode]
-                and isinstance(self.episodelist[episode], dict)
+                (not self.episodelist[episode])
+                and (isinstance(self.episodelist[episode], dict))
             ) or (not self.meta[episode]):
                 logging.info(episode)
                 url = f"https://www.nts.live/shows/{show}/episodes/{episode}"

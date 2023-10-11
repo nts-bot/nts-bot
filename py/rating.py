@@ -1,3 +1,13 @@
+"""
+
+Description: Text Analysis
+Authors: GAMM
+Version: 1
+Year: 2023-09-02
+
+"""
+
+
 # .0 STANDARD LIBRARIES
 
 import os
