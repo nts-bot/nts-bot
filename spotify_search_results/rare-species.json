@@ -384,6 +384,460 @@
             ]
         }
     },
+    "rare-species-10th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Jacques Kodjian",
+                    "title": "Bent El Shalabiya",
+                    "uri": "3A0oq3I9H8bl7aBMGl8gMd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jacques Kodjian",
+                    "title": "Bent El Shalabiya",
+                    "uri": "3A0oq3I9H8bl7aBMGl8gMd"
+                },
+                {
+                    "artist": "Munir Bachir",
+                    "title": "Bent El Chalabiya",
+                    "uri": "5o8vai2xj9vPtgrN8qDuvs"
+                },
+                {
+                    "artist": "Rabih Al Asmar",
+                    "title": "Bent Al Akaber",
+                    "uri": "16eQD9NNw2dgL4A4d5hlIk"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "SHOGUNADE",
+                    "uri": "3Bx0cavHGjEiUqUMxfOvy2"
+                },
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "Dream",
+                    "uri": "66hacKPqwClRgpSmWDWhBx"
+                },
+                {
+                    "artist": "Alex Heffes",
+                    "title": "Celestine",
+                    "uri": "44laVbV299OkaybCDcF7iO"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Clubhouse",
+                    "title": "Do It Again Meets Billy Jean - Original Edit Mix",
+                    "uri": "0zrU9L5Mm3vaMPAxTQFVEv"
+                },
+                {
+                    "artist": "JELEEL!",
+                    "title": "CLUBHOUSE! (FEAT. MIKE DIMES)",
+                    "uri": "2UKEafEb8WaCuMJFfHNq5n"
+                },
+                {
+                    "artist": "DJ Kee",
+                    "title": "Billy Jean - 140 BPM",
+                    "uri": "67EHoJaOdfjwasePlw5iJe"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Inner City",
+                    "title": "Whatcha Gonna Do With My Lovin' - Def Mix",
+                    "uri": "38RLVXTOPM3rzrRGQjM6Xj"
+                },
+                {
+                    "artist": "Inner City",
+                    "title": "Whatcha Gonna Do With My Lovin'",
+                    "uri": "1fNk4Ooj13JsTSRGiml7PK"
+                },
+                {
+                    "artist": "Inner City",
+                    "title": "Whatcha Gonna Do With My Lovin' - Def Mix",
+                    "uri": "2poyBRqDPs2WPPCd5hpdCP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Inner City",
+                    "title": "Whatcha Gonna Do With My Lovin'",
+                    "uri": "1fNk4Ooj13JsTSRGiml7PK"
+                },
+                {
+                    "artist": "Inner City",
+                    "title": "Whatcha Gonna Do With My Lovin' - Def Mix",
+                    "uri": "2poyBRqDPs2WPPCd5hpdCP"
+                },
+                {
+                    "artist": "Marvin Gaye",
+                    "title": "Inner City Blues (Make Me Wanna Holler)",
+                    "uri": "5hReWjUHqPqkHi31G7izL4"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Britney Spears",
+                    "title": "Stronger - Miguel 'Migs' Vocal Mix",
+                    "uri": "5P9ARY8NjgFv7uWTImk60t"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Britney Spears",
+                    "title": "Stronger - Miguel 'Migs' Vocal Mix",
+                    "uri": "5P9ARY8NjgFv7uWTImk60t"
+                },
+                {
+                    "artist": "Britney Spears",
+                    "title": "Stronger",
+                    "uri": "5QhBKPqsnX1uY9fZNaAtZg"
+                },
+                {
+                    "artist": "Stonebank",
+                    "title": "Stronger",
+                    "uri": "6HCmuewveUWxu30HSCsWk5"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "J Boog",
+                    "title": "Let's Do It Again",
+                    "uri": "2hU6oM0KUN1gzBf8PY0MOD"
+                },
+                {
+                    "artist": "DD Osama",
+                    "title": "Let's Do It (feat. NLE Choppa & Dee Play4Keeps)",
+                    "uri": "2g2Lp3kUkZ4HqtxBrDu5Tt"
+                },
+                {
+                    "artist": "Outskrts",
+                    "title": "Let's Do This",
+                    "uri": "6bpAqxdQ2BocMFzRnVZGFH"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "King Britt",
+                    "title": "Uzoamaka",
+                    "uri": "1vi5myF49RYRMumb9ipktP"
+                },
+                {
+                    "artist": "King Britt pres. Oba Funke",
+                    "title": "Uzoamaka - King Britt's Scuba Mix",
+                    "uri": "45GFTN4MFsStvDCgKLnuot"
+                },
+                {
+                    "artist": "King Britt pres. Oba Funke",
+                    "title": "Uzoamaka - Dixon Update",
+                    "uri": "0NJhQCY6m6RaQixLJpEIG4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "King Britt",
+                    "title": "Uzoamaka",
+                    "uri": "1vi5myF49RYRMumb9ipktP"
+                },
+                {
+                    "artist": "King Britt pres. Oba Funke",
+                    "title": "Uzoamaka - Dixon Update",
+                    "uri": "0NJhQCY6m6RaQixLJpEIG4"
+                },
+                {
+                    "artist": "King Britt pres. Oba Funke",
+                    "title": "Uzoamaka - Original Mix - SB Edit",
+                    "uri": "4wjbPGZvowQ0myoF9cEAOf"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": ""
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Cuban Link",
+                    "title": "Still Telling Lies",
+                    "uri": "7wnLDaXc8z1AGeTcYBND1H"
+                },
+                {
+                    "artist": "Luciano",
+                    "title": "Cuban Links",
+                    "uri": "7FpMKHQtl1CHqssSwIUWhx"
+                },
+                {
+                    "artist": "Rod Wave",
+                    "title": "Cuban Links (feat. Kevin Gates)",
+                    "uri": "1upQoQBckBvpwN4lewptFd"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Franklyn",
+                    "title": "Get on up feat. Boobonic of Phillies Most Wanted",
+                    "uri": "5LCE93yFObtNauEbMtMi5d"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "MOO$H",
+                    "title": "Philly's Most Wanted",
+                    "uri": "5T1FOHFroE4F1tm4RFSqPO"
+                },
+                {
+                    "artist": "Philly's Most Wanted",
+                    "title": "Please Don't Mind",
+                    "uri": "3kUiht3ClxHdylTa9Cmfi6"
+                },
+                {
+                    "artist": "Mike Pinto",
+                    "title": "Bill's Song II (Crime And Punishment)",
+                    "uri": "5Tk9TYqlUOEfjabc4CDYPy"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Tirzah",
+                    "title": "Holding On",
+                    "uri": "4RjwMyr4D2W4py79Heop9l"
+                },
+                {
+                    "artist": "Tirzah",
+                    "title": "No Limit",
+                    "uri": "1YR94xmVWP4Y4t8jojuFow"
+                },
+                {
+                    "artist": "Tirzah",
+                    "title": "Make It Up",
+                    "uri": "66aoMO408FA4pLR2xWVH3f"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tirzah",
+                    "title": "No Limit",
+                    "uri": "1YR94xmVWP4Y4t8jojuFow"
+                },
+                {
+                    "artist": "Tirzah",
+                    "title": "Make It Up",
+                    "uri": "66aoMO408FA4pLR2xWVH3f"
+                },
+                {
+                    "artist": "Tirzah",
+                    "title": "Promises",
+                    "uri": "02bDs4bBbp7qzW5E62JMu5"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "TV Girl",
+                    "title": "Lovers Rock",
+                    "uri": "6dBUzqjtbnIa1TwYbyw5CM"
+                },
+                {
+                    "artist": "Ren",
+                    "title": "Lovers Rock - Speed",
+                    "uri": "2IPP6vSkp5MmD2keTKznPR"
+                },
+                {
+                    "artist": "Sade",
+                    "title": "Lovers Rock",
+                    "uri": "77lKjGkhvWuimTzQxA4STK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "TV Girl",
+                    "title": "Lovers Rock",
+                    "uri": "6dBUzqjtbnIa1TwYbyw5CM"
+                },
+                {
+                    "artist": "Sade",
+                    "title": "Lovers Rock",
+                    "uri": "77lKjGkhvWuimTzQxA4STK"
+                },
+                {
+                    "artist": "Ren",
+                    "title": "Lovers Rock - Speed",
+                    "uri": "2IPP6vSkp5MmD2keTKznPR"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "John Holt",
+                    "title": "Police In Helicopter",
+                    "uri": "0mD19MC6H0OzHvEUADHypU"
+                },
+                {
+                    "artist": "John Holt",
+                    "title": "Police In Helicopter",
+                    "uri": "3BbmseUjEwuW090jZvxTOD"
+                },
+                {
+                    "artist": "John Holt",
+                    "title": "Police In Helicopter - Benny L Remix",
+                    "uri": "0BR5c98nx8huadfYUuP6Ys"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Madonna",
+                    "title": "Into the Groove",
+                    "uri": "2m0M7YqCy4lXfedh18qd8N"
+                },
+                {
+                    "artist": "Madonna",
+                    "title": "Hung Up",
+                    "uri": "3850dYVgOFIXJh5U4BFEWH"
+                },
+                {
+                    "artist": "Bausa",
+                    "title": "Madonna",
+                    "uri": "0DAQryfUiFZdWFo76RYBc8"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mike Kayihura",
+                    "title": "Sabrina",
+                    "uri": "4IAIaP9exQObwKO4cePE7b"
+                },
+                {
+                    "artist": "Sabrina Lopez",
+                    "title": "My Factory, My Life",
+                    "uri": "0CQr1BEcm1DGXSD8F8PFag"
+                },
+                {
+                    "artist": "PierceTheSkies",
+                    "title": "Sabrina",
+                    "uri": "0KSUA0Sk5Rmi3MjhB1q09h"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Kerri Chandler",
+                    "title": "Tonight",
+                    "uri": "4oc5WWzY3pKZ5R1H0nj8b9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kerri Chandler",
+                    "title": "Tonight",
+                    "uri": "4oc5WWzY3pKZ5R1H0nj8b9"
+                },
+                {
+                    "artist": "Kerri Chandler",
+                    "title": "You Are In My System - Club Mix",
+                    "uri": "63IgbFgnPSWCQWzyH3ipAs"
+                },
+                {
+                    "artist": "Gabriels",
+                    "title": "Love and Hate in a Different Time - Kerri Chandler Remix, Edit",
+                    "uri": "3iAlkAWJ4yF7zkcWwi5GAV"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Janet Jackson",
+                    "title": "Rhythm Nation",
+                    "uri": "51q3nDYWAqPY4hlgKEbP6j"
+                },
+                {
+                    "artist": "Mr. SOL",
+                    "title": "Rhythm My Heart 2k15",
+                    "uri": "6caeMzZPbW5KTlgv1WsKyF"
+                },
+                {
+                    "artist": "YACO DJ",
+                    "title": "Rhythm X",
+                    "uri": "4Ub9cC8MRS2T4KsV65aaYr"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bella Poarch",
+                    "title": "Build a Bitch",
+                    "uri": "7BoobGhD4x5K96Me0hqC8Q"
+                },
+                {
+                    "artist": "Jenil",
+                    "title": "Build A Bitch",
+                    "uri": "28FXrcqbCmfzG5xvXXRKEm"
+                },
+                {
+                    "artist": "Darren Korb",
+                    "title": "Build That Wall (Zia's Theme)",
+                    "uri": "5DutiJxznQmcV5a5a1zfRW"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Roy Ayers Ubiquity",
+                    "title": "Everybody Loves The Sunshine",
+                    "uri": "5le4sn0iMcnKU56bdmNzso"
+                },
+                {
+                    "artist": "Roy Ayers",
+                    "title": "The Memory",
+                    "uri": "38ygVW7oemQ0vmcpjxYFDH"
+                },
+                {
+                    "artist": "Roy Ayers",
+                    "title": "Searching",
+                    "uri": "45muf22QzSyKwsF4l3IcwJ"
+                }
+            ]
+        }
+    },
     "rare-species-11th-april-2022": {
         "00": {
             "s0": [

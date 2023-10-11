@@ -4355,6 +4355,431 @@
             ]
         }
     },
+    "temporal-cove-9th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sea of Sound",
+                    "uri": "5GKHrdTFNnEYzju4igliKS"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sea of Sound - Remastered",
+                    "uri": "6lgwEUJTUOESRnX2GoUqZ4"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sea of Sound - Woodhouse Studio LP Demo - Remastered",
+                    "uri": "2uMohsf2gkc5S6si4smZYA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sea of Sound",
+                    "uri": "5GKHrdTFNnEYzju4igliKS"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sight of You",
+                    "uri": "7fectUUMiPjZijOJIJaN3S"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Kinky Love",
+                    "uri": "5hUCTgttGB1eS4GJdPEQEM"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sight of You",
+                    "uri": "7fectUUMiPjZijOJIJaN3S"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sight of You",
+                    "uri": "0abxrYJ6tBDBU4NTBUMD90"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sight of You - Remastered",
+                    "uri": "1eGdcY4RXaBVVQmAW16gRa"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sight of You",
+                    "uri": "7fectUUMiPjZijOJIJaN3S"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sight of You",
+                    "uri": "0abxrYJ6tBDBU4NTBUMD90"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Language of Flowers",
+                    "uri": "4xenfpmcSbr5O4mJo8jNpR"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Pale Saints",
+                    "title": "Thread of Light",
+                    "uri": "2lNfBTXmy24eaosrwxpRMZ"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Thread of Light - 2023 Remaster",
+                    "uri": "7sDt4w4NdVaFOsePQg9S5D"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pale Saints",
+                    "title": "Thread of Light",
+                    "uri": "2lNfBTXmy24eaosrwxpRMZ"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Thread of Light - 2023 Remaster",
+                    "uri": "7sDt4w4NdVaFOsePQg9S5D"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "You Tear the World in Two",
+                    "uri": "7mTp94r2TMmVWzzyX1Kqhq"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Tim Koch",
+                    "title": "Estranger",
+                    "uri": "76VYdcm8FzvGWk3SshAAXI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "TEKKMODE",
+                    "title": "Strangers",
+                    "uri": "4jU6uVbESdMePnkizq25Sx"
+                },
+                {
+                    "artist": "932sounds",
+                    "title": "Strangers - Sped Up",
+                    "uri": "7IyqrmU7UhzDyNcKiWzdoq"
+                },
+                {
+                    "artist": "POSEIDON",
+                    "title": "STRANGERS (HARDSTYLE)",
+                    "uri": "0vjJfTbPclP3MHul0IateG"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Lalo Schifrin",
+                    "title": "How To Open At Will The Most Beautiful Window",
+                    "uri": "3wKTpfAzH5fkJobfdfYdxO"
+                },
+                {
+                    "artist": "Lalo Schifrin",
+                    "title": "How To Open At Will The Most Beautiful Window",
+                    "uri": "263PNMomDaB58mdv7a8Dnh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lalo Schifrin",
+                    "title": "Middle Of The Night",
+                    "uri": "3riHHRLTFgNfegt7fzdm8i"
+                },
+                {
+                    "artist": "Lalo Schifrin",
+                    "title": "Samba Para Dos",
+                    "uri": "0alEqQFJQPtlRhpTRkMCtZ"
+                },
+                {
+                    "artist": "Lalo Schifrin",
+                    "title": "Lullaby for Jack",
+                    "uri": "14H9nazEakQG9Ltt1fGKaf"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Magic Roundabout",
+                    "title": "Carol in Your Eyes",
+                    "uri": "6ZrLoWIATpkvSAIz9xY5Xc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Magic Roundabout",
+                    "title": "Carol in Your Eyes",
+                    "uri": "6ZrLoWIATpkvSAIz9xY5Xc"
+                },
+                {
+                    "artist": "Magic System DJ",
+                    "title": "In Your Eyes (Extended Version)",
+                    "uri": "6x9rUFJFxkKiQNjfxFpqqr"
+                },
+                {
+                    "artist": "Carol Cluster",
+                    "title": "In Your Eyes",
+                    "uri": "6quTHYCHlWSYY1IOyFBAkq"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "To Rococo Rot",
+                    "title": "Freitag",
+                    "uri": "1j2BI53TDyFvlP2PGY8s5x"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Harris & Ford",
+                    "title": "Freitag, Samstag",
+                    "uri": "35WEFAhw47XLju1gu40cjT"
+                },
+                {
+                    "artist": "Nina Chuba",
+                    "title": "Freitag",
+                    "uri": "4mPCuzrgmiB3K62lLUFMj7"
+                },
+                {
+                    "artist": "LX",
+                    "title": "Freitags",
+                    "uri": "7MvdH3f9Z7QjpbJexVybDW"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Tim Rose",
+                    "title": "Snowed In",
+                    "uri": "5AN5yvmERwSPq2JCWPLV5i"
+                },
+                {
+                    "artist": "Tim Rosenau",
+                    "title": "It Snowed",
+                    "uri": "2t3JEIzVmwgucbzgvqoYUv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tom Rosenthal",
+                    "title": "Go Solo",
+                    "uri": "18ywhG9EvuMMUIdUWxEqp7"
+                },
+                {
+                    "artist": "Tom Rosenthal",
+                    "title": "To You Alone",
+                    "uri": "0w0AsLfLOiKijA7mKGGvse"
+                },
+                {
+                    "artist": "Tom Rosenthal",
+                    "title": "Worries",
+                    "uri": "6VbXOgE8XTthGwZfhhjh5H"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ennio Morricone",
+                    "title": "Una stanza vuota",
+                    "uri": "1pOhKWTtG70W9LLRw8KaEd"
+                },
+                {
+                    "artist": "Tony Canto",
+                    "title": "Una sana spesa",
+                    "uri": "46QhKPjzvm0bwf6JBjqsNh"
+                },
+                {
+                    "artist": "Andrea Zeta",
+                    "title": "'Na stanza fredda",
+                    "uri": "0OxMTHV3udL5dARdzZo620"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Baden Powell",
+                    "title": "Canto de Yemanjá",
+                    "uri": "1FM6WoiD8RPTAzozx56wvi"
+                },
+                {
+                    "artist": "Baden Powell",
+                    "title": "Canto De Yemanjá",
+                    "uri": "3qARWiRZTj4OwOUAekRaat"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Baden Powell",
+                    "title": "Canto de Yemanjá",
+                    "uri": "1FM6WoiD8RPTAzozx56wvi"
+                },
+                {
+                    "artist": "Baden Powell",
+                    "title": "Canto de Ossanha",
+                    "uri": "1ZHfMFfKdpFmAIAXIWK9LH"
+                },
+                {
+                    "artist": "Baden Powell",
+                    "title": "Canto De Iemanjá",
+                    "uri": "1Oknb8TS9M6G3x3L1AuFCM"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Harry Mudie",
+                    "title": "Heavy Duty Dub",
+                    "uri": "1UsKJTvSStwlirj9UV1HgF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Harry Mudie",
+                    "title": "Heavy Duty Dub",
+                    "uri": "1UsKJTvSStwlirj9UV1HgF"
+                },
+                {
+                    "artist": "Harry Mudie",
+                    "title": "Roman Dub",
+                    "uri": "3Rn1lnA45TrhOiDNS2uAOr"
+                },
+                {
+                    "artist": "Twenty One Pilots",
+                    "title": "Heavydirtysoul",
+                    "uri": "7i9763l5SSfOnqZ35VOcfy"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Pale Saints",
+                    "title": "Kinky Love",
+                    "uri": "5hUCTgttGB1eS4GJdPEQEM"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Kinky Love - Demo",
+                    "uri": "4bnAnW4UJ8fgp9BeT1PxVr"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Kinky Love - Demo",
+                    "uri": "2BAUoUY3RPsJCyRR2qJc4C"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pale Saints",
+                    "title": "Kinky Love",
+                    "uri": "5hUCTgttGB1eS4GJdPEQEM"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Kinky Love - Demo",
+                    "uri": "2BAUoUY3RPsJCyRR2qJc4C"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sight of You",
+                    "uri": "7fectUUMiPjZijOJIJaN3S"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Pale Saints",
+                    "title": "Featherframe",
+                    "uri": "0XdaMD99E2vtEWZcB03an9"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Featherframe - Demo",
+                    "uri": "0WHwA4UL96UJLWKekhYolq"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Featherframe - 2023 Remaster",
+                    "uri": "2YUUpwDCHTPOCOi65Tnn5F"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pale Saints",
+                    "title": "Featherframe - Demo",
+                    "uri": "0WHwA4UL96UJLWKekhYolq"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Featherframe - 2023 Remaster",
+                    "uri": "2YUUpwDCHTPOCOi65Tnn5F"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sight of You",
+                    "uri": "7fectUUMiPjZijOJIJaN3S"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Pale Saints",
+                    "title": "A Thousand Stars Burst Open",
+                    "uri": "3YwLEv6ga0hYCaWXgdELav"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "A Thousand Stars Burst Open - 2023 Remaster",
+                    "uri": "3jSnCBlo0CgLpxXcoNM2Uk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pale Saints",
+                    "title": "A Thousand Stars Burst Open",
+                    "uri": "3YwLEv6ga0hYCaWXgdELav"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "A Thousand Stars Burst Open - 2023 Remaster",
+                    "uri": "3jSnCBlo0CgLpxXcoNM2Uk"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Kinky Love",
+                    "uri": "5hUCTgttGB1eS4GJdPEQEM"
+                }
+            ]
+        }
+    },
     "temporal-cove-w-smilegoth-10th-october-2022": {
         "00": {
             "s0": "",

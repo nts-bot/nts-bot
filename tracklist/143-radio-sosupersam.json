@@ -1,5 +1,78 @@
 {
-    "143-radio-sosupersam-11th-september-2023": {},
+    "143-radio-sosupersam-11th-september-2023": {
+        "00": {
+            "artist": "Snoh Aalegra",
+            "title": "Do 4 Love"
+        },
+        "01": {
+            "artist": "Yeek",
+            "title": "$even"
+        },
+        "02": {
+            "artist": "Stwo",
+            "title": "Lovin U"
+        },
+        "03": {
+            "artist": "Gwen Stefani",
+            "title": "Luxurious"
+        },
+        "04": {
+            "artist": "Sango",
+            "title": "Me Dê Amor"
+        },
+        "05": {
+            "artist": "Dana",
+            "title": "As We Lay (Instrumental)"
+        },
+        "06": {
+            "artist": "Soulja Boy",
+            "title": "Gucci Bandana"
+        },
+        "07": {
+            "artist": "Barry White",
+            "title": "Playing Your Game, Baby"
+        },
+        "08": {
+            "artist": "Usher",
+            "title": "Superstar"
+        },
+        "09": {
+            "artist": "SZA",
+            "title": "Kill Bill"
+        },
+        "10": {
+            "artist": "Steve Lacy",
+            "title": "Bad Habit (Matthewville Amapiano Edit)"
+        },
+        "11": {
+            "artist": "Keyshia Cole",
+            "title": "Love (Egnever Amapiano Edit)"
+        },
+        "12": {
+            "artist": "Crystal Waters",
+            "title": "Gypsy Woman (La Da Dee) (7\" Version)"
+        },
+        "13": {
+            "artist": "Drake",
+            "title": "Passionfruit (NIE Remix)"
+        },
+        "14": {
+            "artist": "DeBarge",
+            "title": "I Like It"
+        },
+        "15": {
+            "artist": "Usher",
+            "title": "U Don't Have To Call"
+        },
+        "16": {
+            "artist": "Earth, Wind & Fire",
+            "title": "Fantasy"
+        },
+        "17": {
+            "artist": "Alicia Keys",
+            "title": "You Don't Know My Name"
+        }
+    },
     "143-radio-sosupersam-14th-august-2023": "",
     "143-radio-sosupersam-17th-july-2023": {
         "00": {
@@ -391,6 +464,60 @@
         "13": {
             "artist": "The Stylistics",
             "title": "You Make Me Feel Brand New"
+        }
+    },
+    "143-radio-sosupersam-9th-october-2023": {
+        "00": {
+            "artist": "Cleo Sol",
+            "title": "Life Will Be"
+        },
+        "01": {
+            "artist": "Stevie Wonder",
+            "title": "Golden Lady"
+        },
+        "02": {
+            "artist": "Mary Jane Girls",
+            "title": "All Night Long"
+        },
+        "03": {
+            "artist": "Mary J. Blige",
+            "title": "Love No Limit"
+        },
+        "04": {
+            "artist": "Junior M.A.F.I.A.",
+            "title": "Get Money"
+        },
+        "05": {
+            "artist": "Tha Dogg Pound",
+            "title": "Let's Play House"
+        },
+        "06": {
+            "artist": "Slum Village",
+            "title": "The Look Of Love"
+        },
+        "07": {
+            "artist": "Faith Evans",
+            "title": "Love Like This"
+        },
+        "08": {
+            "artist": "Aaliyah",
+            "title": "Try Again"
+        },
+        "09": {
+            "artist": "Lil' Jon & The East Side Boyz, ",
+            "title": "Lovers & Friends"
+        },
+        "10": {
+            "artist": "Immature",
+            "title": "I Don't Mind"
+        },
+        "11": {
+            "artist": "Dirty Projectors",
+            "title": "Stillness Is The Move (A Capella)"
+        },
+        "12": {
+            "artist": "Total, ",
+            "title": "Can't You See (Vocal)"
         }
     }
 }
