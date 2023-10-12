@@ -1,4 +1,355 @@
 {
+    "tara-clerkin-trio-11th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "CTM",
+                    "title": "For Jannis",
+                    "uri": "5pmv3IW8NCYTlkgwJedmrv"
+                },
+                {
+                    "artist": "CTM",
+                    "title": "For Jannis",
+                    "uri": "71KKw6et5lGowTG0fyfqUs"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "CTM",
+                    "title": "For Jannis",
+                    "uri": "5pmv3IW8NCYTlkgwJedmrv"
+                },
+                {
+                    "artist": "CTM",
+                    "title": "For Jannis",
+                    "uri": "71KKw6et5lGowTG0fyfqUs"
+                },
+                {
+                    "artist": "Jannis Block",
+                    "title": "TWENTYMYLOVE",
+                    "uri": "5Y9V8yaAnr26JpU6eCPEUf"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Laurel Halo",
+                    "title": "Sweat, Tears or the Sea",
+                    "uri": "2yDsCkPGERKJisaIQQvmaC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laurel Halo",
+                    "title": "Sweat, Tears or the Sea",
+                    "uri": "2yDsCkPGERKJisaIQQvmaC"
+                },
+                {
+                    "artist": "Laurel Halo",
+                    "title": "-Out",
+                    "uri": "5qwXedfS62l4G8X0NoIDti"
+                },
+                {
+                    "artist": "Laurel Halo",
+                    "title": "Naked to the Light",
+                    "uri": "0UN98DwrzC832dPsv8xmkw"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Barbara",
+                    "title": "Göttingen",
+                    "uri": "63qRgqZb8D6jwTaiMdAb2d"
+                },
+                {
+                    "artist": "Edward Elgar",
+                    "title": "Salut d'amour, Op. 12 (version for orchestra)",
+                    "uri": "0Li9cL0xhjGNc4EcEi1Gaa"
+                },
+                {
+                    "artist": "Edward Elgar",
+                    "title": "Salut d'amour, Op. 12",
+                    "uri": "7juYY67QIUIsO7xweoyMqq"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dj Belite",
+                    "title": "Seul Au Monde",
+                    "uri": "5WlzcpwFENUWAvCyJodxG0"
+                },
+                {
+                    "artist": "MEN-WAL",
+                    "title": "Brillante",
+                    "uri": "3St9KQbKpA1zje1M1sG70f"
+                },
+                {
+                    "artist": "Icon For Hire",
+                    "title": "Brittle - Acoustic",
+                    "uri": "4OQyvy90jNgvcBqNW0njbJ"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Locust",
+                    "title": "Clouds at My Feet",
+                    "uri": "3kt8sJhvBKwfwemtL7L7fg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Locust",
+                    "title": "Clouds at My Feet",
+                    "uri": "3kt8sJhvBKwfwemtL7L7fg"
+                },
+                {
+                    "artist": "Machine Head",
+                    "title": "Locust",
+                    "uri": "2fed1yXI1clOEddfGyKyH2"
+                },
+                {
+                    "artist": "Noflik",
+                    "title": "Locust",
+                    "uri": "5MaPFUOETqvw2bNIAuJkTP"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tennis",
+                    "title": "One Night with The Valet",
+                    "uri": "16aHQF9UlwO1JmwKBpCe2N"
+                },
+                {
+                    "artist": "Lorde",
+                    "title": "Tennis Court",
+                    "uri": "74fpNVAJrKGQuqHETi4WSt"
+                },
+                {
+                    "artist": "Rob Lane",
+                    "title": "The Darkest Hour",
+                    "uri": "0lITVqVPYnGWDnODFUQthh"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Suite In E Minor For Lute, BWV 996 - Arr. For Guitar: 4. Sarabande",
+                    "uri": "5gQNqvGFl7HSuASv2G9yVL"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Lute Suite in E Minor, BWV996: 4. Sarabande",
+                    "uri": "0L2JNQTf3mfaGlrZkf9sJM"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Suite In E Minor For Lute, BWV 996: 4. Sarabande",
+                    "uri": "0reyMr5OaxFIzYnKmVhyJD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Suite in E Minor, BWV 996: IV. Sarabande",
+                    "uri": "3QESNfIw00QCi3jdaJEdMh"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Suite No. 5 In G Minor (after BWV 995 & 1011): IV. Sarabande",
+                    "uri": "0Zzl7IPOp6wGwN3B098VhL"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Lute Suite in E Minor, BWV 996 (Arr. J. Williams for Guitar): IV. Sarabande",
+                    "uri": "1LpBu9DMOmscT94Rbf2y2v"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Wailing Souls",
+                    "title": "Bredda Gravalicious",
+                    "uri": "29QYMA4EdHD2bK0qsmp5Vy"
+                },
+                {
+                    "artist": "Bix Beiderbecke",
+                    "title": "Singin' The Blues",
+                    "uri": "1YLxMRyib15FfONoTod5TV"
+                },
+                {
+                    "artist": "Georg Auf Lieder",
+                    "title": "Brandenburg",
+                    "uri": "6AFMhNnJNChzowHHpUhhLo"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Funki Porcini",
+                    "title": "Terminal C3 UK",
+                    "uri": "1c9cwuMaYkccvAqx3P19nX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Funki Porcini",
+                    "title": "Maria",
+                    "uri": "2aU0AqoYksRiS92lvtwyRT"
+                },
+                {
+                    "artist": "Funki Porcini",
+                    "title": "Long Road",
+                    "uri": "5Inoy4IACJrdH93CBfGBsi"
+                },
+                {
+                    "artist": "Funki Porcini",
+                    "title": "Purrfect",
+                    "uri": "7bfMKlkk76s6ou41vmRS9W"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Ben LaMar Gay",
+                    "title": "Warmth Be Unto You",
+                    "uri": "4QwjbMhAHzYPsGXILO9KQz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ben LaMar Gay",
+                    "title": "Mestre Candeia's Denim Hat",
+                    "uri": "4BIp1Vqrmvfaw8sFAmRXl4"
+                },
+                {
+                    "artist": "Ben LaMar Gay",
+                    "title": "Hood Rich Happy",
+                    "uri": "4P0HmCpuEJotOh9PUkng4p"
+                },
+                {
+                    "artist": "Ah. BLOOM",
+                    "title": "We are in this together",
+                    "uri": "0lo6Uo5EuYzzgU25ZHN8D3"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Klein",
+                    "title": "DJ drop",
+                    "uri": "6HADFhVwSbXOQqyhYQXRrD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "THOVI",
+                    "title": "Drop Drop Drop",
+                    "uri": "6xsPQbmWOxCdTyaRq3bO3i"
+                },
+                {
+                    "artist": "Kleintierschaukel",
+                    "title": "Kidz of Tibet",
+                    "uri": "6bexT12e03xTtGzBgNe0dE"
+                },
+                {
+                    "artist": "Kleintierschaukel",
+                    "title": "Motomia",
+                    "uri": "2CLcXhe2ubLjrTG6WpG9nu"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Nobukazu Takemura",
+                    "title": "Polymorphism",
+                    "uri": "6BFbmf3AX19OcT3Z5awzas"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nobukazu Takemura",
+                    "title": "Polymorphism",
+                    "uri": "6BFbmf3AX19OcT3Z5awzas"
+                },
+                {
+                    "artist": "Nobukazu Takemura",
+                    "title": "One Day",
+                    "uri": "4BER2aGl5Nta8DEs3CV35s"
+                },
+                {
+                    "artist": "Joyhauser",
+                    "title": "Polymoon",
+                    "uri": "2NWyOeqiwoJLRP0NyUlMyg"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "ML Buch",
+                    "title": "Mw",
+                    "uri": "1isxSaIoKCdXXKEqR0tJLH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "ML Buch",
+                    "title": "Mw",
+                    "uri": "1isxSaIoKCdXXKEqR0tJLH"
+                },
+                {
+                    "artist": "ML Buch",
+                    "title": "Well bucket",
+                    "uri": "38H6pX8RbJJzBFqVVcLXkO"
+                },
+                {
+                    "artist": "ML Buch",
+                    "title": "Working it out",
+                    "uri": "4v5uz9BbHyIWorKp7vSuu2"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "CJ Ramone",
+                    "title": "Waitin' on the Sun",
+                    "uri": "5mK7n5FltCf27YLr5OJZeR"
+                },
+                {
+                    "artist": "Rue Hamra",
+                    "title": "Waiting on the Sunshine",
+                    "uri": "1TrAcsT4plszTtXgeuYS77"
+                },
+                {
+                    "artist": "DJ Michael Douglas",
+                    "title": "Waiting on the Sun (Slowed & Reverb)",
+                    "uri": "5KSlDqixqzArHg91n5DJ4S"
+                }
+            ]
+        }
+    },
     "tara-clerkin-trio-12th-october-2022": {
         "00": {
             "s0": [

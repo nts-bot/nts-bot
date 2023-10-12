@@ -1112,6 +1112,481 @@
             "s1": ""
         }
     },
+    "seance-centre-11th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "P.G. Six",
+                    "title": "Well Of Memory - Part I",
+                    "uri": "7nq0xQbjxilxsM4pW9juiJ"
+                },
+                {
+                    "artist": "P.G. Six",
+                    "title": "Well Of Memory - Part II",
+                    "uri": "4kr9xNwgJbvHVKiOK1uSYO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "KunDharma",
+                    "title": "Well of Hope",
+                    "uri": "1nL2bxBSNHt8tFI9T80XWn"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "The Well-Tempered Clavier, Book 1, BWV 846-869: Prelude and Fugue in C Minor, BWV 847",
+                    "uri": "1FcWbPjfy4pg7OTbXqaa4V"
+                },
+                {
+                    "artist": "Etienne Vian",
+                    "title": "Well-o-well",
+                    "uri": "3iSoBfu2BglCUOAeWZSnlG"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Metal Mountains",
+                    "title": "Structures In The Sun",
+                    "uri": "37LgUsfzuNPrbZjU1FkQB5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Metal Mountains",
+                    "title": "Structures In The Sun",
+                    "uri": "37LgUsfzuNPrbZjU1FkQB5"
+                },
+                {
+                    "artist": "Metal Miner",
+                    "title": "Your Destruction",
+                    "uri": "1sJbIIIa7oNGT7hmTL1EnM"
+                },
+                {
+                    "artist": "Metalmind",
+                    "title": "I Will Be Free",
+                    "uri": "4P0VC6OwmSV1YY7CCaQVsX"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Samara",
+                    "title": "Quavo",
+                    "uri": "778AdMJt4FYu4GM4UBA6Qs"
+                },
+                {
+                    "artist": "Samara",
+                    "title": "Frontière",
+                    "uri": "34lnzjIFhKak4hhLxaD8Pb"
+                },
+                {
+                    "artist": "Samara",
+                    "title": "6G",
+                    "uri": "6kFuqbRBWNDbPPXFUbokoA"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Avantasia",
+                    "title": "The Tower",
+                    "uri": "1uJ7PjwJpqamnP8MUFmGUo"
+                },
+                {
+                    "artist": "Howard Shore",
+                    "title": "The Tower of Cirith Ungol",
+                    "uri": "6dZ3PpoPcC7wtsoshGNXDo"
+                },
+                {
+                    "artist": "Drama Moth",
+                    "title": "The Tower",
+                    "uri": "0f4Dl5j1TeCQXLggCaCaPl"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "P.G. Six",
+                    "title": "Unteleported Man",
+                    "uri": "3yhifoIMdT6nTeC8P6yi0U"
+                },
+                {
+                    "artist": "P.G. Six",
+                    "title": "Unteleported Man",
+                    "uri": "24eeWoH0xVHNy8Uu2NtAsA"
+                },
+                {
+                    "artist": "P.G. Six",
+                    "title": "Unteleported Man - Live on Wnyu New Afternoon Show, New York",
+                    "uri": "0XBVYcow3QtDWqCUzLSFkt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "P.G. Six",
+                    "title": "Unteleported Man",
+                    "uri": "3yhifoIMdT6nTeC8P6yi0U"
+                },
+                {
+                    "artist": "P.G. Six",
+                    "title": "Unteleported Man",
+                    "uri": "24eeWoH0xVHNy8Uu2NtAsA"
+                },
+                {
+                    "artist": "P.G. Six",
+                    "title": "Tell me Death",
+                    "uri": "4tSXKSUvGm01qg0cxbd1Je"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Takeshi Furukawa",
+                    "title": "The Tower",
+                    "uri": "65PVxd1n7WWW7vDvWbN2xC"
+                },
+                {
+                    "artist": "岡部啓一",
+                    "title": "The Tower",
+                    "uri": "5o9eO3ux5tyk7uOVXR0eV8"
+                },
+                {
+                    "artist": "Ramin Djawadi",
+                    "title": "The Tower (Bonus Track)",
+                    "uri": "4mtMfqAhG6c7bXllmMdq3M"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chris de Burgh",
+                    "title": "The Tower",
+                    "uri": "6lfp1G0svtamTKCnxFlngO"
+                },
+                {
+                    "artist": "Ludovico Einaudi",
+                    "title": "The Tower - Live",
+                    "uri": "4LhNC1wiVYBDvwCQpUi8eT"
+                },
+                {
+                    "artist": "Ramin Djawadi",
+                    "title": "The Tower (Bonus Track)",
+                    "uri": "4mtMfqAhG6c7bXllmMdq3M"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tower Recordings",
+                    "title": "Winter Of Frozen Mornings",
+                    "uri": "496RrxKHcDU3edoIVqQLFi"
+                },
+                {
+                    "artist": "Grima",
+                    "title": "Winter Morning Tower",
+                    "uri": "5Ii1aGR6VhtfDp5FlOHGPH"
+                },
+                {
+                    "artist": "CIFE 42",
+                    "title": "Winter Of My Feelings",
+                    "uri": "0QEdyukVZ8lXAfM1lVyMty"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "P.G. Six",
+                    "title": "The Divine Invasion",
+                    "uri": "2RB3QHRzcGpn2Xk8iJQcRT"
+                },
+                {
+                    "artist": "P.G. Six",
+                    "title": "The Divine Invasion",
+                    "uri": "3UPMnMCHv9VuhxlkQytivN"
+                },
+                {
+                    "artist": "P.G. Six",
+                    "title": "Divine Invasion - Live at the Flywheel, Easthampton",
+                    "uri": "4zCZcL8HwUYKG3eEvVIrwG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "P.G. Six",
+                    "title": "The Divine Invasion",
+                    "uri": "2RB3QHRzcGpn2Xk8iJQcRT"
+                },
+                {
+                    "artist": "P.G. Six",
+                    "title": "The Divine Invasion",
+                    "uri": "3UPMnMCHv9VuhxlkQytivN"
+                },
+                {
+                    "artist": "Abr.",
+                    "title": "Divine Intervention",
+                    "uri": "0glY2KRbL4ErRB3xhKqAe9"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Æther Realm",
+                    "title": "The Tower",
+                    "uri": "3jXZS78XCy35K07wAxjj1l"
+                },
+                {
+                    "artist": "Avantasia",
+                    "title": "The Tower",
+                    "uri": "1uJ7PjwJpqamnP8MUFmGUo"
+                },
+                {
+                    "artist": "Bruce Dickinson",
+                    "title": "The Tower - 2001 Remaster",
+                    "uri": "2XHs83Rq9UqWY3kNXhOfpb"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chris de Burgh",
+                    "title": "The Tower",
+                    "uri": "6lfp1G0svtamTKCnxFlngO"
+                },
+                {
+                    "artist": "Aleah",
+                    "title": "The Tower",
+                    "uri": "3Qe4ZJllNG4CxGBkDJLJbE"
+                },
+                {
+                    "artist": "Michael Salvatori",
+                    "title": "The Tower",
+                    "uri": "3WKOxzPGn7MieVB3cZ2ODc"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Metal Mountains",
+                    "title": "Flickers within/without",
+                    "uri": "0mpvYVHrBmfHFujklQzRKw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Metallica",
+                    "title": "Metal Militia - Remastered",
+                    "uri": "7i9iuZbjhax8bwLAgh1muk"
+                },
+                {
+                    "artist": "Metallica",
+                    "title": "Metal Militia - Remastered",
+                    "uri": "2TBRfDnfwsOIaGxkkXFBN2"
+                },
+                {
+                    "artist": "Metalmind",
+                    "title": "I Will Be Free",
+                    "uri": "4P0VC6OwmSV1YY7CCaQVsX"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ivy Ravenwood",
+                    "title": "Breathless (Instrumental Version)",
+                    "uri": "3J40yu00qVfiOaqBhrJhRa"
+                },
+                {
+                    "artist": "Maria Duhova Trevor",
+                    "title": "Prelude in C",
+                    "uri": "5dfyZGnyhJnD0OP9i7Rxo4"
+                },
+                {
+                    "artist": "Allan London",
+                    "title": "When You Wish Upon A Star",
+                    "uri": "3QiP1KFr1ugSfzYwaY5953"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "MV & EE",
+                    "title": "Mine All Troubled Blues",
+                    "uri": "65K5ZM4CiPIMgM3GaGbTRL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kokomo",
+                    "title": "Mine's All Troubled Blues",
+                    "uri": "6FC2otQInQgdBMzxwaTcjX"
+                },
+                {
+                    "artist": "mmm",
+                    "title": "Troubled Mind",
+                    "uri": "1tiGhRaLs4d0YH1EDOLBwH"
+                },
+                {
+                    "artist": "Ms Triniti",
+                    "title": "Troubled Kids",
+                    "uri": "3HwwwwHxXPdTwDPUnNF2LJ"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Livingston",
+                    "title": "The Author",
+                    "uri": "1IzZDeelOPOauAFH9TwJVq"
+                },
+                {
+                    "artist": "Livingston",
+                    "title": "Young",
+                    "uri": "6R2qGeFkeKgQzMYJ8hqnDa"
+                },
+                {
+                    "artist": "Livingston",
+                    "title": "Otherside",
+                    "uri": "20yXNexf2HKlT880kZOPDO"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Knuckle Puck",
+                    "title": "The Tower",
+                    "uri": "6kPnfNvwdhdmMSeQn3JGim"
+                },
+                {
+                    "artist": "Ramin Djawadi",
+                    "title": "The Tower (Bonus Track)",
+                    "uri": "4mtMfqAhG6c7bXllmMdq3M"
+                },
+                {
+                    "artist": "岡部啓一",
+                    "title": "The Tower",
+                    "uri": "5o9eO3ux5tyk7uOVXR0eV8"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Coops",
+                    "title": "Odyssey",
+                    "uri": "76hdKwbqDI5tjyyFCwzSZy"
+                },
+                {
+                    "artist": "Monkey Safari",
+                    "title": "Odyssey",
+                    "uri": "1FnHivbTHgjOVyY3a4bjG1"
+                },
+                {
+                    "artist": "Subasa",
+                    "title": "Odyssey",
+                    "uri": "6kEILgEWA5nYyOYugiP3V7"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Knuckle Puck",
+                    "title": "The Tower",
+                    "uri": "6kPnfNvwdhdmMSeQn3JGim"
+                },
+                {
+                    "artist": "岡部啓一",
+                    "title": "The Tower",
+                    "uri": "5o9eO3ux5tyk7uOVXR0eV8"
+                },
+                {
+                    "artist": "Ramin Djawadi",
+                    "title": "The Tower (Bonus Track)",
+                    "uri": "4mtMfqAhG6c7bXllmMdq3M"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "P.G. Six",
+                    "title": "Old Man On The Mountain",
+                    "uri": "6KXpjj5ArzU5lOciYr6gR5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Black Pumas",
+                    "title": "Old Man",
+                    "uri": "5LCM39U4S9IDjtklXwW0tj"
+                },
+                {
+                    "artist": "Old Man Canyon",
+                    "title": "Phantoms and Friends",
+                    "uri": "4DetLjoCdk1vLMPegBxbWO"
+                },
+                {
+                    "artist": "Old Man Canyon",
+                    "title": "Wiser",
+                    "uri": "2xRNjdrM0cEYxKoyCtavEx"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "P.G. Six",
+                    "title": "#1 For Wire-Strung Harp With Echo",
+                    "uri": "5ag8ESqDnUCuLvqcGOBYLf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "P.G. Six",
+                    "title": "#1 For Wire-Strung Harp With Echo",
+                    "uri": "5ag8ESqDnUCuLvqcGOBYLf"
+                },
+                {
+                    "artist": "P.G. Six",
+                    "title": "#6 For Wire-Strung Harp With Slide",
+                    "uri": "77Ke3wqPlsnvHnnPNx04nE"
+                },
+                {
+                    "artist": "Lynne Reardon",
+                    "title": "Twyngryllyg",
+                    "uri": "7aQbNrATVVd1i9CcdmdmAp"
+                }
+            ]
+        }
+    },
     "seance-centre-12th-december-2018": {
         "00": {
             "s0": "",

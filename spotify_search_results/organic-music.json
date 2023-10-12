@@ -600,6 +600,172 @@
             ]
         }
     },
+    "organic-music-11th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Paul Bley",
+                    "title": "Memories",
+                    "uri": "3D4yTOo20lLTl0E7elzXKB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Paul Bley Trio",
+                    "title": "And Now the Queen",
+                    "uri": "5QV0k7Ys6XwHVvzCV5IQNZ"
+                },
+                {
+                    "artist": "Paul Bley Trio",
+                    "title": "Ida Lupino",
+                    "uri": "3r1HC492GiqxQQHrIVSFJK"
+                },
+                {
+                    "artist": "Paul Bley",
+                    "title": "Autumn Breeze",
+                    "uri": "7rfQSR01yyCxP55RNl7Zyu"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "John Surman",
+                    "title": "Nestor's Saga (The Tale Of The Ancient)",
+                    "uri": "1yylEoKOVcODfP2OW5f61N"
+                },
+                {
+                    "artist": "John Surman",
+                    "title": "Edges Of Illusion",
+                    "uri": "3PZ0RoABbjIZhqvfFizOqa"
+                },
+                {
+                    "artist": "John Surman",
+                    "title": "At First Sight",
+                    "uri": "3VH6Q6LXFx9CAlhKiXXWov"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Rainer Brüninghaus",
+                    "title": "Freigeweht",
+                    "uri": "5om8HKfNmfwkDCLBbgAZmh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rainer Brüninghaus",
+                    "title": "Freigeweht",
+                    "uri": "5om8HKfNmfwkDCLBbgAZmh"
+                },
+                {
+                    "artist": "Rainer Von Vielen",
+                    "title": "Mein Block",
+                    "uri": "1wDkRnkov85bHOrLCHrXmX"
+                },
+                {
+                    "artist": "Rainer Von Vielen",
+                    "title": "Für immer unendlich",
+                    "uri": "5okZneVQ2KOk9yzFHjtvbm"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "John Surman",
+                    "title": "On The Wing Again",
+                    "uri": "09WcCpnZ2bOlRffPjEFI5y"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "John Summit",
+                    "title": "Where You Are",
+                    "uri": "4qDpLaFGf5ampf2DXD2TMA"
+                },
+                {
+                    "artist": "John Summit",
+                    "title": "Make Me Feel",
+                    "uri": "0RoGOiZUCQyqAZSPBSk75T"
+                },
+                {
+                    "artist": "John Summit",
+                    "title": "Human (feat. Echoes)",
+                    "uri": "4G4patpYxsF6ovHZOX9wgR"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Azymuth",
+                    "title": "Morning",
+                    "uri": "7dEvUHcPU9jCXeYkKnHGKi"
+                },
+                {
+                    "artist": "Azymuth",
+                    "title": "Vôo sobre o horizonte",
+                    "uri": "1hlikalamWYpdmg3OhfFJ1"
+                },
+                {
+                    "artist": "John Talabot",
+                    "title": "So Will Be Now...",
+                    "uri": "2jpV3AxjRVaV5FMcD1FBmI"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Carl Maria von Weber",
+                    "title": "6 Violin Sonatas, Op. 10b No. 3 in D Minor, J. 101: I. Air Russe: Allegretto moderato",
+                    "uri": "3IkJDOB9uFNJoYcxBYqd1F"
+                },
+                {
+                    "artist": "Carl Maria von Weber",
+                    "title": "6 Violin Sonatas, Op. 10b No. 2 in G Major, J. 100: II. Adagio",
+                    "uri": "1AC5wU2t8UR1EY8wZ04AG0"
+                },
+                {
+                    "artist": "Carl Maria von Weber",
+                    "title": "Variations on a Theme from the Opera Silvana in B-Flat Major, Op. 33: III. Variation II. Con Grazia",
+                    "uri": "7beyiVePpPPIrWbdmb8RAW"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Mike Nock",
+                    "title": "Land Of The Long White Cloud",
+                    "uri": "20ImC9pB6cwgVTi2Ll0QFb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mike Nock",
+                    "title": "Land Of The Long White Cloud",
+                    "uri": "20ImC9pB6cwgVTi2Ll0QFb"
+                },
+                {
+                    "artist": "Mike Nyoni and Born Free",
+                    "title": "Mad Man",
+                    "uri": "3mxwg6oDUZJ9epo5dJnRXW"
+                },
+                {
+                    "artist": "Mike Ness",
+                    "title": "Ballad Of A Lonely Man",
+                    "uri": "34O6tVENHYggBKOrRlaXTV"
+                }
+            ]
+        }
+    },
     "organic-music-13th-september-2023": {
         "00": {
             "s0": [
