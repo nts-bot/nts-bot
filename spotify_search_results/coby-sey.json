@@ -4523,6 +4523,366 @@
             ]
         }
     },
+    "coby-sey-16th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Galya Bisengalieva",
+                    "title": "Alash-Kala",
+                    "uri": "4FEThHcHhWL0XPu04S2j4o"
+                },
+                {
+                    "artist": "Galya Bisengalieva",
+                    "title": "Alash-Kala",
+                    "uri": "4EAJsQb8vSjP2yGU7YJvWX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Galya Bisengalieva",
+                    "title": "Alash-Kala",
+                    "uri": "4EAJsQb8vSjP2yGU7YJvWX"
+                },
+                {
+                    "artist": "Stella Kovalyova",
+                    "title": "Galina",
+                    "uri": "1oMqTsOS6mzsTNvxKKdFps"
+                },
+                {
+                    "artist": "Galena",
+                    "title": "А+Г=ВНЛ",
+                    "uri": "5bYyQzaUSXpGGrJuGZfafd"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Badawi",
+                    "title": "Alhamdulillah",
+                    "uri": "7BYi2Nu81XSbHczrInDCDp"
+                },
+                {
+                    "artist": "zahir mania",
+                    "title": "Birosulillahi Wal Badawi Azzahir",
+                    "uri": "168AkVOgMEdHUDWjmgjllu"
+                },
+                {
+                    "artist": "We love Islam",
+                    "title": "Allahumma Salli Ala Muhammad (Salawat)",
+                    "uri": "0vPTi1wm5bckmenpkwF3jM"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kofi Flexxx",
+                    "title": "Apothecary",
+                    "uri": "5tuBxKNA1FpcR3i8pSMLQr"
+                },
+                {
+                    "artist": "Kofi Flexxx",
+                    "title": "Apothecary",
+                    "uri": "0xOEFsWbtRjGYlbZPw4wiE"
+                },
+                {
+                    "artist": "Yemi Alade",
+                    "title": "Koffi Anan - Freestyle",
+                    "uri": "1D75IsT6XjRE0OvUCgmFdq"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tutto Questo Sentire",
+                    "title": "Structure And Balance",
+                    "uri": "4cYjBHz5yA9U2CHagHUQQk"
+                },
+                {
+                    "artist": "Marcapasos",
+                    "title": "Cosby Sweater",
+                    "uri": "2n3ydQs4nJEcS9gKlJoLIn"
+                },
+                {
+                    "artist": "Hilltop Hoods",
+                    "title": "Cosby Sweater",
+                    "uri": "6myDPrp86x4Lhyp5aqU0EV"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tutto Questo Sentire",
+                    "title": "What Remains",
+                    "uri": "6RvUfmWGoEVGDP37PPxaQ8"
+                },
+                {
+                    "artist": "Marcapasos",
+                    "title": "Cosby Sweater - Extended Version",
+                    "uri": "6hux9qb3Iw54XBzFZpI3Eq"
+                },
+                {
+                    "artist": "Marcapasos",
+                    "title": "Cosby Sweater",
+                    "uri": "2n3ydQs4nJEcS9gKlJoLIn"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Donny Hathaway",
+                    "title": "Someday We'll All Be Free",
+                    "uri": "0iJP3XxZNE8tP7YnB23J1r"
+                },
+                {
+                    "artist": "Donny Hathaway",
+                    "title": "Someday We'll All Be Free",
+                    "uri": "3cP2PvFKsDrTA236lC6NGQ"
+                },
+                {
+                    "artist": "Donny Hathaway",
+                    "title": "Someday We'll All Be Free",
+                    "uri": "5J5rzvpYAQHlELldedLT9X"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Donny Hathaway",
+                    "title": "Someday We'll All Be Free",
+                    "uri": "0iJP3XxZNE8tP7YnB23J1r"
+                },
+                {
+                    "artist": "Donny Hathaway",
+                    "title": "Someday We'll All Be Free",
+                    "uri": "5J5rzvpYAQHlELldedLT9X"
+                },
+                {
+                    "artist": "Donny Hathaway",
+                    "title": "Jealous Guy",
+                    "uri": "4ZMofBIe1948b23GZJriAd"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Hyperdawn",
+                    "title": "Maybe",
+                    "uri": "25vvZb7MLKlfsKJb0S2RO7"
+                },
+                {
+                    "artist": "Hyperdawn",
+                    "title": "Maybe",
+                    "uri": "2UPRGRU3FmS3MgyYDR7KgC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hyperdawn",
+                    "title": "Maybe",
+                    "uri": "2UPRGRU3FmS3MgyYDR7KgC"
+                },
+                {
+                    "artist": "deadmau5",
+                    "title": "Hyperlandia - Vocal Mix",
+                    "uri": "2goi9r8tdsV1g79eesmaCX"
+                },
+                {
+                    "artist": "Devin Townsend",
+                    "title": "Hyperdrive",
+                    "uri": "1Mju1koP7vTo5llp8r2tGc"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Black Milk",
+                    "title": "Laugh Now Cry Later",
+                    "uri": "411qjxdqjDhqKuco6m9wms"
+                },
+                {
+                    "artist": "Black Milk",
+                    "title": "Laugh Now Cry Later",
+                    "uri": "2dVdvroQjugDsJvJvsNUqp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Massive Attack",
+                    "title": "Black Milk",
+                    "uri": "1Rezzt36ybaT2ZbDZpv83D"
+                },
+                {
+                    "artist": "Blackmill",
+                    "title": "Spirit of Life",
+                    "uri": "6eRPYyh1EPRqDhgb3Nardw"
+                },
+                {
+                    "artist": "Blackmill",
+                    "title": "Miracle",
+                    "uri": "5VQdYgOMD5DunteeIWztZs"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Mark Fell",
+                    "title": "SOA-1",
+                    "uri": "6uAP6uyadGD36an7HWaINx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mark Fell",
+                    "title": "SOA-5",
+                    "uri": "3y6UdE5BqJq7DoqrRrevIM"
+                },
+                {
+                    "artist": "Marc Fearzell",
+                    "title": "Far Away",
+                    "uri": "5q6MImGKpwuDx4INrIjP8i"
+                },
+                {
+                    "artist": "Marc Fearzell",
+                    "title": "Mountains",
+                    "uri": "74hzPMsxxxfoXqQgzAdpdP"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Egoless",
+                    "title": "Global",
+                    "uri": "3CuNX6KlrDFxBcwFp1NRwY"
+                },
+                {
+                    "artist": "Kolja Goldstein",
+                    "title": "Global",
+                    "uri": "6M4lKIeeBJH26HMjtHTeoh"
+                },
+                {
+                    "artist": "18 Karat",
+                    "title": "Global Player",
+                    "uri": "70IGHAWNKslAqD38GM5jOd"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Manni Dee",
+                    "title": "Viaduct",
+                    "uri": "3liVaBZiQNVbdpmLiq31tB"
+                },
+                {
+                    "artist": "Manni Dee",
+                    "title": "Viaduct - Deft Remix",
+                    "uri": "5JYoqEJyBJDCx4ZgjcLDSI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Manni Dee",
+                    "title": "Just A Touch",
+                    "uri": "6Ycn9WHPsg4DrOSw3KCo3V"
+                },
+                {
+                    "artist": "Blank & Jones",
+                    "title": "Mono Desire - Relax Mix",
+                    "uri": "1cXIQT6TY9az9M7kar4egX"
+                },
+                {
+                    "artist": "Bhaiya More",
+                    "title": "Mani Darling",
+                    "uri": "3QcDiynhtlQKugF6wumBZn"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "FIS",
+                    "title": "Steeper",
+                    "uri": "35xI8cVFedE2568kFx1QDR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chris Steger",
+                    "title": "Fuat Auf'd Nocht",
+                    "uri": "5V5T1XzBGpfxpTt5pI8IFp"
+                },
+                {
+                    "artist": "Bausa",
+                    "title": "Stripperin",
+                    "uri": "49giQYEBwvO6qopcz7NJYn"
+                },
+                {
+                    "artist": "Stereoact",
+                    "title": "Bis ans Ende dieser Welt",
+                    "uri": "2XVK8qztKMXDsQZBaVudwF"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "P!nk",
+                    "title": "TRUSTFALL - Drove Remix",
+                    "uri": "0JylJPPllrXMwbogQGNOej"
+                },
+                {
+                    "artist": "P!nk",
+                    "title": "Turbulence",
+                    "uri": "1dJzTNm46rtvQR2A3GZU8F"
+                },
+                {
+                    "artist": "P!nk",
+                    "title": "When I Get There",
+                    "uri": "24dotUzOINUEH3iTUlhDXX"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Contour",
+                    "title": "Trench Prayer",
+                    "uri": "0ognwje46h55ircqM1u8b4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Contour",
+                    "title": "Trench Prayer",
+                    "uri": "0ognwje46h55ircqM1u8b4"
+                },
+                {
+                    "artist": "The Contours",
+                    "title": "Do You Love Me",
+                    "uri": "0MRYsngZv8UGICDehOYuYJ"
+                },
+                {
+                    "artist": "Joeboy",
+                    "title": "Contour",
+                    "uri": "5OBtqiT5Zg1BqXPx4bBo6T"
+                }
+            ]
+        }
+    },
     "coby-sey-16th-september-2017": {
         "00": {
             "s0": "",

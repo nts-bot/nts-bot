@@ -339,6 +339,208 @@
             ]
         }
     },
+    "perfect-lives-14th-october-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jiří Korn",
+                    "title": "Žal Se Odkládá",
+                    "uri": "2GTdCLSPj2ag8pHYPAop51"
+                },
+                {
+                    "artist": "Vlado Kumpan und seine Musikanten",
+                    "title": "Jiříci",
+                    "uri": "6tN9vUBbLV7PSTKRmP4bdx"
+                },
+                {
+                    "artist": "Jiří Horák",
+                    "title": "Breathe",
+                    "uri": "3sqACe3Uy3yLB7lqQN1ysC"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Laurie Anderson",
+                    "title": "O Superman",
+                    "uri": "421Gp1eSmOIcD6alTWowFR"
+                },
+                {
+                    "artist": "Laurie Anderson",
+                    "title": "Born, Never Asked",
+                    "uri": "17OHkMRcmhQR69w8rISdnk"
+                },
+                {
+                    "artist": "Alexandre Desplat",
+                    "title": "Laurie and Jo on the Hill",
+                    "uri": "4xui9WfNYFy7DKZfFBzSQA"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Giovanni Bottesini",
+                    "title": "Allegretto Capriccio",
+                    "uri": "1VFVcNwFlgVEePMHrYjnnX"
+                },
+                {
+                    "artist": "Giovanni Bottesini",
+                    "title": "Grande Allegro di Concerto \"alla Mendelssohn\" (Arr. for Double Bass and String Quintet by Wijnand van Klaveren)",
+                    "uri": "0gtnXQICtTiYIMuao3ozxf"
+                },
+                {
+                    "artist": "Giovanni Bottesini",
+                    "title": "Bottesini: Grande allegro di concerto (alla Mendelssohn)",
+                    "uri": "0QyityywTuVCf6eTz2TFNL"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Soria Eyituk",
+                    "title": "Katajjaq from Hudson Bay",
+                    "uri": "2Ux8ABYbg8JrYFTOnQUxpl"
+                },
+                {
+                    "artist": "Hudson Mohawke",
+                    "title": "Thunder Bay",
+                    "uri": "667eDHaCLV48q8ntHam4eW"
+                },
+                {
+                    "artist": "Luigi Lusini",
+                    "title": "Colors - Radio Mix",
+                    "uri": "0C3VSCbAPHd2gWzV4kRV9O"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Igor Stravinsky",
+                    "title": "Duo Concertant for Violin and Piano: Cantilene",
+                    "uri": "1kV4pEQv8i1ka1FWdpfwUm"
+                },
+                {
+                    "artist": "Igor Stravinsky",
+                    "title": "Duo Concertant for Violin and Piano: Gigue",
+                    "uri": "63dXvhx8y6fQgUDQJ0FveE"
+                },
+                {
+                    "artist": "Igor Stravinsky",
+                    "title": "Duo Concertant for Violin and Piano: Dithyrambe",
+                    "uri": "7wd53iDvkd6Fw0SSJevjXN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Igor Stravinsky",
+                    "title": "Stravinsky: Violin Concerto in D Major, Op. 8: IV. Capriccio",
+                    "uri": "1NaBchv1lbrpWt0n1KKEP3"
+                },
+                {
+                    "artist": "Igor Stravinsky",
+                    "title": "Violin Concerto in D Major: I. Toccata",
+                    "uri": "7JhTcgo91ELuSZb31yTtH6"
+                },
+                {
+                    "artist": "Igor Stravinsky",
+                    "title": "Stravinsky: Symphony in C: I. Moderato alla breve",
+                    "uri": "7Jfb8VLOUr39Vv5gM2Xi0K"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Huun-Huur-Tu",
+                    "title": "Ancestors",
+                    "uri": "0upq5GkOZ25DoExIOyWHkE"
+                },
+                {
+                    "artist": "Yom",
+                    "title": "Ancestors Dance",
+                    "uri": "3ED7zy3dnnO2rSqHpSMG49"
+                },
+                {
+                    "artist": "Clay and Friends",
+                    "title": "Going up the Coast",
+                    "uri": "2bTvNKT8bxyyPhzHu4A2Wx"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Arcade Player",
+                    "title": "Forest Maze (From \"Super Mario RPG\")",
+                    "uri": "1lCb34qDGcu9RhLn4gC3mt"
+                },
+                {
+                    "artist": "The Marcus Hedges Trend Orchestra",
+                    "title": "Forest Maze (\"From Super Mario RPG\")",
+                    "uri": "2b6sN8WH3gdpJZQGrRo2Eq"
+                },
+                {
+                    "artist": "Tomoki Miyoshi",
+                    "title": "The Forrest of Light",
+                    "uri": "5HkqtYADpj6CLaExfpjLy7"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": ""
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Robert Ashley",
+                    "title": "The Park",
+                    "uri": "1aEvLJH61gdtkQGob5ONAs"
+                },
+                {
+                    "artist": "Robert Haley",
+                    "title": "Shadow Syndromes",
+                    "uri": "3HT51WVwlX2mTejOJHYMZJ"
+                },
+                {
+                    "artist": "Robert Shabo",
+                    "title": "Jenny",
+                    "uri": "1d2smSSrUzFfwP0brNuYl2"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jo Ann Steele",
+                    "title": "Bits and Pieces",
+                    "uri": "5Yd3jeqd4ewGuehM0D1EI3"
+                },
+                {
+                    "artist": "Jan Seghers",
+                    "title": "Kapitel 5 - Der Solist",
+                    "uri": "0FTSCQVqYiFGX8FV4btv7k"
+                },
+                {
+                    "artist": "Jan Seghers",
+                    "title": "Kapitel 2 - Der Solist",
+                    "uri": "4LU4QXEINoYHQ1kyTTKYvt"
+                }
+            ]
+        }
+    },
     "perfect-lives-20th-august-2022": {
         "00": {
             "s0": [
