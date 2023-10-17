@@ -117,6 +117,155 @@
             ]
         }
     },
+    "ashley-wales-12th-october-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Graham Fitkin",
+                    "title": "Log",
+                    "uri": "4zrmWdAQyvfw09gPh6Bldh"
+                },
+                {
+                    "artist": "Graham De Wilde",
+                    "title": "Cirrus",
+                    "uri": "3VAYaDYjKuGxfJksrmJ4iT"
+                },
+                {
+                    "artist": "Graham Fitkin",
+                    "title": "Piano Piece - Mid 92",
+                    "uri": "5wKvwDoKd1t93VeTbYyOrO"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Antonio Vivaldi",
+                    "title": "Stabat Mater, RV 621: VII. Eja mater, fons amoris",
+                    "uri": "1XmFEdYGXGmkE8PC7FuQMr"
+                },
+                {
+                    "artist": "Antonio Vivaldi",
+                    "title": "Stabat Mater, RV 621: I. Stabat Mater dolorosa",
+                    "uri": "4Uv48WYV2V09wuBuuOXhiT"
+                },
+                {
+                    "artist": "Antonio Vivaldi",
+                    "title": "Vivaldi: Stabat Mater, RV 621: I. Stabat Mater dolorosa",
+                    "uri": "25pQojRtrsJkTjqcoUtSVK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Antonio Vivaldi",
+                    "title": "Vivaldi: Stabat Mater, RV 621: I. Stabat Mater dolorosa",
+                    "uri": "25pQojRtrsJkTjqcoUtSVK"
+                },
+                {
+                    "artist": "Antonio Vivaldi",
+                    "title": "Vivaldi: Stabat Mater, RV 621: VII. Eia Mater, fons amoris",
+                    "uri": "0FncuF75QiYWRYcjqWLOO8"
+                },
+                {
+                    "artist": "Antonio Vivaldi",
+                    "title": "Stabat Mater RV 621: I. Largo",
+                    "uri": "16iH9Mu9DlvemETiy2h1U2"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Kaija Saariaho",
+                    "title": "Jardin secret I (electronic music)",
+                    "uri": "444lTgradGWXbMTsRHNZQy"
+                },
+                {
+                    "artist": "Kaija Saariaho",
+                    "title": "Jardin secret I (electronic music)",
+                    "uri": "1VkSqgZL6CIp3X5CmDLwMO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kaija Saariaho",
+                    "title": "7 Papillons: No. 2. —",
+                    "uri": "0KCOTH4yx9fssExmEs0vsg"
+                },
+                {
+                    "artist": "Eskadet",
+                    "title": "Jardin secret",
+                    "uri": "0PXeprPB66tCSSIkGlJxel"
+                },
+                {
+                    "artist": "Strunz & Farah",
+                    "title": "Jardin",
+                    "uri": "1tlV5fKrV7aojTanUs3ahZ"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hermien Stellmacher",
+                    "title": "Teil 1 - Nur ein einziger Tanz",
+                    "uri": "4AuzlMUXfGyhzRoBbjoFEP"
+                },
+                {
+                    "artist": "Bernd Stelter",
+                    "title": "Teil 21 - Der Tod hat eine Anhängerkupplung",
+                    "uri": "67OPHpJAGoGOc7UKmR7jhA"
+                },
+                {
+                    "artist": "Andreas Ewert",
+                    "title": "Ein Wunderbarer Name",
+                    "uri": "2HjFq6GqN5tnNMWa1FedtF"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "John Tavener",
+                    "title": "The Lamb",
+                    "uri": "1iUNUV6RiPrwKTKJjNQb5B"
+                },
+                {
+                    "artist": "John Tavener",
+                    "title": "Tavener: Funeral Canticle",
+                    "uri": "5mQ1l8rmzCC1f6zzJfTkP3"
+                },
+                {
+                    "artist": "John Tavener",
+                    "title": "The Lamb",
+                    "uri": "7wvy3ROg2vEJyWgjDvMD8m"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Halsey",
+                    "title": "Ashley",
+                    "uri": "55ZcA6PazdlXjE1jO5GrzJ"
+                },
+                {
+                    "artist": "Ashley Wallbridge",
+                    "title": "Diamonds",
+                    "uri": "4AzETFVJUfJBmoCX6C9fvS"
+                },
+                {
+                    "artist": "Ashley Wallbridge",
+                    "title": "Keep The Fire - Radio Edit",
+                    "uri": "2oNdARyA6j4IovxfeUPp4B"
+                }
+            ]
+        }
+    },
     "ashley-wales-13th-october-2022": {
         "00": {
             "s0": "",

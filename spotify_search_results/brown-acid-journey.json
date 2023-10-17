@@ -1,4 +1,501 @@
 {
+    "brown-acid-journey-12th-october-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Parmalee",
+                    "title": "Wish You Never Loved Me",
+                    "uri": "5VITHjVL9KbrhMvIgDybHn"
+                },
+                {
+                    "artist": "Mano",
+                    "title": "Jodi Mathay Ghomta Diye",
+                    "uri": "15V7De6KEcgukRJV9bQvVf"
+                },
+                {
+                    "artist": "Ignesh Kumar",
+                    "title": "Jodi Bina Beso Ni Lage",
+                    "uri": "6cJm4lizlKNFuzWC9UQtxD"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Freddie McKay",
+                    "title": "(I'm) a Free Man",
+                    "uri": "7AyTm1j8Cv7k9EA0GzpP4D"
+                },
+                {
+                    "artist": "Freddie McKay",
+                    "title": "I'm A Free Man",
+                    "uri": "55pj2CY1g5xfO5fUOujdML"
+                },
+                {
+                    "artist": "James Andrew Grant",
+                    "title": "A Weekend Away",
+                    "uri": "7iglWrfTdWH0rjBsclD0ua"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "J.C. Heavy",
+                    "title": "Mr. Deal",
+                    "uri": "5pwPJCORoDQuMigARXbqvH"
+                },
+                {
+                    "artist": "J.C. Heavy",
+                    "title": "Mr. Deal",
+                    "uri": "4H56bFluRTV5S0rM5zjjLI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "J.C. Heavy",
+                    "title": "Mr. Deal",
+                    "uri": "5pwPJCORoDQuMigARXbqvH"
+                },
+                {
+                    "artist": "J.C. Heavy",
+                    "title": "Mr. Deal",
+                    "uri": "4H56bFluRTV5S0rM5zjjLI"
+                },
+                {
+                    "artist": "N i G H T S",
+                    "title": "Heavy",
+                    "uri": "6R04xYNFuq3BilG8PlnMFd"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Jukin' Bone",
+                    "title": "Cara Lynn",
+                    "uri": "4Q8a1OGHXMUY9ybHbQk8jS"
+                }
+            ],
+            "s1": ""
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "wtflagosta",
+                    "title": "shame on u",
+                    "uri": "3ECH1c2o1QsOiNGpBOSQkK"
+                },
+                {
+                    "artist": "rich disease",
+                    "title": "shame on you",
+                    "uri": "5YK5VOqEVzwMUJPhLYK8ny"
+                },
+                {
+                    "artist": "Catch Your Breath",
+                    "title": "Shame on Me",
+                    "uri": "67YQDMxCvpMB9aEwjSzawv"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Joyce Moreno",
+                    "title": "Rio Bahia",
+                    "uri": "1LUtzgfJ8oyCzl3KkVWViG"
+                },
+                {
+                    "artist": "Baby Joy Joy",
+                    "title": "Bah Bah Black Sheep",
+                    "uri": "0GoBd0YAftTTGWsPSIS4gZ"
+                },
+                {
+                    "artist": "The JoyGivers",
+                    "title": "Baħar Jaqsam",
+                    "uri": "0TRZt42jDsifErHgq5W0cv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Misha Miller",
+                    "title": "Mahala",
+                    "uri": "00PT9Iwb5tKVXCXBRavvIW"
+                },
+                {
+                    "artist": "KiDi",
+                    "title": "Golden Boy",
+                    "uri": "7lNyJPUL7r0psDPFyIJ6Vv"
+                },
+                {
+                    "artist": "Joy Anonymous",
+                    "title": "JOY (Head To The Sky)",
+                    "uri": "1qx0YqBNlRlqJAB4w3PjQo"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Los Leones De San Jeronimo",
+                    "title": "Amar No Es Pecado",
+                    "uri": "3e4WWCGU11T2f8B7ZSZ8or"
+                },
+                {
+                    "artist": "Jerónimo Sada",
+                    "title": "No Es un Engaño",
+                    "uri": "7HO5vYOahsblKKlNFNP90Y"
+                },
+                {
+                    "artist": "Jerónimo Sada",
+                    "title": "Quien Nos Dice",
+                    "uri": "3g8dBktMgAA0cwZt4c8Tzf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jeronimo",
+                    "title": "Final",
+                    "uri": "674iaDWVG9PScd0v0blMva"
+                },
+                {
+                    "artist": "Jeronimo",
+                    "title": "Nightmare",
+                    "uri": "790yYhInOeO5RuOGsh1gni"
+                },
+                {
+                    "artist": "Jeronimo Leyva",
+                    "title": "See You",
+                    "uri": "1QZuGwh8mP02s3ILiZbxJN"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Taizé",
+                    "title": "Jésus le Christ",
+                    "uri": "65tXXRj6ujc6HMOgkEsXdq"
+                },
+                {
+                    "artist": "Taizé",
+                    "title": "Jésus le Christ",
+                    "uri": "0MYU10HC2w4C8NQLVfkIqS"
+                },
+                {
+                    "artist": "Jacques Berthier",
+                    "title": "Jésus le Christ",
+                    "uri": "3lNsWhKO9zxvoThypxFQa1"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "July",
+                    "title": "The Way",
+                    "uri": "3Rfg6LuliDwvOBVnipWCEI"
+                },
+                {
+                    "artist": "July 7",
+                    "title": "The Way I Do",
+                    "uri": "4apnPdCj3uDuqMjGpqQcuc"
+                },
+                {
+                    "artist": "July Sunrise",
+                    "title": "The Long Way Back Home",
+                    "uri": "5MMeJeSH3Ux4dOtQwYVw3Y"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "July 7",
+                    "title": "The Way I Do",
+                    "uri": "4apnPdCj3uDuqMjGpqQcuc"
+                },
+                {
+                    "artist": "Travis Porter",
+                    "title": "Ayy Ladies (feat. Tyga)",
+                    "uri": "4P6BuLsqtg5uISdE77ypI9"
+                },
+                {
+                    "artist": "Micky",
+                    "title": "July",
+                    "uri": "036Pj6Wb0GqLKjLsN55pJg"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Jacobs Kelly",
+                    "title": "Confusion",
+                    "uri": "6XJvW2uvVrHhkZli9E8PFq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Emile Mosseri",
+                    "title": "Jacob's Prayer",
+                    "uri": "6fHdMf1m47mDBcwvOiRGxQ"
+                },
+                {
+                    "artist": "Simon Westman Trio",
+                    "title": "Jakob’s Happy Song",
+                    "uri": "1w8AuoB6mjP8MsnHRoDSkW"
+                },
+                {
+                    "artist": "The Band Of Us",
+                    "title": "Jacob’s Ladder",
+                    "uri": "0f84P0olo1E6sb96B2Gyzk"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "James Gang",
+                    "title": "Funk #48",
+                    "uri": "14R4uuf0SMjNmfLfHvMLZJ"
+                },
+                {
+                    "artist": "James Gang",
+                    "title": "Funk #48",
+                    "uri": "74jH82XFdnHm3TmK2cQh4S"
+                },
+                {
+                    "artist": "James Gang",
+                    "title": "Funk #48",
+                    "uri": "2tEOIUTIF992cWO0X8iGmN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "James Gang",
+                    "title": "Funk #48",
+                    "uri": "14R4uuf0SMjNmfLfHvMLZJ"
+                },
+                {
+                    "artist": "James Gang",
+                    "title": "Funk #49",
+                    "uri": "5h6SovHOYpIMlAkafxcbq3"
+                },
+                {
+                    "artist": "James Gang",
+                    "title": "Yadig?",
+                    "uri": "7Bj3nz8syLvpMFi3Ojk40v"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Vee Jay",
+                    "title": "Jade",
+                    "uri": "12TAqPz8zq7tiwFsEyZtwD"
+                },
+                {
+                    "artist": "il:lo",
+                    "title": "Jade",
+                    "uri": "6m7RizkSzwG6KxpKnnBF3a"
+                },
+                {
+                    "artist": "Royden Beaudoin",
+                    "title": "Jade",
+                    "uri": "55GdkEWWsoj8JlXVXCGY4j"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tommy James & The Shondells",
+                    "title": "I'm Alive",
+                    "uri": "5krjye2PUpiGedzdbaqWcz"
+                },
+                {
+                    "artist": "Tommy James & The Shondells",
+                    "title": "Crimson & Clover",
+                    "uri": "0I4yYE831a8SW8QIx6bz4x"
+                },
+                {
+                    "artist": "Tommy James & The Shondells",
+                    "title": "Crimson and Clover (Single Version)",
+                    "uri": "74ohdXevc7VsXl96ofi3Kn"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jamule",
+                    "title": "Blickfang",
+                    "uri": "3oSRexNnVrC6JbjZPgaomB"
+                },
+                {
+                    "artist": "Jamule",
+                    "title": "Erwachsen werden",
+                    "uri": "3sEX4QHpj4HqwRH5CmMUvO"
+                },
+                {
+                    "artist": "Jamule",
+                    "title": "KISSENSCHLACHT",
+                    "uri": "5s1EwpwmgQJ8Ti3ltrJdO8"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jasper Tygner",
+                    "title": "Need You",
+                    "uri": "5HWybXhMxw8W8t0sUPysxf"
+                },
+                {
+                    "artist": "Jasper Tygner",
+                    "title": "Ready (feat. Art School Girlfriend)",
+                    "uri": "2V1lVlC950jaMioIm24jIj"
+                },
+                {
+                    "artist": "Jasper Tygner",
+                    "title": "Limes",
+                    "uri": "7Fk3cnNt5gzDevwKx5YSlR"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Janie",
+                    "title": "Psycho",
+                    "uri": "1INznT5M7MLXT7i6n7sdam"
+                },
+                {
+                    "artist": "Janie Jones",
+                    "title": "Psycho",
+                    "uri": "5U4izevzpKN1nKGcE9FFer"
+                },
+                {
+                    "artist": "Janie Jones",
+                    "title": "Psycho",
+                    "uri": "4Khr2C9gDbTO4lGHase8GB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Clash",
+                    "title": "Janie Jones - Remastered",
+                    "uri": "6ywRlumSQjOOkcSnJYAgHw"
+                },
+                {
+                    "artist": "Bushido",
+                    "title": "Janine",
+                    "uri": "7BWssFurhjSDC08HS4hAeq"
+                },
+                {
+                    "artist": "Jannis Block",
+                    "title": "TWENTYMYLOVE",
+                    "uri": "5Y9V8yaAnr26JpU6eCPEUf"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Junction",
+                    "title": "Sorcerer",
+                    "uri": "3HVxGCugUdO0EFP6eZhjE4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Junction",
+                    "title": "Sorcerer",
+                    "uri": "3HVxGCugUdO0EFP6eZhjE4"
+                },
+                {
+                    "artist": "Sorcerer",
+                    "title": "Morning Star",
+                    "uri": "5CChmVFRguqrJxzUjSdRaB"
+                },
+                {
+                    "artist": "Marcin Przybyłowicz",
+                    "title": "Conjunction Of The Spheres",
+                    "uri": "2eOHlZV94DlYx0GJMyjIp6"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Josefus",
+                    "title": "Hard Luck",
+                    "uri": "45mDIrvCcs0UGtOLFwMM9Z"
+                },
+                {
+                    "artist": "Josefus",
+                    "title": "Hard Luck",
+                    "uri": "6nnqoMfCpOxBN1fVqmLt9j"
+                },
+                {
+                    "artist": "Josefus",
+                    "title": "Hard Luck",
+                    "uri": "5RD1Losg1yHvBjoUbydF30"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Josefus",
+                    "title": "Hard Luck",
+                    "uri": "45mDIrvCcs0UGtOLFwMM9Z"
+                },
+                {
+                    "artist": "KISS",
+                    "title": "Hard Luck Woman",
+                    "uri": "0UBURW2bWwn8bSWtU53444"
+                },
+                {
+                    "artist": "BRUCKNER",
+                    "title": "Josephine",
+                    "uri": "6HEERq2PbZ0biC9SbixULo"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Zipper",
+                    "title": "Born Yesterday",
+                    "uri": "1eajLF5ulIUxnklCNGYi4W"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Freddie Gibbs",
+                    "title": "Zipper Bagz",
+                    "uri": "20UFm0JkFTmqpoRjgDYHnk"
+                },
+                {
+                    "artist": "BROCKHAMPTON",
+                    "title": "ZIPPER",
+                    "uri": "1m4C9zlV89rXTfXStluvec"
+                },
+                {
+                    "artist": "Ellise",
+                    "title": "Zipperlips!",
+                    "uri": "2fHyqjpRlQzRJYvCWGcqFp"
+                }
+            ]
+        }
+    },
     "brown-acid-journey-14th-september-2023": {
         "00": {
             "s0": "",
