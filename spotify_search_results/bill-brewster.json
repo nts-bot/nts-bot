@@ -1,4 +1,529 @@
 {
+    "bill-brewster-17th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "JIM",
+                    "title": "The Ballad Of San Marino",
+                    "uri": "4QIyKsiqW1ZOQMf68uutoJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Luana Babini",
+                    "title": "San Marino Goodbye",
+                    "uri": "2GXSTVdzxgmWRoNexpsnbh"
+                },
+                {
+                    "artist": "Dan Romer",
+                    "title": "The Same Answer",
+                    "uri": "2MHFMRmOLzbtlaz7LdmCaW"
+                },
+                {
+                    "artist": "Dan Romer",
+                    "title": "Jim's Return",
+                    "uri": "6qBwepOG73xF9liRuuRrm4"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Wallace",
+                    "uri": "7cdDskEdvNKYeDr0jaDrey"
+                },
+                {
+                    "artist": "Julian Nott",
+                    "title": "Wallace & Gromit",
+                    "uri": "6DWohjBrR8myDqpYtWXfXX"
+                },
+                {
+                    "artist": "B4TU INC.",
+                    "title": "MERVE - Masada Chivas",
+                    "uri": "3x8hqraew3LLsZENdhGv3P"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tom Tom Club",
+                    "title": "Won't Give You Up",
+                    "uri": "05M7LRp5Gx7oHxZwdceb2l"
+                },
+                {
+                    "artist": "Tom Tom Club",
+                    "title": "Genius Of Love",
+                    "uri": "2UfEVKCJkSlcFdkwIEj0Hm"
+                },
+                {
+                    "artist": "Mulatoh Prod",
+                    "title": "Tom Tom",
+                    "uri": "2V74tcyQ0xFR8N9UU0NUmU"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Loverboy",
+                    "title": "Turn Me Loose",
+                    "uri": "2Z81PDDYNMTxZKiU2XIuFx"
+                },
+                {
+                    "artist": "Noonlight",
+                    "title": "Blue Night",
+                    "uri": "5Z3MAxzUSXnFJ9GTJj2pmt"
+                },
+                {
+                    "artist": "Zombic",
+                    "title": "Blue Night Sky",
+                    "uri": "186VP99dYJ4ism7IXIQaKd"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sade",
+                    "title": "Smooth Operator - Single Version",
+                    "uri": "1Hv1VTm8zeOeybub15mA2R"
+                },
+                {
+                    "artist": "Sade",
+                    "title": "By Your Side",
+                    "uri": "7H3ojI1BsVy0dEJENqMt1k"
+                },
+                {
+                    "artist": "Sade",
+                    "title": "Your Love Is King",
+                    "uri": "1j2LuIf7mv15ZVug1Xy5qz"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Leo Young",
+                    "title": "Psychedelic Billy - LAJ Remix",
+                    "uri": "50UeLipbAk42mLoVVOt7Y0"
+                },
+                {
+                    "artist": "Billy Talent",
+                    "title": "The Wolf",
+                    "uri": "2LT7SqhTeMEczWPBABrR3r"
+                },
+                {
+                    "artist": "Massive Wagons",
+                    "title": "Billy Balloon Head",
+                    "uri": "0KZDibWmAyvZv65mqpqDUy"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Whitney Houston",
+                    "title": "Step by Step",
+                    "uri": "5dEBcymDDG9TUjJnAouOPp"
+                },
+                {
+                    "artist": "Open Season",
+                    "title": "Step By Step",
+                    "uri": "5OvqzCs05Ha2AhBmdkcyig"
+                },
+                {
+                    "artist": "Kofi Stone",
+                    "title": "Same Old",
+                    "uri": "2QCn7BE07U36n7bGCMNXyq"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Syreeta",
+                    "title": "Move It, Do It",
+                    "uri": "6cqWKA84xnFyrOcdRd3mOl"
+                },
+                {
+                    "artist": "Syreeta",
+                    "title": "Move It, Do It - Instrumental",
+                    "uri": "0j9u9aJ5Z1OQrFebCucSy4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Culcha Candela",
+                    "title": "Move It - Radio Edit",
+                    "uri": "5X566s3ZAhw5I94xwqefqn"
+                },
+                {
+                    "artist": "Nicola Fasano",
+                    "title": "I Like to Move It - Radio Mix",
+                    "uri": "73bi2CavgHyKHJlEpHZFBd"
+                },
+                {
+                    "artist": "Valentino Khan",
+                    "title": "Move It",
+                    "uri": "2YUVIkvZ2tPEZYTepX6oT9"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Fleetwood Mac",
+                    "title": "Hypnotized",
+                    "uri": "1cHCG42MxckrXNFqyF8Uhr"
+                },
+                {
+                    "artist": "Fleetwood Mac",
+                    "title": "Hypnotized - 2018 Remaster",
+                    "uri": "07Hx52VDE1d0ioKIrch9MF"
+                },
+                {
+                    "artist": "Fleetwood Mac",
+                    "title": "Hypnotized - Live at Jorgensen Auditorium, University of Connecticut, Storrs, CT, 10/25/75",
+                    "uri": "2b3ZkvnUpQWqCihoFmyRTu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fleetwood Mac",
+                    "title": "Hypnotized",
+                    "uri": "1cHCG42MxckrXNFqyF8Uhr"
+                },
+                {
+                    "artist": "Fleetwood Mac",
+                    "title": "Hypnotized - 2018 Remaster",
+                    "uri": "07Hx52VDE1d0ioKIrch9MF"
+                },
+                {
+                    "artist": "Fleetwood Mac",
+                    "title": "Gypsy",
+                    "uri": "19Ym5Sg0YyOCa6ao21bdoG"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "George McCrae",
+                    "title": "Rock Your Baby",
+                    "uri": "6pMHMzwTsWIxLigr54GGVm"
+                },
+                {
+                    "artist": "George McCrae",
+                    "title": "Rock Your Baby",
+                    "uri": "1lmfsSEuxU4PpT739Kihno"
+                },
+                {
+                    "artist": "George McCrae",
+                    "title": "Rock Your Baby",
+                    "uri": "39ZwPBjIPjXl1SlO8NKsWF"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "The Real Thing",
+                    "title": "Boogie Down (Get Funky Now)",
+                    "uri": "1oFNK0qVL60QzjqnOUnw5k"
+                },
+                {
+                    "artist": "The Real Thing",
+                    "title": "Boogie Down (Get Funky Now)",
+                    "uri": "0T6HtXzL84rjo5iVVjdZd3"
+                },
+                {
+                    "artist": "The Real Thing",
+                    "title": "Boogie Down (Get Funky Now)",
+                    "uri": "7JpyEoNiXSSqdD0nSodvXC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Al Jarreau",
+                    "title": "Boogie Down",
+                    "uri": "3s1BdA5PikyYgfAAiGEhMg"
+                },
+                {
+                    "artist": "Lisa Stansfield",
+                    "title": "The Real Thing",
+                    "uri": "1rYcIDgY5K5qO1gTdEwSYK"
+                },
+                {
+                    "artist": "2 Unlimited",
+                    "title": "The Real Thing",
+                    "uri": "2cQgtv1ClQd4EMkLh8XCwh"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Lawne",
+                    "title": "Beta Pan",
+                    "uri": "2Q4egTkuurxmmaTqbjtkCS"
+                },
+                {
+                    "artist": "Lawne",
+                    "title": "Beta Pan - Instrumental",
+                    "uri": "0x4pHEmHEcN23a3BB8TdXc"
+                },
+                {
+                    "artist": "Lawne",
+                    "title": "Beta Pan - Radio Edit",
+                    "uri": "0vey5x4QDJ9vVdSogFT2gh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lance Butters",
+                    "title": "Knock Knock",
+                    "uri": "3WfjpkUMnrHq6Mw4FvOSSt"
+                },
+                {
+                    "artist": "Beta Radio",
+                    "title": "Here Too Far",
+                    "uri": "383MxeoXVw7bdeBKEz68Po"
+                },
+                {
+                    "artist": "Beta Project One",
+                    "title": "Fight Night",
+                    "uri": "46nUyBwdVsxGtK58umMT8t"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Aural",
+                    "title": "Desire (Fabrice Africa Pain)",
+                    "uri": "4udeyrSAkFvPPlJL4CVPdt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "deadmau5",
+                    "title": "Aural Psynapse",
+                    "uri": "3xUIgEKYLVZNAvT9umSijn"
+                },
+                {
+                    "artist": "Libercio",
+                    "title": "Desire",
+                    "uri": "6ZeczS8xc8mZ62o606h3Rf"
+                },
+                {
+                    "artist": "HEATT",
+                    "title": "Desire",
+                    "uri": "43VOm2Wx37c0jU3WKAWLZI"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DayFox",
+                    "title": "I'm Happy",
+                    "uri": "2NRrO0OHLGpLVytOXsxTHe"
+                },
+                {
+                    "artist": "Sean Angus Watson",
+                    "title": "I'm Happy",
+                    "uri": "1wK9k0LsPYvSkQ4hxxbmMt"
+                },
+                {
+                    "artist": "Imagine Dragons",
+                    "title": "I'm Happy - Live in Vegas",
+                    "uri": "5zq2QfbXqkHORdJZI9z8O1"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Blind Truth",
+                    "title": "Why Can't We See - Atelier Got to Live Together Twilight Mix",
+                    "uri": "3Nheiait9U6IY94C5mleGG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sade",
+                    "title": "Why Can't We Live Together",
+                    "uri": "7pd7fTNMtn4jRv80CSdgcq"
+                },
+                {
+                    "artist": "Timmy Thomas",
+                    "title": "Why Can't We Live Together",
+                    "uri": "5mBHcJ6yNXyYGLosWkuGqv"
+                },
+                {
+                    "artist": "War",
+                    "title": "Why Can't We Be Friends",
+                    "uri": "6x959m2QDvatSwUAVCHIuf"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Sasha",
+                    "title": "A Key to Heaven for a Heavenly Trance - Night Dubbing Mix",
+                    "uri": "4PQpcXFRh9b0BC4MwCyBiW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sasha",
+                    "title": "A Key to Heaven for a Heavenly Trance - Night Dubbing Mix",
+                    "uri": "4PQpcXFRh9b0BC4MwCyBiW"
+                },
+                {
+                    "artist": "Sasha",
+                    "title": "Xpander - Edit",
+                    "uri": "75653mwqn2ikumvrHuhEKf"
+                },
+                {
+                    "artist": "Blastoyz",
+                    "title": "Key To Happiness",
+                    "uri": "5gprlslyCZD2zaFRwbu22t"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Fish Go Deep",
+                    "title": "The Cure & The Cause - Dennis Ferrer Remix",
+                    "uri": "4oS2Gik6Vo9csv7teQsPoG"
+                },
+                {
+                    "artist": "Beach House",
+                    "title": "You Came To Me",
+                    "uri": "6PB7R41AktgVRoJHE3XlWr"
+                },
+                {
+                    "artist": "Ghostface Killah",
+                    "title": "Fish (feat. Raekwon & Cappadonna)",
+                    "uri": "37hqGqe1Btdp6xuljIm4zL"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Vangelis",
+                    "title": "Light and Shadow",
+                    "uri": "7Imvh030lE3llIlUIC4Nr9"
+                },
+                {
+                    "artist": "Daniel Ricci",
+                    "title": "Light & Shadow",
+                    "uri": "7oEcQ4LHdN7ZqcRtOaRGB9"
+                },
+                {
+                    "artist": "Philip Wesley",
+                    "title": "Light & Shadow",
+                    "uri": "2BIM85g2G9G62VqUiCmWaw"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DJ Seinfeld",
+                    "title": "Now U Do - Edit",
+                    "uri": "0fK4NmIDXetjIiZ2Oxz2tF"
+                },
+                {
+                    "artist": "DJ Seinfeld",
+                    "title": "These Things Will Come To Be",
+                    "uri": "27cgqh0VRhVeM61ugTnorD"
+                },
+                {
+                    "artist": "DJ Seinfeld",
+                    "title": "These Things Will Come To Be",
+                    "uri": "1vVq4Y18oveAg20Ujh43aE"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "David Holmes",
+                    "title": "Necessary Genius",
+                    "uri": "6pCkwQPkuhjurJMPOVYvAY"
+                },
+                {
+                    "artist": "David Hohme",
+                    "title": "Soft Landing - Jody Wisternoff & James Grant Remix",
+                    "uri": "0y50PSpOcYLOYrc0Xgw67R"
+                },
+                {
+                    "artist": "David Hohme",
+                    "title": "Fear Less - Hraach Remix",
+                    "uri": "2ePnfDOSxddRELoBYahEVq"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Franck Roger",
+                    "title": "Remember",
+                    "uri": "7rKf70wrpRmzWWfdrvK0gc"
+                },
+                {
+                    "artist": "BURNOUT OSTWEST",
+                    "title": "Frank Rosin ist zurück",
+                    "uri": "3n4DNOL20cz4ze6txovYXV"
+                },
+                {
+                    "artist": "Frank Rosin",
+                    "title": "Music",
+                    "uri": "1EuKKRxN7GeyZtJRmcIxM6"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Afriquoi",
+                    "title": "Kudaushe",
+                    "uri": "7hGidl99Umesys0O0CzXTS"
+                },
+                {
+                    "artist": "Smg4",
+                    "title": "Objection!",
+                    "uri": "13UuFmU3OqZxPwKTGDWiRN"
+                },
+                {
+                    "artist": "Remix Kingz",
+                    "title": "Africa (Remix)",
+                    "uri": "2LEwLRsqoYlqlFowqHTulY"
+                }
+            ]
+        }
+    },
     "bill-brewster-19th-september-2023": {
         "00": {
             "s0": [

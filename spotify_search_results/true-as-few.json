@@ -1187,6 +1187,94 @@
             ]
         }
     },
+    "true-as-few-17th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Valentin Silvestrov",
+                    "title": "Postludium - Symphonic Poem For Piano And Orchestra",
+                    "uri": "1D2aw5MIwdreS9Y1oHMRbx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Valentin Silvestrov",
+                    "title": "Three Postludes (1981/82): Postlude No. 3",
+                    "uri": "2ZrF3UfwS50CKE8jQQVjWj"
+                },
+                {
+                    "artist": "Valentin Silvestrov",
+                    "title": "4 Postludes for Piano & String Orchestra: No. 1. Larghetto - Andante",
+                    "uri": "71FqqOSUSVjaM4ZT3Ugj83"
+                },
+                {
+                    "artist": "Valentin Silvestrov",
+                    "title": "Stille Musik: 3. Augenblicke der Serenade",
+                    "uri": "308fmwi0Y8ULBSzthdhooI"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Valentin Silvestrov",
+                    "title": "Naive Music: No. 2. Nocturne",
+                    "uri": "1Px3T30V89JCSKZkgyAb4W"
+                },
+                {
+                    "artist": "Valentin Silvestrov",
+                    "title": "Stille Musik: 3. Augenblicke der Serenade",
+                    "uri": "308fmwi0Y8ULBSzthdhooI"
+                },
+                {
+                    "artist": "Valentin Silvestrov",
+                    "title": "Three Postludes (1981/82): Postlude No. 3",
+                    "uri": "2ZrF3UfwS50CKE8jQQVjWj"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Valentin Silvestrov",
+                    "title": "Stille Musik: 3. Augenblicke der Serenade",
+                    "uri": "308fmwi0Y8ULBSzthdhooI"
+                },
+                {
+                    "artist": "Valentin Silvestrov",
+                    "title": "Five Pieces For Violin And Piano: I. Elegia (Andante Larghetto)",
+                    "uri": "1d1FNmfO3dFlH8873yNFX3"
+                },
+                {
+                    "artist": "Valentin Silvestrov",
+                    "title": "Three Postludes (1981/82): Postlude No. 3",
+                    "uri": "2ZrF3UfwS50CKE8jQQVjWj"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Valentin Silvestrov",
+                    "title": "Kitsch-Musik: III. Allegretto",
+                    "uri": "4ToyjQYNLFxTCS72he3U6L"
+                },
+                {
+                    "artist": "Valentin Silvestrov",
+                    "title": "Stille Musik: 3. Augenblicke der Serenade",
+                    "uri": "308fmwi0Y8ULBSzthdhooI"
+                },
+                {
+                    "artist": "Valentin Silvestrov",
+                    "title": "Three Postludes (1981/82): Postlude No. 3",
+                    "uri": "2ZrF3UfwS50CKE8jQQVjWj"
+                }
+            ]
+        }
+    },
     "true-as-few-18th-october-2022": {
         "00": {
             "s0": "",
