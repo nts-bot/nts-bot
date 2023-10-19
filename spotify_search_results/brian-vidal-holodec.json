@@ -1,4 +1,407 @@
 {
+    "brian-vidal-holodec-17th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Guava (UK)",
+                    "title": "M Presence",
+                    "uri": "5cOrFA0CYRkvMRhbhDIREH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tunnelvisions",
+                    "title": "Guava - Extended Mix",
+                    "uri": "5foz4U3rwtDfEgnBsxWFIi"
+                },
+                {
+                    "artist": "June Freedom",
+                    "title": "Guava Rose",
+                    "uri": "2sTIxJiG84ewMHTGrg1zBK"
+                },
+                {
+                    "artist": "Naïka",
+                    "title": "Guava",
+                    "uri": "6BekGwEgpddZ2NwZyOv3qK"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Baltra",
+                    "title": "Where I End - Extended Version",
+                    "uri": "4f5F94N8g07SkT92J0FHaA"
+                },
+                {
+                    "artist": "Baltra",
+                    "title": "No Regrets",
+                    "uri": "4SH5lw1PuhECK2FNSIBbCe"
+                },
+                {
+                    "artist": "Baltra",
+                    "title": "Brush Strokes - Extended Version",
+                    "uri": "42RSL4LwDiGwI5XGSbmDoZ"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Baltra",
+                    "title": "Brush Strokes",
+                    "uri": "3A7GzxUNDUtNPLpMoeRqvv"
+                },
+                {
+                    "artist": "MF Eistee",
+                    "title": "brush strokes.",
+                    "uri": "2fcsZk3v6B5vPtDULRXi16"
+                },
+                {
+                    "artist": "Ragz Originale",
+                    "title": "brush u",
+                    "uri": "6tJBebmFkwDHCznVLzjIdc"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DJ Retro Machine",
+                    "title": "Time Goes By So Slowly",
+                    "uri": "25fanBAEc2b4bSzqcaJ0c1"
+                },
+                {
+                    "artist": "lovely flamingo",
+                    "title": "time goes by slowly",
+                    "uri": "7BrY0bOzf1XsMBTzInheWt"
+                },
+                {
+                    "artist": "Flipp Dinero",
+                    "title": "Time Goes Down",
+                    "uri": "2oQ4ph6UMFYF5ssmh7A1m8"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "AceMo",
+                    "title": "Spirit Spiders",
+                    "uri": "5mJ5xvAcDAqOUTWK3wlNlF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "AceMo",
+                    "title": "Chord and Triton Drums",
+                    "uri": "2fu6wSvPd2WNzWsARFMkHU"
+                },
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Run Free",
+                    "uri": "75OrTolKEnimJj625JUIft"
+                },
+                {
+                    "artist": "Ace Uno",
+                    "title": "The Formula",
+                    "uri": "419vv8IaxOLzB7DGJC83uc"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chakra Healing Architect",
+                    "title": "Chakra Harmony",
+                    "uri": "1X8mtWvPpgezrcWWpAYW1J"
+                },
+                {
+                    "artist": "Chakra Healing Architect",
+                    "title": "Chakra Healing",
+                    "uri": "0AkDeWJmyOjmZAqPeJCsTE"
+                },
+                {
+                    "artist": "Chakra Healing Architect",
+                    "title": "Chakra Cleansing",
+                    "uri": "7L3ZgIpg4TDUV721bDIRsy"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Illyus & Barrientos",
+                    "title": "Takin' Over",
+                    "uri": "4vcQboO5feJGvFJEq6UbmF"
+                },
+                {
+                    "artist": "Ocboyblau",
+                    "title": "OSS",
+                    "uri": "5UCrO2yN6xWtr41YAP8kJy"
+                },
+                {
+                    "artist": "SWACQ",
+                    "title": "Ox - Mix Cut",
+                    "uri": "4UIsYFJ39ssg9XJWhSQ9I9"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kelela",
+                    "title": "Bruises",
+                    "uri": "5EKjnrnyrw688C3yoMfbwK"
+                },
+                {
+                    "artist": "Kelela",
+                    "title": "On the Run",
+                    "uri": "4N9CjZCmixsudkya5a7MtW"
+                },
+                {
+                    "artist": "Kerala Dust",
+                    "title": "Moonbeam, Midnight, Howl",
+                    "uri": "4TGDSeSPvNW1t9lEApQOVE"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Black Rave Culture",
+                    "title": "Ama Beat That",
+                    "uri": "6vhrHaNK0QTOUHiYQuCceA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Black Rave Culture",
+                    "title": "Ama Beat That",
+                    "uri": "6vhrHaNK0QTOUHiYQuCceA"
+                },
+                {
+                    "artist": "Black Rebel Motorcycle Club",
+                    "title": "Beat the Devil's Tattoo",
+                    "uri": "1uT2b9tByCtdjL4PN3xbRs"
+                },
+                {
+                    "artist": "Ja$eTheRapper",
+                    "title": "Beat the Case",
+                    "uri": "7aGSKGMKOvpsUvCOqy2tI1"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "DJ Quiet",
+                    "title": "Slow Living",
+                    "uri": "5N3yk16hg2fXFhYHfrgBd2"
+                },
+                {
+                    "artist": "DJ SaucePark",
+                    "title": "Just Living Life - Slowed & Chopped",
+                    "uri": "6FRVwmIRpH5WCmUoRuD2K6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The National",
+                    "title": "Quiet Light",
+                    "uri": "0kje3SpbIHS7SoEk6QG5xn"
+                },
+                {
+                    "artist": "ELEVATION RHYTHM",
+                    "title": "QUIET",
+                    "uri": "7tTojNH9f7n2MeAO5HaqAS"
+                },
+                {
+                    "artist": "Elevation Worship",
+                    "title": "QUIET (Stripped) [Morning & Evening]",
+                    "uri": "1CwJWOYHSt3zOeEjP5cEYC"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Schnappi",
+                    "title": "Krötenkäpt'n",
+                    "uri": "5DCBVqoxPiWfKw9rz1YLnI"
+                },
+                {
+                    "artist": "Kronos",
+                    "title": "Kryptonite",
+                    "uri": "6viWHchP2UGUTBqwfLFkCs"
+                },
+                {
+                    "artist": "Kottonmouth Kings",
+                    "title": "Proud to Be a Stoner",
+                    "uri": "5FpfYXypc9FmgcgehdA0hk"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lianne La Havas",
+                    "title": "Grow",
+                    "uri": "12iM6FO2IN8ZoZ1qq1Hgv0"
+                },
+                {
+                    "artist": "LIANO37",
+                    "title": "On the top",
+                    "uri": "78ztQE7NoZ5BROIDC6FdPx"
+                },
+                {
+                    "artist": "LIANO37",
+                    "title": "boy ohne herz",
+                    "uri": "2JSCLNIHzCwgtZhxKZCX44"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DJ SWISHERMAN",
+                    "title": "PUSHIN' KEYS",
+                    "uri": "6vJfOf66uhGVKdxXA75EFG"
+                },
+                {
+                    "artist": "DJ SWISHERMAN",
+                    "title": "Pourin Up",
+                    "uri": "3bSvXlBYICJjdJxvaYWQ0o"
+                },
+                {
+                    "artist": "DJ SWISHERMAN",
+                    "title": "Don't Play",
+                    "uri": "5ZrjmYv8kFrYH3FsqWC0re"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Beau Didier",
+                    "title": "Take 2 (DJ SWISHERMAN Remix) [BEAU009]",
+                    "uri": "6CR4kHZUHOSzAeZywVKWW4"
+                },
+                {
+                    "artist": "DJ SWISHERMAN",
+                    "title": "Pourin Up",
+                    "uri": "3bSvXlBYICJjdJxvaYWQ0o"
+                },
+                {
+                    "artist": "DJ SWISHERMAN",
+                    "title": "PUSHIN' KEYS",
+                    "uri": "6vJfOf66uhGVKdxXA75EFG"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Lil Silva",
+                    "title": "Vera (Judah Speaks)",
+                    "uri": "4ccoiYXaxJuZFPxa10n8IX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lil Silva",
+                    "title": "Vera (Judah Speaks)",
+                    "uri": "4ccoiYXaxJuZFPxa10n8IX"
+                },
+                {
+                    "artist": "Lil Silva",
+                    "title": "To The Floor",
+                    "uri": "7cZR9UwVtBQR3zwyDYMK9p"
+                },
+                {
+                    "artist": "Lil Sil",
+                    "title": "91",
+                    "uri": "5xEddMQaqVM8W4iJt2KZw2"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ragz Originale",
+                    "title": "NEW SKIN CARE",
+                    "uri": "676GIHITnsNXp1ovH5mplK"
+                },
+                {
+                    "artist": "Whitey en vogue",
+                    "title": "Minikleine",
+                    "uri": "3np0FgpHulRHfLuAw9yUQF"
+                },
+                {
+                    "artist": "Whitey en vogue",
+                    "title": "Minikleine",
+                    "uri": "25AEor2jaGrHrtKLslas68"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jeff Mills",
+                    "title": "The Bells",
+                    "uri": "0ISxyAhfop0MoMeAUw72RN"
+                },
+                {
+                    "artist": "Jeff Mills",
+                    "title": "Fly Guy",
+                    "uri": "47iS9jYylvrWGYpzERlRIP"
+                },
+                {
+                    "artist": "Jef Miles",
+                    "title": "Take It Back",
+                    "uri": "6AP7SrxDiQdIoyWZ32nTVm"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Joanne Robertson",
+                    "title": "MASS APPEAL",
+                    "uri": "06hMjqeUJ2nTfpNjEJ5Ab3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Joanne Robertson",
+                    "title": "MASS APPEAL",
+                    "uri": "06hMjqeUJ2nTfpNjEJ5Ab3"
+                },
+                {
+                    "artist": "Dean Blunt",
+                    "title": "11",
+                    "uri": "0ry6Hq2NCLlm4lIW4m2OdL"
+                },
+                {
+                    "artist": "Joanne Robertson",
+                    "title": "hit",
+                    "uri": "7LcC3qw4ZR0bgLDdELlQnZ"
+                }
+            ]
+        }
+    },
     "brian-vidal-holodec-22nd-august-2023": {
         "00": {
             "s0": [

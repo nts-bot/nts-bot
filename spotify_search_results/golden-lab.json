@@ -3382,6 +3382,564 @@
             ]
         }
     },
+    "golden-lab-18th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Myriam Gendron",
+                    "title": "Ballade of a Great Weariness",
+                    "uri": "4Zvky76Ss4BlM4UMh6Jv7s"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Myriam Fares",
+                    "title": "Ana Wel Shog",
+                    "uri": "0kskiFzt4hU3iq6wVcsL2X"
+                },
+                {
+                    "artist": "Myriam Alter",
+                    "title": "Inviting You",
+                    "uri": "5GTKZnkuzzgoZMXaPuPCHv"
+                },
+                {
+                    "artist": "Myriam Fares",
+                    "title": "Ghaddara Ya Dounya",
+                    "uri": "19ki0A9sIGqw5xEemHmf2d"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Madrigal",
+                    "title": "The Ballad (Dreams)",
+                    "uri": "55JLDKPtHq0JcWPa4t9hAd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Anonymous",
+                    "title": "Madrigal",
+                    "uri": "62sgTXDu3FH7tQCrLoOYqo"
+                },
+                {
+                    "artist": "Felipe Pérez Santiago",
+                    "title": "Madrigal",
+                    "uri": "7HacRe0qGc3KeVeCRVcIFN"
+                },
+                {
+                    "artist": "Claudio Monteverdi",
+                    "title": "Madrigali amorosi: No. 9, Canzonetta by Rinuccini, Lamento della Ninfa, Partie I \"Non havea Febo ancora\"",
+                    "uri": "6vD2w4v9sf8IDN3kFEZ991"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Glyders",
+                    "title": "Wrong Sometimes Right",
+                    "uri": "0VIHlo98HQqkQx1dbU0vtd"
+                },
+                {
+                    "artist": "Glyders",
+                    "title": "Wrong Sometimes Right",
+                    "uri": "3w2YcJIDDe2IwhnnbLlyXq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Glyders",
+                    "title": "Wrong Sometimes Right",
+                    "uri": "0VIHlo98HQqkQx1dbU0vtd"
+                },
+                {
+                    "artist": "Glyders",
+                    "title": "Geneva Strangemod",
+                    "uri": "6x0k9peOIj7P9vbkFguvMO"
+                },
+                {
+                    "artist": "Glyders",
+                    "title": "Golden Hour",
+                    "uri": "4ovSnFRx3KrHw1J73BUSVg"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Martin Denny",
+                    "title": "Martinique",
+                    "uri": "1M6OoLriCOZ84NTGkJ9DrR"
+                },
+                {
+                    "artist": "YONII",
+                    "title": "Martinique",
+                    "uri": "7JTqBnKo7r6d2msU4suYua"
+                },
+                {
+                    "artist": "Hiiragi Magnetite",
+                    "title": "Pet Me",
+                    "uri": "7z1kI1DKDFFV0WsBmcPHQl"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Bailter Space",
+                    "title": "Splat",
+                    "uri": "5BAsEpZi9JtIM7Fl9ynOr6"
+                },
+                {
+                    "artist": "Bailter Space",
+                    "title": "Splat - 2021 Remaster",
+                    "uri": "6HB0GQ8iTXt4rM08gXHb2P"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bailter Space",
+                    "title": "Splat",
+                    "uri": "5BAsEpZi9JtIM7Fl9ynOr6"
+                },
+                {
+                    "artist": "Bailter Space",
+                    "title": "Splat - 2021 Remaster",
+                    "uri": "6HB0GQ8iTXt4rM08gXHb2P"
+                },
+                {
+                    "artist": "The City of Prague Philharmonic Orchestra",
+                    "title": "The Addams Family",
+                    "uri": "5Pbhy6ElMAob3jp5e8ru3r"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Chris Robinson",
+                    "title": "Death May Be Your Santa Claus",
+                    "uri": "7BgJAa8x4GtXJS73r6cBUS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chris Roberts",
+                    "title": "Do You Speak English?",
+                    "uri": "6kLNLk6akDN0T40BK4nzY6"
+                },
+                {
+                    "artist": "Chris Roberts",
+                    "title": "Du kannst nicht immer 17 sein",
+                    "uri": "5jch2JPUtTE8lLmbLvNhBj"
+                },
+                {
+                    "artist": "Frank Sinatra",
+                    "title": "Santa Claus Is Comin' to Town",
+                    "uri": "6YeDjSHCDmJKgU8foiaruL"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alf Wardhana",
+                    "title": "Rainy Days",
+                    "uri": "0ejF51HDSYwIX7vnehlOtD"
+                },
+                {
+                    "artist": "Matt Johnson",
+                    "title": "Superheroes - Acoustic Live Lounge",
+                    "uri": "7f0IoenXF00XaLMOEOKGAZ"
+                },
+                {
+                    "artist": "Marc Joef",
+                    "title": "Get Down On It",
+                    "uri": "2JIhruNScTnD0qTRTLsj4M"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Diga Rhythm Band",
+                    "title": "Sweet Sixteen",
+                    "uri": "3IsLnYB55z01W3j5oJ85gt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Billy Idol",
+                    "title": "Sweet Sixteen - Remastered 2001",
+                    "uri": "3kyW3qviTr2dIyvqa1lEWC"
+                },
+                {
+                    "artist": "Abija",
+                    "title": "Sweet Sixteen",
+                    "uri": "3Bd78b9nTtLZzCOGzsJzDI"
+                },
+                {
+                    "artist": "Abija",
+                    "title": "Sweet Sixteen - Remix",
+                    "uri": "4jAYDXFjBCyVr4cvSfXEJH"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Catherine Irwin",
+                    "title": "Mockingbird",
+                    "uri": "2h69605HmQwclznvekTgP1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Catherine Irwin",
+                    "title": "Mockingbird",
+                    "uri": "2h69605HmQwclznvekTgP1"
+                },
+                {
+                    "artist": "Cathérine",
+                    "title": "I Know I Can",
+                    "uri": "7xmnHPZAMY1pZyFUsyMbs6"
+                },
+                {
+                    "artist": "Maxine Kembo",
+                    "title": "Catherine Obvious",
+                    "uri": "50Vv2oyecbCpPZYSS6DINp"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eddie Hazel",
+                    "title": "From The Bottom Of My Heart",
+                    "uri": "6al7USKzVMMWgCRgdS0B9a"
+                },
+                {
+                    "artist": "Eddie Hazel",
+                    "title": "California Dreaming",
+                    "uri": "2F7dvdHfSM5cZxrkkptddA"
+                },
+                {
+                    "artist": "Eddie Hazel",
+                    "title": "Physical Love",
+                    "uri": "5WWjhNZsDcxIKeVecZqSvu"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Mike Cooper",
+                    "title": "Raft 27 - Guayaquil to Ballina",
+                    "uri": "0QkMoRky7l9mYsz6ggivH6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mike Cooper",
+                    "title": "Raft 27 - Guayaquil to Ballina",
+                    "uri": "0QkMoRky7l9mYsz6ggivH6"
+                },
+                {
+                    "artist": "Mike Cooper",
+                    "title": "Raft 21 - Guayaquil to Tully",
+                    "uri": "0qr615uK9QIvrhasv0AvIV"
+                },
+                {
+                    "artist": "Max Cooper",
+                    "title": "Spectrum",
+                    "uri": "4rw9xbxHWWRuihfAvQG3M2"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Pearls Before Swine",
+                    "title": "Lepers and Roses",
+                    "uri": "0v6wYdDmryUARMGOoFoHjW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Machine Head",
+                    "title": "Pearls Before the Swine",
+                    "uri": "0UEShaicX4CA6yBUzpLYOk"
+                },
+                {
+                    "artist": "Omega",
+                    "title": "Pearls in Her Hair",
+                    "uri": "7tXrGoO7Z1ITEyzmwnWVH8"
+                },
+                {
+                    "artist": "4LYN",
+                    "title": "Pearls & Beauty",
+                    "uri": "3wGuutIMrflHmx2x0fuep6"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "The Band",
+                    "title": "Strawberry Wine - Remastered 2000",
+                    "uri": "0azY3ugYpLsv8ogTqdw4J7"
+                },
+                {
+                    "artist": "The Band",
+                    "title": "Strawberry Wine - 2020 Remix",
+                    "uri": "4FkLdtqK5XC14sjHQ9eHKU"
+                },
+                {
+                    "artist": "The Band",
+                    "title": "Strawberry Wine - Live Royal Albert Hall/2005 Remaster/Remixed And Remastered",
+                    "uri": "2a1K70gku2QMkrm4DJS8aU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Band",
+                    "title": "Strawberry Wine - Remastered 2000",
+                    "uri": "0azY3ugYpLsv8ogTqdw4J7"
+                },
+                {
+                    "artist": "The Beatles",
+                    "title": "Strawberry Fields Forever - Remastered 2009",
+                    "uri": "3Am0IbOxmvlSXro7N5iSfZ"
+                },
+                {
+                    "artist": "Noah Kahan",
+                    "title": "Strawberry Wine",
+                    "uri": "66wJkV0KgbGSBHkHDd8tp2"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Neil Young",
+                    "title": "Drive Back (Live)",
+                    "uri": "2G1d12bL4wBmZFutacq3Hl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Neil Young",
+                    "title": "Harvest Moon",
+                    "uri": "2nekCvC9XRXQckWNnkIp2l"
+                },
+                {
+                    "artist": "Neil Young",
+                    "title": "Heart Of Gold",
+                    "uri": "5vd1QZ0tdXOExiegC55IAS"
+                },
+                {
+                    "artist": "Bob Dylan",
+                    "title": "My Back Pages - Live at Madison Square Garden, New York, NY - October 1992",
+                    "uri": "0bIGNGUqgpB82sAksxonkZ"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bałtyk",
+                    "title": "When the Telephone Melts",
+                    "uri": "1NVWAydxz7ViiWQfa93upG"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Horse Lords",
+                    "title": "Against Gravity",
+                    "uri": "3ShyTm2hbEoWv2ITK17LxQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Horse Lords",
+                    "title": "Against Gravity",
+                    "uri": "3ShyTm2hbEoWv2ITK17LxQ"
+                },
+                {
+                    "artist": "Jonathan Jeremiah",
+                    "title": "Horsepower For The Streets",
+                    "uri": "68FbhGBDElRtGHklUuq6Gy"
+                },
+                {
+                    "artist": "Schleich Horse Club",
+                    "title": "Kapitel 01: Ein heimlicher Gast (Folge 23)",
+                    "uri": "11KBHWeS7FxVj2nDf9pkYn"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tango in Vilnius",
+                    "title": "Lilies of the Valley",
+                    "uri": "5J3F2fTUl9cSJU5Bkq09HQ"
+                },
+                {
+                    "artist": "Trio Hugo Diaz",
+                    "title": "Milonga sentimental",
+                    "uri": "1DeD2BtB8EGjBhwx7Kr5fK"
+                },
+                {
+                    "artist": "Andrei Krylov",
+                    "title": "Milonga Argentina",
+                    "uri": "4II167vxxUOoBgXYBFtsmm"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Jerry Garcia Acoustic Band",
+                    "title": "Ripple - Live",
+                    "uri": "2vAb8tHz61gA22WPKf44Fd"
+                },
+                {
+                    "artist": "Jerry Garcia Acoustic Band",
+                    "title": "Ripple (1987) - Live",
+                    "uri": "7nP5AGWuNwq4TxCJoY2Pbp"
+                },
+                {
+                    "artist": "Jerry Garcia Acoustic Band",
+                    "title": "Ripple [Matinee] - Live",
+                    "uri": "6K2wgW98jBnlUzagMjHz4h"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jerry Garcia Acoustic Band",
+                    "title": "Ripple - Live",
+                    "uri": "2vAb8tHz61gA22WPKf44Fd"
+                },
+                {
+                    "artist": "Jerry Garcia Band",
+                    "title": "I Shall Be Released - Live",
+                    "uri": "5LdKIgHGSygbMJbzJaVYX3"
+                },
+                {
+                    "artist": "Phil Lesh & Communion",
+                    "title": "Ripple - Live",
+                    "uri": "5D9PzL95N2AE7hGj7r8kSw"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Madden and Harris",
+                    "title": "Wishes",
+                    "uri": "0E3RdP1GyqrBRejJt7FYzT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Yung $at",
+                    "title": "Madden",
+                    "uri": "5ambQMKVWnrPsGgWVlpyG5"
+                },
+                {
+                    "artist": "Madsen",
+                    "title": "Ein bisschen Lärm",
+                    "uri": "1ujtF4IciICjejsyMCqlVd"
+                },
+                {
+                    "artist": "Madden (ES)",
+                    "title": "Pyramid Lake - Original Mix",
+                    "uri": "70EttUd7hnIQ3sjp3hn9Lf"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Peter Grudzien",
+                    "title": "Dark As a Dungeon",
+                    "uri": "4sEDn2AmIvebxrKtjJy8FD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Peter Gundry",
+                    "title": "The Elven Treasure",
+                    "uri": "0ZmSM5Anxa8DyY8lAvtPip"
+                },
+                {
+                    "artist": "Peter Gundry",
+                    "title": "Dance of the Damned",
+                    "uri": "09DTiTZKjUYpIhi9FkpoY2"
+                },
+                {
+                    "artist": "Peter Gundry",
+                    "title": "Chapter 5 - Blood of the Vikings",
+                    "uri": "1q0qYk0AyTvnNHbOIwU9EG"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Elkhorn",
+                    "title": "Earthbound",
+                    "uri": "4lpKHVZbbGItKMHxZLVv6S"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "black balloons",
+                    "title": "EARTHBOUND",
+                    "uri": "0YX9BYXNtckbuRZjSStcxk"
+                },
+                {
+                    "artist": "Bury Tomorrow",
+                    "title": "Earthbound",
+                    "uri": "1DKbMKbzeZ57yo6yI4MeXe"
+                },
+                {
+                    "artist": "Ozonezzz",
+                    "title": "Earthbound Escape - Brown Noise",
+                    "uri": "71nMqDrRcA5uvnWchBrga1"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Danny Ocean",
+                    "title": "Veneno",
+                    "uri": "19vrzibX1lFlT2V2ToVQkv"
+                },
+                {
+                    "artist": "RL One RD",
+                    "title": "Veneno",
+                    "uri": "1KVwa8pVLqOcC1lLygWbKW"
+                },
+                {
+                    "artist": "conjunto insomnio",
+                    "title": "La Muchacha de los Ojos Tristes - En Vivo",
+                    "uri": "2MOD2XJ8VmJ5kmS53lZBNE"
+                }
+            ]
+        }
+    },
     "golden-lab-19th-october-2022": {
         "00": {
             "s0": [
