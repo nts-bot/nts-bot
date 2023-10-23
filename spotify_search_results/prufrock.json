@@ -809,6 +809,634 @@
             ]
         }
     },
+    "prufrock-22nd-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Snooks Eaglin",
+                    "title": "Come Back, Baby",
+                    "uri": "1hiuWRHAofYZ4v4yS6ZxzN"
+                },
+                {
+                    "artist": "Snooks Eaglin",
+                    "title": "Come Back, Baby",
+                    "uri": "6OYXeo20gil6jo66JjRYvY"
+                },
+                {
+                    "artist": "Snooks Eaglin",
+                    "title": "Come Back, Baby - Remastered",
+                    "uri": "64z72Wgjatp7vLNERJBTdf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Snooks Eaglin",
+                    "title": "Malaguena",
+                    "uri": "2AQSzaa7LSvSKIpfpw3wtJ"
+                },
+                {
+                    "artist": "Snooks Eaglin",
+                    "title": "Saint James Infirmary",
+                    "uri": "4ccdgqrPG8n28V0FWnWWL9"
+                },
+                {
+                    "artist": "Snooks Eaglin",
+                    "title": "By the Water",
+                    "uri": "51fWp2sgOhaWmnBGcaTKXk"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Big Bill Broonzy",
+                    "title": "Key to the Highway",
+                    "uri": "0UJcS94T6QOW6J3q6KiPNM"
+                },
+                {
+                    "artist": "Big Bill Broonzy",
+                    "title": "Key to the Highway",
+                    "uri": "1iyMFoo47nZUetQRyPeSBh"
+                },
+                {
+                    "artist": "Big Bill Broonzy",
+                    "title": "KEY TO THE HIGHWAY",
+                    "uri": "7i9NpsYOC5c07H3UMJZNmk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Big Bill Broonzy",
+                    "title": "Key to the Highway",
+                    "uri": "0UJcS94T6QOW6J3q6KiPNM"
+                },
+                {
+                    "artist": "Big Bill Broonzy",
+                    "title": "Get Back",
+                    "uri": "3lY0UV9R8tDFfa0ONgmTve"
+                },
+                {
+                    "artist": "Big Bill Broonzy",
+                    "title": "Letter to My Baby",
+                    "uri": "3oDSvCsjMDV346ndVBJk7P"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Reverend Horton Heat",
+                    "title": "I Can't Surf",
+                    "uri": "1qayBQRQNeZ2aqGoDLlPaw"
+                },
+                {
+                    "artist": "Reverend Charles Taylor",
+                    "title": "Brightly Beams",
+                    "uri": "1hzdVcnttvTf9WKcKHhJne"
+                },
+                {
+                    "artist": "Reverend Revolver",
+                    "title": "Water Into Wine",
+                    "uri": "79WPFHqXQHbCkX6fDntu5v"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Robert Johnson",
+                    "title": "Traveling Riverside Blues",
+                    "uri": "3pS6HIZimRIBMrQU6vRfpp"
+                },
+                {
+                    "artist": "Robert Johnson",
+                    "title": "Traveling Riverside Blues - Alternate Take",
+                    "uri": "2gk0JJQ7gJUyfRKXI1YosR"
+                },
+                {
+                    "artist": "Robert Johnson",
+                    "title": "Traveling Riverside Blues",
+                    "uri": "7vXHLCruXAcQsRHiZDN5Hn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Robert Johnson",
+                    "title": "Traveling Riverside Blues",
+                    "uri": "3pS6HIZimRIBMrQU6vRfpp"
+                },
+                {
+                    "artist": "Robert Johnson",
+                    "title": "Traveling Riverside Blues",
+                    "uri": "7vXHLCruXAcQsRHiZDN5Hn"
+                },
+                {
+                    "artist": "Robert Johnson",
+                    "title": "Cross Road Blues",
+                    "uri": "1TrGdXSgiBm8W68D2K1COG"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Papa Charlie Jackson",
+                    "title": "Ash Tray Blues",
+                    "uri": "0ui2pJUc0zsc7eI8ZWgf0s"
+                },
+                {
+                    "artist": "Papa Charlie Jackson",
+                    "title": "Ash Tray Blues",
+                    "uri": "2oods8nOG6bB6ZUFHEumbx"
+                },
+                {
+                    "artist": "Papa Charlie Jackson",
+                    "title": "Ash Tray Blues",
+                    "uri": "5OsDamXv4cyfzmSkCPLSO8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Papa Charlie Jackson",
+                    "title": "Ash Tray Blues",
+                    "uri": "2oods8nOG6bB6ZUFHEumbx"
+                },
+                {
+                    "artist": "Papa Charlie Jackson",
+                    "title": "Ash Tray Blues",
+                    "uri": "0ui2pJUc0zsc7eI8ZWgf0s"
+                },
+                {
+                    "artist": "Ash Grunwald",
+                    "title": "Something With Feel",
+                    "uri": "4KGC0qfSTXLVU2ZYCRUHKq"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Bessie Smith",
+                    "title": "Baby, Won't You Please Come Home",
+                    "uri": "1sCAm4vWvsndn48FMReiJU"
+                },
+                {
+                    "artist": "Bessie Smith",
+                    "title": "Baby Won't You Please Come Home",
+                    "uri": "5lpBC66XQzpVDJuknDUuZd"
+                },
+                {
+                    "artist": "Bessie Smith",
+                    "title": "Baby Won't You Please Come Home",
+                    "uri": "0VxpwPvCkAXfZkOuvg6zHJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bessie Smith",
+                    "title": "Baby, Won't You Please Come Home",
+                    "uri": "1sCAm4vWvsndn48FMReiJU"
+                },
+                {
+                    "artist": "Bessie Smith",
+                    "title": "Baby Won't You Please Come Home",
+                    "uri": "0VxpwPvCkAXfZkOuvg6zHJ"
+                },
+                {
+                    "artist": "Bessie Smith",
+                    "title": "Nobody Knows You When You're Down and Out - 78rpm Version",
+                    "uri": "3ru8IZrBxuFFHOFKEvvpFP"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Memphis Minnie",
+                    "title": "Ma Rainey",
+                    "uri": "1K1qrotzIDbzoQlX6zRGJ7"
+                },
+                {
+                    "artist": "Memphis Minnie",
+                    "title": "Ma Rainey",
+                    "uri": "4iiGtwWj29ENaz8DQs0a8k"
+                },
+                {
+                    "artist": "Memphis Minnie",
+                    "title": "Ma Rainey",
+                    "uri": "0z5PJwHleINroIVrFVY0e6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Memphis Minnie",
+                    "title": "Ma Rainey",
+                    "uri": "2HXuJdLHUKDaoZuzmssYyS"
+                },
+                {
+                    "artist": "Memphis Minnie",
+                    "title": "Ma Rainey",
+                    "uri": "0vrCBf1ZtnSU2vtFAiPgjg"
+                },
+                {
+                    "artist": "Memphis May Fire",
+                    "title": "Misery",
+                    "uri": "2SVbjw7sdiNjAvGpQ4eEai"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Lonnie Johnson",
+                    "title": "Savoy Blues",
+                    "uri": "4Ky9T3agkjh71364ZL5FzH"
+                },
+                {
+                    "artist": "Lonnie Johnson",
+                    "title": "Savoy Blues",
+                    "uri": "3nzs5xr6j5JvMfm516vCqF"
+                },
+                {
+                    "artist": "Lonnie Johnson",
+                    "title": "Savoy Blues",
+                    "uri": "4Gdp6nfRzlmcWHQ5mHw3gO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Robben Ford",
+                    "title": "Blues for Lonnie Johnson",
+                    "uri": "7g1PbjHp6Ezwqt9ygfqR3J"
+                },
+                {
+                    "artist": "Lonnie Johnson",
+                    "title": "Some Day Baby",
+                    "uri": "12MFtyrU4ZPJqClBcjYFIA"
+                },
+                {
+                    "artist": "Lonnie Liston Smith",
+                    "title": "A Garden Of Peace",
+                    "uri": "4UCnesWBYpZzubfByNP7je"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Mississippi John Hurt",
+                    "title": "Richland Woman Blues",
+                    "uri": "4e5gz0eghkUiMo3xP8nSHE"
+                },
+                {
+                    "artist": "Mississippi John Hurt",
+                    "title": "Richland Woman Blues",
+                    "uri": "0mMTb9twPaFrtjYGvrrpyv"
+                },
+                {
+                    "artist": "Mississippi John Hurt",
+                    "title": "Richland Woman Blues",
+                    "uri": "6enfiDsB2msmn4iWWvsspO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mississippi John Hurt",
+                    "title": "Richland Woman Blues",
+                    "uri": "4e5gz0eghkUiMo3xP8nSHE"
+                },
+                {
+                    "artist": "Mississippi John Hurt",
+                    "title": "Coffee Blues",
+                    "uri": "2azwzKd8xYex2PyJEyl8BX"
+                },
+                {
+                    "artist": "John Hiatt",
+                    "title": "Mississippi Phone Booth",
+                    "uri": "4o344C2p7wwpWRmQIVsdkL"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Lonnie Johnson",
+                    "title": "What a Difference a Day Makes",
+                    "uri": "0ISOxr8JqD2NFv9MhHKNfh"
+                },
+                {
+                    "artist": "Lonnie Johnson",
+                    "title": "What A Difference A Day Makes",
+                    "uri": "7iiZ4KqSMZWuVVZAPzxARn"
+                },
+                {
+                    "artist": "Lonnie Johnson",
+                    "title": "What a Difference a Day Makes",
+                    "uri": "2MEAp5RlliXD80ehcyROz1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lonnie Johnson",
+                    "title": "Some Day Baby",
+                    "uri": "12MFtyrU4ZPJqClBcjYFIA"
+                },
+                {
+                    "artist": "Lonnie Johnson",
+                    "title": "The Mooche",
+                    "uri": "7gSURd9NIJNmHCfrkChqTF"
+                },
+                {
+                    "artist": "Robben Ford",
+                    "title": "Blues for Lonnie Johnson",
+                    "uri": "7g1PbjHp6Ezwqt9ygfqR3J"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Snooks Eaglin",
+                    "title": "Alberta",
+                    "uri": "6THJEXEOlRPu7BDyrQwJJP"
+                },
+                {
+                    "artist": "Snooks Eaglin",
+                    "title": "Alberta",
+                    "uri": "31UtMLeB5deM4Q1f7AkdQV"
+                },
+                {
+                    "artist": "Snooks Eaglin",
+                    "title": "Alberta (Remastered 2014)",
+                    "uri": "08r6QWvhpt8BQ9Og4aP4GV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Snooks Eaglin",
+                    "title": "Alberta",
+                    "uri": "31UtMLeB5deM4Q1f7AkdQV"
+                },
+                {
+                    "artist": "Snooks Eaglin",
+                    "title": "Alberta",
+                    "uri": "6THJEXEOlRPu7BDyrQwJJP"
+                },
+                {
+                    "artist": "Alberta Cross",
+                    "title": "Rolling Thunder",
+                    "uri": "4h6unbwOKDPWeSizNav2nd"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Teddy Wilson",
+                    "title": "Blues For Daryl",
+                    "uri": "6oTTdFI04W4QbfyzKfeTaI"
+                },
+                {
+                    "artist": "Teddy Wilson",
+                    "title": "Blues For Daryl",
+                    "uri": "5WjkfIVkQJfZBO2t7ZwzR9"
+                },
+                {
+                    "artist": "Teddy Wilson",
+                    "title": "Blues for Daryl",
+                    "uri": "7kFDv07F5Z9baN7JpMsiVM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Teddy Wilson",
+                    "title": "Blues For Daryl",
+                    "uri": "6oTTdFI04W4QbfyzKfeTaI"
+                },
+                {
+                    "artist": "Teddy Wilson",
+                    "title": "Easy Living (06-01-37)",
+                    "uri": "6oeZFHd63xgXQoHhaBeito"
+                },
+                {
+                    "artist": "Teddy Wilson",
+                    "title": "As Times Goes By",
+                    "uri": "5w2q0VJw3QYjjDKnb4Mt8Z"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": ""
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Skip James",
+                    "title": "Careless Love",
+                    "uri": "4clDhSSWwUtrAmMY6sBrEm"
+                },
+                {
+                    "artist": "Skip James",
+                    "title": "Careless Love",
+                    "uri": "4DhuaiguPvtK6Jk7CKvopm"
+                },
+                {
+                    "artist": "Skip James",
+                    "title": "Careless Love",
+                    "uri": "6NscndzyJBCGgQhFiAYaKw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Van Morrison",
+                    "title": "Careless Love",
+                    "uri": "6TRtaP6pATK2lZIMZqnCMl"
+                },
+                {
+                    "artist": "W.C. Handy",
+                    "title": "Careless Love",
+                    "uri": "5FmFpzZQbu7iEYYMiJxEfV"
+                },
+                {
+                    "artist": "Arden Jones",
+                    "title": "careless 2.0",
+                    "uri": "6Rqobk2izKyc20lPKRuIbn"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Memphis Slim",
+                    "title": "I Guess I'm A Fool",
+                    "uri": "2leByaDy3kYEWyW9StbAGP"
+                },
+                {
+                    "artist": "Memphis Slim",
+                    "title": "I Guess I'm a Fool",
+                    "uri": "26PFQouoBAewWn6Q3OvWuy"
+                },
+                {
+                    "artist": "Memphis Slim",
+                    "title": "I Guess I'm a Fool",
+                    "uri": "0fwRJnGTwrLd6AIYt9UsER"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "King Curtis",
+                    "title": "Memphis Soul Stew",
+                    "uri": "6MqfTP3OwngywVTOS5OAFt"
+                },
+                {
+                    "artist": "Memphis Slim",
+                    "title": "Ballin' The Jack",
+                    "uri": "3plBX0tEJ23Jn2SKUomRQc"
+                },
+                {
+                    "artist": "Elvis Presley",
+                    "title": "Memphis Tennessee",
+                    "uri": "0kgiv71S8AiXEXSz8XJRbB"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Teddy Wilson",
+                    "title": "Almost Blues",
+                    "uri": "0wlBS8pVGd6p3oV4XD4hcF"
+                },
+                {
+                    "artist": "Teddy Wilson",
+                    "title": "Almost Blues",
+                    "uri": "5gkGl7alBN1vCME3AJTyOX"
+                },
+                {
+                    "artist": "Teddy Wilson",
+                    "title": "Almost Blues",
+                    "uri": "2UplGbTVvwRsrBuNlF9Q8D"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Teddy Wilson",
+                    "title": "Fools Rush In",
+                    "uri": "7hbpUZY7qsDPBe9X2juJEz"
+                },
+                {
+                    "artist": "Teddy Wilson",
+                    "title": "Say It Isn't So",
+                    "uri": "48NHQ0nLzfXfwlLBa6I0Y3"
+                },
+                {
+                    "artist": "Teddy Wilson",
+                    "title": "As Times Goes By",
+                    "uri": "5w2q0VJw3QYjjDKnb4Mt8Z"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Memphis Slim",
+                    "title": "Gone Again",
+                    "uri": "4c6TTI883p7dHYMQbvNUPc"
+                },
+                {
+                    "artist": "Memphis Slim",
+                    "title": "Gone Again",
+                    "uri": "2zdvABKiMa3RlF0qBTHIX7"
+                },
+                {
+                    "artist": "Memphis Slim",
+                    "title": "Gone Again",
+                    "uri": "4uMk2WHMmMRx1mP2MFRp0g"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Memphis Slim",
+                    "title": "Boogie Woogie",
+                    "uri": "0Prj6K4Yo9KXeXxmfatqBT"
+                },
+                {
+                    "artist": "Chris Travis",
+                    "title": "Memphis To LA",
+                    "uri": "4Lbd4ANKeFJLp2FeNiANgt"
+                },
+                {
+                    "artist": "HOBIN ROOD",
+                    "title": "Memphis Drift",
+                    "uri": "4xMi8uNT0z3dzbOcQ7CApG"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Odetta",
+                    "title": "Oh, My Babe",
+                    "uri": "5fUUarrRdZNttCVZ8QNVmX"
+                },
+                {
+                    "artist": "Odetta",
+                    "title": "Oh, My Babe",
+                    "uri": "6Z26GvYprBHoeVCoXBWWeK"
+                },
+                {
+                    "artist": "Odetta",
+                    "title": "Oh, My Babe",
+                    "uri": "0YebwSKMPW7KraggBIkNEh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rag'n'Bone Man",
+                    "title": "Odetta",
+                    "uri": "6DSGK1hTrNghaV2BEOBEB0"
+                },
+                {
+                    "artist": "Odetta Hartman",
+                    "title": "Batonebo",
+                    "uri": "4z0Ra45u0oUIGodqrcENl1"
+                },
+                {
+                    "artist": "Odetta Hartman",
+                    "title": "Dreamcatchers",
+                    "uri": "66K0gSHdemfDspYgDgPrcf"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Cedar Walton",
+                    "title": "Blues For Myself",
+                    "uri": "5adplcKfzKt11qY8KvL4Dd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cedar Walton",
+                    "title": "Blues For Myself",
+                    "uri": "5adplcKfzKt11qY8KvL4Dd"
+                },
+                {
+                    "artist": "Cedar Walton",
+                    "title": "Wonder Why",
+                    "uri": "4msAmyuoJBAHxQPPenBkM8"
+                },
+                {
+                    "artist": "Cedar Walton",
+                    "title": "Without A Song",
+                    "uri": "1ojzX1dmd5WkeNzEHusB1d"
+                }
+            ]
+        }
+    },
     "prufrock-2nd-july-2023": {
         "00": {
             "s0": [
