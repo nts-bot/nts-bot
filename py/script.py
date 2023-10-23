@@ -515,7 +515,7 @@ class nts:
                 pids += [i]
         return self.parallel(self.subprivatise, pids, [True])
 
-    def subsubcounter(self, show, episodes):
+    def subsubcounter(self, episode, show):
         bad = [
             "unknown",
             "unknown artist",
@@ -530,16 +530,16 @@ class nts:
             "intro",
             "guest mix",
         ]
-        for k in episodes:
+        for k in episode:
             a = (
-                episodes[k]["artist"]
+                episode[k]["artist"]
                 .replace(",", "")
                 .replace("'", "")
                 .replace('"', "")
                 .strip()
             )
             r = (
-                episodes[k]["title"]
+                episode[k]["title"]
                 .replace(",", "")
                 .replace("'", "")
                 .replace('"', "")
@@ -566,15 +566,14 @@ class nts:
                 self.list += [info1, info2]
 
     def subcounter(self, show):
-        return self.parallel(
-            self.subsubcounter, utils.rnw_json(f"./tracklist/{show}"), [show]
-        )
+        episodes = utils.rnw_json(f"./tracklist/{show}")
+        return self.parallel(self.subsubcounter, list(episodes.values()), [show])
 
     def counter(self):
         self.track_d = dict()
         self.artist_d = dict()
         self.list = list()
-        _ = self.parallel(self.subcounter, self.showlist)
+        _ = self.parallel(self.subcounter, self.showlist, method="Process")
         with open("./most_played_tracks.txt", "w", encoding="utf-8") as f:
             f.write(self.cleaners_from_venus(self.track_d, 200))
         with open("./most_played_artists.txt", "w", encoding="utf-8") as f:
@@ -591,12 +590,15 @@ class nts:
         return "\n".join(a)
 
     @staticmethod
-    def parallel(function, ranger, kwargs=[]):
+    def parallel(function, ranger, kwargs=[], method="Thread"):
         r = range(len(ranger))
         anem = "".join(random.choice(string.ascii_letters) for i in range(10))
         f = {f"{anem}_{c}": function for c in r}
         p = {f"{anem}_{c}": [ranger[c], *kwargs] for c in r}
-        utils.parallel_process(f, p)
+        if method == "Process":
+            utils.process_process(f, p)
+        else:
+            utils.thread_process(f, p)
         return anem, len(ranger)
 
     # SPOTIFY API SEARCH FUNCTIONS
