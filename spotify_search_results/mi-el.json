@@ -1,4 +1,507 @@
 {
+    "mi-el-25th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "The Golden Gospel Singers",
+                    "title": "Oh Freedom !",
+                    "uri": "1QXGdiZhjm8lPLJgPsXnZc"
+                },
+                {
+                    "artist": "The Golden Gospel Singers",
+                    "title": "Oh Freedom!",
+                    "uri": "1qCo9JVPoZpQczmhxupTEy"
+                },
+                {
+                    "artist": "The Golden Gospel Singers",
+                    "title": "Oh Freedom!",
+                    "uri": "17KXXW5E5nfEINLXM1DSF2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Golden Gospel Singers",
+                    "title": "Oh Freedom !",
+                    "uri": "1QXGdiZhjm8lPLJgPsXnZc"
+                },
+                {
+                    "artist": "The Golden Gospel",
+                    "title": "Oh Freedom!",
+                    "uri": "3O9lB0cF1EC2cA6RwkO2NF"
+                },
+                {
+                    "artist": "The Golden Gospel Singers",
+                    "title": "Oh Freedom",
+                    "uri": "4Hg5QdlY3peNsI9ig56gkv"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Count Ossie",
+                    "title": "Four Hundred Years",
+                    "uri": "4BqQdRdHOMHZFM2bKSoJcp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Count Ossie",
+                    "title": "Four Hundred Years",
+                    "uri": "4BqQdRdHOMHZFM2bKSoJcp"
+                },
+                {
+                    "artist": "Count Ossie",
+                    "title": "Sam's Intro",
+                    "uri": "5ZXppqplpbiQCtAjpCJR7Z"
+                },
+                {
+                    "artist": "Cedric 'Im' Brooks",
+                    "title": "Right on Rasta",
+                    "uri": "6IkvRGLfeBBGDwHEQbEWHs"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nirvana",
+                    "title": "Polly",
+                    "uri": "2SJ38LDlkNjwWSUq98r4Q5"
+                },
+                {
+                    "artist": "Nirvana",
+                    "title": "Serve The Servants",
+                    "uri": "3w5Ekq9O8g0gGFEsT77Ydi"
+                },
+                {
+                    "artist": "Ran-D",
+                    "title": "Nirvana",
+                    "uri": "35cbFOFUwsmXkpUCDfd48z"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Backstreet Boys",
+                    "title": "Christmas Time",
+                    "uri": "02tPqiXPgZWca1UrWKrkIn"
+                },
+                {
+                    "artist": "Mariah Carey",
+                    "title": "All I Want for Christmas Is You",
+                    "uri": "5ip1FIfC7crfMQEQHQ8dOI"
+                },
+                {
+                    "artist": "Chrizz 2000",
+                    "title": "We Wish You a Merry Christmas",
+                    "uri": "4d0F3qoL67jOkpjUCyrVyJ"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Count Ossie",
+                    "title": "Poem 1",
+                    "uri": "5OfL6jjIZIOi2YGYxWDQfl"
+                },
+                {
+                    "artist": "Count Ossie",
+                    "title": "Poem 2",
+                    "uri": "6P7wybMLmMKxP7IiTPCM1g"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Count Ossie",
+                    "title": "Poem 1",
+                    "uri": "5OfL6jjIZIOi2YGYxWDQfl"
+                },
+                {
+                    "artist": "Count Ossie",
+                    "title": "Runh One Mile",
+                    "uri": "6x4vIcFoitMuCSWAHEOeYT"
+                },
+                {
+                    "artist": "Cedric 'Im' Brooks",
+                    "title": "Right on Rasta",
+                    "uri": "6IkvRGLfeBBGDwHEQbEWHs"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Eomac",
+                    "title": "Prayer Pt. 1",
+                    "uri": "15Ym7Y5HKdGWwkYwtvb9X5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eomac",
+                    "title": "Prayer, Pt. 2",
+                    "uri": "1Nw8BHmLSH1rMu4rhjFQj9"
+                },
+                {
+                    "artist": "Reinhardt Buhr",
+                    "title": "Prayer - Live",
+                    "uri": "271aJjA4Oj93NTOOdqbPcW"
+                },
+                {
+                    "artist": "Symphoniacs",
+                    "title": "Prayer In C",
+                    "uri": "6iOBsYaZjNoPXH8NayL2FM"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kanye West",
+                    "title": "I'll Fly Away",
+                    "uri": "6MgGapP3EPFm9kYUvYBTZR"
+                },
+                {
+                    "artist": "Alan Jackson",
+                    "title": "I'll Fly Away",
+                    "uri": "3otPJZCk274E2FIS1ESA3H"
+                },
+                {
+                    "artist": "Flatfoot 56",
+                    "title": "I'll Fly Away",
+                    "uri": "7b1C6mz6egDlaZWavyKJv6"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Valex",
+                    "title": "Sacrifice",
+                    "uri": "3NGkoMCT4QgDWJQhdz94gi"
+                },
+                {
+                    "artist": "Vadim Maevskiy",
+                    "title": "Sacrifice",
+                    "uri": "2dw7jKEQrz0xUDnDWb9iFn"
+                },
+                {
+                    "artist": "Alex Velasquez",
+                    "title": "Sacrifice",
+                    "uri": "0i7hnCyrRLSceEqvQEJMeC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "London After Midnight",
+                    "title": "Sacrifice",
+                    "uri": "4EJjwH5VKFYfhjji1lDmiH"
+                },
+                {
+                    "artist": "Drake",
+                    "title": "Sacrifices",
+                    "uri": "0xl1w2q4VLojeXp4JfazPL"
+                },
+                {
+                    "artist": "Black Atlass",
+                    "title": "Sacrifice (feat. Jessie Reyez)",
+                    "uri": "2T8BAq8c4bDAtmaIisZl3b"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Miriam Makeba",
+                    "title": "Liwa Wechi",
+                    "uri": "3zrDou5cnfryvtI2M4Wb8D"
+                },
+                {
+                    "artist": "Miriam Makeba",
+                    "title": "Liwa Wechi",
+                    "uri": "4TYdJ05QXzoz72um8N4yff"
+                },
+                {
+                    "artist": "Miriam Makeba",
+                    "title": "Liwa Wechi",
+                    "uri": "5Yxxu2RRojg0IxNBZlS8VP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Miriam Makeba",
+                    "title": "Pata Pata - Mono Version",
+                    "uri": "2H6qEsJZ3r5SUq07VJBnpR"
+                },
+                {
+                    "artist": "Miriam Makeba",
+                    "title": "Ha Po Zamani - Stereo Version",
+                    "uri": "0iKkfLyUCwjsX3PXZ1XG2C"
+                },
+                {
+                    "artist": "Miriam Makeba",
+                    "title": "Ha Po Zamani - Mono Version",
+                    "uri": "4Nf1Ec1B8UYrmBmDVSxqAk"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Count Ossie",
+                    "title": "Poem 1",
+                    "uri": "5OfL6jjIZIOi2YGYxWDQfl"
+                },
+                {
+                    "artist": "Count Ossie",
+                    "title": "Poem 2",
+                    "uri": "6P7wybMLmMKxP7IiTPCM1g"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Count Ossie",
+                    "title": "Poem 1",
+                    "uri": "5OfL6jjIZIOi2YGYxWDQfl"
+                },
+                {
+                    "artist": "Cedric 'Im' Brooks",
+                    "title": "Right on Rasta",
+                    "uri": "6IkvRGLfeBBGDwHEQbEWHs"
+                },
+                {
+                    "artist": "Count Ossie",
+                    "title": "Runh One Mile",
+                    "uri": "6x4vIcFoitMuCSWAHEOeYT"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Floating Points",
+                    "title": "Requiem for CS70 and Strings",
+                    "uri": "5tJZSE0l9xTnRrccjBZZXg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Floating Points",
+                    "title": "Requiem for CS70 and Strings",
+                    "uri": "5tJZSE0l9xTnRrccjBZZXg"
+                },
+                {
+                    "artist": "Floating Points",
+                    "title": "Birth4000",
+                    "uri": "0ULiCJAR2lmaHrXvs3exRm"
+                },
+                {
+                    "artist": "C418",
+                    "title": "Floating Trees",
+                    "uri": "1mYAxcDROLJxGF6Q3W5mj9"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dread Culture",
+                    "title": "No More (Radical Thought)",
+                    "uri": "3bHAlsELvr4WN1RegqdlkK"
+                },
+                {
+                    "artist": "KISS",
+                    "title": "Shout It Out Loud",
+                    "uri": "6rKJPevq4KgR8Il6KchX6g"
+                },
+                {
+                    "artist": "cornelius",
+                    "title": "shout",
+                    "uri": "5Uti441hc67t08iUdW8ONe"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Angola Quartet #6, Camp A",
+                    "title": "See How They Done My Lord",
+                    "uri": "7gJGmUoDBTpFuxj3pOafr4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jah Bouks",
+                    "title": "Angola",
+                    "uri": "5QPFDfCPPv7nuqpt0lSUE2"
+                },
+                {
+                    "artist": "Bonga",
+                    "title": "Balumekeno",
+                    "uri": "2kRDfJjYuF7HjXv6ARqYqG"
+                },
+                {
+                    "artist": "Atze Schröder",
+                    "title": "Angola Air - Live",
+                    "uri": "54UBQbWvjLCKCWfNxD3YqH"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Unknown T",
+                    "title": "PASSA",
+                    "uri": "3AfXQIcCbpyKsJmqOFMvhP"
+                },
+                {
+                    "artist": "Francesco Le Metre",
+                    "title": "The Origin of Belief",
+                    "uri": "2OGX1pafcLlcqI0fmVCEjr"
+                },
+                {
+                    "artist": "AKUGETSU",
+                    "title": "Unknown (Till The End...)",
+                    "uri": "76zvyaDfQAXTfWBAq9qxgY"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Count Ossie",
+                    "title": "Tales of Mozambique",
+                    "uri": "4mHxtfXHl7Nj9xcWCYbG37"
+                },
+                {
+                    "artist": "Count Ossie",
+                    "title": "Mozambique: Tales of Mozambique",
+                    "uri": "7KsNNhfgNHQPqkBTwFBgKJ"
+                },
+                {
+                    "artist": "Count Ossie",
+                    "title": "Tales of Mozambique",
+                    "uri": "0aGHuKfgKOUJpYahQSLtnq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Count Ossie",
+                    "title": "Mozambique: Tales of Mozambique",
+                    "uri": "7KsNNhfgNHQPqkBTwFBgKJ"
+                },
+                {
+                    "artist": "Count Ossie",
+                    "title": "Sam's Intro",
+                    "uri": "5ZXppqplpbiQCtAjpCJR7Z"
+                },
+                {
+                    "artist": "Count Ossie",
+                    "title": "No Night in Zion",
+                    "uri": "4AQhhYES4gMTDZol4gdmjG"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Delil",
+                    "title": "Nazar",
+                    "uri": "37duzSYr0G5vrC0a8292pq"
+                },
+                {
+                    "artist": "Nazar",
+                    "title": "Blood Diamond",
+                    "uri": "3N3OeB8rqeVKntrkerYVGf"
+                },
+                {
+                    "artist": "Demet Akalın",
+                    "title": "Nazar",
+                    "uri": "2hc7C6Iy69sVb8JjZQRBij"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ras Michael and The Sons Of Negus",
+                    "title": "None A Jah Jah children No Cry",
+                    "uri": "4aTY53b9lRdUuEtDgO929J"
+                },
+                {
+                    "artist": "Ras Michael and The Sons Of Negus",
+                    "title": "Zion Land",
+                    "uri": "01H6CcUTc1Q8yK4BKDjA1V"
+                },
+                {
+                    "artist": "Ras Michael and The Sons Of Negus",
+                    "title": "None A Jah Jah Children No Cry",
+                    "uri": "7z8itrNLIwA1ce7PLcJ8h4"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dave & Ansell Collins",
+                    "title": "Double Barrel",
+                    "uri": "1TBjuwSsm731S048oMDehz"
+                },
+                {
+                    "artist": "Dave & Ansell Collins",
+                    "title": "Monkey Spanner",
+                    "uri": "5tn8ftoAruutNf8AqoSWHv"
+                },
+                {
+                    "artist": "Ansel Collins",
+                    "title": "Stalag 17",
+                    "uri": "4AZ3e2OdN8kWk0q5oVF3dl"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "The Cosmic Rays",
+                    "title": "Dreaming - mixed",
+                    "uri": "2ZxERohxRxArrG3lAfxzaF"
+                },
+                {
+                    "artist": "The Cosmic Rays",
+                    "title": "Dreaming",
+                    "uri": "25eIbzMACpCCcsFHNQhdmq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Cosmic Rays",
+                    "title": "Dreaming - mixed",
+                    "uri": "2ZxERohxRxArrG3lAfxzaF"
+                },
+                {
+                    "artist": "Enrico Sangiuliano",
+                    "title": "Cosmic Ratio",
+                    "uri": "6JFacTIwH7NCD1p2CmxVVV"
+                },
+                {
+                    "artist": "Charlie Parker Quartet",
+                    "title": "Cosmic Rays",
+                    "uri": "139u1Y921LmWL7wiA3otKM"
+                }
+            ]
+        }
+    },
     "mi-el-27th-september-2023": {
         "00": {
             "s0": [
