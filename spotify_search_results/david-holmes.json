@@ -6501,6 +6501,408 @@
             ]
         }
     },
+    "david-holmes-30th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Lonnie Holley",
+                    "title": "Earth Will Be There",
+                    "uri": "6SnEaK6TRDyAJkADrRaTdB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lonnie Holley",
+                    "title": "Earth Will Be There",
+                    "uri": "6SnEaK6TRDyAJkADrRaTdB"
+                },
+                {
+                    "artist": "Earth, Wind & Fire",
+                    "title": "After the Love Has Gone",
+                    "uri": "3cfnGXJ9bmiWvFqEO6ff8B"
+                },
+                {
+                    "artist": "Lonnie Holley",
+                    "title": "I Am A Part Of The Wonder",
+                    "uri": "75SXdkNWnbRmBTCemtwx6o"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "SAULT",
+                    "title": "The Circle",
+                    "uri": "6YeDDC5ndGZcbuUWCx3hty"
+                },
+                {
+                    "artist": "John Wetton",
+                    "title": "The Circle of St. Giles",
+                    "uri": "3PwhSplgf3Sn6VC6EazWPz"
+                },
+                {
+                    "artist": "Jagwar Twin",
+                    "title": "The Circle (0)",
+                    "uri": "18q1pdcWx0jTLaZWYgAU9A"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Daniel Ögren",
+                    "title": "Idag",
+                    "uri": "1FrMGDURcIz2a39XQi951j"
+                },
+                {
+                    "artist": "Daniel Ögren",
+                    "title": "Idag",
+                    "uri": "1sCwgQK7ZfYZQiHinBdyoj"
+                },
+                {
+                    "artist": "Daniel Ögren",
+                    "title": "Annalena",
+                    "uri": "3xmF9DriAtSDlX1Q2HABh7"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Lola's Dice",
+                    "title": "Sacudete",
+                    "uri": "09I6812iFaaJbOvVfwWJhZ"
+                },
+                {
+                    "artist": "Lola's Dice",
+                    "title": "Sacúdete",
+                    "uri": "4M3yehEmFKQ92zDEtOHCun"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lola's Dice",
+                    "title": "Sacudete",
+                    "uri": "09I6812iFaaJbOvVfwWJhZ"
+                },
+                {
+                    "artist": "Gotopo",
+                    "title": "Sacúdete",
+                    "uri": "4GsmrjLdnfsgkbV8pmRgdw"
+                },
+                {
+                    "artist": "The Shapeshifters",
+                    "title": "Lola's Theme - Radio Edit",
+                    "uri": "2SCP5oOX5OSp5RT83h2rs0"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Psychic TV",
+                    "title": "Just Like Arcadia",
+                    "uri": "7EgS2aiZikJqTQp6B2pUB8"
+                },
+                {
+                    "artist": "Psychic TV",
+                    "title": "The Orchids",
+                    "uri": "00c2vsoZuubtGkLFQCdT1p"
+                },
+                {
+                    "artist": "Darkø",
+                    "title": "Psychic TV",
+                    "uri": "4x8oo9fMxoy5QiyBAgBagB"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Anthony Lo Re",
+                    "title": "Ultra Instinct Theme (From \"Dragon Ball Super\") - Epic Version",
+                    "uri": "15RmEeRMaZPPyXf6gxLn6v"
+                },
+                {
+                    "artist": "Twinky",
+                    "title": "Трон",
+                    "uri": "1lf8rXDU9sy1gJ3Wcy17NL"
+                },
+                {
+                    "artist": "Twinky",
+                    "title": "Тяжёлый взгляд",
+                    "uri": "53w3qpJGmLpHVozDinknCk"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Damu The Fudgemunk",
+                    "title": "Tulips",
+                    "uri": "43nvSCEaxW5t26KEbDfmvg"
+                },
+                {
+                    "artist": "Tulipa Ruiz",
+                    "title": "Efêmera",
+                    "uri": "71XCbsRFzxHTBEbhY9eIyj"
+                },
+                {
+                    "artist": "Elyomer",
+                    "title": "Algo mas",
+                    "uri": "4XHwsihI5pYZDQfrhqZmuj"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Cheb Hindi",
+                    "title": "A moi la liberté",
+                    "uri": "5CNkveTiHF59CjktXtm0fk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cheb Hindi",
+                    "title": "A moi la liberté",
+                    "uri": "5CNkveTiHF59CjktXtm0fk"
+                },
+                {
+                    "artist": "Cheb Hasni",
+                    "title": "Machi hak â liha",
+                    "uri": "2YH1m1OBxM9L49mEurIy5W"
+                },
+                {
+                    "artist": "Cheb Hichem TGV",
+                    "title": "Zadma w Sayi",
+                    "uri": "2H1voC89zdPWZsFw3slhXX"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Giancarlo Di Maria",
+                    "title": "The Burden of the Cross",
+                    "uri": "7aPM3KdcVfBFCRIOPkqoOB"
+                },
+                {
+                    "artist": "La Pasión De Tierra Caliente",
+                    "title": "La Gavilla del Burro Prieto",
+                    "uri": "4EiTlUMxC5bycc41qtLoxH"
+                },
+                {
+                    "artist": "Giancarlo Di Maria",
+                    "title": "The Final Thought",
+                    "uri": "1F5ucRRjnBw5LdZH9Eumna"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dub Inc",
+                    "title": "Face the Storm",
+                    "uri": "7taDO7v99bX7onyc2pJ7yj"
+                },
+                {
+                    "artist": "Dub FX",
+                    "title": "Falling",
+                    "uri": "5V5fAzCLZun6kRTnYEEmTT"
+                },
+                {
+                    "artist": "Fabvl",
+                    "title": "Family",
+                    "uri": "0Pr1vf9WdBm8d2C3zIduqK"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "KEEPMYSECRETS",
+                    "title": "Lines",
+                    "uri": "0B9CzT0B6dedv87OXnLbQ7"
+                },
+                {
+                    "artist": "Torn Rhythms",
+                    "title": "Lines",
+                    "uri": "0rWpmEQPsqa6Eq1oRScAYe"
+                },
+                {
+                    "artist": "We Own The Night",
+                    "title": "Lines (Illicit Pulse Remix)",
+                    "uri": "1MWm4ggy7H9Ay6hngkVJEI"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Electric Light Orchestra",
+                    "title": "Telephone Line",
+                    "uri": "3SPcBPzvbmWLl8NU5efx4W"
+                },
+                {
+                    "artist": "SICK LEGEND",
+                    "title": "TELEPHONE HARDSTYLE",
+                    "uri": "04Okhn5sjeMtQ3JnJIxUEm"
+                },
+                {
+                    "artist": "SICK LEGEND",
+                    "title": "TELEPHONE HARDSTYLE SPED UP",
+                    "uri": "6CC4wgn40CC6V7ofXonwPJ"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Naoki Hashimoto",
+                    "title": "The Circle",
+                    "uri": "7fh4Lm18MZWGgt3HkuiWKX"
+                },
+                {
+                    "artist": "reezy",
+                    "title": "CIRCLE OF LIFE SKIT",
+                    "uri": "7J1oyCYAdYqvET7VaRBojs"
+                },
+                {
+                    "artist": "Jagwar Twin",
+                    "title": "The Circle (0)",
+                    "uri": "18q1pdcWx0jTLaZWYgAU9A"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lonnie Holley",
+                    "title": "Mount Meigs",
+                    "uri": "1RhooG8JVU7RqMrveL4ESq"
+                },
+                {
+                    "artist": "Lonnie Holley",
+                    "title": "Like Hell Broke Away",
+                    "uri": "7s6hONRYtuGrybyyeulpIF"
+                },
+                {
+                    "artist": "Lonnie Holley",
+                    "title": "I Am A Part Of The Wonder",
+                    "uri": "75SXdkNWnbRmBTCemtwx6o"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "The Circling Sun",
+                    "title": "Plume",
+                    "uri": "35PKytymi6cFMYgyD6banE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Circling Sun",
+                    "title": "Plume",
+                    "uri": "35PKytymi6cFMYgyD6banE"
+                },
+                {
+                    "artist": "RY X",
+                    "title": "Plume (Ambient) - Live from the Royal Albert Hall",
+                    "uri": "0oLLGatxE8XsuvBNcXbc4a"
+                },
+                {
+                    "artist": "Jobii",
+                    "title": "Plump",
+                    "uri": "6xCoZQNLgnJTYuOxbYlqC5"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Rico Toto",
+                    "title": "Egyptian Song",
+                    "uri": "0PGRt4iqd2H8IJ2w2cKHTM"
+                },
+                {
+                    "artist": "Rico Toto",
+                    "title": "Egyptian song",
+                    "uri": "1X4uALt2tkKR4aPxEe3bSU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rico Toto",
+                    "title": "Egyptian Song",
+                    "uri": "0PGRt4iqd2H8IJ2w2cKHTM"
+                },
+                {
+                    "artist": "Rico Rodriguez",
+                    "title": "Take Five",
+                    "uri": "0ykn0Lm9JWR2Cm7MtPoEEo"
+                },
+                {
+                    "artist": "Rico Recklezz",
+                    "title": "Safe 2 Do",
+                    "uri": "5BNmrXy5mxsC9YjTGPFMnb"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Althea And Donna",
+                    "title": "Uptown Top Ranking",
+                    "uri": "1k1Esg0K4Yinvhkk86s7YM"
+                },
+                {
+                    "artist": "Olly Murs",
+                    "title": "Unpredictable - John Gibbons Remix",
+                    "uri": "37DzhHXFl9PvetSPnpPNxo"
+                },
+                {
+                    "artist": "John Gibbons",
+                    "title": "Would I Lie to You",
+                    "uri": "6Zp0OnaLtS9AjtK1jeC930"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "FKA twigs",
+                    "title": "ride the dragon",
+                    "uri": "15TXFTdwGEEL4jH9erTRnK"
+                },
+                {
+                    "artist": "JELEEL!",
+                    "title": "RIDE THE WAVE!",
+                    "uri": "16D7ophWyoupyVyWVOhzLO"
+                },
+                {
+                    "artist": "Russell Dickerson",
+                    "title": "Ride The Wave",
+                    "uri": "6hTSmdJNg2kFGrNAZdkYzR"
+                }
+            ]
+        }
+    },
     "david-holmes-3rd-may-2021": {
         "00": {
             "s0": [

@@ -23,6 +23,7 @@ utils.logger(False)  # Start Log
 
 # .3 Init Class
 script = import_module("script")
+script.connection.connect()  # Test Connection
 class_instance = script.nts()
 
 # .4 Main Logic

@@ -28082,6 +28082,751 @@
             ]
         }
     },
+    "perfect-sound-forever-30th-october-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Masahiko Sato",
+                    "title": "Tbsf",
+                    "uri": "0PmOFPxB4fjM9fHhDkQ9T1"
+                },
+                {
+                    "artist": "Masahiko Sato",
+                    "title": "Valle Incantata",
+                    "uri": "4hopzc8LhZjGNNzZe09ZXl"
+                },
+                {
+                    "artist": "Masahiko Sato",
+                    "title": "Andy Warhol",
+                    "uri": "6sGL736y2P5idYokSFhfSJ"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Loren Connors",
+                    "title": "Sleep",
+                    "uri": "0p8Rvh58fjOiBPEw1Kch3m"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Loren Connors",
+                    "title": "Lullaby (the 1st)",
+                    "uri": "5B4xqbTudfh4hSXXwxhv1w"
+                },
+                {
+                    "artist": "Loren Connors",
+                    "title": "An Air",
+                    "uri": "6ErVMDT7uwxfj8CJVmLgig"
+                },
+                {
+                    "artist": "Loreena McKennitt",
+                    "title": "The Lady of Shalott - 2004 Remaster HD [Remastered]",
+                    "uri": "1BYAFjorvumifCglxX20xx"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sukriye Tutkun",
+                    "title": "Yigidim Aslanim",
+                    "uri": "0l6Q6dYBMUIz9mdT8WnLdZ"
+                },
+                {
+                    "artist": "Türkü Akbayram",
+                    "title": "Yiğidim Aslanım",
+                    "uri": "3MM8b1d8L8mcRgCjvUylpz"
+                },
+                {
+                    "artist": "Enver Çelik",
+                    "title": "Yiğidim Kardeşim",
+                    "uri": "7gGUiJgbkV4Ok4AAwU7uSd"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Nathan Salsburg",
+                    "title": "Landwerk I",
+                    "uri": "1Pin6kqicCVvV1KNwydj7h"
+                },
+                {
+                    "artist": "Nathan Salsburg",
+                    "title": "Landwerk II",
+                    "uri": "5HeToD0Ew4J1BWGtkK6Kyk"
+                },
+                {
+                    "artist": "Nathan Salsburg",
+                    "title": "Landwerk III",
+                    "uri": "6gid16uF4aPweAvElm0XwN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nathan Salsburg",
+                    "title": "Landwerk I",
+                    "uri": "1Pin6kqicCVvV1KNwydj7h"
+                },
+                {
+                    "artist": "Nathan Salsburg",
+                    "title": "New Bold Ruler’s Joy",
+                    "uri": "4vneLVNlPMuW9XqmJmibLH"
+                },
+                {
+                    "artist": "Nathan Salsburg",
+                    "title": "Impossible Air",
+                    "uri": "7C23d5jyOZiXIjBiqvBEDp"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "SUSS",
+                    "title": "Rising",
+                    "uri": "7hVdSAzxiuv8lsCs9lMpdm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "SUSS",
+                    "title": "Rising",
+                    "uri": "7hVdSAzxiuv8lsCs9lMpdm"
+                },
+                {
+                    "artist": "LAMI",
+                    "title": "SUSSY TANZ",
+                    "uri": "5uoAEgWKrMTsKyzgPlRthF"
+                },
+                {
+                    "artist": "Rising Insane",
+                    "title": "Maniac",
+                    "uri": "1Ec2WXgr9fYRfejT6StOeS"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Jon Hassell",
+                    "title": "Last Night The Moon Came",
+                    "uri": "7EVB8TpxzTh6llHIcPANAi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jon Hassell",
+                    "title": "Last Night The Moon Came",
+                    "uri": "7EVB8TpxzTh6llHIcPANAi"
+                },
+                {
+                    "artist": "Jon Hassell",
+                    "title": "Clairvoyance",
+                    "uri": "0SXeDhoNKnhp3h1R1wGtd2"
+                },
+                {
+                    "artist": "Jon Hassell",
+                    "title": "Her First Rain",
+                    "uri": "6c5YdmrqRZA8Dg1wvN0VjG"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Tahiti Pirae Tarava Group",
+                    "title": "Himene Pirae",
+                    "uri": "6erZDkj9uWyzUXsPyWhjLu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tahiti Pirae Tarava Group",
+                    "title": "Himene Pirae",
+                    "uri": "6erZDkj9uWyzUXsPyWhjLu"
+                },
+                {
+                    "artist": "Groupe De Chant De Papara Direction Moe",
+                    "title": "Himene Tarava No Papara",
+                    "uri": "7kXV4l3EvVap9pFUcANb49"
+                },
+                {
+                    "artist": "Te Ava Piti",
+                    "title": "Himene Tatarahapa",
+                    "uri": "6NzUp9QD6rmqLsYzTqTQtk"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Sonny Terry",
+                    "title": "Lonesome Train",
+                    "uri": "4TlXBgyv70FI4ulYhqir3n"
+                },
+                {
+                    "artist": "Sonny Terry",
+                    "title": "Lonesome Train",
+                    "uri": "2cAwh1CPdiGBLqq3eIkRkv"
+                },
+                {
+                    "artist": "Sonny Terry",
+                    "title": "Lonesome Train",
+                    "uri": "04daY0j7sf3tM147w3qQxl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sonny Terry",
+                    "title": "The Battle Is Over (But The War Goes On)",
+                    "uri": "1Ig4IXxrtv5zeUxtnIbHGx"
+                },
+                {
+                    "artist": "Sonny Terry and Brownie McGhee",
+                    "title": "Walk On",
+                    "uri": "4q8AnAeRxSLTH4Z5Pb4Niz"
+                },
+                {
+                    "artist": "Sonny Terry and Brownie McGhee",
+                    "title": "Better Day",
+                    "uri": "4iSvnsxzZBte3qgstEd5qI"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Ensemble Instrumental de la Radiodiffusion Nationale",
+                    "title": "Naissance de l'O.E.R.S.",
+                    "uri": "0rA1LDHO55CIN9k2lEasG4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jean-Baptiste Lully",
+                    "title": "La naissance de Vénus, LWV 27, Pt. 2: Grand dieu des enfers (Arr. G. Tailleferre for Piano)",
+                    "uri": "7kzSQEKhtPHeGUgbPP3yok"
+                },
+                {
+                    "artist": "Ensemble Galilei",
+                    "title": "Liane's Ocean",
+                    "uri": "4mG66afMX7T4uEVO51nA41"
+                },
+                {
+                    "artist": "Nicolas de Angelis",
+                    "title": "Ô Père, je suis ton enfant",
+                    "uri": "0u64X7340tPTVSx6Bv7ex2"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "B. Sivaramakrishna Rao",
+                    "title": "Raga - Brindavani",
+                    "uri": "3BMLk59gpyhKR6OVunPIeo"
+                },
+                {
+                    "artist": "Hariprasad Chaurasia",
+                    "title": "Raga Jhinjhoti in Rupak Tal (7 beats) and Tintal (16 beats)",
+                    "uri": "5EIdTIUXq0OGaxuqbkG7d0"
+                },
+                {
+                    "artist": "Ram Narayan",
+                    "title": "Raga Kirvani - Alap",
+                    "uri": "3UBgKi7ABe2fWYyJ48sFlW"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "John Coltrane",
+                    "title": "India - Live At The Village Vanguard, New York/1961",
+                    "uri": "2t9ZpLV4DP26brRJDQJPoe"
+                },
+                {
+                    "artist": "John Coltrane",
+                    "title": "India - Live At The Village Vanguard, New York/1961",
+                    "uri": "5rGQw33BOMRnS1lqW7mTeC"
+                },
+                {
+                    "artist": "John Coltrane Quartet",
+                    "title": "India - Live From Village Vanguard/November 1,1961",
+                    "uri": "4hPCuRS2rAXHJSY4a3UqaS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "John Coltrane",
+                    "title": "India - Live At The Village Vanguard, New York/1961",
+                    "uri": "5rGQw33BOMRnS1lqW7mTeC"
+                },
+                {
+                    "artist": "John Coltrane",
+                    "title": "Giant Steps - 2020 Remaster",
+                    "uri": "1ZXu0ib26kWfQQngREMcU2"
+                },
+                {
+                    "artist": "John Coltrane Quartet",
+                    "title": "It's Easy To Remember",
+                    "uri": "1lZ41PumDFX0e82XTGx4sE"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mike Nyoni and Born Free",
+                    "title": "Mad Man",
+                    "uri": "3mxwg6oDUZJ9epo5dJnRXW"
+                },
+                {
+                    "artist": "Mike Nero",
+                    "title": "Das Boot",
+                    "uri": "6inTvi3exRFrMmF1mcOmx0"
+                },
+                {
+                    "artist": "Mike Millions",
+                    "title": "Stoner Music",
+                    "uri": "4jJGfn4SmIXdaYvbIRTvpg"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Mercedes Sosa",
+                    "title": "Hasta La Victoria",
+                    "uri": "1063FZAI13IPAe7wrIbfIw"
+                },
+                {
+                    "artist": "Mercedes Sosa",
+                    "title": "Hasta La Victoria",
+                    "uri": "1cJt05J1AA5EUVSkvsDKzH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mercedes Sosa",
+                    "title": "Gracias A La Vida",
+                    "uri": "0UKSse3fcKetDzXnXzE1Pv"
+                },
+                {
+                    "artist": "Mercedes Sosa",
+                    "title": "Todo Cambia",
+                    "uri": "0njOsb3y8TnwIJC7GnlWwD"
+                },
+                {
+                    "artist": "Mercedes Sosa",
+                    "title": "Sólo Le Pido a Dios - En Directo",
+                    "uri": "3L7BpEVfClIMpJHy5e0Ehv"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Herbie Hancock",
+                    "title": "Chameleon",
+                    "uri": "4Ce66JznW8QbeyTdSzdGwR"
+                },
+                {
+                    "artist": "PNAU",
+                    "title": "Chameleon",
+                    "uri": "1upULGQhXYE55yHDMPh1QG"
+                },
+                {
+                    "artist": "Sandra N.",
+                    "title": "Chameleon",
+                    "uri": "3DWxynxt6kx2OAzAzLUgjZ"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bobby Vinton",
+                    "title": "Blue Velvet",
+                    "uri": "4QelFzhVgLomeQhvKrwM1S"
+                },
+                {
+                    "artist": "Bobby Vinton",
+                    "title": "Sealed with a Kiss",
+                    "uri": "2W5UG7uGle3SlZiyzEGxls"
+                },
+                {
+                    "artist": "Bobby Vinton",
+                    "title": "Sealed with a Kiss",
+                    "uri": "26mlDJoh5bQiC7efK7xq9z"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chris Luis",
+                    "title": "The Heart of the City - Radio Edit",
+                    "uri": "21aImRh4JEuJuej5jtF1Z2"
+                },
+                {
+                    "artist": "Chris Lukas",
+                    "title": "Sunset By The Lake",
+                    "uri": "5vYNTH3EV54AizNS1DyrAh"
+                },
+                {
+                    "artist": "Chris Lukas",
+                    "title": "A New Life Awaits",
+                    "uri": "1gFkZFfUqtcImJLh932LUc"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Mimi And Richard Farina",
+                    "title": "House Un-American Blues Activity Dream",
+                    "uri": "4hJFp8rpwkTXqEBrtsMM7z"
+                },
+                {
+                    "artist": "Mimi And Richard Farina",
+                    "title": "House Un-American Blues Activity Dream",
+                    "uri": "5FbP1l6GQjldQJTbkacikZ"
+                },
+                {
+                    "artist": "Mimi And Richard Farina",
+                    "title": "House Un-American Blues Activity Dream",
+                    "uri": "2JWUUmtg1sr1mjA3lFcpgo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mimi And Richard Farina",
+                    "title": "House Un-American Blues Activity Dream",
+                    "uri": "4hJFp8rpwkTXqEBrtsMM7z"
+                },
+                {
+                    "artist": "Mimi And Richard Farina",
+                    "title": "A Swallow Song",
+                    "uri": "0WlKENjDXw3ijWIz1Jf5RD"
+                },
+                {
+                    "artist": "Mimi And Richard Farina",
+                    "title": "Pack Up Your Sorrows",
+                    "uri": "5ySM9MBNrMGshyP9EXudQV"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Fishmans",
+                    "title": "Oh Slime - Live",
+                    "uri": "72cxa8M5rq06lm9vIEgzvT"
+                },
+                {
+                    "artist": "Fishmans",
+                    "title": "Oh Slime - Live",
+                    "uri": "5EOsbSrixGOGNItiRH4oB2"
+                },
+                {
+                    "artist": "The Waterboys",
+                    "title": "Fisherman's Blues - 2006 Remaster",
+                    "uri": "6aWZmnIsIgwyeUIOmRGL5m"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "The American Analog Set",
+                    "title": "Magnificent Seventies",
+                    "uri": "4xL0WDRIOOMPCnJOicZIR0"
+                },
+                {
+                    "artist": "The American Analog Set",
+                    "title": "Magnificent Seventies",
+                    "uri": "3R05WXEO18SSuIj0ME1gjO"
+                },
+                {
+                    "artist": "The American Analog Set",
+                    "title": "Magnificent Seventies",
+                    "uri": "1wUvQwXWubzx04NQDLCVQy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The American Analog Set",
+                    "title": "Punk as Fuck",
+                    "uri": "6FcGBRTiMQMAY7g6xquoxg"
+                },
+                {
+                    "artist": "The American Analog Set",
+                    "title": "Trespassers in the Stereo Field",
+                    "uri": "2SDpiIO1bcaZ4Qe7NmeIX4"
+                },
+                {
+                    "artist": "Analog Brother$",
+                    "title": "America",
+                    "uri": "5cJ0hN2kpq2t1IKHwIiir0"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Bluetile Lounge",
+                    "title": "The Weight (and the Sea)",
+                    "uri": "6XvI1KyPcXvx3RrllbzICg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bluetile Lounge",
+                    "title": "The Weight (and the Sea)",
+                    "uri": "6XvI1KyPcXvx3RrllbzICg"
+                },
+                {
+                    "artist": "Bluetile Lounge",
+                    "title": "Wriding",
+                    "uri": "1hYYF1K49BL636rXNbpyaH"
+                },
+                {
+                    "artist": "Bluetile Lounge",
+                    "title": "Ambered",
+                    "uri": "6Vdpy57iA3MMZGqeNknN34"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "All Natural Lemon & Lime Flavors",
+                    "title": "You Can Never Tell",
+                    "uri": "66trggpodJpeO4KCQq9f4k"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Joe Goddard",
+                    "title": "Lemon & Lime - Home Time",
+                    "uri": "65SIy6nf2dxTyp96Dabxg2"
+                },
+                {
+                    "artist": "EverythingOShauN",
+                    "title": "LEMON AND LIME",
+                    "uri": "2BJTNiugSpTGTbesQL4FL9"
+                },
+                {
+                    "artist": "Unreal Lincoln",
+                    "title": "Lemon And Limes",
+                    "uri": "0LyI0zdhkBl6DeRoW9Lbjj"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Dif Juz",
+                    "title": "Gunet",
+                    "uri": "52fLRBMrTTaluhVqSHiUXk"
+                },
+                {
+                    "artist": "Dif Juz",
+                    "title": "Gunet",
+                    "uri": "7806zrxteittC8SAS8J4ac"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Günther der Treckerfahrer",
+                    "title": "Die Bibel in zehn Minuten",
+                    "uri": "1sdL7sil7EJctlGczfg6U5"
+                },
+                {
+                    "artist": "Dietmar Wischmeyer",
+                    "title": "Günther: Hochzeit auf dem Lande",
+                    "uri": "4RfiRhm4TjD05BXjKfb3m6"
+                },
+                {
+                    "artist": "Günter Grünwald",
+                    "title": "Zugabe",
+                    "uri": "7zirMeDmQNjFBr7xQEQWS6"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Phantom Forth",
+                    "title": "I Don't Know You",
+                    "uri": "0IGYWOaJ8OJnnvMftA2Gi9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dieter Thomas Heck",
+                    "title": "Phantom 4",
+                    "uri": "3UHOw1LIItc6HqzO2PUrNn"
+                },
+                {
+                    "artist": "Orchester der Vereinigten Bühnen Wien",
+                    "title": "Phantom der Oper",
+                    "uri": "6VibBil9LuNNz79dYyb3Rl"
+                },
+                {
+                    "artist": "NateWantsToBattle",
+                    "title": "Phantom",
+                    "uri": "157ekTVX237WBUvJNCEElf"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "Victoria Boler",
+                    "title": "Haul Away",
+                    "uri": "6HrFa0aZVn2IVQuuywsP8B"
+                },
+                {
+                    "artist": "Jeffery Bollman",
+                    "title": "Long Haul",
+                    "uri": "7q3vn3UG8kMrJPIVGCCat3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sukhwinder Singh",
+                    "title": "Haule Haule",
+                    "uri": "2UKK9UEbKlykbmLVP1zWIQ"
+                },
+                {
+                    "artist": "Nexhat Osmani",
+                    "title": "Boll",
+                    "uri": "0G4hx7j0K8harEg0nfHviA"
+                },
+                {
+                    "artist": "Elinel",
+                    "title": "Boll",
+                    "uri": "4JzOtkPQWkYTObnFYbiX20"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Masatoshi Ono",
+                    "title": "祈",
+                    "uri": "2zA8ieFjvQNetHoSnXCYyb"
+                },
+                {
+                    "artist": "Chiharu Matsuyama",
+                    "title": "燃える涙",
+                    "uri": "2YSJ1OrHr2FuSqNGlYDR8f"
+                },
+                {
+                    "artist": "Finana Ryugu",
+                    "title": "TSUNAMI",
+                    "uri": "0QWOHDPeZ0avyvZ8t2A29C"
+                }
+            ]
+        },
+        "25": {
+            "s0": [
+                {
+                    "artist": "Farm Life",
+                    "title": "Susie's Party",
+                    "uri": "0tBKM8c1Za54JHZTMpME8t"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Colt Ford",
+                    "title": "Farm Life (feat. Justin Moore)",
+                    "uri": "0tZ0i4h3kOgWR8zpYrJOi4"
+                },
+                {
+                    "artist": "Viera Blech",
+                    "title": "Farmer's Tuba",
+                    "uri": "7hjPvYrkVPtgkU3yiScyOi"
+                },
+                {
+                    "artist": "Johannes Nilsson",
+                    "title": "Grape Stomping Song - Special Ver.",
+                    "uri": "05YnUYy55XZBX7I6speiHp"
+                }
+            ]
+        },
+        "26": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tynal Tywyll",
+                    "title": "Mae'R Telyn Wedi Torri",
+                    "uri": "0sid9wiGY38DOBiXwOe3a5"
+                },
+                {
+                    "artist": "Tynal Tywyll",
+                    "title": "Rhowch Eich Dwylo…",
+                    "uri": "7m8kDZcArwU3wH0PRUZuVQ"
+                },
+                {
+                    "artist": "Tynnelle",
+                    "title": "What Time You On",
+                    "uri": "37lRgCBnP0vnkLGjggtrkN"
+                }
+            ]
+        },
+        "27": {
+            "s0": [
+                {
+                    "artist": "Stephen",
+                    "title": "Thinkin' About You",
+                    "uri": "1XJ2IHu2zTpuEONL2PFnJM"
+                },
+                {
+                    "artist": "Chris Stephens",
+                    "title": "Thinkin' About You",
+                    "uri": "4sWS0n9itvVJ3oOTGtgcSx"
+                },
+                {
+                    "artist": "Stephen Michaels",
+                    "title": "I'm Thinking About You",
+                    "uri": "0OvbJ6JfVeMrOVPz8FU1Vq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hush Hush",
+                    "title": "Thinkin' Bout You",
+                    "uri": "1t1bmUbEpwzhvPje3LBHx5"
+                },
+                {
+                    "artist": "Spektre",
+                    "title": "Thinking About You ft Juliet Fox - Original Mix",
+                    "uri": "5F84K2ltGbHKMYbmujjt8W"
+                },
+                {
+                    "artist": "Dawiid & Josef K",
+                    "title": "Thinking About You",
+                    "uri": "5vWOhfK7MAf9q23ASaXsmD"
+                }
+            ]
+        }
+    },
     "perfect-sound-forever-3rd-april-2019": {
         "00": {
             "s0": [

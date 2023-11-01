@@ -16065,6 +16065,232 @@
             ]
         }
     },
+    "total-stasis-31st-october-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Figgy Mold",
+                    "title": "Skylark",
+                    "uri": "3UQ4Lp3OuEm0X72ViUX0N3"
+                },
+                {
+                    "artist": "Emilie-Claire Barlow",
+                    "title": "Skylark",
+                    "uri": "7pM1ZCbo5MamKTCVhTKLY0"
+                },
+                {
+                    "artist": "Skylark",
+                    "title": "Love Hate",
+                    "uri": "20jB2giMB58iXQHm0hxsyb"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Young Gun Silver Fox",
+                    "title": "Distance Between Us",
+                    "uri": "6eiKk8zblVTJQkR8vCwLa8"
+                },
+                {
+                    "artist": "Denis Stelmakh",
+                    "title": "Distance Between",
+                    "uri": "4BnYuN3Nr0tR6ez5CFd1r3"
+                },
+                {
+                    "artist": "Distance Between",
+                    "title": "Embrace the Shadows",
+                    "uri": "5f8Da1ib92zphmOMDvfAfa"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Salenta + Topu",
+                    "title": "WIP",
+                    "uri": "6kZn1kRjqkUxrxMsorS9K9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "René Aubry",
+                    "title": "Salento",
+                    "uri": "7fP1rYLOp7Yj7v9RCNRufc"
+                },
+                {
+                    "artist": "Wahyu Sibuea",
+                    "title": "Salelengna Dingolukku",
+                    "uri": "0mL4yEujCT4momg1Khgcre"
+                },
+                {
+                    "artist": "Fa6o Rican",
+                    "title": "Whip",
+                    "uri": "4sgVj5bmIk2fNAGRUxYbBj"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Olli Aarni",
+                    "title": "Ylhäällä",
+                    "uri": "3X1PgiDZEqrK7tHR3iVDNx"
+                },
+                {
+                    "artist": "Olli Aarni",
+                    "title": "Huoneen Yllä",
+                    "uri": "02RC5pPPIHuaNNps8nR1Pb"
+                },
+                {
+                    "artist": "Olli Halonen",
+                    "title": "Pohjola",
+                    "uri": "6YFcvJlcgQceRfJrVpmJa0"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Berk Icli",
+                    "title": "Mutual Serenade",
+                    "uri": "5mqSDydjpUTIct92a3GnCH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Wolfgang Amadeus Mozart",
+                    "title": "Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": I. Allegro",
+                    "uri": "1VYOAY7yevYbOj3AFupzSu"
+                },
+                {
+                    "artist": "John Powell",
+                    "title": "This Is Berk",
+                    "uri": "1g3Bc80hioYOSitxntNQYi"
+                },
+                {
+                    "artist": "Wolfgang Amadeus Mozart",
+                    "title": "Serenade In G Major \"Eine Kleine Nachtmusik\", K. 525: I. Allegro",
+                    "uri": "4GRDiNU8fkizXz4rDX9gS5"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Amanda Palmer",
+                    "title": "Map of Tasmania",
+                    "uri": "0r19jkkPE8jtgUjt06tmQi"
+                },
+                {
+                    "artist": "Loverground",
+                    "title": "Be Patient",
+                    "uri": "0HWtI9cjfnVzU0q3hHc0ph"
+                },
+                {
+                    "artist": "Strawberry Girls",
+                    "title": "Tasmanian Glow",
+                    "uri": "0kekDfIdSdUELWtuYaEIzP"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "A.L.I.S.O.N",
+                    "title": "Subtract",
+                    "uri": "2v9yt7hZE322wpyXTKdZFE"
+                },
+                {
+                    "artist": "A.L.I.S.O.N",
+                    "title": "always in my dreams",
+                    "uri": "5EZW3XprRdsNAucob27znV"
+                },
+                {
+                    "artist": "A.L.I.S.O.N",
+                    "title": "Nightride - Revisited",
+                    "uri": "7nxIv8N5cDHefOW0JsAiEP"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "222",
+                    "title": "Next Time You See Me",
+                    "uri": "05UHTKtGaqN3g8IY3fxDaX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gang Starr",
+                    "title": "Next Time",
+                    "uri": "4Bf0UDkIOkCCZmbSzaPZna"
+                },
+                {
+                    "artist": "absent",
+                    "title": "Next Time",
+                    "uri": "5ph9GJ1EkO7xvTrsn6jXj9"
+                },
+                {
+                    "artist": "Ronis Goliath",
+                    "title": "Next Tim3",
+                    "uri": "7o2DgtJsULetO81aztFB67"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Troth",
+                    "title": "Phare",
+                    "uri": "4N92mYGzWCFp8X925TUdSI"
+                },
+                {
+                    "artist": "TRI4TH",
+                    "title": "Sol Levante",
+                    "uri": "41vry8lPln1IWvC8HJgfDu"
+                },
+                {
+                    "artist": "TRI4TH",
+                    "title": "Horns Riot",
+                    "uri": "23Qd9pGRAGYvkW769SDCIg"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Anja Lauvdal",
+                    "title": "Silk",
+                    "uri": "54mxwHTfxsqJVATOSjknlQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Seb Zillner",
+                    "title": "Silk",
+                    "uri": "5shRAbjr263aLdUb7CjpTR"
+                },
+                {
+                    "artist": "Elijah Blond",
+                    "title": "Silk",
+                    "uri": "1MXrRq5uQ95VbDLClkVdRe"
+                },
+                {
+                    "artist": "Anja Bavaria",
+                    "title": "I KANNT SPEIM",
+                    "uri": "3gjNnWkS2VClB624E94QpF"
+                }
+            ]
+        }
+    },
     "total-stasis-3rd-november-2020": {
         "00": {
             "s0": [

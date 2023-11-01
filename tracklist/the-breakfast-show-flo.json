@@ -14803,7 +14803,108 @@
             "title": "Jericho"
         }
     },
-    "the-breakfast-show-flo-24th-october-2023": {},
+    "the-breakfast-show-flo-24th-october-2023": {
+        "00": {
+            "artist": "Ethnic Heritage Ensemble, ",
+            "title": "Impressions Pt.7"
+        },
+        "01": {
+            "artist": "Eboni Band",
+            "title": "Fasso (The Motherhood)"
+        },
+        "02": {
+            "artist": "Joni Mitchell",
+            "title": "Pat's Solo"
+        },
+        "03": {
+            "artist": "Gialma 3",
+            "title": "Gialma"
+        },
+        "04": {
+            "artist": "Wiley Post 6th Grade Chorus",
+            "title": "The Music Is You"
+        },
+        "05": {
+            "artist": "Davina Stone",
+            "title": "Silly Wasn't I"
+        },
+        "06": {
+            "artist": "Robert Palmer",
+            "title": "Love Can Run Faster"
+        },
+        "07": {
+            "artist": "The Edge Of Daybreak",
+            "title": "Eyes Of Love"
+        },
+        "08": {
+            "artist": "Starbuck",
+            "title": "Moonlight Feels Right"
+        },
+        "09": {
+            "artist": "Kash",
+            "title": "Percussion Sundance"
+        },
+        "10": {
+            "artist": "Obscure Desire",
+            "title": "4a"
+        },
+        "11": {
+            "artist": "Thomas Frempong",
+            "title": "Mada Meho So"
+        },
+        "12": {
+            "artist": "Eboni Band",
+            "title": "Sing A Happy Song (Shake It Down)"
+        },
+        "13": {
+            "artist": "Venus Gang",
+            "title": "Love To Fly"
+        },
+        "14": {
+            "artist": "Jimi Henrdrix",
+            "title": "Red House"
+        },
+        "15": {
+            "artist": "G.T. Modell",
+            "title": "We Won’t Let You Down"
+        },
+        "16": {
+            "artist": "Depeche Mode",
+            "title": "Never Let Me Down Again"
+        },
+        "17": {
+            "artist": "GFH",
+            "title": "Magicarpe"
+        },
+        "18": {
+            "artist": "equals.0",
+            "title": "Zerozero"
+        },
+        "19": {
+            "artist": "Sampha",
+            "title": "Dancing Circles"
+        },
+        "20": {
+            "artist": "Thomas Dolby",
+            "title": "Dissidents"
+        },
+        "21": {
+            "artist": "Tullio De Piscopo",
+            "title": "Stop Bajon"
+        },
+        "22": {
+            "artist": "Unknown Artist",
+            "title": "Unknown Track"
+        },
+        "23": {
+            "artist": "James Asher",
+            "title": "Umbrellas"
+        },
+        "24": {
+            "artist": "Sven Wunder",
+            "title": "Sun-Kissed"
+        }
+    },
     "the-breakfast-show-flo-25th-april-2023": {
         "00": {
             "artist": "Wellbeing Series",
@@ -26203,6 +26304,116 @@
         "34": {
             "artist": "Eyedress",
             "title": "Unreleased"
+        }
+    },
+    "the-breakfast-show-flo-minus-kendal-30th-october-2023": {
+        "00": {
+            "artist": "Vanishing Twin",
+            "title": "You Are Not An Island"
+        },
+        "01": {
+            "artist": "Stereolab",
+            "title": "Contranatura (Demo)"
+        },
+        "02": {
+            "artist": "Angel Hunt, ",
+            "title": "AmlaBerries"
+        },
+        "03": {
+            "artist": "The Specials",
+            "title": "Ghost Town"
+        },
+        "04": {
+            "artist": "America",
+            "title": "Molten Love"
+        },
+        "05": {
+            "artist": "Danny O'Keefe",
+            "title": "Magdalena"
+        },
+        "06": {
+            "artist": "Sandy Denny",
+            "title": "Whispering Grass [Radio Session]"
+        },
+        "07": {
+            "artist": "Aretha Franklin",
+            "title": "That's The Way I Feel About Cha"
+        },
+        "08": {
+            "artist": "Ronnie Mitchell",
+            "title": "I’m Loving You More (Everyday)"
+        },
+        "09": {
+            "artist": "Annette Peacock",
+            "title": "My Mama Never Taught Me How To Cook"
+        },
+        "10": {
+            "artist": "Terry Reid",
+            "title": "Ooh Baby (Make Me Feel So Young)"
+        },
+        "11": {
+            "artist": "Marvin Gaye",
+            "title": "Where Are We Going"
+        },
+        "12": {
+            "artist": "Gregory Issacc",
+            "title": "I Can't Give You My Love"
+        },
+        "13": {
+            "artist": "Alton Ellis & The Flames",
+            "title": "La La Means (I Love You)"
+        },
+        "14": {
+            "artist": "Johnny Osbourne",
+            "title": "We Need Love"
+        },
+        "15": {
+            "artist": "Chendly Duffus",
+            "title": "That Ain’t No Love"
+        },
+        "16": {
+            "artist": "Little Roy",
+            "title": "Jah Can Count On I"
+        },
+        "17": {
+            "artist": "G.Rizo",
+            "title": "Je Me Mentis"
+        },
+        "18": {
+            "artist": "The Cure",
+            "title": "Pictures Of You (Extended Dub Mix)"
+        },
+        "19": {
+            "artist": "Lord Finesse",
+            "title": "Gameplan"
+        },
+        "20": {
+            "artist": "Big Pun",
+            "title": "Tres Leches (Triboro Trilogy)"
+        },
+        "21": {
+            "artist": "Sam Cooke",
+            "title": "The Best Things In Life Are Free"
+        },
+        "22": {
+            "artist": "Thomas Dolby",
+            "title": "She Blinded Me With Science"
+        },
+        "23": {
+            "artist": "Doug Reansbury",
+            "title": "Shamus 303"
+        },
+        "24": {
+            "artist": "Free",
+            "title": "Be My Friend"
+        },
+        "25": {
+            "artist": "Pentangle",
+            "title": "Reflection"
+        },
+        "26": {
+            "artist": "Peter Green",
+            "title": "Time For Me To Go"
         }
     },
     "the-breakfast-show-flo-sally-c-28th-july-2023": {
