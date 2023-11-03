@@ -1639,6 +1639,430 @@
             ]
         }
     },
+    "mount-analog-1st-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Laura Roge",
+                    "title": "Transsylvania Evolution",
+                    "uri": "5UunzQWlOIedZMa7PSxLQg"
+                },
+                {
+                    "artist": "Tim Oliver Schultz",
+                    "title": "Rodna",
+                    "uri": "2z9aDT1KeUD1Qlpa7nvXdS"
+                },
+                {
+                    "artist": "Franziska Gehm",
+                    "title": "Kapitel 1 & Kapitel 2.1 - Die Vampirschwestern",
+                    "uri": "6wnNAv0xFHRAx1wxneknAb"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Marianne Faithfull",
+                    "title": "Jaberwock",
+                    "uri": "773tg118AKfNHRQfEej9Yo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Marianne Faithfull",
+                    "title": "As Tears Go By",
+                    "uri": "5zyYjd6yeJsO37EHGDhv5M"
+                },
+                {
+                    "artist": "Marianne Faithfull",
+                    "title": "The Ballad Of Lucy Jordan",
+                    "uri": "4gj5Wv7rAJYhBrGPu01mxD"
+                },
+                {
+                    "artist": "Marianne Faithfull",
+                    "title": "Broken English",
+                    "uri": "09r8CNc94rtWOPAi63cIjp"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Maxine Sellers",
+                    "title": "Some Kind Of Fever (Pray For Rain)",
+                    "uri": "1B25rpnMboxGkWdEXheimh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Grand Funk Railroad",
+                    "title": "Some Kind Of Wonderful",
+                    "uri": "6LnjelBSl5xYpdfhfFTJbX"
+                },
+                {
+                    "artist": "Sound Of Legend",
+                    "title": "Some Kind Of Kiss - Sped Up",
+                    "uri": "4kWLxcsPH6DOM3LIPoDdhE"
+                },
+                {
+                    "artist": "Hurts",
+                    "title": "Some Kind of Heaven",
+                    "uri": "3mHEdk4HYRv1xB3WrdSeRB"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Susan Christie",
+                    "title": "Yesterday, Where's My Mind",
+                    "uri": "7wZvZN6KHcTio1wCrhmKvF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Susan Christie",
+                    "title": "Paint a Lady",
+                    "uri": "6v2qmvAIPIf2wfQLYdBYKe"
+                },
+                {
+                    "artist": "Susan Christie",
+                    "title": "Rainy Day",
+                    "uri": "5EcJVGwKFhAu7bER8xsPFS"
+                },
+                {
+                    "artist": "Maxence Cyrin",
+                    "title": "Where Is My Mind - Live",
+                    "uri": "6LZJ8JtrrbfU1QOM6HMt6K"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Sam Gopal",
+                    "title": "The Sky Is Burning",
+                    "uri": "6ao6jNEnSn3ILnQ87S1SjG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sam Gopal",
+                    "title": "The Sky Is Burning",
+                    "uri": "6ao6jNEnSn3ILnQ87S1SjG"
+                },
+                {
+                    "artist": "Sam Gopal",
+                    "title": "Season of the Witch",
+                    "uri": "3lY98P6YIHuE2mPU9BV6Hx"
+                },
+                {
+                    "artist": "Sam Gopal",
+                    "title": "Back Door Man",
+                    "uri": "1N9Ag7JWFRcsh65vdJxuNQ"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Death In June",
+                    "title": "To Drown a Rose",
+                    "uri": "2GKqi4HGVIk9cY7UkKUvqY"
+                },
+                {
+                    "artist": "Death In June",
+                    "title": "To Drown a Rose",
+                    "uri": "4CbPFfORyZyiD54Sj5m0sB"
+                },
+                {
+                    "artist": "Death In June",
+                    "title": "To Drown a Rose (Live)",
+                    "uri": "5Ds9Uoe2xJ9IRSzFfeuQ2P"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Death In June",
+                    "title": "To Drown a Rose",
+                    "uri": "2GKqi4HGVIk9cY7UkKUvqY"
+                },
+                {
+                    "artist": "Machine Gun Kelly",
+                    "title": "Death In My Pocket",
+                    "uri": "6CVrnuMvknlW7OXmY1zgX4"
+                },
+                {
+                    "artist": "Death In June",
+                    "title": "Fall Apart",
+                    "uri": "0GhaphRnZuRpV9Uq4bEAvh"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Lily & Maria",
+                    "title": "Everybody Knows",
+                    "uri": "2gmfhI5AFUPJwXFcka39aK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lily & Madeleine",
+                    "title": "Windowless Bedroom",
+                    "uri": "2UEY0IyN5GcPdhe1LwmmHd"
+                },
+                {
+                    "artist": "Lily Mae Harrington",
+                    "title": "The Way That it Goes",
+                    "uri": "1Rj9W0To9l7RQSesGwigNv"
+                },
+                {
+                    "artist": "Lily and the Pearl",
+                    "title": "Be Mine",
+                    "uri": "6n2yM8EHWS0GVBEyiGcw4P"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Paul Giovanni",
+                    "title": "Willow's Song",
+                    "uri": "22WeMgUZlf31eftlE3uIpg"
+                },
+                {
+                    "artist": "Iron Maiden",
+                    "title": "The Wicker Man - 2015 Remaster",
+                    "uri": "1diuZVsxD74xvtUSABRUoF"
+                },
+                {
+                    "artist": "Jasmine Thompson",
+                    "title": "Willow",
+                    "uri": "0DR1MJq6bTWF8pQa0JmgKS"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Clarissa Connelly",
+                    "title": "Holler",
+                    "uri": "4gnhOr0xfSCepXSs7XZ1Rc"
+                },
+                {
+                    "artist": "Clarissa Connelly",
+                    "title": "Holler",
+                    "uri": "3DzvK2lDCpJFucQL5VjTuN"
+                },
+                {
+                    "artist": "Clarissa Connelly",
+                    "title": "Holler",
+                    "uri": "79eB9guAv1zVKCau9SqVUB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jeff Cascaro",
+                    "title": "Holler",
+                    "uri": "1q0tnmIk5Bpez4KhPuaRbm"
+                },
+                {
+                    "artist": "2Pac",
+                    "title": "Holler If Ya' Hear Me",
+                    "uri": "075Tqgr9VfBdeWz6PMF1Ck"
+                },
+                {
+                    "artist": "lonelyboy",
+                    "title": "holler if ya' hear me - lofi",
+                    "uri": "5iMGs339CUgHrG4dIseJEA"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Luboš Fišer",
+                    "title": "The Magic Yard",
+                    "uri": "7knFCU8chVAN4qKKaPM8jy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Luboš Fišer",
+                    "title": "The Magic Yard",
+                    "uri": "7knFCU8chVAN4qKKaPM8jy"
+                },
+                {
+                    "artist": "Luboš Fišer",
+                    "title": "Valerie a Týden Divu - Main Theme Edit",
+                    "uri": "143kjcTccAOt8Wd2UzAgqk"
+                },
+                {
+                    "artist": "Luboš Fišer",
+                    "title": "Disquiet - Alternate Version",
+                    "uri": "7H0SsUXpFwcVZCcNjU4ANu"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Broadcast",
+                    "title": "Pendulum",
+                    "uri": "6hbP2Xs5W0SVvepjLWnTeL"
+                },
+                {
+                    "artist": "Broadcast",
+                    "title": "Pendulum",
+                    "uri": "0alHP8DdjostWqHepq0CzP"
+                },
+                {
+                    "artist": "Broadcast",
+                    "title": "Pendulum",
+                    "uri": "6Z1Zw1TM4W4JcL6visk1TZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Broadcast",
+                    "title": "Pendulum",
+                    "uri": "6hbP2Xs5W0SVvepjLWnTeL"
+                },
+                {
+                    "artist": "Pendulum",
+                    "title": "Self vs Self (feat. In Flames)",
+                    "uri": "2lN6G35gsXkA3xzPYqmis5"
+                },
+                {
+                    "artist": "Pendulum",
+                    "title": "Witchcraft",
+                    "uri": "4Y2glvLjQGOb4dXnwm1hQf"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bruno Nicolai",
+                    "title": "In automobile - Remastered 2022",
+                    "uri": "4NvV4zbIhERxvtxaW2VDfY"
+                },
+                {
+                    "artist": "Bellini",
+                    "title": "Samba do Brasil",
+                    "uri": "2yAjjqcHMy6qUI6NNzNoVD"
+                },
+                {
+                    "artist": "Pauline Croze",
+                    "title": "Samba Saravah",
+                    "uri": "4hft7Q7fXqMx31RuIIgTFn"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Psychic TV",
+                    "title": "Godstar",
+                    "uri": "3wKbHzOS4fjZNLvv0MW64W"
+                },
+                {
+                    "artist": "Psychic TV",
+                    "title": "The Orchids",
+                    "uri": "00c2vsoZuubtGkLFQCdT1p"
+                },
+                {
+                    "artist": "Darkø",
+                    "title": "Psychic TV",
+                    "uri": "4x8oo9fMxoy5QiyBAgBagB"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Billy Green",
+                    "title": "Amanda",
+                    "uri": "4wye4Dg6f25FhHtBloJIZe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Wbeeza",
+                    "title": "Billy Green Is Ded",
+                    "uri": "7amJZgRjm6gR4odpHu9MMt"
+                },
+                {
+                    "artist": "Billy Bragg",
+                    "title": "A New England",
+                    "uri": "0IfjReTYtafqN3uCfO3Xva"
+                },
+                {
+                    "artist": "Billy F Gibbons",
+                    "title": "Missin’ Yo’ Kissin’",
+                    "uri": "2YbHdXlXvAgLbZgb7kROJr"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Breakout",
+                    "title": "Usta me ogrzej",
+                    "uri": "0VugzIMqN4gFoaGAFJMWTP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Breakout",
+                    "title": "Usta me ogrzej",
+                    "uri": "0VugzIMqN4gFoaGAFJMWTP"
+                },
+                {
+                    "artist": "Swing Out Sister",
+                    "title": "Breakout",
+                    "uri": "5JsIknb4lyIKQCytjv0Uw5"
+                },
+                {
+                    "artist": "Foo Fighters",
+                    "title": "Breakout",
+                    "uri": "2kh0u2d2YKQ7BCqeLPdHk6"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "B.J. Ward",
+                    "title": "The Loner - Remastered 2023",
+                    "uri": "3KlYM52Ovvu9DgK5ISkSWp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ty Segall",
+                    "title": "The Loner",
+                    "uri": "4qR8C5AzqUp0pe0fBskQoH"
+                },
+                {
+                    "artist": "Tommy J",
+                    "title": "The Loner",
+                    "uri": "7csDB5X0n9GUTzEpxPwZJh"
+                },
+                {
+                    "artist": "Gary Moore",
+                    "title": "The Loner - Remastered 2002",
+                    "uri": "6Zg0cE6vhEp6CoNdXh7NZd"
+                }
+            ]
+        }
+    },
     "mount-analog-20th-april-2022": {
         "00": {
             "s0": [
