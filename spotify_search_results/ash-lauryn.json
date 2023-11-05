@@ -3637,6 +3637,340 @@
             ]
         }
     },
+    "ash-lauryn-2nd-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Erykah Badu",
+                    "title": "Time's A Wastin",
+                    "uri": "6q8fYYujrQxXckq1tTtqqi"
+                },
+                {
+                    "artist": "Erykah Badu",
+                    "title": "Didn't Cha Know",
+                    "uri": "7pv80uUHfocFqfTytu1MVi"
+                },
+                {
+                    "artist": "The Roots",
+                    "title": "You Got Me",
+                    "uri": "4pdLZsxq0y5oJDb6Cxlokw"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "J Dilla",
+                    "title": "So Far to Go",
+                    "uri": "4omO3Xwm4REEK5HGT6e6yY"
+                },
+                {
+                    "artist": "J Dilla",
+                    "title": "So Far to Go - Short Edit",
+                    "uri": "3pe1Qj20AXkk3BiuFVDijZ"
+                },
+                {
+                    "artist": "J Dilla",
+                    "title": "So Far To Go - Short Edit Instrumental",
+                    "uri": "40PBabZDXBYghufxsv9wTV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "J Dilla",
+                    "title": "So Far to Go",
+                    "uri": "4omO3Xwm4REEK5HGT6e6yY"
+                },
+                {
+                    "artist": "J Dilla",
+                    "title": "So Far to Go - Short Edit",
+                    "uri": "3pe1Qj20AXkk3BiuFVDijZ"
+                },
+                {
+                    "artist": "J Dilla",
+                    "title": "U-Love",
+                    "uri": "4S6Bo2c9FzVaq0vdqqLqgU"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Common",
+                    "title": "Nag Champa (Afrodisiac For The World)",
+                    "uri": "1N3L38TqNXFhlK5noHC3R3"
+                },
+                {
+                    "artist": "Common",
+                    "title": "GO!",
+                    "uri": "4JNTpbntShpUpACDUzwHV5"
+                },
+                {
+                    "artist": "Common",
+                    "title": "Be (Intro)",
+                    "uri": "11aFVmFy8903RwDx4ohQiq"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Black Star",
+                    "title": "Thieves In The Night",
+                    "uri": "7tx1TUJrT6qxXFXAELqbev"
+                },
+                {
+                    "artist": "Black Star",
+                    "title": "Thieves In The Night",
+                    "uri": "6hA1ypLuMrdJFZcPfxdWfs"
+                },
+                {
+                    "artist": "Black Star",
+                    "title": "Thieves In The Night",
+                    "uri": "1K6B67KqF0D3eMBsDX3gUX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Black Star",
+                    "title": "Thieves In The Night",
+                    "uri": "7tx1TUJrT6qxXFXAELqbev"
+                },
+                {
+                    "artist": "Black Star",
+                    "title": "Definition",
+                    "uri": "4C7Ss9bTPOWJMh3rarF1mN"
+                },
+                {
+                    "artist": "Radiohead",
+                    "title": "Black Star",
+                    "uri": "6UO72VSXEONxdfLyABihs9"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Roots",
+                    "title": "You Got Me",
+                    "uri": "4pdLZsxq0y5oJDb6Cxlokw"
+                },
+                {
+                    "artist": "The Roots",
+                    "title": "What They Do",
+                    "uri": "1B53Y95tPd4ah4FExO0egE"
+                },
+                {
+                    "artist": "The Roots",
+                    "title": "The Seed (2.0)",
+                    "uri": "6HxweNytuEQdmGeVtZPZz3"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Bobby Hutcherson",
+                    "title": "Montara",
+                    "uri": "46qrqcOlSXd70Sa0tuSYtv"
+                },
+                {
+                    "artist": "Bobby Hutcherson",
+                    "title": "Montara - Remix",
+                    "uri": "59bCxgBmbYYoegWdtgtfBE"
+                },
+                {
+                    "artist": "Bobby Hutcherson",
+                    "title": "Montara - Remix",
+                    "uri": "19WNdHW7R4mkHvNavKvleS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bobby Hutcherson",
+                    "title": "Montara",
+                    "uri": "46qrqcOlSXd70Sa0tuSYtv"
+                },
+                {
+                    "artist": "Bobby Hutcherson",
+                    "title": "Montara - Remix",
+                    "uri": "59bCxgBmbYYoegWdtgtfBE"
+                },
+                {
+                    "artist": "Bobby Hutcherson",
+                    "title": "Little Angel",
+                    "uri": "6s8w9lqpq1iUFL3eWQ9BIh"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Robert Glasper",
+                    "title": "Afro Blue",
+                    "uri": "7e0j6jReCfN5KJkDNLHyHQ"
+                },
+                {
+                    "artist": "Robert Glasper",
+                    "title": "Afro Blue - 9th Wonder's Blue Light Basement Remix",
+                    "uri": "3B5ThZXjhniuy1dh92SUpV"
+                },
+                {
+                    "artist": "Robert Glasper",
+                    "title": "Afro Blue",
+                    "uri": "1kKLWkqyZEnrOd5tBYYCUn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Robert Glasper",
+                    "title": "Afro Blue",
+                    "uri": "7e0j6jReCfN5KJkDNLHyHQ"
+                },
+                {
+                    "artist": "Robert Glasper",
+                    "title": "Afro Blue - 9th Wonder's Blue Light Basement Remix",
+                    "uri": "3B5ThZXjhniuy1dh92SUpV"
+                },
+                {
+                    "artist": "Robert Glasper",
+                    "title": "Afro Blue",
+                    "uri": "1kKLWkqyZEnrOd5tBYYCUn"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Donald Byrd",
+                    "title": "I Feel Like Loving You Today",
+                    "uri": "7jszRQdF8gDMAxn7f8ga4A"
+                },
+                {
+                    "artist": "Donald Byrd",
+                    "title": "Cristo Redentor - Remastered",
+                    "uri": "0Xfq6BeOHdzf16gk9y8a1P"
+                },
+                {
+                    "artist": "Guru",
+                    "title": "Loungin'",
+                    "uri": "1VzhfMEGIIkn5hFITMJzW1"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Stefan Ringer",
+                    "title": "Time",
+                    "uri": "0XusVx2KsKdQqTx1UWz1PP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Stefan Ringer",
+                    "title": "Reach",
+                    "uri": "5gDNXpsEXyq7P95jU3xUwM"
+                },
+                {
+                    "artist": "Ben Hixon",
+                    "title": "Shawty Don't Play",
+                    "uri": "1RotuWBWMjelLdeNFe8vHq"
+                },
+                {
+                    "artist": "Stefan Raab",
+                    "title": "Space-Taxi - Radio Version",
+                    "uri": "5jQyoGhBjnR1GkTs5RlBsK"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Larry Heard",
+                    "title": "Can You Feel It",
+                    "uri": "3xy8hSnwLShT5cc6WhKvRK"
+                },
+                {
+                    "artist": "Larry Heard",
+                    "title": "Can You Feel It - Instrumental",
+                    "uri": "4b5QHhUld8ba26ZJEHawFW"
+                },
+                {
+                    "artist": "Larry June",
+                    "title": "Tangible Assets",
+                    "uri": "13biO041eq28N49u710xIs"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Larry Heard",
+                    "title": "Missing You",
+                    "uri": "06hANyT8h4lWypiU6PJPrR"
+                },
+                {
+                    "artist": "Larry Heard",
+                    "title": "Missing You - Instrumental",
+                    "uri": "3jskpNhjmHPU95M5QqqtXd"
+                },
+                {
+                    "artist": "Larry Heard",
+                    "title": "Missing You - Jazz Cafe Mix",
+                    "uri": "0ODktM8J48ucTIrvgak5q7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Larry Heard",
+                    "title": "Missing You",
+                    "uri": "06hANyT8h4lWypiU6PJPrR"
+                },
+                {
+                    "artist": "Larry Heard",
+                    "title": "Missing You - Instrumental",
+                    "uri": "3jskpNhjmHPU95M5QqqtXd"
+                },
+                {
+                    "artist": "Larry Heard",
+                    "title": "Can You Feel It - Instrumental",
+                    "uri": "4b5QHhUld8ba26ZJEHawFW"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Jay Daniel",
+                    "title": "Cherubim",
+                    "uri": "1ZE2oQPSn4J0TpKSOU4sCV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jay Daniel",
+                    "title": "Cherubim",
+                    "uri": "1ZE2oQPSn4J0TpKSOU4sCV"
+                },
+                {
+                    "artist": "Miller & Bronx",
+                    "title": "Cherubim",
+                    "uri": "1AL54jGmiH5sEn7OUIbVVP"
+                },
+                {
+                    "artist": "Beau Nox",
+                    "title": "Cherubim",
+                    "uri": "5ORiAl7tlhYU7FsTGekeO0"
+                }
+            ]
+        }
+    },
     "ash-lauryn-2nd-september-2022": {
         "00": {
             "s0": [
@@ -6018,6 +6352,269 @@
         "12": {
             "s0": "",
             "s1": ""
+        }
+    },
+    "ash-lauryn-7th-september-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "LX72",
+                    "title": "Karizma",
+                    "uri": "1NOQurLbxMAWmt8mBOm2lG"
+                },
+                {
+                    "artist": "Karizma",
+                    "title": "The Power",
+                    "uri": "0fmdJ1YLOeeYb30RzXhObS"
+                },
+                {
+                    "artist": "Moe Turk",
+                    "title": "Karizma",
+                    "uri": "6oTrSmQUsvndDDQSMjqcyM"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tems",
+                    "title": "Crazy Tings",
+                    "uri": "2Li9UJop1djc8aH4MjuJUX"
+                },
+                {
+                    "artist": "Tems",
+                    "title": "Crazy Tings",
+                    "uri": "5VQagemEOLpJJikcLzDNYR"
+                },
+                {
+                    "artist": "Tems",
+                    "title": "Damages",
+                    "uri": "3Xfwu3xtPqmJ4nM4jpBm8O"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Blaze",
+                    "title": "Wonderland (feat. Alexander Hope) - Jimpster Extended Remix",
+                    "uri": "1nBBzjeEDZJvU2loCLTKhF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Blaze and the Monster Machines",
+                    "title": "Let’s Blaze",
+                    "uri": "11UuGlis2dH5Z7S24eH7ec"
+                },
+                {
+                    "artist": "Blaze and the Monster Machines",
+                    "title": "Mass!",
+                    "uri": "15XSw7gk3LjixldWWjK5PM"
+                },
+                {
+                    "artist": "Blaze and the Monster Machines",
+                    "title": "Blaze On",
+                    "uri": "4RmNkulQoBZgGsq3zxmhF9"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "George Davis",
+                    "title": "Marimba Disco - Kai Alcé's NDATL Interpretation",
+                    "uri": "2TplostrgMjeMbPy5uIQmN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "George Davis",
+                    "title": "Marimba Disco - Kai Alcé's NDATL Interpretation",
+                    "uri": "2TplostrgMjeMbPy5uIQmN"
+                },
+                {
+                    "artist": "George Davidson",
+                    "title": "Ballard Pour Adeline",
+                    "uri": "3CObJ6wR7LYkAreTVwyAWR"
+                },
+                {
+                    "artist": "GHEIST",
+                    "title": "Marimba",
+                    "uri": "3ihksvcKbnm01jQXMY5XYi"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Deon Cole",
+                    "title": "Where The Freaks At - Terry Hunter Club Mix",
+                    "uri": "3pz8X6T22aQaOQspoigGkW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Deon Cole",
+                    "title": "Where The Freaks At - Terry Hunter Club Mix",
+                    "uri": "3pz8X6T22aQaOQspoigGkW"
+                },
+                {
+                    "artist": "Deon Cole",
+                    "title": "Where The Freaks At - Terry Hunter Radio Mix",
+                    "uri": "0E6lgKVSV0cq53ankPsNch"
+                },
+                {
+                    "artist": "Hyper Hamster",
+                    "title": "Where Them Girls At - Hypertechno",
+                    "uri": "1xpo2mhizp0gA450CMiExe"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Kai Alcé",
+                    "title": "New Life Livin",
+                    "uri": "5oUSwHrEKXPo8JoEUDWAvY"
+                },
+                {
+                    "artist": "Kai Alcé",
+                    "title": "New Life Livin",
+                    "uri": "758BZSz7wKQfY6yOHlogKK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kai Alcé",
+                    "title": "New Life Livin",
+                    "uri": "5oUSwHrEKXPo8JoEUDWAvY"
+                },
+                {
+                    "artist": "Kai Alcé",
+                    "title": "Space Skat N Dat",
+                    "uri": "4HIlZhKWz2WXYcGXiZFXqe"
+                },
+                {
+                    "artist": "Lemos",
+                    "title": "The New Life",
+                    "uri": "4ngpD9qM5EinF3KKKoyZDB"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "efdemin",
+                    "title": "America (Terrence Dixon MInimal Detroit Mix) - Mixed",
+                    "uri": "5emMNsPjNJscowHjjWexuh"
+                },
+                {
+                    "artist": "Terrence Parker",
+                    "title": "Somethin' Here - Original Mix",
+                    "uri": "6dQdvxqOiLemHzrEUXQ4zz"
+                },
+                {
+                    "artist": "Terrence Parker",
+                    "title": "Something Here for the Club - Vocal",
+                    "uri": "5GcceWVBHFdjrW7yRqA9je"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ross",
+                    "title": "ro-fi",
+                    "uri": "6hxC62JpyyXO8mrn7rJLPZ"
+                },
+                {
+                    "artist": "B Low",
+                    "title": "D Rose",
+                    "uri": "7xCu5G9HxdFRnAu13HicBo"
+                },
+                {
+                    "artist": "Thad Fiscella",
+                    "title": "For Ross",
+                    "uri": "1evke2oEMpZBdzMtWV9bjv"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Jovonn",
+                    "title": "Get Together - Jovonn's BND Remix",
+                    "uri": "1lTp8ikchOQxVotno0W1a1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jovonn",
+                    "title": "Get Together - Jovonn's BND Remix",
+                    "uri": "1lTp8ikchOQxVotno0W1a1"
+                },
+                {
+                    "artist": "DJ.M@R [Massive Breakz]",
+                    "title": "Get Together",
+                    "uri": "1cpxWlsVPLw2NZ8xMcBouE"
+                },
+                {
+                    "artist": "Keys & Copper",
+                    "title": "Get Together",
+                    "uri": "3ayRSO04ySro9PA5Qy9Z9S"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eagles Of Death Metal",
+                    "title": "Solid Gold",
+                    "uri": "5Q8R4280b0XqWLcF9TqFGk"
+                },
+                {
+                    "artist": "Wiz Khalifa",
+                    "title": "Solid Gold",
+                    "uri": "1ksEA06A8v38YvMTCoaOgh"
+                },
+                {
+                    "artist": "KDYN",
+                    "title": "Solid Ground",
+                    "uri": "6cvtG4MQU3F9CaQbpnrJdY"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Larry Heard",
+                    "title": "Andromeda One",
+                    "uri": "4GprRdn0xZnFS2Wdxaqrr6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Larry Heard",
+                    "title": "Andromeda One",
+                    "uri": "4GprRdn0xZnFS2Wdxaqrr6"
+                },
+                {
+                    "artist": "Larry Heard",
+                    "title": "You Rock Me - Long Version",
+                    "uri": "4706xUPwNxD438vIJ3ELxq"
+                },
+                {
+                    "artist": "Be Svendsen",
+                    "title": "Andromeda",
+                    "uri": "4pKcy4dZzal1PTAOBGWr8N"
+                }
+            ]
         }
     },
     "underground---black-w-ash-lauryn-22nd-july-2021": {

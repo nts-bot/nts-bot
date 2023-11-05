@@ -1221,7 +1221,40 @@
             "title": "Lonely Woman"
         }
     },
-    "the-last-playlist-1st-november-2023": {},
+    "the-last-playlist-1st-november-2023": {
+        "00": {
+            "artist": "Iggy Pop",
+            "title": "The Passenger"
+        },
+        "01": {
+            "artist": "The Ramones",
+            "title": "My Brain Is Hanging Upside Down"
+        },
+        "02": {
+            "artist": "Replacements",
+            "title": "Bastards Of The Young"
+        },
+        "03": {
+            "artist": "Jawbreaker",
+            "title": "Sluttering (May 4th)"
+        },
+        "04": {
+            "artist": "Joe Strummer & The Mescaleros",
+            "title": "Johnny Appleseed"
+        },
+        "05": {
+            "artist": "Green Day",
+            "title": "Scattered"
+        },
+        "06": {
+            "artist": "Mr T Experience",
+            "title": "Love American Style"
+        },
+        "07": {
+            "artist": "Tim Armstrong",
+            "title": "Wake Up"
+        }
+    },
     "the-last-playlist-20th-april-2021": {
         "00": {
             "artist": "Sunday Service Choir",
