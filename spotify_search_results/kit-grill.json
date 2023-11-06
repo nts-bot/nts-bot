@@ -29770,6 +29770,364 @@
             ]
         }
     },
+    "kit-grill-5th-november-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "MIKE",
+                    "title": "Let's Have a Ball - feat. mark william lewis",
+                    "uri": "6fwjSegbXvl5krMcRiAdsH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "mark william lewis",
+                    "title": "Cut Glass",
+                    "uri": "5P8VN5adokIyJaOSpipWrr"
+                },
+                {
+                    "artist": "mark william lewis",
+                    "title": "Cold Paris Vogue",
+                    "uri": "0ZquXqzUdelOil2nV3APqN"
+                },
+                {
+                    "artist": "mark william lewis",
+                    "title": "Painkillers",
+                    "uri": "30AImxMWxIqAaGSIRYbIgG"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Nick Cave & The Bad Seeds",
+                    "title": "Blind Lemon Jefferson",
+                    "uri": "4OSH261DiUVgCiNDobBSrZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nick Cave & The Bad Seeds",
+                    "title": "Jubilee Street",
+                    "uri": "7rbw06Ngndbs8X4iPdepES"
+                },
+                {
+                    "artist": "The Bad Seeds",
+                    "title": "Red Right Hand",
+                    "uri": "1e5XqFTNIrlgpXGjwPSykv"
+                },
+                {
+                    "artist": "Kylie Minogue",
+                    "title": "Where the Wild Roses Grow",
+                    "uri": "28lQMRZpJmEzCyVMMNTu4H"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nikky Santoro",
+                    "title": "Ziehen",
+                    "uri": "0xZZludWlzIECmBBrgUgbJ"
+                },
+                {
+                    "artist": "Miles Flowdavis",
+                    "title": "Nikky",
+                    "uri": "0fsdX5ZDkuK30oOpqhhUaA"
+                },
+                {
+                    "artist": "Bizarrap",
+                    "title": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+                    "uri": "03LfOYi0icz4souspZVVhq"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Kit Grill",
+                    "title": "Swimming in Honey",
+                    "uri": "59f2xIO0jAx4S5Fr4s5HIc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kit Grill",
+                    "title": "Backseat",
+                    "uri": "5AJal6JPUez5J6xV3v6pvZ"
+                },
+                {
+                    "artist": "Kit Grill",
+                    "title": "Night",
+                    "uri": "0a2l8HyKykTAskOXLpfjW4"
+                },
+                {
+                    "artist": "Kit Kruger",
+                    "title": "Fill Me Up",
+                    "uri": "2nu2FUASjPK5rpRu5pN8Xt"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Kit Grill",
+                    "title": "Country Boy",
+                    "uri": "2fNNe9sUD0g0LZkY4rNhi8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kit Grill",
+                    "title": "Country Boy",
+                    "uri": "2fNNe9sUD0g0LZkY4rNhi8"
+                },
+                {
+                    "artist": "Alan Jackson",
+                    "title": "Country Boy",
+                    "uri": "5RuCWf4bJC0rqA05b7nWfd"
+                },
+                {
+                    "artist": "Ella Langley",
+                    "title": "Country Boy's Dream Girl",
+                    "uri": "1UlwFwRrb4Kth3TwnjBAJV"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Shake Stew",
+                    "title": "Grilling Crickets in a Straw Hut, Pt. I",
+                    "uri": "6NWhkh0BT08uMYw9lWThmu"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Anja Lauvdal",
+                    "title": "A Swim",
+                    "uri": "2XiCPHhKFwYj01d661l4bS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Anja Lauvdal",
+                    "title": "A Swim",
+                    "uri": "2XiCPHhKFwYj01d661l4bS"
+                },
+                {
+                    "artist": "Anja Lauvdal",
+                    "title": "Darkkantate",
+                    "uri": "2mZ69uy7sVxeM5oSkxgGoL"
+                },
+                {
+                    "artist": "Anja Lehmann",
+                    "title": "Der Einzige",
+                    "uri": "6l795HU941FJrLDN2Y4pR5"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Helado Negro",
+                    "title": "Mist Universe",
+                    "uri": "2X5vfMyVHCYbegXweE4sfl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Helado Negro",
+                    "title": "Please Won’t Please",
+                    "uri": "6j9NTTjAJgf0i9RAj3h12q"
+                },
+                {
+                    "artist": "Helado Negro",
+                    "title": "Mitad De Tu Mundo",
+                    "uri": "6Pj0tLMKftsMs60yAFvPtJ"
+                },
+                {
+                    "artist": "Devendra Banhart",
+                    "title": "Love Song - Helado Negro Remix",
+                    "uri": "2PKJ88Ap4ebLFxJ4lwAGRF"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Clara!",
+                    "title": "Acero",
+                    "uri": "4ZJvyLZLPv5Vd3rsJFZIEO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Piano Melancolía",
+                    "title": "Clara",
+                    "uri": "3jhBRPaHlcPVzlvUkYqwmZ"
+                },
+                {
+                    "artist": "Heidi",
+                    "title": "08 - Clara kommt - Teil 09",
+                    "uri": "36J098VFQPy9PGBHW0Oezz"
+                },
+                {
+                    "artist": "MR TOUT LE MONDE",
+                    "title": "Clara",
+                    "uri": "2Dz3oUlWrTjn8cER8kPpCv"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Nelly Furtado",
+                    "title": "Say It Right - Radio Edit",
+                    "uri": "6PKTAsKbSBR7bY4J1fQuI2"
+                },
+                {
+                    "artist": "Nelly Furtado",
+                    "title": "Say It Right - Radio Edit",
+                    "uri": "3K3Q68sbzL9JsIij503gUk"
+                },
+                {
+                    "artist": "Nelly Furtado",
+                    "title": "Say It Right - Radio Edit",
+                    "uri": "4yACnNKMmBKQ1PFW73iv2D"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nelly Furtado",
+                    "title": "Say It Right - Radio Edit",
+                    "uri": "6PKTAsKbSBR7bY4J1fQuI2"
+                },
+                {
+                    "artist": "Nelly Furtado",
+                    "title": "Say It Right",
+                    "uri": "2aI21FnmY7TJVKeMaoQZ0t"
+                },
+                {
+                    "artist": "Nelly Furtado",
+                    "title": "Say It Right - Sped Up Remix",
+                    "uri": "3iWOZkQNDekZQqkiJqqeGy"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Jam City",
+                    "title": "Touch Me",
+                    "uri": "1fW5rB3CvtiwtdYqaLCIWC"
+                },
+                {
+                    "artist": "Jam City",
+                    "title": "Touch Me",
+                    "uri": "7qdETIUEvsFoIh8Ed3YDpk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jam City",
+                    "title": "Touch Me",
+                    "uri": "7qdETIUEvsFoIh8Ed3YDpk"
+                },
+                {
+                    "artist": "Jam City",
+                    "title": "Touch Me",
+                    "uri": "1fW5rB3CvtiwtdYqaLCIWC"
+                },
+                {
+                    "artist": "ShortRound",
+                    "title": "Touch Me",
+                    "uri": "0JO1cHEF4JzCNb8LE4eV4h"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Mietze Conte",
+                    "title": "bunnybunnybunny",
+                    "uri": "7FuyZvm8Bc4Cb56KPwWFpc"
+                },
+                {
+                    "artist": "Mietze Conte",
+                    "title": "bunnybunnybunny",
+                    "uri": "0nczUDR0B3VxYHaNT4ddj2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mietze Conte",
+                    "title": "bunnybunnybunny",
+                    "uri": "7FuyZvm8Bc4Cb56KPwWFpc"
+                },
+                {
+                    "artist": "Mietze Conte",
+                    "title": "bunnybunnybunny",
+                    "uri": "0nczUDR0B3VxYHaNT4ddj2"
+                },
+                {
+                    "artist": "Jacques Offenbach",
+                    "title": "Les contes d'Hoffmann (The Tales of Hoffmann): Tales of Hoffman: Intermezzo",
+                    "uri": "4o1OvQCVQDYjliqbyQotCR"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "rest symbol",
+                    "title": "6",
+                    "uri": "5PYrHZvB4T3tXaP2JdHlEp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "rest symbol",
+                    "title": "6",
+                    "uri": "5PYrHZvB4T3tXaP2JdHlEp"
+                },
+                {
+                    "artist": "Leona Boyd",
+                    "title": "Rest",
+                    "uri": "6qetTUm5h5LvvHCsALacJt"
+                },
+                {
+                    "artist": "Victor Perry",
+                    "title": "Rest",
+                    "uri": "6z5vNssm9xvPwCAWUfOu1A"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Henryk Górecki",
+                    "title": "Symphony No. 3, Op. 36: II. Lento e Largo - Tranquillissimo",
+                    "uri": "4iCn374fZg5UbGD1xFNo1m"
+                },
+                {
+                    "artist": "Henryk Górecki",
+                    "title": "Symphony No. 3, Op. 36: I. Lento - Sostenuto Tranquillo Ma Cantabile",
+                    "uri": "7Mx00Ye1ypcK1hToeKyrVl"
+                },
+                {
+                    "artist": "Henryk Górecki",
+                    "title": "Symphony No. 3, Op. 36: III. Lento - Cantablile Semplice",
+                    "uri": "5x7d8o3KPOBwZmwZvLIWQm"
+                }
+            ]
+        }
+    },
     "kit-grill-6th-january-2019": {
         "00": {
             "s0": [
@@ -32119,6 +32477,399 @@
                     "artist": "Rick Cuevas",
                     "title": "Don't Overthink It",
                     "uri": "4onshExt1KQNrovEnjOsrO"
+                }
+            ]
+        }
+    },
+    "kit-grill-8th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "The Phill & Friends Band",
+                    "title": "This Man",
+                    "uri": "1I73CTwuSTm5AxvY7nguOo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Phill & Friends Band",
+                    "title": "This Man",
+                    "uri": "1I73CTwuSTm5AxvY7nguOo"
+                },
+                {
+                    "artist": "Jeremy Camp",
+                    "title": "This Man",
+                    "uri": "1DvFQXIC1xr9DxlgbskgNu"
+                },
+                {
+                    "artist": "The Clark Family",
+                    "title": "This Man",
+                    "uri": "4JCqGOpm1JXud2Ph1QaAkc"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gwen Guthrie",
+                    "title": "Peanut Butter - Larry Levan Mix",
+                    "uri": "5kj7jXafHC97ldzAlwXArR"
+                },
+                {
+                    "artist": "Gwen Guthrie",
+                    "title": "Peanut Butter - Larry Levan Mix / Bonus Track",
+                    "uri": "0GVmRS7Zgg5fxrITQE1BYp"
+                },
+                {
+                    "artist": "DPR IAN",
+                    "title": "Peanut Butter & Tears",
+                    "uri": "1GLBjXrpDJl8qFyhSCJvrd"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Tricky",
+                    "title": "Broken Homes",
+                    "uri": "6vNGO3jgxsxvMCt1lGUNrA"
+                },
+                {
+                    "artist": "Tricky",
+                    "title": "Broken Homes",
+                    "uri": "1R6a31hgiWEOOVcl7mq9Ma"
+                },
+                {
+                    "artist": "Tricky",
+                    "title": "Broken Homes",
+                    "uri": "3FSW90ZwPeX0DrO0ZTk4Ld"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tricky",
+                    "title": "Broken Homes",
+                    "uri": "6vNGO3jgxsxvMCt1lGUNrA"
+                },
+                {
+                    "artist": "Tricky",
+                    "title": "Broken Homes",
+                    "uri": "1R6a31hgiWEOOVcl7mq9Ma"
+                },
+                {
+                    "artist": "W&W",
+                    "title": "Tricky Tricky",
+                    "uri": "1QR456HRYCI6gPlikrKrvH"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Normal Nada the Krakmaxter",
+                    "title": "Dedicado ao sem abrigo esperanca ou quando a esperanca morre",
+                    "uri": "29hfH3Rj9anxliKKJIWPSd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Normal Nada the Krakmaxter",
+                    "title": "Beautiful Caos",
+                    "uri": "4hBIRMnXkdtpyoQSM9LUfa"
+                },
+                {
+                    "artist": "Normal Nada the Krakmaxter",
+                    "title": "Batida 2 Dance",
+                    "uri": "6KMusX8vkD0NGd4UBDEzJD"
+                },
+                {
+                    "artist": "NoFxcks04",
+                    "title": "Normal",
+                    "uri": "4bDhwgrxus5gJ6JDX0OCH4"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Klara Lewis",
+                    "title": "Swimming",
+                    "uri": "2WFdVPZdSpUfBJTUmJ5eK0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Clara Louise",
+                    "title": "Meine Freiheit",
+                    "uri": "3fKnUZcSxT1j0Xl1bWSd4O"
+                },
+                {
+                    "artist": "Swimming Paul",
+                    "title": "Fading",
+                    "uri": "6a6ukMkLFXcWvqP0fdlDfZ"
+                },
+                {
+                    "artist": "Clara Louise",
+                    "title": "Halt mich noch einmal",
+                    "uri": "2Ij7JLWRi8hulvGP7gB4nN"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Steve Reich",
+                    "title": "Electric Counterpoint: III. Fast",
+                    "uri": "27WA4tdC9OuzjaDSaU9LQC"
+                },
+                {
+                    "artist": "Steve Reich",
+                    "title": "Electric Counterpoint: III. Fast",
+                    "uri": "3h64C58s1P6WsNu7ZMa0QY"
+                },
+                {
+                    "artist": "Steve Reich",
+                    "title": "Electric Counterpoint: II. Slow",
+                    "uri": "6Xcnbv35WPrlYPJ0TjbOF1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Steve Reich",
+                    "title": "Electric Counterpoint: III. Fast",
+                    "uri": "3h64C58s1P6WsNu7ZMa0QY"
+                },
+                {
+                    "artist": "Steve Reich",
+                    "title": "Electric Counterpoint: II. Slow",
+                    "uri": "6Xcnbv35WPrlYPJ0TjbOF1"
+                },
+                {
+                    "artist": "Steve Reich",
+                    "title": "Electric Counterpoint: III. —",
+                    "uri": "4Szyh4F2WDAJBCOsFZssIj"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Depeche Mode",
+                    "title": "Dream On - Dave Clarke Acoustic Version",
+                    "uri": "1Mnalv2oZfwPFNsW5HF2Bw"
+                },
+                {
+                    "artist": "Depeche Mode",
+                    "title": "Dream On - Dave Clarke Acoustic Version",
+                    "uri": "6jOEVgkogUSV4Z04lijdXu"
+                },
+                {
+                    "artist": "Depeche Mode",
+                    "title": "Dream On - Dave Clarke Acoustic Version",
+                    "uri": "1vxOy4YZ22nP51mRFPRsvI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Depeche Mode",
+                    "title": "Dream On - Dave Clarke Acoustic Version",
+                    "uri": "1vxOy4YZ22nP51mRFPRsvI"
+                },
+                {
+                    "artist": "Depeche Mode",
+                    "title": "Dream On - Dave Clarke Acoustic Version",
+                    "uri": "1Mnalv2oZfwPFNsW5HF2Bw"
+                },
+                {
+                    "artist": "Depeche Mode",
+                    "title": "Dream On - Dave Clarke Acoustic Version",
+                    "uri": "6jOEVgkogUSV4Z04lijdXu"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "jaso",
+                    "title": "Valley Of The Dogs (Every Night)",
+                    "uri": "7M5KUn3mZGfuHCGrwrkTPs"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Origin Unknown",
+                    "title": "Valley of the Shadows",
+                    "uri": "6fzwardfFs6sVfNA5R1ypt"
+                },
+                {
+                    "artist": "RÜFÜS DU SOL",
+                    "title": "Valley of the Yuccas - Live from Joshua Tree",
+                    "uri": "1ijfRk425gDo9RAV0U7BI6"
+                },
+                {
+                    "artist": "Lionheart",
+                    "title": "Valley of Death",
+                    "uri": "2H8auJObYeQVp0fAWl2ECG"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Ramuntcho Matta",
+                    "title": "All Those years",
+                    "uri": "4tUycNHofBDklBQkVBx3Hb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ramuntcho Matta",
+                    "title": "Hukai",
+                    "uri": "5ipYYaeTOE9bc91UHBZFHT"
+                },
+                {
+                    "artist": "Ramuntcho Matta",
+                    "title": "Zoique 2",
+                    "uri": "16dcUMRAwmcqIbL1U7ULFE"
+                },
+                {
+                    "artist": "Ramuntcho Matta",
+                    "title": "Gesti",
+                    "uri": "5yEV3JCtjdBajXe0lmL2qw"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Post Industrial Boys",
+                    "title": "Take A Walk On the Wild Side",
+                    "uri": "1XrCfKWPn7emC9MSUR1q8w"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Post Industrial Boys",
+                    "title": "Post Industrial Boys",
+                    "uri": "4QQSE1IaZ7nsM3AsI4b25H"
+                },
+                {
+                    "artist": "Post Industrial Boys",
+                    "title": "Morning Light",
+                    "uri": "2zaidxIfvaEoO5dVZi6u6V"
+                },
+                {
+                    "artist": "Post Industrial Boys",
+                    "title": "Next Time Maybe",
+                    "uri": "4DnZbxqXXrwBQoyj6FK5Kb"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Gary Davenport",
+                    "title": "Journey To Oaxaca",
+                    "uri": "08WuE9gre7crh7I1v5A9nP"
+                },
+                {
+                    "artist": "Gary Davenport",
+                    "title": "Journey To Oaxaca",
+                    "uri": "5U9Gge0MeP2TKI4lofdLtK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gary Davenport",
+                    "title": "Journey To Oaxaca",
+                    "uri": "5U9Gge0MeP2TKI4lofdLtK"
+                },
+                {
+                    "artist": "DJ Dave Davis",
+                    "title": "Transfiguration",
+                    "uri": "6Jau0MfCvQiJavRx480LPc"
+                },
+                {
+                    "artist": "Rev. Gary Davis",
+                    "title": "Death Don't Have No Mercy",
+                    "uri": "2uoOm55gLvLMALwXmKrwXc"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gábor Szabó",
+                    "title": "Azure Blue",
+                    "uri": "6leiWbHcfZjZJhy1BvM8tI"
+                },
+                {
+                    "artist": "Azure Bay",
+                    "title": "Lago Di Braies",
+                    "uri": "0Yl9HPod58oqOjCtv3OORC"
+                },
+                {
+                    "artist": "Azure Bay",
+                    "title": "Oscar",
+                    "uri": "7rX55dVG4HmtB5Un38tk7R"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Gil Scott-Heron",
+                    "title": "Pieces of a Man",
+                    "uri": "1erWvQ05qkF8j2vMUEAIMx"
+                },
+                {
+                    "artist": "Gil Scott-Heron",
+                    "title": "Pieces Of A Man",
+                    "uri": "6a3N0yoWjFDBoByoVaPjYj"
+                },
+                {
+                    "artist": "Gil Scott-Heron",
+                    "title": "Pieces of a Man",
+                    "uri": "49c6mxeyPgGwYr6Lo8KxlF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gil Scott-Heron",
+                    "title": "Pieces of a Man",
+                    "uri": "1erWvQ05qkF8j2vMUEAIMx"
+                },
+                {
+                    "artist": "Gil Scott-Heron",
+                    "title": "Lady Day and John Coltrane",
+                    "uri": "7aLn70gMnbTCVGoIro42Kd"
+                },
+                {
+                    "artist": "Gil Scott-Heron",
+                    "title": "The Revolution Will Not Be Televised",
+                    "uri": "7ni78Vjslqo2VxiDOahYlV"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Satsuki Shibano",
+                    "title": "Ce que dit la petite princesse des tulipes (Menus propos enfantins) 1913",
+                    "uri": "3fuaOAH0MOK6Mo3BURJGZD"
+                },
+                {
+                    "artist": "Erik Satie",
+                    "title": "Menus propos enfantines: Ce que dit la petite princesse des Tulipes. Tres lent",
+                    "uri": "70fYilI9Ala9RoEvIDnYZX"
+                },
+                {
+                    "artist": "Vangelis",
+                    "title": "La petite fille de la mer - Remastered",
+                    "uri": "2lB8swV3T9yiXyU6OnZ3tY"
                 }
             ]
         }
