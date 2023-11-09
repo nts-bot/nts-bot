@@ -1,5 +1,192 @@
 {
-    "ritmo-santanero-12th-september-2023": {},
+    "ritmo-santanero-10th-october-2023": {
+        "00": {
+            "artist": "Unknown Artist",
+            "title": "Cumbia Egipcia"
+        },
+        "01": {
+            "artist": "Unknown Artist",
+            "title": "La Vaca"
+        },
+        "02": {
+            "artist": "Unknown Artist",
+            "title": "Unknown Track"
+        },
+        "03": {
+            "artist": "Unknown Artist",
+            "title": "Cumbia Kory"
+        },
+        "04": {
+            "artist": "Unknown Artist",
+            "title": "Unknown Track"
+        },
+        "05": {
+            "artist": "Unknown Artist",
+            "title": "Cartagena"
+        },
+        "06": {
+            "artist": "Unknown Artist",
+            "title": "La Cosita"
+        },
+        "07": {
+            "artist": "Unknown Artist",
+            "title": "Cumbia Del Bambu"
+        },
+        "08": {
+            "artist": "Ferrocarril",
+            "title": "Unknown Track"
+        },
+        "09": {
+            "artist": "Unknown Artist",
+            "title": "Cumbia Cale"
+        },
+        "10": {
+            "artist": "Unknown Artist",
+            "title": "Cumbia Incaica"
+        },
+        "11": {
+            "artist": "Unknown Artist",
+            "title": "Cumbia Negra"
+        },
+        "12": {
+            "artist": "Gaita Morena",
+            "title": "Unknown Track"
+        },
+        "13": {
+            "artist": "Unknown Artist",
+            "title": "Unknown Track"
+        },
+        "14": {
+            "artist": "Unknown Artist",
+            "title": "Corazon Enamorado"
+        },
+        "15": {
+            "artist": "Unknown Artist",
+            "title": "Cumbia De Mi Tierra"
+        },
+        "16": {
+            "artist": "Unknown Artist",
+            "title": "Unknown Track"
+        },
+        "17": {
+            "artist": "Las Tres Polleras",
+            "title": "Unknown Track"
+        },
+        "18": {
+            "artist": "Piedad Elena",
+            "title": "Unknown Track"
+        },
+        "19": {
+            "artist": "Unknown Artist",
+            "title": "Cumbia Del Puerto"
+        },
+        "20": {
+            "artist": "Cafetero",
+            "title": "Unknown Track"
+        },
+        "21": {
+            "artist": "Unknown Artist",
+            "title": "Cumbia En America"
+        },
+        "22": {
+            "artist": "Unknown Artist",
+            "title": "Cumbia Bonita"
+        }
+    },
+    "ritmo-santanero-12th-september-2023": {
+        "00": {
+            "artist": "Pedro Laza",
+            "title": "Navidad Negra"
+        },
+        "01": {
+            "artist": "Climaco Sarmiento",
+            "title": "Noche de Estrellas"
+        },
+        "02": {
+            "artist": "Pacheco Y Sus Muchachos",
+            "title": "Cumbia Panoramica"
+        },
+        "03": {
+            "artist": "Combo Sampuesano",
+            "title": "Marquetalia"
+        },
+        "04": {
+            "artist": "Marimba Sonora Tropical",
+            "title": "Tulueñita"
+        },
+        "05": {
+            "artist": "Gilberto Torres",
+            "title": "Cumbia En La Sabana"
+        },
+        "06": {
+            "artist": "Las Campesinas De Baru",
+            "title": "La Fiesta Del Pescador"
+        },
+        "07": {
+            "artist": "Los Traviesos Del Ritmo",
+            "title": "Cumbia Lunera"
+        },
+        "08": {
+            "artist": "Los Piratas De San Felipe",
+            "title": "La Niña"
+        },
+        "09": {
+            "artist": "Lito Barrientos",
+            "title": "Oye Mi Cumbia"
+        },
+        "10": {
+            "artist": "Rafael Montes",
+            "title": "Zoila Rosa (Año Nuevo)"
+        },
+        "11": {
+            "artist": "Conjunto Libertad De Santiago De Chuco",
+            "title": "Mi Morena"
+        },
+        "12": {
+            "artist": "Longino Quiñonez",
+            "title": "Una Pena"
+        },
+        "13": {
+            "artist": "Tito Romero Y Su Conjunto",
+            "title": "Caraqueña"
+        },
+        "14": {
+            "artist": "Orquesta Hermano Lechuga",
+            "title": "Marina"
+        },
+        "15": {
+            "artist": "Teddy Y Su Combo",
+            "title": "La Pollerona"
+        },
+        "16": {
+            "artist": "Trio Colombia",
+            "title": "Cumbia Del Amor"
+        },
+        "17": {
+            "artist": "Leonel Ospina",
+            "title": "Cumbia Marina"
+        },
+        "18": {
+            "artist": "Conjunto Aires Hispanos",
+            "title": "Se Va La Caravana"
+        },
+        "19": {
+            "artist": "Los Imperiales",
+            "title": "Tus Desprecios"
+        },
+        "20": {
+            "artist": "Hector Martinez Y Su Conjunto",
+            "title": "El Rayon "
+        },
+        "21": {
+            "artist": "Marciano Torres",
+            "title": "Se Acaba El Mundo "
+        },
+        "22": {
+            "artist": "Cuarteto Continental",
+            "title": "Cumbia Del Madedero"
+        }
+    },
     "ritmo-santanero-15th-august-2023": {
         "00": {
             "artist": "Cumbia Tropical",
@@ -153,5 +340,6 @@
             "artist": "Cumbia Popular",
             "title": "Orq Barron"
         }
-    }
+    },
+    "ritmo-santanero-7th-november-2023": {}
 }

@@ -12111,6 +12111,383 @@
             ]
         }
     },
+    "tash-lc-8th-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Holly Humberstone",
+                    "title": "Scarlett",
+                    "uri": "6dIU41Lx5NqUncAnPOJDco"
+                },
+                {
+                    "artist": "Holly Humberstone",
+                    "title": "Scarlett",
+                    "uri": "5UqTWnG7YZAbj1SYMvnGsU"
+                },
+                {
+                    "artist": "Periphery",
+                    "title": "Scarlet",
+                    "uri": "3oKd79SzqVkiel75QUZxAy"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Groove Boys Project",
+                    "title": "Drop The Beat",
+                    "uri": "6BgFXGimmkxSneql1Gg4Tg"
+                },
+                {
+                    "artist": "Groove Boys Project",
+                    "title": "Drop The Beat",
+                    "uri": "4BqXxvbg2GMERml7zfQbI8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Groove Boys Project",
+                    "title": "Drop The Beat",
+                    "uri": "6BgFXGimmkxSneql1Gg4Tg"
+                },
+                {
+                    "artist": "Groove Boys Project",
+                    "title": "Drop The Beat",
+                    "uri": "4BqXxvbg2GMERml7zfQbI8"
+                },
+                {
+                    "artist": "Zatox",
+                    "title": "Drop The Bomb",
+                    "uri": "4yU6ZZmBIffFRe8BXJxmkc"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dan Stevens",
+                    "title": "Evermore",
+                    "uri": "3Yn97I3qIj7Px0Bi4rkD2q"
+                },
+                {
+                    "artist": "Rich Vom Dorf",
+                    "title": "Evermore",
+                    "uri": "1MC3Qkc2oC0ISlyrA1YefY"
+                },
+                {
+                    "artist": "Jesper Kyd",
+                    "title": "Evermore",
+                    "uri": "1sUvP2b9yQ03dNP4vMUjH0"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alex Alexander",
+                    "title": "Wasting Time - Sped Up",
+                    "uri": "7fzdq3ZWKZlOEobUujTgq1"
+                },
+                {
+                    "artist": "Aexcit",
+                    "title": "Wasting My Time",
+                    "uri": "07TOEQZDFHYIc1qYcKzMxF"
+                },
+                {
+                    "artist": "Metallica",
+                    "title": "Wasting My Hate",
+                    "uri": "3FkyxKotYLTeM2LJu1x2gU"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Blessing Offor",
+                    "title": "Brighter Days",
+                    "uri": "7yfo4vBrhxBDO9IkJz8zkV"
+                },
+                {
+                    "artist": "Cajmere",
+                    "title": "Brighter Days - Marco Lys Remix",
+                    "uri": "7IJP1vVnqU5mV2hYUbZrlX"
+                },
+                {
+                    "artist": "Blessing Offor",
+                    "title": "Brighter Days",
+                    "uri": "34XwFfq1XGOF0HHyVQl1nx"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "96 Vibe",
+                    "title": "Sudando - Extended Mix",
+                    "uri": "2YYTOusk2akESSSbLZPoMN"
+                },
+                {
+                    "artist": "Govind Vasantha",
+                    "title": "96 (Theme) - From \"96\"",
+                    "uri": "0WTNNRu2BvmMA0nqXns1M6"
+                },
+                {
+                    "artist": "CKY",
+                    "title": "96 Quite Bitter Beings",
+                    "uri": "7AimHQrOUoUTYbVX87D3Zl"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "GIDEÖN",
+                    "title": "Study War No More",
+                    "uri": "24ZlVtkULAdyoWaeZcHQOO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Philipp Fabian Kölmel",
+                    "title": "Gideon's Promise",
+                    "uri": "71Upm5IkS6P6I8vxCyDkVN"
+                },
+                {
+                    "artist": "Gideon",
+                    "title": "Take Off",
+                    "uri": "2koXJ3c0aaPczzRkZ7WmZW"
+                },
+                {
+                    "artist": "Gideon",
+                    "title": "Cursed",
+                    "uri": "7oHcyBXv4E1Bf8IMkrKORG"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Baka G",
+                    "title": "Gimme",
+                    "uri": "27uF2tLGLMSw5ow3tELZZZ"
+                },
+                {
+                    "artist": "Baka G",
+                    "title": "Gimme",
+                    "uri": "6g0otiiJgcgCR92HcKhs2k"
+                },
+                {
+                    "artist": "Baka Not Nice",
+                    "title": "Gimme That Work",
+                    "uri": "0j6Zd4442OGpZHsjQDH1rA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Baka G",
+                    "title": "Gimme",
+                    "uri": "27uF2tLGLMSw5ow3tELZZZ"
+                },
+                {
+                    "artist": "Baka G",
+                    "title": "Cooking Up",
+                    "uri": "0n94wJUljNAp0KvFplWYKM"
+                },
+                {
+                    "artist": "桐生一馬(黒田崇矢)",
+                    "title": "Bakamitai - Taxi Driver Edition",
+                    "uri": "4xXu9UO2qdBotUOfqru2UC"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pascal Moscheni",
+                    "title": "Toyota Mehari",
+                    "uri": "1lnWwayJ9Xo96IsQcOAuxe"
+                },
+                {
+                    "artist": "Pascal Mosconi",
+                    "title": "Fou de toi",
+                    "uri": "0ZD8c3Byj1w25CaneHZXMe"
+                },
+                {
+                    "artist": "Ron Hagen",
+                    "title": "Take You There",
+                    "uri": "482KE03XYCAhH92HQ9o49B"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Holly Humberstone",
+                    "title": "Scarlett",
+                    "uri": "6dIU41Lx5NqUncAnPOJDco"
+                },
+                {
+                    "artist": "Holly Humberstone",
+                    "title": "Scarlett",
+                    "uri": "5UqTWnG7YZAbj1SYMvnGsU"
+                },
+                {
+                    "artist": "Periphery",
+                    "title": "Scarlet",
+                    "uri": "3oKd79SzqVkiel75QUZxAy"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Beauty School Dropout",
+                    "title": "scarlett letter",
+                    "uri": "56kNbVzzYwgLAwCG4y0C7L"
+                },
+                {
+                    "artist": "The Scarlet Opera",
+                    "title": "Riot",
+                    "uri": "2JVYdQafLX5jbr6IlQ1KIx"
+                },
+                {
+                    "artist": "Periphery",
+                    "title": "Scarlet",
+                    "uri": "3oKd79SzqVkiel75QUZxAy"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Capcom Sound Team",
+                    "title": "Guile's Theme",
+                    "uri": "29drzlJamuYPBRh1LPpXM4"
+                },
+                {
+                    "artist": "Guille Placencia",
+                    "title": "What a Bam",
+                    "uri": "7wCrQDEDZDH7TrB9OPEbmv"
+                },
+                {
+                    "artist": "Guilliaume Om",
+                    "title": "Unité",
+                    "uri": "1XNuWRKQ8EoadsOq0nGtuI"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sainté",
+                    "title": "Stylin'",
+                    "uri": "0SLE0Ym3WhxfHSDR7Qd5pf"
+                },
+                {
+                    "artist": "Club Angel",
+                    "title": "Stylin'",
+                    "uri": "2o04z6k2tjf2eaFVNQ44dj"
+                },
+                {
+                    "artist": "M Dot R",
+                    "title": "Style and Pattern",
+                    "uri": "6QkgBMYK65ePT4cwLtwuVp"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "The Trip",
+                    "title": "For the Record",
+                    "uri": "05kgXiO6R62VhhcieYb0mX"
+                },
+                {
+                    "artist": "The Nature Soundscapes",
+                    "title": "Nature Sounds for Mindful Breathing, Spa Treatments and Road Trips, Pt. 79",
+                    "uri": "5z13sCs8LPZcF5z8MIGYwA"
+                },
+                {
+                    "artist": "The Nature Soundscapes",
+                    "title": "Nature Sounds for Mindful Breathing, Spa Treatments and Road Trips, Pt. 73",
+                    "uri": "6s8aAq0kuDvxWEPcRfcZV0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Trip",
+                    "title": "For the Record",
+                    "uri": "05kgXiO6R62VhhcieYb0mX"
+                },
+                {
+                    "artist": "Still Corners",
+                    "title": "The Trip - 2023 Remaster",
+                    "uri": "1YM3cVri0CmSX7c71gwALR"
+                },
+                {
+                    "artist": "Jeremiahbgv",
+                    "title": "For The Record",
+                    "uri": "2lQoSdS4KUoYyOM1uP9kCn"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Sally C",
+                    "title": "Hit It",
+                    "uri": "5tYuSnIGErv4EJdxf4RzNE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sally C",
+                    "title": "Hit It",
+                    "uri": "5tYuSnIGErv4EJdxf4RzNE"
+                },
+                {
+                    "artist": "The Marshall Project",
+                    "title": "Sally Can Wait",
+                    "uri": "4F1uuyf5O6YDJXSicZoQHP"
+                },
+                {
+                    "artist": "HIIT BPM",
+                    "title": "Bring Sally Up - Workout",
+                    "uri": "6IB7b4cXvYPhQsQHdmn1uE"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Rolling Stones",
+                    "title": "Scarlet",
+                    "uri": "0ElIvLpQpbqZTZs98O4Q1V"
+                },
+                {
+                    "artist": "Grateful Dead",
+                    "title": "Scarlet Begonias - 2013 Remaster",
+                    "uri": "3euDGpS2R0NC2Xssqxohva"
+                },
+                {
+                    "artist": "The Scarlet Opera",
+                    "title": "Riot",
+                    "uri": "2JVYdQafLX5jbr6IlQ1KIx"
+                }
+            ]
+        }
+    },
     "tash-lc-9th-november-2022": {
         "00": {
             "s0": "",

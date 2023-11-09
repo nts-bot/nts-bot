@@ -1,4 +1,302 @@
 {
+    "ritmo-santanero-10th-october-2023": {
+        "00": {
+            "artist": "Ondatrópica",
+            "ratio": -1,
+            "title": "Cumbia Espacial",
+            "trackid": "36573bwqNlXfYksha3cVRP",
+            "uri": ""
+        },
+        "01": {
+            "artist": "Canciones Para Niños",
+            "ratio": -1,
+            "title": "La Vaca Lola",
+            "trackid": "2LcdTbOHqpd25Nx5UHoT71",
+            "uri": ""
+        },
+        "02": {
+            "artist": "Unknown Artist",
+            "ratio": -1,
+            "title": "Unknown Track",
+            "trackid": "47FlbrwMWmaaC87mkVbwcZ",
+            "uri": ""
+        },
+        "03": {
+            "artist": "Banda Kora",
+            "ratio": -1,
+            "title": "Destino Cruel",
+            "trackid": "0cTgLz56iCc2ZgV1Kv0q9r",
+            "uri": ""
+        },
+        "04": {
+            "artist": "Unknown Artist",
+            "ratio": -1,
+            "title": "Unknown Track",
+            "trackid": "47FlbrwMWmaaC87mkVbwcZ",
+            "uri": ""
+        },
+        "05": {
+            "artist": "Fonseca",
+            "ratio": -1,
+            "title": "Cartagena",
+            "trackid": "6TwaKdbIpeFN9BOL5SqpmE",
+            "uri": ""
+        },
+        "06": {
+            "artist": "Logi K",
+            "ratio": -1,
+            "title": "Cotiza",
+            "trackid": "4y071OL13OMSVGuOq7wup8",
+            "uri": ""
+        },
+        "07": {
+            "artist": "El Pel",
+            "ratio": -1,
+            "title": "Bamboo",
+            "trackid": "2AK8kyq8K9OpoB2lT0H86q",
+            "uri": ""
+        },
+        "08": {
+            "artist": "Sonido Samurai",
+            "ratio": 5,
+            "title": "Los Ferrocarriles",
+            "trackid": "2uTYwuqTHcSwP8CqOFp5ak"
+        },
+        "09": {
+            "artist": "Grupo Karrussel",
+            "ratio": -1,
+            "title": "Cumbia Calena",
+            "trackid": "0ESzEHzygFUcBO7IqsMGsr",
+            "uri": ""
+        },
+        "10": {
+            "artist": "Los Invasores de Progreso",
+            "ratio": -1,
+            "title": "Cumbia Inca",
+            "trackid": "0CizGUkoPDmf99UgomTC5v",
+            "uri": ""
+        },
+        "11": {
+            "artist": "Grupo Agua Nueva Tropical",
+            "ratio": -1,
+            "title": "Cumbia Negra",
+            "trackid": "69EYSJQFqtmKCnRJrLLYg7",
+            "uri": ""
+        },
+        "12": {
+            "artist": "Distrito Cumbiambero",
+            "ratio": 3,
+            "title": "Gaita No 1",
+            "trackid": "5mdAjLcaJrP1xQ9JNSz9XJ"
+        },
+        "13": {
+            "artist": "Unknown Artist",
+            "ratio": -1,
+            "title": "Unknown Track",
+            "trackid": "47FlbrwMWmaaC87mkVbwcZ",
+            "uri": ""
+        },
+        "14": {
+            "artist": "Rumbo Tumba",
+            "ratio": -1,
+            "title": "Corazón Amanecido",
+            "trackid": "5HgZ1BSj5hdaPZwpiCaA02",
+            "uri": ""
+        },
+        "15": {
+            "artist": "Musical Gigantes",
+            "ratio": -1,
+            "title": "Cumbia de mi Tierra",
+            "trackid": "2DL4gLAmJY2gvtE3HKu6v4",
+            "uri": ""
+        },
+        "16": {
+            "artist": "Unknown Artist",
+            "ratio": -1,
+            "title": "Unknown Track",
+            "trackid": "47FlbrwMWmaaC87mkVbwcZ",
+            "uri": ""
+        },
+        "17": {
+            "artist": "Edgar Rodarte",
+            "ratio": 3,
+            "title": "Las Tres Piedritas",
+            "trackid": "5ds70fH7L5dbWQjAUNPQ2V"
+        },
+        "18": {
+            "artist": "Alex Cuba",
+            "ratio": 4,
+            "title": "Piedad de Mi",
+            "trackid": "0CHMsQEVYYfioSiOtGc9Ah"
+        },
+        "19": {
+            "artist": "Nicola Cruz",
+            "ratio": -1,
+            "title": "Cumbia del Olvido",
+            "trackid": "1oCHMNWzKJdwdwjsPMjXf3",
+            "uri": ""
+        },
+        "20": {
+            "artist": "Los Sonors",
+            "ratio": 4,
+            "title": "El Cafetero",
+            "trackid": "5gvcr5hJBvBstWJg9eoYYq"
+        },
+        "21": {
+            "artist": "Los Mirlos",
+            "ratio": -1,
+            "title": "Cumbia Amazonica",
+            "trackid": "1JBbW6oVeEZzT9hOZXVJVv",
+            "uri": ""
+        },
+        "22": {
+            "artist": "Grupo Los Bonitos de Puebla",
+            "ratio": -1,
+            "title": "CUMBIA BONITA",
+            "trackid": "3itw91yarPsSCs2ubHFws2",
+            "uri": ""
+        }
+    },
+    "ritmo-santanero-12th-september-2023": {
+        "00": {
+            "artist": "Pedro Laza Y Sus Pelayeros",
+            "ratio": 9,
+            "title": "Navidad Negra",
+            "trackid": "0EZntlxPwi97Xx2m9d1NBn"
+        },
+        "01": {
+            "artist": "Climaco Sarmiento Y Su Orquesta",
+            "ratio": 9,
+            "title": "Noche de Estrellas",
+            "trackid": "18apPmM8ymnXu4Xy975stM"
+        },
+        "02": {
+            "artist": "Pacheco Satulio",
+            "ratio": 3,
+            "title": "Amistad Y Familia",
+            "trackid": "3XoZK5cPKPE0QgOBTyN3lU"
+        },
+        "03": {
+            "artist": "Combo Sampuesano",
+            "ratio": 9,
+            "title": "Marquetalia",
+            "trackid": "6XSWCfuxOdIvGIzkyd9PDM"
+        },
+        "04": {
+            "artist": "Marimba Sonora Azul",
+            "ratio": 3,
+            "title": "Oasis",
+            "trackid": "70hn1zNmyFqaIAH40VcwJn"
+        },
+        "05": {
+            "artist": "Gilberto Santa Rosa",
+            "ratio": 4,
+            "title": "Conciencia",
+            "trackid": "67AiNnqm2FH8jlZGiQUU0g"
+        },
+        "06": {
+            "artist": "Los Campesinos de Barú",
+            "ratio": 9,
+            "title": "La Fiesta del Pescador",
+            "trackid": "2nElILllZdBstwG73opTF7"
+        },
+        "07": {
+            "artist": "Traviezoz De Olancho",
+            "ratio": 5,
+            "title": "Cielo Azul Cielo Nublado",
+            "trackid": "1O2wuUdktXRYGb0imFuw9I"
+        },
+        "08": {
+            "artist": "Pacho Galán y los Piratas de San Felipe",
+            "ratio": 9,
+            "title": "La Niña",
+            "trackid": "4cEo8gGEJkDKj4jqqI76o1"
+        },
+        "09": {
+            "artist": "Lito Barrientos",
+            "ratio": 9,
+            "title": "Oye Mi Cumbia",
+            "trackid": "0IvrAwR86Rsm89UnflhZ7Y"
+        },
+        "10": {
+            "artist": "Rafaela Moreno",
+            "ratio": 5,
+            "title": "La Cascata",
+            "trackid": "1BZLT1iTsTy1IpstmYE6PI"
+        },
+        "11": {
+            "artist": "Luis y Julian",
+            "ratio": 3,
+            "title": "Mi Morena",
+            "trackid": "46wwYEvZuKc2gA4nbaFBC6"
+        },
+        "12": {
+            "artist": "Grupo Cimarron De Cuba",
+            "ratio": 4,
+            "title": "Longina",
+            "trackid": "2pTEW04TiuQbQYfqZtchYK"
+        },
+        "13": {
+            "artist": "Tito Rojas",
+            "ratio": 4,
+            "title": "Condename A Tu Amor",
+            "trackid": "2C40I3YZiqsNlpBxQ4O1y7"
+        },
+        "14": {
+            "artist": "ORQUESTA BENDICION",
+            "ratio": 4,
+            "title": "Heme Aquí",
+            "trackid": "2cd1B8YpOGNOARLgbjFSJm"
+        },
+        "15": {
+            "artist": "Gladys \"La bomba tucumana\"",
+            "ratio": 5,
+            "title": "La Pollera Amarilla",
+            "trackid": "03G43mO3a34IGIsyDd4sj5"
+        },
+        "16": {
+            "artist": "Trío Colombia",
+            "ratio": 9,
+            "title": "Cumbia del Amor",
+            "trackid": "42gA8UiWSniTHWeF9xfjj1"
+        },
+        "17": {
+            "artist": "Leonel Ospina",
+            "ratio": 9,
+            "title": "Cumbia Marina (1964)",
+            "trackid": "5jWNUZ441GG0UhVEqJRHNi"
+        },
+        "18": {
+            "artist": "La Caravane Passe",
+            "ratio": 5,
+            "title": "Le chien",
+            "trackid": "32LlDiNgjYcywhhwrOfCd9"
+        },
+        "19": {
+            "artist": "Los Imperiales",
+            "ratio": 9,
+            "title": "Tus Desprecios",
+            "trackid": "6fOAv7PWUktQ6mZGQ7ccqd"
+        },
+        "20": {
+            "artist": "El Markobeliko",
+            "ratio": 3,
+            "title": "El Rayaz",
+            "trackid": "0baHYJG0tXNFOmXDVyCQLT"
+        },
+        "21": {
+            "artist": "Marciano Torres y su Conjunto",
+            "ratio": 9,
+            "title": "Se Acaba el Mundo",
+            "trackid": "2LHJHB8NNh8AButO0Z0Tcb"
+        },
+        "22": {
+            "artist": "Cuarteto Continental de Alberto Maraví",
+            "ratio": 4,
+            "title": "Llorando Se Fue \"Lambada\"",
+            "trackid": "2X5nEYIzulPNs3abgszxXH"
+        }
+    },
     "ritmo-santanero-15th-august-2023": {
         "00": {
             "artist": "Grupo Enamorado De Angel Jimenez",

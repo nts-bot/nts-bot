@@ -1,4 +1,714 @@
 {
+    "rio-doce-11th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Luedji Luna",
+                    "title": "Uanga",
+                    "uri": "51LlFApXTFlWQWCKIdN2Zf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Luedji Luna",
+                    "title": "Uanga",
+                    "uri": "51LlFApXTFlWQWCKIdN2Zf"
+                },
+                {
+                    "artist": "Luedji Luna",
+                    "title": "Asas",
+                    "uri": "0VyCznZeMBOKcYAbg5tBn0"
+                },
+                {
+                    "artist": "Luedji Luna",
+                    "title": "Pele",
+                    "uri": "0PtF5b2htPW0SQ53ouE6VP"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Sandra De Sá",
+                    "title": "Olhos Coloridos",
+                    "uri": "45XopGhwYSgooiewaZNsSd"
+                },
+                {
+                    "artist": "Sandra De Sá",
+                    "title": "Olhos Coloridos",
+                    "uri": "6UmtQAqX1dKjghEGZkyb19"
+                },
+                {
+                    "artist": "Sandra De Sá",
+                    "title": "Olhos Coloridos",
+                    "uri": "5i4IUT45oHOwpRbjBhnaKC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sandra De Sá",
+                    "title": "Olhos Coloridos",
+                    "uri": "45XopGhwYSgooiewaZNsSd"
+                },
+                {
+                    "artist": "Sandra De Sá",
+                    "title": "Olhos Coloridos",
+                    "uri": "6UmtQAqX1dKjghEGZkyb19"
+                },
+                {
+                    "artist": "Sandra Hesch",
+                    "title": "Welt Ohne Dich",
+                    "uri": "0syXVKe7WAHa8VmA3ftDTM"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Oumou Sangaré",
+                    "title": "Wassulu Don",
+                    "uri": "3qYUNXjAEotwNyNfTyel5D"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Oumou Sangaré",
+                    "title": "Wassulu Don",
+                    "uri": "3qYUNXjAEotwNyNfTyel5D"
+                },
+                {
+                    "artist": "Oumou Sangaré",
+                    "title": "Mogoya",
+                    "uri": "3aPOQ6TdIuAW8m1KZid1Hv"
+                },
+                {
+                    "artist": "Aya Nakamura",
+                    "title": "Oumou Sangaré",
+                    "uri": "7tnDhHMCHWjwIsbVg7ex9S"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Viral Beatz",
+                    "title": "Tiembla",
+                    "uri": "46oLbD1YyBhoQQgAABiNCs"
+                },
+                {
+                    "artist": "Viral Beatz",
+                    "title": "Baila",
+                    "uri": "3IS65yr2CamXSOTqXWlUD8"
+                },
+                {
+                    "artist": "Viral Beatz",
+                    "title": "Moyeta",
+                    "uri": "779qUqYg99ItWsPf88BzrD"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Tassia Reis",
+                    "title": "Inspira - Intro",
+                    "uri": "4qHgAGf1pWeiR2YEvghzdh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tassia Zappia",
+                    "title": "You Don't Want Me",
+                    "uri": "2nc452OXQtAGdDDcKBCWpl"
+                },
+                {
+                    "artist": "REYSIS",
+                    "title": "Tasi",
+                    "uri": "2ydBAmSGC32VDh34Libi1G"
+                },
+                {
+                    "artist": "Tasya Rosmala",
+                    "title": "Tersisih",
+                    "uri": "0Np0fzPHywdqg2XBIdRDuL"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Banda Nova Malandragem",
+                    "title": "Seu Quinócio - Instrumental",
+                    "uri": "660kha6T6I1sAdWjj5hYwT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Banda Nova Malandragem",
+                    "title": "Seu Quinócio - Instrumental",
+                    "uri": "660kha6T6I1sAdWjj5hYwT"
+                },
+                {
+                    "artist": "Banda Nova Malandragem",
+                    "title": "Seu Quinócio",
+                    "uri": "2VtLQsje7QEr5eHRzmHa0L"
+                },
+                {
+                    "artist": "Bezerra Da Silva",
+                    "title": "Malandragem dá um Tempo",
+                    "uri": "0rImThhPOV8wtgeyltD6no"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Naná Vasconcelos e Itamar Assumpção",
+                    "title": "Cabelo duro",
+                    "uri": "31WN7jzCR1hyEDq99ZvSyJ"
+                },
+                {
+                    "artist": "Naná Vasconcelos e Itamar Assumpção",
+                    "title": "Fim de festa",
+                    "uri": "6I2uH8JS7STtEi9t66805O"
+                },
+                {
+                    "artist": "Itamar Assumpção",
+                    "title": "Apaixonite Aguda",
+                    "uri": "0q5j4KSfI6795TsdfETrdW"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chico Science",
+                    "title": "Salustiano Song (Instrumental)",
+                    "uri": "781ljfoxoLPSH724hi5jTg"
+                },
+                {
+                    "artist": "Chico Science",
+                    "title": "Salustiano Song (Instrumental) - Ao Vivo",
+                    "uri": "5EsUJLquzTzbIfBhbtakCC"
+                },
+                {
+                    "artist": "Chico Science",
+                    "title": "Maracatu Atômico",
+                    "uri": "3cR6v2bOwqi7znC8P5Vs1T"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rachel Reis",
+                    "title": "Lovezinho",
+                    "uri": "0k1iYoftTitXVTP2QgYjzk"
+                },
+                {
+                    "artist": "Rachel Reis",
+                    "title": "Lovezinho",
+                    "uri": "7iHXEw8MixfAK0PGTcihAN"
+                },
+                {
+                    "artist": "Rachel Reis",
+                    "title": "Maresia",
+                    "uri": "14MmpI6ZOB9QaetEIPSzqB"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Anelis Assumpção",
+                    "title": "Neverland",
+                    "uri": "1bWVaEuUatKu7enm7AAdZ2"
+                },
+                {
+                    "artist": "Anelis Assumpção",
+                    "title": "Inconcluso",
+                    "uri": "5jYmiD7EK4W14ZQLOzVb9z"
+                },
+                {
+                    "artist": "Anelis Assumpção",
+                    "title": "Eu Gosto Assim",
+                    "uri": "6PwDytZpnQNEy87nvCjZYQ"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Letieres Leite",
+                    "title": "Coisa nº 1",
+                    "uri": "2boZgPw06fHpFMzkyM1y20"
+                },
+                {
+                    "artist": "Letieres Leite",
+                    "title": "Coisa nº 9 - Part. Marcelo Martins, saxofone tenor",
+                    "uri": "5yqCoNkv7D34ZI1EjkiMRK"
+                },
+                {
+                    "artist": "Letieres Leite",
+                    "title": "Coisa nº 7",
+                    "uri": "4cbofuQiptR7JxYbZbNd21"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "BaianaSystem",
+                    "title": "Redoma (Adubada)",
+                    "uri": "26jmuQ1hWOEZa5YQoMB5lP"
+                },
+                {
+                    "artist": "BaianaSystem",
+                    "title": "Redoma",
+                    "uri": "2MwJYrmAqLPOxd3pSLNdYb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "BaianaSystem",
+                    "title": "Redoma",
+                    "uri": "2MwJYrmAqLPOxd3pSLNdYb"
+                },
+                {
+                    "artist": "Barbatuques",
+                    "title": "Baianá",
+                    "uri": "4bndkI1TTh7itdsyixtDoD"
+                },
+                {
+                    "artist": "Louis Clark",
+                    "title": "Baiana Techno",
+                    "uri": "3Y8LRJuG6qSwZnckuDVX08"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chico Science",
+                    "title": "Baião Ambiental (Instrumental)",
+                    "uri": "3ODPDM65a1BZ80fAUKS5Gl"
+                },
+                {
+                    "artist": "Chico Science",
+                    "title": "Maracatu Atômico",
+                    "uri": "3cR6v2bOwqi7znC8P5Vs1T"
+                },
+                {
+                    "artist": "Chico Science",
+                    "title": "A Praieira",
+                    "uri": "4nFHE52xp9gnkFPy9ICkGe"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Luedji Luna",
+                    "title": "Banho de Folhas",
+                    "uri": "1RJJN0Q4lAwh13t2keNEFK"
+                },
+                {
+                    "artist": "Luedji Luna",
+                    "title": "Acalanto",
+                    "uri": "5TTWOyGAjATPEuDiTIRd62"
+                },
+                {
+                    "artist": "Luidji",
+                    "title": "Pour deux âmes solitaires (Part.1)",
+                    "uri": "78SR3uKM8liycwwuLky8ub"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chronixx",
+                    "title": "Big Bad Sound (feat. Chronicle)",
+                    "uri": "1Zlblv2hc8bvlYFQe5ADQy"
+                },
+                {
+                    "artist": "Hammad55",
+                    "title": "BIG BANG",
+                    "uri": "12UbnL38Cawko1ehYlg0ru"
+                },
+                {
+                    "artist": "Bricklake",
+                    "title": "Big Band 2020 - Radio Edit",
+                    "uri": "3E4Tr0yZZXVADAJnLSPaoZ"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Buena Vista Social Club",
+                    "title": "Candela",
+                    "uri": "1caT2YklnqZq35IcQ0oRLj"
+                },
+                {
+                    "artist": "Buena Vista Social Club",
+                    "title": "Candela (2021 - Remaster)",
+                    "uri": "3mS8igCH4Vfrd3e2sEJDwV"
+                },
+                {
+                    "artist": "Buena Vista Social Club",
+                    "title": "Candela (Live)",
+                    "uri": "60UKnh3BCbB440Y3atM0MO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Buena Vista Social Club",
+                    "title": "Candela",
+                    "uri": "1caT2YklnqZq35IcQ0oRLj"
+                },
+                {
+                    "artist": "Buena Vista Social Club",
+                    "title": "Chan Chan",
+                    "uri": "3bxZhauuIU4ubctdRZwPYW"
+                },
+                {
+                    "artist": "Buena Vista Social Club",
+                    "title": "Candela (2021 - Remaster)",
+                    "uri": "3mS8igCH4Vfrd3e2sEJDwV"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Pat Thomas",
+                    "title": "Yamona",
+                    "uri": "4QU3KYF5ZRvtX0Nw2OaLxP"
+                },
+                {
+                    "artist": "Pat Thomas",
+                    "title": "Yamona - Detroit Swindle Remix",
+                    "uri": "7lxI0mhMnE0015SV8ibNpO"
+                },
+                {
+                    "artist": "Pat Thomas",
+                    "title": "Yamona",
+                    "uri": "72xZ2wtsE1JjTKyUGvBBqV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pat Thomas",
+                    "title": "Yamona",
+                    "uri": "4QU3KYF5ZRvtX0Nw2OaLxP"
+                },
+                {
+                    "artist": "Pat Thomas",
+                    "title": "Yamona - Detroit Swindle Remix",
+                    "uri": "7lxI0mhMnE0015SV8ibNpO"
+                },
+                {
+                    "artist": "The Ogyatanaa Show Band",
+                    "title": "Yaa Amponsah",
+                    "uri": "0TLAt8s6k0RdI4fZzae4dY"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Mc Tha",
+                    "title": "Coração Vagabundo",
+                    "uri": "78s706jZj2OGkBqfXfwub6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mc Tha",
+                    "title": "Coração Vagabundo",
+                    "uri": "78s706jZj2OGkBqfXfwub6"
+                },
+                {
+                    "artist": "Mc Tha",
+                    "title": "Rito de Passá",
+                    "uri": "7mQF4G6Syae2fCUSSxPjRX"
+                },
+                {
+                    "artist": "Mc Tha",
+                    "title": "Despedida",
+                    "uri": "0WU1hXQvd8IVWPVAPSBwCa"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Elza Soares",
+                    "title": "Exú Nas Escolas",
+                    "uri": "5M4Ogf99DF4vAozgUz7Vrq"
+                },
+                {
+                    "artist": "Edward Elgar",
+                    "title": "Elgar: Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+                    "uri": "6DbYlWb6hAB4lOnOMWoR8F"
+                },
+                {
+                    "artist": "Elza Soares",
+                    "title": "Meu Guri",
+                    "uri": "7v55rfDU0GdYkfcqGF77ks"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Marcelo D2",
+                    "title": "ROMPEU O COURO.",
+                    "uri": "6aboy6b50nYKU7gW7RPXU1"
+                },
+                {
+                    "artist": "Marcelo D2",
+                    "title": "Desabafo / Deixa Eu Dizer",
+                    "uri": "5GCz9BOkt17aI6ZOR3EiUl"
+                },
+                {
+                    "artist": "Marcelo D2",
+                    "title": "Desabafo / Deixa Eu Dizer",
+                    "uri": "0in5MharrmpP0ZBA25Tm1Q"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bia Ferreira",
+                    "title": "Brilha Minha Guia",
+                    "uri": "3K06ImvQNdVpnjFXkEUxzT"
+                },
+                {
+                    "artist": "Bia Ferreira",
+                    "title": "Chama",
+                    "uri": "2rZ1ozhE09uWMzosKV9mQy"
+                },
+                {
+                    "artist": "Bia Ferreira",
+                    "title": "Cota Não É Esmola - Ao Vivo",
+                    "uri": "1XF2wkOhAiLEjn0hswc5Y1"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jah9",
+                    "title": "Note To Self (Okay) [feat. Chronixx]",
+                    "uri": "5FuUXAoCJoh7k9F8jJ6jkA"
+                },
+                {
+                    "artist": "Chronixx",
+                    "title": "Skankin' Sweet",
+                    "uri": "5SQaQWvBDEAeug4EPyYEGE"
+                },
+                {
+                    "artist": "Kollegah",
+                    "title": "Chronik III - Remastered",
+                    "uri": "1fM5ThzDDvhXRwYNCUh5PU"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Barbatuques",
+                    "title": "Baianá",
+                    "uri": "4bndkI1TTh7itdsyixtDoD"
+                },
+                {
+                    "artist": "Louis Clark",
+                    "title": "Baiana Techno",
+                    "uri": "3Y8LRJuG6qSwZnckuDVX08"
+                },
+                {
+                    "artist": "SIKOTI",
+                    "title": "Baiana - Original Mix",
+                    "uri": "5p8LTfpCUhJBqx7TWdleHh"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "Radio Diaspora",
+                    "title": "Meia-Noite",
+                    "uri": "1mWYVCsqd3YWpYkS0GD33H"
+                },
+                {
+                    "artist": "Radio Diaspora",
+                    "title": "Meia-Noite",
+                    "uri": "3mHcYFivxSb4wpM0WlFgvx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Radio Diaspora",
+                    "title": "Meia-Noite",
+                    "uri": "1mWYVCsqd3YWpYkS0GD33H"
+                },
+                {
+                    "artist": "Tiken Jah Fakoly",
+                    "title": "Diaspora",
+                    "uri": "6uIHKsw4rrHeoLsNWqeWvF"
+                },
+                {
+                    "artist": "Celo & Abdi",
+                    "title": "Diaspora",
+                    "uri": "3o6R9LBqPWRxZMe06EPPbP"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Marcelo D2",
+                    "title": "TAMBOR, O SENHOR DA ALEGRIA.",
+                    "uri": "3tBHbkvX5PVF7FD1zG6Yfq"
+                },
+                {
+                    "artist": "Marcelo D2",
+                    "title": "TAMBOR DE AÇO.",
+                    "uri": "4aCFJU9ckEJmP26UoTH4Ba"
+                },
+                {
+                    "artist": "Marcelo D2",
+                    "title": "Desabafo / Deixa Eu Dizer",
+                    "uri": "5GCz9BOkt17aI6ZOR3EiUl"
+                }
+            ]
+        },
+        "25": {
+            "s0": [
+                {
+                    "artist": "Betsayda Machado",
+                    "title": "Pueblo de Fiesta",
+                    "uri": "1YWL0DW9rS52KnCSIxkmQ9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Betsayda Machado",
+                    "title": "Pueblo de Fiesta",
+                    "uri": "1YWL0DW9rS52KnCSIxkmQ9"
+                },
+                {
+                    "artist": "Los Reyes De Tierra Mixteca",
+                    "title": "Pueblo Querido",
+                    "uri": "4OlsasIEwvX8v1UAS3OlaG"
+                },
+                {
+                    "artist": "Venezonix",
+                    "title": "La Que Es",
+                    "uri": "3MO2Ym7qBnmNEAtjPwOxXE"
+                }
+            ]
+        },
+        "26": {
+            "s0": [
+                {
+                    "artist": "Apagya Show Band",
+                    "title": "Mumunde",
+                    "uri": "3EgwFlVYFkyzD76vs0GdUC"
+                },
+                {
+                    "artist": "Apagya Show Band",
+                    "title": "Mumunde",
+                    "uri": "56GhQjfrnJJ2MmQ5VzZhEX"
+                },
+                {
+                    "artist": "The Apagya Show Band",
+                    "title": "Mumunde (feat. Gyadublay Ambolley)",
+                    "uri": "0EPq7F5bw8RykYw2QoVwjT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Apagya Show Band",
+                    "title": "Mumunde",
+                    "uri": "3EgwFlVYFkyzD76vs0GdUC"
+                },
+                {
+                    "artist": "The Apagya Showband",
+                    "title": "Mumude",
+                    "uri": "1o0cISoLhPnsRlhzghg9uh"
+                },
+                {
+                    "artist": "The Apagya Showband",
+                    "title": "Tamfo Nyi Ekyir",
+                    "uri": "6C4WXHhUJHAbGVkfMF2eBX"
+                }
+            ]
+        },
+        "27": {
+            "s0": [
+                {
+                    "artist": "Amaro Freitas",
+                    "title": "Sangue Negro",
+                    "uri": "0yqTQfMFawMmM6VemcBkj9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Amaro Freitas",
+                    "title": "Vila Bela",
+                    "uri": "5D3PlAFLpjhT8AHouXJpsR"
+                },
+                {
+                    "artist": "Docaos",
+                    "title": "Sangue na Queda",
+                    "uri": "7y9wZoRIFhiCOeTbSZIjzy"
+                },
+                {
+                    "artist": "LetoDie",
+                    "title": "Sangue no Gelo",
+                    "uri": "5GoCD7NJ8vb5Z8OiPBvQSV"
+                }
+            ]
+        },
+        "28": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Anyanwu",
+                    "title": "Afrobeat 2",
+                    "uri": "4OI4zGxXVhG8LrJwGJdjxa"
+                },
+                {
+                    "artist": "Mirá",
+                    "title": "fruta verde",
+                    "uri": "5r8OKzdJadvERTJyPPCUCg"
+                },
+                {
+                    "artist": "Yomille Omar",
+                    "title": "La Fruta",
+                    "uri": "2bfObD1i0m3YjyXhtz8Ejz"
+                }
+            ]
+        }
+    },
     "rio-doce-12th-october-2022": {
         "00": {
             "s0": "",

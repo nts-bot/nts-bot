@@ -21029,6 +21029,464 @@
             ]
         }
     },
+    "circuits-7th-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Die drei ???",
+                    "title": "048 - und die gefährlichen Fässer - Teil 02",
+                    "uri": "3sRUER1oR4MvxLI3prvFe9"
+                },
+                {
+                    "artist": "Die drei ???",
+                    "title": "048 - und die gefährlichen Fässer - Teil 22",
+                    "uri": "0UjBWlgUz7E5uwI7UOYqYN"
+                },
+                {
+                    "artist": "Die drei ???",
+                    "title": "048 - und die gefährlichen Fässer - Teil 20",
+                    "uri": "7xw0dIzGffEQiFg5W06hXK"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bizarre Inc",
+                    "title": "I'm Gonna Get You - Original Remix Version",
+                    "uri": "7MfZ9GpIwgexz22lOHIP4y"
+                },
+                {
+                    "artist": "New Order",
+                    "title": "Bizarre Love Triangle '94",
+                    "uri": "0NvJy5gPR591Qh2z22EAak"
+                },
+                {
+                    "artist": "LionBeat",
+                    "title": "Bizarre",
+                    "uri": "6hqVLueoYUasOFbSmYPmXB"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Nexus 21",
+                    "title": "(Still) Life Keeps Moving",
+                    "uri": "62wgDN8OjcygbLVWs0xywI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nexus 21",
+                    "title": "(Still) Life Keeps Moving",
+                    "uri": "62wgDN8OjcygbLVWs0xywI"
+                },
+                {
+                    "artist": "Mark Petrie",
+                    "title": "Nexus",
+                    "uri": "0fcQLvbDNuXh7B99TUVHU6"
+                },
+                {
+                    "artist": "Niykee Heaton",
+                    "title": "Nexus",
+                    "uri": "670V0c9ycEKa9TgP7QYbTd"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "A Guy Called Gerald",
+                    "title": "Voodoo Ray",
+                    "uri": "1Ex3FSidOBkODU3pcsCRYK"
+                },
+                {
+                    "artist": "A Guy Called Gerald",
+                    "title": "What You See (Ghost Of Flora's Dream) [Remixed by A Guy Called Gerald]",
+                    "uri": "3McR9IQ9ZT5gT9XGYylgyY"
+                },
+                {
+                    "artist": "A Guy Called Gerald",
+                    "title": "Inter Funk",
+                    "uri": "6ylw25B6yBRnUR8HltizyF"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Massive Attack",
+                    "title": "Inertia Creeps",
+                    "uri": "3N2UhXZI4Gf64Ku3cCjz2g"
+                },
+                {
+                    "artist": "Insomnium",
+                    "title": "Inertia",
+                    "uri": "3pfNBEM0TqHiMqiYBIAn9h"
+                },
+                {
+                    "artist": "Scar Of The Sun",
+                    "title": "Inertia",
+                    "uri": "5YYyYoHYfiW7C1phYvV6ak"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "The Black Dog",
+                    "title": "Virtual",
+                    "uri": "6DJV1yW28sM7zwEudRdt6Q"
+                },
+                {
+                    "artist": "The Black Dog",
+                    "title": "Virtual",
+                    "uri": "6vsl037J5NjxCI18AmJmUi"
+                },
+                {
+                    "artist": "The Black Dog",
+                    "title": "Virtual Hmmm",
+                    "uri": "2Zl93mivNqZOqUl363Zfcy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Black Dog",
+                    "title": "Borstal Communications - E0314 Mix",
+                    "uri": "6aHA8Q36otlnYVeQotRO3j"
+                },
+                {
+                    "artist": "Led Zeppelin",
+                    "title": "Black Dog - Remaster",
+                    "uri": "3qT4bUD1MaWpGrTwcvguhb"
+                },
+                {
+                    "artist": "SAMURAI",
+                    "title": "Black Dog",
+                    "uri": "5Ln8eNkYC9to99zsPEZbS2"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Ability II",
+                    "title": "Pressure Dub",
+                    "uri": "1WFra0ZhnP6ni4BgAFUHMz"
+                },
+                {
+                    "artist": "Ability II",
+                    "title": "Pressure Dub",
+                    "uri": "72TxMftx3pEZHnU1ZlcktE"
+                },
+                {
+                    "artist": "Ability II",
+                    "title": "Pressure Dub - Freespirit Overload Mix",
+                    "uri": "2FSSXSHTTlOXT96znopwG4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ben Snow",
+                    "title": "Pressure",
+                    "uri": "4kPKMcH4b7Vs2VUtOiKHtx"
+                },
+                {
+                    "artist": "Peruzzi",
+                    "title": "Pressure",
+                    "uri": "47FuxUowVBxua1XxsbLKKX"
+                },
+                {
+                    "artist": "Freaks & Geeks",
+                    "title": "Pressure",
+                    "uri": "15gVi5XDXfQWsKUiz1X2tt"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chevelle",
+                    "title": "The Red",
+                    "uri": "1gyee1JuFFiP476LQpRMYU"
+                },
+                {
+                    "artist": "3x3cute",
+                    "title": "Red Velvet - Original Mix",
+                    "uri": "3kw1vbqYU6GI3xLgfKCikg"
+                },
+                {
+                    "artist": "Le Castle Vania",
+                    "title": "The Red Circle",
+                    "uri": "4jBcfdKLGZobb8WrIJw6Bf"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Stasis",
+                    "title": "Point Of No Return",
+                    "uri": "2IuBvJxLFru4vCiWJcxsRn"
+                },
+                {
+                    "artist": "Stasis",
+                    "title": "Point of No Return",
+                    "uri": "1F6TSOmwIhI85XlRjOOde3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Systems In Blue",
+                    "title": "Point of No Return",
+                    "uri": "3PDBorhGa6geqKwn7tzlVm"
+                },
+                {
+                    "artist": "Adam Port",
+                    "title": "Point Of No Return",
+                    "uri": "6PzfuuQ95fRU9JRFSFFq77"
+                },
+                {
+                    "artist": "Hippie Sabotage",
+                    "title": "Point of No Return",
+                    "uri": "7q2MbfH0JkY6iAZvlw2q9j"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Stasis",
+                    "title": "Artifax",
+                    "uri": "3jv6hle9TH7XgpXEj7Kq96"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eagle Eyed Tiger",
+                    "title": "Stasis",
+                    "uri": "109FawYwsgasMHcKQYqSLa"
+                },
+                {
+                    "artist": "Status Quo",
+                    "title": "The Wanderer",
+                    "uri": "3Hl8JijCnvsnSoGSrEsTL1"
+                },
+                {
+                    "artist": "Toa5t",
+                    "title": "Stasis",
+                    "uri": "4Ni6kEefVU9fuPGDtRGJ1v"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Siouxsie and the Banshees",
+                    "title": "Hall Of Mirrors",
+                    "uri": "5LISRpPG4mWNNQA4XXMDtO"
+                },
+                {
+                    "artist": "The Distillers",
+                    "title": "Hall of Mirrors",
+                    "uri": "5sx6TqoOIrDJ61mGlX4Lar"
+                },
+                {
+                    "artist": "Let's Eat Grandma",
+                    "title": "Hall of Mirrors",
+                    "uri": "1nTBrKLrgwwsp3KQhNPj7J"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Wesly Bronkhorst",
+                    "title": "Amalia",
+                    "uri": "3c28vYkrzU9nVqvJfbaSiu"
+                },
+                {
+                    "artist": "Wesly Bronkhorst",
+                    "title": "Amalia - Remix",
+                    "uri": "767nFqBNpxIrQaceT0SzK4"
+                },
+                {
+                    "artist": "Kirk Tha King",
+                    "title": "Please Don't Go",
+                    "uri": "4cBoTII7j48PbHz1YJzGzz"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dusty Kid",
+                    "title": "The Fugue - Contrapunctus X",
+                    "uri": "0bRGPcHels64996GEr30aT"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "The Art of Fugue, BWV 1080: Contrapunctus 1",
+                    "uri": "1RBMCv4YuSmRD5Vu3uH1Dm"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Bach: The Art of Fugue, BWV 1080: Contrapunctus IX",
+                    "uri": "20MoWEUgn5zx7x9YHeoOb1"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lourdes Iriondo",
+                    "title": "Gaua",
+                    "uri": "5Z617aveB5BqPlPEXcfavQ"
+                },
+                {
+                    "artist": "Xabier Badiola",
+                    "title": "Bizitzaren legea",
+                    "uri": "1NfFcx7sHHqGZEr5HrIhTr"
+                },
+                {
+                    "artist": "Xabier Etxaniz",
+                    "title": "Azken aldia",
+                    "uri": "5ypLLM2eLSfXTDtXvzYDib"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eoin Colfer",
+                    "title": "Artemis Fowl, Folge 1, Teil 2.2 - Artemis Fowl (Ein Artemis-Fowl-Roman 1)",
+                    "uri": "3HA1uaWDgSbeOllBhqmDyP"
+                },
+                {
+                    "artist": "Eoin Colfer",
+                    "title": "Artemis Fowl, Folge 1, Teil 4.2 - Artemis Fowl (Ein Artemis-Fowl-Roman 1)",
+                    "uri": "70qdk36u0iwO0xUhXzz3jI"
+                },
+                {
+                    "artist": "Eoin Colfer",
+                    "title": "Artemis Fowl, Folge 1, Teil 1.2 & Artemis Fowl, Folge 1, Teil 2.1 - Artemis Fowl (Ein Artemis-Fowl-Roman 1)",
+                    "uri": "7hLdSx7nLnSE7lXfcRkvRj"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "tobi",
+                    "title": "TRIUMPH!",
+                    "uri": "71VP12qT5dgfTRAAPegAEC"
+                },
+                {
+                    "artist": "Amelie Lens",
+                    "title": "In Silence",
+                    "uri": "7sovMMhuknCR0PHianjiEq"
+                },
+                {
+                    "artist": "Hel:sløwed",
+                    "title": "In Silence (Mixed)",
+                    "uri": "3aIToL5rh5ykbk6BozJw5l"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Norah Jones",
+                    "title": "Peace - First Sessions Demo",
+                    "uri": "3vRI7xtLs0VT1qSmUPp2GT"
+                },
+                {
+                    "artist": "Norah Jones",
+                    "title": "Peace - Alternate Version – The Allaire Sessions",
+                    "uri": "08D7UtYnMsUfhXetHntw6C"
+                },
+                {
+                    "artist": "Josh Garrels",
+                    "title": "Peace Like a River",
+                    "uri": "4hhArVIWEFvA20U8glWuqa"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "The 7th Plain",
+                    "title": "To Be Surreal",
+                    "uri": "40TZFQErIBQM3HDFL6lvVI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The 7th Plain",
+                    "title": "To Be Surreal",
+                    "uri": "40TZFQErIBQM3HDFL6lvVI"
+                },
+                {
+                    "artist": "The 7th Plain",
+                    "title": "Grace",
+                    "uri": "1x3A0aDYPSgvOdoKaQR8W2"
+                },
+                {
+                    "artist": "The 7th Plain",
+                    "title": "Chords Are Dirty",
+                    "uri": "5yzjICQ6CddroOpqS5NvwA"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": ""
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Mali the Truth",
+                    "title": "The Start of Something Odd",
+                    "uri": "7uv03Mxvf5ftj2osA4oSYf"
+                },
+                {
+                    "artist": "Truthfully Spoken",
+                    "title": "The Sea Is Only Distance",
+                    "uri": "4PwN3wjwIDQrXGmf2a7dP6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jay Ray",
+                    "title": "The Great Art of Living",
+                    "uri": "014g5GZXFXDhT27dNwN1So"
+                },
+                {
+                    "artist": "Gordo",
+                    "title": "With You",
+                    "uri": "79uf4T9oqDNjPKd8eCKtha"
+                },
+                {
+                    "artist": "Faada Freddy",
+                    "title": "Truth",
+                    "uri": "6XiLuPeIheAVIyHcuZyGeM"
+                }
+            ]
+        }
+    },
     "circuits-8th-december-2022": {
         "00": {
             "s0": [

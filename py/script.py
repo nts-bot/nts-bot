@@ -851,7 +851,7 @@ class multithread:
             def task5(selbst, taskid):
                 selbst.t.task(taskid)
 
-            @utils.timeout(20.0)
+            @utils.timeout(30.0)
             def task20(selbst, taskid):
                 selbst.t.task(taskid)
 

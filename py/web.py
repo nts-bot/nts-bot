@@ -45,7 +45,7 @@ class connection:
 
     # SPOTIFY API
 
-    @utils.timeout(15.0)
+    @utils.timeout(20.0)
     def subconnect(self, index, pick):
         """CONNECTION FUNCTION w/ TIMEOUT"""
         self.user = os.getenv("ssr")

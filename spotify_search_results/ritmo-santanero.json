@@ -1,4 +1,1066 @@
 {
+    "ritmo-santanero-10th-october-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Grupo Maravilla De Robin Revilla",
+                    "title": "Cumbia Egipcia",
+                    "uri": "59RUVqTHvRaJJkb07mKD3C"
+                },
+                {
+                    "artist": "Los Tepoz",
+                    "title": "Cumbia Egipcia",
+                    "uri": "5f7huQWxcRbG01ojHtvFdc"
+                },
+                {
+                    "artist": "Ondatrópica",
+                    "title": "Cumbia Espacial",
+                    "uri": "36573bwqNlXfYksha3cVRP"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mala Fe",
+                    "title": "La Vaca",
+                    "uri": "7neWp4incUBLP1XQTNWmP0"
+                },
+                {
+                    "artist": "Mala Fe",
+                    "title": "La Vaca",
+                    "uri": "4vrusTiU7AAh8HCnfowfkQ"
+                },
+                {
+                    "artist": "Canciones Para Niños",
+                    "title": "La Vaca Lola",
+                    "uri": "2LcdTbOHqpd25Nx5UHoT71"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "47FlbrwMWmaaC87mkVbwcZ"
+                },
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "EleGo",
+                    "title": "Unknown",
+                    "uri": "4uqTalBEKReZjQpTP5jzPx"
+                },
+                {
+                    "artist": "NIKSTER",
+                    "title": "Unknown",
+                    "uri": "5ZIUcAYOukzQ6qx5c4LNpu"
+                },
+                {
+                    "artist": "Bapti",
+                    "title": "Unknown",
+                    "uri": "2V48LfT5x1dRUpnHjEJpaE"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Koritas Musical",
+                    "title": "Cumbia Loca",
+                    "uri": "5WAqPApxUIiGiDsn1dprb3"
+                },
+                {
+                    "artist": "Sonido Pirata",
+                    "title": "Mi Corazón Llora",
+                    "uri": "6kCxbHHI1BDVphLP812NLE"
+                },
+                {
+                    "artist": "Banda Kora",
+                    "title": "Destino Cruel",
+                    "uri": "0cTgLz56iCc2ZgV1Kv0q9r"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "47FlbrwMWmaaC87mkVbwcZ"
+                },
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "EleGo",
+                    "title": "Unknown",
+                    "uri": "4uqTalBEKReZjQpTP5jzPx"
+                },
+                {
+                    "artist": "NIKSTER",
+                    "title": "Unknown",
+                    "uri": "5ZIUcAYOukzQ6qx5c4LNpu"
+                },
+                {
+                    "artist": "Bapti",
+                    "title": "Unknown",
+                    "uri": "2V48LfT5x1dRUpnHjEJpaE"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Onda Vaga",
+                    "title": "Cartagena",
+                    "uri": "2oH1XrL3YaPmkLYcHHnKaL"
+                },
+                {
+                    "artist": "Rafael Pondé",
+                    "title": "Cartagena",
+                    "uri": "7nuAQwrVIe6ulWBaM1eR71"
+                },
+                {
+                    "artist": "Fonseca",
+                    "title": "Cartagena",
+                    "uri": "6TwaKdbIpeFN9BOL5SqpmE"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nouxty Produciendo",
+                    "title": "COSITA",
+                    "uri": "5QpNJqvL8rja4hbtWLGSCI"
+                },
+                {
+                    "artist": "JENCARLOS",
+                    "title": "Cosita Linda",
+                    "uri": "53qMO5QVGttB4NlFEaahC6"
+                },
+                {
+                    "artist": "Logi K",
+                    "title": "Cotiza",
+                    "uri": "4y071OL13OMSVGuOq7wup8"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Los Condor's",
+                    "title": "La Cumbia del Bambu",
+                    "uri": "5sLxzrBM527a6Gqh6Q8Vex"
+                },
+                {
+                    "artist": "Bamboos of Jamaica",
+                    "title": "Reggae Man",
+                    "uri": "1Wg9PYBDNXLOCq5IVTX2RF"
+                },
+                {
+                    "artist": "El Pel",
+                    "title": "Bamboo",
+                    "uri": "2AK8kyq8K9OpoB2lT0H86q"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sonido Samurai",
+                    "title": "Los Ferrocarriles",
+                    "uri": "2uTYwuqTHcSwP8CqOFp5ak"
+                },
+                {
+                    "artist": "Ferrox",
+                    "title": "..And Listen",
+                    "uri": "7CyPPVoLG9I9VyG9vFHEnE"
+                },
+                {
+                    "artist": "167 Gang",
+                    "title": "Ferro caldo",
+                    "uri": "23nn1UPGaykhTN5eMJLrpL"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Billo's",
+                    "title": "Cumbia Caletera",
+                    "uri": "5t1feZXRvi9xSFNEEMuboe"
+                },
+                {
+                    "artist": "Grupo Karrussel",
+                    "title": "Cumbia Calena",
+                    "uri": "0ESzEHzygFUcBO7IqsMGsr"
+                },
+                {
+                    "artist": "Cumbia Kalle",
+                    "title": "Llora me llama",
+                    "uri": "2SwnYogv7HqDMgv6LmlmfV"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Los Invasores de Progreso",
+                    "title": "Cumbia Inca",
+                    "uri": "0CizGUkoPDmf99UgomTC5v"
+                },
+                {
+                    "artist": "Los Invasores de Progreso",
+                    "title": "Cumbia Inca",
+                    "uri": "2LeJuAN0PKG1L4MPKA6Kh0"
+                },
+                {
+                    "artist": "Proyección Latina",
+                    "title": "Cumbia Incaica",
+                    "uri": "5HtXLJ5wbs4BK5BhqpCL8R"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Danny Y Su Grupo",
+                    "title": "Cumbia Negra",
+                    "uri": "7gC9U8fzpdLl7ULidKABqu"
+                },
+                {
+                    "artist": "Grupo Agua Nueva Tropical",
+                    "title": "Cumbia Negra",
+                    "uri": "69EYSJQFqtmKCnRJrLLYg7"
+                },
+                {
+                    "artist": "Wences Romo",
+                    "title": "Cumbia Negra",
+                    "uri": "2a9qLOUQ5KAshDQhekrmVw"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pedro Miguel y Sus Maracaibos",
+                    "title": "Gaita y Sorongo",
+                    "uri": "68OXOA3PPMSE5BRuPIUADz"
+                },
+                {
+                    "artist": "Guitarricadelafuente",
+                    "title": "Gaita Margariteña",
+                    "uri": "1pUSnvmJhqEaWJLohMJmGZ"
+                },
+                {
+                    "artist": "Distrito Cumbiambero",
+                    "title": "Gaita No 1",
+                    "uri": "5mdAjLcaJrP1xQ9JNSz9XJ"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "47FlbrwMWmaaC87mkVbwcZ"
+                },
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "EleGo",
+                    "title": "Unknown",
+                    "uri": "4uqTalBEKReZjQpTP5jzPx"
+                },
+                {
+                    "artist": "NIKSTER",
+                    "title": "Unknown",
+                    "uri": "5ZIUcAYOukzQ6qx5c4LNpu"
+                },
+                {
+                    "artist": "Bapti",
+                    "title": "Unknown",
+                    "uri": "2V48LfT5x1dRUpnHjEJpaE"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Antonio Maria Suarez",
+                    "title": "Corazón Enamorado",
+                    "uri": "5u9e71A7RSF21QHZH2xnaR"
+                },
+                {
+                    "artist": "Rumbo Tumba",
+                    "title": "Corazón Amanecido",
+                    "uri": "5HgZ1BSj5hdaPZwpiCaA02"
+                },
+                {
+                    "artist": "Juan Luis Guerra 4.40",
+                    "title": "Corazón Enamorado",
+                    "uri": "0DeMaV8nrFWNYN4w56xm8Y"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "La Tropa Vallenata",
+                    "title": "Cumbia De Mi Tierra",
+                    "uri": "55KeWOcQsfJOmh08yBkojJ"
+                },
+                {
+                    "artist": "Tulio Enrique León",
+                    "title": "La Cumbia de Mi Tierra",
+                    "uri": "1Uetvolp0oHDgqPqcNh85R"
+                },
+                {
+                    "artist": "Musical Gigantes",
+                    "title": "Cumbia de mi Tierra",
+                    "uri": "2DL4gLAmJY2gvtE3HKu6v4"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "47FlbrwMWmaaC87mkVbwcZ"
+                },
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "EleGo",
+                    "title": "Unknown",
+                    "uri": "4uqTalBEKReZjQpTP5jzPx"
+                },
+                {
+                    "artist": "NIKSTER",
+                    "title": "Unknown",
+                    "uri": "5ZIUcAYOukzQ6qx5c4LNpu"
+                },
+                {
+                    "artist": "Bapti",
+                    "title": "Unknown",
+                    "uri": "2V48LfT5x1dRUpnHjEJpaE"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Poncho Villagomez",
+                    "title": "Las Tres Piedritas",
+                    "uri": "0cPyExfIsnTq9htruJnB19"
+                },
+                {
+                    "artist": "Poncho Villagomez y Sus Coyotes del Rio Bravo",
+                    "title": "Las Tres Piedritas",
+                    "uri": "5dLJEsV1E8zvRCF4QV5kdB"
+                },
+                {
+                    "artist": "Edgar Rodarte",
+                    "title": "Las Tres Piedritas",
+                    "uri": "5ds70fH7L5dbWQjAUNPQ2V"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "JPD",
+                    "title": "Elena",
+                    "uri": "33mXYrC2ACN9pFQVYiEH7a"
+                },
+                {
+                    "artist": "Jeff Wason",
+                    "title": "Piedad",
+                    "uri": "6qIqhVfrLNTYrbVexWZzNc"
+                },
+                {
+                    "artist": "Alex Cuba",
+                    "title": "Piedad de Mi",
+                    "uri": "0CHMsQEVYYfioSiOtGc9Ah"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Conjunto Los Rumberos",
+                    "title": "Cumbia del Puerto",
+                    "uri": "1VYVGqHZxNMFHClLeqnzDX"
+                },
+                {
+                    "artist": "Conjunto Los Rumberos",
+                    "title": "Cumbia Del Puerto",
+                    "uri": "6GzE6gVVu35Bzpro5zRO11"
+                },
+                {
+                    "artist": "Nicola Cruz",
+                    "title": "Cumbia del Olvido",
+                    "uri": "1oCHMNWzKJdwdwjsPMjXf3"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "tropitango",
+                    "title": "el cafetero",
+                    "uri": "7p5hNqhMPBlqMkmwNWKFKs"
+                },
+                {
+                    "artist": "Los Sonors",
+                    "title": "El Cafetero",
+                    "uri": "5gvcr5hJBvBstWJg9eoYYq"
+                },
+                {
+                    "artist": "Grupo Bagdad",
+                    "title": "El Cafetero",
+                    "uri": "5RkvAVmqtv3XPYnZRNMTz4"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Los Mirlos",
+                    "title": "Cumbia Amazonica",
+                    "uri": "1JBbW6oVeEZzT9hOZXVJVv"
+                },
+                {
+                    "artist": "Grupo los Juniors",
+                    "title": "Cumbia en América",
+                    "uri": "2kbRa4MwDPd3ESmxA8wftS"
+                },
+                {
+                    "artist": "DJ Kelo",
+                    "title": "Cumbia en USA",
+                    "uri": "4y1lEpxcJuk4Ev86gQ7S0v"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Grupo Los Bonitos de Puebla",
+                    "title": "CUMBIA BONITA",
+                    "uri": "3itw91yarPsSCs2ubHFws2"
+                },
+                {
+                    "artist": "Grupo la Cumbia",
+                    "title": "Cumbia Buena",
+                    "uri": "74pSi4Ukm4geJABToCxGgr"
+                },
+                {
+                    "artist": "La Concentracion",
+                    "title": "La Cumbia Bonita",
+                    "uri": "3Z5Mj9rReyBNc7aUjnhjWI"
+                }
+            ]
+        }
+    },
+    "ritmo-santanero-12th-september-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Pedro Laza Y Sus Pelayeros",
+                    "title": "Navidad Negra",
+                    "uri": "0EZntlxPwi97Xx2m9d1NBn"
+                },
+                {
+                    "artist": "Pedro Laza Y Sus Pelayeros",
+                    "title": "Navidad Negra",
+                    "uri": "0zMF5tu11dKUQHvtdgrKmD"
+                },
+                {
+                    "artist": "Pedro Laza Y Sus Pelayeros",
+                    "title": "Navidad Negra",
+                    "uri": "46oVY56HXV4kf3pVkdMvM3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pedro Laza Y Sus Pelayeros",
+                    "title": "Navidad Negra",
+                    "uri": "0EZntlxPwi97Xx2m9d1NBn"
+                },
+                {
+                    "artist": "Pedro Laza Y Sus Pelayeros",
+                    "title": "Cumbia en el Monte",
+                    "uri": "6WozspQ3YhGznIs4kXafnv"
+                },
+                {
+                    "artist": "Dommy la Sensacion",
+                    "title": "Navidad Distante",
+                    "uri": "0AWk1JoNmTCmPjtV3BPC6S"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Climaco Sarmiento Y Su Orquesta",
+                    "title": "Noche de Estrellas",
+                    "uri": "18apPmM8ymnXu4Xy975stM"
+                },
+                {
+                    "artist": "Climaco Sarmiento",
+                    "title": "Noche de Estrellas",
+                    "uri": "5qu2HqxHIXyizTvt2ZjO91"
+                },
+                {
+                    "artist": "Climaco Sarmiento",
+                    "title": "Noche de Estrellas",
+                    "uri": "5MC7eHRp6aqb9m9hYelbR3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Climaco Sarmiento",
+                    "title": "Noche de Estrellas",
+                    "uri": "5qu2HqxHIXyizTvt2ZjO91"
+                },
+                {
+                    "artist": "Climaco Sarmiento Y Su Orquesta",
+                    "title": "Cumbia Sabrosa",
+                    "uri": "6Y6PTCU5SOHkYLTsJdPTYL"
+                },
+                {
+                    "artist": "Climaco Sarmiento Y Su Orquesta",
+                    "title": "Cumbia Sabrosa",
+                    "uri": "4FgzwvopR1Mc34v7TSdwK1"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pacheco Satulio",
+                    "title": "Amistad Y Familia",
+                    "uri": "3XoZK5cPKPE0QgOBTyN3lU"
+                },
+                {
+                    "artist": "Pacheco Satulio",
+                    "title": "Juventud",
+                    "uri": "0nFSPyVSHfZpWj5dmExIWI"
+                },
+                {
+                    "artist": "Pacheco Satulio",
+                    "title": "Corazón Llorón",
+                    "uri": "6J097drfMAjhGBa9VkvhqL"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Combo Sampuesano",
+                    "title": "Marquetalia",
+                    "uri": "6XSWCfuxOdIvGIzkyd9PDM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "El Combo de los Galleros",
+                    "title": "Soledad",
+                    "uri": "4icDYkM3ZwAeNV0CoQdK9n"
+                },
+                {
+                    "artist": "Combo Alfredo",
+                    "title": "Traum Melodien - Medley - Blue Spanish eyes/Santo Domingo/Aber Dich gibt’s nur einmal für mich",
+                    "uri": "4CikRH5QdNJgpX8slQoJQx"
+                },
+                {
+                    "artist": "Moura e Tunico",
+                    "title": "Combo Casal - Ao Vivo",
+                    "uri": "6bPlgedOhE9kSEt15DmxuK"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Marimba Sonora Azul",
+                    "title": "Oasis",
+                    "uri": "70hn1zNmyFqaIAH40VcwJn"
+                },
+                {
+                    "artist": "Marimba Sonora Azul",
+                    "title": "Noviembres de Recuerdos",
+                    "uri": "3fUdHzV0SZNJfrxTja8DE9"
+                },
+                {
+                    "artist": "Marimba Guatemaya Santa Eulalia",
+                    "title": "Mi Dulce Niña",
+                    "uri": "4QUaXWPJh0hKA8P6c2U7C8"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gilberto Santa Rosa",
+                    "title": "Conciencia",
+                    "uri": "67AiNnqm2FH8jlZGiQUU0g"
+                },
+                {
+                    "artist": "Tito Nieves",
+                    "title": "Soy",
+                    "uri": "45tE8X8kZn7OXT0gqF8oUC"
+                },
+                {
+                    "artist": "Gilberto Santa Rosa",
+                    "title": "Conciencia",
+                    "uri": "5bccusEjEtnC5cDfWXQ8rf"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Los Campesinos de Barú",
+                    "title": "La Fiesta del Pescador",
+                    "uri": "2nElILllZdBstwG73opTF7"
+                },
+                {
+                    "artist": "Totó La Momposina",
+                    "title": "El Pescador",
+                    "uri": "5STDVTFO7ziu4LDaaRCx2n"
+                },
+                {
+                    "artist": "Los Warahuaco",
+                    "title": "El Pescador de Barú",
+                    "uri": "7pjSbRfTwv6sk8lHCWquZI"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Traviezoz De Olancho",
+                    "title": "18 Libras",
+                    "uri": "4kn82qyzk4RVoesordDVWY"
+                },
+                {
+                    "artist": "Traviezoz De Olancho",
+                    "title": "Cielo Azul Cielo Nublado",
+                    "uri": "1O2wuUdktXRYGb0imFuw9I"
+                },
+                {
+                    "artist": "Traviezoz De Olancho",
+                    "title": "JGL",
+                    "uri": "09UE7hq9fidrK0uuSOcJQu"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Pacho Galán y los Piratas de San Felipe",
+                    "title": "La Niña",
+                    "uri": "4cEo8gGEJkDKj4jqqI76o1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Antoine Barry",
+                    "title": "Piratas del Caribe",
+                    "uri": "5IXm926BIDseqJxZqZNPg1"
+                },
+                {
+                    "artist": "Banda Tres Estrellas",
+                    "title": "La Niña",
+                    "uri": "7iwR6V264vDGhVo6rPQrwp"
+                },
+                {
+                    "artist": "Los Piratas de Tony Mey",
+                    "title": "Por Que Sera",
+                    "uri": "0PehiMwY3TdoVfc7B4eiLI"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Lito Barrientos",
+                    "title": "Oye Mi Cumbia",
+                    "uri": "0IvrAwR86Rsm89UnflhZ7Y"
+                },
+                {
+                    "artist": "Lito Barrientos",
+                    "title": "Oye Mi Cumbia",
+                    "uri": "48g3M8FjisINesJ3ueCUjN"
+                },
+                {
+                    "artist": "Lito Barrientos",
+                    "title": "Oye Mi Cumbia",
+                    "uri": "4If4Da5ohAttbmDg34SSUY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lito Barrientos",
+                    "title": "Oye Mi Cumbia",
+                    "uri": "0IvrAwR86Rsm89UnflhZ7Y"
+                },
+                {
+                    "artist": "Lito Barrientos y su Orquesta",
+                    "title": "Cumbia en do Menor",
+                    "uri": "3s82dVyBp9xjyL2ysM5vhl"
+                },
+                {
+                    "artist": "Lito Barrientos",
+                    "title": "Cumbia en Do Menor",
+                    "uri": "5vRY8qfzUGNMKMe1GQrE8M"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "La Migra",
+                    "title": "Rafael Fonseca",
+                    "uri": "3VBl7yes4dwkH3ROqgrsXy"
+                },
+                {
+                    "artist": "Rafaela Moreno",
+                    "title": "La Cascata",
+                    "uri": "1BZLT1iTsTy1IpstmYE6PI"
+                },
+                {
+                    "artist": "Jose Noriega",
+                    "title": "Un Vago Mas",
+                    "uri": "68giEFiSB4lkL4yG2Y21jo"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Luis y Julian",
+                    "title": "Mi Morena",
+                    "uri": "46wwYEvZuKc2gA4nbaFBC6"
+                },
+                {
+                    "artist": "Juanfran",
+                    "title": "Mi Morena",
+                    "uri": "6MF2uU7HoQkA1Da2jscqV2"
+                },
+                {
+                    "artist": "Josh Groban",
+                    "title": "Mi Morena",
+                    "uri": "1wnTCC4V2XauTHLLJkRTd6"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Grupo Cimarron De Cuba",
+                    "title": "Longina",
+                    "uri": "2pTEW04TiuQbQYfqZtchYK"
+                },
+                {
+                    "artist": "Stimming",
+                    "title": "UNA PENA - ORGINAL",
+                    "uri": "0KD97PT97Qi2a7Zuq2gJkL"
+                },
+                {
+                    "artist": "Joaquin Mans",
+                    "title": "Longing",
+                    "uri": "1ONolOLYjM977hgtqKzXmJ"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tito Rodriguez",
+                    "title": "Cuando, Cuando, Cuando",
+                    "uri": "0xobZv425cgZbr6Z7Kqvbn"
+                },
+                {
+                    "artist": "Tito Rojas",
+                    "title": "Condename A Tu Amor",
+                    "uri": "2C40I3YZiqsNlpBxQ4O1y7"
+                },
+                {
+                    "artist": "Tito Rojas",
+                    "title": "Usted",
+                    "uri": "217OiircokozWB5frngZOs"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Axim",
+                    "title": "Orquesta Maldita V. 2 - Slowed Remix",
+                    "uri": "5ioPSAY4koyUQv5WndA1xC"
+                },
+                {
+                    "artist": "ORQUESTA BENDICION",
+                    "title": "La Gran Tribulación - Live",
+                    "uri": "0ogsbpsXDVE9Ux8dElP1v0"
+                },
+                {
+                    "artist": "ORQUESTA BENDICION",
+                    "title": "Heme Aquí",
+                    "uri": "2cd1B8YpOGNOARLgbjFSJm"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gladys \"La bomba tucumana\"",
+                    "title": "La Pollera Amarilla",
+                    "uri": "03G43mO3a34IGIsyDd4sj5"
+                },
+                {
+                    "artist": "Viry Primera",
+                    "title": "La Pollera Amarilla",
+                    "uri": "2zqkSqDeHAnGlJXiCWZpCL"
+                },
+                {
+                    "artist": "Los Hermanos Barron",
+                    "title": "La pollerita",
+                    "uri": "2FrgOCZJv53iwVd42vzsBl"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Trío Colombia",
+                    "title": "Cumbia del Amor",
+                    "uri": "42gA8UiWSniTHWeF9xfjj1"
+                },
+                {
+                    "artist": "Trio Colombia",
+                    "title": "Cumbia Del Amor",
+                    "uri": "2kQfB99OUbrdYjIPTw5qfW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Trio Colombia",
+                    "title": "Cumbia Del Amor",
+                    "uri": "2kQfB99OUbrdYjIPTw5qfW"
+                },
+                {
+                    "artist": "Trío Colombia",
+                    "title": "Cumbia del Amor",
+                    "uri": "42gA8UiWSniTHWeF9xfjj1"
+                },
+                {
+                    "artist": "Global Village Players",
+                    "title": "Trio Para Enamorados (Trio for Lovers)",
+                    "uri": "5s9aBvTp8SwncETPvqyfT3"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Leonel Ospina",
+                    "title": "Cumbia Marina (1964)",
+                    "uri": "5jWNUZ441GG0UhVEqJRHNi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Luciano Supervielle",
+                    "title": "Leonel, El Feo",
+                    "uri": "1WWelm5eSJ2jdTrpoTkncY"
+                },
+                {
+                    "artist": "Leonel Sawasky",
+                    "title": "La Celosa",
+                    "uri": "5SBHFxTBKOfl7NiOYiZjz5"
+                },
+                {
+                    "artist": "Petroleros Del Bravo",
+                    "title": "Leonel Garcia",
+                    "uri": "1LQiwJc9Bmbj0ulfi0fJB6"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Oliver Koletzki",
+                    "title": "Caravana de los Elefantitos",
+                    "uri": "0dToBfE0aBXSWOUsWUFhYN"
+                },
+                {
+                    "artist": "La Caravane Passe",
+                    "title": "Le chien",
+                    "uri": "32LlDiNgjYcywhhwrOfCd9"
+                },
+                {
+                    "artist": "Haupei",
+                    "title": "Caravana Hp",
+                    "uri": "5CcK48tUnWnyyvMXkpZSJ3"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Los Imperiales",
+                    "title": "Tus Desprecios",
+                    "uri": "6fOAv7PWUktQ6mZGQ7ccqd"
+                },
+                {
+                    "artist": "Los Imperiales",
+                    "title": "Tus Desprecios",
+                    "uri": "2m0LXAZsCs9WKha10A0xRZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Los Imperials",
+                    "title": "Al Compás De Mi Caballo",
+                    "uri": "5H71jDeOD6likR5RyNuDsw"
+                },
+                {
+                    "artist": "Samuel Kim",
+                    "title": "The Imperial Suite - Epic Version - Cover",
+                    "uri": "5jqhU8pe2yG3C7hVLhQSsH"
+                },
+                {
+                    "artist": "Imperiales De La Sierra",
+                    "title": "Voy a Danzar",
+                    "uri": "0CRMEvuBFgMM90pQveZV1y"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hëctor Montemayor",
+                    "title": "Tu Lo Quisiste",
+                    "uri": "2CPSfzrxm6K3xAWT1TPprU"
+                },
+                {
+                    "artist": "El Markobeliko",
+                    "title": "El Rayaz",
+                    "uri": "0baHYJG0tXNFOmXDVyCQLT"
+                },
+                {
+                    "artist": "Luis y Julián Jr.",
+                    "title": "El Rayo De Sinaloa - En Vivo",
+                    "uri": "0IRWwCoPMEdIUaf0bBTASP"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Marciano Torres y su Conjunto",
+                    "title": "Se Acaba el Mundo",
+                    "uri": "2LHJHB8NNh8AButO0Z0Tcb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Molotov",
+                    "title": "Marciano (I Turned Into A Martian)",
+                    "uri": "6JyiKXAFeheQ8NEk94GxA0"
+                },
+                {
+                    "artist": "Dj Farrapo",
+                    "title": "Marcianito - Cristina Renzetti Vocal Version",
+                    "uri": "1qUOQnK6aeMa6KO0fB1OjY"
+                },
+                {
+                    "artist": "Marciano Cigano",
+                    "title": "Quando um Grande Amor Vai Embora",
+                    "uri": "5TOhipXzRUvFtuTPQZAyJA"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Cuarteto Continental de Alberto Maraví",
+                    "title": "Llorando Se Fue \"Lambada\"",
+                    "uri": "2X5nEYIzulPNs3abgszxXH"
+                },
+                {
+                    "artist": "Cuarteto Continental de Alberto Maraví",
+                    "title": "Costeñita",
+                    "uri": "5guT09c8rk83qG77YJXzZW"
+                },
+                {
+                    "artist": "Cuarteto Universal",
+                    "title": "La Novia / Campesina / Enfermera / Corazoncito / Ladrón de Amor / Gaviota",
+                    "uri": "5dCstCHaMgMgSdMJRor5u1"
+                }
+            ]
+        }
+    },
     "ritmo-santanero-15th-august-2023": {
         "00": {
             "s0": "",
