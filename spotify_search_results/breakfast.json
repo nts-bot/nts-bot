@@ -10893,6 +10893,493 @@
             ]
         }
     },
+    "breakfast-cami-laye-okun-9th-november-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Jorge Reyes",
+                    "title": "Tejido de Suenos (Cola de Venado)",
+                    "uri": "5aDRi5UFEyK2TwNzJCTQEa"
+                },
+                {
+                    "artist": "Jorge Reyes",
+                    "title": "Tejido de Sueños (Cola de Venado)",
+                    "uri": "0Tlc0B7n3TFisxNRcpSPc0"
+                },
+                {
+                    "artist": "Jorge Reyes",
+                    "title": "Tejido de Sueños (Cola de Venado)",
+                    "uri": "6Ej7HsZhOOKCjHTPVjJTIF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jorge Reyes",
+                    "title": "Tejido de Suenos (Cola de Venado)",
+                    "uri": "5aDRi5UFEyK2TwNzJCTQEa"
+                },
+                {
+                    "artist": "Jorge Reyes",
+                    "title": "Tejido de Sueños (Cola de Venado)",
+                    "uri": "0Tlc0B7n3TFisxNRcpSPc0"
+                },
+                {
+                    "artist": "Jorge Reyes Valencia",
+                    "title": "Tejido de suenos (cola de venado)",
+                    "uri": "62RJDLFrCoZuCW4TxxPZJF"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Paulinho Da Viola",
+                    "title": "Timoneiro",
+                    "uri": "3C8ULtjiUmTtcpE7QJBZ7G"
+                },
+                {
+                    "artist": "Paulinho Da Viola",
+                    "title": "Meu Mundo É Hoje (Eu Sou Assim)",
+                    "uri": "0y0fFz3nSXeub9pN2lTQCo"
+                },
+                {
+                    "artist": "Paulinho Da Viola",
+                    "title": "Foi Um Rio Que Passou Em Minha Vida",
+                    "uri": "4R3KThu3ex03ri8KJYsvdz"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Monty Alexander Trio",
+                    "title": "Monticello",
+                    "uri": "0FKnknau5UBXgN2Q6vVHgC"
+                },
+                {
+                    "artist": "Monty Reiss",
+                    "title": "Acertijos",
+                    "uri": "2GLPAM5vr3dyAJMKEO5R8a"
+                },
+                {
+                    "artist": "Monty Reiss",
+                    "title": "Perennial Youth",
+                    "uri": "7J7tN1PAKrD6yY8xmR8Q7a"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lala Tardieu",
+                    "title": "Zouker zouker",
+                    "uri": "0lHmeyRT5w0QrARmj9coSs"
+                },
+                {
+                    "artist": "Jay Saif",
+                    "title": "Welcome",
+                    "uri": "7ndG8jvbrd7JQFILklb6yE"
+                },
+                {
+                    "artist": "Gambino La MG",
+                    "title": "Zouker (feat. Negrito)",
+                    "uri": "2w9o3qqoRf0sQs5ixPSKVZ"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Valentino",
+                    "title": "Savrsena",
+                    "uri": "1ARiryFxa2RrMyYFZUtuHt"
+                },
+                {
+                    "artist": "Luciano",
+                    "title": "Valentino Camouflage",
+                    "uri": "0RMrNZG8THmtHXU90tfsQY"
+                },
+                {
+                    "artist": "Valentino Khan",
+                    "title": "Pump",
+                    "uri": "5wojyanOP6dtCtOMjcxI1i"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Teddy Lasry",
+                    "title": "Los Angeles",
+                    "uri": "3EwpORJt7oPKcyk24CcW4x"
+                },
+                {
+                    "artist": "Teddy Lasry",
+                    "title": "Los Angeles",
+                    "uri": "5Ol6LHgUG4lFkIOsXY6Bcr"
+                },
+                {
+                    "artist": "Teddy Lasry",
+                    "title": "Los Angeles",
+                    "uri": "3757JnbikvXETxuqp726bJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Piano Papa",
+                    "title": "Teddybär, Teddybär, dreh dich um",
+                    "uri": "2phHyGVH7tDWXf0iSoQYt1"
+                },
+                {
+                    "artist": "Simone Sommerland",
+                    "title": "Teddybär, Teddybär, dreh dich um",
+                    "uri": "16jj9SLLW4VlxovI81WU3K"
+                },
+                {
+                    "artist": "Schnabi Schnabel",
+                    "title": "Teddybär, Teddybär, dreh dich um",
+                    "uri": "4s5BtaUnUOURRO8TxPgTV7"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eddy Lacoste",
+                    "title": "Grand Theft Auto",
+                    "uri": "0UXIOMfLaydW1QQd9VjTDh"
+                },
+                {
+                    "artist": "Eddy Lagos",
+                    "title": "Te Fuiste Lejos",
+                    "uri": "1odeWJMPZqpZoLTi4K8D1r"
+                },
+                {
+                    "artist": "Eddie Lee Groves",
+                    "title": "The Image of Me",
+                    "uri": "5MYbyxdyPirrUHQp0cBES4"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Safri Duo",
+                    "title": "Ritmo De La Noche",
+                    "uri": "1bDWH2kS5rUbH9aZI8pPeG"
+                },
+                {
+                    "artist": "nightfxrce",
+                    "title": "RITMO DO BRASIL",
+                    "uri": "3pYK7mT0PUiWRarXCTR9s3"
+                },
+                {
+                    "artist": "Dj Samir",
+                    "title": "Ritmo Selvagem",
+                    "uri": "4nvY5GfiqJXKFLGraJDQUU"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Richard White",
+                    "title": "Gaston",
+                    "uri": "0zstgBrV1t1g6n4jHrUVBY"
+                },
+                {
+                    "artist": "Mister Jack",
+                    "title": "Mr. Jack and Mr. Joke - Dance Mix",
+                    "uri": "4beRsnujnc2ZJYno3V8QQK"
+                },
+                {
+                    "artist": "Richard White",
+                    "title": "Gaston",
+                    "uri": "494qL09gtrLyndmhLg4yYX"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rory Gallagher",
+                    "title": "Continental Op - Live At The Town & Country Club, London, UK / 1990",
+                    "uri": "2SctTLKCTK5jSSLAvrevrv"
+                },
+                {
+                    "artist": "Nookie",
+                    "title": "Continental Drift",
+                    "uri": "78OFsJBKZqhm09KE8NjEHn"
+                },
+                {
+                    "artist": "Continental Combo",
+                    "title": "Aretha, Aretha",
+                    "uri": "2p2xuduI2jUEqTzmvw3ihF"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Leci Brandao",
+                    "title": "Deixa Pra Lá",
+                    "uri": "4hiHxOIydOEPVepRbJGFnT"
+                },
+                {
+                    "artist": "Leci Brandao",
+                    "title": "Sei Lá, Mangueira - Ao Vivo",
+                    "uri": "3lun4atHXKfNJoReMrXV10"
+                },
+                {
+                    "artist": "Leci Brandão",
+                    "title": "Quem vem Lá",
+                    "uri": "74iZsYljlLOnBRZPoB8U57"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Leci Brandao",
+                    "title": "Deixa Pra Lá",
+                    "uri": "41CvNCUSwozvnJ5TiYWIfx"
+                },
+                {
+                    "artist": "Leci Brandao",
+                    "title": "Livro Aberto",
+                    "uri": "42AEnBf5hNu6MUg4Knb0Ew"
+                },
+                {
+                    "artist": "Leci Brandao",
+                    "title": "Pot-Pourri: Papai Vadiou / As Coisas Que Mamãe Me Ensinou / Fundo De Quintal / Olodum Força Divina",
+                    "uri": "072JReybalIBM7sUBT690l"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "OKI",
+                    "title": "Yaykatekar Dub (Love Dub)",
+                    "uri": "6RAt5KUqAzW3XT8pVHTuTT"
+                },
+                {
+                    "artist": "crapjony",
+                    "title": "OKAYY",
+                    "uri": "6IcbQioxjNkBRPO2hUT40X"
+                },
+                {
+                    "artist": "avee",
+                    "title": "o k a y",
+                    "uri": "4BUiTn61H84C9N30aDEr6u"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Vumbi Dekula",
+                    "title": "UN Forces (Get Out of the Democratic Republic of Congo)",
+                    "uri": "2A8RVB7i8LWuVHkJyf0lYf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Vumbi Dekula",
+                    "title": "UN Forces (Get Out of the Democratic Republic of Congo)",
+                    "uri": "2A8RVB7i8LWuVHkJyf0lYf"
+                },
+                {
+                    "artist": "Vumbi Dekula",
+                    "title": "Zanzibar, Kinshasa & Vällingby",
+                    "uri": "32UbZjqCT576Qwrk5Eo8BZ"
+                },
+                {
+                    "artist": "Vumbi Dekula",
+                    "title": "Maamajacy",
+                    "uri": "1lUZSzk6KzEEdYejBrncTT"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Samite",
+                    "title": "Mbulakalevu",
+                    "uri": "2YNCeFJr0OLx41XVSTHAWV"
+                },
+                {
+                    "artist": "Muito Kaballa",
+                    "title": "Mbule Mwule",
+                    "uri": "6LIOyAKzARCdJNqV7BRBSu"
+                },
+                {
+                    "artist": "Ajna (BE)",
+                    "title": "Kwenze",
+                    "uri": "1q3JnMj0MPAaESnp6DZ8VS"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Patience Dabany",
+                    "title": "Sango Ya Mawa",
+                    "uri": "2NVPDNVz9LbG6F2UGFJp8i"
+                },
+                {
+                    "artist": "Nas & Damian \"Jr. Gong\" Marley",
+                    "title": "Patience",
+                    "uri": "5ZdVYZaMffiDf1plaJ2Jib"
+                },
+                {
+                    "artist": "Nas & Damian \"Jr. Gong\" Marley",
+                    "title": "Patience",
+                    "uri": "2y8pG9CF0HC4cttJ50Pufk"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Niagara",
+                    "title": "L'amour à la plage",
+                    "uri": "5iKVLnt1US3yQdIVsJYQKv"
+                },
+                {
+                    "artist": "-M-",
+                    "title": "L'Âme Au Mali",
+                    "uri": "0tZnCHPbUWtafdlafpE6Cs"
+                },
+                {
+                    "artist": "you lost",
+                    "title": "L'amour toujours - TikTok Version",
+                    "uri": "3cU7GdDQSnDG4UGGi3XZD6"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Orion Sun",
+                    "title": "Mirage",
+                    "uri": "1w327AHTCoChRIkJUprAnV"
+                },
+                {
+                    "artist": "Brendan Angelides",
+                    "title": "Mirage Theme",
+                    "uri": "0UAOiDaFyT39vHR1nvrpco"
+                },
+                {
+                    "artist": "Karim Alkhayat",
+                    "title": "Mirage",
+                    "uri": "7wqQ92BF3CMJywHRKmCLl1"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Lita Bembo",
+                    "title": "Bonne Chance (Good Luck)",
+                    "uri": "6bcqbf87AhMHcACqwYI7kv"
+                },
+                {
+                    "artist": "Lita Bembo",
+                    "title": "Bonne Chance - Good Luck",
+                    "uri": "0zo8JUorUzUwiX6n0Rzwnm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lita Bembo",
+                    "title": "Elalie",
+                    "uri": "0jYWWZdP6mJoGBYqgwNUgn"
+                },
+                {
+                    "artist": "Lita Bembo",
+                    "title": "Isiro",
+                    "uri": "25xXTHG9OO2JfWQ91FwhbB"
+                },
+                {
+                    "artist": "Sugar MMFK",
+                    "title": "Bonne Chance",
+                    "uri": "3adVZbiA0teMMxDbxqFYMs"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Louie Ramirez",
+                    "title": "Salsa Vibes",
+                    "uri": "1IBDcqrsSdz4vE1gmjI1ve"
+                },
+                {
+                    "artist": "Louie Ramirez",
+                    "title": "Salsa Vibes",
+                    "uri": "2PatuQCkZhWN0HQw2aK6Wt"
+                },
+                {
+                    "artist": "Louie Ramirez",
+                    "title": "Ali Baba",
+                    "uri": "4lUqjfYRhR0u6CQneKvcQE"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tito Rodriguez",
+                    "title": "Hay Cráneo",
+                    "uri": "0KsfRrdMrjO6XZ3wx8Re8H"
+                },
+                {
+                    "artist": "Bobby Valentin",
+                    "title": "Hay Cráneo",
+                    "uri": "6rIAIA2Ykh1Sgx3ufQdpY0"
+                },
+                {
+                    "artist": "Combinacion De La Habana",
+                    "title": "Perfecta / la Pareja del Año",
+                    "uri": "4N3JpCsb6TNPJCWHAsyIpf"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pantelis Pantelidis",
+                    "title": "Kako Skili",
+                    "uri": "6LOuCCnhC0Eth57XbF8nFF"
+                },
+                {
+                    "artist": "eriguyimukh",
+                    "title": "Kako",
+                    "uri": "0rNjNGX4rmWmzs59ztUfmt"
+                },
+                {
+                    "artist": "Tijana eM",
+                    "title": "Kako Ostaviti Lava",
+                    "uri": "3Nnfi002LexMUVulzIPcN1"
+                }
+            ]
+        }
+    },
     "breakfast-danny-bushes-9th-august-2023": {
         "00": {
             "s0": [
@@ -16643,6 +17130,613 @@
                     "artist": "Oscar D'León",
                     "title": "Lloraras",
                     "uri": "3SAPQacF61NuWdm6uVWU5m"
+                }
+            ]
+        }
+    },
+    "breakfast-mafalda-10th-november-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Black Merda!",
+                    "title": "Think of Me",
+                    "uri": "4IRpwtxX7MElfpiBRV2QWQ"
+                },
+                {
+                    "artist": "Black Merda!",
+                    "title": "Think of Me",
+                    "uri": "5Yf9RDP9jllr5J26DOPZ6M"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Black Merda!",
+                    "title": "Reality",
+                    "uri": "7a7SwAK20adk3oPY83svVc"
+                },
+                {
+                    "artist": "Black Merda!",
+                    "title": "Windsong",
+                    "uri": "1lcSxYzDm4TnsU0yHrveBW"
+                },
+                {
+                    "artist": "DJ Quik Featuring Nate Dogg",
+                    "title": "Black Mercedes",
+                    "uri": "4p9QiasqHfOkPnbc6sSxgl"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Yasushi Ide",
+                    "title": "A Place in the Sun - Kaoru Inoue Remix",
+                    "uri": "40QuWJRKWW9snt0h1wfQyw"
+                },
+                {
+                    "artist": "Jake Shimabukuro",
+                    "title": "A Place In The Sun",
+                    "uri": "3dXFwE9yIXuotnjN7wsP2N"
+                },
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "A Place in the Sky",
+                    "uri": "2OMq00WmCdv9HlO24iLeUY"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Yussef Dayes",
+                    "title": "The Light (feat. Bahia Dayes)",
+                    "uri": "7eA23X4ZuDNsnYe8bIcIkJ"
+                },
+                {
+                    "artist": "Yussef Dayes",
+                    "title": "The Light (feat. Bahia Dayes)",
+                    "uri": "3wFA4vZlBMoDUjHNPTRaiZ"
+                },
+                {
+                    "artist": "Yussef Dayes",
+                    "title": "Rust (feat. Tom Misch)",
+                    "uri": "633PfmSDPfYA2wOjZK6EZm"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Beatles",
+                    "title": "Strawberry Fields Forever",
+                    "uri": "1J7wMZrvCtWZlXBdMM25Ce"
+                },
+                {
+                    "artist": "The Beatles",
+                    "title": "Strawberry Fields Forever - Stereo Mix 2015",
+                    "uri": "3Pqf09cdDlOYDNkrbw5l0p"
+                },
+                {
+                    "artist": "Seb Lorez",
+                    "title": "Strawberry Jam",
+                    "uri": "13cPVpED1xKYmVoaAKTHoy"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "King Crimson",
+                    "title": "I Talk To The Wind",
+                    "uri": "4QbpagjMCqSECj6IimTL2n"
+                },
+                {
+                    "artist": "King Crimson",
+                    "title": "I Talk To The Wind - From: The Young Person's Guide To King Crimson 1976",
+                    "uri": "0vdBVJST1n2SDLNRgf2pnp"
+                },
+                {
+                    "artist": "King Crimson",
+                    "title": "I Talk To The Wind [Bonus Track] - Duo Version",
+                    "uri": "08tXFC9ngiMvBeH3lzz7ra"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "King Crimson",
+                    "title": "I Talk To The Wind",
+                    "uri": "4QbpagjMCqSECj6IimTL2n"
+                },
+                {
+                    "artist": "King Crimson",
+                    "title": "I Talk To The Wind - From: The Young Person's Guide To King Crimson 1976",
+                    "uri": "0vdBVJST1n2SDLNRgf2pnp"
+                },
+                {
+                    "artist": "King Crimson",
+                    "title": "I Talk To The Wind [Bonus Track] - Duo Version",
+                    "uri": "08tXFC9ngiMvBeH3lzz7ra"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Emitt Rhodes",
+                    "title": "Somebody Made For Me",
+                    "uri": "2hq50hCUUknhUXZ9uL3wgq"
+                },
+                {
+                    "artist": "Emitt Rhodes",
+                    "title": "Somebody Made For Me",
+                    "uri": "34SDoZpughWpBSSK3BqNbB"
+                },
+                {
+                    "artist": "Emitt Rhodes",
+                    "title": "Somebody Made For Me",
+                    "uri": "3LUL1MRJYHqdNexviXEnez"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Emitt Rhodes",
+                    "title": "Somebody Made For Me",
+                    "uri": "2hq50hCUUknhUXZ9uL3wgq"
+                },
+                {
+                    "artist": "Emitt Rhodes",
+                    "title": "With My Face On The Floor",
+                    "uri": "62XarvhRGpZoI60qb3z2kz"
+                },
+                {
+                    "artist": "Red Hot Chili Peppers",
+                    "title": "Emit Remmus",
+                    "uri": "72PfyhTg1qeoofRWfcyOan"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Love",
+                    "title": "Always See Your Face",
+                    "uri": "6OojY4NdPiEGWHV2EUSwHz"
+                },
+                {
+                    "artist": "Love",
+                    "title": "Always See Your Face",
+                    "uri": "3KvYmIAsqvPggyRTmNdixi"
+                },
+                {
+                    "artist": "Love",
+                    "title": "Always See Your Face",
+                    "uri": "2uMQpCVqUYVL2VAX0dse0g"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Love",
+                    "title": "Always See Your Face",
+                    "uri": "6OojY4NdPiEGWHV2EUSwHz"
+                },
+                {
+                    "artist": "Love",
+                    "title": "Always See Your Face",
+                    "uri": "3KvYmIAsqvPggyRTmNdixi"
+                },
+                {
+                    "artist": "Capital Unknowns",
+                    "title": "Calvary Assembly",
+                    "uri": "5H1stkN9GTIUfDdWUc6AHj"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Fiona Apple",
+                    "title": "Better Version Of Me",
+                    "uri": "44tKNi9TEVbu31QlBkXSvG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fiona Apple",
+                    "title": "Better Version Of Me",
+                    "uri": "44tKNi9TEVbu31QlBkXSvG"
+                },
+                {
+                    "artist": "Andrea Piazzo",
+                    "title": "Sweet Pea",
+                    "uri": "0qmuW3sn9B043xf9nMnoSb"
+                },
+                {
+                    "artist": "Fiona Apple",
+                    "title": "Across the Universe",
+                    "uri": "6ZQgooEk8PvsLxedYaT6Oa"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Santo & Johnny",
+                    "title": "Sleepwalk",
+                    "uri": "5zAZG1DaA8QJfFOtd4bPiw"
+                },
+                {
+                    "artist": "Santo & Johnny",
+                    "title": "Sleepwalk",
+                    "uri": "5YutIOOGEt086mSOjs1Ml0"
+                },
+                {
+                    "artist": "Santo & Johnny",
+                    "title": "Sleepwalk",
+                    "uri": "1u1PzGnsWKjAwSZ9Rg1kjD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Santo & Johnny",
+                    "title": "Sleepwalk",
+                    "uri": "5zAZG1DaA8QJfFOtd4bPiw"
+                },
+                {
+                    "artist": "Santo & Johnny",
+                    "title": "Sleep Walk",
+                    "uri": "0yK8sWD6cfrc7pGfaPIcZH"
+                },
+                {
+                    "artist": "Santo & Johnny",
+                    "title": "Sleepwalk",
+                    "uri": "1u1PzGnsWKjAwSZ9Rg1kjD"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Nick Drake",
+                    "title": "Been Smoking Too Long",
+                    "uri": "7wZcJFjBz2QE0LdKeYwt0R"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nick Drake",
+                    "title": "Been Smoking Too Long",
+                    "uri": "7wZcJFjBz2QE0LdKeYwt0R"
+                },
+                {
+                    "artist": "Nick Drake",
+                    "title": "Road",
+                    "uri": "5ir0VEsMI7cLhN6SEiaKol"
+                },
+                {
+                    "artist": "Nick Drake",
+                    "title": "Pink Moon",
+                    "uri": "4KROoGIaPaR1pBHPnR3bwC"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Margo Guryan",
+                    "title": "Something's Wrong with the Morning",
+                    "uri": "2bWapBng7BsJBijHpiRNAv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Margo Guryan",
+                    "title": "Something's Wrong with the Morning",
+                    "uri": "2bWapBng7BsJBijHpiRNAv"
+                },
+                {
+                    "artist": "Margo Guryan",
+                    "title": "Someone I Know",
+                    "uri": "02ORpnIVwRY29TBM4JUSht"
+                },
+                {
+                    "artist": "Margo Guryan",
+                    "title": "Timothy Gone",
+                    "uri": "70fk3lGiuwz8OUiXqJn7Xv"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Haroldo Bontempo",
+                    "title": "Risada",
+                    "uri": "0ky1iaqfKfvH5KRg8GuTcD"
+                },
+                {
+                    "artist": "Cocteau Twins",
+                    "title": "Sea, Swallow Me",
+                    "uri": "7vPHiwgCOAjSBRjAirbMvS"
+                },
+                {
+                    "artist": "Harold Budd",
+                    "title": "Faraon - 2013 Remaster",
+                    "uri": "5MGYcaAg4dci4djv6VfPL1"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Toquinho",
+                    "title": "Zana",
+                    "uri": "38lgT0j5c4yyuXNCzSnkTN"
+                },
+                {
+                    "artist": "Toquinho",
+                    "title": "Zana",
+                    "uri": "475lbELMRxCUwaBdm0QGg3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Toquinho",
+                    "title": "Zana",
+                    "uri": "38lgT0j5c4yyuXNCzSnkTN"
+                },
+                {
+                    "artist": "Toquinho",
+                    "title": "Zana",
+                    "uri": "475lbELMRxCUwaBdm0QGg3"
+                },
+                {
+                    "artist": "Nobuo Uematsu",
+                    "title": "Zanarkand (Final Fantasy X)",
+                    "uri": "7u5cNg0E6yqthRi5VpVbfr"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "The Burma",
+                    "title": "Holiday",
+                    "uri": "6L8zISKyIxmiC8Bzg2OWX2"
+                },
+                {
+                    "artist": "The Burma",
+                    "title": "Holiday",
+                    "uri": "0Ws8QwxIbTXSBF72SeAdhM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Burma",
+                    "title": "Holiday",
+                    "uri": "6L8zISKyIxmiC8Bzg2OWX2"
+                },
+                {
+                    "artist": "The Burma",
+                    "title": "Holiday",
+                    "uri": "0Ws8QwxIbTXSBF72SeAdhM"
+                },
+                {
+                    "artist": "Bury Tomorrow",
+                    "title": "The Burden",
+                    "uri": "00B3qsnncHOpraWgHDZqfE"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Outkast",
+                    "title": "Liberation (with Cee-Lo)",
+                    "uri": "1H6S9OkozTNvcASUX4Bfgb"
+                },
+                {
+                    "artist": "Outkast",
+                    "title": "Liberation (with Cee-Lo)",
+                    "uri": "6bzwLCh0odL1VR0h3MgClm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Outkast",
+                    "title": "Liberation (with Cee-Lo)",
+                    "uri": "1H6S9OkozTNvcASUX4Bfgb"
+                },
+                {
+                    "artist": "Outkast",
+                    "title": "Liberation (with Cee-Lo)",
+                    "uri": "6bzwLCh0odL1VR0h3MgClm"
+                },
+                {
+                    "artist": "Outkast",
+                    "title": "Roses",
+                    "uri": "6bUNEbXT7HovLW6BgPCBsb"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Mac Miller",
+                    "title": "Everybody",
+                    "uri": "1OuN92HcVG6NVpWbeESNB3"
+                },
+                {
+                    "artist": "Mac Miller",
+                    "title": "Everybody",
+                    "uri": "50ZbunKRxPbTa9sVu1iukc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mac Miller",
+                    "title": "Everybody",
+                    "uri": "1OuN92HcVG6NVpWbeESNB3"
+                },
+                {
+                    "artist": "Mac Miller",
+                    "title": "Everybody",
+                    "uri": "50ZbunKRxPbTa9sVu1iukc"
+                },
+                {
+                    "artist": "Mac Miller",
+                    "title": "Love Lost",
+                    "uri": "2z9iuAxKv4TTeCrPAxxKg9"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Delareck Soundz",
+                    "title": "Blue Whale - 2TK23",
+                    "uri": "6G68LudQuMKrbOfohXpw84"
+                },
+                {
+                    "artist": "Pots Tracker-Sound",
+                    "title": "Blue Whale",
+                    "uri": "5TqhGf8eh5dEgx9Jgygx7T"
+                },
+                {
+                    "artist": "Steven Price",
+                    "title": "The Age of Giants",
+                    "uri": "5cFaQ1UlmXa4UHYctK7hpT"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Jean Carn",
+                    "title": "Peace",
+                    "uri": "0S3GkibjkZ9XwSE88BaQ8w"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jean Carn",
+                    "title": "Don't Let It Go to Your Head - 12\" Version",
+                    "uri": "4nRiCBgh4dvI1fqv3f7rpw"
+                },
+                {
+                    "artist": "Jean Carn",
+                    "title": "Was That All It Was",
+                    "uri": "14xt8hNutK12hkqOwUZa40"
+                },
+                {
+                    "artist": "JENCARLOS",
+                    "title": "Caramba",
+                    "uri": "1vn3HsoGRz4JmMOF9aWcFo"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Marysia Osu",
+                    "title": "Stryder",
+                    "uri": "0av8R0Ts1WbQ5oM1ZGQa6g"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Emma Kok",
+                    "title": "Strijder",
+                    "uri": "4yozol821zh2HhcIPiFuTV"
+                },
+                {
+                    "artist": "Kabanos",
+                    "title": "Marysia - acoustic",
+                    "uri": "4eFJ6o6coLoOAIKiUftfrM"
+                },
+                {
+                    "artist": "Marcia Brady",
+                    "title": "F.U.2.N",
+                    "uri": "29nbjlrzl6LLpl1pv7KE5k"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rainhard Fendrich",
+                    "title": "Midlife Crisis",
+                    "uri": "3nR0DQfhaRXM7M4RAWNU9i"
+                },
+                {
+                    "artist": "Paul Panzer",
+                    "title": "Mehr Schein als Sein - Midlife Crisis",
+                    "uri": "6JLJMwercxt6nS9YgSsmed"
+                },
+                {
+                    "artist": "Paul Panzer",
+                    "title": "Alte und neue Welt - Midlife Crisis",
+                    "uri": "4lY6D8AVdvq5noDmuSqOYD"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "A Mountain Of One",
+                    "title": "Black Apple Pink Apple",
+                    "uri": "1JdRC2QZzYyP3MF7NkQUEH"
+                },
+                {
+                    "artist": "A Mountain Of One",
+                    "title": "Black Apple Pink Apple - Ricardo Villalobos Version",
+                    "uri": "0Ug3XSby55f99ZUrWDy5Ao"
+                },
+                {
+                    "artist": "A Mountain Of One",
+                    "title": "Black Apple Pink Apple",
+                    "uri": "6jWUd23rWgJHbQXvaWse1K"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "A Mountain Of One",
+                    "title": "Black Apple Pink Apple - Ricardo Villalobos Version",
+                    "uri": "0Ug3XSby55f99ZUrWDy5Ao"
+                },
+                {
+                    "artist": "All For Metal",
+                    "title": "Mountain of Power",
+                    "uri": "6L6ivlgoum2wf5Ce65OtYV"
+                },
+                {
+                    "artist": "All For Metal",
+                    "title": "Mountain of Power",
+                    "uri": "63QomWaXuQcp0enBx1Z2FH"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Roy Ayers",
+                    "title": "Can't You See Me",
+                    "uri": "5WvuwQ9U5qh0enH4NxnkYr"
+                },
+                {
+                    "artist": "Roy Ayers Ubiquity",
+                    "title": "Everybody Loves The Sunshine",
+                    "uri": "5le4sn0iMcnKU56bdmNzso"
+                },
+                {
+                    "artist": "Roy Ayers",
+                    "title": "Searching",
+                    "uri": "45muf22QzSyKwsF4l3IcwJ"
                 }
             ]
         }

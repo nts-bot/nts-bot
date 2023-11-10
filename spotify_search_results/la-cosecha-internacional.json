@@ -18231,6 +18231,556 @@
             ]
         }
     },
+    "la-cosecha-internacional-9th-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Banda El Recodo",
+                    "title": "Pena Tras Pena",
+                    "uri": "1GLxXu6AlBjPyo3a158CW4"
+                },
+                {
+                    "artist": "Banda El Recodo",
+                    "title": "Pena Tras Pena",
+                    "uri": "1VHMeTPM4tGfY2QaNuUl1G"
+                },
+                {
+                    "artist": "Banda Los Portenos",
+                    "title": "Pena Tras Pena",
+                    "uri": "1QghyMtMC2Dv2h8uzTmiut"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Chalino Sanchez",
+                    "title": "María De La Luz",
+                    "uri": "7maliffZ75txRugdgSTdFm"
+                },
+                {
+                    "artist": "Chalino Sanchez",
+                    "title": "María De La Luz",
+                    "uri": "2rm2wBuQZU3rld8hNVOx73"
+                },
+                {
+                    "artist": "Chalino Sanchez",
+                    "title": "María De La Luz - En Vivo",
+                    "uri": "1xq2jNYuQ9iZQyvWGmHtcP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chalino Sanchez",
+                    "title": "María de la Luz",
+                    "uri": "1rJhZmF05K6A4pLat8HX5v"
+                },
+                {
+                    "artist": "Chalino Sanchez",
+                    "title": "María De La Luz",
+                    "uri": "2rm2wBuQZU3rld8hNVOx73"
+                },
+                {
+                    "artist": "Chalino Sanchez",
+                    "title": "María De La Luz - En Vivo",
+                    "uri": "1xq2jNYuQ9iZQyvWGmHtcP"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Los Cadetes De Linares",
+                    "title": "Los Dos Amigos",
+                    "uri": "0uyv3AMPgus71YKJIwwA0W"
+                },
+                {
+                    "artist": "Los Cadetes De Linares",
+                    "title": "Mi Corrido",
+                    "uri": "3vMYu6pKWlReDVjxsE6mLV"
+                },
+                {
+                    "artist": "Los Cadetes De Linares",
+                    "title": "Contrabando Por Amor",
+                    "uri": "0APEzv3pXvL7kiMDuFr80o"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Los Cadetes De Linares",
+                    "title": "Una Lagrima y un Recuerdo",
+                    "uri": "1MeNluJL3QMoCuyaMUIpww"
+                },
+                {
+                    "artist": "Los Cadetes De Linares",
+                    "title": "Una Lagrima y Un Recuerdo",
+                    "uri": "32wLxgQY6227VTkhZQaBor"
+                },
+                {
+                    "artist": "Los Cadetes De Linares",
+                    "title": "Una Lágrima y Un Recuerdo",
+                    "uri": "6VZ41BeixzSWgHAZnGoTLl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Los Cadetes De Linares",
+                    "title": "Una Lagrima y un Recuerdo",
+                    "uri": "04fiThYimEJvfWey1rOpEz"
+                },
+                {
+                    "artist": "Los Cadetes De Linares",
+                    "title": "Una Lagrima y Un Recuerdo",
+                    "uri": "32wLxgQY6227VTkhZQaBor"
+                },
+                {
+                    "artist": "Los Autenticos Cadetes De Linares",
+                    "title": "Una Lagrima Y Un Recuerdo",
+                    "uri": "1ddJ8J6F9GHwdmufPXZsmA"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Los Bravos de Chile",
+                    "title": "Mis Gustos",
+                    "uri": "0FpTMXF8SJhttFeXAcdgde"
+                },
+                {
+                    "artist": "El Chapo y su Marimba los Bravos de la Sierra",
+                    "title": "Falso Amor",
+                    "uri": "1Ck1d7BZjo4oHeNaX3XhAV"
+                },
+                {
+                    "artist": "LOS BRAVOS DE CHILE",
+                    "title": "Cicatriz en el Alma",
+                    "uri": "2jM9QXDwZyn4tfv3kKSodW"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ramon Ayala Y Sus Bravos Del Norte",
+                    "title": "Mi Tesoro",
+                    "uri": "6AORaKeDUx2h9WtwMAY5C1"
+                },
+                {
+                    "artist": "Vencedores del Bravo",
+                    "title": "Mi Tesoro (En Vivo)",
+                    "uri": "784ZljchGyNbSqpPW0w97d"
+                },
+                {
+                    "artist": "Grupo Roble",
+                    "title": "Mi Tesoro",
+                    "uri": "7ggWzHzNX0BYAEm6d3OPYM"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Los Invasores De Nuevo León",
+                    "title": "Bajo Mil Llaves",
+                    "uri": "0wzPKSgXVYFOFmWwglJHTd"
+                },
+                {
+                    "artist": "Los Invasores De Nuevo León",
+                    "title": "Bajo Mil Llaves",
+                    "uri": "2UnVe9XBmhrCi63CQVugfL"
+                },
+                {
+                    "artist": "Los Invasores De Nuevo León",
+                    "title": "Bajo Mil Llaves - En Vivo",
+                    "uri": "7Kdq2Lh4lTwnMvi3j2xqmm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Los Invasores De Nuevo León",
+                    "title": "Mi Casa Nueva",
+                    "uri": "1VfZ41Aks6CFzUvmiwb6Gi"
+                },
+                {
+                    "artist": "Los Invasores De Nuevo León",
+                    "title": "Ando Que Me Lleva el Diablo",
+                    "uri": "6iIUbEA0swN5obCexpY4oq"
+                },
+                {
+                    "artist": "Los Invasores De Nuevo León",
+                    "title": "Pa' Que Vuelvo Contigo",
+                    "uri": "0JetWYh1Co1DokR1lCQdNo"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Los Invasores De Nuevo León",
+                    "title": "Aguanta Corazón",
+                    "uri": "3cJjt8q7RJIDrcUiCtFHzb"
+                },
+                {
+                    "artist": "Los Invasores De Nuevo León",
+                    "title": "Aguanta Corazón",
+                    "uri": "1k6E9QGreiHYl6wgCwwqBL"
+                },
+                {
+                    "artist": "Los Invasores De Nuevo León",
+                    "title": "Aguanta Corazón - En Vivo",
+                    "uri": "5jOId07FzRMuckppUGYkGI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Los Invasores De Nuevo León",
+                    "title": "Aguanta Corazón",
+                    "uri": "3cJjt8q7RJIDrcUiCtFHzb"
+                },
+                {
+                    "artist": "Los Invasores De Nuevo León",
+                    "title": "Aguanta Corazón",
+                    "uri": "6hh7YrlgsHz42FVK4HY2LS"
+                },
+                {
+                    "artist": "Los Invasores De Nuevo León",
+                    "title": "En Eso No Quedamos Corazon",
+                    "uri": "2yAucX9Yq6N6vsJGw8PfiL"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Los Rieleros Del Norte",
+                    "title": "Te Quiero Mucho",
+                    "uri": "1QjBHihXEuEa0ohKezTNML"
+                },
+                {
+                    "artist": "Los Rieleros Del Norte",
+                    "title": "Te Quiero Mucho",
+                    "uri": "2M7HGEz2Ijp0TwEvSKtgpy"
+                },
+                {
+                    "artist": "Los Rieleros Del Norte",
+                    "title": "Te Quiero Mucho - Live in Los Angeles/2009",
+                    "uri": "6I0t1ZLQoFlf8gZr7zHoJh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Los Rieleros Del Norte",
+                    "title": "Te Quiero Mucho",
+                    "uri": "1QjBHihXEuEa0ohKezTNML"
+                },
+                {
+                    "artist": "Los Rieleros Del Norte",
+                    "title": "Te Quiero Mucho - Live in Los Angeles/2009",
+                    "uri": "6I0t1ZLQoFlf8gZr7zHoJh"
+                },
+                {
+                    "artist": "Los Rieleros Del Norte",
+                    "title": "Te Quiero Mucho (Mucho Te Quiero) - En Vivo en Dallas, TX / 2004",
+                    "uri": "7Fa5NB9v6zfvTV5QhrR9rY"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Conjunto Primavera",
+                    "title": "Necesito Decirte",
+                    "uri": "03jdAzR4uzXTx1RXAigGeE"
+                },
+                {
+                    "artist": "Conjunto Primavera",
+                    "title": "Necesito Decirte",
+                    "uri": "2jsg8KSzOIqB4LFjAuv0cY"
+                },
+                {
+                    "artist": "Conjunto Primavera",
+                    "title": "Necesito Decirte",
+                    "uri": "0iP9i4nRgHXhDnPwO2MfoG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Conjunto Primavera",
+                    "title": "Necesito Decirte",
+                    "uri": "6ewgX6FDwNWvufva6DjMXk"
+                },
+                {
+                    "artist": "Conjunto Primavera",
+                    "title": "Necesito Decirte",
+                    "uri": "0iP9i4nRgHXhDnPwO2MfoG"
+                },
+                {
+                    "artist": "Conjunto Primavera",
+                    "title": "Necesito Decirte",
+                    "uri": "2jsg8KSzOIqB4LFjAuv0cY"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Los Temerarios",
+                    "title": "Ven Porque Te Necesito",
+                    "uri": "3imYJe7gtqRBVVbxbqbWjj"
+                },
+                {
+                    "artist": "Los Temerarios",
+                    "title": "Ven Porque Te Necesito",
+                    "uri": "7nx2aU90fAo8RU8HX9Zv1z"
+                },
+                {
+                    "artist": "Los Temerarios",
+                    "title": "Ven Porque Te Necesito",
+                    "uri": "6ZUDEHDyFwJb5UdontymUr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Los Temerarios",
+                    "title": "Ven Porque Te Necesito",
+                    "uri": "4MNfkZ8dtva3cjJ2biqnDS"
+                },
+                {
+                    "artist": "Los Temerarios",
+                    "title": "Ven Porque Te Necesito",
+                    "uri": "3imYJe7gtqRBVVbxbqbWjj"
+                },
+                {
+                    "artist": "Los Temerarios",
+                    "title": "Ven Porque Te Necesito",
+                    "uri": "7nx2aU90fAo8RU8HX9Zv1z"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Banda Arkangel R-15",
+                    "title": "Voy a Pintar Mi Raya",
+                    "uri": "0JFOXqd9N6RlMaAFlaaqFw"
+                },
+                {
+                    "artist": "Banda Arkangel R-15",
+                    "title": "Voy a Pintar Mi Raya",
+                    "uri": "5psMdxoKbJczRGkh8ABrXd"
+                },
+                {
+                    "artist": "Banda Arkangel R-15",
+                    "title": "Voy a Pintar Mi Raya",
+                    "uri": "3MFpoV2QaU9GjRuqOqjIKx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Banda Arkangel R-15",
+                    "title": "Voy a Pintar Mi Raya",
+                    "uri": "0JFOXqd9N6RlMaAFlaaqFw"
+                },
+                {
+                    "artist": "Banda Arkangel R-15",
+                    "title": "Voy a Pintar Mi Raya",
+                    "uri": "5psMdxoKbJczRGkh8ABrXd"
+                },
+                {
+                    "artist": "Banda Arkangel R-15",
+                    "title": "Tus Quince Años",
+                    "uri": "0mR7ZAUOXHeqjJcPdNZIeM"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Banda El Limon",
+                    "title": "Que Se Te Olvido",
+                    "uri": "2d4OxfPqH2wTtip8geaPkz"
+                },
+                {
+                    "artist": "La Original Banda El Limón de Salvador Lizárraga",
+                    "title": "Qué Se Te Olvidó",
+                    "uri": "31PFQ5MxekE2pNWIxxrpar"
+                },
+                {
+                    "artist": "La Original Banda El Limón de Salvador Lizárraga",
+                    "title": "Qué Voy a Hacer para Olvidarte",
+                    "uri": "2W2ntkAasiXTkkvrghHktX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Banda El Limon",
+                    "title": "Que Se Te Olvido",
+                    "uri": "2d4OxfPqH2wTtip8geaPkz"
+                },
+                {
+                    "artist": "La Original Banda El Limón de Salvador Lizárraga",
+                    "title": "Qué Se Te Olvidó",
+                    "uri": "31PFQ5MxekE2pNWIxxrpar"
+                },
+                {
+                    "artist": "Banda Carnaval",
+                    "title": "Qué Se Te Olvidó",
+                    "uri": "0BtMm4haBaDNEAdvmoBjwz"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Los Huracanes del Norte",
+                    "title": "Nomas Por Tu Culpa",
+                    "uri": "1YvVbuRKDU9zRE3OsZxx4v"
+                },
+                {
+                    "artist": "Los Huracanes del Norte",
+                    "title": "Nomas Por Tu Culpa",
+                    "uri": "39Ulc8e5HJ5Z4I8vlOjS9c"
+                },
+                {
+                    "artist": "Los Huracanes del Norte",
+                    "title": "Nomas Por Tu Culpa",
+                    "uri": "59DADyJkdWaZca7Qowt1iA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Los Huracanes del Norte",
+                    "title": "Nomas Por Tu Culpa",
+                    "uri": "1YvVbuRKDU9zRE3OsZxx4v"
+                },
+                {
+                    "artist": "Los Huracanes del Norte",
+                    "title": "Nomas Por Tu Culpa",
+                    "uri": "2z3YMDoay4i17qy1QiNcuy"
+                },
+                {
+                    "artist": "Los Huracanes del Norte",
+                    "title": "Nomas Por Tu Culpa",
+                    "uri": "59DADyJkdWaZca7Qowt1iA"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Los Tiranos Del Norte",
+                    "title": "Hasta la Miel Amarga",
+                    "uri": "1Q1yISpMwHLn4SMo6VJVaa"
+                },
+                {
+                    "artist": "Los Tiranos Del Norte",
+                    "title": "Hasta la Miel Amarga",
+                    "uri": "1wkeWmIZDgzNzA50LdLYNk"
+                },
+                {
+                    "artist": "Los Tiranos Del Norte",
+                    "title": "Hasta la Miel Amarga - En Vivo",
+                    "uri": "7ybrTqFbWB9CjUbk0bmOzI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Los Tiranos Del Norte",
+                    "title": "Hasta la Miel Amarga",
+                    "uri": "1Q1yISpMwHLn4SMo6VJVaa"
+                },
+                {
+                    "artist": "Los Tiranos Del Norte",
+                    "title": "Hasta la Miel Amarga",
+                    "uri": "6xRMuq2bvsDZn3WSIcqK0p"
+                },
+                {
+                    "artist": "Las Norteñitas de Oro",
+                    "title": "Hasta la Miel Amarga",
+                    "uri": "4zYSYSZBlqsXpEklt7nuIi"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Los Relampagos Del Norte",
+                    "title": "Que Tal Si Te Compro (Los Relampagos Del Norte)",
+                    "uri": "6ydtbMbz289HMiYruytuyJ"
+                },
+                {
+                    "artist": "Los Relampagos Del Norte",
+                    "title": "Que Tal Si Te Compro",
+                    "uri": "6txcyV6DtAuXl8nJ3HjLuh"
+                },
+                {
+                    "artist": "Los Relampagos Del Norte",
+                    "title": "Que Tál Si Te Compro",
+                    "uri": "3O9YjaToJjbkCaS5qN7tED"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Los Relampagos Del Norte",
+                    "title": "Qué Tal Si Te Compró",
+                    "uri": "5Rqsy1hosHmSltknPCyweu"
+                },
+                {
+                    "artist": "Los Relampagos Del Norte",
+                    "title": "Que Tal Si Te Compro - Live",
+                    "uri": "0N0hZG6c8RwbWItATUlwdu"
+                },
+                {
+                    "artist": "Los relampaguitos",
+                    "title": "Qué Tal Si Te Compro",
+                    "uri": "49dVk6EIGokf5xoaNmft7Y"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Los Caminantes",
+                    "title": "Supe Perder",
+                    "uri": "00XiXlZmo8LLv5h3xAJObi"
+                },
+                {
+                    "artist": "Los Caminantes",
+                    "title": "Supe Perder",
+                    "uri": "6NUoNxL3tWnICLhFQ5obEW"
+                },
+                {
+                    "artist": "Los Caminantes",
+                    "title": "Supe Perder",
+                    "uri": "5KeNgX3hAWjQ1cCqSq11hi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Los Caminantes",
+                    "title": "Supe Perder",
+                    "uri": "6NUoNxL3tWnICLhFQ5obEW"
+                },
+                {
+                    "artist": "Los Caminantes",
+                    "title": "Supe Perder",
+                    "uri": "00XiXlZmo8LLv5h3xAJObi"
+                },
+                {
+                    "artist": "Horacio Ramirez y Sus Caminantes",
+                    "title": "Supe Perder (Cumbia)",
+                    "uri": "1B3u6z8vLLxbiV4lO7S9Lb"
+                }
+            ]
+        }
+    },
     "la-cosecha-internacional-w-xolo-24th-june-2020": {
         "00": {
             "s0": "",

@@ -28652,6 +28652,637 @@
             ]
         }
     },
+    "early-bird-show-w-pam-9th-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Brandenburg Concerto No. 1 in F Major, BWV 1046: II. Adagio",
+                    "uri": "2kblNxpjvlybywqoes2Vhx"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Bach, JS: Brandenburg Concerto No. 1 in F Major, BWV 1046: I. —",
+                    "uri": "6QceSLhBYpKqaa2QwJggoG"
+                },
+                {
+                    "artist": "Cologne Chamber Orchestra",
+                    "title": "Brandenburg Concerto No. 2 In F Major, Bwv 1047: II. Andante",
+                    "uri": "6uRnCYheyfH2Njdym1Np4L"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Anit Levan",
+                    "title": "Noise Dimensions",
+                    "uri": "5mlqizevo06oMyAAzR5R98"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Space Dimension Controller",
+                    "title": "2357 A.D.",
+                    "uri": "6zyZk3KUtCjrQSbNkOaAtl"
+                },
+                {
+                    "artist": "AntsLive",
+                    "title": "Number One Candidate",
+                    "uri": "3qk2QJ5JR6IO2LBMqkOnx7"
+                },
+                {
+                    "artist": "Dimension",
+                    "title": "Devotion (ft. Cameron Hayes)",
+                    "uri": "5TGdeBW6v7BuGYjtiFKwyC"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Purelink",
+                    "title": "4k Murmurs (feat. J)",
+                    "uri": "1SnP2NbqomO3OFPyyvF7bI"
+                },
+                {
+                    "artist": "Purelink",
+                    "title": "4k Murmurs (feat. J)",
+                    "uri": "2LIRjX0JLWZNibGXDG9FlD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Purelink",
+                    "title": "4k Murmurs (feat. J)",
+                    "uri": "1SnP2NbqomO3OFPyyvF7bI"
+                },
+                {
+                    "artist": "Purelink",
+                    "title": "4k Murmurs (feat. J)",
+                    "uri": "2LIRjX0JLWZNibGXDG9FlD"
+                },
+                {
+                    "artist": "Purple Lions",
+                    "title": "Shallow",
+                    "uri": "0EQrdq6ohQVBRlp2szmVKL"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dr. Buzzard's Original Savannah Band",
+                    "title": "Sunshower",
+                    "uri": "5SWfqINCAFg3N4x9bcegYf"
+                },
+                {
+                    "artist": "M.I.A.",
+                    "title": "Sunshowers",
+                    "uri": "0k2zJrBaalaEO50CdlW4mn"
+                },
+                {
+                    "artist": "Thomas Bergersen",
+                    "title": "Sunshower",
+                    "uri": "4IpdDyqy9ykZjp9BGhhcAL"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Edson Natale",
+                    "title": "Viajante",
+                    "uri": "63pIqwZCdeHd2F6zxG9OmS"
+                },
+                {
+                    "artist": "Edson Natale & Suba",
+                    "title": "Viajante",
+                    "uri": "4z4gKIMcyUN4jdYJ1JZ1xv"
+                },
+                {
+                    "artist": "Edson Natale",
+                    "title": "Viajante",
+                    "uri": "27oXkSzlOpzdMCmXpq0lUq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Edson Morales",
+                    "title": "Mix Los Ronisch - En vivo",
+                    "uri": "1oYzjM0zW1wrGSoQ1s7PJ2"
+                },
+                {
+                    "artist": "Edson Morales",
+                    "title": "Corta Venas - Live",
+                    "uri": "7qKW1qpf4n8Ya4JEpOzixY"
+                },
+                {
+                    "artist": "Edson Nuñez",
+                    "title": "Paz en la Tormenta",
+                    "uri": "6nqW8FMExOzrOnjcfSmsW4"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Maher Shalal Hash Baz",
+                    "title": "Summer",
+                    "uri": "3meAJymdD1RKeW5tnJxG1q"
+                },
+                {
+                    "artist": "Maher Shalal Hash Baz",
+                    "title": "Summer",
+                    "uri": "64DZPKsHeq3hK3kZVIP1bU"
+                },
+                {
+                    "artist": "Maher Shalal Hash Baz",
+                    "title": "From A Summer To Another Summer",
+                    "uri": "5i1vJPuPB8EyYTT37Vp8EZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Maher Zain",
+                    "title": "Masha Allah",
+                    "uri": "0muVpp3jrFfELrSU1E6dhv"
+                },
+                {
+                    "artist": "Maher Zain",
+                    "title": "Masha Allah - Vocals Only - No Music",
+                    "uri": "2VR7kDIMUZGi4Os0h8xgL4"
+                },
+                {
+                    "artist": "Maher Zain",
+                    "title": "Always Be There - Vocals Only Version",
+                    "uri": "5uS3t0ZFXrOK0dgEW2ekD7"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Captain Mustard",
+                    "title": "Quiet Move - Special Dance Mix",
+                    "uri": "3cB0JWt0x7malmhU8hNk7a"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Captain Mustard",
+                    "title": "Quiet Move - Special Dance Mix",
+                    "uri": "3cB0JWt0x7malmhU8hNk7a"
+                },
+                {
+                    "artist": "DJ Youngboy",
+                    "title": "Quiet Moves",
+                    "uri": "6EW87ixRXVTMKJ1ZLi9Ppn"
+                },
+                {
+                    "artist": "Captain Ivory",
+                    "title": "Quiet Casualties",
+                    "uri": "1L6jXGcpTvE2JLDo1SgeL8"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Reinhard Mey",
+                    "title": "Ich wollte wie Orpheus singen",
+                    "uri": "2YkNasm7vTmWqAQuGaw0ts"
+                },
+                {
+                    "artist": "Reinhard Mey",
+                    "title": "Nichts von alledem",
+                    "uri": "6NQDk83v4Kg4tgiYTIupch"
+                },
+                {
+                    "artist": "Reinhard Mey",
+                    "title": "Abends an deinem Bett",
+                    "uri": "7jH290ZWJ0dlkOSqOhZdIu"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Biosphere",
+                    "title": "Ballerina",
+                    "uri": "6N81HXLZ5n2h1jS0jufhDn"
+                },
+                {
+                    "artist": "Biosphere",
+                    "title": "Ballerina",
+                    "uri": "1yx71j1IDdD8lpdDD5OtKf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Biosphere",
+                    "title": "Ballerina",
+                    "uri": "6N81HXLZ5n2h1jS0jufhDn"
+                },
+                {
+                    "artist": "Biosphere",
+                    "title": "Poa Alpina",
+                    "uri": "4K4kedXFAuW6gn8iwgGFTw"
+                },
+                {
+                    "artist": "Magical Thinker",
+                    "title": "Blood Sweat and Tears",
+                    "uri": "1GCxgJfzPrV2Uc7PTJAptV"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tom Cardy",
+                    "title": "Business Man",
+                    "uri": "0Ugvi8H89YmbBkSOx9VgUj"
+                },
+                {
+                    "artist": "UCLÃ",
+                    "title": "Farsa",
+                    "uri": "0DcGm2TaOyVk9usE6qJMqw"
+                },
+                {
+                    "artist": "Kollegah",
+                    "title": "Business Paris",
+                    "uri": "0Rdq0YKZDh1jI4sJIMT4Od"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Bobb Trimble",
+                    "title": "Glass Menagerie Fantasies",
+                    "uri": "1322e0uMzRNaMAVeCso6EK"
+                },
+                {
+                    "artist": "Bobb Trimble",
+                    "title": "Glass Menagerie Fantasies - Demo Version",
+                    "uri": "3CHyueYM24a3aEHjdtBqo7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bobb Trimble",
+                    "title": "Glass Menagerie Fantasies",
+                    "uri": "1322e0uMzRNaMAVeCso6EK"
+                },
+                {
+                    "artist": "Bobb Trimble",
+                    "title": "Glass Menagerie Fantasies - Demo Version",
+                    "uri": "3CHyueYM24a3aEHjdtBqo7"
+                },
+                {
+                    "artist": "Bobb Trimble",
+                    "title": "Take Me Home Vienna",
+                    "uri": "0QXY9vbBfrgVYfhsGQGPwZ"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Spooky-J",
+                    "title": "Bury Well",
+                    "uri": "2GoITJfnSAZLgZEhZ8aZqX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kids TV 123",
+                    "title": "Spooky Spooky",
+                    "uri": "7aue3tgSzFqXIqJB9wzh9F"
+                },
+                {
+                    "artist": "E Records",
+                    "title": "Spooky",
+                    "uri": "4nA0vrgtnU6xZsy2kOZv4A"
+                },
+                {
+                    "artist": "H3L Kamikaze",
+                    "title": "SPOOKY SUPERFLOW 3",
+                    "uri": "0mYGd36xMFF09yThDGyRRL"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Mira Calix",
+                    "title": "Sandsings - remixed by Boards of Canada",
+                    "uri": "2GgDuVHZ3BH2CRhtQmvTYS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mira Calix",
+                    "title": "Sandsings - remixed by Boards of Canada",
+                    "uri": "2GgDuVHZ3BH2CRhtQmvTYS"
+                },
+                {
+                    "artist": "Boards of Canada",
+                    "title": "Over The Horizon Radar",
+                    "uri": "3EdKuUmSqITYGp1t3JhSC6"
+                },
+                {
+                    "artist": "Boards of Canada",
+                    "title": "Olson",
+                    "uri": "5DZ4M3yMat79ok25rZHuA9"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Pale Saints",
+                    "title": "Kinky Love",
+                    "uri": "5hUCTgttGB1eS4GJdPEQEM"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Kinky Love - Demo",
+                    "uri": "6Qlh48xAq1f5pSc5iLeWze"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Kinky Love - Demo",
+                    "uri": "2BAUoUY3RPsJCyRR2qJc4C"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pale Saints",
+                    "title": "Kinky Love",
+                    "uri": "5hUCTgttGB1eS4GJdPEQEM"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Kinky Love - Demo",
+                    "uri": "6Qlh48xAq1f5pSc5iLeWze"
+                },
+                {
+                    "artist": "Pale Saints",
+                    "title": "Sight of You",
+                    "uri": "7fectUUMiPjZijOJIJaN3S"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Victony",
+                    "title": "Soweto",
+                    "uri": "3IQT2MM49GkXfHF9eemaw5"
+                },
+                {
+                    "artist": "Victony",
+                    "title": "Soweto (Sped Up)",
+                    "uri": "3yHg0ZFV7FTRvREfCzRPbv"
+                },
+                {
+                    "artist": "Christopher Tin",
+                    "title": "Waloyo Yamoni - \"We Overcome the Wind\"",
+                    "uri": "7hs0pXWvIkYEFeQYfUa42B"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "DJ Manny",
+                    "title": "Ragga R&B",
+                    "uri": "0PC32APIrvLBFZk8sIsw09"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "DJ Manny",
+                    "title": "Ragga R&B",
+                    "uri": "0PC32APIrvLBFZk8sIsw09"
+                },
+                {
+                    "artist": "DJ Manny",
+                    "title": "Get The Money",
+                    "uri": "62kO77FrcFCrXmKxgi0DEC"
+                },
+                {
+                    "artist": "MANDY",
+                    "title": "RaggaDrop",
+                    "uri": "1jWOJ6kuGnFMOye0mPvKGa"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lucas Cooper",
+                    "title": "Great Fairy Fountain (From \"Ocarina of Time\")",
+                    "uri": "6J5tIxkpSLayW34h2cvodI"
+                },
+                {
+                    "artist": "Super Guitar Bros",
+                    "title": "Fairy Fountain",
+                    "uri": "3uhGWxwYdkwzI9vHITtaza"
+                },
+                {
+                    "artist": "Monsalve",
+                    "title": "Ocarina of Time - Fairy Fountain (Instrumental Remix) (The Legend of Zelda)",
+                    "uri": "00qa8VrJNC9QecllgmcMZm"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Robert Palmer",
+                    "title": "Johnny And Mary",
+                    "uri": "0ldTcpmFsxEASGiBBIfVLW"
+                },
+                {
+                    "artist": "Robert Palmer",
+                    "title": "Johnny And Mary",
+                    "uri": "6rCHuZHFksNyiW1D9qpOEV"
+                },
+                {
+                    "artist": "Robert Palmer",
+                    "title": "Johnny And Mary",
+                    "uri": "1pGfFgy5DVA9VMEVcIgEUp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Robert Palmer",
+                    "title": "Johnny And Mary",
+                    "uri": "0ldTcpmFsxEASGiBBIfVLW"
+                },
+                {
+                    "artist": "Robert Palmer",
+                    "title": "Johnny And Mary",
+                    "uri": "6rCHuZHFksNyiW1D9qpOEV"
+                },
+                {
+                    "artist": "Robert Palmer",
+                    "title": "Bad Case Of Loving You (Doctor, Doctor)",
+                    "uri": "3msL0fNKJ1Ej9SEcbsCLcM"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Doug Ashdown",
+                    "title": "Winter in America",
+                    "uri": "06taFelNWknt8fhZ2jQey1"
+                },
+                {
+                    "artist": "Doug Ashdown",
+                    "title": "Winter In America",
+                    "uri": "5qHqs4K05jLMpnnK92xV1m"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Doug Ashdown",
+                    "title": "Winter in America",
+                    "uri": "06taFelNWknt8fhZ2jQey1"
+                },
+                {
+                    "artist": "Doug Ashdown",
+                    "title": "Winter In America",
+                    "uri": "5qHqs4K05jLMpnnK92xV1m"
+                },
+                {
+                    "artist": "Fiendsh",
+                    "title": "Winter In America",
+                    "uri": "40LdkY3tDfhOooaQ8bRgVI"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Monica",
+                    "title": "Angel of Mine",
+                    "uri": "1AM1o0mKbgAK5oMpY8B3Z7"
+                },
+                {
+                    "artist": "Edita",
+                    "title": "Monica Bellucci",
+                    "uri": "5FcPnXW7afu9fFpgqzLjv2"
+                },
+                {
+                    "artist": "Json Jx",
+                    "title": "Monica",
+                    "uri": "228Esvsv3yaZ9tcf1FcXw9"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Joe Strummer",
+                    "title": "Johnny Appleseed",
+                    "uri": "4baiEstFOGDAha1jUo3hLM"
+                },
+                {
+                    "artist": "Joe Strummer",
+                    "title": "Johnny Appleseed",
+                    "uri": "654EEUdXNK9LVhwtMqi2XG"
+                },
+                {
+                    "artist": "Joe Strummer",
+                    "title": "Mondo Bongo",
+                    "uri": "6b6filOK58Ti6VEgcUDXm3"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chris Korda",
+                    "title": "Save The Planet, Kill Yourself",
+                    "uri": "05YlMeKgBUnb2CLZMOi08b"
+                },
+                {
+                    "artist": "Chris Kläfford",
+                    "title": "Maybe It’s Just Me",
+                    "uri": "3RhPNBJGddtFSj4ZDkPXn3"
+                },
+                {
+                    "artist": "Kordas",
+                    "title": "Commie Blocks",
+                    "uri": "61aJtmOlOfHHDv5AgYxcQw"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "La Mala Senda",
+                    "title": "Alicia",
+                    "uri": "1zmuL1liiSBgxInuNUUH3J"
+                },
+                {
+                    "artist": "Gora Malatesta",
+                    "title": "Alicia (Bluebirds and Crows)",
+                    "uri": "0RfkWr0s74nhUb4IgPDfqW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Xanemusic",
+                    "title": "Mala (Sped Up) - Remix",
+                    "uri": "4v6Ja2Q7tSiztQT9kFkxVj"
+                },
+                {
+                    "artist": "SECA Records",
+                    "title": "Mala speed up - Remix",
+                    "uri": "68RaVxD2tk1friI1Un1pPL"
+                },
+                {
+                    "artist": "Marc Anthony",
+                    "title": "Mala",
+                    "uri": "2kjj1x4sXh2D9ACYNnvVMn"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Master Margherita",
+                    "title": "Soft Dub",
+                    "uri": "12O0vKKTk0szaDG0TaVa9z"
+                },
+                {
+                    "artist": "Easy Star All-Stars",
+                    "title": "Great Dub In The Sky",
+                    "uri": "4mAnqyyXCauUnBkFRBke5f"
+                },
+                {
+                    "artist": "Dub Garden",
+                    "title": "Talkin Dub",
+                    "uri": "21m9D4UEhm3KGnzJUafdaV"
+                }
+            ]
+        }
+    },
     "pam-12th-january-2023": {
         "00": {
             "s0": "",

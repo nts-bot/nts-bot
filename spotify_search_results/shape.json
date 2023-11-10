@@ -20116,6 +20116,749 @@
             ]
         }
     },
+    "shape-xexa-8th-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "INTERWORLD",
+                    "title": "METAMORPHOSIS 3",
+                    "uri": "3J5y9v6vK5ginTnMroJ1Nn"
+                },
+                {
+                    "artist": "INTERWORLD",
+                    "title": "METAMORPHOSIS 3 - Sped Up",
+                    "uri": "59qlBr4ikAsVpj1p8J5CPs"
+                },
+                {
+                    "artist": "$adness",
+                    "title": "METAMORPHOSIS 5",
+                    "uri": "0pZtMLUlthLSGyypRnoJB5"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bora Dagtekin",
+                    "title": "Kapitel 16.2 - Das perfekte Geheimnis",
+                    "uri": "1MHFN3eS7g3LSN27M686kK"
+                },
+                {
+                    "artist": "Bora Dagtekin",
+                    "title": "Kapitel 8.2 - Das perfekte Geheimnis",
+                    "uri": "7G5soJMyHLn12cHAZIAqH9"
+                },
+                {
+                    "artist": "Bora Dagtekin",
+                    "title": "Kapitel 9.2 - Das perfekte Geheimnis",
+                    "uri": "504iqB7jWuMGCMGqBWscMB"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "SPAZA",
+                    "title": "Bantu Education",
+                    "uri": "0Q11Rn6ZBzThMfZ0YbcLQb"
+                },
+                {
+                    "artist": "Spaze Windu",
+                    "title": "Kreislauf",
+                    "uri": "72AXwaqPKRVoVZmxKZvmcy"
+                },
+                {
+                    "artist": "Spaze Windu",
+                    "title": "Kopf oder Zahl",
+                    "uri": "0Q6SC1OfdElVKJNEBmDDsG"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kelela",
+                    "title": "Raven",
+                    "uri": "3lNsSHUBMTbi9T2fYSxDyj"
+                },
+                {
+                    "artist": "Kelela",
+                    "title": "On the Run",
+                    "uri": "4N9CjZCmixsudkya5a7MtW"
+                },
+                {
+                    "artist": "Kelela",
+                    "title": "Contact",
+                    "uri": "6RlczF1bVrcf4f65qaXuoA"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Elis Regina",
+                    "title": "Roda",
+                    "uri": "074z8J1TfNfec30uKmcSVT"
+                },
+                {
+                    "artist": "Teofilo Chantre",
+                    "title": "Roda Vida",
+                    "uri": "2jgYlZ0NnpV5HJ3EamlDnI"
+                },
+                {
+                    "artist": "MonoJack",
+                    "title": "Roda",
+                    "uri": "1lBaMqhhJIRNqiNSn1EUMc"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Gary Stroutsos",
+                    "title": "Rivers",
+                    "uri": "6lpaovK5fV6UN6zdBPq8UM"
+                },
+                {
+                    "artist": "Gary Stroutsos",
+                    "title": "Rivers",
+                    "uri": "7Bo5Ur5qz8HTfyGU2SWHar"
+                },
+                {
+                    "artist": "Gary Stroutsos",
+                    "title": "Rivers",
+                    "uri": "2pWtzSXbatvwEYs0s7OIO8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gary Stroutsos",
+                    "title": "Rivers",
+                    "uri": "6lpaovK5fV6UN6zdBPq8UM"
+                },
+                {
+                    "artist": "Gary Stroutsos",
+                    "title": "Empty Sky",
+                    "uri": "5BUaJH6BntYkCbLoMCpowL"
+                },
+                {
+                    "artist": "Boney M.",
+                    "title": "Rivers of Babylon",
+                    "uri": "78His8pbKjbDQF7aX5asgv"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "SPAZA",
+                    "title": "Sizwile",
+                    "uri": "3QB6s5or3QwmVEEVAk17HA"
+                },
+                {
+                    "artist": "Bongeziwe Mabandla",
+                    "title": "Mangaliso",
+                    "uri": "4JWc8uU6q7LPJQqlBHttBI"
+                },
+                {
+                    "artist": "Francesco Gabbani",
+                    "title": "Spazio tempo",
+                    "uri": "5gx8iZUd297GDOK3RgkElh"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Deepak Ram",
+                    "title": "Glimpsed Middle Reality",
+                    "uri": "3IgmD0zcy1NDxxbHNN5rbY"
+                },
+                {
+                    "artist": "Deepak Ram",
+                    "title": "A Night In Lenasia",
+                    "uri": "0midcbvx9YKVU7zVm6JeGJ"
+                },
+                {
+                    "artist": "Deepak Ram",
+                    "title": "Kitu",
+                    "uri": "5mLMlFuJK0BUZ9ouRpmxPw"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Robert Aiki Aubrey Lowe",
+                    "title": "Mille Voix",
+                    "uri": "3HAb2QPhllNttEKZNYDdX2"
+                },
+                {
+                    "artist": "Robert Aiki Aubrey Lowe",
+                    "title": "Mille Voix",
+                    "uri": "2xgIquYsnN5kYTH6ag3tci"
+                },
+                {
+                    "artist": "Robert Aiki",
+                    "title": "Mille Voix",
+                    "uri": "7HUe3SzvM1Exj5oaOCS49U"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Robert Aiki Aubrey Lowe",
+                    "title": "Rumours",
+                    "uri": "3hunZvQzEj77PvUq8cyoYd"
+                },
+                {
+                    "artist": "Robert Aiki Aubrey Lowe",
+                    "title": "Mille Voix (Infinite Version) - Bonus Track",
+                    "uri": "7cg9qlvN50kyTDKaBxaPfG"
+                },
+                {
+                    "artist": "Robert Aiki",
+                    "title": "Mille Voix",
+                    "uri": "7HUe3SzvM1Exj5oaOCS49U"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "LiloCox",
+                    "title": "Kunanga",
+                    "uri": "6MluyXjSRxjIinLlxDgCPD"
+                },
+                {
+                    "artist": "LiloCox",
+                    "title": "Kunanga",
+                    "uri": "5VYSkD3hLEqmrN9EDrtzq9"
+                },
+                {
+                    "artist": "FELISTUS MUSILI",
+                    "title": "Kutunga Muvea",
+                    "uri": "2W9EdWvAx64luAo05FjHNR"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Docteur Nico",
+                    "title": "Exhibition Dechaud",
+                    "uri": "4aMYJi9S00tsIdd1fij0pj"
+                },
+                {
+                    "artist": "Docteur Nico",
+                    "title": "Lolita",
+                    "uri": "27ltZR9orSye0B4GOIi3gl"
+                },
+                {
+                    "artist": "Docteur Nico",
+                    "title": "Biantondi Kasanda",
+                    "uri": "5Q8hRS0eCx3wVsJEzr050e"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Space Afrika",
+                    "title": "Meet Me At Sachas",
+                    "uri": "6yI4LxYfqXY09ukPhbogkm"
+                },
+                {
+                    "artist": "Space Afrika",
+                    "title": "Solemn",
+                    "uri": "5fBmfUoxZ012fKtTjcnldU"
+                },
+                {
+                    "artist": "Torsten Sträter",
+                    "title": "Afrika-Tagebuch",
+                    "uri": "2KYKHqRPtFhLkYkormoOul"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Dub Sutra",
+                    "title": "Savasana Dreams",
+                    "uri": "1esXKgPLx7gh7q0gSf9i80"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dub Sutra",
+                    "title": "Savasana Dreams",
+                    "uri": "1esXKgPLx7gh7q0gSf9i80"
+                },
+                {
+                    "artist": "Dub Sutra",
+                    "title": "Sweet Savasana",
+                    "uri": "2SnaynLjSnkYGiaOOyEYVu"
+                },
+                {
+                    "artist": "Dub Sutra",
+                    "title": "Tibetan Bowl Savasana",
+                    "uri": "4EZr3soiwZ3S1LU0f4K6q3"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Xexa",
+                    "title": "Nha Dêdê",
+                    "uri": "504e80nRawIr0vV8bkgg1J"
+                },
+                {
+                    "artist": "Xexa",
+                    "title": "Fevereiro | Nha Dêdê",
+                    "uri": "55lMmaJa8JNaQytn5zl72V"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Xexa",
+                    "title": "Nha Dêdê",
+                    "uri": "504e80nRawIr0vV8bkgg1J"
+                },
+                {
+                    "artist": "Xexa",
+                    "title": "Fevereiro | Nha Dêdê",
+                    "uri": "55lMmaJa8JNaQytn5zl72V"
+                },
+                {
+                    "artist": "Xece Herdem",
+                    "title": "Ne Xema Yarê",
+                    "uri": "3IyJxqyCNt8CKRhUniAMN2"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Taylor Swift",
+                    "title": "evermore (feat. Bon Iver)",
+                    "uri": "3O5osWf1rSoKMwe6E9ZaXP"
+                },
+                {
+                    "artist": "Aari Kumar",
+                    "title": "Evermore",
+                    "uri": "5S2fFnqCM8jYc4GL6k8dWK"
+                },
+                {
+                    "artist": "Rich Vom Dorf",
+                    "title": "Evermore",
+                    "uri": "1MC3Qkc2oC0ISlyrA1YefY"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Oscar Neves",
+                    "title": "Mabelé",
+                    "uri": "1azvX5bcP9jdk5bGWnJoNc"
+                },
+                {
+                    "artist": "Oscar Neves",
+                    "title": "Mabelé",
+                    "uri": "4HL29TLyxqbhvJ9xw1ePmE"
+                },
+                {
+                    "artist": "Oscar Neves",
+                    "title": "Mabelé",
+                    "uri": "5maPNKUwXkSyUIZcmrR1Kb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Oscar Neves",
+                    "title": "Mabelé",
+                    "uri": "4HL29TLyxqbhvJ9xw1ePmE"
+                },
+                {
+                    "artist": "Oscar Neves",
+                    "title": "Mabelé",
+                    "uri": "5maPNKUwXkSyUIZcmrR1Kb"
+                },
+                {
+                    "artist": "Oscar Blue",
+                    "title": "Second Nature",
+                    "uri": "55vgYyGzdVkTlEMxHQuOND"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rabit",
+                    "title": "No Ceiling",
+                    "uri": "3Cv5Cwkm8rWtjnmkIU0qBD"
+                },
+                {
+                    "artist": "A$AP Ferg",
+                    "title": "No Ceilings (feat. Lil Wayne & Jay Gwuapo)",
+                    "uri": "1K2JtjX3s8QaEKvsbC1UXX"
+                },
+                {
+                    "artist": "CVBZ",
+                    "title": "No Ceilings",
+                    "uri": "0RjyaSIyGn9UBf04ZMBibI"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Astrid Sonne",
+                    "title": "Moderato",
+                    "uri": "5nihxnUMrvUAY7NweeNPbT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Astrid Sonne",
+                    "title": "Moderato",
+                    "uri": "5nihxnUMrvUAY7NweeNPbT"
+                },
+                {
+                    "artist": "Moderat",
+                    "title": "A New Error",
+                    "uri": "1fmoCZ6mtMiqA5GHWPcZz9"
+                },
+                {
+                    "artist": "Moderat",
+                    "title": "The Fool",
+                    "uri": "3qadzDCaO7fPtSIG86a5L5"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Space Afrika",
+                    "title": "Lose You Beau",
+                    "uri": "4XPZNAxFifWVLvmWv4a2NR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Space Afrika",
+                    "title": "Lose You Beau",
+                    "uri": "4XPZNAxFifWVLvmWv4a2NR"
+                },
+                {
+                    "artist": "Space Afro",
+                    "title": "Lights",
+                    "uri": "0bZHsSmKpXFOxFtwkmyiaj"
+                },
+                {
+                    "artist": "Space Afrika",
+                    "title": "Meet Me At Sachas",
+                    "uri": "6yI4LxYfqXY09ukPhbogkm"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Jaubi",
+                    "title": "Seek Refuge",
+                    "uri": "3aD10lO7Runy5cpN9YaoNz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jaubi",
+                    "title": "Seek Refuge",
+                    "uri": "3aD10lO7Runy5cpN9YaoNz"
+                },
+                {
+                    "artist": "Shermanology",
+                    "title": "Jabula",
+                    "uri": "6Kb5zYN5rUlBAZC3EqAB0T"
+                },
+                {
+                    "artist": "Pritam",
+                    "title": "Jaadui (From \"Tu Jhoothi Main Makkaar\")",
+                    "uri": "4nriYsKSq1VmiamjZOB4Tp"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Earthen Sea",
+                    "title": "Existing Closer or Deeper in Space",
+                    "uri": "6kzNAm0RiDW3UyxTOimSLU"
+                },
+                {
+                    "artist": "Earthen Sea",
+                    "title": "Existing Closer or Deeper in Space",
+                    "uri": "3BtZNpyYtIX4jkOr9IiNWJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Earthen Sea",
+                    "title": "Existing Closer or Deeper in Space",
+                    "uri": "6kzNAm0RiDW3UyxTOimSLU"
+                },
+                {
+                    "artist": "Earthen Sea",
+                    "title": "Velvet Grey",
+                    "uri": "79F1MjGOMyd8TcJ06ib7ns"
+                },
+                {
+                    "artist": "Earthen Sea",
+                    "title": "Delicately in the Sunlight",
+                    "uri": "6wwJpnx8QOlKhooSOp4I8I"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Odete",
+                    "title": "Lamento",
+                    "uri": "0y2WyYLnTMeRCpDcw1LwEa"
+                },
+                {
+                    "artist": "Odete",
+                    "title": "Lamento",
+                    "uri": "54nvDRnHJD3vmcca0Gght5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Odete",
+                    "title": "Lamento",
+                    "uri": "0y2WyYLnTMeRCpDcw1LwEa"
+                },
+                {
+                    "artist": "JunoxMc",
+                    "title": "Odette la mujer perfecta",
+                    "uri": "7iIQDdBVNAKVd9MdysNM3U"
+                },
+                {
+                    "artist": "Odette Place",
+                    "title": "It Will Be Okay",
+                    "uri": "3CKJGu19FWZvnKQfpFwpmR"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Pauline Oliveros",
+                    "title": "Lear",
+                    "uri": "58tXLPg2DQsrg5ts5CqWrR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pauline Oliveros",
+                    "title": "Lear",
+                    "uri": "58tXLPg2DQsrg5ts5CqWrR"
+                },
+                {
+                    "artist": "Pauline Croze",
+                    "title": "Samba Saravah",
+                    "uri": "4hft7Q7fXqMx31RuIIgTFn"
+                },
+                {
+                    "artist": "Pomme",
+                    "title": "Pauline",
+                    "uri": "4ysbxlUlb00V0vFvq4Ixk1"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "Xexa",
+                    "title": "Dezembro | Toque",
+                    "uri": "6eTGrape5yJqcRwa4BuJYD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Beca$",
+                    "title": "Toque (2x)",
+                    "uri": "3S9jC2rGwjFkf0JmnCZvHX"
+                },
+                {
+                    "artist": "Toque Dez",
+                    "title": "Quero ser o seu amor",
+                    "uri": "2nXzhw6TbhlxqRf9UwwPW4"
+                },
+                {
+                    "artist": "Toque Dez",
+                    "title": "Será que compensa",
+                    "uri": "6qWu0KQnRG7aJrMqeKj0SP"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "Andy Stott",
+                    "title": "Dark Details",
+                    "uri": "46qAFbOoq4jKnAyVs1Ny3w"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Andy Stott",
+                    "title": "New Romantic",
+                    "uri": "4XGQUYPYfHpCMrO8BKOk5F"
+                },
+                {
+                    "artist": "Andy Stott",
+                    "title": "Versi",
+                    "uri": "0BXzLyIdYDtG4Nv0ddyB93"
+                },
+                {
+                    "artist": "Andy Stott",
+                    "title": "Violence",
+                    "uri": "59rWOvuBELmfqvVBI9NiWf"
+                }
+            ]
+        },
+        "25": {
+            "s0": [
+                {
+                    "artist": "Xexa",
+                    "title": "Sisters Dancing",
+                    "uri": "6hbb3iJV16VDYWzF2LQwHw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Xexa",
+                    "title": "Sisters Dancing",
+                    "uri": "6hbb3iJV16VDYWzF2LQwHw"
+                },
+                {
+                    "artist": "Sisters of Mercy",
+                    "title": "Marian - Version",
+                    "uri": "4wBLUjwy4lFXNWzCuxDqfZ"
+                },
+                {
+                    "artist": "S!sters",
+                    "title": "Sister",
+                    "uri": "4AShR4usxlAsDxFAUMZMrM"
+                }
+            ]
+        },
+        "26": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nils Frahm",
+                    "title": "Tristana",
+                    "uri": "1rWDnKZ36nRhI6Ml4vxmdz"
+                },
+                {
+                    "artist": "Tristan Brusch",
+                    "title": "Ein guter Mensch",
+                    "uri": "3SvGKzinB4emDCuetciwij"
+                },
+                {
+                    "artist": "Tristan Brusch",
+                    "title": "Wieder eine Nacht",
+                    "uri": "4LH6hhU2aeTXX8R8vlNWT3"
+                }
+            ]
+        },
+        "27": {
+            "s0": [
+                {
+                    "artist": "Rival Consoles",
+                    "title": "Memory Arc",
+                    "uri": "0SDh7AAKlUSzzzXfuB1aVw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rival Consoles",
+                    "title": "Memory Arc",
+                    "uri": "0SDh7AAKlUSzzzXfuB1aVw"
+                },
+                {
+                    "artist": "Rival Consoles",
+                    "title": "Recovery",
+                    "uri": "0vp09QgBhShrQOL2w7P8k4"
+                },
+                {
+                    "artist": "Rival Consoles",
+                    "title": "Dreamer's Wake",
+                    "uri": "320ePMZ8X0ugeffZk0wNzY"
+                }
+            ]
+        },
+        "28": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Saha Saha",
+                    "title": "Generation",
+                    "uri": "1z19eeInqFOtHqoJN4hXic"
+                },
+                {
+                    "artist": "HeXer",
+                    "title": "Generation Z",
+                    "uri": "7A5J7P3i742I48eaqk238V"
+                },
+                {
+                    "artist": "ZHU",
+                    "title": "Generationwhy",
+                    "uri": "31ZdIGyNncuufUjNTp5ZY3"
+                }
+            ]
+        },
+        "29": {
+            "s0": [
+                {
+                    "artist": "Xexa",
+                    "title": "Agosto | Cold Heat",
+                    "uri": "2mG2PmNEiTeuDRY4XKVpoR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Future",
+                    "title": "XanaX Damage",
+                    "uri": "3tZ4zv4UuenjJGSNUMfBNG"
+                },
+                {
+                    "artist": "XAAXAA",
+                    "title": "gogatsubyo",
+                    "uri": "0ZJhleYiIu9zw82KYexulB"
+                },
+                {
+                    "artist": "Infinity Music",
+                    "title": "Xawexa",
+                    "uri": "6OHRPlai2plYw70p0kJCpZ"
+                }
+            ]
+        }
+    },
     "zamilska-shape-takeover-23rd-april-2015": {
         "00": {
             "s0": [

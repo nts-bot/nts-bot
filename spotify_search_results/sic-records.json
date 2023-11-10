@@ -27427,5 +27427,509 @@
                 }
             ]
         }
+    },
+    "sic-records-9th-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tommy Martini",
+                    "title": "Flor de Luna",
+                    "uri": "09nLiov9e9iz2qiJJCX9eX"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Beach Level",
+                    "uri": "39N1VXqtTqBvUMPzgIUe7l"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Welcome My Son",
+                    "uri": "7dDbj671PZqWN3dlrSzVAj"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Tommy Martini",
+                    "title": "Haunt Wave",
+                    "uri": "6eEYWUhkK4kK0zpChq0hIK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tommy Martini",
+                    "title": "Haunt Wave",
+                    "uri": "6eEYWUhkK4kK0zpChq0hIK"
+                },
+                {
+                    "artist": "Tony Marshall",
+                    "title": "Junge, die Welt ist schön",
+                    "uri": "13vCTwfPahUELrkcTpujnK"
+                },
+                {
+                    "artist": "Garreth Maher",
+                    "title": "Ain't Nobody - Tommy Mc Remix",
+                    "uri": "5lLRKbIjWBcstE6OIHEdSw"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Tommy Martini",
+                    "title": "Sonic Aura",
+                    "uri": "082AgTyzEhZNMUG6GjkzP6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tommy Martini",
+                    "title": "Sonic Aura",
+                    "uri": "082AgTyzEhZNMUG6GjkzP6"
+                },
+                {
+                    "artist": "Tony Marshall",
+                    "title": "Ich fang' für euch den Sonnenschein",
+                    "uri": "3fnEha2TulxAwtiyQd7oDQ"
+                },
+                {
+                    "artist": "Tommy Mambretti",
+                    "title": "Number",
+                    "uri": "14AkTb4MLBk2gPDUGsFJkl"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Tommy Martini",
+                    "title": "Jammin Round Da Clock",
+                    "uri": "1FCN6l73VZEWrm8n9ODFGd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tommy Martini",
+                    "title": "Jammin Round Da Clock",
+                    "uri": "1FCN6l73VZEWrm8n9ODFGd"
+                },
+                {
+                    "artist": "Tommy Martini",
+                    "title": "Flor de Luna",
+                    "uri": "09nLiov9e9iz2qiJJCX9eX"
+                },
+                {
+                    "artist": "Tommy Mambretti",
+                    "title": "Number",
+                    "uri": "14AkTb4MLBk2gPDUGsFJkl"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Welcome My Son",
+                    "uri": "7dDbj671PZqWN3dlrSzVAj"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "64 Chevy",
+                    "uri": "7Gfom2bEmLeYO5a4FkTyCN"
+                },
+                {
+                    "artist": "Professor Klanz",
+                    "title": "Again 66",
+                    "uri": "1cNRpljpFTpudxFaza0NPk"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Epilogue",
+                    "uri": "6yHECZVjV7fNlcX6IJ6gc0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Fat Hands Big Stash",
+                    "uri": "2ffPjMU4NiKCxiXkEwawcX"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "64 Chevy",
+                    "uri": "7Gfom2bEmLeYO5a4FkTyCN"
+                },
+                {
+                    "artist": "Professor Klanz",
+                    "title": "Again 66",
+                    "uri": "1cNRpljpFTpudxFaza0NPk"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Memory Overwrite",
+                    "uri": "0pXff9kIKqUMg5lEDs6eV5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Memory Overwrite",
+                    "uri": "0pXff9kIKqUMg5lEDs6eV5"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Welcome My Son",
+                    "uri": "7dDbj671PZqWN3dlrSzVAj"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "64 Chevy",
+                    "uri": "7Gfom2bEmLeYO5a4FkTyCN"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Easy Mode",
+                    "uri": "1skb9F0N5wsemoLT73nAq2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Easy Mode",
+                    "uri": "1skb9F0N5wsemoLT73nAq2"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "64 Chevy",
+                    "uri": "7Gfom2bEmLeYO5a4FkTyCN"
+                },
+                {
+                    "artist": "Jazz Playaz",
+                    "title": "2 Bricks Later",
+                    "uri": "4RBzgpWuybxJvLYyY0pCyk"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Outta Sight Outta Mind",
+                    "title": "Need to be Anointed Soon",
+                    "uri": "6dgW9BDLpDaPThqRqgTDVa"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Outta Sight Outta Mind",
+                    "title": "Need to be Anointed Soon",
+                    "uri": "6dgW9BDLpDaPThqRqgTDVa"
+                },
+                {
+                    "artist": "Gunna",
+                    "title": "Outta Sight Outta Mind",
+                    "uri": "1iKb3Z8NtkTf9auS0lzKbh"
+                },
+                {
+                    "artist": "Tyler Shaw",
+                    "title": "Out of Sight",
+                    "uri": "2xBknrtjrQlYJndkbYGDvE"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Outta Sight Outta Mind",
+                    "title": "Skybox",
+                    "uri": "0OlXaFcVbTOskgr6V9iiez"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Outta Sight Outta Mind",
+                    "title": "Skybox",
+                    "uri": "0OlXaFcVbTOskgr6V9iiez"
+                },
+                {
+                    "artist": "Gunna",
+                    "title": "Outta Sight Outta Mind",
+                    "uri": "1iKb3Z8NtkTf9auS0lzKbh"
+                },
+                {
+                    "artist": "Yung Vision",
+                    "title": "Outta Sight",
+                    "uri": "6Tal3SBPZaTRU88N80zgKe"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Outta Sight Outta Mind",
+                    "title": "The Day is Yours to Keep",
+                    "uri": "1gpNVDR5Kyv5bv4h2VRfyB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Outta Sight Outta Mind",
+                    "title": "The Day is Yours to Keep",
+                    "uri": "1gpNVDR5Kyv5bv4h2VRfyB"
+                },
+                {
+                    "artist": "Yung Vision",
+                    "title": "Outta Sight",
+                    "uri": "6Tal3SBPZaTRU88N80zgKe"
+                },
+                {
+                    "artist": "Francis",
+                    "title": "Out Of Sight Ain’t Out Of Mind",
+                    "uri": "4VAx1MfvAZmxVq0czyabNy"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Outta Sight Outta Mind",
+                    "title": "Sign Off",
+                    "uri": "5qihMqsGIZZBobegLlRaQd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Outta Sight Outta Mind",
+                    "title": "Sign Off",
+                    "uri": "5qihMqsGIZZBobegLlRaQd"
+                },
+                {
+                    "artist": "Gunna",
+                    "title": "Outta Sight Outta Mind",
+                    "uri": "1iKb3Z8NtkTf9auS0lzKbh"
+                },
+                {
+                    "artist": "Tyler Shaw",
+                    "title": "Out of Sight",
+                    "uri": "2xBknrtjrQlYJndkbYGDvE"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Preset Vision",
+                    "uri": "2R455iLAtpXBbNpwyFhc9n"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Preset Vision",
+                    "uri": "2R455iLAtpXBbNpwyFhc9n"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Welcome My Son",
+                    "uri": "7dDbj671PZqWN3dlrSzVAj"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "64 Chevy",
+                    "uri": "7Gfom2bEmLeYO5a4FkTyCN"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Mirror Majesty",
+                    "uri": "7iQ2qi7F5UNOuI6feaOvwb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Welcome My Son",
+                    "uri": "7dDbj671PZqWN3dlrSzVAj"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "64 Chevy",
+                    "uri": "7Gfom2bEmLeYO5a4FkTyCN"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Fat Hands Big Stash",
+                    "uri": "2ffPjMU4NiKCxiXkEwawcX"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Simply Free",
+                    "uri": "5Zdg0aaC7JF7jNcQ6O1Yz6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Simply Free",
+                    "uri": "5Zdg0aaC7JF7jNcQ6O1Yz6"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Welcome My Son",
+                    "uri": "7dDbj671PZqWN3dlrSzVAj"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "64 Chevy",
+                    "uri": "7Gfom2bEmLeYO5a4FkTyCN"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Throttle",
+                    "title": "Hit the Road Jack",
+                    "uri": "02cflDeFB9gGB8ukUlhN98"
+                },
+                {
+                    "artist": "The Straikerz",
+                    "title": "Hit The Jackpot",
+                    "uri": "5TtjgV6DoGwvmA0NWoz1Bi"
+                },
+                {
+                    "artist": "HARD DEMON",
+                    "title": "HIT THE ROAD JACK - HARDSTYLE",
+                    "uri": "1xfmbqy0A8I56kT2jmHa3C"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Mackjunt.",
+                    "title": "Bayside Chrome",
+                    "uri": "7x3ebPEtoSXDWk0r3KipZg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Obskür",
+                    "title": "Bayside - Radio Edit",
+                    "uri": "7hYW4hKuPkfaLbzTpg9hQB"
+                },
+                {
+                    "artist": "Obskür",
+                    "title": "Bayside",
+                    "uri": "7GhnJwfACNTFXOlyByTWtK"
+                },
+                {
+                    "artist": "Authority Zero",
+                    "title": "Bayside",
+                    "uri": "7brekJbApEyvHnNXkRhfNV"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Welcome To Tomorrow",
+                    "uri": "3SSOSCPYv69tffqeefjd2t"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Welcome My Son",
+                    "uri": "7dDbj671PZqWN3dlrSzVAj"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Fat Hands Big Stash",
+                    "uri": "2ffPjMU4NiKCxiXkEwawcX"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "64 Chevy",
+                    "uri": "7Gfom2bEmLeYO5a4FkTyCN"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Marble Piano",
+                    "uri": "4kkRirAsmJtJKjI25TKyS9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Marble Piano",
+                    "uri": "4kkRirAsmJtJKjI25TKyS9"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Welcome My Son",
+                    "uri": "7dDbj671PZqWN3dlrSzVAj"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "64 Chevy",
+                    "uri": "7Gfom2bEmLeYO5a4FkTyCN"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "CassetteFunk1",
+                    "uri": "2PnkSefofE1L4j5F3HuPvF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "Welcome My Son",
+                    "uri": "7dDbj671PZqWN3dlrSzVAj"
+                },
+                {
+                    "artist": "Professor Creepshow",
+                    "title": "64 Chevy",
+                    "uri": "7Gfom2bEmLeYO5a4FkTyCN"
+                },
+                {
+                    "artist": "Jazz Playaz",
+                    "title": "2 Bricks Later",
+                    "uri": "4RBzgpWuybxJvLYyY0pCyk"
+                }
+            ]
+        }
     }
 }
