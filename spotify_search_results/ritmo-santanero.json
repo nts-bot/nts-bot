@@ -1844,5 +1844,496 @@
                 }
             ]
         }
+    },
+    "ritmo-santanero-7th-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Trio Serenata",
+                    "title": "Cumbia Sobre El Mar",
+                    "uri": "7hrEH3ZniohPrJot0cknZj"
+                },
+                {
+                    "artist": "Trio Serenata",
+                    "title": "Cumbia Sobre El Mar",
+                    "uri": "37pWwirKiLXJM6EKHn3Soq"
+                },
+                {
+                    "artist": "Quantic",
+                    "title": "Cumbia Sobre el Mar",
+                    "uri": "61muv9lHtgN18qbm9oK9pH"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Raul Lopez",
+                    "title": "Playa, Mar y Cielo",
+                    "uri": "0iDOzcuc8DYpmTqVAA9rhA"
+                },
+                {
+                    "artist": "Raul Lopez",
+                    "title": "Playa Mar y Cielo",
+                    "uri": "7pIYvuOvBgABeVgTN919Oc"
+                },
+                {
+                    "artist": "Raul Lopez",
+                    "title": "Playa, Mar y Cielo",
+                    "uri": "5HJlevjEU0FT8AUk9bbFNJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Raul Lopez",
+                    "title": "Playa Mar y Cielo",
+                    "uri": "60opsyFtABSHz9CjOKRsKY"
+                },
+                {
+                    "artist": "Mark B.",
+                    "title": "Playa y Arena (Remix)",
+                    "uri": "4Q6Z7fn2xVhPZ1xn0XfEOY"
+                },
+                {
+                    "artist": "Raul Paz",
+                    "title": "Havanization",
+                    "uri": "7mOVKasOXsFdsw2DzY4ZVR"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Organización Barranquilla",
+                    "title": "Cumbia Barranquilla",
+                    "uri": "4hmpZ8EwK8FsoGMfJHYJqv"
+                },
+                {
+                    "artist": "Organización Barranquilla",
+                    "title": "Cumbia Cartagena",
+                    "uri": "5o7gTbfpd72R62mt3Ok57A"
+                },
+                {
+                    "artist": "Organización Barranquilla",
+                    "title": "Cumbia de Mi Amor",
+                    "uri": "5KcAsEzM0BzwRaYqCLUPRG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Super grupo acd",
+                    "title": "Cumbia en Barranquilla",
+                    "uri": "49TomDkbwGe6gZscgiuiku"
+                },
+                {
+                    "artist": "Joe Arroyo",
+                    "title": "En Barranquilla Me Quedo",
+                    "uri": "3WXfQDsASfXrSojk9WB3aR"
+                },
+                {
+                    "artist": "Fruko Y Sus Tesos",
+                    "title": "Barranquillero Arrebatao",
+                    "uri": "1sRY0Zez8RbxqsxzEWjNLg"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Los Playeros",
+                    "title": "Amor Prohibido",
+                    "uri": "0DgjfLoPgqkDpsgJrmscZo"
+                },
+                {
+                    "artist": "Los Playeros",
+                    "title": "Enamorado de Ti",
+                    "uri": "1jmiWGR9OrRyfPoyPRZntY"
+                },
+                {
+                    "artist": "Los Player's de Tuzantla",
+                    "title": "Bailando sobre al arena",
+                    "uri": "4TATrWnOVGMrPjnKfc0J4A"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Celso Piña",
+                    "title": "La manda",
+                    "uri": "4EIKuhUF59Y2tf5wiBpI8I"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Celso Piña",
+                    "title": "La manda",
+                    "uri": "4EIKuhUF59Y2tf5wiBpI8I"
+                },
+                {
+                    "artist": "Celso Piña",
+                    "title": "Cumbia sobre el río / Interludio",
+                    "uri": "77wwKKYeNZnXZ8xChSiSxN"
+                },
+                {
+                    "artist": "Explosion Colombiana De Ortiz Ortiz",
+                    "title": "Mosaico De Celso Piña",
+                    "uri": "2zZ7ZbUsO9BNTRrGFNReDZ"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Alfredo Gutierrez",
+                    "title": "Dorándome la Píldora",
+                    "uri": "7mSJ0Cl622FdyUcPTpHv8c"
+                },
+                {
+                    "artist": "Alfredo Gutierrez",
+                    "title": "Dorandome la Pildora",
+                    "uri": "0rv0Sea92Y19PRFjZLwfTA"
+                },
+                {
+                    "artist": "Alfredo Gutierrez",
+                    "title": "Dorándome La Pildora",
+                    "uri": "4vSohhH77zTFWW72x5FH4U"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Alfredo Gutierrez",
+                    "title": "Dorándome la Píldora",
+                    "uri": "7mSJ0Cl622FdyUcPTpHv8c"
+                },
+                {
+                    "artist": "Alfredo Gutierrez",
+                    "title": "La Píldora",
+                    "uri": "7EQsj4tpBAe5xDMNNlkNCs"
+                },
+                {
+                    "artist": "Alfredo Gutierrez",
+                    "title": "Festival En Guarare",
+                    "uri": "0J3WJy4IGIaGcfWR85xv2g"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Proyecto Uno",
+                    "title": "Tiburon",
+                    "uri": "26T9IOS6Bi9iOUjKkcZsZo"
+                },
+                {
+                    "artist": "Proyecto Uno",
+                    "title": "Tiburon",
+                    "uri": "2GcjfckZexh9wRRjg9KtQG"
+                },
+                {
+                    "artist": "Ricky Martin",
+                    "title": "Tiburones",
+                    "uri": "1zIshc2P9l5AZsOpJWmdTM"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Alvaro Cardenas Y Su Combo",
+                    "title": "Cumbia en Do",
+                    "uri": "2rl0MSDCa7aFdzQ5pC99AN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Alvaro Carrillo",
+                    "title": "La Mentira \"Se Te Olvida\"",
+                    "uri": "0G96Q4KvsZpREwEZcAQhOM"
+                },
+                {
+                    "artist": "Alvaro Carrillo",
+                    "title": "El Andariego",
+                    "uri": "7DJt78nE0IFZLMcpumIfiA"
+                },
+                {
+                    "artist": "Alvaro Garavito",
+                    "title": "Amigo",
+                    "uri": "6yBmWVwFA38rAwayN1fkBb"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alberto Pacheco",
+                    "title": "Cumbia cieneguera",
+                    "uri": "4beJkTMCJBf6oGZo0Ws3Qd"
+                },
+                {
+                    "artist": "Pacheco Satulio",
+                    "title": "Amistad Y Familia",
+                    "uri": "3XoZK5cPKPE0QgOBTyN3lU"
+                },
+                {
+                    "artist": "Pacheco Satulio",
+                    "title": "Juventud",
+                    "uri": "0nFSPyVSHfZpWj5dmExIWI"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Los Camaleón",
+                    "title": "Un Vestido de Besos",
+                    "uri": "1EJRafaPBnz2SRXtB1BLX6"
+                },
+                {
+                    "artist": "Los Camaleón",
+                    "title": "Mi Buen Corazón",
+                    "uri": "7a40N48B4VEojwlOttb4eM"
+                },
+                {
+                    "artist": "Raúl Arquínigo",
+                    "title": "Otro Año Mas Sin Ti",
+                    "uri": "6Kf1HtesdKaZsigoELA5fW"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pedro Laza Y Sus Pelayeros",
+                    "title": "La Papagaya - Instrumental",
+                    "uri": "7wN8O4PeiTpmRPeURfgcE1"
+                },
+                {
+                    "artist": "Pedro Laza Y Sus Pelayeros",
+                    "title": "Cumbia en el Monte",
+                    "uri": "6WozspQ3YhGznIs4kXafnv"
+                },
+                {
+                    "artist": "Yiuliusly",
+                    "title": "Papaya",
+                    "uri": "30Jf4qTyfEJWDZj5VgIti5"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Los Corraleros del Mamonal",
+                    "title": "Murió el Pescador",
+                    "uri": "1HeM5Jvp2akCua31RA5lpD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Los Corraleros del Mamonal",
+                    "title": "Murió el Pescador",
+                    "uri": "1HeM5Jvp2akCua31RA5lpD"
+                },
+                {
+                    "artist": "Los Corraleros del Mamonal",
+                    "title": "Canto al Pescador",
+                    "uri": "0SB71juRJ2dr9zfM0am6zL"
+                },
+                {
+                    "artist": "Los Corraleros De Majagual",
+                    "title": "Sin Alma y Sin Corazón",
+                    "uri": "0ssqgnophRd5RwaOVyEC3l"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pedro Miguel y Sus Maracaibos",
+                    "title": "Gaita y Sorongo",
+                    "uri": "68OXOA3PPMSE5BRuPIUADz"
+                },
+                {
+                    "artist": "Trio Hugo Diaz",
+                    "title": "Garufa",
+                    "uri": "1Tj6FwncsWhV0v7XALqZNP"
+                },
+                {
+                    "artist": "Gus",
+                    "title": "gaita zuliana",
+                    "uri": "0BvtrXTAW2Fg9eadf3UVLa"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Super Conjunto Fenix",
+                    "title": "Cumbia Sobre El Mar",
+                    "uri": "3xrfLIZ9mlNv9DLfUOC74C"
+                },
+                {
+                    "artist": "Super Conjunto Fenix",
+                    "title": "Cumbia Sobre el mar",
+                    "uri": "5iAA8kBREfoRwrJydHQhpO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Quantic",
+                    "title": "Cumbia Sobre El Mar",
+                    "uri": "7KooLjzPsWw4TT12acawEB"
+                },
+                {
+                    "artist": "Quantic",
+                    "title": "Cumbia Sobre el Mar",
+                    "uri": "61muv9lHtgN18qbm9oK9pH"
+                },
+                {
+                    "artist": "Quantic",
+                    "title": "Cumbia Sobre el Mar - El Búho Remix",
+                    "uri": "0p8LlXT1FG9vnrCH70dbuo"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Grupo Curramba",
+                    "title": "Carabali",
+                    "uri": "6jXpQLFaWq2flogKm9LCRL"
+                },
+                {
+                    "artist": "Grupo Curramba",
+                    "title": "Carabali",
+                    "uri": "1O2QoZHayjgVUC1wFvNV3L"
+                },
+                {
+                    "artist": "Grupo Curramba",
+                    "title": "Carabali - 2022 Remastered",
+                    "uri": "20uXM1Sr7mWeKwhU5vzlSO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Grupo Curramba",
+                    "title": "Carabali",
+                    "uri": "6jXpQLFaWq2flogKm9LCRL"
+                },
+                {
+                    "artist": "Grupo Curramba",
+                    "title": "Carabali - 2022 Remastered",
+                    "uri": "20uXM1Sr7mWeKwhU5vzlSO"
+                },
+                {
+                    "artist": "Los Cantaritos del Ritmo",
+                    "title": "Carabali",
+                    "uri": "4ecRskIxIF5vmMrI5Q58vi"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Climaco Sarmiento Y Su Orquesta",
+                    "title": "Cumbia Sabrosa",
+                    "uri": "6Y6PTCU5SOHkYLTsJdPTYL"
+                },
+                {
+                    "artist": "Los Magos de La Cumbia",
+                    "title": "Amor y Deuda",
+                    "uri": "7cHPtIQuGyjiQbsZuC4B5J"
+                },
+                {
+                    "artist": "Los Magix",
+                    "title": "Mentiras",
+                    "uri": "0FCnCqLsjxYdfcdyjaKPa6"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Compay Quinto",
+                    "title": "El Diablo",
+                    "uri": "5JXTjnYJd1STK0BWh3FIBS"
+                },
+                {
+                    "artist": "Compay Quinto",
+                    "title": "El Carbonero",
+                    "uri": "79o5glRFXxNycng6fSRzUr"
+                },
+                {
+                    "artist": "Compay Quinto",
+                    "title": "El Cumbanchero",
+                    "uri": "4MtKFwkVPaaUi0irrr1vde"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Compay Quinto",
+                    "title": "El Diablo",
+                    "uri": "5JXTjnYJd1STK0BWh3FIBS"
+                },
+                {
+                    "artist": "Compay Quinto",
+                    "title": "El Diablo",
+                    "uri": "1Oaa8vnrsYXxASLJNQ9pGl"
+                },
+                {
+                    "artist": "Compay Quinto",
+                    "title": "El Diablo",
+                    "uri": "4Gyjp0XvKu69hW1OJOFrm7"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ivan Cantor Su Mero Estilo",
+                    "title": "Jilguerito Alegre",
+                    "uri": "2kwWCGRQ0w857EA6S5nWWt"
+                },
+                {
+                    "artist": "Las Jilguerillas",
+                    "title": "Que Ventanas Tan Altas",
+                    "uri": "3KIK15aaMbEK5b3BwzItvF"
+                },
+                {
+                    "artist": "Las Jilguerillas",
+                    "title": "Vino Maldito",
+                    "uri": "2DGHtKNy9yfbKuMRFffHO0"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Los Buitres De Culiacan",
+                    "title": "Lamberto Quintero",
+                    "uri": "5PQGQuJ1CybHQ8K3aDmq9n"
+                },
+                {
+                    "artist": "Alberto Pedraza",
+                    "title": "Medley del Recuerdo: Un Son, Cumbia Caderona, Yambo, la Hierba Se Movía - En Vivo Desde el Teatro Metropólitan",
+                    "uri": "7eeqIJKV6EhNQQe66AaGJY"
+                },
+                {
+                    "artist": "Alberto Márquez",
+                    "title": "Quien",
+                    "uri": "1xZifsPyMCIGvAEit0QdYI"
+                }
+            ]
+        }
     }
 }

@@ -486,6 +486,52 @@
             "title": "Understand"
         }
     },
+    "its-nation-time-6th-november-2023": {
+        "00": {
+            "artist": "Killing Time",
+            "title": "沈黙する湖 [Psychotropicnic]"
+        },
+        "01": {
+            "artist": "Yoshiko Sai",
+            "title": "Nemuri No Kuni (眠りのくに)"
+        },
+        "02": {
+            "artist": "Hamza El Din",
+            "title": "Amen"
+        },
+        "03": {
+            "artist": "k.d. lang",
+            "title": "Myth"
+        },
+        "04": {
+            "artist": "Curtis Mayfield",
+            "title": "I Loved And I Lost"
+        },
+        "05": {
+            "artist": "Jean-Pierre Mas, ",
+            "title": "Ada"
+        },
+        "06": {
+            "artist": "Doug Carn",
+            "title": "Moon Child"
+        },
+        "07": {
+            "artist": "Jade Warrior",
+            "title": "Morning Hymn"
+        },
+        "08": {
+            "artist": "Toshifumi Hinata",
+            "title": "Tasos De Grece"
+        },
+        "09": {
+            "artist": "David Sancious",
+            "title": "East India"
+        },
+        "10": {
+            "artist": "Tone Jansa Jazz Kvartet",
+            "title": "Vitta Quelle"
+        }
+    },
     "its-nation-time-7th-november-2022": {
         "00": {
             "artist": "Mahjun",
@@ -521,5 +567,62 @@
         }
     },
     "its-nation-time-9th-january-2017": "",
-    "its-nation-time-9th-october-2023": {}
+    "its-nation-time-9th-october-2023": {
+        "00": {
+            "artist": "Milton Nascimento",
+            "title": "Francisco"
+        },
+        "01": {
+            "artist": "Tony Brown",
+            "title": "Till I Saw You"
+        },
+        "02": {
+            "artist": "Gene McDaniels",
+            "title": "Can't Get Enough Of You"
+        },
+        "03": {
+            "artist": "General Lee, ",
+            "title": "We Did It Baby (Pt. 1)"
+        },
+        "04": {
+            "artist": "Chuck Edwards",
+            "title": "Oh La La"
+        },
+        "05": {
+            "artist": "Gotham",
+            "title": "Behind The Wall"
+        },
+        "06": {
+            "artist": "David Sancious",
+            "title": "Still Blue"
+        },
+        "07": {
+            "artist": "Syreeta",
+            "title": "Black Maybe"
+        },
+        "08": {
+            "artist": "Gil Scott-Heron & Brian Jackson",
+            "title": "Alluswe"
+        },
+        "09": {
+            "artist": "Danny O'Keefe",
+            "title": "Islands"
+        },
+        "10": {
+            "artist": "Madcliff",
+            "title": "It Takes A Little More"
+        },
+        "11": {
+            "artist": "Gary Marks",
+            "title": "A Gina Theme"
+        },
+        "12": {
+            "artist": "Michael Gregory Jackson",
+            "title": "American Dream"
+        },
+        "13": {
+            "artist": "David Sancious",
+            "title": "Dream 9"
+        }
+    }
 }

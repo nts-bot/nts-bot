@@ -341,5 +341,82 @@
             "title": "Orq Barron"
         }
     },
-    "ritmo-santanero-7th-november-2023": {}
+    "ritmo-santanero-7th-november-2023": {
+        "00": {
+            "artist": "Trio Serrenata",
+            "title": "Cumbia Sobre El Mar"
+        },
+        "01": {
+            "artist": "Raul Lopez, ",
+            "title": "Playa Mar Y Cielo"
+        },
+        "02": {
+            "artist": "Organizacion Barranquilla",
+            "title": "Cumbia Barranquilla"
+        },
+        "03": {
+            "artist": "Los Playeros Del Caribe",
+            "title": "Cumbia Marina"
+        },
+        "04": {
+            "artist": "Celso Piña",
+            "title": "La Manda"
+        },
+        "05": {
+            "artist": "Alfredo Gutierrez, ",
+            "title": "Dorandome La Pildora "
+        },
+        "06": {
+            "artist": "Los Tiburones",
+            "title": "El Indio Fiestero"
+        },
+        "07": {
+            "artist": "Alvaro Cárdenas Y Su Combo",
+            "title": "Cumbia En Do"
+        },
+        "08": {
+            "artist": "Alberto Pacheco, ",
+            "title": "La Luna Y El Mar"
+        },
+        "09": {
+            "artist": "Los Cañamilleros de Soledad",
+            "title": "Otro Amorcito"
+        },
+        "10": {
+            "artist": "Pedro Laza Y Sus Playeros",
+            "title": "La Papagaya"
+        },
+        "11": {
+            "artist": "Corraleros De Mamonal",
+            "title": "Murio El Pescador"
+        },
+        "12": {
+            "artist": "Rufo Garrido Y Su Orquesta",
+            "title": "Gaita Real"
+        },
+        "13": {
+            "artist": "Super Conjunto Fenix",
+            "title": "Cumbia Sobre El Mar "
+        },
+        "14": {
+            "artist": "Grupo Curramba",
+            "title": "Carabali"
+        },
+        "15": {
+            "artist": "Gustavo Rey Y Los Magos Del Ritmo",
+            "title": "Cumbia Santandereanda"
+        },
+        "16": {
+            "artist": "Compay Quinto",
+            "title": "El Diablo "
+        },
+        "17": {
+            "artist": "Los Nada Que Ver",
+            "title": "Jilguerito Alegre"
+        },
+        "18": {
+            "artist": "Alberto Laverde",
+            "title": "Enamorada De Un Amigo Mío "
+        }
+    }
 }

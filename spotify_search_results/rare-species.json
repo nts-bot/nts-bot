@@ -18707,6 +18707,229 @@
             ]
         }
     },
+    "rare-species-7th-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Colapesce",
+                    "title": "Immaginario",
+                    "uri": "1qF586iFKb5NaDKqkR8Xs1"
+                },
+                {
+                    "artist": "Collettivo Armonico",
+                    "title": "Suspended",
+                    "uri": "2uB8FHqxIKWIwxhF6PbKJQ"
+                },
+                {
+                    "artist": "Collective Soul",
+                    "title": "The World I Know",
+                    "uri": "1HSVpIU0XU1WuwiBLBWAZd"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Tommaso Cappellato",
+                    "title": "April In Parrish",
+                    "uri": "1oTiRQQ0l7sNOJxNqDjFx0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Billie Holiday",
+                    "title": "April In Paris",
+                    "uri": "34zhjduFdQFhkRUJ230h9T"
+                },
+                {
+                    "artist": "Charlie Parker",
+                    "title": "April In Paris",
+                    "uri": "5rPMbUxXRXvWu89k0n6Sxj"
+                },
+                {
+                    "artist": "Tommaso Paradiso",
+                    "title": "Piove in discoteca",
+                    "uri": "2sq8FbkawJuFrLjyi3l4LH"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Rosa Brunello",
+                    "title": "Jubiabá",
+                    "uri": "3vUY3CuKmKDBcRwdnoC5c6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rosa Brunello",
+                    "title": "Jubiabá",
+                    "uri": "3vUY3CuKmKDBcRwdnoC5c6"
+                },
+                {
+                    "artist": "Michele Zarrillo",
+                    "title": "Una rosa blu",
+                    "uri": "5jxSBX0WLuaq7BE370p4Ad"
+                },
+                {
+                    "artist": "Die Orsons",
+                    "title": "Rosa, Blau, Grün",
+                    "uri": "4qC0H1RHG3EnHw3qIyyxYb"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Alessia Obino",
+                    "title": "Thursday Surrender",
+                    "uri": "5pM45Zl4iO9NXidFINCwbM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Asobi Seksu",
+                    "title": "Thursday",
+                    "uri": "6MC9eyZJiicT4tT2YOqf5d"
+                },
+                {
+                    "artist": "The Weeknd",
+                    "title": "Thursday",
+                    "uri": "4fiYSa6ln7h0scprgNEs0g"
+                },
+                {
+                    "artist": "BLVKSHP",
+                    "title": "Thursday",
+                    "uri": "62KumiHcX17c8KBuUQyTpT"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tommaso Paradiso",
+                    "title": "Non Avere Paura",
+                    "uri": "1qMx707PFdFXdwLvcUTNz3"
+                },
+                {
+                    "artist": "Tommaso Farinetti",
+                    "title": "feel your breath",
+                    "uri": "28ewCoblucxO8hREd3s6zK"
+                },
+                {
+                    "artist": "Tommaso Paradiso",
+                    "title": "Piove in discoteca",
+                    "uri": "2sq8FbkawJuFrLjyi3l4LH"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Rosa Brunello",
+                    "title": "Traffic Jam Dance",
+                    "uri": "5xWqiZwfygn8TrVMD8QQLr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rosa Brunello",
+                    "title": "Traffic Jam Dance",
+                    "uri": "5xWqiZwfygn8TrVMD8QQLr"
+                },
+                {
+                    "artist": "Ruben Hein",
+                    "title": "Traffic Jam",
+                    "uri": "3cKMxZt3WTp0tIiF3j2rX3"
+                },
+                {
+                    "artist": "BastiBasti",
+                    "title": "Rosa Benzin",
+                    "uri": "6KD4yHCqmFP3TbXqUrjKdx"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Collettivo Immaginario",
+                    "title": "Libra",
+                    "uri": "2ay2TQ4bhDwzSfsVzqDX8x"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Collettivo Immaginario",
+                    "title": "Libra",
+                    "uri": "2ay2TQ4bhDwzSfsVzqDX8x"
+                },
+                {
+                    "artist": "Zaloir",
+                    "title": "Libra",
+                    "uri": "57d1qNGazpcH5ZTdrmI6k4"
+                },
+                {
+                    "artist": "Chris Palmer",
+                    "title": "The Librarian's Secret",
+                    "uri": "35uI739WWPi6WxJrhuw7PL"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dorothy Ashby",
+                    "title": "Soul Vibrations",
+                    "uri": "2EYLIdBeJZrQqFA0xkzQnu"
+                },
+                {
+                    "artist": "Aso",
+                    "title": "Soul Vibe",
+                    "uri": "2tKdLDOCXCwW3FQCIWaZ2E"
+                },
+                {
+                    "artist": "Hiroki Mizukami",
+                    "title": "Soul Vibration",
+                    "uri": "4YLq1BpTPdMJNUUD8nJoYZ"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Rosa Brunello",
+                    "title": "Desert Moon Stomp",
+                    "uri": "0WNz9ztljF8aCLtppmucnj"
+                },
+                {
+                    "artist": "Rosa Brunello",
+                    "title": "Desert Moon Stomp - DJ Stepmom Remix",
+                    "uri": "21HQIfQyTYGu0WZnhZYf4L"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rosa Brunello",
+                    "title": "Desert Moon Stomp",
+                    "uri": "0WNz9ztljF8aCLtppmucnj"
+                },
+                {
+                    "artist": "Brunori Sas",
+                    "title": "Rosa",
+                    "uri": "0ha0m8Xz0EuhIwiq8TuKUo"
+                },
+                {
+                    "artist": "LeFrers",
+                    "title": "Rosa Brille",
+                    "uri": "6kCC8BfDPZT38RcPKW0aMg"
+                }
+            ]
+        }
+    },
     "rare-species-8th-july-2019": {
         "00": {
             "s0": [
