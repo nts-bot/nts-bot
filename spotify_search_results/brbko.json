@@ -1,4 +1,726 @@
 {
+    "brbko-10th-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Siesta Beats",
+                    "title": "Two Track",
+                    "uri": "4W0IrD2VVLwxfsAgevJRgD"
+                },
+                {
+                    "artist": "Oslo",
+                    "title": "No Train",
+                    "uri": "6Dbkx0yRv8X6BRutRy40Zx"
+                },
+                {
+                    "artist": "Janno",
+                    "title": "Bae",
+                    "uri": "2Bdl0ni5x5te6YnVI0krYY"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "John Williams",
+                    "title": "Prologue",
+                    "uri": "63yTIjtIfzjvyHZIihAmIS"
+                },
+                {
+                    "artist": "Grant Lee Buffalo",
+                    "title": "The Hook",
+                    "uri": "6XNQnxEDtm4bTCdWp28ckr"
+                },
+                {
+                    "artist": "Mark Mancina",
+                    "title": "The Hook",
+                    "uri": "7xbi8QF856p0M5KRHMOrfJ"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Branko",
+                    "title": "NAFÉ",
+                    "uri": "76btbxN0UYtOuCHt2ODhT4"
+                },
+                {
+                    "artist": "Brakkaboyy",
+                    "title": "Normale Brakka",
+                    "uri": "2B5R3mYTY6p4ea9zQKV0jN"
+                },
+                {
+                    "artist": "BRKN LOVE",
+                    "title": "Spell",
+                    "uri": "2r7AMMj6FbI0pj6iIHv7go"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "1019",
+                    "title": "Uber (feat. Omar101 & Karamel19)",
+                    "uri": "4by8035PdLnr5Q5lDubk9q"
+                },
+                {
+                    "artist": "MadeinTYO",
+                    "title": "Uber Everywhere",
+                    "uri": "7zBPzAjKAqQpcv8F8GCq5s"
+                },
+                {
+                    "artist": "Levin Liam",
+                    "title": "Uber X (Kathryn's Song)",
+                    "uri": "2UPX1XBI8AXzTqMpDqPhYg"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "HI-LO",
+                    "title": "Mercury",
+                    "uri": "3NWMxXgzWvtO3j8o9eFkOi"
+                },
+                {
+                    "artist": "Dave",
+                    "title": "Mercury",
+                    "uri": "1w6Gcw670LjrAnrbAWObqT"
+                },
+                {
+                    "artist": "Ghostemane",
+                    "title": "Mercury: Retrograde",
+                    "uri": "0UKzG4fJ1LXf6DInew5vcV"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tems",
+                    "title": "Looku Looku",
+                    "uri": "3GJ4pBRc3T9aDP59S0UKHn"
+                },
+                {
+                    "artist": "Rap La Rue",
+                    "title": "Look Look",
+                    "uri": "0FLU3ioB31M9uyCJGzzXpA"
+                },
+                {
+                    "artist": "Conan Gray",
+                    "title": "Lookalike",
+                    "uri": "4K3gM7kzX4POAfrs71HomN"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Destroy Lonely",
+                    "title": "brazy girls",
+                    "uri": "0OVLwmkhKi970zNb8xff4W"
+                },
+                {
+                    "artist": "Fredo Bang",
+                    "title": "Brazy (with YNW Melly)",
+                    "uri": "6wVUIV8RvwlLJlK1DsgVdj"
+                },
+                {
+                    "artist": "LUCKI",
+                    "title": "BRAZY WEEKEND",
+                    "uri": "1Hu1SN81Anoh6KzoCeW4VV"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Örsten",
+                    "title": "Fleur Blanche",
+                    "uri": "0vpxHngtbm6hrdQZHsmOMb"
+                },
+                {
+                    "artist": "Chloé Caillet",
+                    "title": "Move Up",
+                    "uri": "4mxoDuIrL1O0BveAXpX2lD"
+                },
+                {
+                    "artist": "Bezo",
+                    "title": "Chloé",
+                    "uri": "1DCCMK9okHIPpWJqOWFHW8"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dark Polo Gang",
+                    "title": "Cavallini (feat. Sfera Ebbasta)",
+                    "uri": "3StzACYDEYmfOOWNU83iRs"
+                },
+                {
+                    "artist": "Francesco Cavalli",
+                    "title": "Cavalli: Pompeo Magno, Act 2: \"Incomprensibil nume\" (Pompeo Magno)",
+                    "uri": "1w4HleeHslcs6zfrccK7ig"
+                },
+                {
+                    "artist": "Francesco Cavalli",
+                    "title": "Musiche sacre concernenti messa, e salmi concertati con istromenti, imni, antifone et sonate: Canzon a 3",
+                    "uri": "7t7EWUauVFKkZYQT8QopK2"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ballaké Sissoko",
+                    "title": "Wo Yé N'Gnougobine",
+                    "uri": "07KsS4IqdRckOlD4LqjqAe"
+                },
+                {
+                    "artist": "Ballaké Sissoko",
+                    "title": "Prélude",
+                    "uri": "46wFgbEuiX3YDn56wXwMLx"
+                },
+                {
+                    "artist": "Ballaké Sissoko",
+                    "title": "Musique de nuit",
+                    "uri": "5f07XKNTZBnWYjQU1ugDDW"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Les Baxter",
+                    "title": "Acapulco",
+                    "uri": "49wOyvTnJ0Xt1ER5GwKyCD"
+                },
+                {
+                    "artist": "Les Baxter",
+                    "title": "Acapulco - Remastered",
+                    "uri": "4FL0n6IQPqkqpPvSU1ET40"
+                },
+                {
+                    "artist": "Les Baxter",
+                    "title": "Acapulco",
+                    "uri": "5Vt0nDRdbnQMkJhvI1iIGe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Les Baxter",
+                    "title": "Acapulco",
+                    "uri": "49wOyvTnJ0Xt1ER5GwKyCD"
+                },
+                {
+                    "artist": "Les Baxter",
+                    "title": "Acapulco - Remastered",
+                    "uri": "4FL0n6IQPqkqpPvSU1ET40"
+                },
+                {
+                    "artist": "Jason Derulo",
+                    "title": "Acapulco",
+                    "uri": "3eJH2nAjvNXdmPfBkALiPZ"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Kanye West",
+                    "title": "Guilt Trip",
+                    "uri": "5nPOM0nFRAJ3XI8xCxNAzO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kanye West",
+                    "title": "Guilt Trip",
+                    "uri": "5nPOM0nFRAJ3XI8xCxNAzO"
+                },
+                {
+                    "artist": "Guilt Trip",
+                    "title": "Fallen at My Feet",
+                    "uri": "05o5GaLJ2W0y7wDJklgVkp"
+                },
+                {
+                    "artist": "Guilt Trip",
+                    "title": "The Gates",
+                    "uri": "4em3j3DHj1AQO6Cz3r2XIQ"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kojo Antwi",
+                    "title": "Bomi Nkomo De",
+                    "uri": "0fVKxlZ1FIEkAMrZcM5nNy"
+                },
+                {
+                    "artist": "Kojo Antwi",
+                    "title": "Bome Nkomo De",
+                    "uri": "3exYbKOPsVkQrCe6yFlySl"
+                },
+                {
+                    "artist": "Kojo Antwi",
+                    "title": "Bomi Nkomo De",
+                    "uri": "44auoRajKnTRj13scJsYWq"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lil Peep",
+                    "title": "hellboy",
+                    "uri": "3nvq7dUw9ISmhtrjBrSfOE"
+                },
+                {
+                    "artist": "IVOXYGEN",
+                    "title": "hellboy",
+                    "uri": "5RNQ0HdrZncok8cJdaXzfR"
+                },
+                {
+                    "artist": "Herizen",
+                    "title": "Hellboy",
+                    "uri": "6vyZoVd526u1Z0Di5qv0Qq"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lancey Foux",
+                    "title": "LANCEY OR LANCEY",
+                    "uri": "187zHzb6JDM4YDSFNGkQ9u"
+                },
+                {
+                    "artist": "Lancey Foux",
+                    "title": "LANCEY OR LANCEY",
+                    "uri": "0r9dAIY2lowD2Ao1Fsrkk7"
+                },
+                {
+                    "artist": "Lancey Foux",
+                    "title": "ADHD",
+                    "uri": "4XHTWlzGir4veOEBFTQZzi"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "MHG Dell",
+                    "title": "Pony",
+                    "uri": "5F2bceW0LgxMIewXFGQa1q"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "MHG Dell",
+                    "title": "Pony",
+                    "uri": "5F2bceW0LgxMIewXFGQa1q"
+                },
+                {
+                    "artist": "My Little Pony",
+                    "title": "Pony-Nachwuchs - Teil 2",
+                    "uri": "5XW78CFlcPbdOZM4kZ7h04"
+                },
+                {
+                    "artist": "My Little Pony",
+                    "title": "Pony-Nachwuchs - Teil 6",
+                    "uri": "1s9AzeF1OxPsyU8gpCMDm9"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Rainy Miller",
+                    "title": "Sweet (I'm Free) [feat. RenzNiro & Iceboy Violet]",
+                    "uri": "5FxL9OeHqEkhUicoBtEDYl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rainy Miller",
+                    "title": "Sweet (I'm Free) [feat. RenzNiro & Iceboy Violet]",
+                    "uri": "5FxL9OeHqEkhUicoBtEDYl"
+                },
+                {
+                    "artist": "Rainy Miller",
+                    "title": "Do You Have Any Sympathy Left?",
+                    "uri": "4012K1G6bhGjKhyCMOtJt4"
+                },
+                {
+                    "artist": "Rainy Miller",
+                    "title": "00-Down / Murmansk, 12",
+                    "uri": "1RHRccN0AJpB5nLXswdBQU"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "S.ouley",
+                    "title": "Coo coo",
+                    "uri": "7gkvV9KZdVl19edxrysibz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Santigold",
+                    "title": "Coo Coo Coo",
+                    "uri": "0Tnlo8vLJr5dDOK6K3Uljh"
+                },
+                {
+                    "artist": "La Perfecta",
+                    "title": "La divinité - Live",
+                    "uri": "61Q5eiiacvOKlvGD1fkfr1"
+                },
+                {
+                    "artist": "Big Brother & The Holding Company",
+                    "title": "Coo Coo",
+                    "uri": "5PEEbmeELam84bKuxZsoj2"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Halloween Sound Machine",
+                    "title": "Grim Grinning Ghosts (Theme from \"The Haunted Mansion\") [Instrumental]",
+                    "uri": "2OuQXKtqlCYyEe5k0mcwoT"
+                },
+                {
+                    "artist": "Kris Bowers",
+                    "title": "Grim Grinning Ghosts (Dance Party)",
+                    "uri": "7raiG1962Kb1UyD8otwGXZ"
+                },
+                {
+                    "artist": "Glenn Gatsby",
+                    "title": "Grim Grinning Ghosts - Electro Swing Mix",
+                    "uri": "63mwrImc1QBy0x5GakHQi2"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sananda Maitreya",
+                    "title": "Sign Your Name",
+                    "uri": "4Zx94i8YDpPUY1cyLdTWqr"
+                },
+                {
+                    "artist": "Sananda Maitreya",
+                    "title": "Wishing Well",
+                    "uri": "1oYZm4FC6H2SPwZuHeHQlg"
+                },
+                {
+                    "artist": "Terrence Parker",
+                    "title": "Something Here for the Club - Vocal",
+                    "uri": "5GcceWVBHFdjrW7yRqA9je"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Branko",
+                    "title": "NAFÉ",
+                    "uri": "76btbxN0UYtOuCHt2ODhT4"
+                },
+                {
+                    "artist": "Kairo.LB",
+                    "title": "Bro Bro",
+                    "uri": "4fAwBrJvOaTFD00nkeyU0i"
+                },
+                {
+                    "artist": "Moha The B",
+                    "title": "Bro Bro",
+                    "uri": "3uq7QdRiLDEKLOJMT4ESYZ"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Branko",
+                    "title": "NAFÉ",
+                    "uri": "76btbxN0UYtOuCHt2ODhT4"
+                },
+                {
+                    "artist": "Imbiss Bronko",
+                    "title": "Bronko ist ein Model",
+                    "uri": "4dbNMJXajC1wen9CKTM20D"
+                },
+                {
+                    "artist": "Kairo.LB",
+                    "title": "Bro Bro",
+                    "uri": "4fAwBrJvOaTFD00nkeyU0i"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Branko",
+                    "title": "NAFÉ",
+                    "uri": "76btbxN0UYtOuCHt2ODhT4"
+                },
+                {
+                    "artist": "Imbiss Bronko",
+                    "title": "Bronko ist ein Model",
+                    "uri": "4dbNMJXajC1wen9CKTM20D"
+                },
+                {
+                    "artist": "BKB Original",
+                    "title": "Underground",
+                    "uri": "0IULB9XW2aBbNqtLFoxVYY"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Branko",
+                    "title": "NAFÉ",
+                    "uri": "76btbxN0UYtOuCHt2ODhT4"
+                },
+                {
+                    "artist": "Kairo.LB",
+                    "title": "Bro Bro",
+                    "uri": "4fAwBrJvOaTFD00nkeyU0i"
+                },
+                {
+                    "artist": "Moha The B",
+                    "title": "Bro Bro",
+                    "uri": "3uq7QdRiLDEKLOJMT4ESYZ"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "Matt",
+                    "title": "R&B 2 Rue",
+                    "uri": "24GZDmP7Nl1KwrCk3baYng"
+                },
+                {
+                    "artist": "Matt",
+                    "title": "R&B 2 Rue",
+                    "uri": "1rTSRi6Yf9kVhVIm6owHF6"
+                },
+                {
+                    "artist": "Matt",
+                    "title": "R&B 2 Rue",
+                    "uri": "5aQVTyyJ4Tbx5MTxfadISE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Matt",
+                    "title": "R&B 2 Rue",
+                    "uri": "1rTSRi6Yf9kVhVIm6owHF6"
+                },
+                {
+                    "artist": "Matt",
+                    "title": "R&B 2 Rue",
+                    "uri": "5aQVTyyJ4Tbx5MTxfadISE"
+                },
+                {
+                    "artist": "Matt",
+                    "title": "R&B 2 Rue",
+                    "uri": "5PrFkkWbRyArrV8WTTy4na"
+                }
+            ]
+        },
+        "25": {
+            "s0": [
+                {
+                    "artist": "Shydeeh",
+                    "title": "The Deal Yo",
+                    "uri": "1z52OdgtYM3K6m2s4DhFUO"
+                },
+                {
+                    "artist": "Shydeeh",
+                    "title": "The Deal Yo",
+                    "uri": "6fUtcbPyLuIk20pT3rOG3p"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Shydeeh",
+                    "title": "The Deal Yo",
+                    "uri": "1z52OdgtYM3K6m2s4DhFUO"
+                },
+                {
+                    "artist": "Hamed Homayoun",
+                    "title": "Sheydaei",
+                    "uri": "2nnc1fPRqd79yTAHy0RORQ"
+                },
+                {
+                    "artist": "Babak Jahanbakhsh",
+                    "title": "Sheydaei",
+                    "uri": "4zibDiV20qmgAoc8w45QTh"
+                }
+            ]
+        },
+        "26": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kovu65",
+                    "title": "Jug'n'Finesse",
+                    "uri": "49LUr1olVJ7mcwcyfnqZWV"
+                },
+                {
+                    "artist": "AJ",
+                    "title": "Finesser Trap",
+                    "uri": "4awjhvMakVd2xgBK8mYpOq"
+                },
+                {
+                    "artist": "Konz",
+                    "title": "JUNGE AUS'M POTT",
+                    "uri": "3YZcKfxux2dWelrC6gIanG"
+                }
+            ]
+        },
+        "27": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DRILL GATES",
+                    "title": "WAKA WAKA DRILL SPED UP",
+                    "uri": "5fs2Gx1eIv8UeG9khJ0wSo"
+                },
+                {
+                    "artist": "Favela Baby",
+                    "title": "Wock",
+                    "uri": "6U1LMDIs267IgppBAIzmLa"
+                },
+                {
+                    "artist": "WACKZ",
+                    "title": "Face Off",
+                    "uri": "17rOnW3TRVQIWUyxIca88I"
+                }
+            ]
+        },
+        "28": {
+            "s0": [
+                {
+                    "artist": "Koopsta Knicca",
+                    "title": "Stah Pot",
+                    "uri": "68B8RAteqc23s5TpMK7HOJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Koopsta Knicca",
+                    "title": "Stah Pot",
+                    "uri": "68B8RAteqc23s5TpMK7HOJ"
+                },
+                {
+                    "artist": "Koopsta Knicca",
+                    "title": "Stash Pot",
+                    "uri": "1WDoRiVGWNf9TjIjmmuPK2"
+                },
+                {
+                    "artist": "Koopsta Knicca",
+                    "title": "Smoking On A J.",
+                    "uri": "5SRP2iON9gFdSspdgykaYc"
+                }
+            ]
+        },
+        "29": {
+            "s0": [
+                {
+                    "artist": "Benga",
+                    "title": "Pleasure",
+                    "uri": "4XQIhJIXOSMy0d132o3pIe"
+                },
+                {
+                    "artist": "Benga",
+                    "title": "Pleasure",
+                    "uri": "1Sw2OftBNyn5By5OirUzgA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Benga",
+                    "title": "Pleasure",
+                    "uri": "4XQIhJIXOSMy0d132o3pIe"
+                },
+                {
+                    "artist": "Paul Kalkbrenner",
+                    "title": "Bengang",
+                    "uri": "4p93QD5pvS1k92zBc9QMsU"
+                },
+                {
+                    "artist": "Querbeat",
+                    "title": "Bengala",
+                    "uri": "6MqRaYB0tdiSogNYNyXCke"
+                }
+            ]
+        },
+        "30": {
+            "s0": [
+                {
+                    "artist": "Los Zafiros",
+                    "title": "Chaverot",
+                    "uri": "4dpsAF7llGTew16CEErC77"
+                },
+                {
+                    "artist": "Los Zafiros",
+                    "title": "Chaverot",
+                    "uri": "3EQOSLgq3dLQB4dyZHC5Wd"
+                },
+                {
+                    "artist": "Los Zafiros",
+                    "title": "Chaverot",
+                    "uri": "79oOA264GYu2W0e5Is1TNq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Los Zafiros",
+                    "title": "Chaverot",
+                    "uri": "2KEo4iZsGEFXGadaDEZV2h"
+                },
+                {
+                    "artist": "Los Zafiros",
+                    "title": "He Venido",
+                    "uri": "6SjMwdYagEiKGNtKWMO3zY"
+                },
+                {
+                    "artist": "Los Zafiros Del Norte",
+                    "title": "Hombres Fuera de La Ley (Banda)",
+                    "uri": "0dInbWb5DLQIsJ2GCjCfCX"
+                }
+            ]
+        }
+    },
     "brbko-11th-november-2022": {
         "00": {
             "s0": "",

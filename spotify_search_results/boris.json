@@ -2918,5 +2918,685 @@
                 }
             ]
         }
+    },
+    "boris-8th-september-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "M.I.A.",
+                    "title": "Zoo Girl",
+                    "uri": "2NjpeINGlEPLSftif482b7"
+                },
+                {
+                    "artist": "D.O.A.",
+                    "title": "That's Progress",
+                    "uri": "3RNUaNZ4ATaPXfQusDGyGd"
+                },
+                {
+                    "artist": "B.I",
+                    "title": "S.O.S",
+                    "uri": "396WN7DfSy5jVXiavgqmjT"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Douglas Parth",
+                    "title": "Zora - solo piano",
+                    "uri": "5lWKG46bv72uok4HjReMPF"
+                },
+                {
+                    "artist": "Zoe Clark",
+                    "title": "Zero Feelings",
+                    "uri": "0D3GIsuXOqEn7eEhrA3BSo"
+                },
+                {
+                    "artist": "Zoe Clark",
+                    "title": "What's Wrong with Me",
+                    "uri": "14Gr5PRmPcWxRZVeEMep8V"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Zoé",
+                    "title": "Luna - En Vivo",
+                    "uri": "7b3k8I1fncAzbk9PHnLkbX"
+                },
+                {
+                    "artist": "Zoé",
+                    "title": "Love",
+                    "uri": "5tyznRXlcIx0XlQ7S8iCMW"
+                },
+                {
+                    "artist": "Douglas Parth",
+                    "title": "Zora - solo piano",
+                    "uri": "5lWKG46bv72uok4HjReMPF"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Duke Hugh",
+                    "title": "Zoë",
+                    "uri": "44klGEGG3MSPv8EFpjgRpj"
+                },
+                {
+                    "artist": "Johann Strauss II",
+                    "title": "Strauss II, J: Die Tauben von San Marco, Op. 414",
+                    "uri": "3iRFiMxCHfYWY7Kc67yJCB"
+                },
+                {
+                    "artist": "Wolfgang Amadeus Mozart",
+                    "title": "Violin Concerto No. 5 In A, K.219: 2. Adagio",
+                    "uri": "6TNihSjeZX2iTlsf4mSSrZ"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Zoe Osama",
+                    "title": "No Nothin'",
+                    "uri": "09QALXStuQKVw7OL9sGPze"
+                },
+                {
+                    "artist": "Zoé",
+                    "title": "Nada",
+                    "uri": "1lpGX4TZPVgEKGGBDc3n9j"
+                },
+                {
+                    "artist": "WoZa",
+                    "title": "Thank You",
+                    "uri": "58Ig9lgOPeX3sw9dTFspRH"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Duke Hugh",
+                    "title": "Zoë",
+                    "uri": "44klGEGG3MSPv8EFpjgRpj"
+                },
+                {
+                    "artist": "S.O.A.",
+                    "title": "Warzone",
+                    "uri": "65ayLxtjETOQbiZEVAX7jo"
+                },
+                {
+                    "artist": "S.O.A.",
+                    "title": "Public Defender",
+                    "uri": "4stcsVpRxzofQgg0tAzMxa"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Duke Hugh",
+                    "title": "Zoë",
+                    "uri": "44klGEGG3MSPv8EFpjgRpj"
+                },
+                {
+                    "artist": "Douglas Parth",
+                    "title": "Zora - solo piano",
+                    "uri": "5lWKG46bv72uok4HjReMPF"
+                },
+                {
+                    "artist": "Le Castle Vania",
+                    "title": "D.O.A",
+                    "uri": "48zwjb0hNf81zkxxsdWxfi"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kabanjak",
+                    "title": "This Misery",
+                    "uri": "1GtfRQpIuDSTqFL1cWpJI4"
+                },
+                {
+                    "artist": "VonSaveMe",
+                    "title": "Misery",
+                    "uri": "46TaScM6UlNnEM8h6vzpEH"
+                },
+                {
+                    "artist": "iamjakehill",
+                    "title": "Misery Ave",
+                    "uri": "7elOV6vbPnxAFWZCPe7Hnt"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "beabadoobee",
+                    "title": "The Moon Song",
+                    "uri": "3s9eWdn8IymCPvVLcKpjww"
+                },
+                {
+                    "artist": "Pat Metheny",
+                    "title": "The Moon Song",
+                    "uri": "39Td6DiaWVzx5RcDCMWQFz"
+                },
+                {
+                    "artist": "THE MOON",
+                    "title": "Dear Good Sun",
+                    "uri": "6J9W3eSnl0iAGHNGmeyjGH"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Najee",
+                    "title": "Day By Day",
+                    "uri": "6wunt9r2WbTh0pacCFkSrK"
+                },
+                {
+                    "artist": "Blinky Bill",
+                    "title": "Winner",
+                    "uri": "6eeA6yRzhggtnw7LnDQjzH"
+                },
+                {
+                    "artist": "George Frideric Handel",
+                    "title": "Handel: Te Deum in D Major, HWV 278, \"Utrecht\": VII. \"Day by Day We Magnify Thee\"",
+                    "uri": "35A0gddwsaIappkmZXKi7h"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sodom",
+                    "title": "Persecution Mania",
+                    "uri": "5Fh4kaLybtxoCIu8DZUAoW"
+                },
+                {
+                    "artist": "Stuart Earl",
+                    "title": "Into The Sea",
+                    "uri": "6gywoZQXz6atqEGt7hponB"
+                },
+                {
+                    "artist": "Stuart Earl",
+                    "title": "Lanterns",
+                    "uri": "2OCPWYyHzfJ74uzgKGOmmk"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "ZikoParadis",
+                    "title": "Wall",
+                    "uri": "2Em9Er4ixJa1Q3esuEQfjc"
+                },
+                {
+                    "artist": "Richard Wagner",
+                    "title": "Wagner: Lohengrin, Act 1: \"Nun sei bedankt, mein lieber Schwan\" (Lohengrin, Henry, Chorus)",
+                    "uri": "5NmhdPHmjRSOacD7GjIc1L"
+                },
+                {
+                    "artist": "Richard Wagner",
+                    "title": "Wagner: Lohengrin, Act 1: \"Zum kampf für eine Magd zu stehn\" (Lohengrin, Elsa, Chorus)",
+                    "uri": "5nlCjc7GfazqfgwVMTTmS9"
+                }
+            ]
+        }
+    },
+    "boris-amphetamine-reptile-special-10th-november-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Melvins",
+                    "title": "Night Goat",
+                    "uri": "5JSk2ijn31XVo0x0wHyWTc"
+                },
+                {
+                    "artist": "Melvins",
+                    "title": "Night Goat - Acoustic",
+                    "uri": "0LH9UezBi3xhxuW61NLY4c"
+                },
+                {
+                    "artist": "Melvins",
+                    "title": "Night Goat - Acoustic",
+                    "uri": "4kcdnwcJ9wX5d5b6NTeDTb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Melvins",
+                    "title": "Night Goat",
+                    "uri": "5JSk2ijn31XVo0x0wHyWTc"
+                },
+                {
+                    "artist": "Melvins",
+                    "title": "Revolve",
+                    "uri": "09hctAvAEUpm7MKl1RBK2j"
+                },
+                {
+                    "artist": "Melvins",
+                    "title": "Honey Bucket",
+                    "uri": "5oABn2E9jiDrmhDdiNWbKS"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Helmet",
+                    "title": "Bad Mood",
+                    "uri": "5dYMGkyyXQ5mtkmYyYLlxZ"
+                },
+                {
+                    "artist": "Helmet",
+                    "title": "Bad Mood",
+                    "uri": "12x2GN5iIBd1DuOszyWn4W"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Helmet",
+                    "title": "Bad Mood",
+                    "uri": "5dYMGkyyXQ5mtkmYyYLlxZ"
+                },
+                {
+                    "artist": "Helmet",
+                    "title": "Unsung",
+                    "uri": "0z25tUQgEI4cIyNZ1TgWig"
+                },
+                {
+                    "artist": "Helmet",
+                    "title": "Crashing Foreign Cars",
+                    "uri": "5aAr5Y5wXiUMHVEtvaCXkt"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Animal Sounds For Celular Phones",
+                    "title": "Cow. Lowing Cows Sounds (Audio Vacas Mugiendo)",
+                    "uri": "1RKmv3HoD1mChZeEeTojPb"
+                },
+                {
+                    "artist": "Corb Lund",
+                    "title": "Cows Around",
+                    "uri": "1SEfyvGUtYGM6nMtJza4sC"
+                },
+                {
+                    "artist": "The Cowes Harpsy Boys",
+                    "title": "No Shadows In Heaven",
+                    "uri": "7tvBMffXAAAAbSxh7Wah6V"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Halo Of Flies",
+                    "title": "Sinner Sings",
+                    "uri": "7AWfnPcMVRfPpBHEEIpxnG"
+                },
+                {
+                    "artist": "Halo Of Flies",
+                    "title": "Sinner Sings",
+                    "uri": "7oj4t3bxGkQJQAqL4afDSi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Last Dinner Party",
+                    "title": "Sinner",
+                    "uri": "4fBEzQfcHgiSQFOF6gXasu"
+                },
+                {
+                    "artist": "The Halo Effect",
+                    "title": "Shadowminds",
+                    "uri": "3Zoi4yRZUi3HUB1mFRubXu"
+                },
+                {
+                    "artist": "The Halo Effect",
+                    "title": "Path Of Fierce Resistance",
+                    "uri": "2wYiXAJ6552SGJlZnvewF7"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Surgery",
+                    "title": "A.K.",
+                    "uri": "4kCnpubyDJohJQaX0xz1wB"
+                },
+                {
+                    "artist": "Surgery",
+                    "title": "A.K.",
+                    "uri": "7Kaeiy52DnoIzk1tltZerp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Surgeon",
+                    "title": "Subcultures",
+                    "uri": "219dcH5o0f37ECYioSPtaw"
+                },
+                {
+                    "artist": "SENTAUROX",
+                    "title": "surgery",
+                    "uri": "1GnDneBu5u9pYgL0fx6XMM"
+                },
+                {
+                    "artist": "Asher D",
+                    "title": "Surgeon",
+                    "uri": "28cokkLOUOJa0VWim9iA3O"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Helios Creed",
+                    "title": "Nebuchadnezzar",
+                    "uri": "63RWdxMF65UwLJ5kzpGMh7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Darius",
+                    "title": "Helios",
+                    "uri": "5xQkY7ia30xE1rLnHSblKI"
+                },
+                {
+                    "artist": "Helios",
+                    "title": "Nothing It Can",
+                    "uri": "3OiltpO4AcqtXGUpfcYho2"
+                },
+                {
+                    "artist": "Helios",
+                    "title": "Emancipation",
+                    "uri": "6VjnWOlVHfAnCrQ7WuPO8U"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "mr.phylzzz",
+                    "title": "Dirty Hands",
+                    "uri": "5H6uiU9usaJ4oQUukiCqAu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "mr.phylzzz",
+                    "title": "Dirty Hands",
+                    "uri": "5H6uiU9usaJ4oQUukiCqAu"
+                },
+                {
+                    "artist": "Otis Redding",
+                    "title": "Mr. Pitiful",
+                    "uri": "0YO65TbY548F7kSncBMksX"
+                },
+                {
+                    "artist": "Mr Phyz",
+                    "title": "My Girl",
+                    "uri": "7lf9QaSV2hKJ396pI36bKX"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Hammerhead",
+                    "title": "Peep",
+                    "uri": "4aW4C0AQgAzEvrm9QdUfos"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Caribou",
+                    "title": "Hello Hammerheads",
+                    "uri": "3KewCLfQO89Ec3ajU6G7gK"
+                },
+                {
+                    "artist": "The Offspring",
+                    "title": "Hammerhead",
+                    "uri": "6LGeOxAohAJTZ0fxKXMqXa"
+                },
+                {
+                    "artist": "HammerFall",
+                    "title": "Hammer High",
+                    "uri": "0KFQRMhNn8Vmh2khlKwxhn"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "TODAY IS THE DAY",
+                    "title": "6 Dementia Satyr",
+                    "uri": "7Exi8wi6zrdApHCP8tVhJ1"
+                },
+                {
+                    "artist": "Today Is The Day",
+                    "title": "6 Dementia Satyr",
+                    "uri": "3mWyYD84wiMqjRMnKWCQVo"
+                },
+                {
+                    "artist": "TODAY IS THE DAY",
+                    "title": "6 Dementia Satyr",
+                    "uri": "657kqeVPc6lCaySP2lD8H4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Riddlis",
+                    "title": "Dementia",
+                    "uri": "58GP21tzgxi7Hn3JAt0ZQy"
+                },
+                {
+                    "artist": "Blitzkid",
+                    "title": "Dementia",
+                    "uri": "5Gtm8lyeVxQ8dQa952GRbv"
+                },
+                {
+                    "artist": "ERRA",
+                    "title": "Dementia",
+                    "uri": "54uiEdLCl6c85W0o6syW9t"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gioachino Rossini",
+                    "title": "La gazza ladra (The Thieving Magpie): Overture",
+                    "uri": "5o4pgCR3JIeIbzwqBfjmtn"
+                },
+                {
+                    "artist": "Alexander Scriabin",
+                    "title": "5 Preludes, Op. 16: IV. Prelude No. 4 in E-Flat Minor: Lento",
+                    "uri": "6Xan47ZLZr9P8YEcOt3JaX"
+                },
+                {
+                    "artist": "Haze",
+                    "title": "Gläserrücken",
+                    "uri": "6oE5Tmz85R3gv2wmFTmijc"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Testament",
+                    "title": "More Than Meets the Eye",
+                    "uri": "4pwKVmEsLZAIFW05f88ZT4"
+                },
+                {
+                    "artist": "Lost Society",
+                    "title": "112",
+                    "uri": "2BXNFsE0wupk3RqkdPLg4K"
+                },
+                {
+                    "artist": "Hardy Caprio",
+                    "title": "Unsigned",
+                    "uri": "09QDTOldsJkM9ykxdTtAlf"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Wulintino",
+                    "title": "Disgraced One",
+                    "uri": "6gX3kRXTyuY2Z9If7SxoNI"
+                },
+                {
+                    "artist": "SadBoyProlific",
+                    "title": "Walking Through The Rain",
+                    "uri": "03Nx63Qf5HnqGF3KkGIJ6l"
+                },
+                {
+                    "artist": "Interlunium",
+                    "title": "Walkin' the World",
+                    "uri": "1RYNI7KfDBXs2DY9p8BFgy"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pantera",
+                    "title": "Cemetery Gates",
+                    "uri": "4vJr55lngvhSM8WIh9CjQc"
+                },
+                {
+                    "artist": "Cemeteries",
+                    "title": "Sodus",
+                    "uri": "1cyRoWGazsa8Vr5qlDfvPP"
+                },
+                {
+                    "artist": "Two Steps from Hell",
+                    "title": "Cemetery Waltz",
+                    "uri": "4odaTt0ZcHQAifVHM3dSYD"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Lowercase",
+                    "title": "Ringbleeder",
+                    "uri": "4fJZS7ANmSwjt3lxqx1NVo"
+                },
+                {
+                    "artist": "Lowercase",
+                    "title": "Ringbleeder",
+                    "uri": "56le9yjmFAEM7UUuUpWdo8"
+                },
+                {
+                    "artist": "Lowercase",
+                    "title": "Ringbleeder",
+                    "uri": "5fIEaUjbf91JJljEAGNThU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rembryo",
+                    "title": "Lowercase",
+                    "uri": "1BcUitAgd6xgmUvoBB6dTh"
+                },
+                {
+                    "artist": "Lowercase Noises",
+                    "title": "Song For No One",
+                    "uri": "7d0F63Ynv9ZvPQlJPVZOql"
+                },
+                {
+                    "artist": "Lowercase Noises",
+                    "title": "From: Habit",
+                    "uri": "76152BwNs47nmeXa0sXO4s"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Chokebore",
+                    "title": "Van McCoy",
+                    "uri": "1BEwArRe3PPMz8oJbQRsyq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chokebore",
+                    "title": "Van McCoy",
+                    "uri": "1BEwArRe3PPMz8oJbQRsyq"
+                },
+                {
+                    "artist": "Bury Tomorrow",
+                    "title": "Choke",
+                    "uri": "2KGCOtaTbNIbwrxS0a2UMv"
+                },
+                {
+                    "artist": "Choke",
+                    "title": "We Are a Menace to Society?",
+                    "uri": "667EtqyiJMV6fjOxxHS6dS"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Vertigo",
+                    "title": "Out Of Touch",
+                    "uri": "3Ib3EF6bIQTy0enJqUO4gu"
+                },
+                {
+                    "artist": "Vertigo",
+                    "title": "Out of Touch",
+                    "uri": "7x8XkoD34RQIIYj1NgIgWD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "U2",
+                    "title": "Vertigo",
+                    "uri": "1gVVSmhWjci8l9Vrsl6HaS"
+                },
+                {
+                    "artist": "ANOTR",
+                    "title": "Vertigo",
+                    "uri": "0HB4odbGJbgR0ffA4rJoxS"
+                },
+                {
+                    "artist": "Booka Shade",
+                    "title": "Vertigo (Living Without You) - Dapayk Solo Remix",
+                    "uri": "5aaciwO7PTToobdk05WwQE"
+                }
+            ]
+        }
     }
 }

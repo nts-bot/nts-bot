@@ -1,4 +1,742 @@
 {
+    "gelato-10th-november-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Big Yaya",
+                    "title": "Trust Fund",
+                    "uri": "5WPTf0oBP7dwWZMSHJfnqq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Big Yaya",
+                    "title": "Aspen",
+                    "uri": "2GY8qg5bGUXbarZDPxTMPA"
+                },
+                {
+                    "artist": "Fivio Foreign",
+                    "title": "Trust",
+                    "uri": "4VqFPmogUJw9NHBKxUKtiw"
+                },
+                {
+                    "artist": "Big Yavo",
+                    "title": "Him",
+                    "uri": "165QoAZ3Xyei3r2QrBNn2W"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Kosei",
+                    "title": "GO",
+                    "uri": "20Cyn7Z9uTtRiFsAvsYyJY"
+                },
+                {
+                    "artist": "KOSEI",
+                    "title": "Goodbye",
+                    "uri": "0kux316YgDoTpfDyf7Ycix"
+                },
+                {
+                    "artist": "Kosei Amano",
+                    "title": "Epilogue -Goodnight-",
+                    "uri": "151cmP2Kg1SV2xobIuyJCd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kosei",
+                    "title": "GO",
+                    "uri": "20Cyn7Z9uTtRiFsAvsYyJY"
+                },
+                {
+                    "artist": "Götz Widmann",
+                    "title": "Kosmisches Kind",
+                    "uri": "0N5sJ7PeRArfU2t2xzSvQR"
+                },
+                {
+                    "artist": "Kosheen",
+                    "title": "Spies",
+                    "uri": "0fMR6qmAXlrDQWVqP4AWxm"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "M'Way",
+                    "title": "7 in the Morning",
+                    "uri": "75Bji1h3SJh62R30qMf72W"
+                },
+                {
+                    "artist": "Laime",
+                    "title": "7 in the Morning",
+                    "uri": "1ECMAbJySsfImTUuDRj9J7"
+                },
+                {
+                    "artist": "M'Way",
+                    "title": "10/10",
+                    "uri": "6UTY5fOQy5lPT7D5jehD0A"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Lil Yee",
+                    "title": "NO BIG HOMIES",
+                    "uri": "5T30vDtkEo0cy47vB0gzV9"
+                },
+                {
+                    "artist": "Lil Yee",
+                    "title": "NO BIG HOMIES",
+                    "uri": "3pzyo9qBwYWI3fKbbusawR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lil Yee",
+                    "title": "NO BIG HOMIES",
+                    "uri": "5T30vDtkEo0cy47vB0gzV9"
+                },
+                {
+                    "artist": "Doe Boy",
+                    "title": "LIL YEAH",
+                    "uri": "0kFJUQfYRMhyBBbaXYaNxc"
+                },
+                {
+                    "artist": "Lil Peep",
+                    "title": "lil jeep",
+                    "uri": "5W7hhtxN03ifV6O0c6XCkS"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "King Khalil",
+                    "title": "Dealer aus Prinzip (feat. Capital Bra)",
+                    "uri": "0H1OjPBCA7NZzk6TlYz0CZ"
+                },
+                {
+                    "artist": "Mechante",
+                    "title": "DealerDress",
+                    "uri": "1M8mB5vGazu7MnsQMJ6Jf8"
+                },
+                {
+                    "artist": "Charlie Thunde",
+                    "title": "Thunder Road",
+                    "uri": "2RRZfwvHQqZaunAdgJv8rZ"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Lord Apex",
+                    "title": "The Good Fight",
+                    "uri": "4CpDxV1kIrqBjEtXrkTToK"
+                },
+                {
+                    "artist": "Lord Apex",
+                    "title": "The Good Fight",
+                    "uri": "1twi4GsZ4z4jb1CKW8ik58"
+                },
+                {
+                    "artist": "Lord Apex",
+                    "title": "For the West",
+                    "uri": "5tBxkiFlbZ6EzfxVtwjVrU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lord Apex",
+                    "title": "The Good Fight",
+                    "uri": "4CpDxV1kIrqBjEtXrkTToK"
+                },
+                {
+                    "artist": "Lord Apex",
+                    "title": "The Good Fight",
+                    "uri": "1twi4GsZ4z4jb1CKW8ik58"
+                },
+                {
+                    "artist": "Lord Apex",
+                    "title": "Back Outside",
+                    "uri": "2Gfib90MlnXgucjGPX07Gg"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "2Pac",
+                    "title": "Pour Out A Little Liquor",
+                    "uri": "1KdyFkeSe58qEOejV5ksqi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "2Pac",
+                    "title": "Pour Out A Little Liquor",
+                    "uri": "1KdyFkeSe58qEOejV5ksqi"
+                },
+                {
+                    "artist": "Thug Life",
+                    "title": "Pour Out A Little Liquor",
+                    "uri": "13ogkROGTNHEUNmjJO7oAP"
+                },
+                {
+                    "artist": "2Pac",
+                    "title": "Ambitionz Az A Ridah",
+                    "uri": "5g9lS8deSIxItFBmZRC4vN"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Tuamie",
+                    "title": "Yellow",
+                    "uri": "3aJEDUMc16lUnx8YVPRyQ9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tuamie",
+                    "title": "Yellow",
+                    "uri": "3aJEDUMc16lUnx8YVPRyQ9"
+                },
+                {
+                    "artist": "Of the Sea",
+                    "title": "Yellow (Cover)",
+                    "uri": "2YkwnW9ffb9MeT0n31QeYY"
+                },
+                {
+                    "artist": "JubyPhonic",
+                    "title": "Yellow",
+                    "uri": "7891EY4LIVtlhJVnZDpx1S"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "50 Cent",
+                    "title": "Hate It Or Love It - G-Unit Remix",
+                    "uri": "6TYPoBrn53njY2C0WwdmA1"
+                },
+                {
+                    "artist": "50 Cent",
+                    "title": "Patiently Waiting",
+                    "uri": "6C781pluv3BPxGHHCUJNYc"
+                },
+                {
+                    "artist": "50 Cent",
+                    "title": "Ayo Technology",
+                    "uri": "6kfQDanT6Buh4Wu73ghbav"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Strandz",
+                    "title": "Feeling Alive",
+                    "uri": "1guGFwq2ErO0y9zK4BzGIq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ewro",
+                    "title": "nightsky",
+                    "uri": "7zYtjkPsxRxZ5QMUvxamau"
+                },
+                {
+                    "artist": "Strandz",
+                    "title": "Us Against the World",
+                    "uri": "4TaS4giQQK01vKzBB40AEY"
+                },
+                {
+                    "artist": "Strandz",
+                    "title": "Us Against the World - Remix",
+                    "uri": "0pGecxPm2EOIQgc241d38t"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Morad",
+                    "title": "No han cambiado",
+                    "uri": "1yoifwH2Xy5KN5AvP2OmLX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Morad",
+                    "title": "No han cambiado",
+                    "uri": "1yoifwH2Xy5KN5AvP2OmLX"
+                },
+                {
+                    "artist": "Morad",
+                    "title": "Se Grita",
+                    "uri": "55Q180Og5mkW2XeGPjB7yn"
+                },
+                {
+                    "artist": "Beny Jr",
+                    "title": "Sigue",
+                    "uri": "63ZedTAVRCICh2CNLWnsPZ"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Beendo Z",
+                    "title": "Mauvais Mélange",
+                    "uri": "75q2OKkKxxELl8C1VJgRk0"
+                },
+                {
+                    "artist": "Beendo Z",
+                    "title": "Mauvais Mélange",
+                    "uri": "0gl3sScvCPMWZX17lmQC4j"
+                },
+                {
+                    "artist": "Beendo Z",
+                    "title": "Mauvais Mélange",
+                    "uri": "0wfbdXKV5vaczqx07UMvuZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Beendo Z",
+                    "title": "Mauvais Mélange",
+                    "uri": "75q2OKkKxxELl8C1VJgRk0"
+                },
+                {
+                    "artist": "Beendo Z",
+                    "title": "Mauvais Mélange",
+                    "uri": "0wfbdXKV5vaczqx07UMvuZ"
+                },
+                {
+                    "artist": "Lio",
+                    "title": "Bendo",
+                    "uri": "7hBCYlhp5sPNfFCEESQKPc"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Jul",
+                    "title": "Fait d'or",
+                    "uri": "42WlUYoPW2cJ08p9FZv2LC"
+                },
+                {
+                    "artist": "Jul",
+                    "title": "Fait d'or",
+                    "uri": "0Nexr4ce2q2LIrrqCQkuWh"
+                },
+                {
+                    "artist": "Julien Bellanger",
+                    "title": "\"Le meilleur escape qu'on ait jamais fait.\"",
+                    "uri": "2ND4CbrfO2dl16R7j9w5DM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jul",
+                    "title": "Fait d'or",
+                    "uri": "42WlUYoPW2cJ08p9FZv2LC"
+                },
+                {
+                    "artist": "Jul",
+                    "title": "La recette",
+                    "uri": "4meGE38JADrT0fy99m0jQg"
+                },
+                {
+                    "artist": "Natalie Dessay",
+                    "title": "La pluie fait des claquettes",
+                    "uri": "2LG03lGgL1x46qQs1efFmU"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "LUCKI",
+                    "title": "Tunevert",
+                    "uri": "7sHTyXq2wK6hpCi79KlzbC"
+                },
+                {
+                    "artist": "LUCKI",
+                    "title": "Tunevert",
+                    "uri": "2fXSjOIRY76WbCDJats0wb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "LUCKI",
+                    "title": "Tunevert",
+                    "uri": "7sHTyXq2wK6hpCi79KlzbC"
+                },
+                {
+                    "artist": "LUCKI",
+                    "title": "Tunevert",
+                    "uri": "2fXSjOIRY76WbCDJats0wb"
+                },
+                {
+                    "artist": "100BandXan",
+                    "title": "Lucki Tune & Trina",
+                    "uri": "4Xay1AzHnaTH3eHmcbhX3g"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Once and Future Band",
+                    "title": "How Does It Make You Feel?",
+                    "uri": "3bNSRcJo6HQoGfDYDJHal8"
+                },
+                {
+                    "artist": "The Future Hit Makers",
+                    "title": "I Like How It Feels",
+                    "uri": "22pwNJlPt2qjFqs8qzkXD1"
+                },
+                {
+                    "artist": "Future Bartenderz",
+                    "title": "And How Does That Make You Feel?",
+                    "uri": "04bbPXrOm3XIQ5b9ZO3TkX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Future",
+                    "title": "Solo",
+                    "uri": "4lH6nENd1y81jp7Yt9lTBX"
+                },
+                {
+                    "artist": "Mario Vazquez",
+                    "title": "Like It Or Not",
+                    "uri": "0hXzfJYgJg7jLmlrpcCG5Z"
+                },
+                {
+                    "artist": "Dera Meelan",
+                    "title": "Silver Spoon",
+                    "uri": "58lRMraA5Pcs9HYsa6TWNc"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Zoox",
+                    "title": "Revolution Now",
+                    "uri": "2divv1j9StfnCRVO6x73aB"
+                },
+                {
+                    "artist": "Rob Zombie",
+                    "title": "Revelation Revolution",
+                    "uri": "73k0laJ5JJJmHDd8CziRVz"
+                },
+                {
+                    "artist": "Rob Zombie",
+                    "title": "Devil's Hole Girls and the Big Revolution",
+                    "uri": "1KvRZZHauUTzDRmmDHIziL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Score",
+                    "title": "Revolution",
+                    "uri": "7Fv8Qp3tTSbSS2VjryUF7L"
+                },
+                {
+                    "artist": "Groupe Koma Zozan",
+                    "title": "Histoire d'un dirigeant révolutionaire kurde, Sêx Mehmud",
+                    "uri": "5BKV5BfbkHcWrd2wUGuILy"
+                },
+                {
+                    "artist": "Zortré",
+                    "title": "Urgence",
+                    "uri": "7pg1LFTo0raKj5ju04DjhJ"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Binks Beatz",
+                    "title": "Crew",
+                    "uri": "2DQdVJkVnS0Ec3FciJ63Ij"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Binks Beatz",
+                    "title": "Crew",
+                    "uri": "2DQdVJkVnS0Ec3FciJ63Ij"
+                },
+                {
+                    "artist": "100 Blaze",
+                    "title": "Binks (feat. Koba LaD)",
+                    "uri": "66kEUL4IAGwmquPa41Jka8"
+                },
+                {
+                    "artist": "Nikasa",
+                    "title": "Binks no Sakes",
+                    "uri": "54xsi9RTe1oTRHd4GNdcBa"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Slimeroni",
+                    "title": "Hard on a Hoe",
+                    "uri": "62ksREJ5PS4pl3TOavkOkr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Slimeroni",
+                    "title": "Hard on a Hoe",
+                    "uri": "62ksREJ5PS4pl3TOavkOkr"
+                },
+                {
+                    "artist": "GloRilla",
+                    "title": "Wrong One (with Gloss Up & Slimeroni feat. K Carbon, Aleza, Tay Keith)",
+                    "uri": "52WoZbGVLrEW0w6AGT9wNS"
+                },
+                {
+                    "artist": "FAST BASSTON",
+                    "title": "SLIME YOU OUT - TECHNO SPED UP",
+                    "uri": "1nuX3ZDqbxbiUPcUh4YMdZ"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Soudiere",
+                    "title": "So Confused",
+                    "uri": "3GtsgH5rMtoG6iphZjqJXv"
+                },
+                {
+                    "artist": "Soudiere",
+                    "title": "Ain't New 2 This",
+                    "uri": "2ewoUafwM1lHY3GdoAR1yY"
+                },
+                {
+                    "artist": "Soudiere",
+                    "title": "Hot Spot",
+                    "uri": "1R7BAa04o45NbnelHT807B"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "kloudbug",
+                    "title": "FRIDAY THE 13th (UNCUT)",
+                    "uri": "2yXwg8AiOHWwPAyOxoHuxh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Uglyburger0",
+                    "title": "Friday Theme",
+                    "uri": "6ZPcH0qapLpoVaiV3qgsmv"
+                },
+                {
+                    "artist": "Harry Manfredini",
+                    "title": "Jason Hung",
+                    "uri": "3IusO4XK569N3k3v0NuDzj"
+                },
+                {
+                    "artist": "Tiny goat",
+                    "title": "Friday the 13th",
+                    "uri": "0r7UWCMtNnsj7cfUhUol9z"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Dafliky",
+                    "title": "Mode on",
+                    "uri": "2aJOVvdX2N4p5lHgIyl050"
+                },
+                {
+                    "artist": "Dafliky",
+                    "title": "Mode on",
+                    "uri": "5E1dHm9eZHREAP8Simgyql"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dafliky",
+                    "title": "Mode on",
+                    "uri": "2aJOVvdX2N4p5lHgIyl050"
+                },
+                {
+                    "artist": "Dafliky",
+                    "title": "Mode on",
+                    "uri": "5E1dHm9eZHREAP8Simgyql"
+                },
+                {
+                    "artist": "Dafuniks",
+                    "title": "Disko Dansen",
+                    "uri": "5H0VrHfmYEwm2UW7E5qpMm"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "41",
+                    "title": "Stomp Stomp (with Kyle Richh, Jenn Carter, TaTa & Dee Billz)",
+                    "uri": "30TEsD9nJfrJSRL1RTJMDg"
+                },
+                {
+                    "artist": "41",
+                    "title": "Stomp Stomp (with Kyle Richh, Jenn Carter, TaTa & Dee Billz)",
+                    "uri": "2wxxpVPzgw3AGxjH0baT6w"
+                },
+                {
+                    "artist": "Oskar 41",
+                    "title": "Stomp!",
+                    "uri": "2sw6aVo5Oq8rh0Ci9wQW3C"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "41",
+                    "title": "Stomp Stomp (with Kyle Richh, Jenn Carter, TaTa & Dee Billz)",
+                    "uri": "30TEsD9nJfrJSRL1RTJMDg"
+                },
+                {
+                    "artist": "BLOODIE",
+                    "title": "41 STOMP",
+                    "uri": "377EUX9oJoApYueXs72ont"
+                },
+                {
+                    "artist": "ODMGDIA",
+                    "title": "Stomp",
+                    "uri": "56gp7PZ5p0L59pXL19dfDK"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Freeze corleone",
+                    "title": "Freeze Raël",
+                    "uri": "6DPrYPPGYK218iVIZDix3i"
+                },
+                {
+                    "artist": "Freeze corleone",
+                    "title": "Ancelotti",
+                    "uri": "3jBIofMaOimfUgK4E3hBGB"
+                },
+                {
+                    "artist": "Freeze corleone",
+                    "title": "MW2",
+                    "uri": "2sMxeHjS9rQh9gB92rcRF9"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "Clavish",
+                    "title": "Top 2",
+                    "uri": "7zWq1HbXPMuJ80Q31LPxPX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Clavish",
+                    "title": "Top 2",
+                    "uri": "7zWq1HbXPMuJ80Q31LPxPX"
+                },
+                {
+                    "artist": "Clavish",
+                    "title": "Public Figure",
+                    "uri": "0PeQk3MMmnfBMmP1EvDOP4"
+                },
+                {
+                    "artist": "D-Block Europe",
+                    "title": "Pakistan",
+                    "uri": "72bWarcvDzWp9aAsUWnVpq"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "La Mano 1.9",
+                    "title": "I DON'T LIKE",
+                    "uri": "1AVWfsVXDfJEqDc6UdxnRv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "La Mano 1.9",
+                    "title": "I DON'T LIKE",
+                    "uri": "1AVWfsVXDfJEqDc6UdxnRv"
+                },
+                {
+                    "artist": "BROWAY",
+                    "title": "LA MANO SE ME FUE",
+                    "uri": "65nPCuKQRRa4kmf8Lfg9Zs"
+                },
+                {
+                    "artist": "el extrambotico",
+                    "title": "La Mano - Cover",
+                    "uri": "591FdqD46Zh9sjMnzlwWaV"
+                }
+            ]
+        },
+        "25": {
+            "s0": [
+                {
+                    "artist": "Key Glock",
+                    "title": "Let's Go",
+                    "uri": "5GCU2LJWPzoP8Q6nexs61z"
+                },
+                {
+                    "artist": "Key Glock",
+                    "title": "Let's Go",
+                    "uri": "3FBo3gPG7K1C8NlcQRY4WZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Key Glock",
+                    "title": "Let's Go",
+                    "uri": "5GCU2LJWPzoP8Q6nexs61z"
+                },
+                {
+                    "artist": "Key Glock",
+                    "title": "Ambition For Cash",
+                    "uri": "4mIHgQ3ofK2RK34UdbqMbe"
+                },
+                {
+                    "artist": "Key Glock",
+                    "title": "Gang Shit No Lame Shit",
+                    "uri": "6gbiTbclnHlmSIPfmF2zEc"
+                }
+            ]
+        }
+    },
     "gelato-11th-november-2022": {
         "00": {
             "s0": [

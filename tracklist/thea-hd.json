@@ -861,6 +861,72 @@
             "title": "Sunday Morning"
         }
     },
+    "thea-hd-12th-november-2023": {
+        "00": {
+            "artist": "Pq",
+            "title": "Supermini (Demo)"
+        },
+        "01": {
+            "artist": "Kirk Barley",
+            "title": "Marionette"
+        },
+        "02": {
+            "artist": "LinUSB",
+            "title": "Cricket Reprise"
+        },
+        "03": {
+            "artist": "Cisser Mæhl",
+            "title": "Banegård"
+        },
+        "04": {
+            "artist": "Jenny Berger Mhyre",
+            "title": "January (Instrumental)"
+        },
+        "05": {
+            "artist": "Kita Kouhei, ",
+            "title": "Koboreta Hoshi To Tabishitara"
+        },
+        "06": {
+            "artist": "Kirk Barley",
+            "title": "Seafarer"
+        },
+        "07": {
+            "artist": "Smokey Robinson",
+            "title": "Quiet Storm"
+        },
+        "08": {
+            "artist": "Mary Wells",
+            "title": "I Want You 'Round "
+        },
+        "09": {
+            "artist": "Leonard Cohen",
+            "title": "Suzzane"
+        },
+        "10": {
+            "artist": "Directorsound",
+            "title": "Dreams Of Donnybrook"
+        },
+        "11": {
+            "artist": "Dionne Warwick",
+            "title": "Don't Make Me Over"
+        },
+        "12": {
+            "artist": "Sweet & Innocent",
+            "title": "Express Your Love"
+        },
+        "13": {
+            "artist": "Esso Trinidad Steel Band",
+            "title": "I Want You Back"
+        },
+        "14": {
+            "artist": "Barbara Lewis",
+            "title": "Workin' On A Groovy Thing"
+        },
+        "15": {
+            "artist": "Connie Converse",
+            "title": "Talkin’ Like You (Two Tall Mountains)"
+        }
+    },
     "thea-hd-13-08-17": {
         "00": {
             "artist": "Bill Wells, ",
@@ -3266,6 +3332,72 @@
             "title": "Woman To Woman"
         }
     },
+    "thea-hd-29th-october-2023": {
+        "00": {
+            "artist": "Ken Nordine",
+            "title": "Overture For Autumn"
+        },
+        "01": {
+            "artist": "Flaer",
+            "title": "Unreleased"
+        },
+        "02": {
+            "artist": "Christopher Bear, ",
+            "title": "See You"
+        },
+        "03": {
+            "artist": "Aphex Twin",
+            "title": "aisatsana [102]"
+        },
+        "04": {
+            "artist": "Christopher Bear, ",
+            "title": "Who Are You Going To New York"
+        },
+        "05": {
+            "artist": "Ari Balouzian",
+            "title": "Unreleased"
+        },
+        "06": {
+            "artist": "WOO",
+            "title": "The Heart Sleeps"
+        },
+        "07": {
+            "artist": "Dorothy Ashby, ",
+            "title": "Autumn In Rome"
+        },
+        "08": {
+            "artist": "Lester Young",
+            "title": "Come Rain Or Come Shine"
+        },
+        "09": {
+            "artist": "Mary Lou Williams",
+            "title": "It Ain't Necessarily So"
+        },
+        "10": {
+            "artist": "Nat \"King\" Cole",
+            "title": "Autumn Leaves"
+        },
+        "11": {
+            "artist": "Nina Simone",
+            "title": "He Was Too Good to Me"
+        },
+        "12": {
+            "artist": "Hank Williams, ",
+            "title": "Too Many Parties And Too Many Pals"
+        },
+        "13": {
+            "artist": "Doris Day",
+            "title": "At Sundown"
+        },
+        "14": {
+            "artist": "Mose Allison Trio",
+            "title": "I Love The Life I Live"
+        },
+        "15": {
+            "artist": "Shinehead",
+            "title": "Billie Jean"
+        }
+    },
     "thea-hd-2nd-april-2023": {
         "00": {
             "artist": "Iceblink",
@@ -4642,7 +4774,68 @@
             "title": "Zou Bisou Bisou"
         }
     },
-    "thea-hd-carlo-viscoe-17th-september-2023": {},
+    "thea-hd-carlo-viscoe-17th-september-2023": {
+        "00": {
+            "artist": "K.Cugowski, ",
+            "title": "Zostać W Tobie"
+        },
+        "01": {
+            "artist": "The Butterfield Blues Band",
+            "title": "Last Hope’s Gone"
+        },
+        "02": {
+            "artist": "Gary Burton",
+            "title": "Las Vegas Tango"
+        },
+        "03": {
+            "artist": "Hermann Gehlen, ",
+            "title": "Gloria"
+        },
+        "04": {
+            "artist": "Louis Armstrong",
+            "title": "Shamrock"
+        },
+        "05": {
+            "artist": "Bert Kaempfert And His Orchestra",
+            "title": "Caravan"
+        },
+        "06": {
+            "artist": "Sounds Inc.",
+            "title": "Taboo"
+        },
+        "07": {
+            "artist": "Billy Fury",
+            "title": "Don't Jump"
+        },
+        "08": {
+            "artist": "Harvey Mandel",
+            "title": "The Snake"
+        },
+        "09": {
+            "artist": "Christian Bruhn",
+            "title": "Wetten, Dass...?"
+        },
+        "10": {
+            "artist": "Satin Whale",
+            "title": "Traum Und Wirklichkeit"
+        },
+        "11": {
+            "artist": "Heliocentrics",
+            "title": "Night And Day"
+        },
+        "12": {
+            "artist": "Giuliano Sorgini",
+            "title": "Ultima Caccia"
+        },
+        "13": {
+            "artist": "Los Dourados",
+            "title": "Jungle Fantasy"
+        },
+        "14": {
+            "artist": "Hot Salsa",
+            "title": "Maldito Primitivo"
+        }
+    },
     "thea-hd-w-leaf-label-23rd-february-2020": {
         "00": {
             "artist": "Wilmoth Hudini",
