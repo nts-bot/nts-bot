@@ -568,11 +568,11 @@ class nts:
                     tc[track] += 1
                 _ = track.split(" -- ")
                 a, r = _[0], _[1]
-                if r in ac:
+                if (r in ac) and (r.strip()):
                     ac[r] += 1
                 elif a not in ac:
                     ac[a] = 1
-                else:
+                elif a.strip():
                     ac[a] += 1
         return tc, ac
 
