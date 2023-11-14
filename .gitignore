@@ -11,6 +11,7 @@
 !yfail.json
 !most_played_tracks.txt
 !most_played_artists.txt
+!readme.md
 packages
 jpeg
 .vscode
