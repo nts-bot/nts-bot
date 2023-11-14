@@ -565,6 +565,537 @@
             ]
         }
     },
+    "aylu-13th-november-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "María Elena Walsh",
+                    "title": "El Diablo Inglés/Milonga De Las Invasiones",
+                    "uri": "6Q3ZhjOmpFiWysoAEOwP15"
+                },
+                {
+                    "artist": "María Elena Walsh",
+                    "title": "El Diablo Inglés/Milonga De Las Invasiones",
+                    "uri": "0YNkNr1cDVEqs9jOWzYIKe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "María Elena Walsh",
+                    "title": "El Reino Del Revés",
+                    "uri": "2T6ZYOrJVvscFv7AMBH3mW"
+                },
+                {
+                    "artist": "Nat King Cole",
+                    "title": "Maria Elena",
+                    "uri": "4MbMasQIFwpAvEakMntJwc"
+                },
+                {
+                    "artist": "Bert Kaempfert",
+                    "title": "Maria Elena",
+                    "uri": "3AeEEMTXEITJQYKAZEMuqZ"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Solomachin",
+                    "title": "N 83",
+                    "uri": "35sZCG81u4q4Ikj87rCZ8k"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sergei Rachmaninoff",
+                    "title": "Rhapsody on a Theme of Paganini, Op. 43: Variation 18",
+                    "uri": "3K7PCG621NdgaHJIU5PdRg"
+                },
+                {
+                    "artist": "Sergei Rachmaninoff",
+                    "title": "Rachmaninov: 6 Moments Musicaux, Op. 16: No. 4 in E Minor",
+                    "uri": "2j1dTmWn0oX2i3xKQw5h36"
+                },
+                {
+                    "artist": "John Barry",
+                    "title": "Rachmaninoff: Rhapsody On A Theme Of Paganini",
+                    "uri": "15ZbIIncFuttnqkhZtnH7q"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Atahualpa Yupanqui",
+                    "title": "Milonga Del Solitario",
+                    "uri": "1Xf7gXkHRXwr8vP9GZ7pSz"
+                },
+                {
+                    "artist": "Margarita Siempre Viva",
+                    "title": "Techo de Astros y Truenos: Fenómenos",
+                    "uri": "4Bz2qeU43gmHUavvtLGOKP"
+                },
+                {
+                    "artist": "Emiliano Cardozo Y Sus Cardocitos",
+                    "title": "Margarita Belén",
+                    "uri": "55jfOvripLXSsQ4pN3m8xQ"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Luis Maria Serra",
+                    "title": "Visiones, Obra Electroacústica: Batucada",
+                    "uri": "5jnbkuZ8XPxNV2z66To04P"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sergio Mendes & Brasil '66",
+                    "title": "Batucada",
+                    "uri": "2a1RwcNMWN1Wr8kGDHAWXg"
+                },
+                {
+                    "artist": "Luciano Perrone",
+                    "title": "Samba Vocalizado (The Vocal Samba)",
+                    "uri": "2yTts0OqgIrIqWSy97v9Dw"
+                },
+                {
+                    "artist": "Fatima Hajji",
+                    "title": "Batucada",
+                    "uri": "7K1w7BoyqqOch3U0INWvU9"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Federico Durand",
+                    "title": "Canción Del Reloj Cucú",
+                    "uri": "1FvSPG4BPdezMgBKcqFAs0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Maná",
+                    "title": "El Reloj Cucú",
+                    "uri": "2Pxm49H66yXIhsKgERqcq8"
+                },
+                {
+                    "artist": "Manuel Olivera Almada",
+                    "title": "El Reloj",
+                    "uri": "5qsHp4JGCZT8C31zsxkuFd"
+                },
+                {
+                    "artist": "DJ Tony Pecino",
+                    "title": "El Reloj",
+                    "uri": "458HGNF8cyRRkH5SikjoJu"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Adrián Fanello",
+                    "title": "Mi Buenos Aires Querido",
+                    "uri": "52sPXH6007bTs1MliH4f4x"
+                },
+                {
+                    "artist": "Madonna",
+                    "title": "Buenos Aires",
+                    "uri": "3TXakfjtRwGXdQ6P3Lpi6t"
+                },
+                {
+                    "artist": "Juan Daniél",
+                    "title": "Buenos Aires",
+                    "uri": "1H1jMRo8QCYuLNdm1zBnD8"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Lavina Yelb",
+                    "title": "Clepsidra Edulis",
+                    "uri": "0FZ3WgMXCmNC3357jlcrX3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sajan Bendre",
+                    "title": "Chuna Yechaya Lavin Tula",
+                    "uri": "6qkJLc7gPmNyrg7U89F0fK"
+                },
+                {
+                    "artist": "Nigativ",
+                    "title": "Лавина",
+                    "uri": "0o3lgXmZGEpgmQL64AALjW"
+                },
+                {
+                    "artist": "dj top money",
+                    "title": "Lavine",
+                    "uri": "7fZNPeff8cvF6cXaWFH4aP"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Renée & Renato",
+                    "title": "Angel Angel",
+                    "uri": "2Wb03bEp88OOdqyHPa1vMg"
+                },
+                {
+                    "artist": "Rene Rodrigezz",
+                    "title": "Grand Slam - New Extended Mix",
+                    "uri": "3QxprwYC3e81i4bIT2k9d6"
+                },
+                {
+                    "artist": "Rene Roses",
+                    "title": "Bedtime story",
+                    "uri": "1pZ50uCdpTPoiZHgA0dTdy"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Lavina Yelb",
+                    "title": "Después de Clases (Naturalmente)",
+                    "uri": "4023LW1BOzIXGpPKJ4U5cn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lavina Yelb",
+                    "title": "Después de Clases (Naturalmente)",
+                    "uri": "4023LW1BOzIXGpPKJ4U5cn"
+                },
+                {
+                    "artist": "Lavina Yelb",
+                    "title": "Despues de clases",
+                    "uri": "4FWrYDKy7RFUoYka4C1bb6"
+                },
+                {
+                    "artist": "Jambul",
+                    "title": "Лавина",
+                    "uri": "2rIyVEgGye3c5PtW6GQAWz"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Diego Moreno",
+                    "title": "Can't You See - Acid Mix",
+                    "uri": "5gqSoKXyq3VOeRGBVSqLi8"
+                },
+                {
+                    "artist": "Diego Moreno",
+                    "title": "Bella chao",
+                    "uri": "6pi1uv6Ay7TCzKTPTXBIqZ"
+                },
+                {
+                    "artist": "Diego Money",
+                    "title": "100 Round Biscuit",
+                    "uri": "13gmFCQjOPrWwl4tYGnRol"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Carola Bony",
+                    "title": "Enero Díaz",
+                    "uri": "1xoMDxl7tbhKnsY4kMMDD6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Carola Bony",
+                    "title": "Enero Díaz",
+                    "uri": "1xoMDxl7tbhKnsY4kMMDD6"
+                },
+                {
+                    "artist": "Carola Holzner",
+                    "title": "Kapitel 1 - Eine für alle - Als Notärztin zwischen Hoffnung und Wirklichkeit",
+                    "uri": "1yRnc94QvcmGxZZhbRaqMn"
+                },
+                {
+                    "artist": "Carola Jasmins",
+                    "title": "Take It Easy - Original",
+                    "uri": "5StNWVFBLz4XBXtmf6Rxrs"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "María Elena Walsh",
+                    "title": "El Diablo Inglés/Milonga De Las Invasiones",
+                    "uri": "6Q3ZhjOmpFiWysoAEOwP15"
+                },
+                {
+                    "artist": "María Elena Walsh",
+                    "title": "El Diablo Inglés/Milonga De Las Invasiones",
+                    "uri": "0YNkNr1cDVEqs9jOWzYIKe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "María Elena Walsh",
+                    "title": "El Reino Del Revés",
+                    "uri": "2T6ZYOrJVvscFv7AMBH3mW"
+                },
+                {
+                    "artist": "Nat King Cole",
+                    "title": "Maria Elena",
+                    "uri": "4MbMasQIFwpAvEakMntJwc"
+                },
+                {
+                    "artist": "Bert Kaempfert",
+                    "title": "Maria Elena",
+                    "uri": "3AeEEMTXEITJQYKAZEMuqZ"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Charly García",
+                    "title": "Sereno Fantástico",
+                    "uri": "2NWXY5RsBtIPouRdlBXju3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Charly García",
+                    "title": "Sereno Fantástico",
+                    "uri": "2NWXY5RsBtIPouRdlBXju3"
+                },
+                {
+                    "artist": "Charly García",
+                    "title": "Nos Siguen Pegando Abajo",
+                    "uri": "4VikOud5ZmdmHH6h7uQeDB"
+                },
+                {
+                    "artist": "Charly García",
+                    "title": "Hablando a Tu Corazón",
+                    "uri": "3k9dGCm2R2Y70e87aMHYC3"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Estupendo",
+                    "title": "Terrícola",
+                    "uri": "4U5jA7XQsTOD1vCQiiUUDt"
+                },
+                {
+                    "artist": "Estupendo",
+                    "title": "Terrícola",
+                    "uri": "4WEW2AuXSNQkV3Ll6g37ch"
+                },
+                {
+                    "artist": "Mazz",
+                    "title": "Estúpido Romántico",
+                    "uri": "6lUysXJKJvdvHK3s2hzEhV"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lola Granillo",
+                    "title": "No Compro",
+                    "uri": "63Dxu1ZM0jm0g2mDsoV3uS"
+                },
+                {
+                    "artist": "Lola Granillo",
+                    "title": "No Números",
+                    "uri": "1XDVN2ZHtFHcjPYU0PRlDr"
+                },
+                {
+                    "artist": "Lola Granillo",
+                    "title": "Parece Pero No",
+                    "uri": "0vOFxT3Y8ceozdbEDQ6rEw"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Hugo Fattoruso",
+                    "title": "Lonjas Del Cuareim",
+                    "uri": "2qoPm4DNurtVpcAbMh8pUw"
+                },
+                {
+                    "artist": "Hugo Fattoruso",
+                    "title": "Lonjas del Cuareim",
+                    "uri": "7HUznY11saTLDzg4vEdRBl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hugo Fattoruso",
+                    "title": "Lonjas Del Cuareim",
+                    "uri": "2qoPm4DNurtVpcAbMh8pUw"
+                },
+                {
+                    "artist": "Hugo Fattoruso",
+                    "title": "Lonjas del Cuareim",
+                    "uri": "7HUznY11saTLDzg4vEdRBl"
+                },
+                {
+                    "artist": "Hugo Fattoruso",
+                    "title": "La Explicación",
+                    "uri": "2HlWEGp5Hefb38uuwEL4dI"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Isidora Alvarez de Guanco",
+                    "title": "Arribeñas",
+                    "uri": "0gaPWBbXHP24Xmq7qmjS6p"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Adela Borș",
+                    "title": "Arriba",
+                    "uri": "3pU8WHJnULgZZUQPtzS1L8"
+                },
+                {
+                    "artist": "Isaura De Los Andes",
+                    "title": "El Mundo Al Revés",
+                    "uri": "1yfcmvriHNl70stKfiPBv4"
+                },
+                {
+                    "artist": "Lia Paima",
+                    "title": "Arriba En Los Cielos",
+                    "uri": "7IEoDF9UAUY7lpUwdd6XAv"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "RIN",
+                    "title": "Mercedes",
+                    "uri": "0Oh4f0RxQN4HzJN4iXqAfj"
+                },
+                {
+                    "artist": "Janis Joplin",
+                    "title": "Mercedes Benz",
+                    "uri": "1MntHPLU1T7a9W4tojbg8g"
+                },
+                {
+                    "artist": "Mercedes Sosa",
+                    "title": "Todo Cambia",
+                    "uri": "0njOsb3y8TnwIJC7GnlWwD"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Rata Blanca",
+                    "title": "Preludio Obsesivo",
+                    "uri": "7mqH2UeTeuETNCxc3H3zwL"
+                },
+                {
+                    "artist": "Rata Blanca",
+                    "title": "Preludio Obsesivo",
+                    "uri": "31OGE88W7cgaLNT6qvc2Hd"
+                },
+                {
+                    "artist": "Rata Blanca",
+                    "title": "Capricho Arabe / Preludio Obsesivo - En Vivo",
+                    "uri": "7Edjnr2FOhwCrxUcaSzLcU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rata Blanca",
+                    "title": "Preludio Obsesivo",
+                    "uri": "7mqH2UeTeuETNCxc3H3zwL"
+                },
+                {
+                    "artist": "Rata Blanca",
+                    "title": "Preludio Obsesivo",
+                    "uri": "31OGE88W7cgaLNT6qvc2Hd"
+                },
+                {
+                    "artist": "Rata Blanca",
+                    "title": "Mujer Amante",
+                    "uri": "4eCrF1FgVL4se3AkHOnLDL"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Nicolas Jaar",
+                    "title": "Sunder",
+                    "uri": "4e4w3c7PmEcFOrRQmE6oZt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nicolas Jaar",
+                    "title": "Sunder",
+                    "uri": "4e4w3c7PmEcFOrRQmE6oZt"
+                },
+                {
+                    "artist": "Nicolas Jaar",
+                    "title": "Variations",
+                    "uri": "60fmY1hC8t8vuAuXvQNLIQ"
+                },
+                {
+                    "artist": "Nicolas Jaar",
+                    "title": "Mi Mujer",
+                    "uri": "4QHKR48C18rwlpSYW6rH7p"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Tema Libre 1",
+                    "uri": "49eZBJdVuKuN8XgcopwrvF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Gracias a la Vida",
+                    "uri": "5U7MyRNbuZrWkyAI4bm3Ja"
+                },
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Volver a los Diecisiete",
+                    "uri": "14ITHmTquy0hfBpEauf6Go"
+                },
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Gracias a la Vida",
+                    "uri": "6cWvPdqdFJOhhRd0SZOplj"
+                }
+            ]
+        }
+    },
     "aylu-14th-february-2023": {
         "00": {
             "s0": "",
