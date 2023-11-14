@@ -515,7 +515,7 @@ class nts:
                 pids += [i]
         return self.parallel(self.subprivatise, pids, [True])
 
-    def subsubcounter(self, episode, show):
+    def counter_filter(self, episode):
         bad = [
             "unknown",
             "unknown artist",
@@ -530,6 +530,7 @@ class nts:
             "intro",
             "guest mix",
         ]
+        store = []
         for k in episode:
             a = (
                 episode[k]["artist"]
@@ -546,38 +547,45 @@ class nts:
                 .strip()
             )
             if not ((a.lower() in bad) or (r.lower() in bad)):
-                info1 = f"{show} -- {a} -- {r}"
-                info2 = f"{show} -- {r} -- {a}"
-                track = f"{a} -- {r}"
-                if any(i not in self.list for i in [info1, info2]):
-                    if track not in self.track_d:
-                        self.track_d[track] = 1
-                    else:
-                        self.track_d[track] += 1
-                else:
-                    pass
-                    # track_d[track] += 1
-                if f"{r}" in self.artist_d:
-                    self.artist_d[f"{r}"] += 1
-                elif f"{a}" not in self.artist_d:
-                    self.artist_d[f"{a}"] = 1
-                else:
-                    self.artist_d[f"{a}"] += 1
-                self.list += [info1, info2]
+                store += [f"{a} -- {r}"]
+        return store
 
-    def subcounter(self, show):
-        episodes = utils.rnw_json(f"./tracklist/{show}")
-        return self.parallel(self.subsubcounter, list(episodes.values()), [show])
+    def counter_opener(self, show):
+        store = []
+        eps = list(utils.rnw_json(f"./tracklist/{show}").values())
+        for i in eps:
+            store += self.counter_filter(i)
+        return {show: list(set(store))}
+
+    def subcounter(self, d):
+        tc = dict()
+        ac = dict()
+        for show in d:
+            for track in d[show]:
+                if track not in tc:
+                    tc[track] = 1
+                else:
+                    tc[track] += 1
+                _ = track.split(" -- ")
+                a, r = _[0], _[1]
+                if r in ac:
+                    ac[r] += 1
+                elif a not in ac:
+                    ac[a] = 1
+                else:
+                    ac[a] += 1
+        return tc, ac
 
     def counter(self):
-        self.track_d = dict()
-        self.artist_d = dict()
-        self.list = list()
-        _ = self.parallel(self.subcounter, self.showlist, method="Process")
+        shows = dict()
+        for i in self.showlist:
+            shows |= self.counter_opener(i)
+        track_d, artist_d = self.subcounter(shows)
+        # self.parallel(self.subcounter, self.showlist, [], method="Process")
         with open("./most_played_tracks.txt", "w", encoding="utf-8") as f:
-            f.write(self.cleaners_from_venus(self.track_d, 200))
+            f.write(self.cleaners_from_venus(track_d, 200))
         with open("./most_played_artists.txt", "w", encoding="utf-8") as f:
-            f.write(self.cleaners_from_venus(self.track_d, 100))
+            f.write(self.cleaners_from_venus(artist_d, 100))
 
     @staticmethod
     def cleaners_from_venus(dic, amount):
