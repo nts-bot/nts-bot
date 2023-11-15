@@ -1,4 +1,731 @@
 {
+    "bill-brewster-14th-november-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "The Impressions",
+                    "title": "People Get Ready",
+                    "uri": "6AeG6jSoAVbmUFO6LyYmBf"
+                },
+                {
+                    "artist": "The Impressions",
+                    "title": "People Get Ready - Single Version",
+                    "uri": "5XnAf0VqPSKlV4kYGZ6BgS"
+                },
+                {
+                    "artist": "The Impressions",
+                    "title": "People Get Ready - Single Version",
+                    "uri": "5bkNGyQgrN3K6HJjxXadpL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Impressions",
+                    "title": "People Get Ready",
+                    "uri": "6AeG6jSoAVbmUFO6LyYmBf"
+                },
+                {
+                    "artist": "Curtis Mayfield",
+                    "title": "People Get Ready",
+                    "uri": "1mHPTUYCEQkDvMF1lCqUXD"
+                },
+                {
+                    "artist": "The Mighty Mighty Bosstones",
+                    "title": "The Impression That I Get",
+                    "uri": "3a3EDrWejkryzeGFkPypOR"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Wanda Robinson",
+                    "title": "A Possibility (Back Home)",
+                    "uri": "2cOvMpZr8ar24DfDqy7C8R"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Wanda",
+                    "title": "Schottenring",
+                    "uri": "6mnOsH2ihxL29D8rZyqOBl"
+                },
+                {
+                    "artist": "Wanda",
+                    "title": "Nach Hause gehen",
+                    "uri": "34mm7xvWqKDxOQb1ftiiHV"
+                },
+                {
+                    "artist": "Wanda",
+                    "title": "Auseinandergehen ist schwer - Live",
+                    "uri": "1WezxLDBGMuOSi0yfmtJ3p"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jon Lucien",
+                    "title": "Who Will Buy?",
+                    "uri": "3Psq178wktjBVJJb6vHB1q"
+                },
+                {
+                    "artist": "Jon Lucien",
+                    "title": "Kuenda",
+                    "uri": "2A6xCBTsDFDzd68M2iRAsX"
+                },
+                {
+                    "artist": "John Ottman",
+                    "title": "A Prayer For Peace - From \"Munich\"",
+                    "uri": "0YUhz8gdBFFfWpiABMGozK"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Barbara Mason",
+                    "title": "World In a Crisis",
+                    "uri": "1KYdf8xJ2USP7jzoIq6apG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Barbara Mason",
+                    "title": "Another Man",
+                    "uri": "0TLc72T6smUYgFQu1aDnSg"
+                },
+                {
+                    "artist": "Barbara Mason",
+                    "title": "Yes, I'm Ready",
+                    "uri": "2gZpW5pTZkimGG98loFSl2"
+                },
+                {
+                    "artist": "Barbara Mason",
+                    "title": "I Do Love You",
+                    "uri": "0ARAvN0l7iViWw15JtsU3E"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Linda Ronstadt",
+                    "title": "Blue Bayou",
+                    "uri": "3zxklD2EGecZre9MjEEvIU"
+                },
+                {
+                    "artist": "Linda Ronstadt",
+                    "title": "Long Long Time",
+                    "uri": "1khA4hwhZD4HMecyE1e9U1"
+                },
+                {
+                    "artist": "Linda Ronstadt",
+                    "title": "It's so Easy",
+                    "uri": "6AZyiAl6mr3Jcp6AlmiQwF"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "KOJI",
+                    "title": "Peacemaker",
+                    "uri": "6FPE9WAcxFrOEIIZQpiS10"
+                },
+                {
+                    "artist": "DSTORTD",
+                    "title": "PeaceMaker",
+                    "uri": "09ISpVkAjpukUowMyBOdcV"
+                },
+                {
+                    "artist": "Clint Mansell",
+                    "title": "Peacemaker Rock Theme Jam",
+                    "uri": "3F92QBBBMVp7cYfmEa9ASz"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Oro",
+                    "title": "Stop The War",
+                    "uri": "56RlTXxPQrsIl2EkRMY8SR"
+                },
+                {
+                    "artist": "Oro",
+                    "title": "Stop The War - Disco Version",
+                    "uri": "6vaSbx6ZqqMlRsKdBTukMK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jdot Breezy",
+                    "title": "Tweak Shit",
+                    "uri": "07QOtEp23hhcSLZ2TiadVG"
+                },
+                {
+                    "artist": "Steve Modana",
+                    "title": "Stop the Time",
+                    "uri": "2c5R73DJKgNZNACGnhlsQU"
+                },
+                {
+                    "artist": "Melo Da Don",
+                    "title": "Doggy Food",
+                    "uri": "7L1YGeGQZVlMSf49JUWFuq"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Elaine Brown",
+                    "title": "Until We're Free",
+                    "uri": "24bUrNJccuJ1quUJfIgbzF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Elaine Howley",
+                    "title": "To The Test",
+                    "uri": "4qDhMLZblusJFu5MPUvqAw"
+                },
+                {
+                    "artist": "Eleine",
+                    "title": "Never Forget",
+                    "uri": "4QkWS3yCEyLepub8AypJKw"
+                },
+                {
+                    "artist": "Elaine M",
+                    "title": "Tougher Than The Rest",
+                    "uri": "4YV0BHadBD2XolB7LPp9U3"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "The Brother's Rap",
+                    "title": "The Revolution Will Not Be Televised",
+                    "uri": "70zvkiIcm89exUfaO0p9WY"
+                },
+                {
+                    "artist": "The Brother's Rap",
+                    "title": "The Revolution Will Not Be Televised",
+                    "uri": "3LCQPvOARTwn8ZbYATt6l3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Brother's Rap",
+                    "title": "The Revolution Will Not Be Televised",
+                    "uri": "70zvkiIcm89exUfaO0p9WY"
+                },
+                {
+                    "artist": "Gil Scott-Heron",
+                    "title": "The Revolution Will Not Be Televised",
+                    "uri": "7ni78Vjslqo2VxiDOahYlV"
+                },
+                {
+                    "artist": "PXSEIDON",
+                    "title": "The Revolution",
+                    "uri": "2DTwioZHaBaOZXHdMZ7bhQ"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Gil Scott-Heron & Brian Jackson",
+                    "title": "Angola, Louisiana",
+                    "uri": "4iqtrToCLSIMCbt8QtvbAn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gil Scott-Heron & Brian Jackson",
+                    "title": "Angola, Louisiana",
+                    "uri": "4iqtrToCLSIMCbt8QtvbAn"
+                },
+                {
+                    "artist": "Gil Scott-Heron & Brian Jackson",
+                    "title": "The Bottle",
+                    "uri": "0lxDL4c5xQQJskltQigwl0"
+                },
+                {
+                    "artist": "Gil Scott-Heron & Brian Jackson",
+                    "title": "Willing",
+                    "uri": "6g888relhinwZsoINDEtZ6"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Solomon Burke",
+                    "title": "I Wish I Knew (How It Would Feel to Be Free)",
+                    "uri": "0N8gd6IPgAt02wSd5cjkTQ"
+                },
+                {
+                    "artist": "Solomon Burke",
+                    "title": "I Wish I Knew (How It Would Feel to Be Free)",
+                    "uri": "5k3lU88VEF8WYlzYjkZ0FL"
+                },
+                {
+                    "artist": "Solomon Burke",
+                    "title": "I Wish I Knew (How It Would Feel to Be Free)",
+                    "uri": "3x9Qut3Q2pfc4TWeqpBJDx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Solomon Burke",
+                    "title": "I Wish I Knew (How It Would Feel to Be Free)",
+                    "uri": "5k3lU88VEF8WYlzYjkZ0FL"
+                },
+                {
+                    "artist": "Solomon Burke",
+                    "title": "Cry to Me",
+                    "uri": "0sDeU2murnLh4yVHQ5IV70"
+                },
+                {
+                    "artist": "Solomon Burke",
+                    "title": "Cry to Me",
+                    "uri": "2sCf9tz6LHByczuVT7rqIx"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Delv!s",
+                    "title": "Brother",
+                    "uri": "0f3rSnr0MpOm25shFVkN0M"
+                },
+                {
+                    "artist": "Brother Dege",
+                    "title": "The Girl Who Wept Stones",
+                    "uri": "2linXTqtj6ynTJ5OQuml1B"
+                },
+                {
+                    "artist": "Brother Dege",
+                    "title": "Pay No Mind",
+                    "uri": "1R0NSxtoeK6vPy88DJZDtt"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Inna De Yard",
+                    "title": "Malcolm X",
+                    "uri": "4pddajTjKRKLipcOGupNnl"
+                },
+                {
+                    "artist": "Animus",
+                    "title": "Malcolm X",
+                    "uri": "6TkFSojAjrlIGOQ9G0JFI7"
+                },
+                {
+                    "artist": "Malcolm Partridge",
+                    "title": "Vent",
+                    "uri": "0vzuCG7yIckbtGJYLcOJsZ"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Joni Haastrup",
+                    "title": "Free My People",
+                    "uri": "4JhLVR6gpyPsrt8hw3GYTq"
+                },
+                {
+                    "artist": "Joni Haastrup",
+                    "title": "Free My People",
+                    "uri": "0PlJCzYwsiPkGe7Sv5ovTQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Joni Haastrup",
+                    "title": "Free My People",
+                    "uri": "4JhLVR6gpyPsrt8hw3GYTq"
+                },
+                {
+                    "artist": "Joni Haastrup",
+                    "title": "Free My People",
+                    "uri": "0PlJCzYwsiPkGe7Sv5ovTQ"
+                },
+                {
+                    "artist": "Joni Harms",
+                    "title": "Catalog Dreams",
+                    "uri": "5wFkrP7ADRHvqznvPxHkuH"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Maya Angelou",
+                    "title": "Still I Rise",
+                    "uri": "2NKdHdRy9nTOjveFcVrt6w"
+                },
+                {
+                    "artist": "Dr. Maya Angelou",
+                    "title": "Still I Rise",
+                    "uri": "3J9NZT8U0uyRd8ZYNCkOAq"
+                },
+                {
+                    "artist": "Maya Angelou",
+                    "title": "Still I Rise",
+                    "uri": "5I5V35aA7x0FSKqG1lc5Y2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Maya Angelou",
+                    "title": "Still I Rise",
+                    "uri": "2NKdHdRy9nTOjveFcVrt6w"
+                },
+                {
+                    "artist": "Dr. Maya Angelou",
+                    "title": "Still I Rise",
+                    "uri": "3J9NZT8U0uyRd8ZYNCkOAq"
+                },
+                {
+                    "artist": "Mayra Andrade",
+                    "title": "Manga",
+                    "uri": "1Iod4fjYd6TTXw9DI6nHpB"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Dick Gaughan",
+                    "title": "Workers' Song",
+                    "uri": "5qrzjdPC1L0zqrtR0rUQb3"
+                },
+                {
+                    "artist": "Dick Gaughan",
+                    "title": "Workers' Song",
+                    "uri": "7kgcBy48yb2ZezIptqTyxt"
+                },
+                {
+                    "artist": "Dick Gaughan",
+                    "title": "Workers' Song",
+                    "uri": "1jTXP4QPuVFaWrFAyi8K8n"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dick Gaughan",
+                    "title": "Workers' Song",
+                    "uri": "5qrzjdPC1L0zqrtR0rUQb3"
+                },
+                {
+                    "artist": "Dropkick Murphys",
+                    "title": "Worker's Song",
+                    "uri": "6GHfiU4OrRvOVuC9yn8Txl"
+                },
+                {
+                    "artist": "The Longest Johns",
+                    "title": "The Workers Song",
+                    "uri": "68I0jX55JhWEuWcGWAH1WV"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Linkin Park",
+                    "title": "Pushing Me Away",
+                    "uri": "1gAaRSN57UYVRI4eWRyAvP"
+                },
+                {
+                    "artist": "SouMix",
+                    "title": "Pushing & Pulling",
+                    "uri": "3p21ctjAsNLykjhisJsqoN"
+                },
+                {
+                    "artist": "arTis7",
+                    "title": "pushin'",
+                    "uri": "4oHYbVp4PPNz2ijIHuDQBR"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "George Riley",
+                    "title": "Elixir",
+                    "uri": "2vY7KQORHhzFHT7k62blrP"
+                },
+                {
+                    "artist": "George Riley",
+                    "title": "Elixir",
+                    "uri": "4p5QTMGRzKYKxf8P1X88ve"
+                },
+                {
+                    "artist": "George Riley",
+                    "title": "Elixir",
+                    "uri": "6NFLOi43wAVdc43GWKtaog"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "George Riley",
+                    "title": "Elixir",
+                    "uri": "2vY7KQORHhzFHT7k62blrP"
+                },
+                {
+                    "artist": "George Riley",
+                    "title": "Elixir",
+                    "uri": "4p5QTMGRzKYKxf8P1X88ve"
+                },
+                {
+                    "artist": "George Riley",
+                    "title": "Elixir",
+                    "uri": "0egARkf2QCaZxvFli8yAw3"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Celo & Abdi",
+                    "title": "Rhythm n' Flouz",
+                    "uri": "3vDUJcaO2FdgRS9KQxEwTT"
+                },
+                {
+                    "artist": "slō",
+                    "title": "rhythm is a dancer - slowed + reverb",
+                    "uri": "4ZuDRbeN7WyiCDHeMuiHMs"
+                },
+                {
+                    "artist": "HYPERTECHNO",
+                    "title": "RHYTHM IS A DANCER HYPERTECHNO SPED UP",
+                    "uri": "2doAF3JH9R886uG28kKgVb"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "280 West",
+                    "title": "Scattered Dreams [Boom Chocka-Boom Mix]",
+                    "uri": "2yi2FMwCxmBTtvMERg8QOX"
+                },
+                {
+                    "artist": "Jack Hartmann",
+                    "title": "Boom Chicka Boom",
+                    "uri": "7kC7z3rvsUEHjVI2AuQ60U"
+                },
+                {
+                    "artist": "Super Simple Songs",
+                    "title": "Boom Chicka Boom",
+                    "uri": "2AqOMwusPmBbi11l8Uq4Oz"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "DJ Meme",
+                    "title": "Century - DJ Spen's FunkyAfroSpaceOdyssey",
+                    "uri": "1qlFV6TuQieiOXBYr9Gsyg"
+                },
+                {
+                    "artist": "DJ Meme",
+                    "title": "Century - DJ Spen's Extended FunkyAfroSpaceOdyssey",
+                    "uri": "5JjbdEU5qV5aMSYmIBprDQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "DJ Meme",
+                    "title": "Century - DJ Spen's FunkyAfroSpaceOdyssey",
+                    "uri": "1qlFV6TuQieiOXBYr9Gsyg"
+                },
+                {
+                    "artist": "DJ Meme",
+                    "title": "Century - DJ Spen's Extended FunkyAfroSpaceOdyssey",
+                    "uri": "5JjbdEU5qV5aMSYmIBprDQ"
+                },
+                {
+                    "artist": "SPVRROW",
+                    "title": "Space Odyssey",
+                    "uri": "6F6Fbk1zP8vHGnShZOA4dz"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Steve Bug",
+                    "title": "Loverboy",
+                    "uri": "7726U8Yn9Yj0OFimaTCE02"
+                },
+                {
+                    "artist": "Steve Bug",
+                    "title": "The Moment - Radio Edit",
+                    "uri": "3MgpEmy2bdafbuJaVEWHiv"
+                },
+                {
+                    "artist": "Steve Bug",
+                    "title": "Use Me - Radio Edit",
+                    "uri": "2o9wgmhQoj3PbyJiK1mlaI"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Touré-Raichel Collective",
+                    "title": "Philipa",
+                    "uri": "4FcCG5Yn2B2yZXkT4dP5tc"
+                },
+                {
+                    "artist": "Philippa",
+                    "title": "Rainy Nights",
+                    "uri": "6GXvrM5vSmFSHZth31j2bX"
+                },
+                {
+                    "artist": "Philippa Kinsky",
+                    "title": "always okay",
+                    "uri": "70sd0T6eTCowGMu9m1n0mz"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "Edmondson",
+                    "title": "Think Back",
+                    "uri": "257JPKwePgipiap5eFxf5R"
+                },
+                {
+                    "artist": "Edmondson",
+                    "title": "Think Back",
+                    "uri": "4VOfTi822D3jJvdbbg3YKt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Canibus",
+                    "title": "Think Back (feat. Flawless the MC)",
+                    "uri": "0k79rbn4fZm33eR9wLdGcG"
+                },
+                {
+                    "artist": "Gordon Lightfoot",
+                    "title": "The Wreck of the Edmund Fitzgerald",
+                    "uri": "536L9C0N7vhYdibCJx3cI2"
+                },
+                {
+                    "artist": "Edmond K",
+                    "title": "Old memories Pt1",
+                    "uri": "2Qs310oYk0Qtqj6kGcKLPJ"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "The Undisputed Truth",
+                    "title": "You + Me = Love - Instrumental Version",
+                    "uri": "2lpYQ3zcwQ0kj2AVfx8lsn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Undisputed Truth",
+                    "title": "Smiling Faces Sometimes",
+                    "uri": "5Vdg4tP25ffeGEC5GGmCwm"
+                },
+                {
+                    "artist": "Astonique",
+                    "title": "You + Me",
+                    "uri": "1BQvCLA5kE21XwDzF9b9hq"
+                },
+                {
+                    "artist": "#Undisputed",
+                    "title": "Affection",
+                    "uri": "3v7KY1AgvrFJeoEriyBiDC"
+                }
+            ]
+        },
+        "25": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "James Brown",
+                    "title": "Sex Machine",
+                    "uri": "2xTv6Qqa8BhbdHr3Z3Cs6s"
+                },
+                {
+                    "artist": "La Tropa Chicana",
+                    "title": "Los Hombres No Deben Llorar",
+                    "uri": "11DDsTwummNAwfJcDUbZWw"
+                },
+                {
+                    "artist": "Conjunto Invensible",
+                    "title": "Los Hombres No Deben Llorar",
+                    "uri": "75jHCuEhNFa9hs2bS7tNmE"
+                }
+            ]
+        },
+        "26": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rollover",
+                    "title": "Pretty Baby",
+                    "uri": "2dgDBbubXLJjYjs3FzmZUl"
+                },
+                {
+                    "artist": "Rollover",
+                    "title": "Miss Wood",
+                    "uri": "72rAEGejcrJVACkMattD0K"
+                },
+                {
+                    "artist": "Status Quo",
+                    "title": "Roll Over Lay Down",
+                    "uri": "6dlSljMwN2mVE9cuGTAhTz"
+                }
+            ]
+        },
+        "27": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eivind Aarset",
+                    "title": "Legion",
+                    "uri": "04ccpSYvECEmRm0Sap6SAC"
+                },
+                {
+                    "artist": "Eivind Aarset",
+                    "title": "Surrender",
+                    "uri": "7lyyZLvFmPSVNXOcAlyNOa"
+                },
+                {
+                    "artist": "Eivind Aarset",
+                    "title": "City Never Sleeps",
+                    "uri": "2e1WOnSBy4TcHFmlG5EKrl"
+                }
+            ]
+        }
+    },
     "bill-brewster-17th-october-2023": {
         "00": {
             "s0": [

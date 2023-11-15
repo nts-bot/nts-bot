@@ -6268,6 +6268,637 @@
             ]
         }
     },
+    "soup-to-nuts-anu-14th-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jatin-Lalit",
+                    "title": "Kuch Kuch Hota Hai",
+                    "uri": "4RixtPhUXlci9ad4qIMj23"
+                },
+                {
+                    "artist": "Udit Narayan",
+                    "title": "Yeh Ladka Hai Deewana",
+                    "uri": "41Vl2OoM83VVe0eePpsgUf"
+                },
+                {
+                    "artist": "Alka Yagnik",
+                    "title": "Kuch Kuch Hota Hai - Sad",
+                    "uri": "20UvuxJ3vf2aDJjaNpgZZt"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jatin-Lalit",
+                    "title": "Bole Chudiyan",
+                    "uri": "1uzkWkIaWaxzHJgJ4Fy5rO"
+                },
+                {
+                    "artist": "Jatin-Lalit",
+                    "title": "Bole Chudiyan (From \"Kabhi Khushi Kabhie Gham\")",
+                    "uri": "10JFE3POLCsisDZSfejjIF"
+                },
+                {
+                    "artist": "Kavita Krishnamurthy",
+                    "title": "Kay Sera Sera (From \"Pukar\")",
+                    "uri": "4D2fTdCOucvgCZ8I9ApkZI"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "George Semper",
+                    "title": "Extraterrestrial Search Contact Tones",
+                    "uri": "1NXVkb8vl2n1eL19Kbw4Av"
+                },
+                {
+                    "artist": "George Smeddles",
+                    "title": "Love - Edit",
+                    "uri": "0KSSacJqwuH1eLUppahF0w"
+                },
+                {
+                    "artist": "George Simpson",
+                    "title": "How Will I Know (Acoustic)",
+                    "uri": "5OwlKRuJGotilwjfhvnG64"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Dwight Sykes",
+                    "title": "Walk With Me",
+                    "uri": "2fw6QwoQff44oVzQLhg2nN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dwight Sykes",
+                    "title": "Walk With Me",
+                    "uri": "2fw6QwoQff44oVzQLhg2nN"
+                },
+                {
+                    "artist": "Leaf Dog",
+                    "title": "Walk With Me",
+                    "uri": "0jljqvBFnDzNxhUU5Xd05S"
+                },
+                {
+                    "artist": "Adaro",
+                    "title": "Walk With Me",
+                    "uri": "2s3P460mOZJ2d3RDNiECyA"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Harold Budd",
+                    "title": "Ooze Out And Away, Onehow",
+                    "uri": "7DWLcGATN7NoQdsTARqE6O"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cocteau Twins",
+                    "title": "Ooze Out And Away, Onehow",
+                    "uri": "157RVHlboS0mum8aCu0WBp"
+                },
+                {
+                    "artist": "Harold Budd",
+                    "title": "Faraon - 2013 Remaster",
+                    "uri": "5MGYcaAg4dci4djv6VfPL1"
+                },
+                {
+                    "artist": "Cocteau Twins",
+                    "title": "Sea, Swallow Me",
+                    "uri": "7vPHiwgCOAjSBRjAirbMvS"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Wendy & Bonnie",
+                    "title": "I Realized You",
+                    "uri": "6I7Kw0u4LUXBUQKc00vw5S"
+                },
+                {
+                    "artist": "Wendy & Bonnie",
+                    "title": "I Realized You",
+                    "uri": "5mYJbOCuypE3hr3hjtRBlT"
+                },
+                {
+                    "artist": "Wendy & Bonnie",
+                    "title": "I Realized You",
+                    "uri": "4JRpsU2GPQEDDvzOtyR3D5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Wendy & Bonnie",
+                    "title": "I Realized You",
+                    "uri": "6I7Kw0u4LUXBUQKc00vw5S"
+                },
+                {
+                    "artist": "Wendy",
+                    "title": "Kapitel 01: Die Überschwemmung (Folge 73)",
+                    "uri": "2aMAH32DuIZn9Vi3MMnobE"
+                },
+                {
+                    "artist": "Deutsches Filmorchester Babelsberg",
+                    "title": "Opening Title",
+                    "uri": "2vsZJ1NQu1hQAsTKxTHP8l"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Michael Orr And The Book Of Life",
+                    "title": "Spread Love",
+                    "uri": "7cxIJRi36uvwUkU4Dtiiq9"
+                },
+                {
+                    "artist": "Michael Orr And The Book Of Life",
+                    "title": "Love Will Rise",
+                    "uri": "5NWETPn5vsQHsoPKmmayJh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lionel Richie",
+                    "title": "Love Will Find A Way",
+                    "uri": "694B0n6KdunVKthQYydADs"
+                },
+                {
+                    "artist": "Kenny Rogers",
+                    "title": "Love Will Turn You Around",
+                    "uri": "1M2a5TNHqmr2zXZZcB7xTe"
+                },
+                {
+                    "artist": "Jessica Haller",
+                    "title": "Love Will Bring You Home",
+                    "uri": "5Z9G5vXGJF9RRoxEcyZB7y"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Vivian Jones",
+                    "title": "Good Morning",
+                    "uri": "0Gs95NgFndo8CZLiuejZkD"
+                },
+                {
+                    "artist": "Vivian Jones",
+                    "title": "Sugar Love",
+                    "uri": "5YcA3MVrMBTQoinzhFZbIK"
+                },
+                {
+                    "artist": "Jah Cure",
+                    "title": "Good Morning Jah Jah",
+                    "uri": "6JkYWafjfgg0QPCm1Qaqp2"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Orange Blue",
+                    "title": "Can Somebody Tell Me Who I Am - Acoustic Orchestra Version",
+                    "uri": "3X751urEUeaGlUlUkjLXw0"
+                },
+                {
+                    "artist": "Rockit Music",
+                    "title": "Orange (Rainbow Friends)",
+                    "uri": "16Rxbv4x7xPu9XBleV6rk6"
+                },
+                {
+                    "artist": "オレンジの遭難",
+                    "title": "登校",
+                    "uri": "5cE3g51m9sQAS0KXLdw8Xk"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Dwight Sykes",
+                    "title": "Togetherness",
+                    "uri": "3Kby5q9GpHLrmFRQvmn6nZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dwight Sykes",
+                    "title": "Togetherness",
+                    "uri": "3Kby5q9GpHLrmFRQvmn6nZ"
+                },
+                {
+                    "artist": "Count Bass D",
+                    "title": "Antemeridian",
+                    "uri": "2GpENjtemCplZEcaUxc4by"
+                },
+                {
+                    "artist": "Dwight Rivera",
+                    "title": "Najma",
+                    "uri": "19TO5cab4Y0whxSr1LogZi"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "47FlbrwMWmaaC87mkVbwcZ"
+                },
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "NIKSTER",
+                    "title": "Unknown",
+                    "uri": "5ZIUcAYOukzQ6qx5c4LNpu"
+                },
+                {
+                    "artist": "UNKNOWN",
+                    "title": "Direction",
+                    "uri": "1smp9PVl3f1yIbyl7f17wR"
+                },
+                {
+                    "artist": "Bapti",
+                    "title": "Unknown",
+                    "uri": "2V48LfT5x1dRUpnHjEJpaE"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Junko Ohashi",
+                    "title": "Crystal City",
+                    "uri": "2WffVdGgPYwIsMmTUWQn4C"
+                },
+                {
+                    "artist": "Junko Ohashi",
+                    "title": "Crystal City - 2014",
+                    "uri": "3cn80ytTKaaztOsDbqaUg3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Junko Ohashi",
+                    "title": "Crystal City - 2014",
+                    "uri": "3cn80ytTKaaztOsDbqaUg3"
+                },
+                {
+                    "artist": "Junko Yagami",
+                    "title": "黄昏のBAY CITY",
+                    "uri": "4wUQvovMEkByMvZNCecZ9v"
+                },
+                {
+                    "artist": "Junko Ohashi",
+                    "title": "クリスタル・シティー",
+                    "uri": "24yeqyHA3EW35CKpyeE4uR"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Unknown Artist",
+                    "title": "I'm Sorry",
+                    "uri": "6BuLVmJN1TJ9XaeqxOdS6L"
+                },
+                {
+                    "artist": "Unknown Artist",
+                    "title": "I Love You remix",
+                    "uri": "7nNuZhUIn0X7IalnEyfmOS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Walters",
+                    "title": "I Love You So",
+                    "uri": "4SqWKzw0CbA05TGszDgMlc"
+                },
+                {
+                    "artist": "Ren",
+                    "title": "I Love You So - Speed",
+                    "uri": "3qAZvqSDXDQLwJzBKHohUb"
+                },
+                {
+                    "artist": "Cassius",
+                    "title": "I <3 U SO",
+                    "uri": "0WWBeDKdXmGbZD1XVOVqot"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Ghetto Girlz",
+                    "title": "Get Off Mine",
+                    "uri": "3ZDKGHyO6GTwlunt1psWdq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "CAPO",
+                    "title": "GHETTOGIRL",
+                    "uri": "3idbCPumlga23rxFA08fZE"
+                },
+                {
+                    "artist": "2Pac",
+                    "title": "Ghetto Gospel",
+                    "uri": "7jLbTp3qZzah9kMIdW8e5M"
+                },
+                {
+                    "artist": "Kurdo",
+                    "title": "Ghettofilm",
+                    "uri": "5l38dzTm2DXxdY4vyLWhRY"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Junglepussy",
+                    "title": "Arugula",
+                    "uri": "7vO3gp2Mpxv2yySRfw8cMu"
+                },
+                {
+                    "artist": "Junglepussy",
+                    "title": "Arugula",
+                    "uri": "2ZUldgMAzPcC9pKAH65Fwg"
+                },
+                {
+                    "artist": "Junglepussy",
+                    "title": "Arugula",
+                    "uri": "0O9NLOveD66NQ7SHyXGvH0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Junglepussy",
+                    "title": "Arugula",
+                    "uri": "7vO3gp2Mpxv2yySRfw8cMu"
+                },
+                {
+                    "artist": "Junglepussy",
+                    "title": "CRITIQUA",
+                    "uri": "6h9atUDhTFazxUSgXywDzS"
+                },
+                {
+                    "artist": "Istasha",
+                    "title": "Jungle Puppy",
+                    "uri": "1Dl5cto1XumMsE7NBIuyM9"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Yaeji",
+                    "title": "easy breezy",
+                    "uri": "1eXzN85vuVH3VpDJlsrH8j"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Yaeji",
+                    "title": "easy breezy",
+                    "uri": "1eXzN85vuVH3VpDJlsrH8j"
+                },
+                {
+                    "artist": "B-Tight",
+                    "title": "Eazy",
+                    "uri": "2RPTAoZxRjPJLKtFQGdPMg"
+                },
+                {
+                    "artist": "Yaeji",
+                    "title": "Away x5",
+                    "uri": "2SfC5ESU0UwDyVlYLOtmli"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "George Riley",
+                    "title": "Satisfy You",
+                    "uri": "5kEw87BEeUlM4Y3z7e31wq"
+                },
+                {
+                    "artist": "George Riley",
+                    "title": "Satisfy You",
+                    "uri": "1lnfw4viFe2ZJSyssa4Io9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "George Riley",
+                    "title": "Satisfy You",
+                    "uri": "5kEw87BEeUlM4Y3z7e31wq"
+                },
+                {
+                    "artist": "George Riley",
+                    "title": "Satisfy You",
+                    "uri": "1lnfw4viFe2ZJSyssa4Io9"
+                },
+                {
+                    "artist": "Halogenix",
+                    "title": "Satisfy My Soul",
+                    "uri": "0IAwOYPBzNNIZcC19ksSYW"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Britney Spears",
+                    "title": "Don't Hang Up",
+                    "uri": "18V8mpHKbDweorPR8yD30w"
+                },
+                {
+                    "artist": "Britney Spears",
+                    "title": "Don't Hang Up",
+                    "uri": "4TfITSRzk33J1GwxKo20qN"
+                },
+                {
+                    "artist": "Britney Spears",
+                    "title": "Toxic",
+                    "uri": "6I9VzXrHxO9rA9A5euc8Ak"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Sky Ferreira",
+                    "title": "Everything Is Embarrassing",
+                    "uri": "7j3nbSiaWphYU2cFgyQXd9"
+                },
+                {
+                    "artist": "Sky Ferreira",
+                    "title": "Everything Is Embarrassing",
+                    "uri": "70v5mCvyPRquTyU7qTIU81"
+                },
+                {
+                    "artist": "Sky Ferreira",
+                    "title": "Everything Is Embarrassing - Unknown Mortal Orchestra Remix",
+                    "uri": "0TFYWIJ1LsxddRPHrVBmlt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sky Ferreira",
+                    "title": "Everything Is Embarrassing",
+                    "uri": "7j3nbSiaWphYU2cFgyQXd9"
+                },
+                {
+                    "artist": "Sky Ferreira",
+                    "title": "Everything Is Embarrassing",
+                    "uri": "70v5mCvyPRquTyU7qTIU81"
+                },
+                {
+                    "artist": "Sky Ferreira",
+                    "title": "Everything Is Embarrassing - Unknown Mortal Orchestra Remix",
+                    "uri": "0TFYWIJ1LsxddRPHrVBmlt"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Go-Jo",
+                    "title": "Mrs. Hollywood",
+                    "uri": "1K1KcmJgKaeqnsisQnhyE1"
+                },
+                {
+                    "artist": "Counting Crows",
+                    "title": "Mr. Jones",
+                    "uri": "5DiXcVovI0FcY2s0icWWUu"
+                },
+                {
+                    "artist": "Counting Crows",
+                    "title": "Mr. Jones",
+                    "uri": "775moiHFrYKJf6QathlMAR"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tevin Campbell",
+                    "title": "Can We Talk",
+                    "uri": "3eRE1KwnUma75nu1HhoNY4"
+                },
+                {
+                    "artist": "Tevin Campbell",
+                    "title": "Just Ask Me",
+                    "uri": "6wZJAkomIJ67PwQLZRuTNj"
+                },
+                {
+                    "artist": "Jonell",
+                    "title": "Round And Round - Remix",
+                    "uri": "42ENIUbWw6VusXuB2VMhPx"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Kazino",
+                    "title": "Binary",
+                    "uri": "59XRxi9dznYpikoImFE1fs"
+                },
+                {
+                    "artist": "Kazino",
+                    "title": "Binary",
+                    "uri": "2KfRWRLCjHECsSLsGWakjn"
+                },
+                {
+                    "artist": "Kazino",
+                    "title": "Binary",
+                    "uri": "0RJJptpbP4zwoCwmvK8uZl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kazino",
+                    "title": "Binary",
+                    "uri": "59XRxi9dznYpikoImFE1fs"
+                },
+                {
+                    "artist": "Binary Digit",
+                    "title": "B3 (Summer Tape III)",
+                    "uri": "51cfYPKmavPCpttVPmV6Y7"
+                },
+                {
+                    "artist": "Binary Digit",
+                    "title": "B4 (Summer Tape III)",
+                    "uri": "2qV0JHP7EuZy4LKtML3nf8"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Saint Etienne",
+                    "title": "Only Love Can Break Your Heart",
+                    "uri": "2l2JonC9Mmrqs5sC7G0SlD"
+                },
+                {
+                    "artist": "Saint Etienne",
+                    "title": "Only Love Can Break Your Heart - Andrew Weatherall Mix",
+                    "uri": "1eBCqRTfuaoki3C9W4hKal"
+                },
+                {
+                    "artist": "Saint Etienne",
+                    "title": "Only Love Can Break Your Heart - Masters at Work Mix",
+                    "uri": "6dabxUHfoWkMBh5cAnfAtj"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Runa Laila",
+                    "title": "Pyar Tera Aye Jaan E Jaan",
+                    "uri": "18KGodgp6Qp1aFMnlAilBY"
+                },
+                {
+                    "artist": "Neha Kakkar",
+                    "title": "Jaane Jaan - Title Track (From \"Jaane Jaan\")",
+                    "uri": "5rFTcUfO3ZPztJHEmFOdvM"
+                },
+                {
+                    "artist": "Pragya Pallavi",
+                    "title": "Jaane ya na jaane",
+                    "uri": "54Qrt3ORipBOgLa3MegS5u"
+                }
+            ]
+        }
+    },
     "soup-to-nuts-anu-14th-september-2022": {
         "00": {
             "s0": "",

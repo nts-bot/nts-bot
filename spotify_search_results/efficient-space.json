@@ -220,6 +220,185 @@
             ]
         }
     },
+    "efficient-space-14th-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Terry Jacks",
+                    "title": "Seasons in the Sun",
+                    "uri": "7pGMRy91RcQT9oHdPgYz3A"
+                },
+                {
+                    "artist": "Terry Joe",
+                    "title": "Scheiss auf deine Liebe (S.A.D.L.)",
+                    "uri": "2WdYSKWaz9znBKszinMjkK"
+                },
+                {
+                    "artist": "Terry Joe",
+                    "title": "Nie mehr allein",
+                    "uri": "7fEssdmOZZcrdnLGhDesbn"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Teuterekordz",
+                    "title": "Chantré",
+                    "uri": "6Yvgq5wMG5b7PscOkEvfyg"
+                },
+                {
+                    "artist": "Felix Ayo",
+                    "title": "Konzert Nr. 1 E-dur \\\"Der Frühling\\\" Op. 8 Rv 269",
+                    "uri": "07AdMIrJJIbihRBTGYci43"
+                },
+                {
+                    "artist": "Silva Sax",
+                    "title": "Chanterelle",
+                    "uri": "3JSg9IUjqze3mySqLn4HmT"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Robert Haigh",
+                    "title": "Portrait with Shadow",
+                    "uri": "2un7ijZJmug4ZPLu30otps"
+                },
+                {
+                    "artist": "Robert Haig Coxon",
+                    "title": "Finding Peace",
+                    "uri": "4HCbE0PT7NJsx8uxGB6UQF"
+                },
+                {
+                    "artist": "Robert Haig Coxon",
+                    "title": "Sacred Path II",
+                    "uri": "2oe3tjRX6ugOZdS1HDtBMu"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mehraad Jam",
+                    "title": "Hey",
+                    "uri": "0EoxdgXi8jkK8GFsu7USiK"
+                },
+                {
+                    "artist": "Mehraad Jam",
+                    "title": "Cappuccino",
+                    "uri": "7yZxpsyCI2VBSBFBGJ188o"
+                },
+                {
+                    "artist": "Ali Montazeri",
+                    "title": "Mehrabanam",
+                    "uri": "5zu5QPzk6mo3OIaKbYv7i3"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Traditional",
+                    "title": "Berbère: Berceuse Amazigh",
+                    "uri": "3bQ8Ms2QNTyBJThbjM2mP1"
+                },
+                {
+                    "artist": "Monsieur de Sainte-Colombe",
+                    "title": "Concert XLI: Le retour - en pianelle",
+                    "uri": "4TYElZ44SQpEnrPoYAawgw"
+                },
+                {
+                    "artist": "Petite Chouette",
+                    "title": "Berceuse",
+                    "uri": "5d1d6b7TRZnr4G8BhLQGl1"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Simon Fisher Turner",
+                    "title": "Nanga Parbat",
+                    "uri": "6fGzagcQT3IhM8LEFZU6Uy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Simon Fisher Turner",
+                    "title": "Nanga Parbat",
+                    "uri": "6fGzagcQT3IhM8LEFZU6Uy"
+                },
+                {
+                    "artist": "Simon Field",
+                    "title": "Need No Music",
+                    "uri": "3LtqlDYfE6tYM15qugG6ow"
+                },
+                {
+                    "artist": "Simon Field",
+                    "title": "Diamond",
+                    "uri": "1okTzgQ1331h8Ka0lpd10u"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Golden Palominos",
+                    "title": "Little Suicides",
+                    "uri": "5SeNQb4peJFvCQxBzteHXg"
+                },
+                {
+                    "artist": "El Gibaa",
+                    "title": "Palomino Creek",
+                    "uri": "4lxG62oAFlgtX7S5IiRlKq"
+                },
+                {
+                    "artist": "Little Sis Nora",
+                    "title": "MDMA - Rock Edit",
+                    "uri": "0owoM1QtPicQkzYXRelBnS"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Coil",
+                    "title": "Going Up - Remastered",
+                    "uri": "0ujs2GaZdsST7WqR1CGd6q"
+                },
+                {
+                    "artist": "This Immortal Coil",
+                    "title": "Going Up",
+                    "uri": "3M2Cat7jCMIxN8d8mq1oD6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Coil",
+                    "title": "Going Up - Remastered",
+                    "uri": "0ujs2GaZdsST7WqR1CGd6q"
+                },
+                {
+                    "artist": "Canned Heat",
+                    "title": "Going Up The Country",
+                    "uri": "57460SJgSpCXaRJ9YIYHxy"
+                },
+                {
+                    "artist": "Laid Back",
+                    "title": "Elevator Boy - 2008 Remaster",
+                    "uri": "3KyJ3xihg3q0Zx7kdBD607"
+                }
+            ]
+        }
+    },
     "efficient-space-20th-october-2022": {
         "00": {
             "s0": "",
