@@ -1,4 +1,644 @@
 {
+    "giles-smith-16th-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Space Ghost",
+                    "title": "New World Energy - Sunset Mix",
+                    "uri": "6J420pc4FAuw8amL6tzd97"
+                },
+                {
+                    "artist": "Glass Animals",
+                    "title": "Space Ghost Coast To Coast",
+                    "uri": "0RZLmpEzGR2NHite6rvS5H"
+                },
+                {
+                    "artist": "Vestron Vulture",
+                    "title": "Space Goth Coast to Coast",
+                    "uri": "6mpqsgsgVDI6grQlZgQUAU"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Kendall Timmons",
+                    "title": "Fred's Dystopia",
+                    "uri": "1DLQuUhYpFUvFh6mTsLHxA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fred Davis",
+                    "title": "Time When You Say You Love Me",
+                    "uri": "0mVBKfjep4W5dw4k4C999c"
+                },
+                {
+                    "artist": "Fred Denote",
+                    "title": "Dystopia",
+                    "uri": "7MVup5ruieJQFmfnPP0Asr"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Meelo",
+                    "title": "Day",
+                    "uri": "1OYr2rxHmP0SFpF7OFIpwD"
+                },
+                {
+                    "artist": "Presiident Meelo",
+                    "title": "Days",
+                    "uri": "0ilic3iLwa1QTXeUuhMcJ3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Saul Domenech",
+                    "title": "Melo-Day",
+                    "uri": "1UuHZvd2cvMdZ1lErIN6LV"
+                },
+                {
+                    "artist": "Melo68",
+                    "title": "Diamant",
+                    "uri": "3tJgvo03vZL9nLG9MYKcVH"
+                },
+                {
+                    "artist": "Vivaldy Jay",
+                    "title": "MeLo Da",
+                    "uri": "69VCWNGaGcY8hNy4adkckM"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Apollo Brown",
+                    "title": "Reflection",
+                    "uri": "0e1i05VrZHEbCBN6SXAANu"
+                },
+                {
+                    "artist": "Apollo Brown",
+                    "title": "Reflections (feat. Rogue Venom)",
+                    "uri": "1NjXGGccsEU8rMiNp8XgVn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Apollo Brown",
+                    "title": "Reflection",
+                    "uri": "0e1i05VrZHEbCBN6SXAANu"
+                },
+                {
+                    "artist": "Apollo Brown",
+                    "title": "Please Don't Let Me",
+                    "uri": "1At8mBpoFdf7rfQkuE8497"
+                },
+                {
+                    "artist": "Dash Berlin",
+                    "title": "Apollo Road",
+                    "uri": "4XiNFx46PzeUEN03noa6qK"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Selassie",
+                    "title": "SYMBOLS",
+                    "uri": "2VAVCt0hPQEl0YVwsMwpLk"
+                },
+                {
+                    "artist": "Selassie",
+                    "title": "SYMBOLS",
+                    "uri": "6ABJAF2rC7Nv4c0OGlwMh3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Selassie",
+                    "title": "SYMBOLS",
+                    "uri": "2VAVCt0hPQEl0YVwsMwpLk"
+                },
+                {
+                    "artist": "Selassie",
+                    "title": "SYMBOLS",
+                    "uri": "6ABJAF2rC7Nv4c0OGlwMh3"
+                },
+                {
+                    "artist": "Selassie",
+                    "title": "YIDDY",
+                    "uri": "3djcusIpncgGc5biMIKZUu"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Karizma",
+                    "title": "Good Morning",
+                    "uri": "4aigMKgmu3g558XPA1Wpza"
+                },
+                {
+                    "artist": "Karizma",
+                    "title": "Good Morning - Kaytronik Remix",
+                    "uri": "5XFwHSECR0Iy4bhdT0hSvP"
+                },
+                {
+                    "artist": "Karizma",
+                    "title": "Good Morning - DJ Spen & Gary Hudgins' Beautiful Morning Mix",
+                    "uri": "5d86cEBAGkgUEzgpMXOetu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Karizma",
+                    "title": "Good Morning - Kaytronik Remix",
+                    "uri": "5XFwHSECR0Iy4bhdT0hSvP"
+                },
+                {
+                    "artist": "Karizma",
+                    "title": "Good Morning - DJ Spen & Gary Hudgins' Beautiful Morning Mix",
+                    "uri": "5d86cEBAGkgUEzgpMXOetu"
+                },
+                {
+                    "artist": "Moe Turk",
+                    "title": "Karizma",
+                    "uri": "6oTrSmQUsvndDDQSMjqcyM"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Karizma",
+                    "title": "Klearkut - Rafael Moraes Remix",
+                    "uri": "6Zm2ZzX8g4PoIgSGOGmgZa"
+                },
+                {
+                    "artist": "Karizma",
+                    "title": "Klearkut - Rafael Moraes Remix",
+                    "uri": "5Pqrsozdgzrnx2WevRIyE0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Karizma",
+                    "title": "Klearkut - Rafael Moraes Remix",
+                    "uri": "5Pqrsozdgzrnx2WevRIyE0"
+                },
+                {
+                    "artist": "Moe Turk",
+                    "title": "Karizma",
+                    "uri": "6oTrSmQUsvndDDQSMjqcyM"
+                },
+                {
+                    "artist": "Diass",
+                    "title": "Karizma",
+                    "uri": "25b4OJ2ntm6VVvVlQS8QIy"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alton Ellis",
+                    "title": "Too Late to Turn Back Now",
+                    "uri": "3f9grIIoGwySGKOE9C0d5P"
+                },
+                {
+                    "artist": "Alton Ellis",
+                    "title": "Rock Steady",
+                    "uri": "6azx6iv2R1DhwovSp4xd5v"
+                },
+                {
+                    "artist": "Alton Ellis",
+                    "title": "Working On a Groovy Thing",
+                    "uri": "2yTRupUlFEWvzJSA3SwRkq"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Charles Webster",
+                    "title": "Forget the Past",
+                    "uri": "181J8oVA6tWddwWHdQe0cP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Doctor Rockit",
+                    "title": "Café de Flore - Charles Webster's latin lovers mix",
+                    "uri": "6vtrpjNZpUiyj1KsoWxc1Y"
+                },
+                {
+                    "artist": "Tindersticks",
+                    "title": "Man Alone (Can't Stop the Fadin') - Charles Webster Mix",
+                    "uri": "2Jhxk3gutJ0LZSXcHfjall"
+                },
+                {
+                    "artist": "Doctor Rockit",
+                    "title": "Café de Flore - Charles Webster's latin lovers mix",
+                    "uri": "1Cq56gk7paifMfgdyIFkvO"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "USG",
+                    "title": "Life 4 Living",
+                    "uri": "36abYTyqMC13buaMnlm8Zg"
+                },
+                {
+                    "artist": "USG",
+                    "title": "Life 4 Living - Dub Mix",
+                    "uri": "6tGwvTIhVwFVSYOByzvQ0h"
+                },
+                {
+                    "artist": "USG",
+                    "title": "Life 4 Living - Vocal Life Mix",
+                    "uri": "3OuNBfZcrNHOe3ddmQIhGf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "USG",
+                    "title": "Life 4 Living",
+                    "uri": "36abYTyqMC13buaMnlm8Zg"
+                },
+                {
+                    "artist": "USG",
+                    "title": "Life 4 Living - Dub Mix",
+                    "uri": "6tGwvTIhVwFVSYOByzvQ0h"
+                },
+                {
+                    "artist": "Narciss",
+                    "title": "LOVE 4 LIFE",
+                    "uri": "4fmMlfYmxRNdTEWXBJyaZa"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chima Ede",
+                    "title": "Passanten",
+                    "uri": "24xEXPf1ey03V1XriGAnX6"
+                },
+                {
+                    "artist": "Chimaira",
+                    "title": "Power Trip",
+                    "uri": "1N7RYua9aAmm5hEUERm8l7"
+                },
+                {
+                    "artist": "Obie Moody",
+                    "title": "Chimaera",
+                    "uri": "1zgPNzEnadYfnpkFnRYlvF"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Hanna",
+                    "title": "You & Me - Mixed",
+                    "uri": "28d1ZBbYM9JkXsvumhgFrh"
+                },
+                {
+                    "artist": "King Hannah",
+                    "title": "It's Me and You, Kid",
+                    "uri": "15fmnBjyAHzNIrCKB77tTW"
+                },
+                {
+                    "artist": "Hannah Montana",
+                    "title": "You and Me Together",
+                    "uri": "13PMZGkmZ49uH8JuYWBhkK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "JENNIE",
+                    "title": "You & Me",
+                    "uri": "6gcuJpHu0Ey30D5WR76y98"
+                },
+                {
+                    "artist": "J Lisk",
+                    "title": "Hold Me (feat. Hannah Young)",
+                    "uri": "6LQteKYnFTQelpwFDFkaWo"
+                },
+                {
+                    "artist": "Jako Diaz",
+                    "title": "Don't Pass Me By",
+                    "uri": "1t6lMPs6HQ1hrRu4DOSs0n"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Denimadic",
+                    "title": "Gunk Juice",
+                    "uri": "0utfLtB2dae0oINywiN48q"
+                },
+                {
+                    "artist": "ACIDMANE",
+                    "title": "DEMONIAC MACABRE",
+                    "uri": "0BtlVyyyH3kBb9YaFF7Wu4"
+                },
+                {
+                    "artist": "Denimadic",
+                    "title": "Woke Up",
+                    "uri": "4pgppigNBKjUrYUlCUN1fA"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sllash & Doppe",
+                    "title": "Make Me High",
+                    "uri": "3mAig7r4mGPSBs7GOYNaTf"
+                },
+                {
+                    "artist": "Borai & Denham Audio",
+                    "title": "Make Me - Friction Remix",
+                    "uri": "4cOR4f7kS6SAgh69dXunKp"
+                },
+                {
+                    "artist": "Cedric Gervais",
+                    "title": "Make Me Feel",
+                    "uri": "7sjZHZKmXoH2Il1iwiiEVZ"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alfredo De Angelis",
+                    "title": "Pobre Flor",
+                    "uri": "0H9AR0s8zfGzOjEaXZkpgS"
+                },
+                {
+                    "artist": "Tango Jointz",
+                    "title": "Tango D’amor",
+                    "uri": "5tqOAfFgB9Qa2f4w77ZWr2"
+                },
+                {
+                    "artist": "Juan D'Arienzo",
+                    "title": "Cicatrices",
+                    "uri": "4PqAQG0vUI5HwjO9qFYGMP"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kyle Hume",
+                    "title": "Hate You The Least",
+                    "uri": "6vFbWYHAs0Wg37tr1nSPRI"
+                },
+                {
+                    "artist": "Kyle Hume",
+                    "title": "alive (it's a lie) - sped up version",
+                    "uri": "55U2qfL15mSe3S9lagm0Em"
+                },
+                {
+                    "artist": "Kyle Hume",
+                    "title": "Fine",
+                    "uri": "2Rpxbbx0rbA7leuAshGEH3"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Paul Rodgers",
+                    "title": "Little Bit of Love - Live",
+                    "uri": "40grme7BkdQSm8vywj35ND"
+                },
+                {
+                    "artist": "Paul Rodgers",
+                    "title": "Coming Home",
+                    "uri": "2gst0y1pMPvv1eT8G3TqQy"
+                },
+                {
+                    "artist": "Pau Redondo",
+                    "title": "What About Mood - Original mix",
+                    "uri": "5MP8yL0ZkZYZhNqqJkNERl"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Kai Alcé",
+                    "title": "Slide It In",
+                    "uri": "2UJM1VKt9ccI5aWOT2cB0E"
+                },
+                {
+                    "artist": "Kai Alcé",
+                    "title": "Slide It In",
+                    "uri": "1qA3KwFEQQyXDeBgYbDjed"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kai Alcé",
+                    "title": "Slide It In",
+                    "uri": "2UJM1VKt9ccI5aWOT2cB0E"
+                },
+                {
+                    "artist": "Kai Alcé",
+                    "title": "Slide It In",
+                    "uri": "1qA3KwFEQQyXDeBgYbDjed"
+                },
+                {
+                    "artist": "Kai Alcé",
+                    "title": "Space Skat N Dat",
+                    "uri": "4HIlZhKWz2WXYcGXiZFXqe"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Ralf Gum",
+                    "title": "Little W. 12th St. - Ralf GUM Main Mix",
+                    "uri": "0Vpo6hZhl841LliFzp5Srm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ralf Gum",
+                    "title": "Little W. 12th St. - Ralf GUM Main Mix",
+                    "uri": "0Vpo6hZhl841LliFzp5Srm"
+                },
+                {
+                    "artist": "Ralf Gum",
+                    "title": "Little W. 12th St. - Ralf GUM Deeper Dub",
+                    "uri": "0GKDj1mXMhGXyXZuJHWSNq"
+                },
+                {
+                    "artist": "Ralf Konrad",
+                    "title": "Omas & Loras",
+                    "uri": "6h7h9LQ7CP2HWohgsXW58a"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Fred P",
+                    "title": "Motivated Inspiration",
+                    "uri": "5PBPO2BbrY0EdqsyrwjphM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Guy Rickard",
+                    "title": "Treetop Bar",
+                    "uri": "7aRtwRAhUhfYRgSEkCZudh"
+                },
+                {
+                    "artist": "BOBBY HOOD",
+                    "title": "Fred Perry",
+                    "uri": "01rU5emvHjCJUltlhpgt3v"
+                },
+                {
+                    "artist": "Nobel",
+                    "title": "Sunday Swamp",
+                    "uri": "2YiDJMp5tdg2dYjEFqT82S"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kerri Chandler",
+                    "title": "Rain - Mood EP Version",
+                    "uri": "4V2i4mCnjqWGXPJsNc8Rm8"
+                },
+                {
+                    "artist": "RiskSoundSystem",
+                    "title": "The Sound Is Yours - Kerri Chandler Remix",
+                    "uri": "586ipzQlSCyAyY1pvFthWT"
+                },
+                {
+                    "artist": "Kerri Chandler",
+                    "title": "You Are In My System - Faster Horses Sport Mix",
+                    "uri": "4cxpgHXbVh4sGwb1C7TAG2"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Blaze",
+                    "title": "Cult Of Soul",
+                    "uri": "1uIUEJnMcsCvdSr2Vxi9np"
+                },
+                {
+                    "artist": "Blaze",
+                    "title": "Cult Of Soul",
+                    "uri": "44UqRsIDJ3yQ30HyDRMyBU"
+                },
+                {
+                    "artist": "Blaze",
+                    "title": "Cult Of Soul",
+                    "uri": "3Cn2Y31pszXKMlSwUyKf8p"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Blaze and the Monster Machines",
+                    "title": "Blaze and the Monster Machines Theme Song",
+                    "uri": "09MyGeiLIU9jlA2lVbwnTF"
+                },
+                {
+                    "artist": "Jon Bon Jovi",
+                    "title": "Blaze Of Glory - From \"Young Guns II\" Soundtrack",
+                    "uri": "1sUTfgduT0WIQO8kXKXxLC"
+                },
+                {
+                    "artist": "Blaze and the Monster Machines",
+                    "title": "Blaze On",
+                    "uri": "4RmNkulQoBZgGsq3zxmhF9"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Vincent Halliburton",
+                    "title": "Something I Feel",
+                    "uri": "2uJggCBS3GWWSMAROGoPy8"
+                },
+                {
+                    "artist": "Vincent Gallo",
+                    "title": "I Wrote This Song For The Girl Paris Hilton",
+                    "uri": "2N77m6dgvQlMPT0ArDsvlO"
+                },
+                {
+                    "artist": "Vincent Herring",
+                    "title": "In a Sentimental Mood",
+                    "uri": "2VEB1PohDkoy7NBDeKhepa"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Smash Mouth",
+                    "title": "All Star",
+                    "uri": "3cfOd4CMv2snFaKAnMdnvK"
+                },
+                {
+                    "artist": "Coco",
+                    "title": "Allstars MIC (feat. DnB Allstars)",
+                    "uri": "0FeFdREOOdb8ihdWXn5RZH"
+                },
+                {
+                    "artist": "EihinsAhachtSieheben",
+                    "title": "Allstars 2017",
+                    "uri": "7wzHCoMMdSvUZPuqEiEQuP"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Arnold Jarvis",
+                    "title": "The Joy You Bring",
+                    "uri": "3iedyosOqMfLOO0IU3SL4U"
+                },
+                {
+                    "artist": "Arnold Jarvis",
+                    "title": "Life Goes On",
+                    "uri": "5QFEuZUrQFbVDFHLK9Bgsw"
+                },
+                {
+                    "artist": "Arnold Man",
+                    "title": "There It Is",
+                    "uri": "56oTeY3tJIa8zUyC0YlbUm"
+                }
+            ]
+        }
+    },
     "giles-smith-1st-june-2023": {
         "00": {
             "s0": "",

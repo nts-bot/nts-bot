@@ -3787,6 +3787,356 @@
             "s1": ""
         }
     },
+    "kranky-16th-november-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Peter Barclay",
+                    "title": "Love It In The Sun",
+                    "uri": "6b5OPi6GVuX8bz2H9a8zOP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Peter Barclay",
+                    "title": "Love It In The Sun",
+                    "uri": "6b5OPi6GVuX8bz2H9a8zOP"
+                },
+                {
+                    "artist": "Peter Bark",
+                    "title": "cold summer",
+                    "uri": "4kXttabp1lTFSfb2OYN1UY"
+                },
+                {
+                    "artist": "Peter Bark",
+                    "title": "Breakfast For Dinner",
+                    "uri": "5dc1N9AduPhaxLKF4HGmeg"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Broadcast",
+                    "title": "You Can Fall",
+                    "uri": "3YZQslKWYbra9nP3VtqQMZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Broadcast",
+                    "title": "You Can Fall",
+                    "uri": "3YZQslKWYbra9nP3VtqQMZ"
+                },
+                {
+                    "artist": "Tower Of Power",
+                    "title": "You Can't Fall Up (You Just Fall Down)",
+                    "uri": "69uG8ZwlX20vA5fKIEu8J8"
+                },
+                {
+                    "artist": "BYU Vocal Point",
+                    "title": "You Can Fly! You Can Fly! You Can Fly! (From \"Peter Pan\")",
+                    "uri": "65bkTYoz7JF03J7PBdZk06"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Meshell Ndegeocello",
+                    "title": "Georgia Ave (feat. Josh Johnson)",
+                    "uri": "63RQWUde72QQgfl5JlHbCQ"
+                },
+                {
+                    "artist": "Meshell Ndegeocello",
+                    "title": "The Atlantiques (feat. Anaïs Maviel, Jeff Parker, Josh Johnson)",
+                    "uri": "5OXgjjil0Gl6wrRvoR3IsI"
+                },
+                {
+                    "artist": "Meshell Ndegeocello",
+                    "title": "The Way",
+                    "uri": "3txICxEvBgCBV63B4ednNB"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Jill Scott",
+                    "title": "Comes To Light (Everything)",
+                    "uri": "2w7eGe7D7Gf0JqgmQYXfTH"
+                },
+                {
+                    "artist": "Jill Scott",
+                    "title": "Comes To Light (Everything) - 2015 Remastered Version",
+                    "uri": "1hT8Osujok2ThS8cLBNpzc"
+                },
+                {
+                    "artist": "Jill Scott",
+                    "title": "Comes To Light (Everything) - 2015 Remastered Version",
+                    "uri": "0aUtIMYV165BjI77ObB7Hl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jill Scott",
+                    "title": "Comes To Light (Everything)",
+                    "uri": "2w7eGe7D7Gf0JqgmQYXfTH"
+                },
+                {
+                    "artist": "Jill Scott",
+                    "title": "A Long Walk (2020 Remastered)",
+                    "uri": "3jCb9JZx9J3N8sRgKRLRY0"
+                },
+                {
+                    "artist": "Jill Scott",
+                    "title": "Golden",
+                    "uri": "28EL5veTZtx38TqxIZwFyQ"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Tarralyn Ramsey",
+                    "title": "Unconditional Love",
+                    "uri": "6f4H1GIgcReyjFZRaAQQSG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tarralyn Ramsey",
+                    "title": "Unconditional Love",
+                    "uri": "6f4H1GIgcReyjFZRaAQQSG"
+                },
+                {
+                    "artist": "Luigi Madonna",
+                    "title": "Unconditional Beauty",
+                    "uri": "48CueGtLgYtdN5WUXeL94G"
+                },
+                {
+                    "artist": "Takayoshi",
+                    "title": "unconditionally",
+                    "uri": "6cI9UEcMQ4cVlVisye8Cde"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Shirley Caesar",
+                    "title": "Message to the People",
+                    "uri": "5PAFTmGp9wLuhnSZcBUqAU"
+                },
+                {
+                    "artist": "Shirley Caesar",
+                    "title": "Message to the People",
+                    "uri": "48P6j3Kz6yQATuxH8K9mqT"
+                },
+                {
+                    "artist": "Shirley Caesar",
+                    "title": "Message to the People",
+                    "uri": "35Zb7b1f7BPowAbdbeds2l"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Shirley Caesar",
+                    "title": "Message to the People",
+                    "uri": "6g0KRuUKqAeRL38EyVNi4R"
+                },
+                {
+                    "artist": "Shirley Bassey",
+                    "title": "Something - 1994 Remaster",
+                    "uri": "7KarW18mqK87nTQc4QrVvk"
+                },
+                {
+                    "artist": "Shirley Caesar",
+                    "title": "Jesus, I Love Calling Your Name",
+                    "uri": "6xeJNGD98zIGTbOAhngzJe"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Georgia Anne Muldrow",
+                    "title": "Ciao",
+                    "uri": "1nqIRW8RTVSHTRyZsjrsi0"
+                },
+                {
+                    "artist": "Kevin Abstract",
+                    "title": "Georgia",
+                    "uri": "3XukKy28kqKFl52GiCUSFo"
+                },
+                {
+                    "artist": "Michael Bublé",
+                    "title": "Georgia on My Mind",
+                    "uri": "4IbOPxstIn2KbdlWf5xRZ0"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Inmates",
+                    "title": "Back In History",
+                    "uri": "5TQXKMZs2BjjmZKl4P9kmH"
+                },
+                {
+                    "artist": "Herman Brood & His Wild Romance",
+                    "title": "Back in Your Love (B4-Street)",
+                    "uri": "05ZY9Ydb7DGJmatYPBbKjU"
+                },
+                {
+                    "artist": "Bermuda Yae",
+                    "title": "Back In Dis Bitch",
+                    "uri": "5sIQqniLXSIqo9yD5sbWMS"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Sly & The Family Stone",
+                    "title": "Just Like a Baby",
+                    "uri": "6Omb07SkH7gZzYkNKf1iRh"
+                },
+                {
+                    "artist": "Sly & The Family Stone",
+                    "title": "Just Like a Baby",
+                    "uri": "1aPFLpNNczxjY34qdKVJLg"
+                },
+                {
+                    "artist": "Sly & The Family Stone",
+                    "title": "Just Like a Baby",
+                    "uri": "083eeOwsHp08MEpz7qipGL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sly & The Family Stone",
+                    "title": "Just Like a Baby",
+                    "uri": "1aPFLpNNczxjY34qdKVJLg"
+                },
+                {
+                    "artist": "Sly & The Family Stone",
+                    "title": "Just Like a Baby",
+                    "uri": "6Omb07SkH7gZzYkNKf1iRh"
+                },
+                {
+                    "artist": "The Kelly Family",
+                    "title": "Oh It Hurts",
+                    "uri": "3tNecn3EUJrVF4KUjxR8Jb"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eddie Harris",
+                    "title": "I Don't Want Nobody",
+                    "uri": "3jV9iL4dF5bzlDzNAd7P9c"
+                },
+                {
+                    "artist": "Eddie Harris",
+                    "title": "It's All Right Now",
+                    "uri": "2uydRlPZMHwiXwLOwxtyja"
+                },
+                {
+                    "artist": "Eddie Harris",
+                    "title": "Look Ahere",
+                    "uri": "3bLT4gGx1Urgvw4MP1cSte"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Laura Mvula",
+                    "title": "Diamonds",
+                    "uri": "01tb2Q9KcVo63erLSq9F44"
+                },
+                {
+                    "artist": "Laura Mvula",
+                    "title": "Diamonds - Live For Hunger TV",
+                    "uri": "6EhcyvBtRHdPXvO12Of5U5"
+                },
+                {
+                    "artist": "Laura Mvula",
+                    "title": "Diamonds",
+                    "uri": "5T4j9PyEo5VVS6SFGWNT5x"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Laura Mvula",
+                    "title": "Diamonds",
+                    "uri": "01tb2Q9KcVo63erLSq9F44"
+                },
+                {
+                    "artist": "Laura Mvula",
+                    "title": "Green Garden",
+                    "uri": "1SniLCGHvhHJAiGe3hLboq"
+                },
+                {
+                    "artist": "Laura Mvula",
+                    "title": "You Work for Me",
+                    "uri": "4mem6YZhgpjTRBWdXvdNFl"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Niecy Blues",
+                    "title": "The Architect",
+                    "uri": "15PGSDWCKZkBbvYj3dFDl2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Niecy Blues",
+                    "title": "The Architect",
+                    "uri": "15PGSDWCKZkBbvYj3dFDl2"
+                },
+                {
+                    "artist": "Niecy Blues",
+                    "title": "U Care",
+                    "uri": "5bck6xj7EGZAFv4FEyekwR"
+                },
+                {
+                    "artist": "Niecy Blues",
+                    "title": "1111",
+                    "uri": "1BHnVCJYNCTo59SoZpI0dw"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lifeway Worship",
+                    "title": "Stand in Your Love",
+                    "uri": "6QGI0I14vDe4Vmrsus3jSr"
+                },
+                {
+                    "artist": "The Worship Initiative",
+                    "title": "Stand in Your Love",
+                    "uri": "26HevVsVPPsI3LDbPG32hm"
+                },
+                {
+                    "artist": "JonnyBlves",
+                    "title": "Stand on It",
+                    "uri": "147S5J0qP6H9OAQYmybR2b"
+                }
+            ]
+        }
+    },
     "kranky-17th-december-2020": {
         "00": {
             "s0": [
