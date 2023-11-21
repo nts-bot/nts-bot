@@ -10086,6 +10086,729 @@
             ]
         }
     },
+    "soup-to-nuts-john-gomez-20th-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Fabiano do Nascimento",
+                    "title": "Curumim",
+                    "uri": "35iAz0Utyzoim64It78wPy"
+                },
+                {
+                    "artist": "Fabiano do Nascimento",
+                    "title": "O Tempo",
+                    "uri": "2p82ZUgdiOpXDRKwN9uXuu"
+                },
+                {
+                    "artist": "Fabiano do Nascimento",
+                    "title": "Noite",
+                    "uri": "1dJX5Emn9DViZxoaaEEkQ6"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Tiganá Santana",
+                    "title": "Canto para Atabaque",
+                    "uri": "4A99KXLgJCo8H8rWdINRFn"
+                },
+                {
+                    "artist": "Tiganá Santana",
+                    "title": "Canto para Atabaque (Adubado)",
+                    "uri": "2nXzEmbD5jyRy9zegLzTpG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tiganá Santana",
+                    "title": "Canto para Atabaque",
+                    "uri": "4A99KXLgJCo8H8rWdINRFn"
+                },
+                {
+                    "artist": "Tiganá Santana",
+                    "title": "Meios",
+                    "uri": "1h9pUIVYwc0Hjp9ZEMisy1"
+                },
+                {
+                    "artist": "Tzanca Uraganu",
+                    "title": "Țigancă Balcanică",
+                    "uri": "3GVCA9D3bm9xIQePPn7YKw"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Xique-Xique",
+                    "title": "Espelho D'agua - Psilosamples remix",
+                    "uri": "20AGc4vkpe2eh5kvmRmxaK"
+                },
+                {
+                    "artist": "Silvana Peres",
+                    "title": "Água Nova",
+                    "uri": "1hF0jHYwgLMvVJet40vjz1"
+                },
+                {
+                    "artist": "Alma Huapanguera",
+                    "title": "El Agua Nieve",
+                    "uri": "4CwuRZat9288XTDzc6Wg7e"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Iris da Selva",
+                    "title": "Sincronia",
+                    "uri": "0hu9W0JwPS8CNuoKpDuDuj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Iris da Selva",
+                    "title": "Sincronia",
+                    "uri": "0hu9W0JwPS8CNuoKpDuDuj"
+                },
+                {
+                    "artist": "slō",
+                    "title": "iris - slowed + reverb",
+                    "uri": "6QDXlmhQnN1rihmkD3fU9y"
+                },
+                {
+                    "artist": "Luke Taylor",
+                    "title": "Iris - Slowed + Reverb",
+                    "uri": "0D9wE9ztX6L0V6Y82xY3m4"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Bruno Berle",
+                    "title": "Tirolirole",
+                    "uri": "5x89MDzl5Xcsg7wO4yPpVJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bruno Berle",
+                    "title": "Tirolirole",
+                    "uri": "5x89MDzl5Xcsg7wO4yPpVJ"
+                },
+                {
+                    "artist": "Original Tiroler Spatzen",
+                    "title": "Mein Tirolerland",
+                    "uri": "0Wdtqk90WzoswbOhqScJPW"
+                },
+                {
+                    "artist": "Zellberg Buam",
+                    "title": "Tirolerzeit",
+                    "uri": "6DFNGK65OF8vPBwHmu2JSN"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Rubel",
+                    "title": "Intro",
+                    "uri": "51QrO9pgV5M7hekGmkkfHf"
+                },
+                {
+                    "artist": "Rubella Ballet",
+                    "title": "Intro",
+                    "uri": "2SNAxuGHeudZMOxjLdKOIY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rubel",
+                    "title": "Intro",
+                    "uri": "51QrO9pgV5M7hekGmkkfHf"
+                },
+                {
+                    "artist": "KB",
+                    "title": "Rebel Intro",
+                    "uri": "1TVrVzGc9ZnDnRfJ6lcTDg"
+                },
+                {
+                    "artist": "Sacha Mauri",
+                    "title": "Rubble - Radio Edit",
+                    "uri": "4sF1YZewwRWRQk2zYonsVl"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Ana Frango Elétrico",
+                    "title": "Let's Go To Before Again",
+                    "uri": "4ZPl7yQmRrdBJ7UVQdjWYV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ana Frango Elétrico",
+                    "title": "Let's Go To Before Again",
+                    "uri": "4ZPl7yQmRrdBJ7UVQdjWYV"
+                },
+                {
+                    "artist": "Ana Frango Elétrico",
+                    "title": "Electric Fish",
+                    "uri": "2i90BhQ6Mfvrd8yHRTHyZx"
+                },
+                {
+                    "artist": "Ana Frango Elétrico",
+                    "title": "Insista em Mim",
+                    "uri": "3U4bUBl7zDaAWnTJbQ4Lpl"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Angelo Lesch",
+                    "title": "Negro",
+                    "uri": "54XsVTl36AUGmW2Do25vRA"
+                },
+                {
+                    "artist": "Negro El Necio",
+                    "title": "COCOLO",
+                    "uri": "08acsQEvELdbsNXoq2bLQv"
+                },
+                {
+                    "artist": "GunnaDaPlug",
+                    "title": "Negro Black",
+                    "uri": "6aL9f9lk2KyTSgyzr64XEe"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Rebello",
+                    "title": "Blue Nimim",
+                    "uri": "2kFg2MOVYLhkbIeHz2ddRt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jerome",
+                    "title": "Rebellion",
+                    "uri": "3DCLYpsAUY9ecM04h5QAfD"
+                },
+                {
+                    "artist": "Rejecta",
+                    "title": "The Eclipse - (Official REBELLiON 2023 Anthem)",
+                    "uri": "4uyhAHhxckqLHuRXyiyZFb"
+                },
+                {
+                    "artist": "Neelix",
+                    "title": "Rebellion",
+                    "uri": "1JpwB9AGXsCLbjH0VkI1ML"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Sessa",
+                    "title": "Gostar do Mundo",
+                    "uri": "2uwrX3ZqDMUagbxVm4S4QN"
+                },
+                {
+                    "artist": "Sessa",
+                    "title": "Gostar do Mundo - Demo",
+                    "uri": "5uVeIAZyiYH1fkkUJGezRA"
+                },
+                {
+                    "artist": "Sessa",
+                    "title": "Gostar do Mundo - Alternate",
+                    "uri": "3UUls97jL0qo45L8PNiHeU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sessa",
+                    "title": "Gostar do Mundo",
+                    "uri": "2uwrX3ZqDMUagbxVm4S4QN"
+                },
+                {
+                    "artist": "Sessa",
+                    "title": "Gostar do Mundo - Alternate",
+                    "uri": "3UUls97jL0qo45L8PNiHeU"
+                },
+                {
+                    "artist": "Sessa",
+                    "title": "Gostar do Mundo - Demo",
+                    "uri": "5uVeIAZyiYH1fkkUJGezRA"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Bala Desejo",
+                    "title": "Lua Comanche",
+                    "uri": "1ePrMcPReD8N7csRr661ab"
+                },
+                {
+                    "artist": "Bala Desejo",
+                    "title": "Lua Comanche",
+                    "uri": "1ytqFPaOumKNaTV4iIYe1c"
+                },
+                {
+                    "artist": "Bala Desejo",
+                    "title": "Lua Comanche - Ao Vivo no Coala Festival 2022",
+                    "uri": "5BytFGl3v9rNR1C8GXxggC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bala Desejo",
+                    "title": "Lua Comanche",
+                    "uri": "1ePrMcPReD8N7csRr661ab"
+                },
+                {
+                    "artist": "Bala Desejo",
+                    "title": "Lua Comanche",
+                    "uri": "1ytqFPaOumKNaTV4iIYe1c"
+                },
+                {
+                    "artist": "Bala Desejo",
+                    "title": "Passarinha",
+                    "uri": "6pHX4yF2JKjZdSk25DWJKv"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Domenico Lancellotti",
+                    "title": "Erê",
+                    "uri": "7H6aIgBvg43AbqSXJHlu4e"
+                },
+                {
+                    "artist": "Domenico Lancellotti",
+                    "title": "Diga",
+                    "uri": "7zRDn75JXGu3YQHmD2ZqY6"
+                },
+                {
+                    "artist": "Lancelot Ikuku",
+                    "title": "Standstill",
+                    "uri": "7JklCHI3vDEEqaiyNwbwMY"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Domenico Lancellotti",
+                    "title": "Florescer",
+                    "uri": "1Z3YpfRfo0AJY2pptRbdHU"
+                },
+                {
+                    "artist": "Daluzi",
+                    "title": "Florescida Paixão",
+                    "uri": "4nHeZN4lYv3UBeF0qEpOpn"
+                },
+                {
+                    "artist": "Sudoverse",
+                    "title": "Florescence",
+                    "uri": "6vvm0OtV3LhUBGEZ3qyrUw"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Domenico Lancellotti",
+                    "title": "Diga",
+                    "uri": "7zRDn75JXGu3YQHmD2ZqY6"
+                },
+                {
+                    "artist": "Domenico Lancellotti",
+                    "title": "Diga",
+                    "uri": "4LLVwY3JPXTmXP6PMP9uDh"
+                },
+                {
+                    "artist": "Alexander Scheer und Band",
+                    "title": "Lancelots Zwischenbilanz I",
+                    "uri": "0TnoTEJZiYqnwTqbiPNCeW"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Domenico Lancellotti",
+                    "title": "Diga",
+                    "uri": "7zRDn75JXGu3YQHmD2ZqY6"
+                },
+                {
+                    "artist": "Alexander Scheer und Band",
+                    "title": "Lancelots Zwischenbilanz I",
+                    "uri": "0TnoTEJZiYqnwTqbiPNCeW"
+                },
+                {
+                    "artist": "Jhorwin Blanco",
+                    "title": "Muero por Tus Besos",
+                    "uri": "2YtECoLPV3P2hHf5g5MDBj"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Zé Nigro",
+                    "title": "Shangri",
+                    "uri": "5izyGofte6NZIbowmqlpSm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Schiller",
+                    "title": "Shangri La",
+                    "uri": "0c6NNxjFVaKuTOqk55wiJJ"
+                },
+                {
+                    "artist": "Paco Versailles",
+                    "title": "Shangri La",
+                    "uri": "4Q12RzadhX6PfzLrliSiUH"
+                },
+                {
+                    "artist": "Sergey Trofimov",
+                    "title": "Снегири",
+                    "uri": "7n4gtM0dV0RwOFjweuv45Q"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Ava Rocha",
+                    "title": "SERINGUEIRA DA VEIA",
+                    "uri": "3sCJy3b60qdEsSWqecsYlB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ava Rocha",
+                    "title": "SERINGUEIRA DA VEIA",
+                    "uri": "3sCJy3b60qdEsSWqecsYlB"
+                },
+                {
+                    "artist": "Ava Rocha",
+                    "title": "Você Não Vai Passar",
+                    "uri": "3oPcOAOpAPMaC86TqYHRWI"
+                },
+                {
+                    "artist": "Rachel Reis",
+                    "title": "Serenidade",
+                    "uri": "39lQ8a5qlLN2YK5SWVXpE0"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Eduardo Manso",
+                    "title": "Cb",
+                    "uri": "539tQSzj4TOpN7DXPKkNok"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eduardo Manzano",
+                    "title": "La Ramona",
+                    "uri": "3TMl89gnBOPlKpTr1xj1iX"
+                },
+                {
+                    "artist": "Hosiannah",
+                    "title": "Eduardo made a new friend today",
+                    "uri": "2FbPKlQ56pBpMFtKTV3zdi"
+                },
+                {
+                    "artist": "Eduardo Mariné",
+                    "title": "Fantasia for Eternity - Live in Querétaro, 27-09-23",
+                    "uri": "57XfIiFXz5GVU4Ttialy0B"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Nara Pinheiro",
+                    "title": "Despertar",
+                    "uri": "6BUiH3q4IRWLR3gWJzfTvy"
+                },
+                {
+                    "artist": "Nara Pinheiro",
+                    "title": "Despertar",
+                    "uri": "3Z3dXkW07oJiLsGjbcpOO7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nara Pinheiro",
+                    "title": "Despertar",
+                    "uri": "6BUiH3q4IRWLR3gWJzfTvy"
+                },
+                {
+                    "artist": "Nara Pinheiro",
+                    "title": "Despertar",
+                    "uri": "3Z3dXkW07oJiLsGjbcpOO7"
+                },
+                {
+                    "artist": "Nara Leão",
+                    "title": "Este Seu Olhar",
+                    "uri": "7ws9U1clOAmsZmc0LAQxFt"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Young Shushu",
+                    "title": "Flamboyant",
+                    "uri": "5vyNgW2YAewmzF8x6prqZP"
+                },
+                {
+                    "artist": "Rockness Monsta",
+                    "title": "Flamboyant",
+                    "uri": "1elot6GbeXNMHKIRZdxSrG"
+                },
+                {
+                    "artist": "Flamboyant Nightmare",
+                    "title": "Chaos",
+                    "uri": "1PtaOcQlLUGSOgoq0LzqMz"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "JOCA",
+                    "title": "ROYAL",
+                    "uri": "71tSNIcHph7nhtf935fIbC"
+                },
+                {
+                    "artist": "Don Cristo",
+                    "title": "Jóias da Favela",
+                    "uri": "1pjzVke2yQPWKjbgjG4lLG"
+                },
+                {
+                    "artist": "DJ GLK",
+                    "title": "MTG MALDIÇÃO ETERNA 1.0 - joka da",
+                    "uri": "1MmRvu2J5ZhGHAs9BC6mKV"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Felinto",
+                    "title": "Prisma - Ausschuss Bootleg",
+                    "uri": "39PNDRCM70cey2WVMZCiii"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Prismala",
+                    "title": "Miss Interpretation",
+                    "uri": "09KHPBYBBMSN5pITOHP683"
+                },
+                {
+                    "artist": "Prismala",
+                    "title": "Detox",
+                    "uri": "6XExOJ3yvj7hi5dIvYnMfC"
+                },
+                {
+                    "artist": "Fellini Félin",
+                    "title": "On the Way Home - Radio Edit",
+                    "uri": "6dniyp3yZ4DimBDejBQqtC"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Roseburg",
+                    "title": "Wave",
+                    "uri": "6EvmuaTXilzz4a3nmeBAlo"
+                },
+                {
+                    "artist": "Roseburg",
+                    "title": "Be Good",
+                    "uri": "75tN7O8U0ypCQ85LFtTgND"
+                },
+                {
+                    "artist": "Arcalig",
+                    "title": "De Vez En Cuando",
+                    "uri": "05wWAD8GFORzt80aRF0KVx"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "LXST CXNTURY",
+                    "title": "NEON",
+                    "uri": "5vlAZMsmbB4Fyz4pWf1ICh"
+                },
+                {
+                    "artist": "NEON_ECHOZ",
+                    "title": "Metaphor Melodies",
+                    "uri": "1ajjzxAZx9elyAbYXSabPC"
+                },
+                {
+                    "artist": "NEON_ECHOZ",
+                    "title": "Street Serendipity",
+                    "uri": "6pxhKqCJjeFfP6aLPbBPll"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "ROMAN SCHREIER",
+                    "title": "Erika",
+                    "uri": "7wiGEwTJSroEJyXjbR4CGe"
+                },
+                {
+                    "artist": "VXLCHIY CHEREP",
+                    "title": "Erika - remix",
+                    "uri": "4PVpDiOFVxiMNGDiMRLobC"
+                },
+                {
+                    "artist": "Vieze Asbak",
+                    "title": "Erika Uit Langenboom - Uptempo Braak Mix",
+                    "uri": "5u71KoTFrhKZTZ8g4Xw8ue"
+                }
+            ]
+        },
+        "25": {
+            "s0": [
+                {
+                    "artist": "Vermelho Wonder",
+                    "title": "Se Você",
+                    "uri": "3XAKA31uYJgtFQ3E9nYYaV"
+                },
+                {
+                    "artist": "Vermelho Wonder",
+                    "title": "Se Você - Rotciv Remix",
+                    "uri": "77PW6y1hcIKrbyezztS3Uj"
+                },
+                {
+                    "artist": "Vermelho Wonder",
+                    "title": "Se Você - Zopelar Italo Funk Remix",
+                    "uri": "0PdQjxyd1XbSScakveeQJL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Vermelho Wonder",
+                    "title": "Se Você",
+                    "uri": "3XAKA31uYJgtFQ3E9nYYaV"
+                },
+                {
+                    "artist": "Gloria Groove",
+                    "title": "VERMELHO",
+                    "uri": "4EVzu5mYyigjyLrryKbZs7"
+                },
+                {
+                    "artist": "CryJaxx",
+                    "title": "VERMELHO",
+                    "uri": "7l5Cvp5kXUfsepWNOlhwYk"
+                }
+            ]
+        },
+        "26": {
+            "s0": [
+                {
+                    "artist": "Thiago Nassif",
+                    "title": "Santa",
+                    "uri": "0jz4gcf7cEHmBcmm3pUwEV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Thiago Nassif",
+                    "title": "Santa",
+                    "uri": "0jz4gcf7cEHmBcmm3pUwEV"
+                },
+                {
+                    "artist": "Ariana Grande",
+                    "title": "Santa Tell Me",
+                    "uri": "0lizgQ7Qw35od7CYaoMBZb"
+                },
+                {
+                    "artist": "Kelly Clarkson",
+                    "title": "Santa, Can’t You Hear Me",
+                    "uri": "7B9SFykXtlvM2YCjKwyULL"
+                }
+            ]
+        },
+        "27": {
+            "s0": [
+                {
+                    "artist": "Ana Frango Elétrico",
+                    "title": "Dr. Sabe Tudo",
+                    "uri": "6rxDrvrYNgjwH0YXmGame8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ana Frango Elétrico",
+                    "title": "Dr. Sabe Tudo",
+                    "uri": "6rxDrvrYNgjwH0YXmGame8"
+                },
+                {
+                    "artist": "Ana Frango Elétrico",
+                    "title": "Electric Fish",
+                    "uri": "2i90BhQ6Mfvrd8yHRTHyZx"
+                },
+                {
+                    "artist": "Ana Frango Elétrico",
+                    "title": "Nuvem Vermelha",
+                    "uri": "6ljB8vR4HXY9Og5uGaI4KB"
+                }
+            ]
+        },
+        "28": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "FBC",
+                    "title": "Delírios",
+                    "uri": "546KHf7B5TeIifYB1gVZ9E"
+                },
+                {
+                    "artist": "FBC",
+                    "title": "Delírios",
+                    "uri": "3xcz3yjjdUCWzUdlXvPHry"
+                },
+                {
+                    "artist": "FBC",
+                    "title": "Delírios (Instrumental)",
+                    "uri": "0n610mdXuUMavEoiMUHBym"
+                }
+            ]
+        }
+    },
     "soup-to-nuts-john-gomez-22nd-may-2023": {
         "00": {
             "s0": "",
