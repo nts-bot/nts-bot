@@ -10228,6 +10228,370 @@
             ]
         }
     },
+    "carla-dal-forno-21st-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Max Richter",
+                    "title": "November",
+                    "uri": "2NGhKPZdZk2pPZinWphTzh"
+                },
+                {
+                    "artist": "Bauke Top",
+                    "title": "November Jam",
+                    "uri": "7FQwK58IK5vKwEyLuZcsfo"
+                },
+                {
+                    "artist": "Lexo",
+                    "title": "November",
+                    "uri": "7sZueJdnka4YPeqr4z9z1N"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nikos Ignatiadis",
+                    "title": "The Beginning",
+                    "uri": "7elYgxOsAuaAt8xoD3f8qB"
+                },
+                {
+                    "artist": "Ignaz Tastierewitz",
+                    "title": "Uno Sguardo All'infanzia",
+                    "uri": "5WSGh3F7nButuKEbIS1Ypp"
+                },
+                {
+                    "artist": "Ignaz Tastierewitz",
+                    "title": "Il Trionfo della Verità",
+                    "uri": "1I57ZfpzdxCrvonMHBqEKu"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Felix Kramer",
+                    "title": "Er sagt, dass er sich bemüht",
+                    "uri": "7EaKzohF0S7JkkJYBiNrCS"
+                },
+                {
+                    "artist": "tokni",
+                    "title": "Rain for the Flowers - Radio Edit",
+                    "uri": "7cWXTCjN30KD19L6UxsdfM"
+                },
+                {
+                    "artist": "The Rolling Stones",
+                    "title": "Rain Fall Down - Remastered 2009",
+                    "uri": "6Urmnpk6flfh0lp9HH3bOS"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Garbage",
+                    "title": "#1 Crush (Nellee Hooper Mix) (2015 - Remaster)",
+                    "uri": "6H0OAE0okNGkA29feqkyse"
+                },
+                {
+                    "artist": "Dolly Parton",
+                    "title": "Wildflowers - 2015 Remaster",
+                    "uri": "27876bQcDNkZhWqvF0zfFN"
+                },
+                {
+                    "artist": "Lana Del Rey",
+                    "title": "Wildflower Wildfire",
+                    "uri": "7fvTXmlzhOUE7WUD6aJC4N"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Electric Prunes",
+                    "title": "I Had Too Much to Dream (Last Night)",
+                    "uri": "5YgCmkSdGukXqK3fJlX4pQ"
+                },
+                {
+                    "artist": "Tream",
+                    "title": "ELECTRIC",
+                    "uri": "1W4pra957k902ztz37ULoN"
+                },
+                {
+                    "artist": "Snorri Hallgrímsson",
+                    "title": "Before the Storm",
+                    "uri": "0nIO7JDajf45my855jiEl0"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Björn Olsson",
+                    "title": "Låt i H-moll",
+                    "uri": "4WkDLvA0eDbLuDOkvNZJkG"
+                },
+                {
+                    "artist": "Johannes Bornlöf",
+                    "title": "Hunger, Thirst",
+                    "uri": "2CH3Ub29VJrqNgg0v2fx0D"
+                },
+                {
+                    "artist": "Johannes Bornlöf",
+                    "title": "Our Deepest Secrets",
+                    "uri": "1mSyHkLzJR86CzxiFYx2QV"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "The Motifs",
+                    "title": "Take Mine",
+                    "uri": "0T1E0zOQVOUasWZmwsO6wY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "damaa.beats",
+                    "title": "The Motif",
+                    "uri": "1vYBjAIqnKZPItIAu3mwof"
+                },
+                {
+                    "artist": "Solar Sleeper",
+                    "title": "Motifs in F# Major - Reimagined",
+                    "uri": "2sOhSOG02uRICOf1JdiYaZ"
+                },
+                {
+                    "artist": "BTWRKS",
+                    "title": "the motive",
+                    "uri": "72wZWobTroPw4NNTADnZ4e"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Butch",
+                    "title": "Same Like Dope But Different",
+                    "uri": "0GIPq4zQJPTlycINrUR0ST"
+                },
+                {
+                    "artist": "Thomas Bull",
+                    "title": "Oregon",
+                    "uri": "7uSFKTmXy344b4kk7Zywq8"
+                },
+                {
+                    "artist": "VARC",
+                    "title": "Same Life",
+                    "uri": "0FR0Gjllz6yQupxCz03YvD"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Tara Clerkin Trio",
+                    "title": "Marble Walls",
+                    "uri": "4FvKI1Z5JSzoxq5I8JLbhZ"
+                },
+                {
+                    "artist": "Tara Clerkin Trio",
+                    "title": "Marble Walls",
+                    "uri": "4D1b3ux1HYqhGNJ34Wo1td"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tara Clerkin Trio",
+                    "title": "Marble Walls",
+                    "uri": "4FvKI1Z5JSzoxq5I8JLbhZ"
+                },
+                {
+                    "artist": "Tara Clerkin Trio",
+                    "title": "Marble Walls",
+                    "uri": "4D1b3ux1HYqhGNJ34Wo1td"
+                },
+                {
+                    "artist": "slowbomb",
+                    "title": "Marbles",
+                    "uri": "5z4Bc0TfioqQWqimJSbVcc"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Engürdetz",
+                    "title": "Mest Monligt",
+                    "uri": "5ofubXPAewhtMpFTRsatA8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Engerling",
+                    "title": "Moll-Blues",
+                    "uri": "43fQPvGRZn2ATihMclG3Db"
+                },
+                {
+                    "artist": "Engerling",
+                    "title": "Moll-Blues",
+                    "uri": "7tPC7djkbOwvvv4tz5nkyE"
+                },
+                {
+                    "artist": "Engerling",
+                    "title": "Engerling's Blues",
+                    "uri": "4CM5iwhGuJuCAc57Mk6JLd"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Zinc",
+                    "title": "Street Level",
+                    "uri": "4e38teYvxrbXJmE3NsRPOW"
+                },
+                {
+                    "artist": "Krill",
+                    "title": "Street Level",
+                    "uri": "7tzxNqIixUhi5pbaOiICeX"
+                },
+                {
+                    "artist": "Streetlife",
+                    "title": "F.A.N.Z.",
+                    "uri": "0PMPhtJyzk8cMEOU5vMrKg"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "The Air Music International",
+                    "title": "Igirisu No Koucya (The Red Tea From England)",
+                    "uri": "6aVcqPooFmRDuWtioKFbFM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Air Music International",
+                    "title": "Igirisu No Koucya (The Red Tea From England)",
+                    "uri": "6aVcqPooFmRDuWtioKFbFM"
+                },
+                {
+                    "artist": "Savior Monroe",
+                    "title": "Red Tears",
+                    "uri": "1ZShoifzpJVdHIdcvsB1r1"
+                },
+                {
+                    "artist": "Criticalx47",
+                    "title": "Red Tears",
+                    "uri": "2bD4bjq4oX74k9fsybBFcb"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rose City Band",
+                    "title": "Rivers of Mind",
+                    "uri": "3kNsqLVEbkMa7KeXS1TYKL"
+                },
+                {
+                    "artist": "James Horner",
+                    "title": "Rose Creek Oppression",
+                    "uri": "03nuoXd7hdNchDmvNilw1X"
+                },
+                {
+                    "artist": "Rose City Band",
+                    "title": "Wildflowers",
+                    "uri": "4xPkceIDS9eGVFOiaJ7h6V"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Lower Plenty",
+                    "title": "Blue Shadows",
+                    "uri": "5UF4hggS2DwcGE2Q9Ny24F"
+                },
+                {
+                    "artist": "Lower Plenty",
+                    "title": "Blue Shadows",
+                    "uri": "2pxYbkPJvmj3lBlH45qRuc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lower Plenty",
+                    "title": "Blue Shadows",
+                    "uri": "5UF4hggS2DwcGE2Q9Ny24F"
+                },
+                {
+                    "artist": "Lower Plenty",
+                    "title": "Blue Shadows",
+                    "uri": "2pxYbkPJvmj3lBlH45qRuc"
+                },
+                {
+                    "artist": "Lower Plenty",
+                    "title": "Land Lovers",
+                    "uri": "2eBwtjFXqAqe4bjwknnyxK"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Morning and the Sleepy Kids",
+                    "title": "For No Apparent Reason",
+                    "uri": "5QOv5BXgZhhl6nKCoQmnet"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Morning and the Sleepy Kids",
+                    "title": "For No Apparent Reason",
+                    "uri": "5QOv5BXgZhhl6nKCoQmnet"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Carla dal Forno",
+                    "title": "Hype Sleep",
+                    "uri": "23D3yxaSdnPqNyOt1YqPjm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Carla dal Forno",
+                    "title": "Hype Sleep",
+                    "uri": "23D3yxaSdnPqNyOt1YqPjm"
+                },
+                {
+                    "artist": "Carla dal Forno",
+                    "title": "Come Around",
+                    "uri": "568s354X1V94MtZJoYA3DK"
+                },
+                {
+                    "artist": "Carla's Dreams",
+                    "title": "ae",
+                    "uri": "2Oy2SGDK3K0rDOaiCRJWJA"
+                }
+            ]
+        }
+    },
     "carla-dal-forno-22nd-january-2019": {
         "00": {
             "s0": "",
