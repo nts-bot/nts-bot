@@ -4969,6 +4969,176 @@
             ]
         }
     },
+    "rough-version-friedrich-kunath-22nd-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Brandenburg Concerto No. 3 in G Major, BWV 1048: I. [Allegro]",
+                    "uri": "4tXktBBrKGTebkYjvzFA3i"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Brandenburg Concerto No. 3 in G Major, BWV 1048: II. [Adagio]",
+                    "uri": "1WElPRZWP8kDIQm2fY5dJu"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Brandenburg Concerto No. 1 in F Major, BWV 1046: II. Adagio",
+                    "uri": "2EG5N1o0PHuUJO6xht1grS"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Liam Gallagher",
+                    "title": "Everything's Electric",
+                    "uri": "63JU4kHsgytIKkSM4tedme"
+                },
+                {
+                    "artist": "Liam Gallagher",
+                    "title": "Everything's Electric",
+                    "uri": "0HzZB3Z6gIk3VOlS5WjT49"
+                },
+                {
+                    "artist": "Liam Gallagher",
+                    "title": "Everything's Electric",
+                    "uri": "0G0FWn1UhgUUj0FLxfAZ9b"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Liam Gallagher",
+                    "title": "Everything's Electric",
+                    "uri": "63JU4kHsgytIKkSM4tedme"
+                },
+                {
+                    "artist": "Liam Gallagher",
+                    "title": "Everything's Electric",
+                    "uri": "0HzZB3Z6gIk3VOlS5WjT49"
+                },
+                {
+                    "artist": "Liam Gallagher",
+                    "title": "Everything's Electric",
+                    "uri": "15PXHTX93iT8XNnSMloDlF"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Barry White",
+                    "title": "Let The Music Play - Single Version",
+                    "uri": "75pBjCi8cxfkp4xd68uo6O"
+                },
+                {
+                    "artist": "Barry White",
+                    "title": "You're The First, The Last, My Everything - Single Version",
+                    "uri": "3ZYO0HGRFFdAGeb8o7F9KC"
+                },
+                {
+                    "artist": "Barry White",
+                    "title": "Can't Get Enough Of Your Love, Babe",
+                    "uri": "3mWpUEBYnv9SIFWfixSJFx"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Sonya Spence",
+                    "title": "Let Love Flow On",
+                    "uri": "5fiudMisuNkKC1htZSCh2t"
+                },
+                {
+                    "artist": "Sonya Spence",
+                    "title": "Let Love Flow On",
+                    "uri": "3xgtNaim9h9aHjUbAOnbRI"
+                },
+                {
+                    "artist": "Sonya Spence",
+                    "title": "Let love flow on",
+                    "uri": "0CfUBuN18om38JOiLqQdF1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sonya Spence",
+                    "title": "Let Love Flow On",
+                    "uri": "5fiudMisuNkKC1htZSCh2t"
+                },
+                {
+                    "artist": "Sonya Spence",
+                    "title": "Let Love Flow On",
+                    "uri": "3xgtNaim9h9aHjUbAOnbRI"
+                },
+                {
+                    "artist": "Sonya",
+                    "title": "Didn’t hit",
+                    "uri": "6IHXyS4xwqMj4OYOy6WA4P"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lucio Battisti",
+                    "title": "Mi ritorni in mente",
+                    "uri": "23dNr2eFETtv7Ys2FUF1Y0"
+                },
+                {
+                    "artist": "Lucio Battisti",
+                    "title": "Dieci ragazze",
+                    "uri": "4xq1trF0ztWPjtwlYkqAEw"
+                },
+                {
+                    "artist": "Lucio Battisti",
+                    "title": "I giardini di marzo - Remastered",
+                    "uri": "5odtVIhEujejNnxSJCgpCa"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Purple Mountains",
+                    "title": "All My Happiness is Gone",
+                    "uri": "0oCpNIVoV1iJK51xmh59Yh"
+                },
+                {
+                    "artist": "Purple Mountains",
+                    "title": "All My Happiness is Long - Mark Nevers Remix",
+                    "uri": "3g0nPzdtzCb72lr7aUqa6w"
+                },
+                {
+                    "artist": "Purple Mountains",
+                    "title": "All My Happiness is Wrong - Noah Count Remix",
+                    "uri": "3wTGF9vyrS0wCALqk4g8EZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Purple Mountains",
+                    "title": "All My Happiness is Gone",
+                    "uri": "0oCpNIVoV1iJK51xmh59Yh"
+                },
+                {
+                    "artist": "Eazim",
+                    "title": "Purple Nights",
+                    "uri": "0lLVS4wXUnlnYFk69FwcA0"
+                },
+                {
+                    "artist": "Purple Mooth",
+                    "title": "Augenblick",
+                    "uri": "6aAZUxSg942XGZOgzFZCns"
+                }
+            ]
+        }
+    },
     "rough-version-gary-simmons-26th-june-2023": {
         "00": {
             "s0": [
@@ -5275,6 +5445,240 @@
                     "artist": "Kygo",
                     "title": "Hot Stuff",
                     "uri": "00ETaeHUQ6lops3oWU1Wrt"
+                }
+            ]
+        }
+    },
+    "rough-version-julianknxx-27th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "THABO",
+                    "title": "Hey Superstar",
+                    "uri": "2uyfmGg9Gvl4EsaGtEwY7w"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Oliver Thiede",
+                    "title": "Ekhaya (Home)",
+                    "uri": "23MxiE2iRkliGhrzFUutzX"
+                },
+                {
+                    "artist": "Thabo M Ndlovu",
+                    "title": "Uphakeme",
+                    "uri": "70xYqWnuApdz3jK5N85n7a"
+                },
+                {
+                    "artist": "Thabo Maselela",
+                    "title": "Jeso Mopholoshi",
+                    "uri": "3FqyxNpKcM6X0dYOCXdiOG"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "fullmoon",
+                    "uri": "5WAr0V4VNkQcgotjQeQSA3"
+                },
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "fullmoon - Motion Graphics Remix",
+                    "uri": "71yg1OycE2UNPFn4pDbkxx"
+                },
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "Discovering River",
+                    "uri": "2WuDHuqqedCB2jqZgGm5Om"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Hunee",
+                    "title": "The World",
+                    "uri": "3f9z6wisD1bK8FqrMzeGnB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Simone Sommerland",
+                    "title": "Meine Oma fährt im Hühnerstall Motorrad",
+                    "uri": "1EAWieOwtlylamwdAvZ4Ef"
+                },
+                {
+                    "artist": "Simone Sommerland",
+                    "title": "Meine Oma fährt im Hühnerstall Motorrad",
+                    "uri": "1A1W6jKv2ROV8dwMxMNZYs"
+                },
+                {
+                    "artist": "Kindergarten Melodien",
+                    "title": "Meine Oma fährt im Hühnerstall Motorrad",
+                    "uri": "6GKMHN4qRvLtQvQ5MdKGsJ"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "SAULT",
+                    "title": "Wildfires",
+                    "uri": "4Tzw9IdZbVyzmpWrvsGaNX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "SAULT",
+                    "title": "Wildfires",
+                    "uri": "4Tzw9IdZbVyzmpWrvsGaNX"
+                },
+                {
+                    "artist": "DLMT",
+                    "title": "Wildfire",
+                    "uri": "4mzrTgfQZK1lSWEXW79MtR"
+                },
+                {
+                    "artist": "HOYO-MiX",
+                    "title": "Wildfire",
+                    "uri": "2CUSdI74D2yqrvEXRQq2Xl"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Heatwave",
+                    "title": "Always and Forever",
+                    "uri": "3w0pyHgJJW9JN0cJxmi33Z"
+                },
+                {
+                    "artist": "Heatwave",
+                    "title": "Always and Forever - Single Version",
+                    "uri": "6wiL61UORY5exOzXFBxPlc"
+                },
+                {
+                    "artist": "Heatwave",
+                    "title": "Always and Forever - Single Version",
+                    "uri": "3jADNBQNaw7NwFUtasZFx0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Heatwave",
+                    "title": "Always and Forever",
+                    "uri": "3w0pyHgJJW9JN0cJxmi33Z"
+                },
+                {
+                    "artist": "Heatwave",
+                    "title": "Always and Forever - Single Version",
+                    "uri": "6wiL61UORY5exOzXFBxPlc"
+                },
+                {
+                    "artist": "Robin Schulz",
+                    "title": "Heatwave (feat. Akon)",
+                    "uri": "2KMJ5CoxY4ECG9TZyNWmpv"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Eric Gale",
+                    "title": "Sara Smile",
+                    "uri": "3dT3g7hpW22bINnlpZtGdI"
+                },
+                {
+                    "artist": "Eric Gale",
+                    "title": "Sara Smile",
+                    "uri": "3rzHTjAgFj2uJn7nwVJX0D"
+                },
+                {
+                    "artist": "Eric Gale",
+                    "title": "Sara Smile",
+                    "uri": "1oSa1vndO5xeZBR65h53sR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eric Gale",
+                    "title": "Sara Smile",
+                    "uri": "3dT3g7hpW22bINnlpZtGdI"
+                },
+                {
+                    "artist": "Eric Gales",
+                    "title": "Steep Climb",
+                    "uri": "211wEoUVThC6SoFSYLKUHa"
+                },
+                {
+                    "artist": "Eric Gales",
+                    "title": "Stand Up",
+                    "uri": "3VCttwuRuGlFuCY4bgZKDD"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Bob James",
+                    "title": "Angela (Theme From Taxi)",
+                    "uri": "4iKU4J0AjDeDXOCgpuol0C"
+                },
+                {
+                    "artist": "Bob James",
+                    "title": "Angela (Theme from Taxi)",
+                    "uri": "03D25mGCF2fiUbHEW6ldmD"
+                },
+                {
+                    "artist": "Bob James",
+                    "title": "Angela (Theme from Taxi)",
+                    "uri": "5VT5XgrKihtS6Rp5Ettm9t"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bob James",
+                    "title": "Angela (Theme From Taxi)",
+                    "uri": "4iKU4J0AjDeDXOCgpuol0C"
+                },
+                {
+                    "artist": "Bob James",
+                    "title": "Angela (Theme from Taxi)",
+                    "uri": "03D25mGCF2fiUbHEW6ldmD"
+                },
+                {
+                    "artist": "Bob James",
+                    "title": "Angela (Theme from Taxi)",
+                    "uri": "5VT5XgrKihtS6Rp5Ettm9t"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Mi-Sex",
+                    "title": "Computer Games - Disco Version - 2007 Remastered",
+                    "uri": "1zhvKDf9xGLv5GxWypPR4b"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mi-Sex",
+                    "title": "Computer Games",
+                    "uri": "7KYvrcdccpvwekdQlzra12"
+                },
+                {
+                    "artist": "Mi-Sex",
+                    "title": "Computer Games - 2007 Remastered",
+                    "uri": "3agFBPR9VuqTo9fmlgE6hx"
+                },
+                {
+                    "artist": "Mi-Sex",
+                    "title": "High Class Dame",
+                    "uri": "4l7eYOeU2uQtlaIen1oZsM"
                 }
             ]
         }
