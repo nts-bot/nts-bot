@@ -23532,6 +23532,620 @@
             ]
         }
     },
+    "not-waving-23rd-november-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Xexa",
+                    "title": "Libelula",
+                    "uri": "1Gxcx36twVeA90mD0i66Jj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Xexa",
+                    "title": "Libelula",
+                    "uri": "1Gxcx36twVeA90mD0i66Jj"
+                },
+                {
+                    "artist": "Future",
+                    "title": "XanaX Damage",
+                    "uri": "3tZ4zv4UuenjJGSNUMfBNG"
+                },
+                {
+                    "artist": "Isaac Boudillet",
+                    "title": "Libellule",
+                    "uri": "0d331ogYaPH7un6BnYDjLj"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "V/Z",
+                    "title": "Suono Assente",
+                    "uri": "56noDd1wMv599V5WDfuktn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "V/Z",
+                    "title": "Habadash",
+                    "uri": "6yaL3ufWIdKC1HGJb4TQae"
+                },
+                {
+                    "artist": "V/Z",
+                    "title": "Plants No Virtues",
+                    "uri": "3UeAgip9nL7473IX4VKHpY"
+                },
+                {
+                    "artist": "Natural Sample Makers",
+                    "title": "Addormentarsi",
+                    "uri": "5CJwgyuXlhfXiZzJI53BUw"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Marta De Pascalis",
+                    "title": "Cut Off Horizon",
+                    "uri": "1FTXBHqQSjyv8MWeDRjGbU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Marta De Pascalis",
+                    "title": "The Shapes We Buried",
+                    "uri": "1M4nZsqPlJ9Gi7ZAooVSFu"
+                },
+                {
+                    "artist": "Marta Del Grandi",
+                    "title": "Mata Hari",
+                    "uri": "7wdoS8Tczz8wjhVjVsttIs"
+                },
+                {
+                    "artist": "Marta De Pascalis",
+                    "title": "Glider",
+                    "uri": "2m5B4qawuZQTGCOH8ujy9e"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Salamanda",
+                    "title": "Homemade Jam",
+                    "uri": "3aTMOqucB6OMUUD8jVmVAh"
+                },
+                {
+                    "artist": "Salamanda",
+                    "title": "Homemade Jam",
+                    "uri": "6qkMvAQ1DvyIVo3PBwDxSl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Salamanda",
+                    "title": "Homemade Jam",
+                    "uri": "3aTMOqucB6OMUUD8jVmVAh"
+                },
+                {
+                    "artist": "Salamanda",
+                    "title": "Homemade Jam",
+                    "uri": "6qkMvAQ1DvyIVo3PBwDxSl"
+                },
+                {
+                    "artist": "James Alexander Dorman",
+                    "title": "Homemade Lemonade",
+                    "uri": "4NGyl3364SgWr7R2DAR4i6"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Assiko Golden Band De Grand Yoff",
+                    "title": "Kora Interlude",
+                    "uri": "0yoLfCbqfEdP2vThwqMB1q"
+                },
+                {
+                    "artist": "Assiko Golden Band De Grand Yoff",
+                    "title": "Kora Interlude II",
+                    "uri": "5xNJfyQmeyA2dhmLeEjORX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Assiko Golden Band De Grand Yoff",
+                    "title": "Baye Ndongo",
+                    "uri": "2USSXtZeqT2UljC6M2Tvok"
+                },
+                {
+                    "artist": "reimagined",
+                    "title": "The Bridge Between The Worlds (From \"The Legend of Korra\") - Piano Version",
+                    "uri": "1dcYrQ609g4THnAQPVqAGO"
+                },
+                {
+                    "artist": "YOASOBI",
+                    "title": "Interlude \"Worship\"",
+                    "uri": "3UyBvmAK2MjkCpuJtYzQ40"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Martyna Basta",
+                    "title": "Fragile",
+                    "uri": "5iZbYnthPPqqpqHrrdQStn"
+                },
+                {
+                    "artist": "Martyna Basta",
+                    "title": "Fragile",
+                    "uri": "6DQxEmCC0BKGxMWEY0pRKJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Martyna Basta",
+                    "title": "Fragile",
+                    "uri": "5iZbYnthPPqqpqHrrdQStn"
+                },
+                {
+                    "artist": "Martina Schwarzmann",
+                    "title": "Heimatscheiss",
+                    "uri": "65K0R81G9yhIOO4LuNXKEo"
+                },
+                {
+                    "artist": "Martina Bower",
+                    "title": "Esthetic",
+                    "uri": "5opY79ADHYjzc0F3jYUqFV"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Habitat Ensemble",
+                    "title": "Rounded Edges",
+                    "uri": "02wjXpsrjvzg2EM1X9OuYn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Habitat Ensemble",
+                    "title": "Rounded Edges",
+                    "uri": "02wjXpsrjvzg2EM1X9OuYn"
+                },
+                {
+                    "artist": "Austra",
+                    "title": "Habitat",
+                    "uri": "4DoIVmEuUPrVlcRYkfWI8l"
+                },
+                {
+                    "artist": "beatsbyapollon",
+                    "title": "Habitat",
+                    "uri": "4hoJkSLJYIlT7FURZGsFzw"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Beatrice Dillon",
+                    "title": "2020",
+                    "uri": "228bqqQrWUaI4qWXcbvOpV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Beatrice Egli",
+                    "title": "Verlieb dich nicht ohne mich",
+                    "uri": "63O1yB8LJgVn9NvX5YTfAE"
+                },
+                {
+                    "artist": "Beatrice Egli",
+                    "title": "Das wissen nur wir",
+                    "uri": "3xidREsT9qVMK9mfOWkUVz"
+                },
+                {
+                    "artist": "Beatrice Egli",
+                    "title": "Balance",
+                    "uri": "1hh2ggutFkkri8AtCgO9pk"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "H31R",
+                    "title": "Backwards",
+                    "uri": "1ABCoJzQXzYQVFDU0eSgKc"
+                },
+                {
+                    "artist": "H31R",
+                    "title": "Backwards",
+                    "uri": "3AalwwmizoPXoLJOoAqnJe"
+                },
+                {
+                    "artist": "H31R",
+                    "title": "Backwards",
+                    "uri": "73lSh6I6UUGMhOVEaslMdJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "H31R",
+                    "title": "Backwards",
+                    "uri": "1ABCoJzQXzYQVFDU0eSgKc"
+                },
+                {
+                    "artist": "H31R",
+                    "title": "Backwards",
+                    "uri": "3AalwwmizoPXoLJOoAqnJe"
+                },
+                {
+                    "artist": "Alexander Stewart",
+                    "title": "Backwards",
+                    "uri": "0DsIoA5io9H9ViOl2YNLcR"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Clara!",
+                    "title": "Lluvia de Sal",
+                    "uri": "73gFxpMukcPlPvwViTOOZt"
+                },
+                {
+                    "artist": "Philly H",
+                    "title": "Lluvia en Caracas",
+                    "uri": "2viWQzfJbnEq2gCLi8Ovgl"
+                },
+                {
+                    "artist": "Çantamarta",
+                    "title": "Lluvia",
+                    "uri": "0kq1HuBQzWPJfC2qXQfeTK"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Alien Starr",
+                    "title": "World Of Ecstasy",
+                    "uri": "4Nzi2pjPcGpbqZOeTio4tK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Beyoncé",
+                    "title": "ALIEN SUPERSTAR",
+                    "uri": "1Hohk6AufHZOrrhMXZppax"
+                },
+                {
+                    "artist": "Jerry Goldsmith",
+                    "title": "Main Title",
+                    "uri": "4Rhue1CTPr3n1P3Zs0jPwU"
+                },
+                {
+                    "artist": "katlix",
+                    "title": "alien (sternschanze)",
+                    "uri": "4V4W0IK8Kc31uISlGyaQfq"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Niecy Blues",
+                    "title": "The Nite B4",
+                    "uri": "5apHvayTwb1VjYvVHe1qvR"
+                },
+                {
+                    "artist": "Nicki Minaj",
+                    "title": "The Night Is Still Young",
+                    "uri": "75u9uswC5UMdtv4SQ3xSYf"
+                },
+                {
+                    "artist": "Joan Baez",
+                    "title": "The Night They Drove Old Dixie Down",
+                    "uri": "0uHYplBhwLYey7f9qAmnSM"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Lau Nau",
+                    "title": "Paratiisin kukkivat puut",
+                    "uri": "69Be24Xa1hnI437MjTKGJR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lau Nau",
+                    "title": "Paratiisin kukkivat puut",
+                    "uri": "69Be24Xa1hnI437MjTKGJR"
+                },
+                {
+                    "artist": "Rauli Badding Somerjoki",
+                    "title": "Paratiisi",
+                    "uri": "5QFDqIgiyNkCiUVLM40CkD"
+                },
+                {
+                    "artist": "Ville Valo",
+                    "title": "Paratiisi",
+                    "uri": "5X2ExoZ3uxROmYiW7TGob7"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "El Carbonerillo",
+                    "title": "I Don't Feel Any Pain",
+                    "uri": "54VbJZeyTh6pRECynXGyZ2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "La Herencia Ranchera",
+                    "title": "El Carbonero",
+                    "uri": "0saaEwa51NzizTHpZbEIct"
+                },
+                {
+                    "artist": "Los Cachorros de Juan Villarreal",
+                    "title": "El Carbonero",
+                    "uri": "365D1zhc2YbHx7JuAEx71q"
+                },
+                {
+                    "artist": "Eider Ortiz",
+                    "title": "El Carbonero",
+                    "uri": "2aopz6uCIb53xzAYB7OOMC"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Fabiana Palladino",
+                    "title": "I Care",
+                    "uri": "558xYpvwBcoM9JmJEuYXfT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fabiana Palladino",
+                    "title": "I Care",
+                    "uri": "558xYpvwBcoM9JmJEuYXfT"
+                },
+                {
+                    "artist": "BEMA",
+                    "title": "24 CARATI",
+                    "uri": "2Ev0pdE0eo3F2OHoVmW5q3"
+                },
+                {
+                    "artist": "Fabian Farell",
+                    "title": "Like Lee",
+                    "uri": "40KpbysTLyRKKq8pBD2gag"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Felixsa Jochen",
+                    "title": "Hypnosis - Single Edit",
+                    "uri": "6C97KHtdi5Ao41INzBK2Lm"
+                },
+                {
+                    "artist": "Felixsa Jochen",
+                    "title": "On Fire - Radio Edit",
+                    "uri": "4uk04UVF68IJTlwlGJhdW8"
+                },
+                {
+                    "artist": "Felixsa Jochen",
+                    "title": "On Fire - Extended Version",
+                    "uri": "3Ma9zyS9fLsL9fpJbLf2s2"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "ML Buch",
+                    "title": "Flames shards goo",
+                    "uri": "03vUSQpYEQryhvhI4VUsqb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "ML Buch",
+                    "title": "Flames shards goo",
+                    "uri": "03vUSQpYEQryhvhI4VUsqb"
+                },
+                {
+                    "artist": "MPL",
+                    "title": "Ma bouche",
+                    "uri": "3j6JVvGQt0Ic81ElyVz3O3"
+                },
+                {
+                    "artist": "Skinny Ernesto",
+                    "title": "Mcel Bitch",
+                    "uri": "3kfquq7bkgrYOPqBLc0DoX"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Workshop",
+                    "title": "Großer Terpentinsee",
+                    "uri": "52uQEgewPwt7RxmVxXv4t3"
+                },
+                {
+                    "artist": "Alabaster DePlume",
+                    "title": "Turpentine",
+                    "uri": "2RQaDlbeKepzfDqQYjguSL"
+                },
+                {
+                    "artist": "Der Grolltroll",
+                    "title": "In mir wohnt ein Gewitter",
+                    "uri": "7x2YH5Ob8aYXB3OGFA2GxC"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Numidia Lezoul",
+                    "title": "Hay aliya",
+                    "uri": "3uXfxzrlhW9KwIM8aF5Zq3"
+                },
+                {
+                    "artist": "Nydia Hamilton",
+                    "title": "I Think",
+                    "uri": "6CkrZE15MiZBalGifBQLG4"
+                },
+                {
+                    "artist": "Nydia Hamilton",
+                    "title": "Goin Pushes It",
+                    "uri": "4RheHIjcly43KHZdzklSZJ"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Tara Clerkin Trio",
+                    "title": "The Turning Ground",
+                    "uri": "78O1YBhuqh6HOQC6u9ad8w"
+                },
+                {
+                    "artist": "Tara Clerkin Trio",
+                    "title": "The Turning Ground",
+                    "uri": "6F7j171ZkccR3gA57cLqRR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tara Clerkin Trio",
+                    "title": "The Turning Ground",
+                    "uri": "6F7j171ZkccR3gA57cLqRR"
+                },
+                {
+                    "artist": "Tara Clerkin Trio",
+                    "title": "The Turning Ground",
+                    "uri": "78O1YBhuqh6HOQC6u9ad8w"
+                },
+                {
+                    "artist": "Tara Clerkin Trio",
+                    "title": "In Spring",
+                    "uri": "4h7dxvwPyTPWZKETdjfo5A"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nursery Rhymes ABC",
+                    "title": "London Bridge is Falling Down",
+                    "uri": "6k6iuNNsl5aC219EMKEkbB"
+                },
+                {
+                    "artist": "Yung Xan",
+                    "title": "Falling Down",
+                    "uri": "5H7PelaxvBCMnH0x33YPtv"
+                },
+                {
+                    "artist": "théos",
+                    "title": "falling down",
+                    "uri": "57eYzzXOjMO18x3otqd9MX"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Jack & Kathy Henderson",
+                    "title": "My Last Year",
+                    "uri": "2c5hI8QpIPnUPUaa34cMQC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tom Day",
+                    "title": "My Last Year",
+                    "uri": "0mJlbk0s18XGePWcuu5ku4"
+                },
+                {
+                    "artist": "Kathy Hernandez",
+                    "title": "There Is Power (feat. Eli Hernandez)",
+                    "uri": "2EzTcLptbZlaIWlRS2wFN7"
+                },
+                {
+                    "artist": "Kathy Hernandez",
+                    "title": "With All of My Heart (feat. Eli Hernandez)",
+                    "uri": "5oJGjfABQYDe8ZHRjHNAgX"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Franco Battiato",
+                    "title": "Fornicazione - 2008 Remaster",
+                    "uri": "2CifD7McedLXKSvrdJFrbb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Franco Battiato",
+                    "title": "Centro Di Gravità Permanente - Remastered 2021",
+                    "uri": "6OzeWNA1SQgZBw5caqAIKN"
+                },
+                {
+                    "artist": "Franco Battiato",
+                    "title": "E Ti Vengo A Cercare - Remastered 2008",
+                    "uri": "12SccVj2Jqibxc1zRuUzTC"
+                },
+                {
+                    "artist": "Franco Battiato",
+                    "title": "La Cura",
+                    "uri": "3sc9YIcDSPCXsQ0zzX3JLW"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "USHER",
+                    "title": "More - RedOne Jimmy Joker Remix",
+                    "uri": "0aBKFfdyOD1Ttvgv0cfjjJ"
+                },
+                {
+                    "artist": "Belle Sisoski",
+                    "title": "MORE",
+                    "uri": "6o6gUMyAECvGUHX1n37DZG"
+                },
+                {
+                    "artist": "MORE EMOCIY",
+                    "title": "Моя девочка (prod. by Daipleh)",
+                    "uri": "52YmFl7BBMwHqW1iekgU6w"
+                }
+            ]
+        }
+    },
     "not-waving-24th-november-2022": {
         "00": {
             "s0": [

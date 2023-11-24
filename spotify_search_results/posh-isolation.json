@@ -12676,6 +12676,550 @@
             ]
         }
     },
+    "posh-isolation-23rd-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bonnie Tyler",
+                    "title": "Total Eclipse of the Heart",
+                    "uri": "7wuJGgpTNzbUyn26IOY6rj"
+                },
+                {
+                    "artist": "Bonnie Tyler",
+                    "title": "Total Eclipse of the Heart",
+                    "uri": "1VrfLrBviw9A6JzRoo3t2C"
+                },
+                {
+                    "artist": "Glee Cast",
+                    "title": "Total Eclipse Of The Heart (Glee Cast Version) (feat. Jonathan Groff)",
+                    "uri": "4KLp7sKY2YCzaSQelZZjZr"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Otro",
+                    "title": "Dance of the Young (Augurs of Spring)",
+                    "uri": "2h3zpcP3xK9wguWVIOlTzr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pyotr Ilyich Tchaikovsky",
+                    "title": "Dance of the Sugar Plum Fairy",
+                    "uri": "4QTFU7BukoyDtyyemGPNCX"
+                },
+                {
+                    "artist": "Sergei Prokofiev",
+                    "title": "No. 13 Dance of the Knights",
+                    "uri": "5qPUFjpROrTCrL1wWuHHMF"
+                },
+                {
+                    "artist": "Pentatonix",
+                    "title": "Dance of the Sugar Plum Fairy",
+                    "uri": "0u0TlASkQWH2bGIZRu0HLh"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Yangze",
+                    "title": "No Body Host (ghost)",
+                    "uri": "0BuOA5Rei3cQ5QnzXQN3jB"
+                },
+                {
+                    "artist": "Yangze",
+                    "title": "No Body Host (ghost)",
+                    "uri": "2wes4mzfT3xipDaB60uYH8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Yangze",
+                    "title": "No Body Host (ghost)",
+                    "uri": "0BuOA5Rei3cQ5QnzXQN3jB"
+                },
+                {
+                    "artist": "Kranium",
+                    "title": "Nobody Has to Know",
+                    "uri": "5nLmO6pp71pmiVZwyTPfq9"
+                },
+                {
+                    "artist": "Chris Brown",
+                    "title": "Nobody Has To Know (feat. Davido)",
+                    "uri": "4U94pbUhXrzFNVcyrFeMso"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Seongbuk Skyway",
+                    "title": "Stay on Your Path",
+                    "uri": "7qvEkpFESzKOB6H3babcpo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Seongbuk Skyway",
+                    "title": "Stay on Your Path",
+                    "uri": "7qvEkpFESzKOB6H3babcpo"
+                },
+                {
+                    "artist": "Kim Feel",
+                    "title": "Seongbukdong",
+                    "uri": "3VOSBzQ2FgFIEwW6dNnWtb"
+                },
+                {
+                    "artist": "Seo In Guk",
+                    "title": "Donʼt Be Jealous",
+                    "uri": "23ZmdTxdwyKu6t4VBkzZSc"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Four Tet",
+                    "title": "Flon",
+                    "uri": "6NKFV3uc4D5OXDVak3Qlnw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bicep",
+                    "title": "Opal - Four Tet Remix",
+                    "uri": "3VtTuQ6lypMoOBcm6VMzdh"
+                },
+                {
+                    "artist": "Tuke Ross",
+                    "title": "Way Too Dark!",
+                    "uri": "063Mv5zvweCILnZ5eGgyvk"
+                },
+                {
+                    "artist": "Fred again..",
+                    "title": "Baby again..",
+                    "uri": "4zlbKky2yA657Sk5rekZoR"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Boards of Canada",
+                    "title": "Happy Cycling",
+                    "uri": "55IsBrXUfZUmY7KSm2BjUp"
+                },
+                {
+                    "artist": "Boards of Canada",
+                    "title": "Happy Cycling",
+                    "uri": "0144UTCtBGR4Pb1zFhQA9w"
+                },
+                {
+                    "artist": "Boards of Canada",
+                    "title": "Happy Cycling",
+                    "uri": "0rwm7o1CMWbIJ4w9iOhRvm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Boards of Canada",
+                    "title": "Happy Cycling",
+                    "uri": "55IsBrXUfZUmY7KSm2BjUp"
+                },
+                {
+                    "artist": "Boards of Canada",
+                    "title": "Happy Cycling",
+                    "uri": "0rwm7o1CMWbIJ4w9iOhRvm"
+                },
+                {
+                    "artist": "Boards of Canada",
+                    "title": "Olson",
+                    "uri": "5DZ4M3yMat79ok25rZHuA9"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Gorillaz",
+                    "title": "19-2000",
+                    "uri": "71koAFCnGnugRdGIDfS7f4"
+                },
+                {
+                    "artist": "Gorillaz",
+                    "title": "19-2000 - Soulchild Remix",
+                    "uri": "1PpfeNl5uYRBhfFcig2Uz6"
+                },
+                {
+                    "artist": "Gorillaz",
+                    "title": "19-2000 - Soulchild Remix",
+                    "uri": "2EC2GG0fHeWJ6uhAAHdMGl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gorillaz",
+                    "title": "19-2000",
+                    "uri": "71koAFCnGnugRdGIDfS7f4"
+                },
+                {
+                    "artist": "Gorillaz",
+                    "title": "19-2000 - Soulchild Remix",
+                    "uri": "1PpfeNl5uYRBhfFcig2Uz6"
+                },
+                {
+                    "artist": "Gorillaz",
+                    "title": "Feel Good Inc.",
+                    "uri": "0d28khcov6AiegSCpG5TuT"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Micachu & The Shapes",
+                    "title": "Sweetheart",
+                    "uri": "1jsqYxfT3tzoV7aTBnNjud"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Micachu & The Shapes",
+                    "title": "Sweetheart",
+                    "uri": "1jsqYxfT3tzoV7aTBnNjud"
+                },
+                {
+                    "artist": "GS",
+                    "title": "GS (Sweetheart)",
+                    "uri": "2lf7sZuYiSYIx1KvnLEwyj"
+                },
+                {
+                    "artist": "Keaton Henson",
+                    "title": "Sweetheart, What Have You Done to Us",
+                    "uri": "3UwbUAs7mOGeuP25FcK41E"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "snuggle",
+                    "title": "The Orchard",
+                    "uri": "3ep81Quc04UUKQqdGw9g9m"
+                },
+                {
+                    "artist": "snuggle",
+                    "title": "The Orchard",
+                    "uri": "1WfkPreBfHMcrobyXcYx1s"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Milly Fitzpatrick",
+                    "title": "Snuggle Time",
+                    "uri": "0kHZ9XUe9ewCb7GUZjArlP"
+                },
+                {
+                    "artist": "Snuggly Sasha",
+                    "title": "Gentle Nocturnal Melodies",
+                    "uri": "0pqUdVLuzYaTwajI1rFSB2"
+                },
+                {
+                    "artist": "Snuggly Sasha",
+                    "title": "Melodic Dreams on Keys",
+                    "uri": "3ESmX6SddMDcR7VzulTiET"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Bobby Krlic",
+                    "title": "Sail Away",
+                    "uri": "1V5ajHKjUcHDQh5g3IMZVj"
+                },
+                {
+                    "artist": "Bobby Krlic",
+                    "title": "Sail Away",
+                    "uri": "2ury3Tcja2DUiCGdGiuJKd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bobby Krlic",
+                    "title": "Fire Temple",
+                    "uri": "0XKIul1LnKB7cgRXP7KNxD"
+                },
+                {
+                    "artist": "Various Artists",
+                    "title": "Sail Away",
+                    "uri": "0cibKZMIoAlzm88eRsssHy"
+                },
+                {
+                    "artist": "lovelytheband",
+                    "title": "sail away",
+                    "uri": "6G8xvLFNkXy3HM5EbQI6c8"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Loraine James",
+                    "title": "Glitch The System (Glitch Bitch 2)",
+                    "uri": "0EyhPyMyKD04bSjQAohGIm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Loraine James",
+                    "title": "Glitch The System (Glitch Bitch 2)",
+                    "uri": "0EyhPyMyKD04bSjQAohGIm"
+                },
+                {
+                    "artist": "Loraine James",
+                    "title": "Glitch Bitch",
+                    "uri": "6XM8oa7Eybywa3ugCsOCsR"
+                },
+                {
+                    "artist": "Fabvl",
+                    "title": "Glitch",
+                    "uri": "3dugX2TZV21NC4hiFjAubJ"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Kaho Matsui",
+                    "title": "sssssmilinggggg",
+                    "uri": "3MYMK68oAyVq4ZuDEhaeUE"
+                },
+                {
+                    "artist": "Kaho Matsui",
+                    "title": "sssssmilinggggg",
+                    "uri": "6yTewVjFHvPBNyRliPdQOs"
+                },
+                {
+                    "artist": "Kaho Matsui",
+                    "title": "sssssmilinggggg",
+                    "uri": "6pHjank0yRYYk7Ei3SgAQq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kaho Matsui",
+                    "title": "sssssmilinggggg",
+                    "uri": "3MYMK68oAyVq4ZuDEhaeUE"
+                },
+                {
+                    "artist": "Kaho Matsui",
+                    "title": "sssssmilinggggg",
+                    "uri": "6yTewVjFHvPBNyRliPdQOs"
+                },
+                {
+                    "artist": "Kaho Matsui",
+                    "title": "sssssmilinggggg",
+                    "uri": "6pHjank0yRYYk7Ei3SgAQq"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "uku kasai",
+                    "title": "trline",
+                    "uri": "7hNJxNB9KkO0L2X8HxTdEg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "uku kasai",
+                    "title": "trline",
+                    "uri": "7hNJxNB9KkO0L2X8HxTdEg"
+                },
+                {
+                    "artist": "Ajit Bandra",
+                    "title": "Uku Uku Te",
+                    "uri": "3FjyN0Fr5Jnv3KJpenUjmF"
+                },
+                {
+                    "artist": "Birmal Hembram",
+                    "title": "Uku Katha",
+                    "uri": "4IMwsybzBHnFfXucZZ1s0n"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Salamanda",
+                    "title": "Coconut Warrior",
+                    "uri": "2GWbIg2vecL8UBXrA9Gelg"
+                },
+                {
+                    "artist": "Salamanda",
+                    "title": "Coconut Warrior",
+                    "uri": "6wsoSJ2ycPyxRtDetnKQRB"
+                },
+                {
+                    "artist": "Salamanda",
+                    "title": "Coconut Warrior - Tristan Arp Firefly Dub",
+                    "uri": "25DkMEmHFEgd6VVakK7NwE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Salamanda",
+                    "title": "Coconut Warrior",
+                    "uri": "2GWbIg2vecL8UBXrA9Gelg"
+                },
+                {
+                    "artist": "James Newton Howard",
+                    "title": "Salamander Eyes",
+                    "uri": "4w0sBSIgy945h7TZE0FUbc"
+                },
+                {
+                    "artist": "Buddy Ogün",
+                    "title": "Salamander Alexander",
+                    "uri": "0DNojFAXno1kA5xcX5hUTT"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Frou Frou",
+                    "title": "A New Kind Of Love - Demo",
+                    "uri": "3fuyYaLhZ2RoP9eWpvfP1H"
+                },
+                {
+                    "artist": "Frou Frou",
+                    "title": "A New Kind Of Love - Demo",
+                    "uri": "2p1qmpFg41n0XMBNGuMzoE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Frou Frou",
+                    "title": "A New Kind Of Love - Demo",
+                    "uri": "3fuyYaLhZ2RoP9eWpvfP1H"
+                },
+                {
+                    "artist": "Frou Frou",
+                    "title": "A New Kind Of Love - Demo",
+                    "uri": "2p1qmpFg41n0XMBNGuMzoE"
+                },
+                {
+                    "artist": "Frou Frou",
+                    "title": "a new kind of love - Enkei Remix",
+                    "uri": "1ORJS3w16Z3bwNMzZpfULO"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Mark Fell",
+                    "title": "Infoldings 1",
+                    "uri": "3Kom8myLy9PGwsPEVCMgFj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mark Farina",
+                    "title": "Dream Machine - Downtempo Mix",
+                    "uri": "2VAMRYzi5TM5GChU6pTtIE"
+                },
+                {
+                    "artist": "Mark Farina",
+                    "title": "Dream Machine - Kaskade Mix",
+                    "uri": "7wlDCYTcXbNYF9RsKN5lpp"
+                },
+                {
+                    "artist": "Marc Fearzell",
+                    "title": "Soon",
+                    "uri": "4R6RH7yq8cc5DVt2EwxhYM"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chuquimamani Condori",
+                    "title": "Stars Over Riparian Corridor",
+                    "uri": "3YFSf0BmfseIepmPVu0hyg"
+                },
+                {
+                    "artist": "Leo Rojas",
+                    "title": "El Condor Pasa",
+                    "uri": "14JOxJDf2bKZqZfNgovhv8"
+                },
+                {
+                    "artist": "Reinaldo QA",
+                    "title": "CHIMENEA",
+                    "uri": "3mSUNewWrRnahkTPLUqfBO"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Autechre",
+                    "title": "pt2ph8",
+                    "uri": "5bGWqRBnxTj3gxsjpOiuxc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Autechre",
+                    "title": "Bike",
+                    "uri": "3Om7xxNAn64xJOuU9WVKtp"
+                },
+                {
+                    "artist": "Autechre",
+                    "title": "Yulquen",
+                    "uri": "7oZwhOIxuFxRzqKmOKDgiO"
+                },
+                {
+                    "artist": "DJ RICK 013",
+                    "title": "THE AUTOTREM 1.0 (EDIT by DJ ZK3)",
+                    "uri": "7GkRFuPiAOxmRxiqUf52LJ"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "CTM",
+                    "title": "Summer",
+                    "uri": "0hN9VfPuQvWvV4FofFVOlc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "CTM",
+                    "title": "Summer",
+                    "uri": "0hN9VfPuQvWvV4FofFVOlc"
+                },
+                {
+                    "artist": "Summer Walker",
+                    "title": "Come Thru (with Usher)",
+                    "uri": "3TTMUI5dFcbeNSDTTDY9M8"
+                },
+                {
+                    "artist": "CMT Miraculous",
+                    "title": "Maybachin",
+                    "uri": "7bpXDIn5iAT5umzJmEZozl"
+                }
+            ]
+        }
+    },
     "posh-isolation-24th-january-2019": {
         "00": {
             "s0": "",

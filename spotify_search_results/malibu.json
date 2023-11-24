@@ -6603,6 +6603,679 @@
             "s1": ""
         }
     },
+    "malibu-28th-september-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bon Iver",
+                    "title": "Flume",
+                    "uri": "6a1wMgJ42Okk5LjulbrtcZ"
+                },
+                {
+                    "artist": "Bon Iver",
+                    "title": "Holocene",
+                    "uri": "6DESft0qm6RhoYf5wzeoGH"
+                },
+                {
+                    "artist": "Taylor Swift",
+                    "title": "exile (feat. Bon Iver)",
+                    "uri": "5S4aYQAJOwJMAamANWlICO"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Burial",
+                    "title": "Rival Dealer",
+                    "uri": "7bNBdRO6T8JwAp1tMwCaqf"
+                },
+                {
+                    "artist": "Burial",
+                    "title": "Rival Dealer",
+                    "uri": "1cSVwr7d1WeHtoM9vtz5wf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Burial",
+                    "title": "Rival Dealer",
+                    "uri": "7bNBdRO6T8JwAp1tMwCaqf"
+                },
+                {
+                    "artist": "Burial",
+                    "title": "Rival Dealer",
+                    "uri": "1cSVwr7d1WeHtoM9vtz5wf"
+                },
+                {
+                    "artist": "Burial",
+                    "title": "Archangel",
+                    "uri": "6evpAJCR5GeeHDGgv3aXb3"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Cluster",
+                    "title": "Schöne Hände",
+                    "uri": "1WbwlYiiMZGQlrFGirRnHv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cluster",
+                    "title": "Schöne Hände",
+                    "uri": "1WbwlYiiMZGQlrFGirRnHv"
+                },
+                {
+                    "artist": "USH",
+                    "title": "Cluster Bomb",
+                    "uri": "2V5YHjI4Gp31F2yd625k6z"
+                },
+                {
+                    "artist": "Cluster",
+                    "title": "Traveler",
+                    "uri": "7sYFnDDJrJLBarGGTyvGfQ"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Gia Margaret",
+                    "title": "for Zoya in China",
+                    "uri": "6V3vA330cXLIbJ1djBe3Wp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gia Margaret",
+                    "title": "for Zoya in China",
+                    "uri": "6V3vA330cXLIbJ1djBe3Wp"
+                },
+                {
+                    "artist": "Gia Margaret",
+                    "title": "body",
+                    "uri": "4Di1uB71Stxs3U2dSuD7A4"
+                },
+                {
+                    "artist": "Gia Margaret",
+                    "title": "lakes",
+                    "uri": "7IAJGCMkGDw9qM8UymtQoY"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "The Postal Service",
+                    "title": "Such Great Heights",
+                    "uri": "75z2YLg5Lkqf6qL9XOY8tV"
+                },
+                {
+                    "artist": "The Postal Service",
+                    "title": "Such Great Heights",
+                    "uri": "7xpypyK1hDruvMMpoyLU0y"
+                },
+                {
+                    "artist": "The Postal Service",
+                    "title": "Such Great Heights - Remastered",
+                    "uri": "4G21jWo0Cm6lOIUNnZ2mUI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Postal Service",
+                    "title": "Such Great Heights",
+                    "uri": "75z2YLg5Lkqf6qL9XOY8tV"
+                },
+                {
+                    "artist": "The Postal Service",
+                    "title": "Such Great Heights",
+                    "uri": "7xpypyK1hDruvMMpoyLU0y"
+                },
+                {
+                    "artist": "The Postal Service",
+                    "title": "Such Great Heights - Remastered",
+                    "uri": "4G21jWo0Cm6lOIUNnZ2mUI"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Golden Earring",
+                    "title": "I Can't Sleep Without You - live",
+                    "uri": "5LHoutIIQm7XEGIR7VTCte"
+                },
+                {
+                    "artist": "just Fede",
+                    "title": "Can't Sleep",
+                    "uri": "3MY1YcejYd82egdo5vGrp2"
+                },
+                {
+                    "artist": "Faith",
+                    "title": "I Can't Sleep",
+                    "uri": "0r8XyDfYPdi1Zk4RRM0YUP"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Mirco de Govia",
+                    "title": "Asarja (Mirco de Govia Mix)",
+                    "uri": "7FUQIztuI58GwOJ6Q4b0Zu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mirco de Govia",
+                    "title": "Asarja (Mirco de Govia Mix)",
+                    "uri": "7FUQIztuI58GwOJ6Q4b0Zu"
+                },
+                {
+                    "artist": "Mirco de Govia",
+                    "title": "Asarja (Album Version)",
+                    "uri": "0M4qhbAzSPdMuQDmmR8I3w"
+                },
+                {
+                    "artist": "Ronski Speed",
+                    "title": "THE ABYSS",
+                    "uri": "4HfhSrkRPj1OW4hKTbWRo1"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Glenn Morrison",
+                    "title": "Contact",
+                    "uri": "0mtIQKs3F9vlofkBKP6bgx"
+                },
+                {
+                    "artist": "Glenn Morrison",
+                    "title": "Contact",
+                    "uri": "6uLHgFrDEMjfVgLjDByJq7"
+                },
+                {
+                    "artist": "Glenn Morrison",
+                    "title": "Contact",
+                    "uri": "4bi7hP7a5lfgPZqp0068KU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Glenn Morrison",
+                    "title": "Contact",
+                    "uri": "4bi7hP7a5lfgPZqp0068KU"
+                },
+                {
+                    "artist": "Glenn Morrison",
+                    "title": "Contact",
+                    "uri": "0mtIQKs3F9vlofkBKP6bgx"
+                },
+                {
+                    "artist": "Glenn Miller",
+                    "title": "Moonlight Serenade",
+                    "uri": "5quBme70LuheSh4N7NnZ7Q"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gran Rah",
+                    "title": "Balas de Agua",
+                    "uri": "5bzMFl6CR64UsDhbonlBdl"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Ed Sheeran",
+                    "title": "Bad Habits",
+                    "uri": "3rmo8F54jFF8OgYsqTxm5d"
+                },
+                {
+                    "artist": "Ed Sheeran",
+                    "title": "Bad Habits",
+                    "uri": "6irTHUCcISkDKTEGxD8bhp"
+                },
+                {
+                    "artist": "Ed Sheeran",
+                    "title": "Bad Habits",
+                    "uri": "50qStdT19d3RroPHNczoTO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ed Sheeran",
+                    "title": "Bad Habits",
+                    "uri": "3rmo8F54jFF8OgYsqTxm5d"
+                },
+                {
+                    "artist": "Ed Sheeran",
+                    "title": "Bad Habits",
+                    "uri": "5uHKqvyfqctwygxtvyvetR"
+                },
+                {
+                    "artist": "Ed Sheeran",
+                    "title": "Bad Habits (feat. Bring Me The Horizon)",
+                    "uri": "7vrKEP66NdiQDPryPG6olO"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Evian Christ",
+                    "title": "Ultra - Yung Sherman Remix",
+                    "uri": "6J3IV2jqXDbVhjRXoDn8qW"
+                },
+                {
+                    "artist": "Yung Sherman",
+                    "title": "You",
+                    "uri": "73pB44PLTqC3ncJziPgBI7"
+                },
+                {
+                    "artist": "Yung Sherman",
+                    "title": "Invisible",
+                    "uri": "5QDUTylUYO7iffJOVIuhK2"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Flawed Mangoes",
+                    "title": "Killswitch Lullaby",
+                    "uri": "7g3g00RKlqSIe2G8KKCgsE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Flawed Mangoes",
+                    "title": "Killswitch Lullaby",
+                    "uri": "7g3g00RKlqSIe2G8KKCgsE"
+                },
+                {
+                    "artist": "Flawed Mangoes",
+                    "title": "The Beginning",
+                    "uri": "0BkWtEXXzkDMadmURIQhRp"
+                },
+                {
+                    "artist": "Killswitch Engage",
+                    "title": "Holy Diver",
+                    "uri": "3a9urnht8HvfFzPwd0ipx6"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Billie Eilish",
+                    "title": "when the party's over",
+                    "uri": "43zdsphuZLzwA9k4DJhU0I"
+                },
+                {
+                    "artist": "Billie Eilish",
+                    "title": "when the party's over",
+                    "uri": "5nuYb0qvMQ0o2GD2H5tjfJ"
+                },
+                {
+                    "artist": "Armani White",
+                    "title": "BILLIE EILISH.",
+                    "uri": "27ZZdyTSQWI7Cug2d2PkqV"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Avicii",
+                    "title": "Silhouettes - Original Mix",
+                    "uri": "1FMRxA2Ql5vSsnWFuaDbsu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Avicii",
+                    "title": "Silhouettes - Original Mix",
+                    "uri": "1FMRxA2Ql5vSsnWFuaDbsu"
+                },
+                {
+                    "artist": "Avicii",
+                    "title": "Silhouettes - Original Radio Edit",
+                    "uri": "06h3McKzmxS8Bx58USHiMq"
+                },
+                {
+                    "artist": "GRAHAM",
+                    "title": "Silhouettes",
+                    "uri": "21dAwmmQfsjGh8h7slPyrD"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Rival Consoles",
+                    "title": "The Fade",
+                    "uri": "1MYHj7MTg5FWtsji3hVoE0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rival Consoles",
+                    "title": "The Fade",
+                    "uri": "1MYHj7MTg5FWtsji3hVoE0"
+                },
+                {
+                    "artist": "Rival Consoles",
+                    "title": "Recovery",
+                    "uri": "0vp09QgBhShrQOL2w7P8k4"
+                },
+                {
+                    "artist": "Rival Consoles",
+                    "title": "Odyssey",
+                    "uri": "3pAlKMwng8S0zlKL71glZD"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "leadwave",
+                    "title": "memories",
+                    "uri": "4VkRQSpG16JxrXaVlNyWdX"
+                },
+                {
+                    "artist": "leadwave",
+                    "title": "memories (Slowed + Reverb)",
+                    "uri": "1JbPJvuGVjXDgbaSmwgkb4"
+                },
+                {
+                    "artist": "leadwave",
+                    "title": "memories (Sped Up)",
+                    "uri": "5xx69TgBCPOfSI5KKbNcoe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "leadwave",
+                    "title": "memories",
+                    "uri": "4VkRQSpG16JxrXaVlNyWdX"
+                },
+                {
+                    "artist": "leadwave",
+                    "title": "memories (Slowed + Reverb)",
+                    "uri": "1JbPJvuGVjXDgbaSmwgkb4"
+                },
+                {
+                    "artist": "leadwave",
+                    "title": "memories (Sped Up)",
+                    "uri": "5xx69TgBCPOfSI5KKbNcoe"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "dj something",
+                    "title": "Intro",
+                    "uri": "6V5Q5uN7XaoBiNRsWriJeu"
+                },
+                {
+                    "artist": "DJ Backwood",
+                    "title": "Intro",
+                    "uri": "3aipHv7Spq2GEh4MtzMnUB"
+                },
+                {
+                    "artist": "DJ Backwood",
+                    "title": "Intro",
+                    "uri": "15Jlpf3iNHZN8U8HoBXTxz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "LUCKY HANDRIAN",
+                    "title": "DJ SOMEBODY'S PLEASURE SLOW VERSION",
+                    "uri": "6omDszm94yQIPrwRalK9e0"
+                },
+                {
+                    "artist": "DJ Songz",
+                    "title": "DJ SONGZ (People RMX)",
+                    "uri": "3T7YN3bd447STljmjBjWjY"
+                },
+                {
+                    "artist": "LUCKY HANDRIAN",
+                    "title": "DJ Somebody's Pleasure X Mashup",
+                    "uri": "6c8J1YNHOlp8CkllP5QZJ5"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Bochum Welt",
+                    "title": "G1 - Ambient Mix",
+                    "uri": "6ydUn4FAYeifragIPVZvcO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Herbert Grönemeyer",
+                    "title": "Bochum",
+                    "uri": "5bvy6LcrzT7wE5tKUbxFM1"
+                },
+                {
+                    "artist": "Herbert Grönemeyer",
+                    "title": "Bochum - Live in Bochum / 2015",
+                    "uri": "6vUw32QhmdBp5vYBuVweda"
+                },
+                {
+                    "artist": "Herbert Grönemeyer",
+                    "title": "Bochum - Live / Remastered 2016",
+                    "uri": "520SN9eO848pOOSlvgFJn1"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Torus",
+                    "title": "Ordinary Twilight",
+                    "uri": "0BjlNKe7NJ5tr8oEDZxVrW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Torus",
+                    "title": "Ordinary Twilight",
+                    "uri": "0BjlNKe7NJ5tr8oEDZxVrW"
+                },
+                {
+                    "artist": "Torus",
+                    "title": "Ordinary People",
+                    "uri": "4cOtE9aY1gf4TYVbCquBtD"
+                },
+                {
+                    "artist": "Mark Petrie",
+                    "title": "Torsion",
+                    "uri": "4E62OnUley4mPpoR3FAFKc"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Vangelis",
+                    "title": "Chariots Of Fire",
+                    "uri": "6GxhckZeqoWNF9n9XS91HS"
+                },
+                {
+                    "artist": "Vangelis",
+                    "title": "Titles",
+                    "uri": "36qn2bFfZzUwM6eIv2XOc9"
+                },
+                {
+                    "artist": "Vangelis",
+                    "title": "Conquest of Paradise",
+                    "uri": "72spzrvGTuoMfXVP3wxZDQ"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mayaewk",
+                    "title": "Toys",
+                    "uri": "6iDnXIejokuNL4zmrjFwTn"
+                },
+                {
+                    "artist": "Fairground Fish",
+                    "title": "Toys",
+                    "uri": "0uA5haTZ3KkIWXReBo9PX1"
+                },
+                {
+                    "artist": "Nat King Cole",
+                    "title": "Toys For Tots - Remastered",
+                    "uri": "7oMtJhylxMvrOeOM4HQcHV"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Oklou",
+                    "title": "galore",
+                    "uri": "23rGA4QJhil5rm06g20kLq"
+                },
+                {
+                    "artist": "Bruno Coulais",
+                    "title": "La nuit",
+                    "uri": "34FGb7i5KdAQrQSHktfeoX"
+                },
+                {
+                    "artist": "nand",
+                    "title": "La Nuit",
+                    "uri": "47YxUvs6Xv9M2iNC6dvKMN"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Merely",
+                    "title": "Tangerine Skies - (Cotton Mouth Mix)",
+                    "uri": "3aEb2wgSmNNmfzrMlTnwks"
+                },
+                {
+                    "artist": "Merely",
+                    "title": "Tangerine Skies",
+                    "uri": "6sH52iPceW2oi4eCy6uzKB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Merely",
+                    "title": "Tangerine Skies - (Cotton Mouth Mix)",
+                    "uri": "3aEb2wgSmNNmfzrMlTnwks"
+                },
+                {
+                    "artist": "Declan J Donovan",
+                    "title": "Tangerine Skies",
+                    "uri": "0O2lDtLyY89WO7LQURFWw1"
+                },
+                {
+                    "artist": "Rvshvd",
+                    "title": "Cottonmouth (Rock Mix)",
+                    "uri": "0wCXdCprsEdga0yF9rBuFp"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Motorcycle",
+                    "title": "As The Rush Comes",
+                    "uri": "6uEmDZoJcc7Oqrute8BA2N"
+                },
+                {
+                    "artist": "Huncho Jack",
+                    "title": "Motorcycle Patches",
+                    "uri": "7g7raxdQpiLZT7aOlib4S1"
+                },
+                {
+                    "artist": "Zach Bryan",
+                    "title": "Motorcycle Drive By",
+                    "uri": "2HbpYFQbairMoU2YFyOP2x"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "Malibu",
+                    "title": "One Life",
+                    "uri": "4U9V0QzTJayPv31U1iJrU2"
+                },
+                {
+                    "artist": "Malibu",
+                    "title": "One Life - Evian Christ remix",
+                    "uri": "5qHgFsXTfiOCISGwDW7e6j"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Malibu",
+                    "title": "One Life",
+                    "uri": "4U9V0QzTJayPv31U1iJrU2"
+                },
+                {
+                    "artist": "Malibu",
+                    "title": "One Life - Evian Christ remix",
+                    "uri": "5qHgFsXTfiOCISGwDW7e6j"
+                },
+                {
+                    "artist": "Miley Cyrus",
+                    "title": "Malibu",
+                    "uri": "1UZOjK1BwmwWU14Erba9CZ"
+                }
+            ]
+        },
+        "25": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ektomorf",
+                    "title": "Fuck You All",
+                    "uri": "1jcsCZyAUV9675OGoJiNly"
+                },
+                {
+                    "artist": "The Kid LAROI",
+                    "title": "F*CK YOU, GOODBYE (feat. Machine Gun Kelly)",
+                    "uri": "0c34ovpXiMWWUbKX0IavIH"
+                },
+                {
+                    "artist": "HTN",
+                    "title": "Fuck you like a Slut",
+                    "uri": "6hZAWLXDxn5mn0eiJLZEFd"
+                }
+            ]
+        }
+    },
     "malibu-29th-september-2022": {
         "00": {
             "s0": "",

@@ -1939,6 +1939,484 @@
             ]
         }
     },
+    "civilization-radio-23rd-november-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Felt",
+                    "title": "Scarlet Servants",
+                    "uri": "48R6U1HRQpVjYidxN7niDq"
+                },
+                {
+                    "artist": "Felt",
+                    "title": "Scarlet Servants",
+                    "uri": "1EeobBFESZ98EaC1jSDsWM"
+                },
+                {
+                    "artist": "Felt",
+                    "title": "Scarlet Servants",
+                    "uri": "4Fr1br9Z2UujKcdrpBUxiA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Raimu",
+                    "title": "Scarlet Feelings",
+                    "uri": "21qx8TAMAiE0UXEL7xYmEh"
+                },
+                {
+                    "artist": "Toby Fox",
+                    "title": "Scarlet Forest",
+                    "uri": "4zLEqCe2KCWBJLKN3RyWAG"
+                },
+                {
+                    "artist": "Periphery",
+                    "title": "Scarlet",
+                    "uri": "3oKd79SzqVkiel75QUZxAy"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Bogdan Raczynski",
+                    "title": "Untitled",
+                    "uri": "0YeQtG4347S3T0XGYgC9Vh"
+                },
+                {
+                    "artist": "Bogdan Raczynski",
+                    "title": "Untitled",
+                    "uri": "3GxHQCWdGJruxrkfZZNwJh"
+                },
+                {
+                    "artist": "Bogdan Raczynski",
+                    "title": "Untitled",
+                    "uri": "4kFsuOpk6CDW4Xlk6bjpbn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bogdan Raczynski",
+                    "title": "Untitled",
+                    "uri": "0YeQtG4347S3T0XGYgC9Vh"
+                },
+                {
+                    "artist": "Bogdan Raczynski",
+                    "title": "Untitled",
+                    "uri": "3GxHQCWdGJruxrkfZZNwJh"
+                },
+                {
+                    "artist": "glwzbll",
+                    "title": "Untitled #13 (Slowed + Reverb)",
+                    "uri": "4w2C4w02lvnh4jcx6bq0Pj"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Cluster",
+                    "title": "Manchmal",
+                    "uri": "4yYTydreYQ4qBj2GdEKTB3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cluster",
+                    "title": "Manchmal",
+                    "uri": "4yYTydreYQ4qBj2GdEKTB3"
+                },
+                {
+                    "artist": "Cluster",
+                    "title": "Traveler",
+                    "uri": "7sYFnDDJrJLBarGGTyvGfQ"
+                },
+                {
+                    "artist": "Big Moochie Grape",
+                    "title": "Clusters",
+                    "uri": "3P6JLkwscdnmESW15ueIfB"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Yasuaki Shimizu",
+                    "title": "Kakashi",
+                    "uri": "2O6bWtHJgPuig3EQVVZpRl"
+                },
+                {
+                    "artist": "Yasuaki Shimizu",
+                    "title": "Kakashi",
+                    "uri": "5sZXkKWKKJsdLKKX8djn5p"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Yasuaki Shimizu",
+                    "title": "Kakashi",
+                    "uri": "2O6bWtHJgPuig3EQVVZpRl"
+                },
+                {
+                    "artist": "Yasuaki Shimizu",
+                    "title": "Umi No Ue Kara",
+                    "uri": "4Ee8z8ySuxdqTTPI868NtU"
+                },
+                {
+                    "artist": "Anbu Monastir",
+                    "title": "Kakashi Hatake",
+                    "uri": "7rvSCqgSni520u3RM3ZEWv"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Moby",
+                    "title": "Machete",
+                    "uri": "4kdqF91TsmmoheXXdrQITM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Moby",
+                    "title": "Machete",
+                    "uri": "4kdqF91TsmmoheXXdrQITM"
+                },
+                {
+                    "artist": "Moby",
+                    "title": "When It's Cold I'd Like to Die",
+                    "uri": "50I6fV2otuiDmigTtN6WMY"
+                },
+                {
+                    "artist": "Moby",
+                    "title": "God Moving over the Face of the Waters",
+                    "uri": "2qTMuRCPvytF781pSHFfMf"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "The Egyptian Lover",
+                    "title": "The Dark Side of Egypt",
+                    "uri": "6sBHmITzjV9j2vmKoqjnot"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Egyptian Lover",
+                    "title": "Egypt Egypt",
+                    "uri": "6noajkkuZkla4d8E6sYUiY"
+                },
+                {
+                    "artist": "The Egyptian Lover",
+                    "title": "Everything She Wants",
+                    "uri": "7DAqYWASez8BkiSiwW5jvb"
+                },
+                {
+                    "artist": "Bayou",
+                    "title": "Egyptian Wifey",
+                    "uri": "2XBEQM6MEQW0JCEhrsFQp1"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Shoes",
+                    "title": "Someone Finer",
+                    "uri": "2ziD29cFONZqjOpyht4JWd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dertek",
+                    "title": "Shoes",
+                    "uri": "3O9BM6kexMdKKJcsclB8hY"
+                },
+                {
+                    "artist": "Black Mirrors",
+                    "title": "Shoes For Booze",
+                    "uri": "0qVx0E5gQyBMBvlApjstbF"
+                },
+                {
+                    "artist": "Shoes Turned Up",
+                    "title": "Forcefields",
+                    "uri": "0adRRANZcEDlJ1DKA57YZi"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Jan Johnston",
+                    "title": "Flesh - DJ Tiesto Mix",
+                    "uri": "79y44pQ5wSmf3QIpjEOy5U"
+                },
+                {
+                    "artist": "Jan Johnston",
+                    "title": "Flesh - DJ Tiësto Mix",
+                    "uri": "7hggnw6RCRwQUGLX8xXhmh"
+                },
+                {
+                    "artist": "Jan Johnston",
+                    "title": "Flesh - DJ Tiesto Mix",
+                    "uri": "4PW8BkxJ7QXeKPhYJZJO49"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jan Johnston",
+                    "title": "Flesh - DJ Tiesto Mix",
+                    "uri": "79y44pQ5wSmf3QIpjEOy5U"
+                },
+                {
+                    "artist": "Jan Johnston",
+                    "title": "Flesh - DJ Tiësto Mix",
+                    "uri": "7hggnw6RCRwQUGLX8xXhmh"
+                },
+                {
+                    "artist": "Jan Johnston",
+                    "title": "Flesh - DJ Tiësto Mix",
+                    "uri": "5ah7lxS2ZU0iF7j8ECchhx"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Bogdan Raczynski",
+                    "title": "All I Want Is To Be By Your Side But You Don't Care",
+                    "uri": "4TV7YfC0y0yqq99cfUJowb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bogdan Raczynski",
+                    "title": "All I Want Is To Be By Your Side But You Don't Care",
+                    "uri": "4TV7YfC0y0yqq99cfUJowb"
+                },
+                {
+                    "artist": "Bogdan Raczynski",
+                    "title": "134 32iii",
+                    "uri": "4Wz3pgHd6fA5oC43NtYB4t"
+                },
+                {
+                    "artist": "Bogdan Raczynski",
+                    "title": "Thinking Of You Thinking Of Me",
+                    "uri": "7fZyvqMiAR2Mvuys7ehQPD"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "DJ Rashad",
+                    "title": "Only One (feat. DJ Spinn & Taso)",
+                    "uri": "4KxQEbbu5k3oZg9CWZoSp7"
+                },
+                {
+                    "artist": "DJ Rashad",
+                    "title": "Only One (feat. DJ Spinn & Taso)",
+                    "uri": "4t2wk2hiRfXhHYBzRZ3XPc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "DJ Rashad",
+                    "title": "Only One (feat. DJ Spinn & Taso)",
+                    "uri": "4KxQEbbu5k3oZg9CWZoSp7"
+                },
+                {
+                    "artist": "DJ Rashad",
+                    "title": "Only One (feat. DJ Spinn & Taso)",
+                    "uri": "4t2wk2hiRfXhHYBzRZ3XPc"
+                },
+                {
+                    "artist": "Yellowcard",
+                    "title": "Only One",
+                    "uri": "0gZp88SA5OcujHLDGkxtI3"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "100 Flowers",
+                    "title": "Strip Club",
+                    "uri": "61C5jhoGbczXIvjkrn7Siz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Common",
+                    "title": "Strip Club Interview",
+                    "uri": "4fKmyF3DSELb3aMfCNeTka"
+                },
+                {
+                    "artist": "Ramow",
+                    "title": "Stripclub",
+                    "uri": "57VeQAAHkCsSEpGzv05hLy"
+                },
+                {
+                    "artist": "mansionz",
+                    "title": "Strip Club",
+                    "uri": "5AftJmmIpgmEMGkBtO69m7"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Eurythmics",
+                    "title": "Here Comes the Rain Again",
+                    "uri": "3ZooowctgcKwNx7XtRK3W0"
+                },
+                {
+                    "artist": "Eurythmics",
+                    "title": "Here Comes the Rain Again - Remastered Version",
+                    "uri": "78RIER8V6EhrqVPOBi2GYa"
+                },
+                {
+                    "artist": "Eurythmics",
+                    "title": "Here Comes the Rain Again - Remastered Version",
+                    "uri": "5vYhr2kgOonJtWeJq5qZzU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eurythmics",
+                    "title": "Here Comes the Rain Again",
+                    "uri": "3ZooowctgcKwNx7XtRK3W0"
+                },
+                {
+                    "artist": "Eurythmics",
+                    "title": "Here Comes the Rain Again - Remastered Version",
+                    "uri": "78RIER8V6EhrqVPOBi2GYa"
+                },
+                {
+                    "artist": "Eurythmics",
+                    "title": "Here Comes the Rain Again - Remastered Version",
+                    "uri": "5vYhr2kgOonJtWeJq5qZzU"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Kelis",
+                    "title": "Millionaire",
+                    "uri": "5dAauIxGC3TyZRGIsOwWDu"
+                },
+                {
+                    "artist": "Kelis",
+                    "title": "Millionaire",
+                    "uri": "0YiWXawcQra8RagOWYifPt"
+                },
+                {
+                    "artist": "Kelis",
+                    "title": "Millionaire",
+                    "uri": "4cLvCCxBZ2VA0Iv0glkG7H"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kelis",
+                    "title": "Millionaire",
+                    "uri": "5dAauIxGC3TyZRGIsOwWDu"
+                },
+                {
+                    "artist": "MADE",
+                    "title": "Millionera",
+                    "uri": "6EU77QID0vqOXWgFQTtDGZ"
+                },
+                {
+                    "artist": "Millionaires",
+                    "title": "Take Your Shirt Off",
+                    "uri": "7iLY7fJbcWWIvXRbKZX0AY"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Olof Dreijer",
+                    "title": "Camelia",
+                    "uri": "1p39reyT7Qmcq1lIYFe2rA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Olof Dreijer",
+                    "title": "Camelia",
+                    "uri": "1p39reyT7Qmcq1lIYFe2rA"
+                },
+                {
+                    "artist": "OBLXKQ",
+                    "title": "CAMELLIA",
+                    "uri": "47M4KLl1G1Yq48hZgbN42j"
+                },
+                {
+                    "artist": "Camelia",
+                    "title": "Tell Me",
+                    "uri": "2y92Jm2d9jdZxxl32HwN4U"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "T. Rex",
+                    "title": "Monolith",
+                    "uri": "5Gf244PjLYlMkPLiIFDb4Z"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "T. Rex",
+                    "title": "Monolith",
+                    "uri": "5Gf244PjLYlMkPLiIFDb4Z"
+                },
+                {
+                    "artist": "T. Rex",
+                    "title": "Children Of The Revolution",
+                    "uri": "6Vo8OXQXCabNPD4z4wp7Is"
+                },
+                {
+                    "artist": "T. Rex",
+                    "title": "Children of the Revolution - Remaster",
+                    "uri": "7as3y0Z9c0LH4sZDhFw9uU"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Anna von Hausswolff",
+                    "title": "Theatre of Nature",
+                    "uri": "56tFF2a15BizdVndp7uMN5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Anna von Hausswolff",
+                    "title": "Theatre of Nature",
+                    "uri": "56tFF2a15BizdVndp7uMN5"
+                },
+                {
+                    "artist": "Anna von Hausswolff",
+                    "title": "Pomperipossa - Live at Montreux",
+                    "uri": "6xu7oJW0hqJfMk2RpJYy8s"
+                },
+                {
+                    "artist": "Anna von Hausswolff",
+                    "title": "Dolore di Orsini",
+                    "uri": "5x39jx4cKD2NqiBIKr0TzI"
+                }
+            ]
+        }
+    },
     "civilization-radio-28th-september-2022": {
         "00": {
             "s0": [

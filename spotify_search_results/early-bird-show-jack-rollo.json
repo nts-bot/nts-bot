@@ -25313,6 +25313,737 @@
             ]
         }
     },
+    "early-bird-show-jack-rollo-24th-november-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lulla Bear",
+                    "title": "Mozart's Lullaby",
+                    "uri": "5O6oPP2TFnqAA4yMlrRDVq"
+                },
+                {
+                    "artist": "Phury",
+                    "title": "Lullabye",
+                    "uri": "2xSRkmlMwPlNWf9OjzwmWG"
+                },
+                {
+                    "artist": "Lullabies Series",
+                    "title": "Himeji IV",
+                    "uri": "6ccAG6NV17Hm3n07B4TU0G"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sergio Villanueva",
+                    "title": "Solo Quedas Tú",
+                    "uri": "6RQya6gtyE5rnZMF1shAyb"
+                },
+                {
+                    "artist": "Sergio Villanueva",
+                    "title": "Éxodos",
+                    "uri": "13310NP3m7fZpcy8t1DxNe"
+                },
+                {
+                    "artist": "Sergio Villanueva",
+                    "title": "Aprender A Vivir",
+                    "uri": "3jSh2vzfr9ND6XUqtUeaUo"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Savina Yannatou",
+                    "title": "Ela Ypne Mou Pare To",
+                    "uri": "6HJNgFDmCNzqSVEiapJyiA"
+                },
+                {
+                    "artist": "Savina Yannatou",
+                    "title": "Ela Ypne Kai Pare To",
+                    "uri": "1pQfPWtxmGB63sOLufdtdr"
+                },
+                {
+                    "artist": "Savina Yannatou",
+                    "title": "Ela Ypne Koimise To",
+                    "uri": "3NdN9Ks4KqbNLhw2U4E6qU"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Helen Merrill",
+                    "title": "Nobody Knows",
+                    "uri": "56MElRJQv9t9DQjfdxYxdc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nina Simone",
+                    "title": "Nobody Knows You When You're Down And Out",
+                    "uri": "5yMRZqh2HCo5NFbLNt6sD1"
+                },
+                {
+                    "artist": "Helen Merrill",
+                    "title": "Anything Goes",
+                    "uri": "7G7aecTWvlnJoLUJi7tn7f"
+                },
+                {
+                    "artist": "Helen Merrill",
+                    "title": "When I Fall In Love",
+                    "uri": "7tsVM94JLz6tl02sA8gfYY"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Verso Por Saludo",
+                    "uri": "6pQZ6v3WVO16zMdUxcVSi7"
+                },
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Verso por Saludo de Despedimiento de Angelito",
+                    "uri": "5hv56BQf06zxIvPaxuM3jZ"
+                },
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Verso por Saludo de Despedimiento de Angelito - Remastered",
+                    "uri": "0om1kRN5oTCjt8a7OXt7aG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Verso Por Saludo",
+                    "uri": "6pQZ6v3WVO16zMdUxcVSi7"
+                },
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Gracias a la Vida",
+                    "uri": "6cWvPdqdFJOhhRd0SZOplj"
+                },
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Gracias a la Vida",
+                    "uri": "5U7MyRNbuZrWkyAI4bm3Ja"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Nick Mamahit & Trio",
+                    "title": "Gunung salahutu",
+                    "uri": "3EQ64Z1ORaQjHqmWdLmEh0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nick Mackenzie",
+                    "title": "Bella Maria",
+                    "uri": "55QADN9SXixe0oGqqbvS3e"
+                },
+                {
+                    "artist": "Nick Muir",
+                    "title": "All One Word - Trilucid 2AM Mix",
+                    "uri": "769V3rcSSvxRmK2gjvum0o"
+                },
+                {
+                    "artist": "Nik Marek",
+                    "title": "Poster Boi",
+                    "uri": "3IRGKssMgiG7DS27strgaH"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Reynaldo Hahn",
+                    "title": "L' Air (Banville)",
+                    "uri": "6TdxDxIhhEdUSOJuwKljeD"
+                },
+                {
+                    "artist": "Reynaldo Hahn",
+                    "title": "L' Air (Banville)",
+                    "uri": "09cay4iGq7rCVxBgUjSfqD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Reynaldo Hahn",
+                    "title": "Poème de Paul Verlaine: L'heure exquise",
+                    "uri": "2BpjvGVYUziwi2Ra1uwQry"
+                },
+                {
+                    "artist": "Reynaldo Hahn",
+                    "title": "Douze valses, Le ruban dénoué: No. 1, Décrets indolents du hasard",
+                    "uri": "6bQY1ycex7i79COB4dEqN1"
+                },
+                {
+                    "artist": "Reynaldo Hahn",
+                    "title": "A Chloris (Arr. For Cor Anglais & Orchestra)",
+                    "uri": "18jsLEpm2cfqr2AtPSChGv"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "El Huervo",
+                    "title": "Daisuke",
+                    "uri": "1hGRe4d3LJCg1VszAU8Cy1"
+                },
+                {
+                    "artist": "Bemax",
+                    "title": "Daisuki",
+                    "uri": "3tfzfbhfPaVnTUDNN9jBRD"
+                },
+                {
+                    "artist": "Daisuke",
+                    "title": "Moshimo",
+                    "uri": "6Kg19UJsggomlPU7vrggU3"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "They Might Be Giants",
+                    "title": "Istanbul (Not Constantinople)",
+                    "uri": "63vL5oxWrlvaJ0ayNaQnbX"
+                },
+                {
+                    "artist": "Constantinople",
+                    "title": "Vers isfahan",
+                    "uri": "2DwgdP8WHqYEHExx5iTTXK"
+                },
+                {
+                    "artist": "Chapelier Fou",
+                    "title": "Constantinople",
+                    "uri": "13xi7UCobtWOyYD78TFHur"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "René Aubry",
+                    "title": "Lungomare",
+                    "uri": "2g3bJEBzmrb8S3bEWKBHzp"
+                },
+                {
+                    "artist": "Reneé Rapp",
+                    "title": "Talk Too Much",
+                    "uri": "4JCv9Nx6Lx4cTwu7Aty5qd"
+                },
+                {
+                    "artist": "Reneé Rapp",
+                    "title": "The Wedding Song",
+                    "uri": "3UNTCTqSGhVaaMQvBty1q6"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Oldřich Janota",
+                    "title": "Kterou řekou",
+                    "uri": "3pVi4tFqIfKWVIhQh80r30"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Oldřich Janota",
+                    "title": "Kterou řekou",
+                    "uri": "3pVi4tFqIfKWVIhQh80r30"
+                },
+                {
+                    "artist": "Oldřich Janota",
+                    "title": "Svítá, je den",
+                    "uri": "0mZIXDkAzisKJDzoXod7uE"
+                },
+                {
+                    "artist": "Oldřich Janota",
+                    "title": "Pomněnkového koně",
+                    "uri": "5aVnJXoz40876ydPAkE7Aa"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Helen Merrill",
+                    "title": "Don't Explain",
+                    "uri": "2JncPNDwT04u0FhWxfJbi5"
+                },
+                {
+                    "artist": "Helen Merrill",
+                    "title": "Anything Goes",
+                    "uri": "7G7aecTWvlnJoLUJi7tn7f"
+                },
+                {
+                    "artist": "Helen Maxwell",
+                    "title": "Survival Of Fitness Testing",
+                    "uri": "5vs5ljUer2KI6EABEyGXnf"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Bruno Coulais",
+                    "title": "Eia Mater, Fons Amoris",
+                    "uri": "1H3rODN34Cy7GbAnOQb8v6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bruno Coulais",
+                    "title": "Eia Mater, Fons Amoris",
+                    "uri": "1H3rODN34Cy7GbAnOQb8v6"
+                },
+                {
+                    "artist": "Bruno Coulais",
+                    "title": "Vois sur ton chemin",
+                    "uri": "0zbnfpLysaXGIKMwDXGIpa"
+                },
+                {
+                    "artist": "Bruno Coulais",
+                    "title": "In mémoriam",
+                    "uri": "73MbeGKzwTmU2S0ub7Z1H3"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Felix Kramer",
+                    "title": "Vielleicht bist es eh du",
+                    "uri": "7bYLW5JAsbf5pZqybSXes8"
+                },
+                {
+                    "artist": "tokni",
+                    "title": "Rain for the Flowers - Radio Edit",
+                    "uri": "7cWXTCjN30KD19L6UxsdfM"
+                },
+                {
+                    "artist": "Eric Clapton",
+                    "title": "Come Rain or Come Shine",
+                    "uri": "2Z7U506Agti2s9uxP564LE"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Urna Chahartugchi",
+                    "title": "Zandan hüren",
+                    "uri": "0dhMnuPjwcUapvwI0uEp1r"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hozan Bengi",
+                    "title": "Zindan",
+                    "uri": "5BVnfXAWZ5KKDrCCF2VdXW"
+                },
+                {
+                    "artist": "Heintje",
+                    "title": "Zandman - Bonus Track",
+                    "uri": "6SbS0KRvJbiCM5Ufgmbdpo"
+                },
+                {
+                    "artist": "Heintje",
+                    "title": "Zandman - Bonus Track",
+                    "uri": "0sDuRiy6tRYFjXEyJblEHl"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Haizea",
+                    "title": "Loa Loa",
+                    "uri": "6ibzxsWyWIdwbDaYmjlI1q"
+                },
+                {
+                    "artist": "Haizea",
+                    "title": "Loa Loa",
+                    "uri": "7a2mJSfgoVroedlxpBsEUS"
+                },
+                {
+                    "artist": "Haizea",
+                    "title": "Loa Loa",
+                    "uri": "2FvK8042PFraHZOZyyLzNo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Haizea",
+                    "title": "Loa loa",
+                    "uri": "0lAoObgIEhq7IES5wRE14d"
+                },
+                {
+                    "artist": "Olatz Salvador",
+                    "title": "Haizea harrien kontra",
+                    "uri": "65hZ96IJbHoaXoaTHz1Bf4"
+                },
+                {
+                    "artist": "Hayzei",
+                    "title": "mellow move",
+                    "uri": "5aGti5R9GRmjkm7pRnOYTZ"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Francis Plagne",
+                    "title": "II",
+                    "uri": "3RGen1dsaT3cUteTnAz1LD"
+                },
+                {
+                    "artist": "Francis Plagne",
+                    "title": "I",
+                    "uri": "3h9n3XX0sA1vpTuCqphBS3"
+                },
+                {
+                    "artist": "Francis Plagne",
+                    "title": "III",
+                    "uri": "5kRdo1tT6XS7W8k8fnJqax"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "London Symphony Orchestra",
+                    "title": "Sabre Dance",
+                    "uri": "7F5K5tzf1zaw80REnO60OJ"
+                },
+                {
+                    "artist": "Les Yeux Noirs",
+                    "title": "Danse du sabre (Aram katchaturian)",
+                    "uri": "6zEw4LtqQbRAurOU3oHdWp"
+                },
+                {
+                    "artist": "Camille Saint-Saëns",
+                    "title": "Sarabande et rigaudon, Op. 93: Sarabande",
+                    "uri": "5KwqOPqGO04tDkpppNklad"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": ""
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Eddy Detroit",
+                    "title": "Mephisto Cigars (Folk Version)",
+                    "uri": "5Ypodz2kSrEdBZRTz7jlm1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eddy de Pretto",
+                    "title": "Kid",
+                    "uri": "1EIhcoMZ3See5L28kNvuFe"
+                },
+                {
+                    "artist": "Eddy de Pretto",
+                    "title": "Fête de trop",
+                    "uri": "318bvACza1ThxkbPqajFoe"
+                },
+                {
+                    "artist": "The Mephisto",
+                    "title": "Kiruna",
+                    "uri": "4lXchwqp3PqDeyCYqarxUa"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Hiroshi Fujiwara",
+                    "title": "Dub Hunter",
+                    "uri": "2P7QeRSNTa3goudoV7QSiG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hiroshi Fujiwara",
+                    "title": "Dub Hunter",
+                    "uri": "2P7QeRSNTa3goudoV7QSiG"
+                },
+                {
+                    "artist": "Hiroshi Yoshimura",
+                    "title": "Green",
+                    "uri": "1osR4MmVEDVk2FXw5xr5Xv"
+                },
+                {
+                    "artist": "Hiroshi Suzuki",
+                    "title": "Romance",
+                    "uri": "4RsL2ZlU4P0CIKDrOwQkzz"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Savina Yannatou",
+                    "title": "Ypne pou pairneis ta mikra",
+                    "uri": "7aJHK8Mo2fXPzrlhM9F5PP"
+                },
+                {
+                    "artist": "Savina Yannatou",
+                    "title": "Ypne Pou Pairneis Ta Paidia",
+                    "uri": "36x2nDBZwS4JFZli6FeNom"
+                },
+                {
+                    "artist": "Savina Yannatou",
+                    "title": "Koimisou Aggeloudi Mou",
+                    "uri": "7HpE7a5TKL0E0IlyO4rjf1"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alex G",
+                    "title": "Cross Country",
+                    "uri": "4j0V3t9vk9xLrGbf8VDl5x"
+                },
+                {
+                    "artist": "Albert King",
+                    "title": "Crosscut Saw - Mono Mix",
+                    "uri": "0WvSYVnEXD7QLa5pDJ920S"
+                },
+                {
+                    "artist": "Cross Country Driver",
+                    "title": "Off the Rails",
+                    "uri": "42WticpVQhPU1H2seAjX9y"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "The Velvet Underground",
+                    "title": "I Found a Reason",
+                    "uri": "1idUQcT3cUss1Mv1BA2yD8"
+                },
+                {
+                    "artist": "The Velvet Underground",
+                    "title": "I Found a Reason - 2015 Remaster",
+                    "uri": "63OJHHu2ambZAvdrvhdT2b"
+                },
+                {
+                    "artist": "The Velvet Underground",
+                    "title": "I Found a Reason - 2015 Remaster",
+                    "uri": "6H93epd5doFubcQVuwxt24"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Velvet Underground",
+                    "title": "I Found a Reason",
+                    "uri": "1idUQcT3cUss1Mv1BA2yD8"
+                },
+                {
+                    "artist": "The Velvet Underground",
+                    "title": "I Found a Reason - 2015 Remaster",
+                    "uri": "63OJHHu2ambZAvdrvhdT2b"
+                },
+                {
+                    "artist": "The Velvet Underground",
+                    "title": "Sunday Morning",
+                    "uri": "11607FzqoipskTsXrwEHnJ"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "The Fall",
+                    "title": "Midnight In Aspen",
+                    "uri": "5JvTqvSVwKWSGyUXu0zFlm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rhye",
+                    "title": "The Fall",
+                    "uri": "35yZkNFNVosiHE6Uj0COVM"
+                },
+                {
+                    "artist": "The Chainsmokers",
+                    "title": "The Fall",
+                    "uri": "5FvGI8KtImlEbOsvEW3pfX"
+                },
+                {
+                    "artist": "Sebel",
+                    "title": "Midnight in Paris",
+                    "uri": "0U1pq6mb6us0CkrxQlvLDf"
+                }
+            ]
+        },
+        "25": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Uru",
+                    "title": "Break",
+                    "uri": "4hWhNL4cLfhLrt4Un3pdMG"
+                },
+                {
+                    "artist": "DJ RYOW",
+                    "title": "URUSAI",
+                    "uri": "5p9CWarMIMcNCbeRbN4XjI"
+                },
+                {
+                    "artist": "Utsu-P",
+                    "title": "SUSHI-GO-ROUND",
+                    "uri": "5C7cFiBMuVRofB4yP0vM0g"
+                }
+            ]
+        },
+        "26": {
+            "s0": [
+                {
+                    "artist": "Barbara Manning",
+                    "title": "B4 We Go Under",
+                    "uri": "4j1cbCiHl2fHAxM6yNAdz2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Barbara Manning",
+                    "title": "B4 We Go Under",
+                    "uri": "4j1cbCiHl2fHAxM6yNAdz2"
+                },
+                {
+                    "artist": "Barbara Mandrell",
+                    "title": "Darlin'",
+                    "uri": "0Cm06HymdxqBQ9EHnHmxQB"
+                },
+                {
+                    "artist": "Barbara Mandrell",
+                    "title": "I Was Country When Country Wasn't Cool - Live At The Roy Acuff Theater Nashville, TN, 1981",
+                    "uri": "2jQw7zMJO4fekTbP7iVA4v"
+                }
+            ]
+        },
+        "27": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bill Compton",
+                    "title": "25th of the 12th",
+                    "uri": "7yB6XmLULzEoAlE9E4Q8ov"
+                },
+                {
+                    "artist": "Dave",
+                    "title": "Our 25th Birthday",
+                    "uri": "00ZQQArUJReFfsMnl8dIgd"
+                },
+                {
+                    "artist": "PRK URBAN",
+                    "title": "25th (Notorious IBE Anniversary)",
+                    "uri": "3Af7rmKvYZP3mbhbgDtW8P"
+                }
+            ]
+        },
+        "28": {
+            "s0": [
+                {
+                    "artist": "Secret Square",
+                    "title": "Sparkly Green Couch",
+                    "uri": "36HsqmI5ZJesxDM3oHqyNu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Secret Square",
+                    "title": "Sparkly Green Couch",
+                    "uri": "36HsqmI5ZJesxDM3oHqyNu"
+                },
+                {
+                    "artist": "Marcy Playground",
+                    "title": "Secret Squirrel",
+                    "uri": "2ceOcMN0jFqHsGifqcHuNL"
+                },
+                {
+                    "artist": "Secret Sphere",
+                    "title": "The Crossing Toll",
+                    "uri": "0q46rpCuKEhESLKdl0cJWe"
+                }
+            ]
+        },
+        "29": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sidewalks and Skeletons",
+                    "title": "Unearth",
+                    "uri": "785C6BpZ0YL3yUOJ8QuA6p"
+                },
+                {
+                    "artist": "Unearth",
+                    "title": "My Will Be Done",
+                    "uri": "76u2aab2a33Ohs7dOKoUOa"
+                },
+                {
+                    "artist": "Unearth",
+                    "title": "The Great Dividers",
+                    "uri": "7sHeaBN3KqFV5RfjcB6L7U"
+                }
+            ]
+        },
+        "30": {
+            "s0": [
+                {
+                    "artist": "Thinking Fellers Union Local 282",
+                    "title": "Noble Experiment",
+                    "uri": "56eL3wRl9RnMPfxrCm5Knv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Thinking Fellers Union Local 282",
+                    "title": "My Pal the Tortoise",
+                    "uri": "1anrtrcrzrfSa9zJmppIKo"
+                },
+                {
+                    "artist": "Thinking Fellers Union Local 282",
+                    "title": "The Oxenmaster",
+                    "uri": "1TkGVOAxOv590g1cQ4TpYU"
+                },
+                {
+                    "artist": "Thinking Fellers Union Local 282",
+                    "title": "Communication",
+                    "uri": "120JCi71ov3Ck3aTISOs32"
+                }
+            ]
+        }
+    },
     "early-bird-show-jack-rollo-25th-february-2022": {
         "00": {
             "s0": [
