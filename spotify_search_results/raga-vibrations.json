@@ -3606,6 +3606,80 @@
             ]
         }
     },
+    "raga-vibrations-25th-november-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Pandit Pran Nath",
+                    "title": "Raagini Bheempalasi",
+                    "uri": "7pTUO9gIg5Ai0dGnliIoHN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pandit Pran Nath",
+                    "title": "Raagini Bheempalasi",
+                    "uri": "7pTUO9gIg5Ai0dGnliIoHN"
+                },
+                {
+                    "artist": "Pandit Pran Nath",
+                    "title": "Raaga Bhoopali",
+                    "uri": "7e2syjKYpBJBXpS8ZRjlq2"
+                },
+                {
+                    "artist": "Pandit Pran Nath",
+                    "title": "Raga Shudh Sarang",
+                    "uri": "2FN7OK4RBKSPzJ7g0Vaz10"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Pandit Pran Nath",
+                    "title": "Raag Puriyaa Dhanaashree",
+                    "uri": "7t4mNqywdNNBB6DXGpt5wQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pandit Pran Nath",
+                    "title": "Raag Puriyaa Dhanaashree",
+                    "uri": "7t4mNqywdNNBB6DXGpt5wQ"
+                },
+                {
+                    "artist": "Pandit Jasraj",
+                    "title": "Raaga Purya Dhanashree",
+                    "uri": "3h9fFQI5A0gN6Nxms8DgfX"
+                },
+                {
+                    "artist": "Bapu Padmanabha",
+                    "title": "Puriya Dhanashri",
+                    "uri": "4sLPOn5JQyXvdmFxk7M877"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ashwini Bhide-Deshpande",
+                    "title": "Raga Ahir Bhairav - drut ektel",
+                    "uri": "74SJH4YDYKx61WC9bINwjS"
+                },
+                {
+                    "artist": "Ashwini Bhide-Deshpande",
+                    "title": "Raga Ahir Bhairav - khyal in viambit teental",
+                    "uri": "5jSETbvCLx2rzvDmAEkD4b"
+                },
+                {
+                    "artist": "Buddhadev DasGupta",
+                    "title": "Ahir Bhairav",
+                    "uri": "2YqGNsc93UuLNBrvHD00Jv"
+                }
+            ]
+        }
+    },
     "raga-vibrations-26th-june-2017": {
         "00": {
             "s0": "",
@@ -3780,6 +3854,142 @@
                     "artist": "Bhajan Sopori",
                     "title": "Raga: Marwa (Aalap, Jor & Jhala)",
                     "uri": "2byP1rcujYBpPPLUM9sZM9"
+                }
+            ]
+        }
+    },
+    "raga-vibrations-28th-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman Kalyan - Jod",
+                    "uri": "7mOJNuEHdXIS1OOmxKismt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman Kalyan - Jod",
+                    "uri": "7mOJNuEHdXIS1OOmxKismt"
+                },
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman: Alap",
+                    "uri": "1vyKEMqBeH9olp2lkHIzJj"
+                },
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman Kalyan - Alap",
+                    "uri": "1UVANj6IFvPe3uemZlV9k5"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman Kalyan - Alap",
+                    "uri": "1UVANj6IFvPe3uemZlV9k5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman Kalyan - Alap",
+                    "uri": "1UVANj6IFvPe3uemZlV9k5"
+                },
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman: Alap",
+                    "uri": "1vyKEMqBeH9olp2lkHIzJj"
+                },
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman Kalyan - Jod",
+                    "uri": "7mOJNuEHdXIS1OOmxKismt"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman Kalyan - Jhala & Chautala (12 Beats)",
+                    "uri": "6tx421sgvccq8dSebRe3PR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman Kalyan - Jhala & Chautala (12 Beats)",
+                    "uri": "6tx421sgvccq8dSebRe3PR"
+                },
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman: Alap",
+                    "uri": "1vyKEMqBeH9olp2lkHIzJj"
+                },
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman Kalyan - Alap",
+                    "uri": "1UVANj6IFvPe3uemZlV9k5"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ustad Rais Khan / Ustad Sultan Khan",
+                    "title": "Raga Yaman Kalyan - Alap",
+                    "uri": "0aAk63pl3x0ZEcApoU2CHO"
+                },
+                {
+                    "artist": "Rais Khan",
+                    "title": "Raga : Yaman kalyan - Alap",
+                    "uri": "28hEs5BImtIyBNCf3QCpvp"
+                },
+                {
+                    "artist": "Rais Khan",
+                    "title": "Yaman Kalyan",
+                    "uri": "4gUjvoi9Xt9uJTMfdBBdz4"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Shahid Parvez",
+                    "title": "Raga Yaman Drut",
+                    "uri": "6lStZKUlZ2UKOIqkX332Km"
+                },
+                {
+                    "artist": "Shahid Parvez",
+                    "title": "Raga Yaman Gat",
+                    "uri": "2H3Vx9s9JIcOg0ZDfpNXLN"
+                },
+                {
+                    "artist": "Shahid Parvez",
+                    "title": "Raga Yaman Alap",
+                    "uri": "4gIVEGb8HvAArl1sDq9Xzs"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Shahid Parvez",
+                    "title": "Raga Yaman Drut",
+                    "uri": "6lStZKUlZ2UKOIqkX332Km"
+                },
+                {
+                    "artist": "Shahid Parvez",
+                    "title": "Raga Yaman Gat",
+                    "uri": "2H3Vx9s9JIcOg0ZDfpNXLN"
+                },
+                {
+                    "artist": "Shahid Parvez",
+                    "title": "Raga Yaman Alap",
+                    "uri": "4gIVEGb8HvAArl1sDq9Xzs"
                 }
             ]
         }

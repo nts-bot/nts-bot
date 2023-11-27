@@ -31,7 +31,50 @@
     "painkiller-kim-18th-march-2023": "",
     "painkiller-kim-1st-october-2022": "",
     "painkiller-kim-21st-january-2023": "",
+    "painkiller-kim-25th-november-2023": {},
     "painkiller-kim-26th-november-2022": "",
+    "painkiller-kim-28th-october-2023": {
+        "00": {
+            "artist": "Malokarpatan",
+            "title": "Filipojakubská Noc Na Štangarígelských Skalách"
+        },
+        "01": {
+            "artist": "Tiamat",
+            "title": "Apotheosis Of Morbidity"
+        },
+        "02": {
+            "artist": "Bunker 66",
+            "title": "Taken Under The Spell"
+        },
+        "03": {
+            "artist": "Death SS",
+            "title": "Werewolf"
+        },
+        "04": {
+            "artist": "Funeral Presence",
+            "title": "The Archer Takes Aim"
+        },
+        "05": {
+            "artist": "Slaughtered Priest",
+            "title": "Eternal Goat Reign "
+        },
+        "06": {
+            "artist": "Master's Hammer",
+            "title": "Černá Svatozár"
+        },
+        "07": {
+            "artist": "Necromancy",
+            "title": "Ancient Wrath 1"
+        },
+        "08": {
+            "artist": "Demoncy",
+            "title": "Ipsissimuss Of Shadows"
+        },
+        "09": {
+            "artist": "King Diamond",
+            "title": "Halloween"
+        }
+    },
     "painkiller-kim-29th-october-2022": {
         "00": {
             "artist": "Black Hole",
@@ -68,6 +111,60 @@
         "08": {
             "artist": "Mercyful Fate",
             "title": "A Dangerous Meeting"
+        }
+    },
+    "painkiller-kim-2nd-september-2023": {
+        "00": {
+            "artist": "Dikasterion",
+            "title": "N.W.D."
+        },
+        "01": {
+            "artist": "Orkblut",
+            "title": "Shamanic Rotes Of Polaris"
+        },
+        "02": {
+            "artist": "Bloody Vengeance",
+            "title": "Scum Breeds Scum"
+        },
+        "03": {
+            "artist": "Gates Of Sinn",
+            "title": "Curse The Seals Of Angels"
+        },
+        "04": {
+            "artist": "Arckanum",
+            "title": "Ængin Oforphærra"
+        },
+        "05": {
+            "artist": "Dai",
+            "title": "Squir Akyz"
+        },
+        "06": {
+            "artist": "Ritus De Cruor",
+            "title": "Curse Of Unlife"
+        },
+        "07": {
+            "artist": "Käärmekristus",
+            "title": "Poisonous Black Iron"
+        },
+        "08": {
+            "artist": "Musta Surma",
+            "title": "Miekka Ja Krusifiksi"
+        },
+        "09": {
+            "artist": "Bulldozer",
+            "title": "Cut-Throat"
+        },
+        "10": {
+            "artist": "Death Worship",
+            "title": "Slaughtersiege"
+        },
+        "11": {
+            "artist": "Wolfsmond",
+            "title": "Wilde Jagd"
+        },
+        "12": {
+            "artist": "Deströyer 666",
+            "title": "Clenched Fist"
         }
     },
     "painkiller-kim-30th-september-2023": {
