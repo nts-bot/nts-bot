@@ -10128,6 +10128,384 @@
             ]
         }
     },
+    "show-me-the-body-presents-corpus-31st-october-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Sickboyrari",
+                    "title": "Nite Walker",
+                    "uri": "5L0UzaetCSpHAN9IlrJGv8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sickboyrari",
+                    "title": "Nite Walker",
+                    "uri": "5L0UzaetCSpHAN9IlrJGv8"
+                },
+                {
+                    "artist": "Sickboyrari",
+                    "title": "Night Walker",
+                    "uri": "17hnt4IZpmg3jtR8DejNo6"
+                },
+                {
+                    "artist": "Ren",
+                    "title": "Sick Boi",
+                    "uri": "3AbNMW7EccD88zTvqPCLYE"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Trippjones",
+                    "title": "Creepy Crawlers",
+                    "uri": "0bBYhxbPgiChax1CkgQwoe"
+                },
+                {
+                    "artist": "Trippjones",
+                    "title": "Creepy Crawlers",
+                    "uri": "23FXDv0ENn8I7RvyUNAxV6"
+                },
+                {
+                    "artist": "Creepy Nuts",
+                    "title": "ばかまじめ",
+                    "uri": "7FiTlLKW0Knj8rm7lMa9N7"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Yung Mojo",
+                    "title": "Right Now",
+                    "uri": "3tkrVGxZmBXejISAsdUgwR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Yungmon",
+                    "title": "Distanz",
+                    "uri": "26G8f9eqjJnvYM8IlJKyug"
+                },
+                {
+                    "artist": "Yungmon",
+                    "title": "Tinte",
+                    "uri": "1SYmNVETCLzxcTyI2yy763"
+                },
+                {
+                    "artist": "Yungmon",
+                    "title": "Hör weg beim nächsten Satz",
+                    "uri": "33T7yKrbYiXk0erHOPTmQB"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Deftones",
+                    "title": "Change (In the House of Flies)",
+                    "uri": "51c94ac31swyDQj9B3Lzs3"
+                },
+                {
+                    "artist": "Deftones",
+                    "title": "Change (In the House of Flies)",
+                    "uri": "4ccmNDfCYnT9q6o01k3NqE"
+                },
+                {
+                    "artist": "Deftones",
+                    "title": "Change (In the House of Flies) - Acoustic; 2005 Remaster",
+                    "uri": "0ovy04t3RUHvnkijp62ITq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Deftones",
+                    "title": "Change (In the House of Flies)",
+                    "uri": "51c94ac31swyDQj9B3Lzs3"
+                },
+                {
+                    "artist": "Deftones",
+                    "title": "Change (In the House of Flies)",
+                    "uri": "4ccmNDfCYnT9q6o01k3NqE"
+                },
+                {
+                    "artist": "Deftones",
+                    "title": "My Own Summer (Shove It)",
+                    "uri": "1158ckiB5S4cpsdYHDB9IF"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Solar Fake",
+                    "title": "I Hate You More Than My Life",
+                    "uri": "5DDzBUGqDlKIRlKk6TtgOS"
+                },
+                {
+                    "artist": "Solar Fake",
+                    "title": "I Hate You More Than My Life",
+                    "uri": "41alHTkcxjDqcrO1jH8EU1"
+                },
+                {
+                    "artist": "FNM $hoota",
+                    "title": "Hate You",
+                    "uri": "2OdekuXIVdcJSJzVTe0Lps"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Trippjones",
+                    "title": "Belly Of The Beast",
+                    "uri": "7wTGVVGtiwyDVomCyf7Lkv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Diamond Head",
+                    "title": "Belly of the Beast",
+                    "uri": "5FwdGuRcrAfvnrQ6mXKVJX"
+                },
+                {
+                    "artist": "Trippin Jaguar",
+                    "title": "Circadia",
+                    "uri": "3sSaIdFrhLOjOy8XCuKMfE"
+                },
+                {
+                    "artist": "Brennan Savage",
+                    "title": "Belly of the Beast",
+                    "uri": "3nx1LABlssQw0JCmHTWMn3"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Car Bomb",
+                    "title": "Secrets Within",
+                    "uri": "3tgIvJeV53WGTQr9Lbg9i4"
+                },
+                {
+                    "artist": "Car Bomb",
+                    "title": "Secrets Within - Live",
+                    "uri": "2t70Cvpm9321oX5KR2BToM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Car Bomb",
+                    "title": "Secrets Within",
+                    "uri": "3tgIvJeV53WGTQr9Lbg9i4"
+                },
+                {
+                    "artist": "Car Bomb",
+                    "title": "Lights Out",
+                    "uri": "489tmjoF83YOeyCku1KoWO"
+                },
+                {
+                    "artist": "Car Bomb",
+                    "title": "From the Dust of This Planet",
+                    "uri": "4oXeC2EAFzb6VKwnco1uvL"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Upchuck",
+                    "title": "Freedoom",
+                    "uri": "6f8ppgkoQJSW3YWK9tk4pK"
+                },
+                {
+                    "artist": "Upchuck",
+                    "title": "Freedoom",
+                    "uri": "5bVj0vmJrWXVb4dN9jMova"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Upchuck",
+                    "title": "Freedoom",
+                    "uri": "6f8ppgkoQJSW3YWK9tk4pK"
+                },
+                {
+                    "artist": "Folamour",
+                    "title": "Freedom",
+                    "uri": "6Fn1WAkDPjF1Tszdf59bWy"
+                },
+                {
+                    "artist": "The Bellas",
+                    "title": "Freedom! '90 x Cups",
+                    "uri": "24sHxLfdgfKegZlcZjyhV4"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Aidonia",
+                    "title": "Ukku",
+                    "uri": "3kFHcmwJmos2j0Bgavig7h"
+                },
+                {
+                    "artist": "Aidonia",
+                    "title": "Ukku",
+                    "uri": "15pMCev7WbRRtOXCjylxAP"
+                },
+                {
+                    "artist": "Aidonia",
+                    "title": "Ukku bit",
+                    "uri": "28GXjpYRhCyzZVByQz5gog"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aidonia",
+                    "title": "Ukku",
+                    "uri": "3kFHcmwJmos2j0Bgavig7h"
+                },
+                {
+                    "artist": "Aidonia",
+                    "title": "Ukku bit",
+                    "uri": "28GXjpYRhCyzZVByQz5gog"
+                },
+                {
+                    "artist": "Aidonia",
+                    "title": "Pon Di Cocky",
+                    "uri": "38CECqycscktTYRq4yKMXc"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Foxy Brown",
+                    "title": "Candy",
+                    "uri": "77jEqaW8UgLiiBNEhjtAFW"
+                },
+                {
+                    "artist": "Foxy Brown",
+                    "title": "Candy",
+                    "uri": "025D1O9NEWTMreEU43M55q"
+                },
+                {
+                    "artist": "Foxy Brown",
+                    "title": "Candy",
+                    "uri": "1YpWDP4tSiINL8TYMdTAUb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Foxy Brown",
+                    "title": "Candy",
+                    "uri": "77jEqaW8UgLiiBNEhjtAFW"
+                },
+                {
+                    "artist": "Foxy Brown",
+                    "title": "Get Me Home",
+                    "uri": "6Xo9osN1HErsEJoqwj4eDg"
+                },
+                {
+                    "artist": "Foxy Brown",
+                    "title": "I'll Be",
+                    "uri": "6Ag4SYLUGFdnJrCwUIb4mT"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Bbyafricka",
+                    "title": "Think Last",
+                    "uri": "7ClkUoDR39Nwp9EO6fK4yo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bbyafricka",
+                    "title": "Think Last",
+                    "uri": "7ClkUoDR39Nwp9EO6fK4yo"
+                },
+                {
+                    "artist": "Babyface",
+                    "title": "How Come, How Long (feat. Stevie Wonder)",
+                    "uri": "6kTakcO9wwXh8tEqmJSV8h"
+                },
+                {
+                    "artist": "BabyDrill",
+                    "title": "32 Freestyle",
+                    "uri": "0obPh9Q2J9vcIFsyhDjDkF"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "LustSickPuppy",
+                    "title": "CHOKEHOLD",
+                    "uri": "6up2yUbCXReE6DR9N4RXYg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "LustSickPuppy",
+                    "title": "CHOKEHOLD",
+                    "uri": "6up2yUbCXReE6DR9N4RXYg"
+                },
+                {
+                    "artist": "Ashnikko",
+                    "title": "Chokehold Cherry Python",
+                    "uri": "0dPYLhJXpzHJFCbSd1Y43w"
+                },
+                {
+                    "artist": "RONEN",
+                    "title": "Lights Out",
+                    "uri": "0Cqx7ITHuc9gTcEGHkdS7J"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "The Citizens of Halloween",
+                    "title": "This Is Halloween",
+                    "uri": "01YROQCnF1AQm7SCWJmD2o"
+                },
+                {
+                    "artist": "The Citizens of Halloween",
+                    "title": "This Is Halloween",
+                    "uri": "63y2aL2dT6zzw8FOSLaNrp"
+                },
+                {
+                    "artist": "The Citizens of Halloween",
+                    "title": "This Is Halloween - From \"The Nightmare Before Christmas\" Soundtrack",
+                    "uri": "1a9PceTCXvQilDDwhoCflL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Citizens of Halloween",
+                    "title": "This Is Halloween",
+                    "uri": "63y2aL2dT6zzw8FOSLaNrp"
+                },
+                {
+                    "artist": "The Citizens of Halloween",
+                    "title": "This Is Halloween",
+                    "uri": "01YROQCnF1AQm7SCWJmD2o"
+                },
+                {
+                    "artist": "l'eupe",
+                    "title": "This Is Halloween (Lofi Version)",
+                    "uri": "5m9eqzTz9amFIp47vVEYQB"
+                }
+            ]
+        }
+    },
     "show-me-the-body-presents-corpus-4th-march-2022": {
         "00": {
             "s0": [
