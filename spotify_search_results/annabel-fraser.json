@@ -23578,6 +23578,634 @@
             ]
         }
     },
+    "annabel-fraser-2nd-december-2023": {
+        "00": {
+            "s0": "",
+            "s1": ""
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Haiku Hands",
+                    "title": "We're Gonna Be the Greatest",
+                    "uri": "4OAmIckZ1plyuXnnivrFcC"
+                },
+                {
+                    "artist": "fwd/slash",
+                    "title": "Haiku",
+                    "uri": "7rpUGKcSiqNDcdHxnph6bR"
+                },
+                {
+                    "artist": "Yuki Hayashi",
+                    "title": "上",
+                    "uri": "5N5iImDfoQ4IF3YvXBpxPX"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Tashi Dorji",
+                    "title": "April",
+                    "uri": "3yKcustMFI2571hg0e7Exe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tashi Dorji",
+                    "title": "April",
+                    "uri": "3yKcustMFI2571hg0e7Exe"
+                },
+                {
+                    "artist": "Billie Holiday",
+                    "title": "April In Paris",
+                    "uri": "34zhjduFdQFhkRUJ230h9T"
+                },
+                {
+                    "artist": "Cyril Morin",
+                    "title": "Tashi's Theme",
+                    "uri": "3lrXGVqa9jb37zwhHwwTYv"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Julian Sartorius",
+                    "title": "L",
+                    "uri": "1uXmG9THNYhq8kysnasQPf"
+                },
+                {
+                    "artist": "Julian Sartorius",
+                    "title": "R",
+                    "uri": "415Jwvzcd3IG43hWwf01X1"
+                },
+                {
+                    "artist": "Julian Sas",
+                    "title": "Ain't Backing Down",
+                    "uri": "4opuVnLStm680wlbnb7bKU"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Static Cleaner Lost Reward",
+                    "title": "Fair Game",
+                    "uri": "3A8IGyCcJ3OTwJMTj2U3xL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Static Cleaner Lost Reward",
+                    "title": "Fair Game",
+                    "uri": "3A8IGyCcJ3OTwJMTj2U3xL"
+                },
+                {
+                    "artist": "Viska White Noise",
+                    "title": "Static Clean Noise",
+                    "uri": "4VrkXg92P8nEFIoQRqsH6C"
+                },
+                {
+                    "artist": "Xizt",
+                    "title": "Static - Sped Up",
+                    "uri": "4dkmSUvEAkMC0kSgXLDBtR"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Niecy Blues",
+                    "title": "Analysis Paralysis",
+                    "uri": "7i7q0MKDwc48kEMINgSQTw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Niecy Blues",
+                    "title": "Analysis Paralysis",
+                    "uri": "7i7q0MKDwc48kEMINgSQTw"
+                },
+                {
+                    "artist": "Vargas Blues Band",
+                    "title": "New York City Blues",
+                    "uri": "3wvH5Y88cxHSPJpymjEkZZ"
+                },
+                {
+                    "artist": "Night Blues LA Groove",
+                    "title": "Midnight Blues Master",
+                    "uri": "2LEjtTJEtdjopCDurk1pJS"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Cartoons",
+                    "title": "Doodah - Radio 'N' Roll Mix",
+                    "uri": "5LJN5trTe8v9XRLvqi9SUl"
+                },
+                {
+                    "artist": "Juan Perez",
+                    "title": "Cartoon Cat",
+                    "uri": "1LSvGR06saXqjJfkfJjzSw"
+                },
+                {
+                    "artist": "GK Hertz Beatz",
+                    "title": "Cartoon",
+                    "uri": "1CWZIBb4RO9dKs3Qll6n7z"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Tomu DJ",
+                    "title": "Rather B With U",
+                    "uri": "2AgaQwI33Am7m4dMXMyECP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tomu DJ",
+                    "title": "Rather B With U",
+                    "uri": "2AgaQwI33Am7m4dMXMyECP"
+                },
+                {
+                    "artist": "Clean Bandit",
+                    "title": "Rather Be (feat. Jess Glynne)",
+                    "uri": "3s4U7OHV7gnj42VV72eSZ6"
+                },
+                {
+                    "artist": "Clean Bandit",
+                    "title": "Rather Be (feat. Jess Glynne)",
+                    "uri": "61dCUoMCg28qEBzrW6htYM"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Peder Mannerfelt",
+                    "title": "Liquid Rattan Mainframe",
+                    "uri": "20Q1clNAg8gJsnZkYR8Sq0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Peder Mannerfelt",
+                    "title": "Liquid Rattan Mainframe",
+                    "uri": "20Q1clNAg8gJsnZkYR8Sq0"
+                },
+                {
+                    "artist": "Peter Maffay",
+                    "title": "Du hattest keine Tränen mehr",
+                    "uri": "48Mzzy3YYyRYtMGqLCXmg4"
+                },
+                {
+                    "artist": "Peter Maffay",
+                    "title": "Eiszeit - Digitally Remastered 2006",
+                    "uri": "6SxlbYtshP7C3H4qgQIab9"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "The Newday",
+                    "title": "Wait a Minute Girl",
+                    "uri": "4KuAvNjWZODfGE2x6yDGSd"
+                },
+                {
+                    "artist": "The Newday",
+                    "title": "Wait a Minute Girl",
+                    "uri": "7mOhCOysjTrAuSmbNfoWE4"
+                },
+                {
+                    "artist": "The Newday",
+                    "title": "Wait a Minute Girl",
+                    "uri": "6tAEmRgPQDtWqrmm35jK2R"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Newday",
+                    "title": "Wait a Minute Girl",
+                    "uri": "4KuAvNjWZODfGE2x6yDGSd"
+                },
+                {
+                    "artist": "The Newday",
+                    "title": "Wait a Minute Girl",
+                    "uri": "6tAEmRgPQDtWqrmm35jK2R"
+                },
+                {
+                    "artist": "Nicolas Julian",
+                    "title": "Wait a Minute!",
+                    "uri": "4cPr0t2tHNRUeEBIH5lSin"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Adrian Younge",
+                    "title": "Don't Believe The Dancers - Mophono Remix",
+                    "uri": "3yfNeB2eKO1Vsr59I61n5A"
+                },
+                {
+                    "artist": "Adrian Younge",
+                    "title": "Don't Believe The Dancers - Mophono Remix",
+                    "uri": "7DyevA8L6EZZA8GMVQ6REr"
+                },
+                {
+                    "artist": "Tony Allen",
+                    "title": "Ikeja Roads",
+                    "uri": "6K8y9WcUbgv0j7RGceHvym"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kutmah",
+                    "title": "Lifted",
+                    "uri": "1RP3PzeBXezyLrKRDMUA5n"
+                },
+                {
+                    "artist": "Kutmah",
+                    "title": "Healing",
+                    "uri": "4J1WfKGw95OykWgSArdAUn"
+                },
+                {
+                    "artist": "Kutiman",
+                    "title": "Mix Tel Aviv",
+                    "uri": "0X08e9LgtooEIvwFvlqFnZ"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Neil Landstrumm",
+                    "title": "DROOP",
+                    "uri": "0N8iuukV2GULNXJrZYjbAK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Neil Landstrumm",
+                    "title": "DROOP",
+                    "uri": "0N8iuukV2GULNXJrZYjbAK"
+                },
+                {
+                    "artist": "Nils Landgren",
+                    "title": "Blue Christmas",
+                    "uri": "6vQdXWbsefpNvqlK0CmgEt"
+                },
+                {
+                    "artist": "Nils Landgren",
+                    "title": "Lully, Lulla, Lullay",
+                    "uri": "7sRjKBwgaygRSN0tpaVMP7"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Altered Natives",
+                    "title": "SUGAR CRASH",
+                    "uri": "1B3IQTBvhqVR3zEssx6kBo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Altered Natives",
+                    "title": "SUGAR CRASH",
+                    "uri": "1B3IQTBvhqVR3zEssx6kBo"
+                },
+                {
+                    "artist": "DΛVЯ",
+                    "title": "Altered States",
+                    "uri": "1eBxsiUSpOIFSNH8gi9TAG"
+                },
+                {
+                    "artist": "Alter Nature",
+                    "title": "A Piece Of Happiness",
+                    "uri": "2i9NQcK5HJ2X9DSg28651N"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Tomu DJ",
+                    "title": "Beach House",
+                    "uri": "433bdr0N4y0mkpAggxWmc8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tomu DJ",
+                    "title": "Beach House",
+                    "uri": "433bdr0N4y0mkpAggxWmc8"
+                },
+                {
+                    "artist": "$werve",
+                    "title": "TOMA TOMA TOMA",
+                    "uri": "39BOpF8KvdMqUZlJyfnV34"
+                },
+                {
+                    "artist": "Polar Youth",
+                    "title": "Beach House",
+                    "uri": "0DoRMkMLVCDdEvCMG2pIul"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Palestre",
+                    "title": "Raverino",
+                    "uri": "0vhEyi1kAABS336ajuvoUl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Palestre",
+                    "title": "Raverino",
+                    "uri": "0vhEyi1kAABS336ajuvoUl"
+                },
+                {
+                    "artist": "The Tallis Scholars",
+                    "title": "Palestrina: Missa Papae Marcelli - 1c. Kyrie Eleison 2",
+                    "uri": "0qvY4g43W90DlDU4xdkPVf"
+                },
+                {
+                    "artist": "The Tallis Scholars",
+                    "title": "Palestrina: Missa Papae Marcelli - 1a. Kyrie Eleison 1",
+                    "uri": "2eUaIkWdxM6ndowlwU6LGk"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Elastica",
+                    "title": "Connection",
+                    "uri": "53LZqMzQEnjBkFXPqOq0cD"
+                },
+                {
+                    "artist": "Secret Thump",
+                    "title": "Connection",
+                    "uri": "0sAdfWB1Dw7TriJwH5XFb0"
+                },
+                {
+                    "artist": "Felix Kröcher",
+                    "title": "Connection",
+                    "uri": "7x5EJiMQcdxZFH2kDzF9SN"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Watt",
+                    "title": "God? Are you there? It's me, Watt.",
+                    "uri": "5vNCs2pauPrbAHKo8zT6NE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "257ers",
+                    "title": "Watta Fikki RMX",
+                    "uri": "3tjsqylxKn5c7lIRBY7RM3"
+                },
+                {
+                    "artist": "Watt White",
+                    "title": "You're Gonna Know My Name",
+                    "uri": "6o32F1XFFuxA49jp1TtU7r"
+                },
+                {
+                    "artist": "Watt White",
+                    "title": "Luminous",
+                    "uri": "6MGHUfD7wbIVux7XjZy9GN"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Serpente",
+                    "title": "Idos de Setembro",
+                    "uri": "57J1osK5utCjQ6E5bgkeJA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Herbert Pixner Projekt",
+                    "title": "Serpent",
+                    "uri": "3pfEn0EijKC6MXpbckej3a"
+                },
+                {
+                    "artist": "Um Herói do Coração",
+                    "title": "Eu Sou Uma Serpente",
+                    "uri": "0rkTWHvO8nMmebX6tSLadf"
+                },
+                {
+                    "artist": "Herbert Pixner",
+                    "title": "Serpent (Live)",
+                    "uri": "2bbfSngaGlVW66eConkn1x"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Yokel",
+                    "title": "2020thru",
+                    "uri": "2xeccvobpufjuhCgHUZJxL"
+                },
+                {
+                    "artist": "Yokel",
+                    "title": "2020thru",
+                    "uri": "6LPOyBuPoqbQYEBeLgyns2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Smile High",
+                    "title": "Yodel Up",
+                    "uri": "3apAfOfZOWFtu1QeFibxvz"
+                },
+                {
+                    "artist": "Yung Bruh",
+                    "title": "Yolok",
+                    "uri": "63gnKyOBia9Dvi4PzThnv6"
+                },
+                {
+                    "artist": "YokeeGilla",
+                    "title": "Balance",
+                    "uri": "0ZQwre3PS3FwsrJUps6tB5"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Orthodox Celts",
+                    "title": "Morrison's Jig",
+                    "uri": "5CLUgmwdCyveF3xOK1DypI"
+                },
+                {
+                    "artist": "Don Milli",
+                    "title": "Mourir sur scène",
+                    "uri": "1hhw3diUE8Az8u4oQqZ73k"
+                },
+                {
+                    "artist": "MOrisse",
+                    "title": "La Paix",
+                    "uri": "0BhmESFqzRJa8rrVtdPKUd"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Yokel",
+                    "title": "The Bad Friend",
+                    "uri": "7qtJDo4gjzStJhEi4WXx6N"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Yokel",
+                    "title": "The Bad Friend",
+                    "uri": "7qtJDo4gjzStJhEi4WXx6N"
+                },
+                {
+                    "artist": "Dr Hook And The Medicine Show",
+                    "title": "The Yodel Song",
+                    "uri": "5PHnc8JM6PzWY82nJn0D0N"
+                },
+                {
+                    "artist": "Smile High",
+                    "title": "Yodel Up",
+                    "uri": "3apAfOfZOWFtu1QeFibxvz"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Felicity Mangan",
+                    "title": "Time Flys",
+                    "uri": "23VyWlFTAz5t3DWCKY5N8E"
+                },
+                {
+                    "artist": "Felicity Mangan",
+                    "title": "Time Flys",
+                    "uri": "3e2Fy0DfWAUsv7Zt1p21Nf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "LA PLACE",
+                    "title": "Time Flies",
+                    "uri": "5M2mArJnJgM32UdCmQ66Wd"
+                },
+                {
+                    "artist": "Timeflies",
+                    "title": "Undress Rehearsal",
+                    "uri": "1aPqexHVW20OTamBHdWWVL"
+                },
+                {
+                    "artist": "Kato",
+                    "title": "Time Flies",
+                    "uri": "6WwY9DsZUzBktvuKedfiFT"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "Niecy Blues",
+                    "title": "Violently Rooted",
+                    "uri": "1bmlrokluS4FsrsRNms0e7"
+                },
+                {
+                    "artist": "Niecy Blues",
+                    "title": "Violently Rooted",
+                    "uri": "10pCUmtkGJ2IZSEhzVJKkc"
+                },
+                {
+                    "artist": "Niecy Blues",
+                    "title": "Violently Rooted Reprise",
+                    "uri": "0quZEIUPtYqmwBfAe2zEJl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Niecy Blues",
+                    "title": "Violently Rooted",
+                    "uri": "10pCUmtkGJ2IZSEhzVJKkc"
+                },
+                {
+                    "artist": "Niecy Blues",
+                    "title": "Violently Rooted",
+                    "uri": "1bmlrokluS4FsrsRNms0e7"
+                },
+                {
+                    "artist": "Niecy Blues",
+                    "title": "Painted Seats (For Domo)",
+                    "uri": "4bHZD2fJq6FX8N78mZDE26"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "Plastikman",
+                    "title": "Plasticity (2023 Remastered)",
+                    "uri": "4gQQyXb66c90J4ZCNRqEOM"
+                },
+                {
+                    "artist": "Plastikman",
+                    "title": "Plasticity (Remastered)",
+                    "uri": "4ip0LhKyKAiI2r9L3D5Qph"
+                },
+                {
+                    "artist": "Plastikman",
+                    "title": "Plasticity - Dubfire Remix",
+                    "uri": "6QkKgOdl7uhtICr4aYFkHE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Plastikman",
+                    "title": "Plasticity (2023 Remastered)",
+                    "uri": "4gQQyXb66c90J4ZCNRqEOM"
+                },
+                {
+                    "artist": "Plastikman",
+                    "title": "Plasticity (Remastered)",
+                    "uri": "4ip0LhKyKAiI2r9L3D5Qph"
+                },
+                {
+                    "artist": "CAPO",
+                    "title": "PLASTIKKANISTER (feat. Azzi Memo)",
+                    "uri": "6qzYpiVxzwyFUFeeXggMC4"
+                }
+            ]
+        }
+    },
     "annabel-fraser-2nd-july-2022": {
         "00": {
             "s0": [
