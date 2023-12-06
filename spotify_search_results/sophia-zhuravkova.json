@@ -3405,6 +3405,361 @@
             ]
         }
     },
+    "sophia-zhuravkova-3rd-december-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Pogues",
+                    "title": "Navigator",
+                    "uri": "1LWuCx5zsDB2Rl9KyLXmCb"
+                },
+                {
+                    "artist": "Can-D-Music",
+                    "title": "Navigator",
+                    "uri": "3hFyPalURgfO0WtA6xGqXO"
+                },
+                {
+                    "artist": "The Navigators",
+                    "title": "The Islander",
+                    "uri": "70gLjUwgKLdrZGmnbs5ZZt"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Zaumne",
+                    "title": "Ombres (feat. Metoronori)",
+                    "uri": "5QXeNtcLbYjGkFZZhavBWZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Zaumne",
+                    "title": "Ombres (feat. Metoronori)",
+                    "uri": "5QXeNtcLbYjGkFZZhavBWZ"
+                },
+                {
+                    "artist": "Zaumne",
+                    "title": "Voyageur",
+                    "uri": "7jiJjhGxN4CLVhBiKXmr3Y"
+                },
+                {
+                    "artist": "Zaumne",
+                    "title": "Éther",
+                    "uri": "1sDRMxoWmWklobwuG9jo5c"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Yoshiki",
+                    "title": "Red Swan",
+                    "uri": "0zvN9oq95bIEQjvfcdeZlX"
+                },
+                {
+                    "artist": "Yoshumidzu",
+                    "title": "Yoshiko",
+                    "uri": "20ZkSXLyBRt06SFrzdq93d"
+                },
+                {
+                    "artist": "Yoshiki",
+                    "title": "Red Swan - TV Edit -",
+                    "uri": "3qpNyeV4wr3YeCVfrosVyN"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Slumbering One",
+                    "title": "Sea Singing You to Sleep",
+                    "uri": "4Dzssz9V6wDX26uKj7MuX5"
+                },
+                {
+                    "artist": "The Slumbering One",
+                    "title": "Ruhige See im Norden",
+                    "uri": "5uWUZkv9wqytkrA7lZmfxq"
+                },
+                {
+                    "artist": "The Slumbering One",
+                    "title": "Meerspaziergang",
+                    "uri": "0ZcV6SPye8Rv32XpD6S4AP"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "David Cordero",
+                    "title": "Oceanodrama",
+                    "uri": "5xdZ9z5MGcMFGaZShirAPx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "David Cordero",
+                    "title": "Oceanodrama",
+                    "uri": "5xdZ9z5MGcMFGaZShirAPx"
+                },
+                {
+                    "artist": "David Cordero",
+                    "title": "El Esperado Desenlace",
+                    "uri": "4dbIBvGvVqYVd6lizMB55O"
+                },
+                {
+                    "artist": "Castello de Rossi",
+                    "title": "Oceano",
+                    "uri": "4DZqHBO72rBdvbLo9dpExM"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Other Joe",
+                    "title": "l0veblister",
+                    "uri": "3MgQMYqOvO5CjOEGQ68GU0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Other Joe",
+                    "title": "l0veblister",
+                    "uri": "3MgQMYqOvO5CjOEGQ68GU0"
+                },
+                {
+                    "artist": "JDawgg",
+                    "title": "The Other Night",
+                    "uri": "6sKNj5vAtom4MQPGg47XVg"
+                },
+                {
+                    "artist": "Lauv",
+                    "title": "The Other",
+                    "uri": "1DlGTnBydbBcOSdC6XEZnq"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "System Of A Down",
+                    "title": "Roulette",
+                    "uri": "4sM7v7wyRAuV6ZTO2dvnCA"
+                },
+                {
+                    "artist": "Robert Redweik",
+                    "title": "Roulette",
+                    "uri": "5Q4H1WppYT9lEZZRPjw5vv"
+                },
+                {
+                    "artist": "The Mars Volta",
+                    "title": "Roulette Dares (The Haunt Of)",
+                    "uri": "32Uk6r7BFqNfpUVOFuQZFk"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "K. Leimer",
+                    "title": "Along The Soluble Shore",
+                    "uri": "7gm78PbtCqh02TZwvNCMH2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "K. Leimer",
+                    "title": "Almost Chinese",
+                    "uri": "4gunXsxzs3ErnYLoRhFhMV"
+                },
+                {
+                    "artist": "K. Leimer",
+                    "title": "At Daybreak",
+                    "uri": "35lZOF0KHqhdGryvcqBaDz"
+                },
+                {
+                    "artist": "K. Leimer",
+                    "title": "From A Common Center",
+                    "uri": "6VFVz0dqDZaDHfBo2NbhI9"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "PJS",
+                    "title": "Floating Duvet",
+                    "uri": "19QpTShCnVLpG2tsmXvDDV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Floating Points",
+                    "title": "Bias",
+                    "uri": "75QdM3nsnAluOD19G1J4il"
+                },
+                {
+                    "artist": "Klur",
+                    "title": "Floating",
+                    "uri": "4qzIWW9yArNdpuqc9SbtJH"
+                },
+                {
+                    "artist": "Mammal Hands",
+                    "title": "Floating World",
+                    "uri": "6ya5qmDM0JdloPdq2rh6nO"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "èvia",
+                    "title": "tear hail",
+                    "uri": "7h0ljYw5P5kmi9VUciYQ61"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Allen Starr Musical Theatre",
+                    "title": "Goodnight and Thank You",
+                    "uri": "7rqhT2QPs0DEotyuVMCXWk"
+                },
+                {
+                    "artist": "Ruski53",
+                    "title": "Evian",
+                    "uri": "6CLEo9VuJjm0ARXrXxQXPS"
+                },
+                {
+                    "artist": "Evir",
+                    "title": "Time Back",
+                    "uri": "1WwYPszf0UEA6L8WgEe4Eg"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Zensery",
+                    "title": "Ferrari",
+                    "uri": "5l2Gn1XQtnab5oXSe6hray"
+                },
+                {
+                    "artist": "D-Block Europe",
+                    "title": "Ferrari Horses",
+                    "uri": "5erCwioOcRwP59NJUAtEK3"
+                },
+                {
+                    "artist": "Bonez MC",
+                    "title": "Ferrari",
+                    "uri": "6kKMCKY8rIgjgtUoAREkvL"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "TAKA",
+                    "title": "deaf",
+                    "uri": "0RFwd1ZWNSVT7LtAvenIVg"
+                },
+                {
+                    "artist": "Kasai Takara",
+                    "title": "blind wave, deaf star",
+                    "uri": "7J2i5f9XQGpLtU2wcmswJ5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "TAKA",
+                    "title": "deaf",
+                    "uri": "0RFwd1ZWNSVT7LtAvenIVg"
+                },
+                {
+                    "artist": "CARV",
+                    "title": "Takka",
+                    "uri": "2TrPT1kAJcQ3OJdm2OH926"
+                },
+                {
+                    "artist": "Trio Parada Dura",
+                    "title": "Taça de Fel - Ao Vivo",
+                    "uri": "54XRfRRtRQELJy3xX0c9ON"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Belmont",
+                    "title": "SSX Trickmont",
+                    "uri": "7w13KZUxGmrPACC4s7NFRf"
+                },
+                {
+                    "artist": "Casaoui",
+                    "title": "Belmont",
+                    "uri": "4DS2AMZMjDsAFmnTUY3SPW"
+                },
+                {
+                    "artist": "Belmont Central",
+                    "title": "Nostalgia",
+                    "uri": "5CX7Ndfp4IJT94jdKSdair"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ski Mask The Slump God",
+                    "title": "Unbothered",
+                    "uri": "5hwUsRKvnO5yThjVrxHQVt"
+                },
+                {
+                    "artist": "Ski Mask The Slump God",
+                    "title": "Nuketown (feat. Juice WRLD)",
+                    "uri": "74lnM5V6ecvoTPV0fvptx9"
+                },
+                {
+                    "artist": "DJ Scheme",
+                    "title": "E-ER (feat. Lil Yachty)",
+                    "uri": "4N7i6RfJXMWfkx9Zr6pzkJ"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Ultrafog",
+                    "title": "Lenexa",
+                    "uri": "7hrKiDnhglCVi7hA981Qep"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "dashie",
+                    "title": "ultraphunk - Super Slowed",
+                    "uri": "3bPxwh2nck6d43YPDiNWyp"
+                },
+                {
+                    "artist": "dashie",
+                    "title": "ultraphunk - Sped Up",
+                    "uri": "3G2fAX2mWueGsg0OpM8uFk"
+                },
+                {
+                    "artist": "dashie",
+                    "title": "ultraphunk",
+                    "uri": "2rCVGFo2htxWlkDwm3klAB"
+                }
+            ]
+        }
+    },
     "sophia-zhuravkova-4th-december-2022": {
         "00": {
             "s0": "",

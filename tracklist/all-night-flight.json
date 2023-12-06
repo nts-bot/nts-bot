@@ -1112,7 +1112,52 @@
     "all-night-flight-29th-april-2023": "",
     "all-night-flight-29th-november-2020": "",
     "all-night-flight-30th-january-2022": "",
-    "all-night-flight-3rd-december-2023": {},
+    "all-night-flight-3rd-december-2023": {
+        "00": {
+            "artist": "Izumi Hirakawa",
+            "title": "kawa song"
+        },
+        "01": {
+            "artist": "Namo",
+            "title": "Tsuremasukano?"
+        },
+        "02": {
+            "artist": "Erik Kramer",
+            "title": "Hermit guardian angel"
+        },
+        "03": {
+            "artist": "Philip Perkins",
+            "title": "Retreat"
+        },
+        "04": {
+            "artist": "นริศ อารีย์",
+            "title": "รักฉันนานๆ"
+        },
+        "05": {
+            "artist": "Lau Nau",
+            "title": "Painovoimaa, Valoa"
+        },
+        "06": {
+            "artist": "ジギタリス",
+            "title": "カゼノ寄ルハナノアシタ2"
+        },
+        "07": {
+            "artist": "NHK",
+            "title": "草原のルフラン"
+        },
+        "08": {
+            "artist": "Nina Harker",
+            "title": "Forthcoming ANF"
+        },
+        "09": {
+            "artist": "Secret Service",
+            "title": "Relative"
+        },
+        "10": {
+            "artist": "Un",
+            "title": "Heaven On Earth"
+        }
+    },
     "all-night-flight-4th-october-2020": {
         "00": {
             "artist": "Robert Archer",
