@@ -12281,6 +12281,238 @@
             ]
         }
     },
+    "gigi-fm-6th-december-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Adam Kroll",
+                    "title": "Liftin`",
+                    "uri": "7fmGLy0r1xB2KG657yT83H"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Adam Kroll",
+                    "title": "Liftin`",
+                    "uri": "7fmGLy0r1xB2KG657yT83H"
+                },
+                {
+                    "artist": "Sat4nix",
+                    "title": "ADAM KRONE",
+                    "uri": "4rt1FLn9bpWzKG70a6eGqW"
+                },
+                {
+                    "artist": "Omar LinX",
+                    "title": "Diamond",
+                    "uri": "2u5eqLxpUjQCxKRlNp0wW5"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Dorisburg",
+                    "title": "Skulptur 7",
+                    "uri": "0WZzhrakdwk48Q8GRf6uvM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dorisburg",
+                    "title": "Skulptur 7",
+                    "uri": "0WZzhrakdwk48Q8GRf6uvM"
+                },
+                {
+                    "artist": "Dorisburg",
+                    "title": "Skvulivurp",
+                    "uri": "234FiLJdYvSMXP49S2GvqS"
+                },
+                {
+                    "artist": "Metario",
+                    "title": "Skulptur",
+                    "uri": "2mTNJDkwgZ4J7qLFZ5j4YE"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Ben Buitendijk",
+                    "title": "Near Mint",
+                    "uri": "4OuXLMlMF0UUrCKAEqqHhw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ben Buitendijk",
+                    "title": "Near Mint",
+                    "uri": "4OuXLMlMF0UUrCKAEqqHhw"
+                },
+                {
+                    "artist": "Ben Böhmer",
+                    "title": "Beyond Beliefs",
+                    "uri": "58ney0bG2Vwecj8QzNGRkV"
+                },
+                {
+                    "artist": "Jan Blomqvist",
+                    "title": "The Space In Between - Ben Böhmer Remix",
+                    "uri": "6QcU4iwfLjjsrW7zsqyc1D"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Luigi Tozzi",
+                    "title": "Tender Is The Night",
+                    "uri": "42WjfDtnP5Ktt8GzpPAwkq"
+                },
+                {
+                    "artist": "Luigi Tozzi",
+                    "title": "Chemosynthesis - Claudio PRC Remix",
+                    "uri": "1hDJg4mrE6oCPidjgTefEb"
+                },
+                {
+                    "artist": "Luigi Tozzi",
+                    "title": "Dream Liquid",
+                    "uri": "2VS0Hn13nOE3QnhI8dECtw"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Oko Ebombo",
+                    "title": "Iro",
+                    "uri": "62q0V6SkgeM3KBLrkcNRLq"
+                },
+                {
+                    "artist": "Kijugo",
+                    "title": "Iro Kousui but is it okay if it's lofi?",
+                    "uri": "6JlPfbN7veJUuefGaT3xQm"
+                },
+                {
+                    "artist": "Miura Jam",
+                    "title": "Iro Kousui (Horimiya)",
+                    "uri": "62TTN7E1PujMl0hZQ5W6sb"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "YANT",
+                    "title": "Hot Water",
+                    "uri": "38svpo8Fjhkmu9vKjbz0xu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "YANT",
+                    "title": "Hot Water",
+                    "uri": "38svpo8Fjhkmu9vKjbz0xu"
+                },
+                {
+                    "artist": "The White Stripes",
+                    "title": "Catch Hell Blues",
+                    "uri": "064unATFKRpnOwL1Yfvp39"
+                },
+                {
+                    "artist": "Hot Water Music",
+                    "title": "Remedy",
+                    "uri": "1tGxMQrqJIKT21LzOO03aP"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bubbles",
+                    "title": "Bidibodi Bidibu",
+                    "uri": "0iED12oFeFL6IVafoCEraG"
+                },
+                {
+                    "artist": "Bedouin",
+                    "title": "Hologram",
+                    "uri": "1KhiXD8SDMXTdjaFZpYj6x"
+                },
+                {
+                    "artist": "Bob Dylan",
+                    "title": "Going, Going, Gone - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
+                    "uri": "2jaHpMuTVaEM2kFtAmkOHi"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "AIArt Startup",
+                    "title": "Loop",
+                    "uri": "6reUvkat3vayzpVWaqkSsB"
+                },
+                {
+                    "artist": "Martin Garrix",
+                    "title": "Loop",
+                    "uri": "0lqgo6rIBS0nVsvppZC3Ay"
+                },
+                {
+                    "artist": "Dole & Kom",
+                    "title": "Ophus",
+                    "uri": "3r67DjPJXeJSkFqdaWRVIT"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Morgan Flowerchild",
+                    "title": "Go Off",
+                    "uri": "51DZIGSdDqEZ30t4HceuBe"
+                },
+                {
+                    "artist": "Morgan Flowerchild",
+                    "title": "Ok",
+                    "uri": "2az3JG76fVNfeyzADW7dpD"
+                },
+                {
+                    "artist": "Takida",
+                    "title": "Flowerchild (The Beauty of Stray)",
+                    "uri": "4MHkGqjygWRcRCvMZxwK6w"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Reeko",
+                    "title": "7 Horas En El No Tiempo",
+                    "uri": "6j5hZ6hP73aJ56X6NcmlcH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Reeko",
+                    "title": "7 Horas En El No Tiempo",
+                    "uri": "6j5hZ6hP73aJ56X6NcmlcH"
+                },
+                {
+                    "artist": "Reeko",
+                    "title": "Capitulo 5 - mixed",
+                    "uri": "0DstDAOGlTHz6xn3ASMR2d"
+                },
+                {
+                    "artist": "Reeko",
+                    "title": "Segmento 6",
+                    "uri": "4P91Fxv72UybGTzu1ROQiS"
+                }
+            ]
+        }
+    },
     "gigi-fm-7th-december-2022": {
         "00": {
             "s0": "",

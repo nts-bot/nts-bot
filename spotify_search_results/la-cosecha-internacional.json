@@ -17647,6 +17647,471 @@
             ]
         }
     },
+    "la-cosecha-internacional-7th-december-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Grupo Limite",
+                    "title": "Te Aprovechas",
+                    "uri": "2gwPSweI4iehGyEkDYYxzF"
+                },
+                {
+                    "artist": "Grupo Limite",
+                    "title": "Te Aprovechas",
+                    "uri": "2cZyoL6DwmrQCn4mRFWpjf"
+                },
+                {
+                    "artist": "Grupo Limite",
+                    "title": "Te Aprovechas",
+                    "uri": "3WjWqdgr97JuTicwofbu7c"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Grupo Limite",
+                    "title": "Te Aprovechas",
+                    "uri": "2gwPSweI4iehGyEkDYYxzF"
+                },
+                {
+                    "artist": "Control Machete",
+                    "title": "Te Aprovechas Del Limite?",
+                    "uri": "374XWgPl6brJWsi19vuFfF"
+                },
+                {
+                    "artist": "RasDavó",
+                    "title": "Fyah Pon Dem",
+                    "uri": "399Sn1iYyfsb2CkumjAivN"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Ariel Camacho",
+                    "title": "Asi Fue",
+                    "uri": "4b307tAS4Weru27ynLF0m4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ariel Camacho",
+                    "title": "Asi Fue",
+                    "uri": "4b307tAS4Weru27ynLF0m4"
+                },
+                {
+                    "artist": "Ariel Camacho",
+                    "title": "Una Aventura (En Vivo 2013)",
+                    "uri": "0i66BanjffOHP2X15F5rJs"
+                },
+                {
+                    "artist": "Ariel Camacho",
+                    "title": "Cruz De Madera - En Vivo",
+                    "uri": "5EP6kdaIxdPXBfVhLYYRiL"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Peso Pluma",
+                    "title": "El Belicon",
+                    "uri": "5bU6rOWXTwagpjUcGp7I8N"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Peso Pluma",
+                    "title": "El Belicon",
+                    "uri": "5bU6rOWXTwagpjUcGp7I8N"
+                },
+                {
+                    "artist": "Ovy On The Drums",
+                    "title": "EL HECHIZO",
+                    "uri": "7sAgYFyM63XzwcjNis999T"
+                },
+                {
+                    "artist": "Los Diferentes De La Sierra",
+                    "title": "El Belicon",
+                    "uri": "2VBCIMzygSFtVvkFr4q0KX"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Banda El Recodo",
+                    "title": "Yo Sé Que Te Acordarás",
+                    "uri": "1BbZOmCRNEazPaTXylF6q7"
+                },
+                {
+                    "artist": "Banda El Recodo",
+                    "title": "Yo Sé Que Te Acordarás",
+                    "uri": "65YAu8ZJJZ7SfM3iaWDt8J"
+                },
+                {
+                    "artist": "Banda El Recodo",
+                    "title": "Yo Sé Que Te Acordarás - 80 Aniversario",
+                    "uri": "5eylNSY2PG5sCFNbIFFf57"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Banda El Recodo",
+                    "title": "Yo Sé Que Te Acordarás",
+                    "uri": "1BbZOmCRNEazPaTXylF6q7"
+                },
+                {
+                    "artist": "Banda El Recodo",
+                    "title": "Yo Sé Que Te Acordarás - 80 Aniversario",
+                    "uri": "5eylNSY2PG5sCFNbIFFf57"
+                },
+                {
+                    "artist": "Banda El Recodo",
+                    "title": "Popurrí Yo Sé Que Te Acordarás/Cada Vez Te Extraño Más/Acá Entre Nos - En Vivo",
+                    "uri": "71R5uanwZhQTHNq5D44pEK"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Valentín Elizalde",
+                    "title": "Cómo Me Duele",
+                    "uri": "38jXCpkXh5h6rfrTmNNADe"
+                },
+                {
+                    "artist": "Valentín Elizalde",
+                    "title": "Porque Te Extraño",
+                    "uri": "0k8IGtaEkdWFjqzsOQoPqr"
+                },
+                {
+                    "artist": "Lalo El Gallo Elizalde",
+                    "title": "Valente Y El Cura",
+                    "uri": "3Ci0FcaoQPUWFNaiJ6ydJ7"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lenier",
+                    "title": "Una Mujer Como Tu",
+                    "uri": "6sR9zjxeiX55zBieGiXDXn"
+                },
+                {
+                    "artist": "Banda Sinaloense Cayuco",
+                    "title": "Una Mujer Como Tu",
+                    "uri": "2T9qNZxlbaEx0gpFV43kbL"
+                },
+                {
+                    "artist": "Ahijados De La Sierra",
+                    "title": "Una Mujer Como Tú",
+                    "uri": "5X90w3hk6DzhGvkFB1yFZL"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Jessie Morales El Original De La Sierra",
+                    "title": "Noches Tenebrosas",
+                    "uri": "6CqAqXXow2LKKX7IuI2omk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jessie Morales El Original De La Sierra",
+                    "title": "Noches Tenebrosas",
+                    "uri": "6CqAqXXow2LKKX7IuI2omk"
+                },
+                {
+                    "artist": "Jessie Morales El Original De La Sierra",
+                    "title": "Homenaje a Chalino Sánchez",
+                    "uri": "2flO8DHyIwYrSxw0atALCW"
+                },
+                {
+                    "artist": "Los Conquistadores de la Sierra Jr",
+                    "title": "Noches Tenebrosas",
+                    "uri": "3D601Eyngs51sB637rrbDv"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "El Coyote Y Su Banda Tierra Santa",
+                    "title": "Arboles De La Barranca",
+                    "uri": "3Oa31DdD8vxktKoyUf7RyZ"
+                },
+                {
+                    "artist": "El Coyote Y Su Banda Tierra Santa",
+                    "title": "Arboles De La Barranca",
+                    "uri": "0zBXoD73b7ysX3nz9HbNAU"
+                },
+                {
+                    "artist": "El Coyote Y Su Banda Tierra Santa",
+                    "title": "Arboles De La Barranca",
+                    "uri": "1RBruqcOSojiG4z5zw6Jrz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "El Coyote Y Su Banda Tierra Santa",
+                    "title": "Arboles De La Barranca",
+                    "uri": "3Oa31DdD8vxktKoyUf7RyZ"
+                },
+                {
+                    "artist": "El Coyote Y Su Banda Tierra Santa",
+                    "title": "Arboles De La Barranca",
+                    "uri": "1RBruqcOSojiG4z5zw6Jrz"
+                },
+                {
+                    "artist": "El Coyote Y Su Banda Tierra Santa",
+                    "title": "Arboles De La Barranca",
+                    "uri": "38ekq0CzRqrTD5C0tGRNqi"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "El As De La Sierra",
+                    "title": "Recordando a Maria",
+                    "uri": "0DziIRFW7Pak7z8xbkRcXw"
+                },
+                {
+                    "artist": "El As De La Sierra",
+                    "title": "Recordando A Maria",
+                    "uri": "42zXtnGrmvoVktOtmjVWF8"
+                },
+                {
+                    "artist": "El As De La Sierra",
+                    "title": "Recordando A Maria",
+                    "uri": "5wf9BTtd8z0WlZ1kZ11D87"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "El As De La Sierra",
+                    "title": "Recordando a Maria",
+                    "uri": "0DziIRFW7Pak7z8xbkRcXw"
+                },
+                {
+                    "artist": "El As De La Sierra",
+                    "title": "Recordando A Maria",
+                    "uri": "5wf9BTtd8z0WlZ1kZ11D87"
+                },
+                {
+                    "artist": "El As De La Sierra",
+                    "title": "Soy De La Sierra - En Vivo",
+                    "uri": "41gzQraqB7EAfYU72tlgND"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "El As De La Sierra",
+                    "title": "Entre Perico y Perico",
+                    "uri": "36m3Gq1HHTnT9BKbSuhm0R"
+                },
+                {
+                    "artist": "El As De La Sierra",
+                    "title": "Entre Perico y Perico",
+                    "uri": "0aLG0f2Nj1MsEwXrs84yeA"
+                },
+                {
+                    "artist": "El As De La Sierra",
+                    "title": "Entre Perico y Perico",
+                    "uri": "3G6NomJcJIOeeiskpgj1jG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "El As De La Sierra",
+                    "title": "Entre Perico y Perico",
+                    "uri": "36m3Gq1HHTnT9BKbSuhm0R"
+                },
+                {
+                    "artist": "El As De La Sierra",
+                    "title": "Entre Perico y Perico",
+                    "uri": "3G6NomJcJIOeeiskpgj1jG"
+                },
+                {
+                    "artist": "El As De La Sierra",
+                    "title": "Soy De La Sierra - En Vivo",
+                    "uri": "41gzQraqB7EAfYU72tlgND"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Homero Guerrero Jr. Y Los KDT´s De Linares",
+                    "title": "El Carrito (Que Chin... A Su Ma...)",
+                    "uri": "6rkNFgXnkKUoT5KEUEGHFZ"
+                },
+                {
+                    "artist": "Homero Guerrero Jr. Y Los KDT´s De Linares",
+                    "title": "El Carrito",
+                    "uri": "4bAgIAAAi7oQJ04c5OQ3UV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bzars",
+                    "title": "El Carrito",
+                    "uri": "3IBCixXKZFxfnhy6odl39S"
+                },
+                {
+                    "artist": "Homero Guerrero Jr. Y Los KDT´s De Linares",
+                    "title": "El Carrito",
+                    "uri": "4bAgIAAAi7oQJ04c5OQ3UV"
+                },
+                {
+                    "artist": "Homero Guerrero Jr. Y Los KDT´s De Linares",
+                    "title": "El Carrito (Que Chin... A Su Ma...)",
+                    "uri": "6rkNFgXnkKUoT5KEUEGHFZ"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Grupo Marca Registrada",
+                    "title": "Y Sigues Siendo Tú",
+                    "uri": "4AGPU9325LRTIBsBSJ5v75"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Grupo Marca Registrada",
+                    "title": "Y Sigues Siendo Tú",
+                    "uri": "4AGPU9325LRTIBsBSJ5v75"
+                },
+                {
+                    "artist": "Grupo Marca Registrada",
+                    "title": "Di Que Sí",
+                    "uri": "0pliiCOWPN0IId8sXAqNJr"
+                },
+                {
+                    "artist": "Conjunto Brio Norteño",
+                    "title": "Sigues Siendo Tu",
+                    "uri": "4YZRN1JY2a5Ff4h95ybLUp"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Saul Viera El Gavilancillo",
+                    "title": "Pegandole al Polvo",
+                    "uri": "367ZVQGstpJBe6r7dqRCsR"
+                },
+                {
+                    "artist": "Saul Viera El Gavilancillo",
+                    "title": "Pegandole al Polvo",
+                    "uri": "01kwf38kyINMAnGz3FBs2r"
+                },
+                {
+                    "artist": "Saul Viera El Gavilanchillo",
+                    "title": "Pegandole Al Polvo",
+                    "uri": "7kurD7MgGxCLscsmKlVmjx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Saul Viera El Gavilancillo",
+                    "title": "Pegandole al Polvo",
+                    "uri": "367ZVQGstpJBe6r7dqRCsR"
+                },
+                {
+                    "artist": "Saul Viera El Gavilancillo",
+                    "title": "Pegandole al Polvo",
+                    "uri": "01kwf38kyINMAnGz3FBs2r"
+                },
+                {
+                    "artist": "Saul Viera El Gavilancillo",
+                    "title": "Las Tres Mujeres",
+                    "uri": "0tradelU9T6k9i0YlqTrUl"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Luis R Conriquez",
+                    "title": "El Buho",
+                    "uri": "1quaoU1wjFHLkDXC3bNghk"
+                },
+                {
+                    "artist": "Luis R Conriquez",
+                    "title": "El Buho",
+                    "uri": "20b6XSI5iFhvmis8YwszrL"
+                },
+                {
+                    "artist": "Luis R Conriquez",
+                    "title": "El buho",
+                    "uri": "5TDoU3EcbSsJl74tj0Xz9Y"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Luis R Conriquez",
+                    "title": "El Buho",
+                    "uri": "1quaoU1wjFHLkDXC3bNghk"
+                },
+                {
+                    "artist": "Luis R Conriquez",
+                    "title": "El Buho",
+                    "uri": "4G1x9QtheJZyOq8pSgjnL3"
+                },
+                {
+                    "artist": "JR Torres",
+                    "title": "El Búho",
+                    "uri": "0FumUnRbGGwWFi6pDAY19t"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Grupo Firme",
+                    "title": "Cada Vez Te Extraño Más",
+                    "uri": "70w1mwTod6NgCNV6e7ZlIQ"
+                },
+                {
+                    "artist": "Grupo Firme",
+                    "title": "Cada Vez Te Extraño Más - En Vivo",
+                    "uri": "4UZ6GstwRAdS8bnooEbWVO"
+                },
+                {
+                    "artist": "Grupo Firme",
+                    "title": "Cada Vez Te Extraño Más (En Vivo)",
+                    "uri": "2VGEH5kpYP2Hv30uXDiOW4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Grupo Firme",
+                    "title": "Cada Vez Te Extraño Más",
+                    "uri": "70w1mwTod6NgCNV6e7ZlIQ"
+                },
+                {
+                    "artist": "Grupo Firme",
+                    "title": "Cada Vez Te Extraño Más (En Vivo)",
+                    "uri": "2VGEH5kpYP2Hv30uXDiOW4"
+                },
+                {
+                    "artist": "Grupo Firme",
+                    "title": "Cada Quien",
+                    "uri": "5BE9B2FiFWBbBdoIQ1m1UP"
+                }
+            ]
+        }
+    },
     "la-cosecha-internacional-8th-december-2022": {
         "00": {
             "s0": [
