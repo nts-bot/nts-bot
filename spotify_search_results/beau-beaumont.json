@@ -1710,5 +1710,169 @@
                 }
             ]
         }
+    },
+    "beau-beaumont-9th-december-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Miracle Tones",
+                    "title": "852 Hz Reset The Mind",
+                    "uri": "2AumE30ezD7YsLg6FQl5rO"
+                },
+                {
+                    "artist": "Thomas Shine",
+                    "title": "Epic Tones",
+                    "uri": "4gY7VYLnVZfIrGOEgJM68o"
+                },
+                {
+                    "artist": "Thomas Shine",
+                    "title": "Electronic Feelings",
+                    "uri": "5JXi71ibgAHCeL246UsdNa"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Beaumont",
+                    "title": "Vampire (feat. Elle Pierre) - Clancy's Super-Noir Remix",
+                    "uri": "6HrvCfWfSPkvUNUEKwgDt4"
+                },
+                {
+                    "artist": "Guy Du Cheyron De Beaumont",
+                    "title": "Marche De Casse Noisette",
+                    "uri": "4V6sZouwbGmkTWjmv5TKR9"
+                },
+                {
+                    "artist": "Antoine Beaumont",
+                    "title": "Cahier bleu, encre noire",
+                    "uri": "601D7RE4ubFQx2lic0urQ4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Edgard Varèse",
+                    "title": "Un grand sommeil noir - Orchestral version arr. Antony Beaumont",
+                    "uri": "2kVGgLekxsI57ezWK2ENfy"
+                },
+                {
+                    "artist": "Beaumont",
+                    "title": "Vampire (feat. Elle Pierre) - Clancy's Super-Noir Remix",
+                    "uri": "6HrvCfWfSPkvUNUEKwgDt4"
+                },
+                {
+                    "artist": "Cámille",
+                    "title": "Beau",
+                    "uri": "56xQeo2Z64CwjDGLi4OGni"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mesh",
+                    "title": "You Didn't Want Me",
+                    "uri": "1vGfNUEj5EtWdLZTvIBvZY"
+                },
+                {
+                    "artist": "H.E.A.T",
+                    "title": "Living On the Run",
+                    "uri": "3Q9Xm004yp4mj8t2vso5NL"
+                },
+                {
+                    "artist": "Brook Sapphire",
+                    "title": "H.E.A.R.T - Album Edit",
+                    "uri": "7g7d4Oiiq8jVkpJq1IlIr8"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "KEPPLA",
+                    "title": "Keppla & Der Grieche Für Die",
+                    "uri": "4oTAdSlcqWENmQtcOqX4Uv"
+                },
+                {
+                    "artist": "Kepla",
+                    "title": "NOMMALE",
+                    "uri": "0f15wYmQqGIGI8jau8TfS3"
+                },
+                {
+                    "artist": "KEPPLA",
+                    "title": "Rap Freiheit",
+                    "uri": "12NQsjFWhlcdpzpQxKVYAG"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Thomas Anders",
+                    "title": "Stille Nacht - Bonus Track",
+                    "uri": "3mjCGxHOZ28k3cFWXKB0Fb"
+                },
+                {
+                    "artist": "Thomas Anders",
+                    "title": "Das Leben ist jetzt",
+                    "uri": "6w9LTlel38XnUtVsf5PRvD"
+                },
+                {
+                    "artist": "Mine",
+                    "title": "Anker - Live in Berlin",
+                    "uri": "2m3daTQxgcOABTz0pE0BTA"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Thomas Ankersmit",
+                    "title": "Perceptual Geography",
+                    "uri": "2GEUwUwo2IJtn2JHyrhDhx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Thomas Ankersmit",
+                    "title": "Perceptual Geography",
+                    "uri": "2GEUwUwo2IJtn2JHyrhDhx"
+                },
+                {
+                    "artist": "Thomas Anders",
+                    "title": "Licht ins Dunkel",
+                    "uri": "56HJGJ8jZuj4NxyZki0o4U"
+                },
+                {
+                    "artist": "Thomas Anders",
+                    "title": "Alles wird gut",
+                    "uri": "5yrc8eSlQXZ7ZUEznaQTFX"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Keola Beamer",
+                    "title": "Pauahi 'O Kalani",
+                    "uri": "5ufHGpV1ZIJftSagcT38O5"
+                },
+                {
+                    "artist": "Keola Beamer",
+                    "title": "Kawohikukapulani",
+                    "uri": "31hrfWoMpLQoJNd8P2pqfs"
+                },
+                {
+                    "artist": "Leo Overture",
+                    "title": "Magia en el Aire",
+                    "uri": "5ggGRpLvCuH936jRM5MeUA"
+                }
+            ]
+        }
     }
 }

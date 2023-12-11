@@ -6869,7 +6869,80 @@
         }
     },
     "fieldwork-10th-december-2022": "",
-    "fieldwork-11th-november-2023": {},
+    "fieldwork-11th-november-2023": {
+        "00": {
+            "artist": "Michel Redolfi",
+            "title": "Opening "
+        },
+        "01": {
+            "artist": "Oöphoi",
+            "title": "Space Forest Part 1: Distant Monastery"
+        },
+        "02": {
+            "artist": "Lotus Eaters",
+            "title": "Marijuana"
+        },
+        "03": {
+            "artist": "Labradford",
+            "title": "Everlast"
+        },
+        "04": {
+            "artist": "Läuten Der Seele",
+            "title": "Gendanken Der Mückenlarven In Der Regentonne Bei Vollmond"
+        },
+        "05": {
+            "artist": "Stars Of The Lid",
+            "title": "24 Inch Cymbal"
+        },
+        "06": {
+            "artist": "Better Corners",
+            "title": "Career Test"
+        },
+        "07": {
+            "artist": "Oöphoi",
+            "title": "The Chamber Of Dreams"
+        },
+        "08": {
+            "artist": "Guertner Schlienz",
+            "title": "Astronautenblues"
+        },
+        "09": {
+            "artist": "CoH",
+            "title": "Habitable"
+        },
+        "10": {
+            "artist": "DJ Richard",
+            "title": "Xeric Fog"
+        },
+        "11": {
+            "artist": "Wyndcrawler",
+            "title": "II: In Great Halls Ov Old Kings"
+        },
+        "12": {
+            "artist": "Only Now X Orogen",
+            "title": "Avuls I"
+        },
+        "13": {
+            "artist": "Coil",
+            "title": "I Am The Green Child"
+        },
+        "14": {
+            "artist": "Pan Sonic",
+            "title": "Kuusi Halko"
+        },
+        "15": {
+            "artist": "Nocturnal Emissions",
+            "title": "The Well Is Deep"
+        },
+        "16": {
+            "artist": "Martyna Basta",
+            "title": "Podszepnik II"
+        },
+        "17": {
+            "artist": "Painting Petals On Planet Ghost",
+            "title": "Akatsuki No Hoshi"
+        }
+    },
     "fieldwork-12th-november-2022": {
         "00": {
             "artist": "Wagner Ödegård",
@@ -8774,6 +8847,7 @@
             "title": "Alltag 4"
         }
     },
+    "fieldwork-9th-december-2023": {},
     "fieldwork-plays-oratorio-tangram-17th-may-2014": {
         "00": {
             "artist": "Tom Robinson",
