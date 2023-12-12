@@ -565,6 +565,480 @@
             ]
         }
     },
+    "aylu-11th-december-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "João Gilberto",
+                    "title": "Wave",
+                    "uri": "3JbZ8W2aFTIEP6EidBlN38"
+                },
+                {
+                    "artist": "Jecito",
+                    "title": "Wave",
+                    "uri": "6qvanNEysFVbN8RzQGOXKn"
+                },
+                {
+                    "artist": "Sloucky",
+                    "title": "Wave",
+                    "uri": "3dn9h0Tvy8tHcxWTr2fYpC"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Juan Falú",
+                    "title": "Ayer es Siempre",
+                    "uri": "4cRBuOYLquV3OlawBtGyqS"
+                },
+                {
+                    "artist": "Juan Falú",
+                    "title": "Ayer Es Siempre - En Vivo",
+                    "uri": "6QpfFcE42r77cKWJpwY3yi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Juan Falú",
+                    "title": "Ayer es Siempre",
+                    "uri": "4cRBuOYLquV3OlawBtGyqS"
+                },
+                {
+                    "artist": "Juan Falú",
+                    "title": "Zamba de Argamonte - En Vivo",
+                    "uri": "29jDQZSIzSyvz4dDbvwIEu"
+                },
+                {
+                    "artist": "Julián Fueyo",
+                    "title": "Faun’s Riddle (Acertijo del Fauno)",
+                    "uri": "2aKZ0gsXIAo8WkAn7w8Wp4"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Charly García",
+                    "title": "Operación Densa",
+                    "uri": "0LQGGfdXLCgDSRzEWiDTwW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Charly García",
+                    "title": "Operación Densa",
+                    "uri": "0LQGGfdXLCgDSRzEWiDTwW"
+                },
+                {
+                    "artist": "Charly García",
+                    "title": "Promesas Sobre El Bidet",
+                    "uri": "2MXqrO1RBfek6RoijghYYp"
+                },
+                {
+                    "artist": "Charly García",
+                    "title": "Hablando a Tu Corazón",
+                    "uri": "3k9dGCm2R2Y70e87aMHYC3"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rodolfo Arízaga",
+                    "title": "Serranillas del Jaque, Op. 17, para Piano: I. Medinica",
+                    "uri": "707GTUwNadDIowCTokVynN"
+                },
+                {
+                    "artist": "Inma Serrano",
+                    "title": "Cantos de sirena",
+                    "uri": "2iThesJ3Dx0U0kwUWD5YAK"
+                },
+                {
+                    "artist": "Grupo Arriesgado",
+                    "title": "Inés Calderón (En Vivo)",
+                    "uri": "7jCdcu6jU4NigzEpBdGQCm"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Álvaro Peña",
+                    "title": "Lost for Words - 1997 Remaster",
+                    "uri": "0VKdudtZAeTnkvhWBOQa4w"
+                },
+                {
+                    "artist": "Álvaro Peña",
+                    "title": "Lost for Words - 2020 Digital Master",
+                    "uri": "2TdSIQa1Z9txKFiW9CwKEz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Álvaro Peña",
+                    "title": "Lost for Words - 1997 Remaster",
+                    "uri": "0VKdudtZAeTnkvhWBOQa4w"
+                },
+                {
+                    "artist": "Álvaro Peña",
+                    "title": "Lost for Words - 2020 Digital Master",
+                    "uri": "2TdSIQa1Z9txKFiW9CwKEz"
+                },
+                {
+                    "artist": "Alvaro Soler",
+                    "title": "La Cintura",
+                    "uri": "6VUJQqyeQhAZHkQbSDqLtI"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bonnie Raitt",
+                    "title": "Angel from Montgomery - 2008 Remaster",
+                    "uri": "6JssQFiBCi6ZcE6060S9A7"
+                },
+                {
+                    "artist": "Eduardo Wilde",
+                    "title": "Bok-Mair, para Saxo y Marimba",
+                    "uri": "6qvxl1uWngA4swzecQQikg"
+                },
+                {
+                    "artist": "Good Musical Art",
+                    "title": "Marimba",
+                    "uri": "1Almx6aEk0CHY9r5Oknmq7"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Toccata and Fugue in D minor",
+                    "uri": "0BWJNm4TrO6H3qgiCmDBjM"
+                },
+                {
+                    "artist": "Inti-Illimani",
+                    "title": "El Canto de Todos - Bonus Track",
+                    "uri": "2UTskfGvRLtIMTnqu9iuPr"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Toccata and Fugue in D Minor, BWV 565",
+                    "uri": "61JrLdVyiMy8nPg63DlENb"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Mario Mendoza",
+                    "title": "Toque Abrapampeño",
+                    "uri": "254bvIg8kO3Vdy9d0R1Lma"
+                },
+                {
+                    "artist": "Mario Mendoza",
+                    "title": "Argentina: Toque Abrapampeño",
+                    "uri": "0VESoRZGgFqrSpwJVOWH6b"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mario Mendoza",
+                    "title": "Toque Abrapampeño",
+                    "uri": "254bvIg8kO3Vdy9d0R1Lma"
+                },
+                {
+                    "artist": "Mario Mendoza",
+                    "title": "Argentina: Toque Abrapampeño",
+                    "uri": "0VESoRZGgFqrSpwJVOWH6b"
+                },
+                {
+                    "artist": "Mario Mendoza",
+                    "title": "Triste Peregrino",
+                    "uri": "4UabuSOUlcd9dtIVUosVkX"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Eduardo Mateo",
+                    "title": "Cuatro Viajes - En Vivo",
+                    "uri": "2I4INPEQ8OcuT8v0uOFCBc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eduardo Mateo",
+                    "title": "Cuatro Viajes - En Vivo",
+                    "uri": "2I4INPEQ8OcuT8v0uOFCBc"
+                },
+                {
+                    "artist": "Mateo",
+                    "title": "Isso",
+                    "uri": "4fpvBxAI89HfXnKDR2N6tH"
+                },
+                {
+                    "artist": "Mateo",
+                    "title": "Vivid",
+                    "uri": "7w2ELL2TtaS4iVPL5SvjEC"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Carola Bony",
+                    "title": "Sin Título",
+                    "uri": "57ZDprfqjVpyVXYKqYI5c7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Carola Bony",
+                    "title": "Sin Título",
+                    "uri": "57ZDprfqjVpyVXYKqYI5c7"
+                },
+                {
+                    "artist": "Carola Holzner",
+                    "title": "Ich werde nicht bleiben, Teil 4",
+                    "uri": "67bMbmgovb9DEysH7vGo6x"
+                },
+                {
+                    "artist": "Carola Holzner",
+                    "title": "Ich werde nicht bleiben, Teil 1",
+                    "uri": "0wzDcnOuL2O97QD5vcZ0t3"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Carola Bony",
+                    "title": "Luces",
+                    "uri": "7GhRervyOEavLjAOq9fawU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Carola Bony",
+                    "title": "Luces",
+                    "uri": "7GhRervyOEavLjAOq9fawU"
+                },
+                {
+                    "artist": "Carola",
+                    "title": "Nu tändas tusen juleljus",
+                    "uri": "08D5bPhVLw01WdNchYxsqg"
+                },
+                {
+                    "artist": "Olaf Schubert",
+                    "title": "Von Carola nach Pamela",
+                    "uri": "5nOwVvtyA2L9GN5YcKMaeb"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Lavina Yelb",
+                    "title": "Esto Hágase",
+                    "uri": "2cGhiqUD0BDBEpyaYs0Zu4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lavina Yelb",
+                    "title": "Esto Hágase",
+                    "uri": "2cGhiqUD0BDBEpyaYs0Zu4"
+                },
+                {
+                    "artist": "Lavinia Negrete",
+                    "title": "Qué Fácil Es",
+                    "uri": "1nbZNu96xFA1lEnYHciKZw"
+                },
+                {
+                    "artist": "Lavinia Negrete",
+                    "title": "Parará",
+                    "uri": "13nY5KLVBzXamyVp28ZL1f"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Aylu",
+                    "title": "Miau",
+                    "uri": "6kEIRclfzZfraQY9Cn3F01"
+                },
+                {
+                    "artist": "Ayli",
+                    "title": "Burn",
+                    "uri": "3SHIslo5MV55KJ2M930nSF"
+                },
+                {
+                    "artist": "Estiva",
+                    "title": "Aylu - Extended Mix",
+                    "uri": "1xFLyp20T3ZPadi1Ml82n3"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Juan Manuel Carreon",
+                    "title": "Bendice a mi Señor - 2023 Versión remasterizada",
+                    "uri": "4AtRWncMR6K9iTjdwLXlgN"
+                },
+                {
+                    "artist": "Juan Manuel Felix",
+                    "title": "RUBICON",
+                    "uri": "3wp4U0bgZOzIWgJQPrTgSv"
+                },
+                {
+                    "artist": "Juan Manuel Carreon",
+                    "title": "Levantemos la voz - 2023 Versión remasterizada",
+                    "uri": "0jDrIVXoGcbu75ALEUegMW"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Nicolas Jaar",
+                    "title": "Gocce",
+                    "uri": "1SlijYHZriHRqmxta23VYo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nicolas Jaar",
+                    "title": "Gocce",
+                    "uri": "1SlijYHZriHRqmxta23VYo"
+                },
+                {
+                    "artist": "Nicolas Jaar",
+                    "title": "Mi Mujer",
+                    "uri": "4QHKR48C18rwlpSYW6rH7p"
+                },
+                {
+                    "artist": "AJR",
+                    "title": "Weak - Nicolas Julian Remix",
+                    "uri": "6pN9NiJ816dbL3OKeAke0w"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Fernando Gelbard",
+                    "title": "Havana Nights",
+                    "uri": "263VdreftO9DGJr93HYYpZ"
+                },
+                {
+                    "artist": "Fernando Gelbard",
+                    "title": "Havana Nights",
+                    "uri": "1rxYy9Xxh2pqRkVYvKlal2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fernando Gelbard",
+                    "title": "Havana Nights",
+                    "uri": "263VdreftO9DGJr93HYYpZ"
+                },
+                {
+                    "artist": "Fernando Gelbard",
+                    "title": "Havana Nights",
+                    "uri": "1rxYy9Xxh2pqRkVYvKlal2"
+                },
+                {
+                    "artist": "Fernando Gallegos",
+                    "title": "I Worship You",
+                    "uri": "21TIMLLPVEDsgvAhgqZo8A"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Anticueca 4",
+                    "uri": "7mIxvhyMM5hXmkEcDGtp9d"
+                },
+                {
+                    "artist": "Violeta Parra",
+                    "title": "5 Anticuecas: Anticueca No. 4",
+                    "uri": "2okpDrnXinzQrIlC5p7lHP"
+                },
+                {
+                    "artist": "Violeta Parra",
+                    "title": "anticueca, no. 4",
+                    "uri": "3wbaqRXZaKgybkheNOheEH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Anticueca 4",
+                    "uri": "7mIxvhyMM5hXmkEcDGtp9d"
+                },
+                {
+                    "artist": "Violeta Parra",
+                    "title": "Gracias a la Vida",
+                    "uri": "5U7MyRNbuZrWkyAI4bm3Ja"
+                },
+                {
+                    "artist": "Cecilia Zabala",
+                    "title": "Anticueca Nº4",
+                    "uri": "4wComFzKHKNPBD7inGhp1T"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Simón Díaz",
+                    "title": "Sabana",
+                    "uri": "5n6rOmYu6TLUQFGKLv86uu"
+                },
+                {
+                    "artist": "Simón Díaz",
+                    "title": "Sabana",
+                    "uri": "7ao2myfddzUW1E9anEiAXO"
+                },
+                {
+                    "artist": "Simón Díaz",
+                    "title": "Sabana",
+                    "uri": "4c8b3VEJfdA7vZY3aOFTIQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Simón Díaz",
+                    "title": "Sabana",
+                    "uri": "5n6rOmYu6TLUQFGKLv86uu"
+                },
+                {
+                    "artist": "Simón Díaz",
+                    "title": "Sabana",
+                    "uri": "7ao2myfddzUW1E9anEiAXO"
+                },
+                {
+                    "artist": "Simón Díaz",
+                    "title": "Sabana",
+                    "uri": "2WsEmDZaRJVZTSSbeyvfBG"
+                }
+            ]
+        }
+    },
     "aylu-13th-november-2023": {
         "00": {
             "s0": [

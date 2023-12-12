@@ -1,4 +1,722 @@
 {
+    "clairo-11th-december-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "François de Roubaix",
+                    "title": "Valérie, Ilona Et Stefaan",
+                    "uri": "1ruQuemWf4r00FIrVDa7x5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "François de Roubaix",
+                    "title": "Valérie, Ilona Et Stefaan",
+                    "uri": "1ruQuemWf4r00FIrVDa7x5"
+                },
+                {
+                    "artist": "François de Roubaix",
+                    "title": "Valérie - Bande originale du film \"Le samouraï\"",
+                    "uri": "0kGF7XcBcBfYXBWDdL0e9r"
+                },
+                {
+                    "artist": "François de Roubaix",
+                    "title": "Ilona's Jazz",
+                    "uri": "6dgBafbVy91gRZS1JzGMFD"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Onuma Singsiri",
+                    "title": "Mae Kah Som Tam",
+                    "uri": "5JpbJ08db8r4eUTTw8Saey"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Onuma Singsiri",
+                    "title": "Mae Kah Som Tam",
+                    "uri": "5JpbJ08db8r4eUTTw8Saey"
+                },
+                {
+                    "artist": "Onuma Singsiri",
+                    "title": "Lam Plearn Toe Lhong Tong",
+                    "uri": "0pnIQ8IXewjxgARMHwmf80"
+                },
+                {
+                    "artist": "Oneness Sound",
+                    "title": "Ma",
+                    "uri": "43FhwdfPsaC1F8Rzp8Hv6C"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "DJ Premier",
+                    "title": "HAYE (Instrumental)",
+                    "uri": "4084YEG8QDO2xqDwrYQV4q"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "DJ Premier",
+                    "title": "HAYE (Instrumental)",
+                    "uri": "4084YEG8QDO2xqDwrYQV4q"
+                },
+                {
+                    "artist": "DJ Premier",
+                    "title": "In Moe (Instrumental)",
+                    "uri": "42WUhno3F81FUF3eQf0DzF"
+                },
+                {
+                    "artist": "DJ Premier",
+                    "title": "Dadaa",
+                    "uri": "7MeJlX8kSiIMwiZkNnOBeM"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Henri Salvador",
+                    "title": "Thème du bateau",
+                    "uri": "6MQSLRUxYOfiidry9EA5Iz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Henri Salvador",
+                    "title": "Thème du bateau",
+                    "uri": "6MQSLRUxYOfiidry9EA5Iz"
+                },
+                {
+                    "artist": "Henri Salvador",
+                    "title": "Jardin d'hiver",
+                    "uri": "7gHRVNiuL66Z6fE6DwZaFT"
+                },
+                {
+                    "artist": "Henri Salvador",
+                    "title": "Jazz Méditerranée",
+                    "uri": "2yHTFqjyTh32XPddASX3sV"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Dorothy Ashby",
+                    "title": "Jollity",
+                    "uri": "1kqn2Bi901n6MqtQd7iN2z"
+                },
+                {
+                    "artist": "Dorothy Ashby",
+                    "title": "Jollity",
+                    "uri": "3MWLBcqGAjx6zWI809Y2fu"
+                },
+                {
+                    "artist": "Dorothy Ashby",
+                    "title": "Jollity",
+                    "uri": "7oHsXUAlXjQjQFW1Nc5xZY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dorothy Ashby",
+                    "title": "Jollity",
+                    "uri": "1kqn2Bi901n6MqtQd7iN2z"
+                },
+                {
+                    "artist": "Dorothy Ashby",
+                    "title": "Jollity",
+                    "uri": "3MWLBcqGAjx6zWI809Y2fu"
+                },
+                {
+                    "artist": "Dorothy Ashby",
+                    "title": "Come Live With Me",
+                    "uri": "3YT2vdLbvfcjfCiNR4DsKT"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Galt MacDermot",
+                    "title": "Coffee Cold",
+                    "uri": "6MN6yRVriszuyAVlyF8ndB"
+                },
+                {
+                    "artist": "Galt MacDermot",
+                    "title": "Coffee Cold (with Fergus MacRoy)",
+                    "uri": "2M2iIbsxtyytvkt7Ay9vQQ"
+                },
+                {
+                    "artist": "Galt MacDermot",
+                    "title": "Coffee Cold",
+                    "uri": "228Yhx9kmU4TJh0t254Ywp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Galt MacDermot",
+                    "title": "Coffee Cold",
+                    "uri": "6MN6yRVriszuyAVlyF8ndB"
+                },
+                {
+                    "artist": "Galt MacDermot",
+                    "title": "Coffee Cold",
+                    "uri": "228Yhx9kmU4TJh0t254Ywp"
+                },
+                {
+                    "artist": "Galt MacDermot",
+                    "title": "Coffee Cold (with Fergus MacRoy)",
+                    "uri": "2M2iIbsxtyytvkt7Ay9vQQ"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "The Rising Storm",
+                    "title": "Frozen Laughter",
+                    "uri": "1BkwkQBzNq39KOA5E3mz4m"
+                },
+                {
+                    "artist": "The Rising Storm",
+                    "title": "Frozen Laughter",
+                    "uri": "4MY8oYBzHh8e0RnBOTYTQq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Rising Storm",
+                    "title": "Frozen Laughter",
+                    "uri": "1BkwkQBzNq39KOA5E3mz4m"
+                },
+                {
+                    "artist": "The Rising Storm",
+                    "title": "Frozen Laughter",
+                    "uri": "4MY8oYBzHh8e0RnBOTYTQq"
+                },
+                {
+                    "artist": "Bruce Springsteen",
+                    "title": "The Rising",
+                    "uri": "2czBvzOv3TvnyoW7Ozo7fP"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Dave Bixby",
+                    "title": "Peace",
+                    "uri": "0kdwuyyahvM5I9wjmU5kcw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dave Bixby",
+                    "title": "Peace",
+                    "uri": "0kdwuyyahvM5I9wjmU5kcw"
+                },
+                {
+                    "artist": "Dave Bixby",
+                    "title": "Morning Sun",
+                    "uri": "023CB6Y3xpBdvRWbMFH0mw"
+                },
+                {
+                    "artist": "Dave Bixby",
+                    "title": "666",
+                    "uri": "5GBrQSni0HOmV64RX8S7lL"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Al-Bara'em",
+                    "title": "Tha'er",
+                    "uri": "5Qh4ZFhFUrlC98WnzbwPkY"
+                },
+                {
+                    "artist": "Al-Bara'em",
+                    "title": "Tha'er",
+                    "uri": "2Lgs4LHvZ2tHEIOYtdOQO4"
+                },
+                {
+                    "artist": "Mashary Rashid Al-Afassy",
+                    "title": "Albaqarah",
+                    "uri": "6c6JV2KnVB2Dv9248KwN1d"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Shelby Lynne",
+                    "title": "Why Don't You Call Me",
+                    "uri": "2DV1d85cvDbMNsIXCL5KnS"
+                },
+                {
+                    "artist": "Current Joys",
+                    "title": "Why Don't You Cry",
+                    "uri": "3cIPQfRZ8EtCGdGkuOF1Z4"
+                },
+                {
+                    "artist": "Father",
+                    "title": "Why Don't U",
+                    "uri": "3jnCjSOAMMenUu0ZDEZbIi"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Wool",
+                    "title": "If They Left Us Alone Now",
+                    "uri": "0dtSW2OzLxnZBUDlCLiTp9"
+                },
+                {
+                    "artist": "Wool",
+                    "title": "If They Left Us Alone Now",
+                    "uri": "4zISkp38mn5ik41DPk7sBb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Wool",
+                    "title": "If They Left Us Alone Now",
+                    "uri": "0dtSW2OzLxnZBUDlCLiTp9"
+                },
+                {
+                    "artist": "Wool",
+                    "title": "If They Left Us Alone Now",
+                    "uri": "4zISkp38mn5ik41DPk7sBb"
+                },
+                {
+                    "artist": "Nema",
+                    "title": "Wool",
+                    "uri": "0m0smMHAUlSsKGRt5Pa1bi"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "The Mad Lads",
+                    "title": "Nothing Can Break Through",
+                    "uri": "6M28EU4zKEk6ArA4s0SjuS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Mad Lads",
+                    "title": "Nothing Can Break Through",
+                    "uri": "6M28EU4zKEk6ArA4s0SjuS"
+                },
+                {
+                    "artist": "Hermoney",
+                    "title": "Madlæds 2024",
+                    "uri": "72h3MPbObr9j5f78bFBhPH"
+                },
+                {
+                    "artist": "What",
+                    "title": "Madlæds",
+                    "uri": "1b18THJHctblWAhzwPn183"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Marlina Mars",
+                    "title": "Inside I've Died",
+                    "uri": "0dvZXiVl2fQpIhOPBCB1jA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Marlina Mars",
+                    "title": "Inside I've Died",
+                    "uri": "0dvZXiVl2fQpIhOPBCB1jA"
+                },
+                {
+                    "artist": "Marlena Martinelli",
+                    "title": "Du hast mich nicht verdient - Duett mit den Grafen",
+                    "uri": "4nupIsJWs99jfEsyrUDIjc"
+                },
+                {
+                    "artist": "Marlin's Dreaming",
+                    "title": "Mixed Up and Confused",
+                    "uri": "1bFgm9PdCQeKsEpqOWn1II"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Spirit",
+                    "title": "The Other Song",
+                    "uri": "0Xh5h7NT92FHhONKypTeKd"
+                },
+                {
+                    "artist": "Spirit",
+                    "title": "The Other Song",
+                    "uri": "5iNEYMqtohpjQMWVRYkkNt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Spirit",
+                    "title": "The Other Song",
+                    "uri": "0Xh5h7NT92FHhONKypTeKd"
+                },
+                {
+                    "artist": "Spirit",
+                    "title": "The Other Song",
+                    "uri": "5iNEYMqtohpjQMWVRYkkNt"
+                },
+                {
+                    "artist": "Spirit",
+                    "title": "Neue Freunde - Intro",
+                    "uri": "1T5znPYHFJxuHDxi2wNiGW"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "The Lost Generation",
+                    "title": "The Sly, Slick & The Wicked",
+                    "uri": "68pKYkH6J2bnD3DTFzMrwV"
+                },
+                {
+                    "artist": "The Lost Generation",
+                    "title": "The Sly, Slick And The Wicked",
+                    "uri": "0dUSKWj7t99VJeAAY4f26n"
+                },
+                {
+                    "artist": "The Lost Generation",
+                    "title": "The Sly, Slick & The Wicked",
+                    "uri": "2IKI9AJSfHfarD3P5SJttC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Lost Generation",
+                    "title": "The Sly, Slick And The Wicked",
+                    "uri": "0dUSKWj7t99VJeAAY4f26n"
+                },
+                {
+                    "artist": "The Lost Generation",
+                    "title": "Didn't I Blow Your Mind",
+                    "uri": "7ryUmSYufdbnAh3bK5W01W"
+                },
+                {
+                    "artist": "The Lost Generation",
+                    "title": "This Is The Lost Generation",
+                    "uri": "2kLALLtckvLqjGD50PGNNy"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Metronomy",
+                    "title": "Reservoir",
+                    "uri": "2zZW0SmKlZEoiDJwssNZqA"
+                },
+                {
+                    "artist": "Blue Sunset Airship",
+                    "title": "Water Reservoir",
+                    "uri": "3qekBmf0vB4uzxH6UHZA85"
+                },
+                {
+                    "artist": "Augie March",
+                    "title": "Maroondah Reservoir",
+                    "uri": "0vNE4lFPN89z9mDRpzQu9u"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Bo Diddley",
+                    "title": "Our Love Will Never Go",
+                    "uri": "15wbuzzUSRwr3Vne6X4TK7"
+                },
+                {
+                    "artist": "Bo Diddley",
+                    "title": "Our Love Will Never Go",
+                    "uri": "5YciRqz64mcMhkJcrV0XP4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bo Diddley",
+                    "title": "Our Love Will Never Go",
+                    "uri": "15wbuzzUSRwr3Vne6X4TK7"
+                },
+                {
+                    "artist": "Bo Diddley",
+                    "title": "Our Love Will Never Go",
+                    "uri": "5YciRqz64mcMhkJcrV0XP4"
+                },
+                {
+                    "artist": "Bo Diddley",
+                    "title": "You Can't Judge A Book By Its Cover",
+                    "uri": "4HEmPMRG1Mz4pYEpYbWTO0"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Gilberto Cruz",
+                    "title": "Baby Baby",
+                    "uri": "3LpTfnypt4nZn9IJG2Nr26"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gilberto Cruz",
+                    "title": "Baby Baby",
+                    "uri": "3LpTfnypt4nZn9IJG2Nr26"
+                },
+                {
+                    "artist": "Tito Nieves",
+                    "title": "Soy",
+                    "uri": "45tE8X8kZn7OXT0gqF8oUC"
+                },
+                {
+                    "artist": "Gilberto Santa Rosa",
+                    "title": "Conciencia",
+                    "uri": "5bccusEjEtnC5cDfWXQ8rf"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Los York's",
+                    "title": "Te Amo",
+                    "uri": "7JVGxpbpHBfLDhymhd94iN"
+                },
+                {
+                    "artist": "Los York's",
+                    "title": "Te Amo",
+                    "uri": "6sJPgtgnfYvAZ36yET3YbE"
+                },
+                {
+                    "artist": "Los York's",
+                    "title": "Te Amo",
+                    "uri": "4s0EkZ7PE19GsxhSEGZuoU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Los York's",
+                    "title": "Te Amo",
+                    "uri": "6sJPgtgnfYvAZ36yET3YbE"
+                },
+                {
+                    "artist": "Federico Moreno Torroba",
+                    "title": "Moreno-Torroba: Maravilla, Act 3: \"Amor, vida de mi vida\" (Live)",
+                    "uri": "7gZPKmzmHVHtNQ8qspKzc6"
+                },
+                {
+                    "artist": "Los Yorkles",
+                    "title": "Julia / María Dolores",
+                    "uri": "2J61IprX332wNMFNMqwhWe"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Johnny Sayles",
+                    "title": "Never Let Me Go",
+                    "uri": "5gSK9Juq1qT6teuWsMMlau"
+                },
+                {
+                    "artist": "Johnny Sayles",
+                    "title": "Never Let Me Go",
+                    "uri": "2ygkoXTrK8XYzfwXZAFj2x"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Johnny Sayles",
+                    "title": "Never Let Me Go",
+                    "uri": "5gSK9Juq1qT6teuWsMMlau"
+                },
+                {
+                    "artist": "Johnny Sayles",
+                    "title": "Never Let Me Go",
+                    "uri": "2ygkoXTrK8XYzfwXZAFj2x"
+                },
+                {
+                    "artist": "Florence + The Machine",
+                    "title": "Never Let Me Go",
+                    "uri": "3HNTLCpAGnizbyJmk7466r"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "AL MATI",
+                    "title": "Barbara",
+                    "uri": "1eCFNVrbL5r1jC2H6E7U6N"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Wolfgang Amadeus Mozart",
+                    "title": "Symphony No. 25 in G Minor, K. 183: I. Allegro con brio",
+                    "uri": "64ta7ZvTJeThz7Ns4LmAHS"
+                },
+                {
+                    "artist": "Barbara Bobak",
+                    "title": "Barbarizam",
+                    "uri": "5GLMjIiPivDV4WjNUdudpU"
+                },
+                {
+                    "artist": "George Frideric Handel",
+                    "title": "Organ Concerto No. 14 in A HWV 296: 2. Allegro",
+                    "uri": "77r1yLYsre1ooaXmnuQgQt"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Najat Al Saghira",
+                    "title": "Bahlam Maak",
+                    "uri": "2nCZs15rSShxeRBzBp6eLO"
+                },
+                {
+                    "artist": "Najat Al Saghira",
+                    "title": "Ana Bashaa El Bahr",
+                    "uri": "55HS624LYOCR3QwOUxWbMJ"
+                },
+                {
+                    "artist": "Najat Al Saghira",
+                    "title": "Oyon El Alb Live Record",
+                    "uri": "6UkneNSMIdiwUEaSVfcYVd"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Jackie Davis",
+                    "title": "Sleepy Time Gal",
+                    "uri": "4dhTlayJwPUljdcr1ohVMT"
+                },
+                {
+                    "artist": "Jackie Davis",
+                    "title": "Sleepy Time Gal",
+                    "uri": "6GbHw0PwfCIQBDZVsNOOQm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jackie Davis",
+                    "title": "Sleepy Time Gal",
+                    "uri": "4dhTlayJwPUljdcr1ohVMT"
+                },
+                {
+                    "artist": "Jackie Davis",
+                    "title": "Sleepy Time Gal",
+                    "uri": "6GbHw0PwfCIQBDZVsNOOQm"
+                },
+                {
+                    "artist": "Jackie DeShannon",
+                    "title": "What The World Needs Now Is Love",
+                    "uri": "1fjOO2k5k2vjg6TrvPJ2NS"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "The Matadors",
+                    "title": "Let Me Dream",
+                    "uri": "4h5Nlt3ML1UZlshPl4F8qm"
+                },
+                {
+                    "artist": "The Matadors",
+                    "title": "Let Me Dream",
+                    "uri": "7re8lSQAXWizrr8EFTBVEM"
+                },
+                {
+                    "artist": "The Matadors",
+                    "title": "Let Me Dream",
+                    "uri": "7FXzZFXsJm4qG4RTQHAlRo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Matadors",
+                    "title": "Let Me Dream",
+                    "uri": "4h5Nlt3ML1UZlshPl4F8qm"
+                },
+                {
+                    "artist": "The Matadors",
+                    "title": "Let Me Dream",
+                    "uri": "7re8lSQAXWizrr8EFTBVEM"
+                },
+                {
+                    "artist": "ARXMANE",
+                    "title": "Matador De Dragão",
+                    "uri": "3xxb7JTqrnyXbJ59tmw5fK"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "Margo Guryan",
+                    "title": "Love Songs",
+                    "uri": "0a0fpDb4YxizLjDEHBDTEN"
+                },
+                {
+                    "artist": "Margo Guryan",
+                    "title": "Love Songs",
+                    "uri": "5hjeLade2J4jMKIrPdqWic"
+                },
+                {
+                    "artist": "Margo Guryan",
+                    "title": "Love Songs",
+                    "uri": "6SdWEzX5FGiRe9yfSVfmtZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Margo Guryan",
+                    "title": "Love Songs",
+                    "uri": "0a0fpDb4YxizLjDEHBDTEN"
+                },
+                {
+                    "artist": "Margo Guryan",
+                    "title": "Love Songs",
+                    "uri": "6SdWEzX5FGiRe9yfSVfmtZ"
+                },
+                {
+                    "artist": "Margo Guryan",
+                    "title": "Why Do I Cry",
+                    "uri": "753pG7rn5FcFcjcn3pot4Z"
+                }
+            ]
+        }
+    },
     "clairo-12th-july-2023": {
         "00": {
             "s0": [

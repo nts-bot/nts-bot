@@ -2782,6 +2782,664 @@
             ]
         }
     },
+    "doing-time-10th-december-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Gloria de Oliveira",
+                    "title": "Eyes Within",
+                    "uri": "1ARrnNPKs6uEtJMtRJWcW4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gloria de Oliveira",
+                    "title": "Eyes Within",
+                    "uri": "1ARrnNPKs6uEtJMtRJWcW4"
+                },
+                {
+                    "artist": "Billy Idol",
+                    "title": "Eyes Without A Face",
+                    "uri": "0pUVeEgZuNyFzIMKp67RbS"
+                },
+                {
+                    "artist": "George Frideric Handel",
+                    "title": "Gloria in Excelsis Deo",
+                    "uri": "46jGf4dkpmFT2Rd6qTsW2H"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Tones On Tail",
+                    "title": "Rain",
+                    "uri": "1ZxhKPG7sMt281ylVxMsAF"
+                },
+                {
+                    "artist": "Tones On Tail",
+                    "title": "Rain",
+                    "uri": "3qHVAPJF4Iu0D7h2XxK7gW"
+                },
+                {
+                    "artist": "Tones On Tail",
+                    "title": "Rain",
+                    "uri": "3oL6ztcvhyWGIxJ1xFLmwp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tones On Tail",
+                    "title": "Rain",
+                    "uri": "1ZxhKPG7sMt281ylVxMsAF"
+                },
+                {
+                    "artist": "Tones On Tail",
+                    "title": "Rain",
+                    "uri": "3qHVAPJF4Iu0D7h2XxK7gW"
+                },
+                {
+                    "artist": "Tones And I",
+                    "title": "Never Seen the Rain",
+                    "uri": "5zLnA9bO6QXc4AAvCriJfO"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Peter Barclay",
+                    "title": "Second Class Citizen",
+                    "uri": "2fTw1CVnMmu1bl08f9Upmv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Peter Barclay",
+                    "title": "Second Class Citizen",
+                    "uri": "2fTw1CVnMmu1bl08f9Upmv"
+                },
+                {
+                    "artist": "Peter Bark",
+                    "title": "Waterworld",
+                    "uri": "0qsGGur1FFdsz8flq5L8uL"
+                },
+                {
+                    "artist": "Peter Bark",
+                    "title": "Breakfast For Dinner",
+                    "uri": "5dc1N9AduPhaxLKF4HGmeg"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "POiSON GiRL FRiEND",
+                    "title": "Love Is...",
+                    "uri": "4Jd2s1J5pH9UczaXeimx4M"
+                },
+                {
+                    "artist": "POiSON GiRL FRiEND",
+                    "title": "Love Is...",
+                    "uri": "7wFVBYwwVBzq2ompf5dVjd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "POiSON GiRL FRiEND",
+                    "title": "Love Is...",
+                    "uri": "4Jd2s1J5pH9UczaXeimx4M"
+                },
+                {
+                    "artist": "POiSON GiRL FRiEND",
+                    "title": "Love Is...",
+                    "uri": "7wFVBYwwVBzq2ompf5dVjd"
+                },
+                {
+                    "artist": "DJ Gollum",
+                    "title": "Poison - DJ THT & Ced Tecknoboy Radio Edit",
+                    "uri": "5YUGYQP1stkhjWIxmLvcgf"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Agathe & Regrets",
+                    "title": "Digamelo",
+                    "uri": "4qfDeBA8driEIkEKIvHeCa"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Agathe & Regrets",
+                    "title": "Digamelo",
+                    "uri": "4qfDeBA8driEIkEKIvHeCa"
+                },
+                {
+                    "artist": "Agathe & Regrets",
+                    "title": "Je ne veux pas rentrer chez moi seule - Version originale 1983",
+                    "uri": "0AHl1aiojWROL8wQBJnD25"
+                },
+                {
+                    "artist": "Duppy Tales",
+                    "title": "Agate",
+                    "uri": "3N94MdtNZn3TtGIbCHOK4m"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "The Reels",
+                    "title": "Cry",
+                    "uri": "2phmVO1yIzf8yrTGpWFt91"
+                },
+                {
+                    "artist": "The Disco Biscuits",
+                    "title": "Crystal Ball (Live)",
+                    "uri": "0aFm3rzFz8XZdlm7KtFBnm"
+                },
+                {
+                    "artist": "The Disco Biscuits",
+                    "title": "Crystal Ball (Live)",
+                    "uri": "3vPbL4uXDi5jpUfNrOANjQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Reels",
+                    "title": "Cry",
+                    "uri": "2phmVO1yIzf8yrTGpWFt91"
+                },
+                {
+                    "artist": "Crystal Waters",
+                    "title": "I Am House - Kidzblock Extended Mix",
+                    "uri": "5tEVMOl4XywRI4iS4c0ihy"
+                },
+                {
+                    "artist": "Bruce Springsteen",
+                    "title": "Glory Days",
+                    "uri": "2Y90nL1ohB4sgYELDs7uNx"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Dawn to Dawn",
+                    "title": "A Colour Named by You",
+                    "uri": "4Lr1sOMsK4ESmFe1buZWcB"
+                },
+                {
+                    "artist": "Dawn to Dawn",
+                    "title": "A Colour Named by You",
+                    "uri": "6etvVXt9VnaNVmX2p0N004"
+                },
+                {
+                    "artist": "Dawn to Dawn",
+                    "title": "A Colour Named By You - Instrumental",
+                    "uri": "5J1Uog7mK3eMOHBhNJVmqP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dawn to Dawn",
+                    "title": "A Colour Named by You",
+                    "uri": "4Lr1sOMsK4ESmFe1buZWcB"
+                },
+                {
+                    "artist": "Dawn to Dawn",
+                    "title": "A Colour Named by You",
+                    "uri": "6etvVXt9VnaNVmX2p0N004"
+                },
+                {
+                    "artist": "24kGoldn",
+                    "title": "Dawn to Dusk (AFTRSHOK Dawn Remix)",
+                    "uri": "0XfJL4J7RqwVr3A7dV4cBF"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Jode",
+                    "title": "Tomorrow Is Gone",
+                    "uri": "5YiJN3PMNN3NzgHYlyneq2"
+                },
+                {
+                    "artist": "Jode",
+                    "title": "Tomorrow is Gone",
+                    "uri": "1kCCPhRwSTlnVkQaKP6lVe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jode",
+                    "title": "Tomorrow Is Gone",
+                    "uri": "5YiJN3PMNN3NzgHYlyneq2"
+                },
+                {
+                    "artist": "Hạ Vy",
+                    "title": "Mai anh đi xa rồi",
+                    "uri": "6TbVqHMTTkB6u8gtx6bjot"
+                },
+                {
+                    "artist": "Nothing But Thieves",
+                    "title": "Tomorrow Is Closed",
+                    "uri": "5qmNiJvNSCvXKRUlPJofZS"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lovejoy",
+                    "title": "Call Me What You Like",
+                    "uri": "21rYCEejlfM0LYRlfzxGeM"
+                },
+                {
+                    "artist": "Lovejoy",
+                    "title": "Sex Sells",
+                    "uri": "5hNLVoNAD4OTWKeGFUDXwc"
+                },
+                {
+                    "artist": "Lovejoy",
+                    "title": "Taunt",
+                    "uri": "7sYMyRZ4bMyuIY5N3vbA6q"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Bark Psychosis",
+                    "title": "Absent Friend",
+                    "uri": "6CqmencKN0UsB67DzZAP8f"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bark Psychosis",
+                    "title": "Absent Friend",
+                    "uri": "6CqmencKN0UsB67DzZAP8f"
+                },
+                {
+                    "artist": "Bark Psychosis",
+                    "title": "Pendulum Man",
+                    "uri": "31rWHoaORhEfXqqr6y48Hm"
+                },
+                {
+                    "artist": "Bark Psychosis",
+                    "title": "The Loom",
+                    "uri": "5GbOaR6pcywF3y60jnN36Z"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Adele",
+                    "title": "Love In The Dark",
+                    "uri": "0DuWDLjriRPjDRoPgaCslY"
+                },
+                {
+                    "artist": "slō",
+                    "title": "love in the dark (slowed + reverb)",
+                    "uri": "1M9uTBH3rWxJ39p4yFttnC"
+                },
+                {
+                    "artist": "Eibell",
+                    "title": "Love In The Dark",
+                    "uri": "0MFT63I8l5ZCI7gI40K7Cb"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Ströer Bros. & Howard Fine",
+                    "title": "When You Stopped Sleeping - Remastered",
+                    "uri": "0aKHPWHwXYLSPHG7NdbxnO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ströer Bros. & Howard Fine",
+                    "title": "When You Stopped Sleeping - Remastered",
+                    "uri": "0aKHPWHwXYLSPHG7NdbxnO"
+                },
+                {
+                    "artist": "Ströer",
+                    "title": "Don't Stay For Breakfast",
+                    "uri": "4ZGzF4fEAMJdr2YXctwlR0"
+                },
+                {
+                    "artist": "Ströer Duo",
+                    "title": "Vietnam - 2007 Remastered Version",
+                    "uri": "5hFbD1ugYMik26Uqm1ipGq"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Motivation Sport Fitness",
+                    "title": "There Is for You - Music Workout & Training",
+                    "uri": "2Q8IWesTiEqMjZGX8HFMED"
+                },
+                {
+                    "artist": "Remix Sport Workout",
+                    "title": "There Is for You - Motivation Fitness",
+                    "uri": "3SAEtFEWoYpLmYMEJ8TZes"
+                },
+                {
+                    "artist": "Remix Sport Workout",
+                    "title": "There Is for You - Musique Energique Pour Se Motiver",
+                    "uri": "0COdB7LWdgI3ciRd4lIdoU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "S. Work",
+                    "title": "I'm There For You",
+                    "uri": "6J2QtnoSUUVZDLzarw3DZP"
+                },
+                {
+                    "artist": "Kar Play",
+                    "title": "You Were There for Me - Extended Drum Mix",
+                    "uri": "0P7nZJVjGnup57c3DX9IfX"
+                },
+                {
+                    "artist": "Kar Play",
+                    "title": "You Were There for Me - Extended Drum Mix",
+                    "uri": "4TaujGieSuwNyGnTI6pxof"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "FX",
+                    "title": "Things Are Not What They Seem",
+                    "uri": "2okstGLw3iXP6h6wR8nark"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "FX",
+                    "title": "Things Are Not What They Seem",
+                    "uri": "2okstGLw3iXP6h6wR8nark"
+                },
+                {
+                    "artist": "Okimik Anuya",
+                    "title": "FX Dark Rain - Fast",
+                    "uri": "64iGG2xOnFD00flG2KIL9f"
+                },
+                {
+                    "artist": "Sangha Kuan",
+                    "title": "FX Thunder - Away",
+                    "uri": "6mCwh94OAEIvLPG6NchoG0"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Ms Ray",
+                    "title": "How They Shine",
+                    "uri": "3kdiRPcRID348yBfz7fiMo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ms Ray",
+                    "title": "How They Shine",
+                    "uri": "3kdiRPcRID348yBfz7fiMo"
+                },
+                {
+                    "artist": "Ybdk ZayK",
+                    "title": "Mr. Ray",
+                    "uri": "6xDGDwWBUe0d8JkfK65iQl"
+                },
+                {
+                    "artist": "Mr.Ray",
+                    "title": "Her På Flisa",
+                    "uri": "0H2MgGsyTWlMVehrrIHOXn"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "iLEVEL",
+                    "title": "No. 4",
+                    "uri": "7K4n7ga2YqKVvlIBEEtFwd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "iLEVEL",
+                    "title": "No. 4",
+                    "uri": "7K4n7ga2YqKVvlIBEEtFwd"
+                },
+                {
+                    "artist": "Antonio Vivaldi",
+                    "title": "Concerto No. 4 in F Minor, Op. 8, RV 297, \"L'inverno\" (Winter): I. Allegro Non Molto",
+                    "uri": "76BfKpZqnuNCZtbN8N3s4C"
+                },
+                {
+                    "artist": "Felix Mendelssohn",
+                    "title": "Symphony No. 4 in A Major, Op. 90, MWV N16 \"Italian\": I. Allegro vivace - 1984 Recording",
+                    "uri": "3BZuH9q3NNvu7hKeXUszSo"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Emerson",
+                    "title": "Nosey Neighbours",
+                    "uri": "2yWmMUnJv22ou2yW2KHpMK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Emerson",
+                    "title": "Nosey Neighbours",
+                    "uri": "2yWmMUnJv22ou2yW2KHpMK"
+                },
+                {
+                    "artist": "Emerson, Lake & Palmer",
+                    "title": "From the Beginning (New Stereo Mix)",
+                    "uri": "6PWkGE6ZHEO6wmyLUFzpaO"
+                },
+                {
+                    "artist": "Emerson, Lake & Palmer",
+                    "title": "Still...You Turn Me On (2014 - Remaster)",
+                    "uri": "2Zb1oaMRMUsyagT6gKV9TV"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Inre Kretsen Grupp",
+                    "title": "Loggia",
+                    "uri": "4ERUvk3B3yrcRiQPC4PVNi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Inre Kretsen Grupp",
+                    "title": "Loggia",
+                    "uri": "4ERUvk3B3yrcRiQPC4PVNi"
+                },
+                {
+                    "artist": "Imeon Eledas",
+                    "title": "Logia - Extended Mix",
+                    "uri": "2AT35tXKcGubQWRljpkS56"
+                },
+                {
+                    "artist": "Loggic",
+                    "title": "157",
+                    "uri": "4M6YTPFtnRbkilxRHYo4np"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Chapeau Claudette",
+                    "title": "Fashion C'est La Latest Attraction",
+                    "uri": "2fSmhQW7gzDb7UkTKxgHbP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chapeau Claudette",
+                    "title": "Fashion C'est La Latest Attraction",
+                    "uri": "2fSmhQW7gzDb7UkTKxgHbP"
+                },
+                {
+                    "artist": "Chapeau Claudette",
+                    "title": "Pass Auf - Kifissias Ave Dub",
+                    "uri": "6Pi5e8EIHtNW1E154gdv7l"
+                },
+                {
+                    "artist": "Robert Redweik",
+                    "title": "Chapeau",
+                    "uri": "5iQ0qDUrGPhVeYOfe1cLRh"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "MJ Lallo",
+                    "title": "Aquarius Blue",
+                    "uri": "4wMkDQPkzKKDizMDta8TvQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "MJ Lallo",
+                    "title": "Aquarius Blue",
+                    "uri": "4wMkDQPkzKKDizMDta8TvQ"
+                },
+                {
+                    "artist": "Galt MacDermot",
+                    "title": "Aquarius",
+                    "uri": "0WviwuG403gqtW6bZevBpP"
+                },
+                {
+                    "artist": "Lugatti & 9ine",
+                    "title": "Aquarius mit Lean",
+                    "uri": "3eW1o9MEcnvrYulyBkfPOy"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Zoe Sinatra",
+                    "title": "Mais Qu'Est-Ce Que Tu Fumes?",
+                    "uri": "5zXM3lnEkq9ZHDPQbc439d"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Zoe Sinatra",
+                    "title": "Mais Qu'Est-Ce Que Tu Fumes?",
+                    "uri": "5zXM3lnEkq9ZHDPQbc439d"
+                },
+                {
+                    "artist": "Zoe Sailsbury",
+                    "title": "Theatre",
+                    "uri": "2kr4mqiMzt8P1ZfOZvf9cq"
+                },
+                {
+                    "artist": "Dan Romer",
+                    "title": "Drink Half of It",
+                    "uri": "01UT1xaRFakfn96EOb43r6"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "The Word",
+                    "title": "Lobster - 12\" Version",
+                    "uri": "4y75DwDgt1yRJO99KBO960"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Word",
+                    "title": "Lobster - 12\" Version",
+                    "uri": "4y75DwDgt1yRJO99KBO960"
+                },
+                {
+                    "artist": "The Word Alive",
+                    "title": "Why Am I Like This?",
+                    "uri": "1wZy1qIk3qPVv33I9bALi6"
+                },
+                {
+                    "artist": "The Word Alive",
+                    "title": "One Of Us",
+                    "uri": "33jSdWZrZmhQt2MYQBJgm9"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "SANDII",
+                    "title": "ZOOT KOOK",
+                    "uri": "3bgu3131q5kONCUXd2msMk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "SANDII",
+                    "title": "ZOOT KOOK",
+                    "uri": "3bgu3131q5kONCUXd2msMk"
+                },
+                {
+                    "artist": "Sandu Ciorba",
+                    "title": "Papu",
+                    "uri": "6XSWRkCLQekOwkzYFXCfsJ"
+                },
+                {
+                    "artist": "Blackbird Co.",
+                    "title": "zoot suit",
+                    "uri": "4MaHchXoMIXMg1HJeCukEV"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pablo's Eye",
+                    "title": "La Pedrera",
+                    "uri": "3mbdc8LQR0tCPdV0d3sruO"
+                },
+                {
+                    "artist": "Pablo's Eye",
+                    "title": "Blind And Quiet",
+                    "uri": "1yfaft7g06AUCL5RvfkdzI"
+                },
+                {
+                    "artist": "Pablo's Eye",
+                    "title": "Worship & Passion",
+                    "uri": "1GIPWchUvEPn1P2Q26ZP9O"
+                }
+            ]
+        }
+    },
     "doing-time-10th-january-2021": {
         "00": {
             "s0": "",

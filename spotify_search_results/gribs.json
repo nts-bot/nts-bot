@@ -1,4 +1,364 @@
 {
+    "gribs-12th-december-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kendal",
+                    "title": "Come To Me",
+                    "uri": "36IDBKVwkaiwAgxEbpj3vu"
+                },
+                {
+                    "artist": "Kendal",
+                    "title": "Basorexia",
+                    "uri": "22cx4ytV12vo5CO1IZE8M9"
+                },
+                {
+                    "artist": "TRYM",
+                    "title": "Kendall",
+                    "uri": "2PDQ5L7GX3pshsGvG5WWhI"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Inturist",
+                    "title": "Weather Forecast",
+                    "uri": "5F4ss1KiZ4t5tBs5fqFi9K"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Inturist",
+                    "title": "Weather Forecast",
+                    "uri": "5F4ss1KiZ4t5tBs5fqFi9K"
+                },
+                {
+                    "artist": "Natalie Jane",
+                    "title": "Intrusive Thoughts",
+                    "uri": "6fDNEgWI6sgv4fnYQDxTNH"
+                },
+                {
+                    "artist": "KIL KROOK",
+                    "title": "INTERITUS",
+                    "uri": "3IzFeNmgJIhQ7xLjhqCyIt"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Wiz Khalifa",
+                    "title": "See You Again (feat. Charlie Puth)",
+                    "uri": "4Aep3WGBQlpbKXkW7kfqcU"
+                },
+                {
+                    "artist": "2 Chainz",
+                    "title": "We Own It (Fast & Furious)",
+                    "uri": "5DD9jE8Z3LvpVn2TxknJyX"
+                },
+                {
+                    "artist": "Bassnectar",
+                    "title": "Speakerbox (feat. Ohana Bam & Lafa Taylor) - F8 Remix",
+                    "uri": "3JiyUyibMs31de0hmoeSK9"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Spilif",
+                    "title": "Nazaré",
+                    "uri": "6nQAVOYzj1hw3IW9zG6ugI"
+                },
+                {
+                    "artist": "Nazeel Azami",
+                    "title": "Rahmānur-rahim",
+                    "uri": "3P6u7RgcXc98M2HFaNBLjs"
+                },
+                {
+                    "artist": "Nash",
+                    "title": "Element",
+                    "uri": "1JiGivKYZiy891YiaYvzQQ"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "PHABO",
+                    "title": "Step 2 Me",
+                    "uri": "57tg0m3Iu8YzWyaDfFfDtR"
+                },
+                {
+                    "artist": "Trace Bundy",
+                    "title": "O Holy Night",
+                    "uri": "3qHCplvUUigRUNUyyIn6xb"
+                },
+                {
+                    "artist": "Tracie Deagler",
+                    "title": "No Dancing",
+                    "uri": "4e0N4VRyJxxw6emIPbK6sb"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Beach Fossils",
+                    "title": "What a Pleasure",
+                    "uri": "3FwuOIr8dkrzdAOMUM6sOe"
+                },
+                {
+                    "artist": "Beach Fossils",
+                    "title": "Sleep Apnea",
+                    "uri": "6XyjwF7CAwuEaW77noJr6I"
+                },
+                {
+                    "artist": "Beach Fossils",
+                    "title": "May 1st",
+                    "uri": "36bVcRltxiQSg0ZEHDAZZ1"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jonas Holmes",
+                    "title": "Horizon",
+                    "uri": "2olHCqvx5Ww94jrUL6gmOp"
+                },
+                {
+                    "artist": "Andrew Rayel",
+                    "title": "Horizon",
+                    "uri": "54yS3B8rlwND60XbbuCD2Z"
+                },
+                {
+                    "artist": "ATEEZ",
+                    "title": "Horizon",
+                    "uri": "7aq8t9D82PJuqH7TFT4W6O"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lewis OfMan",
+                    "title": "Hey Lou",
+                    "uri": "1JrLzZwjwOssxX11afM3XS"
+                },
+                {
+                    "artist": "Camille",
+                    "title": "Que je t'aime",
+                    "uri": "2wqHH4mITmvGf0ogwCzS5r"
+                },
+                {
+                    "artist": "Little Symphony",
+                    "title": "Camille",
+                    "uri": "4r189fO5RoYJvJfXW4Rtsb"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "thanks god",
+                    "title": "SCAM bible",
+                    "uri": "4fvidf6wgvc2pR1P6wU7ou"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "thanks god",
+                    "title": "SCAM bible",
+                    "uri": "4fvidf6wgvc2pR1P6wU7ou"
+                },
+                {
+                    "artist": "Kane Brown",
+                    "title": "Thank God",
+                    "uri": "1brnLTvarI9D1hLP6z2Ar8"
+                },
+                {
+                    "artist": "Ice Nine Kills",
+                    "title": "Thank God It's Friday",
+                    "uri": "6eHkHIGGcGatFhhqeuRWFN"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hackneyed",
+                    "title": "Deatholution",
+                    "uri": "2qMHzfeY653Gfoy7KE34Po"
+                },
+                {
+                    "artist": "Hank Häberle jr.",
+                    "title": "Sonscht ben i gsond",
+                    "uri": "2ctuyyaYl4mV7bq2DAvUrg"
+                },
+                {
+                    "artist": "Virtue Scripts",
+                    "title": "Hanky Panky",
+                    "uri": "5I3JojqH2JUJ5tpc0IGKiV"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Klaus Badelt",
+                    "title": "Barbossa Is Hungry",
+                    "uri": "7IxJI1ffpERSc6Ii8UGI3G"
+                },
+                {
+                    "artist": "Klaus Badelt",
+                    "title": "Barbossa Is Hungry",
+                    "uri": "27aOrdzMTju0fdYJTCNDXd"
+                },
+                {
+                    "artist": "Geoff Zanelli",
+                    "title": "My Name Is Barbossa",
+                    "uri": "5dUQ00lCQ8IPMs149DIdhf"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Georg Philipp Telemann",
+                    "title": "Oboe Sonata, TWV 41:G6: IV. Andante (Arr. For Trumpet and Basso Continuo)",
+                    "uri": "2zX4bIOyRv7fK8PAUGAdO3"
+                },
+                {
+                    "artist": "Georg Philipp Telemann",
+                    "title": "Oboe Sonata, TWV 41:G6: II. Presto (Arr. For Trumpet and Basso Continuo)",
+                    "uri": "0qMTuKjS20G9coIcv4dudL"
+                },
+                {
+                    "artist": "Georg Philipp Telemann",
+                    "title": "Tönet die Freude, belebte Trompeten, TVWV 1:1410: XX. 12 Choral \"Herr, sei gebenedeit\"",
+                    "uri": "2rEV3v1zZxdN34LF3o8qUn"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "YRN.NITE",
+                    "title": "Dont Test Me",
+                    "uri": "0a5PXdr2s6utb2G8SWVtwn"
+                },
+                {
+                    "artist": "Lil French Fry",
+                    "title": "Don't Test Me",
+                    "uri": "7K5BZv7LM0UtXE6asQWU9B"
+                },
+                {
+                    "artist": "Klee Magor",
+                    "title": "Don't Test My Gangsta",
+                    "uri": "66Z7xrMGwiW8HvZ5tpFCkJ"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "James Benoit",
+                    "title": "foreverforeverforever",
+                    "uri": "5i0ADntbFtDTSG9FHOohWc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "James Benoit",
+                    "title": "foreverforeverforever",
+                    "uri": "5i0ADntbFtDTSG9FHOohWc"
+                },
+                {
+                    "artist": "James",
+                    "title": "Sometimes",
+                    "uri": "1ilT5nVNWQexlEKPKd7bOf"
+                },
+                {
+                    "artist": "James Morrison",
+                    "title": "Forever",
+                    "uri": "3PrgTrWHD20CBJZectC6D9"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pythius",
+                    "title": "Sound Barrier - Gydra Remix",
+                    "uri": "2CO83XY7cx0OcJzX2FWvg4"
+                },
+                {
+                    "artist": "Pythius",
+                    "title": "Sound Barrier",
+                    "uri": "5EW1iJmaXYqu7IyswXd3mw"
+                },
+                {
+                    "artist": "Dieselboy + Kaos",
+                    "title": "Barrier Break",
+                    "uri": "4KQoJT0w4dnJQrhZSySPhe"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Soulful Dynamics",
+                    "title": "Annabella",
+                    "uri": "79CKjebTrDOWi9DlchGtr5"
+                },
+                {
+                    "artist": "Holly Dutton",
+                    "title": "What Is The Lord's Supper?",
+                    "uri": "23dUosmFl1Iug1F5O03pt0"
+                },
+                {
+                    "artist": "Albert Hay Malotte",
+                    "title": "The Lord's Prayer",
+                    "uri": "4vIH2iSI1o13ZgkK2khCPz"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jim Staley",
+                    "title": "Untitled - Part 18",
+                    "uri": "3NzritRWF8ZdCI0YloLwhK"
+                },
+                {
+                    "artist": "Kirous",
+                    "title": "untitled",
+                    "uri": "3exWOp507crXup0rqslr3W"
+                },
+                {
+                    "artist": "glwzbll",
+                    "title": "Untitled #13 (Slowed + Reverb)",
+                    "uri": "4w2C4w02lvnh4jcx6bq0Pj"
+                }
+            ]
+        }
+    },
     "gribs-14th-november-2023": {
         "00": {
             "s0": "",
