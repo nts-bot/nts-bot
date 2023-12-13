@@ -1383,6 +1383,417 @@
             ]
         }
     },
+    "quest-no-more-12th-december-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Michael Jackson",
+                    "title": "People Make The World Go 'Round",
+                    "uri": "3qyYdDTTcsSJEaRGKojM0K"
+                },
+                {
+                    "artist": "Michael Jackson",
+                    "title": "People Make The World Go 'Round",
+                    "uri": "4c5mM7mzFch2PPjQeVW4J9"
+                },
+                {
+                    "artist": "Michael Jackson",
+                    "title": "People Make The World Go 'Round",
+                    "uri": "1uiJHeGSINdbQCvPfgzABf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Michael Jackson",
+                    "title": "People Make The World Go 'Round",
+                    "uri": "3qyYdDTTcsSJEaRGKojM0K"
+                },
+                {
+                    "artist": "Michael Jackson",
+                    "title": "People Make The World Go 'Round",
+                    "uri": "4c5mM7mzFch2PPjQeVW4J9"
+                },
+                {
+                    "artist": "Michael Jackson",
+                    "title": "Earth Song",
+                    "uri": "4GCGH6TJ69neckwITeBFXK"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Artwork Sounds",
+                    "title": "Your Love",
+                    "uri": "3LUFDn3xfvBNaJwaUnXGll"
+                },
+                {
+                    "artist": "Artwork Sounds",
+                    "title": "Your Love",
+                    "uri": "36Q02fQLWX6RVOp96YVui4"
+                },
+                {
+                    "artist": "Artwork Sounds",
+                    "title": "Your Love (feat. Mzizi)",
+                    "uri": "0XlHyhKzXVyj7ft3Dxt8HV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Artwork Sounds",
+                    "title": "Your Love",
+                    "uri": "3LUFDn3xfvBNaJwaUnXGll"
+                },
+                {
+                    "artist": "Artwork Sounds",
+                    "title": "Your Love",
+                    "uri": "36Q02fQLWX6RVOp96YVui4"
+                },
+                {
+                    "artist": "HYPERZ",
+                    "title": "Your Love - Hypertechno",
+                    "uri": "6szcXcxyrbSrZAOtfebl3Z"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Skinshape",
+                    "title": "Sudan",
+                    "uri": "5l3d9lOtMTsNJCUcnR2Mg0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Skinshape",
+                    "title": "Sudan",
+                    "uri": "5l3d9lOtMTsNJCUcnR2Mg0"
+                },
+                {
+                    "artist": "Skinshape",
+                    "title": "The Ocean",
+                    "uri": "4vptPNSZwBUUM4eF7SmkrB"
+                },
+                {
+                    "artist": "Skinshape",
+                    "title": "I Didn't Know",
+                    "uri": "1RI9Qpt8QbYtwfCW8npcO1"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Vieux Farka Touré",
+                    "title": "Tamalla",
+                    "uri": "5S0Svnt0xGuu7QFShZNolJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Vieux Farka Touré",
+                    "title": "Tamalla",
+                    "uri": "5S0Svnt0xGuu7QFShZNolJ"
+                },
+                {
+                    "artist": "Vieux Farka Touré",
+                    "title": "Tongo Barra",
+                    "uri": "0OOPyxMDeHdoo2PptHHkC4"
+                },
+                {
+                    "artist": "Vieux Farka Touré",
+                    "title": "Diarabi",
+                    "uri": "36huM0UOR9A17TYAape2Xg"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Nutty Nys",
+                    "title": "The Promise",
+                    "uri": "6Zqg3N9PilNF5gc3fPRUEL"
+                },
+                {
+                    "artist": "Nutty Nys",
+                    "title": "The Promise - Purple Remix",
+                    "uri": "5M9fNMkPqVgBOL0jF6fnRy"
+                },
+                {
+                    "artist": "Nutty Nys",
+                    "title": "The Promise - Kojo Akusa Remix",
+                    "uri": "4j769qAlF6QgGR0JTnbgsM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nutty Nys",
+                    "title": "The Promise",
+                    "uri": "6Zqg3N9PilNF5gc3fPRUEL"
+                },
+                {
+                    "artist": "Nutty Nys",
+                    "title": "The Promise - Purple Remix",
+                    "uri": "5M9fNMkPqVgBOL0jF6fnRy"
+                },
+                {
+                    "artist": "Nutty O",
+                    "title": "Tit for Tat",
+                    "uri": "2A4NgH05rsiKlGV8hLsHpS"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "berlioz",
+                    "title": "wash my sins away",
+                    "uri": "0WGlJKVRSgX1KkFFozCHHU"
+                },
+                {
+                    "artist": "berlioz",
+                    "title": "wash my sins away",
+                    "uri": "3gOms1iSIFmVPh2qIsaXFD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "berlioz",
+                    "title": "wash my sins away",
+                    "uri": "0WGlJKVRSgX1KkFFozCHHU"
+                },
+                {
+                    "artist": "berlioz",
+                    "title": "wash my sins away",
+                    "uri": "3gOms1iSIFmVPh2qIsaXFD"
+                },
+                {
+                    "artist": "Hector Berlioz",
+                    "title": "Symphonie fantastique, Op. 14, H 48: II. Un Bal",
+                    "uri": "6OMGlCuXFpIvlGosXRe3hC"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Cristale",
+                    "title": "Artiste",
+                    "uri": "1uAFzVmlo4V4ndVtbF1ZlM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cristale",
+                    "title": "Artiste",
+                    "uri": "1uAFzVmlo4V4ndVtbF1ZlM"
+                },
+                {
+                    "artist": "Cristale",
+                    "title": "Roadents",
+                    "uri": "4FT0QtlIjX1H4R7LJfQyc4"
+                },
+                {
+                    "artist": "Various Artists",
+                    "title": "Cristales de la prision",
+                    "uri": "1rymIf7cjBnjpZTNdpJRmL"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Smokey Bubblin' B",
+                    "title": "Poison",
+                    "uri": "78dGpGY3eSm7NGLFtVhQDJ"
+                },
+                {
+                    "artist": "DJ Gollum",
+                    "title": "Poison - Nightcore Edit",
+                    "uri": "0B2fv1eukKlJqNRCeENIS0"
+                },
+                {
+                    "artist": "DJ Gollum",
+                    "title": "Poison - DJ Gollum meets Money G Radio Edit",
+                    "uri": "6lM6NpMPNAcdwPUbpq1mWb"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Msaki",
+                    "title": "Stay as You Are",
+                    "uri": "0dJG5SnjjS9maTUZaxHUJV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Msaki",
+                    "title": "Stay as You Are",
+                    "uri": "0dJG5SnjjS9maTUZaxHUJV"
+                },
+                {
+                    "artist": "Sun-El Musician",
+                    "title": "Ubomi Abumanga",
+                    "uri": "1Eum24tziiY0sRBRx7hWBb"
+                },
+                {
+                    "artist": "Msaki",
+                    "title": "Uthando Lwam",
+                    "uri": "7lp3w0kR7m6o3mrKLSXGkI"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Stylistics",
+                    "title": "People Make The World Go Round",
+                    "uri": "6u5DJLTMuHgKqxdtjAWnWP"
+                },
+                {
+                    "artist": "Kandace Springs",
+                    "title": "People Make The World Go 'Round",
+                    "uri": "7zeLiKNVTzQSWlPQ5r14MM"
+                },
+                {
+                    "artist": "Richard Elliot",
+                    "title": "People Make the World Go Round",
+                    "uri": "4JWPdkrjQhOA46YXwclTOp"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Stylistics",
+                    "title": "People Make The World Go Round",
+                    "uri": "6u5DJLTMuHgKqxdtjAWnWP"
+                },
+                {
+                    "artist": "Milt Jackson",
+                    "title": "People Make The World Go Round",
+                    "uri": "6dMmSPni5BC7pTGjxEKE6c"
+                },
+                {
+                    "artist": "Michael Jackson",
+                    "title": "People Make The World Go 'Round",
+                    "uri": "3qyYdDTTcsSJEaRGKojM0K"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Stylistics",
+                    "title": "People Make The World Go Round",
+                    "uri": "6u5DJLTMuHgKqxdtjAWnWP"
+                },
+                {
+                    "artist": "Errol Brown",
+                    "title": "People Make the World Go Round",
+                    "uri": "7FgFppgq2eirL3t9oi0jba"
+                },
+                {
+                    "artist": "Hortense Ellis",
+                    "title": "People Make The World Go Round",
+                    "uri": "14CNYu4KLy4XJAw4JN661O"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Stylistics",
+                    "title": "People Make The World Go Round",
+                    "uri": "6u5DJLTMuHgKqxdtjAWnWP"
+                },
+                {
+                    "artist": "Hortense Ellis",
+                    "title": "People Make The World Go Round",
+                    "uri": "14CNYu4KLy4XJAw4JN661O"
+                },
+                {
+                    "artist": "Errol Brown",
+                    "title": "People Make the World Go Round",
+                    "uri": "7FgFppgq2eirL3t9oi0jba"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Errol Brown",
+                    "title": "People Make the World Go Round",
+                    "uri": "7FgFppgq2eirL3t9oi0jba"
+                },
+                {
+                    "artist": "Milt Jackson",
+                    "title": "People Make The World Go Round",
+                    "uri": "6dMmSPni5BC7pTGjxEKE6c"
+                },
+                {
+                    "artist": "Michael Jackson",
+                    "title": "People Make The World Go 'Round",
+                    "uri": "3qyYdDTTcsSJEaRGKojM0K"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Depeche Mode",
+                    "title": "Soothe My Soul - Matador Remix",
+                    "uri": "2D2rzNYH71GqHenqodCWlI"
+                },
+                {
+                    "artist": "Depeche Mode",
+                    "title": "Soothe My Soul - Live",
+                    "uri": "5MiMdVLqodjeBd5X0eZzHK"
+                },
+                {
+                    "artist": "8D Relaxium",
+                    "title": "Soothe My Soul",
+                    "uri": "3AvEDJSR5uJQQW9hPGIBRU"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Greg Spero",
+                    "title": "Bug Races",
+                    "uri": "7GU5WVCwEDnRlibN33ufoR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Greg Spero",
+                    "title": "Bug Races",
+                    "uri": "7GU5WVCwEDnRlibN33ufoR"
+                },
+                {
+                    "artist": "Greg Spero",
+                    "title": "Extra Careless",
+                    "uri": "08TvszYfAO8OYcpizm5R82"
+                },
+                {
+                    "artist": "Greg Spero",
+                    "title": "Careless - Tiny Room Sessions",
+                    "uri": "2zyPvXUyq8RXbxoDN8GJkF"
+                }
+            ]
+        }
+    },
     "quest-no-more-12th-february-2022": {
         "00": {
             "s0": [

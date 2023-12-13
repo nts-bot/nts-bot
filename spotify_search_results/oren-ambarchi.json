@@ -1,4 +1,437 @@
 {
+    "oren-ambarchi-12th-december-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Troggs",
+                    "title": "With A Girl Like You",
+                    "uri": "3VGBUfN2EOVHJ4Y92yIh2f"
+                },
+                {
+                    "artist": "Black Eyed Peas",
+                    "title": "GIRL LIKE ME",
+                    "uri": "1zLBsSVxETQOfINOLYvT5m"
+                },
+                {
+                    "artist": "Black Eyed Peas",
+                    "title": "GIRL LIKE ME - twocolors remix",
+                    "uri": "19tO5sNxHHJcX7CUPMVykl"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Marja Ahti",
+                    "title": "Rooftop Gardens",
+                    "uri": "2DVetcJMiuVEnhU64Pkvtq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Marja Ahti",
+                    "title": "Rooftop Gardens",
+                    "uri": "2DVetcJMiuVEnhU64Pkvtq"
+                },
+                {
+                    "artist": "Moody.",
+                    "title": "rooftop garden",
+                    "uri": "5Dy33QLves9clDA0FVZnrx"
+                },
+                {
+                    "artist": "Mila Coolness",
+                    "title": "Rooftop Garden",
+                    "uri": "7asPDliO5rKQsWmzUqAjNx"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Invisible",
+                    "title": "El Anillo del Capitán Beto",
+                    "uri": "23jMDvKil4frbTA35BVzBY"
+                },
+                {
+                    "artist": "Invisible",
+                    "title": "El Anillo del Capitán Beto",
+                    "uri": "0uSEEFT1dN9KIKsPntwsLr"
+                },
+                {
+                    "artist": "Invisible",
+                    "title": "El Anillo del Capitán Beto",
+                    "uri": "0Bo3PoVsi6yiVP4Arp7Jty"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Invisible",
+                    "title": "El Anillo del Capitán Beto",
+                    "uri": "23jMDvKil4frbTA35BVzBY"
+                },
+                {
+                    "artist": "Invisible",
+                    "title": "El Anillo del Capitán Beto",
+                    "uri": "0uSEEFT1dN9KIKsPntwsLr"
+                },
+                {
+                    "artist": "Genesis",
+                    "title": "Invisible Touch",
+                    "uri": "0MBMYkcJKLE82U5mwRolXk"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Dem Hunger",
+                    "title": "Zebra Skull Made From Smack",
+                    "uri": "1MV5s3N6jstq3M3efQD2Ah"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dem Hunger",
+                    "title": "Zebra Skull Made From Smack",
+                    "uri": "1MV5s3N6jstq3M3efQD2Ah"
+                },
+                {
+                    "artist": "Demon Hunter",
+                    "title": "Snap Your Fingers, Snap Your Neck",
+                    "uri": "1vVm4aSAVhGHCsGBD0GeR0"
+                },
+                {
+                    "artist": "Demon Hunter",
+                    "title": "REVOLUTIONS",
+                    "uri": "7t5aqn4xRVlTWagqI8WXmf"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "鈴木茂とハックルバック",
+                    "title": "100ワットの恋人 - Apr. 4, 1975, Osaka",
+                    "uri": "5maRE3vgsQBDIUt20s1XO3"
+                },
+                {
+                    "artist": "鈴木茂とハックルバック",
+                    "title": "100ワットの恋人 - May 15, 1975, Kyoto",
+                    "uri": "2JfTQ9SHQcKvkWu2UuH5vW"
+                },
+                {
+                    "artist": "鈴木茂とハックルバック",
+                    "title": "100ワットの恋人 - May 15, 1975, Kyoto rehearsal",
+                    "uri": "2mu7oJ55iwOETxuXZBM7b4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Shigeru Suzuki",
+                    "title": "コーラル・リーフ",
+                    "uri": "15VWzrmjG3fIDpgUm400DC"
+                },
+                {
+                    "artist": "鈴木茂とハックルバック",
+                    "title": "100ワットの恋人 - May 15, 1975, Kyoto",
+                    "uri": "2JfTQ9SHQcKvkWu2UuH5vW"
+                },
+                {
+                    "artist": "鈴木茂とハックルバック",
+                    "title": "100ワットの恋人 - Apr. 4, 1975, Osaka",
+                    "uri": "5maRE3vgsQBDIUt20s1XO3"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Bill Evans",
+                    "title": "B Minor Waltz - Remastered 2003",
+                    "uri": "1G8ZiodFtDX5tNHwvxcllW"
+                },
+                {
+                    "artist": "Bill Evans",
+                    "title": "Blue In Green (Take 3)",
+                    "uri": "60p18YXhrzLNrAaUXL8Bu6"
+                },
+                {
+                    "artist": "Bill Evans",
+                    "title": "Lucky To Be Me",
+                    "uri": "253MlEWhgOkU3ncefccjMR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bill Evans",
+                    "title": "B Minor Waltz - Remastered 2003",
+                    "uri": "1G8ZiodFtDX5tNHwvxcllW"
+                },
+                {
+                    "artist": "Stan Getz",
+                    "title": "But Beautiful",
+                    "uri": "1XCBWtTJZuHbwa6GLUutjo"
+                },
+                {
+                    "artist": "Bill Evans",
+                    "title": "Waltz For Debby (Live)",
+                    "uri": "0fRBoJpDn9AfckAs0gDBot"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Anthony Shakir",
+                    "title": "Arise",
+                    "uri": "0yl87yOZg3yyMGYDvByixu"
+                },
+                {
+                    "artist": "Flyswatter",
+                    "title": "Sin Embassy",
+                    "uri": "7EOM3wGdZOi1j3q15M4G4Q"
+                },
+                {
+                    "artist": "Flyswatter",
+                    "title": "Go",
+                    "uri": "0QkBDS6KuO1E2SraiuqYdx"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "AirDice",
+                    "title": "Tu Bie - Radio Edit",
+                    "uri": "54srvDMZRN9CyNBlnujRad"
+                },
+                {
+                    "artist": "Aire Vega",
+                    "title": "Birds In The Rain 1",
+                    "uri": "7uecxq0SUXltjglDqjDlHe"
+                },
+                {
+                    "artist": "Aire Vega",
+                    "title": "Birds In The Rain 2",
+                    "uri": "3s5v98UeRuJMI34SLYbxn8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rub!k",
+                    "title": "Air",
+                    "uri": "2C95kFD0AMsRvAlT5ESZFR"
+                },
+                {
+                    "artist": "Amir Ribar",
+                    "title": "Kheshab",
+                    "uri": "7ksaGH33VMY4aflXTjiQ76"
+                },
+                {
+                    "artist": "Traditional",
+                    "title": "Traditional: In dulci jubilo (Gesangbuch von Joseph Klug, 14. Jhdt.) - Arr. Robert Lucas de Pearsall (1795-1856)",
+                    "uri": "5UgQ3APG0ZXAIavn26dtkQ"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Get The Shot",
+                    "title": "Diabolus Vobiscum",
+                    "uri": "0cQ39WtmrDGu1vyQbnx5Dk"
+                },
+                {
+                    "artist": "Dan Brown",
+                    "title": "Kapitel 1 - Diabolus",
+                    "uri": "5aAQc3iY68oxgxrfBjZJDG"
+                },
+                {
+                    "artist": "Dan Brown",
+                    "title": "Kapitel 7 - Diabolus",
+                    "uri": "0Tnps5iEyEBlVH0ywhnStY"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "KISS",
+                    "title": "100,000 Years",
+                    "uri": "6HcMmG8Vgf3CvOtTwss00n"
+                },
+                {
+                    "artist": "KISS",
+                    "title": "100,000 Years",
+                    "uri": "6dNlYROqtckTQPc9cLHucQ"
+                },
+                {
+                    "artist": "KISS",
+                    "title": "100,000 Years - Live At B.C. Place Stadium, Vancouver/1999",
+                    "uri": "1v8dUmTUsO7GVV3Xfv1Ssh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "KISS",
+                    "title": "100,000 Years",
+                    "uri": "6HcMmG8Vgf3CvOtTwss00n"
+                },
+                {
+                    "artist": "KISS",
+                    "title": "100,000 Years - Live At B.C. Place Stadium, Vancouver/1999",
+                    "uri": "1v8dUmTUsO7GVV3Xfv1Ssh"
+                },
+                {
+                    "artist": "KISS",
+                    "title": "Strutter",
+                    "uri": "2GNat4nfktZONFZ7Cqm5Bq"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Genevieve Waite",
+                    "title": "Transient Friends",
+                    "uri": "1DNB8UOqwVZy3xl8USnunx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Genevieve Waite",
+                    "title": "Transient Friends",
+                    "uri": "1DNB8UOqwVZy3xl8USnunx"
+                },
+                {
+                    "artist": "Genevieve Stokes",
+                    "title": "Parking Lot",
+                    "uri": "3PKxQ93NYX0LG6xs2JuM0j"
+                },
+                {
+                    "artist": "Genevieve Stokes",
+                    "title": "Surface Tension",
+                    "uri": "1bGKPg4WtESPEP3IjFscJq"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jan Hammer",
+                    "title": "Miami Vice Theme",
+                    "uri": "7Fl8cDUliexQ2F1rsll1po"
+                },
+                {
+                    "artist": "Jan Hammer",
+                    "title": "Crockett's Theme",
+                    "uri": "3TnJ7M6in8Pb5EyGBUK02Y"
+                },
+                {
+                    "artist": "Jan Hammer",
+                    "title": "Miami Vice Theme",
+                    "uri": "1biP5gM7Le8S3E7GJEKgXC"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Ricardo Dias Gomes",
+                    "title": "Fogo Chama",
+                    "uri": "7CUjlWSt06ua80r8DH8LmS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ricardo Dias Gomes",
+                    "title": "Fogo Chama",
+                    "uri": "7CUjlWSt06ua80r8DH8LmS"
+                },
+                {
+                    "artist": "Ricardo Dias Gomes",
+                    "title": "Muito Sol",
+                    "uri": "7vg5hIDOWRg1EqhR0gp2ZL"
+                },
+                {
+                    "artist": "Carlito Gomes",
+                    "title": "Chama de Fogo",
+                    "uri": "2dXt6HdlhPfNUjHNMeGOi2"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Arrigo Barnabé",
+                    "title": "Sabor De Veneno",
+                    "uri": "1xNybvuBsyimfXe1ggvhwL"
+                },
+                {
+                    "artist": "Arrigo Barnabé",
+                    "title": "Sabor De Veneno - Ao Vivo",
+                    "uri": "1JOob0si4giggfuQDR3Sw8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Arrigo Barnabé",
+                    "title": "Sabor De Veneno",
+                    "uri": "1xNybvuBsyimfXe1ggvhwL"
+                },
+                {
+                    "artist": "Arrigo Barnabé",
+                    "title": "Diversões Eletrônicas",
+                    "uri": "1T3XaF9cZKETET0GTnM6pd"
+                },
+                {
+                    "artist": "Dante Venus Zen",
+                    "title": "Sabor de amor",
+                    "uri": "5Yj0JakMKhNkeo6kswOqXB"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Rupert Holmes",
+                    "title": "Him",
+                    "uri": "5rMthFHPxRDi4Uxg06iK6H"
+                },
+                {
+                    "artist": "Rupert Holmes",
+                    "title": "Him",
+                    "uri": "4ylIJUdu9sDzfs7vWdz7lz"
+                },
+                {
+                    "artist": "Rupert Holmes",
+                    "title": "Him",
+                    "uri": "4BKsvXGLCzB6myaNZ8xH4j"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rupert Holmes",
+                    "title": "Him",
+                    "uri": "5rMthFHPxRDi4Uxg06iK6H"
+                },
+                {
+                    "artist": "Rupert Holmes",
+                    "title": "Him",
+                    "uri": "4ylIJUdu9sDzfs7vWdz7lz"
+                },
+                {
+                    "artist": "Rupert Holmes",
+                    "title": "Escape (The Pina Colada Song)",
+                    "uri": "5IMtdHjJ1OtkxbGe4zfUxQ"
+                }
+            ]
+        }
+    },
     "oren-ambarchi-12th-january-2023": {
         "00": {
             "s0": [
