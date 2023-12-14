@@ -322,6 +322,351 @@
             ]
         }
     },
+    "lupini-13th-december-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Fiesta en el Vacío",
+                    "title": "Falseta Por Seguiriya",
+                    "uri": "1PXuOByjWCgn8rB2S1aLVs"
+                },
+                {
+                    "artist": "Fiesta en el Vacío",
+                    "title": "Rosal",
+                    "uri": "1QZ9G6TlRHncLEi7o7FnBl"
+                },
+                {
+                    "artist": "LC Music",
+                    "title": "Fiesta en la Sierra",
+                    "uri": "2zc3ARw5wVXSbcOHqqLk1D"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "ML Buch",
+                    "title": "Solid",
+                    "uri": "0wg9oJBb9Wd1yVVJ8X952z"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "ML Buch",
+                    "title": "Solid",
+                    "uri": "0wg9oJBb9Wd1yVVJ8X952z"
+                },
+                {
+                    "artist": "Kybba",
+                    "title": "Solid",
+                    "uri": "1lk6Fe7GdSf2oi7yWG8Twu"
+                },
+                {
+                    "artist": "SolidSound Vybz",
+                    "title": "The Right Tings",
+                    "uri": "1TXZFOgdPGsuB4NUKWJdNM"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "7038634357",
+                    "title": "Rose",
+                    "uri": "0D9azQcRsZPQDFGUs2tmEA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "7038634357",
+                    "title": "Rose",
+                    "uri": "0D9azQcRsZPQDFGUs2tmEA"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": ""
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Lee Gamble",
+                    "title": "She's Not",
+                    "uri": "5TAvBWdTpMPdVmhRFGZR0I"
+                },
+                {
+                    "artist": "Lee Gamble",
+                    "title": "She's Not",
+                    "uri": "43sUxI9saVurdrFXBzCsSk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lee Gamble",
+                    "title": "She's Not",
+                    "uri": "5TAvBWdTpMPdVmhRFGZR0I"
+                },
+                {
+                    "artist": "Lee Gamble",
+                    "title": "She's Not",
+                    "uri": "43sUxI9saVurdrFXBzCsSk"
+                },
+                {
+                    "artist": "Lee Gamble",
+                    "title": "Blurring",
+                    "uri": "0Zy9FyTQc5cBpYqKe6FwPQ"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rainy Miller",
+                    "title": "Summon the Spirit / Demon (feat. Voice Actor)",
+                    "uri": "01yNHwY5OWfEEhLrkQbJDg"
+                },
+                {
+                    "artist": "Dillon Francis",
+                    "title": "Rainy (with REI AMI)",
+                    "uri": "4feAKLuq3ShnAA84HcUFvf"
+                },
+                {
+                    "artist": "DJSM",
+                    "title": "Rainy Day",
+                    "uri": "5EWNs5kTX0dJYluCfMFSbe"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kelman Duran",
+                    "title": "Aeon I",
+                    "uri": "52AQGOkIIFrhEQkEE3GW4k"
+                },
+                {
+                    "artist": "Kelman Duran",
+                    "title": "South London",
+                    "uri": "4afpKpMiTelA6MEySf3HaU"
+                },
+                {
+                    "artist": "Kelman Duran",
+                    "title": "Dancehall, Audubon Ballroom",
+                    "uri": "09LNA3vpPg0Zd3ghzTv5BN"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Joe Ariwa",
+                    "title": "King Moses - 33RPM Version",
+                    "uri": "6iqe6yJuHHT48mzOcbOATd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Joe Ariwa",
+                    "title": "King Moses - 33RPM Version",
+                    "uri": "6iqe6yJuHHT48mzOcbOATd"
+                },
+                {
+                    "artist": "Kvng Moses",
+                    "title": "HYPOCRITE",
+                    "uri": "1s7atr4AIBXHy54pg38M4I"
+                },
+                {
+                    "artist": "Devilish Polo",
+                    "title": "Moses",
+                    "uri": "5kRK0mK2OCCsQLeH41DUto"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Die Wilde Jagd",
+                    "title": "Wah Wah Wallenstein",
+                    "uri": "0r5S8iPuqLHyrh0l4jZhYR"
+                },
+                {
+                    "artist": "Die Wilde Jagd",
+                    "title": "Wah Wah Wallenstein - Ivan Smagghe Crossed Version",
+                    "uri": "764J70nvxcoOXGineIbJWW"
+                },
+                {
+                    "artist": "Die Wilde Jagd",
+                    "title": "Wah Wah Wallenstein - Etienne Jaumet Remix",
+                    "uri": "6bWz25tTmJjFoe9cUbwDom"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Die Wilde Jagd",
+                    "title": "Wah Wah Wallenstein",
+                    "uri": "0r5S8iPuqLHyrh0l4jZhYR"
+                },
+                {
+                    "artist": "Die Wilde Jagd",
+                    "title": "Wah Wah Wallenstein",
+                    "uri": "6HzAkXrTGNf8CQEEvvNQZf"
+                },
+                {
+                    "artist": "Die Wilde Jagd",
+                    "title": "Wah Wah Wallenstein - Ivan Smagghe Crossed Version",
+                    "uri": "764J70nvxcoOXGineIbJWW"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "!!!",
+                    "title": "And Anyway It’s Dubmix",
+                    "uri": "69LtpTcPNuHJ1DzJr9F5qK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "!!!",
+                    "title": "And Anyway It’s Dubmix",
+                    "uri": "69LtpTcPNuHJ1DzJr9F5qK"
+                },
+                {
+                    "artist": "!!!",
+                    "title": "And Anyway It’s Christmas",
+                    "uri": "5l1TAPqjt8o5CfCsZqHh3l"
+                },
+                {
+                    "artist": "Jamie Cullum",
+                    "title": "It's Christmas",
+                    "uri": "2NkKDtph6GZ0ZL0dnJSRpX"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "DJ Trystero",
+                    "title": "Gutter",
+                    "uri": "4J9EgAKYZhR6jbyjpaw4PG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "DJ Trystero",
+                    "title": "Gutter",
+                    "uri": "4J9EgAKYZhR6jbyjpaw4PG"
+                },
+                {
+                    "artist": "Chayn",
+                    "title": "Gutter",
+                    "uri": "2L5zeUlgl4d1e18CPt6OfP"
+                },
+                {
+                    "artist": "Gutter Grinders",
+                    "title": "Fast Car",
+                    "uri": "3xWWnr7Etuzek7uhAhoSuk"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Eugene Carchesio",
+                    "title": "U",
+                    "uri": "3GlWuLKv1vKGRJXu05W4oJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eugene Carchesio",
+                    "title": "U",
+                    "uri": "3GlWuLKv1vKGRJXu05W4oJ"
+                },
+                {
+                    "artist": "Sufjan Stevens",
+                    "title": "Eugene",
+                    "uri": "7o3Zup0nTRFAFAPKBpS72G"
+                },
+                {
+                    "artist": "Eugene Carnegie",
+                    "title": "It's Love",
+                    "uri": "3mfY15YP6POaZtlanSRk95"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mr.Bloxx",
+                    "title": "Bloodsport",
+                    "uri": "0xGRKmdAno8Ylw5mOO9KjK"
+                },
+                {
+                    "artist": "slō",
+                    "title": "my blood - slowed + reverb",
+                    "uri": "5HfdZz4FohafodM8jPLkUR"
+                },
+                {
+                    "artist": "iykyk",
+                    "title": "My Blood - super sped up",
+                    "uri": "62loUwyao1IeEmw2ElV77J"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Static Cleaner Lost Reward",
+                    "title": "Basic Trouble",
+                    "uri": "2O7WjELh7p1ulTzYiAzg9p"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Static Cleaner Lost Reward",
+                    "title": "Basic Trouble",
+                    "uri": "2O7WjELh7p1ulTzYiAzg9p"
+                },
+                {
+                    "artist": "Xizt",
+                    "title": "Static - Sped Up",
+                    "uri": "4dkmSUvEAkMC0kSgXLDBtR"
+                },
+                {
+                    "artist": "_tillus",
+                    "title": "static cruising",
+                    "uri": "7H5PrdZyqVYJTcsZq3a3rj"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Honny & The Bees Band",
+                    "title": "Psychedelic Woman - Bonobo Remix",
+                    "uri": "2rAZqJ3uiy2jczTafnKP7y"
+                },
+                {
+                    "artist": "Psychedelic Porn Crumpets",
+                    "title": "Hot! Heat! Wow! Hot!",
+                    "uri": "5m2AvZcE0f59XTBDmjNqZA"
+                },
+                {
+                    "artist": "Psychedelic Porn Crumpets",
+                    "title": "Hymn For A Droid",
+                    "uri": "6e7LEf6iDAkshuWbpnqcKN"
+                }
+            ]
+        }
+    },
     "lupini-17th-may-2023": {
         "00": {
             "s0": [
