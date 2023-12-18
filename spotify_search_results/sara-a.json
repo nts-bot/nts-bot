@@ -1505,6 +1505,430 @@
             ]
         }
     },
+    "sara-a-15th-december-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Die Radierer",
+                    "title": "Batman",
+                    "uri": "7KjnUUHUao4VaWcc3N7eV2"
+                },
+                {
+                    "artist": "Die Radierer",
+                    "title": "Batman - Erste Version",
+                    "uri": "2jrVN2D0KVy9S4KdvGuhka"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Die Radierer",
+                    "title": "Batman",
+                    "uri": "7KjnUUHUao4VaWcc3N7eV2"
+                },
+                {
+                    "artist": "Die Radierer",
+                    "title": "Batman - Erste Version",
+                    "uri": "2jrVN2D0KVy9S4KdvGuhka"
+                },
+                {
+                    "artist": "Batman",
+                    "title": "Teil 1 - Der Mann in Schwarz",
+                    "uri": "2YzJGZwCfXy6Nh1yYicosI"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "The Pathetix",
+                    "title": "Aleister Crowley",
+                    "uri": "5iFJ8lt6nzbMgzcbgnE9Ya"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Pathetix",
+                    "title": "Aleister Crowley",
+                    "uri": "5iFJ8lt6nzbMgzcbgnE9Ya"
+                },
+                {
+                    "artist": "Ludwig van Beethoven",
+                    "title": "Piano Sonata No. 8 in C minor, Op. 13 -\"Pathétique\": 1. Grave - Allegro di molto e con brio",
+                    "uri": "2Q6G8PZaOctikQFuqXG7Vr"
+                },
+                {
+                    "artist": "Lamb of God",
+                    "title": "Pathetic",
+                    "uri": "5PQ3KfvXm88J5h5mXJusPz"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gerhard Daum",
+                    "title": "Secrets of Life",
+                    "uri": "30icgBoA6y6jlDvKvWcwrn"
+                },
+                {
+                    "artist": "Fred again..",
+                    "title": "Follow",
+                    "uri": "1leXj0r8M0dMFNWbRxq2Xe"
+                },
+                {
+                    "artist": "Fred again..",
+                    "title": "Safety",
+                    "uri": "3uaiTyek2p1XDe9xwIQBJz"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jean Grae",
+                    "title": "Threats",
+                    "uri": "5R8J6WCnV1E2lDJgVoaA4P"
+                },
+                {
+                    "artist": "Skid Row",
+                    "title": "The Threat",
+                    "uri": "2YvXBUxCGIo0hYBex22R0r"
+                },
+                {
+                    "artist": "Fenix Flexin",
+                    "title": "Threat",
+                    "uri": "5ig4aDQ6HXYjSqEFjsDeqj"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Terminal Fun",
+                    "title": "Twist and Survive",
+                    "uri": "5p9sOaQRFGBqSqAfnJcM6r"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Terminal Fun",
+                    "title": "Twist and Survive",
+                    "uri": "5p9sOaQRFGBqSqAfnJcM6r"
+                },
+                {
+                    "artist": "Annisokay",
+                    "title": "Terminal Velocity",
+                    "uri": "2E1v9wWwugpH9WShOb0567"
+                },
+                {
+                    "artist": "do not resurrect",
+                    "title": "Terminal Velocity",
+                    "uri": "1t7TcT6RHgZAZZQeNHNLYm"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "MØ",
+                    "title": "Kamikaze",
+                    "uri": "6TjP1C3sGQH1jBfzUXfcMg"
+                },
+                {
+                    "artist": "SIL3A",
+                    "title": "Kamikaze",
+                    "uri": "7zzA5ecMVgvjpZVgLpgkaU"
+                },
+                {
+                    "artist": "Loreena McKennitt",
+                    "title": "The Dark Night of the Soul",
+                    "uri": "4An8SuVux6XZgZSD6ukuiE"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Crying Nudes",
+                    "title": "Bandit",
+                    "uri": "4ovYpMVKcihz5vuh3gtikj"
+                },
+                {
+                    "artist": "Bat Nouveau",
+                    "title": "The Cry",
+                    "uri": "6ga4fMNpFrYdbDtAMLBKDg"
+                },
+                {
+                    "artist": "Tory Lanez",
+                    "title": "The Cry (feat. Mario)",
+                    "uri": "1Rzovgi43GJlRDhnsR900U"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Salut C'est Cool",
+                    "title": "Les fleurs",
+                    "uri": "50ZG2OSzrp6gHptCsi3zXF"
+                },
+                {
+                    "artist": "Sahalé",
+                    "title": "Les Fleurs du Mal",
+                    "uri": "4GfcKYlHopWDRJ3ktq4w3j"
+                },
+                {
+                    "artist": "Senamo",
+                    "title": "Fleurs du mal",
+                    "uri": "4iNaJdpUgJG6ZVis4A9PNq"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "JO☆STARS 〜TOMMY,Coda,JIN〜",
+                    "title": "JoJo Sonochino Kioku~end of THE WORLD~",
+                    "uri": "6x5R5nYhMCwfIJILBi25Ss"
+                },
+                {
+                    "artist": "Max Richter",
+                    "title": "Dream 1 (before the wind blows it all away) - Pt. 1",
+                    "uri": "3FVy3aVs0TFzLv6FEiLqC2"
+                },
+                {
+                    "artist": "Max Richter",
+                    "title": "Dream 1 (before the wind blows it all away) - Pt. 4",
+                    "uri": "0bnSSnjn83WSf2voqAUZfU"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Limp Bizkit",
+                    "title": "Behind Blue Eyes",
+                    "uri": "1MTQHCpraD4S8g5PAFKzoj"
+                },
+                {
+                    "artist": "Limp Bizkit",
+                    "title": "Nookie",
+                    "uri": "1TEZWG1FdjzDdercCguTwj"
+                },
+                {
+                    "artist": "Limp Bizkit",
+                    "title": "Rollin' (Air Raid Vehicle)",
+                    "uri": "3IV4swNduIRunHREK80owz"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Poetical Licence",
+                    "title": "Footprints",
+                    "uri": "5BwIFJyTI7Q6JfVifw33zH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Poetical Licence",
+                    "title": "Footprints",
+                    "uri": "5BwIFJyTI7Q6JfVifw33zH"
+                },
+                {
+                    "artist": "Poetical Licence",
+                    "title": "Room 101",
+                    "uri": "5uvvdyMZ3cNattKlhEgwOX"
+                },
+                {
+                    "artist": "Kendrick Lamar",
+                    "title": "Poetic Justice",
+                    "uri": "5J6CXHvsfRGyyCnQZmVPoE"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "dublon",
+                    "title": "Belle",
+                    "uri": "19MuwU5fHAmlSjqXSfILhR"
+                },
+                {
+                    "artist": "Zaz",
+                    "title": "Belle",
+                    "uri": "2BUtRxxgzFgmhXeVyXAdZv"
+                },
+                {
+                    "artist": "Zuleiman Osman",
+                    "title": "Quantum Quandary",
+                    "uri": "2AGnODods4rGBhoBPsjicg"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "AC/DC",
+                    "title": "Shoot to Thrill - Live - 1991",
+                    "uri": "4D3qnFFio2eUuiwCM4O023"
+                },
+                {
+                    "artist": "Omori",
+                    "title": "Poems in the Fog",
+                    "uri": "5UyCeNAdl20Lio0M6JosDy"
+                },
+                {
+                    "artist": "The Poet",
+                    "title": "Wouldn't It Be Nice",
+                    "uri": "6e5NXvhtb7cEaNWUXZvIWZ"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Knut Avenstroup Haugen",
+                    "title": "Age of Conan Suite Movement 3 - Hyrkanian Raiders Attack",
+                    "uri": "5WoNjx49tF9LIUvdhNkFSU"
+                },
+                {
+                    "artist": "Juice WRLD",
+                    "title": "Armed And Dangerous",
+                    "uri": "5wujBwqG7INdStqGd4tRMX"
+                },
+                {
+                    "artist": "Pop Smoke",
+                    "title": "Armed N Dangerous - Charlie Sloth Freestyle",
+                    "uri": "18bum1uNxoHQ8WwbOlMY9Z"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "MÖWE",
+                    "title": "Who's to Blame",
+                    "uri": "19MNcIDsMYazIRF3j0zKUH"
+                },
+                {
+                    "artist": "SAINt JHN",
+                    "title": "Who Do You Blame",
+                    "uri": "67k3MCl3SyzWZL9TO2QRJZ"
+                },
+                {
+                    "artist": "ford.",
+                    "title": "Who's to Say",
+                    "uri": "7216deJCapkWyxJSqs64XS"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Themetique",
+                    "title": "Ms Devine - Deepconsoul & Dj Conflict Memories Of You Mix",
+                    "uri": "4NYGsDoNEiwwuYRUFbCjnQ"
+                },
+                {
+                    "artist": "Themetique",
+                    "title": "Ms Devine - Deepconsoul & Dj Conflict Memories Of You Mix",
+                    "uri": "2PxmY2PJ1Hj8lKN70Pzyn9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Soft Background Piano Music",
+                    "title": "There Conflict",
+                    "uri": "6IaNSeLFHw5e05c1tsTpAr"
+                },
+                {
+                    "artist": "Alexei Zakharov",
+                    "title": "Terran Conflict Main Theme",
+                    "uri": "3zvHyFQx1zNFvwemAuxfCa"
+                },
+                {
+                    "artist": "F.O.O.L",
+                    "title": "Conflict",
+                    "uri": "4rk94uEZLJftdhnjp4Hwsx"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "W.A.T.",
+                    "title": "Ivanhoo",
+                    "uri": "0wmEuybkdfM2PH71Kgb58M"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "W.A.T.",
+                    "title": "Ivanhoo",
+                    "uri": "0wmEuybkdfM2PH71Kgb58M"
+                },
+                {
+                    "artist": "IvanovBEATS",
+                    "title": "COCKTAIL",
+                    "uri": "4L2k77s5Asfa82DlEKWjq0"
+                },
+                {
+                    "artist": "IIVEN",
+                    "title": "High",
+                    "uri": "2BL4fQe3JOR7Mo9pmMfy7r"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Fix und Fertig",
+                    "title": "Cube carrelage blanc - Remastered MC 1984",
+                    "uri": "66ISZtriUpgwKFuEpoPveC"
+                },
+                {
+                    "artist": "Fix und Fertig",
+                    "title": "Cube Carrelage Blanc",
+                    "uri": "0rvz2fHEPZfO3VEC5Hf7HN"
+                },
+                {
+                    "artist": "Fix und Fertig",
+                    "title": "Cube Carrelage Blanc - Remix",
+                    "uri": "7ldQ52vLhmOMl71quKVSOG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fix und Fertig",
+                    "title": "Cube carrelage blanc - Remastered MC 1984",
+                    "uri": "66ISZtriUpgwKFuEpoPveC"
+                },
+                {
+                    "artist": "Fix und Fertig",
+                    "title": "Cube Carrelage Blanc",
+                    "uri": "0rvz2fHEPZfO3VEC5Hf7HN"
+                },
+                {
+                    "artist": "Fix und Fertig",
+                    "title": "MBit Träume - Unplugged Live",
+                    "uri": "23i5NzScslVSsQxjlJgbh6"
+                }
+            ]
+        }
+    },
     "sara-a-16th-december-2022": {
         "00": {
             "s0": "",

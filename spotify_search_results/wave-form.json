@@ -1522,6 +1522,430 @@
             ]
         }
     },
+    "wave-form-16th-december-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Spivak",
+                    "title": "Μeτa Το Ρeib",
+                    "uri": "5gHMHqkbPWlBp8eQupvf0p"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Spivak",
+                    "title": "Μeτa Το Ρeib",
+                    "uri": "5gHMHqkbPWlBp8eQupvf0p"
+                },
+                {
+                    "artist": "Spivak",
+                    "title": "Πήγαινέ Μέ",
+                    "uri": "1rxjxclgeaDJIu2sQBF9eG"
+                },
+                {
+                    "artist": "Christos Nikolopoulos",
+                    "title": "To Zeibekiko Tis Evdokias",
+                    "uri": "5pSjCHLlGnUakrvElrManh"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Morus",
+                    "title": "Vía Láctea",
+                    "uri": "0m6FfrQ3eQGaCOtXji9937"
+                },
+                {
+                    "artist": "Luar Na Lubre",
+                    "title": "Vía Láctea",
+                    "uri": "3vnDv2lYnpxxwIcBvaXfbx"
+                },
+                {
+                    "artist": "Zoé",
+                    "title": "Vía Láctea - En Vivo",
+                    "uri": "07OBZERYeI2DndhZw2S8lc"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Floating Points",
+                    "title": "Someone Close",
+                    "uri": "1AhYmMPEM7UKVSrKC7sfSO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Floating Points",
+                    "title": "Someone Close",
+                    "uri": "1AhYmMPEM7UKVSrKC7sfSO"
+                },
+                {
+                    "artist": "Floating Points",
+                    "title": "Grammar",
+                    "uri": "6GwRMUJIwhTQArxvhoW4wc"
+                },
+                {
+                    "artist": "Floating Points",
+                    "title": "Birth4000",
+                    "uri": "0ULiCJAR2lmaHrXvs3exRm"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Koudlam",
+                    "title": "Moonlight Sonataz",
+                    "uri": "7HF1agvoKsqjvOiNd0KPKz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Koudlam",
+                    "title": "Moonlight Sonataz",
+                    "uri": "7HF1agvoKsqjvOiNd0KPKz"
+                },
+                {
+                    "artist": "Koudlam",
+                    "title": "See You All",
+                    "uri": "5KrTIoePTb1n18C5kndpKX"
+                },
+                {
+                    "artist": "Richard Clayderman",
+                    "title": "Moonlight Sonata",
+                    "uri": "10Ajuz6efjnVi1wCnu9mAI"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Canva6",
+                    "title": "Still Cry at High Speed",
+                    "uri": "7sacvIvwq31bttIVNvKAnN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Canva6",
+                    "title": "Still Cry at High Speed",
+                    "uri": "7sacvIvwq31bttIVNvKAnN"
+                },
+                {
+                    "artist": "AK 33",
+                    "title": "CANNABIS IN DEN LUNGEN",
+                    "uri": "2L0rLfKYbxiXMiKKij0PFt"
+                },
+                {
+                    "artist": "Stoto",
+                    "title": "Still Can't Sleep - re-mastered",
+                    "uri": "7MORT09KQpyPMfQgKAhhDJ"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Jean-Claude Risset",
+                    "title": "Mutations",
+                    "uri": "6fucjP149MM80yI7Os7bzz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jean-Claude Risset",
+                    "title": "Mutations",
+                    "uri": "6fucjP149MM80yI7Os7bzz"
+                },
+                {
+                    "artist": "C418",
+                    "title": "Mutation",
+                    "uri": "0G6qJsqHP0Bbe5XuRjxGQq"
+                },
+                {
+                    "artist": "Kryn",
+                    "title": "Risset",
+                    "uri": "00fqV46YpTk3w4qrwoBFlf"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Voices from The Lake",
+                    "title": "Vega",
+                    "uri": "7yQh4eDMdnrNnCyusrhRos"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Voices from The Lake",
+                    "title": "Vega",
+                    "uri": "7yQh4eDMdnrNnCyusrhRos"
+                },
+                {
+                    "artist": "Vega",
+                    "title": "Ein Schluck",
+                    "uri": "4fv7XIzNDvmItIsCPylSxb"
+                },
+                {
+                    "artist": "Martin Books",
+                    "title": "Vega",
+                    "uri": "0UydaPwvHWpLEeEhgrylCL"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Corviria",
+                    "title": "Gorgo",
+                    "uri": "7r2gKhiXDQc1twPdiUKmQS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Corviria",
+                    "title": "Gorgo",
+                    "uri": "7r2gKhiXDQc1twPdiUKmQS"
+                },
+                {
+                    "artist": "Gorgoroth",
+                    "title": "Profetens Åpenbaring",
+                    "uri": "62PTQgNhHMs66qv1DEBTi4"
+                },
+                {
+                    "artist": "Gorgon Breath",
+                    "title": "Me and U",
+                    "uri": "1JlpuDsMEpvNE5a3uS3LfE"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Corviria",
+                    "title": "Seagull song",
+                    "uri": "4Pw6PXEYvtQ0nbW3rcZgH4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Corviria",
+                    "title": "Seagull song",
+                    "uri": "4Pw6PXEYvtQ0nbW3rcZgH4"
+                },
+                {
+                    "artist": "Seven Sons",
+                    "title": "Seagulls",
+                    "uri": "60rhXlv7eWFusifaJh1xeG"
+                },
+                {
+                    "artist": "Gehaak",
+                    "title": "Seagull",
+                    "uri": "6wjKyfmAa6PC08csWy7dQu"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Polysick",
+                    "title": "Passacaia",
+                    "uri": "4e3mY2jt7zYyv3Fyaxt44Y"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Polysick",
+                    "title": "Passacaia",
+                    "uri": "4e3mY2jt7zYyv3Fyaxt44Y"
+                },
+                {
+                    "artist": "Polyphia",
+                    "title": "Playing God",
+                    "uri": "4S0zagxseJHOL5ZVnTQA6X"
+                },
+                {
+                    "artist": "George Frideric Handel",
+                    "title": "Passacaglia, Suite No. 7 in G Minor, HWV 432/6 - Modern Piano Solo Version",
+                    "uri": "7CyaTBIaMBr4CCzlj47wNG"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DIMANCHE",
+                    "title": "Les Hautes Tours",
+                    "uri": "5YmtqWMzc3vDWdncEJbbVU"
+                },
+                {
+                    "artist": "Fauve",
+                    "title": "Les Hautes lumières",
+                    "uri": "5T4TsuFHsu7i5zUq7wVsMw"
+                },
+                {
+                    "artist": "Fauve",
+                    "title": "Les Hautes lumières - Live 2015",
+                    "uri": "3H9lhqBItcuXJHJc6YEtuO"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Niagara",
+                    "title": "Ano-B",
+                    "uri": "0nKRuOz9saMqxHAeLKdcDz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Niagara",
+                    "title": "Ano-B",
+                    "uri": "0nKRuOz9saMqxHAeLKdcDz"
+                },
+                {
+                    "artist": "大滝詠一",
+                    "title": "あの娘に御用心 - NOVELTY SONG BOOK Version",
+                    "uri": "5e9DASzD212M0merwfZtBX"
+                },
+                {
+                    "artist": "Metro Boomin",
+                    "title": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+                    "uri": "4WuOWVnAqvEQxgSRrspBgt"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gary Stroutsos",
+                    "title": "Empty Sky",
+                    "uri": "5BUaJH6BntYkCbLoMCpowL"
+                },
+                {
+                    "artist": "Gary Stroutsos",
+                    "title": "Adobe Walls",
+                    "uri": "17VEm4ZjTDDQlBFuWNPhtW"
+                },
+                {
+                    "artist": "Oliver Shanti & Friends",
+                    "title": "Sangha's Love for Amitabha",
+                    "uri": "66qAPYjLcSGkg7wZkH3AIO"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Sensations Fix",
+                    "title": "Cold Nose Part 3, 4th Movement",
+                    "uri": "1Nh2EwwtGbxXTmaXYOAnAS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sensations Fix",
+                    "title": "Cold Nose Part 3, 4th Movement",
+                    "uri": "1Nh2EwwtGbxXTmaXYOAnAS"
+                },
+                {
+                    "artist": "TTRRUUCES",
+                    "title": "Sensations of Cool",
+                    "uri": "4SfyAvpcSQxijDWXLQd57b"
+                },
+                {
+                    "artist": "PLÜM",
+                    "title": "Sensation",
+                    "uri": "3nKxX6zfFneRwrQtC8mshP"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gianna Nannini",
+                    "title": "I maschi",
+                    "uri": "6r7TYfmeQr6rU7asA1OyZf"
+                },
+                {
+                    "artist": "Ornella Vanoni",
+                    "title": "I maschi",
+                    "uri": "765oSxmw4x07o2WO98hreY"
+                },
+                {
+                    "artist": "Gianna Nannini",
+                    "title": "I maschi - live 2011",
+                    "uri": "0fDUy6L7mMWSerzI5BVMUy"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Stereolab",
+                    "title": "Refractions in the Plastic Pulse",
+                    "uri": "6SaQj5bicILLF3c430kF4m"
+                },
+                {
+                    "artist": "Stereolab",
+                    "title": "Refractions in the Plastic Pulse",
+                    "uri": "2q1Ihz0mbK9tlv7SUyqRmi"
+                },
+                {
+                    "artist": "Stereolab",
+                    "title": "Refractions In The Plastic Pulse [Feebate Mix] - Autechre Remix",
+                    "uri": "0P6Q4maWS41Q9aw1H5p3EE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Stereolab",
+                    "title": "Refractions in the Plastic Pulse",
+                    "uri": "6SaQj5bicILLF3c430kF4m"
+                },
+                {
+                    "artist": "Stereolab",
+                    "title": "Refractions in the Plastic Pulse",
+                    "uri": "2q1Ihz0mbK9tlv7SUyqRmi"
+                },
+                {
+                    "artist": "Stereo Lovers",
+                    "title": "Stereo Love - Sped Up Version",
+                    "uri": "7AjU3sce5VrGGxHjGDy7ZZ"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hector Berlioz",
+                    "title": "Symphonie fantastique, Op. 14: I. Rêveries - Passions",
+                    "uri": "5AW7mqq6Ne8RtMOXzPr72o"
+                },
+                {
+                    "artist": "Jules Massenet",
+                    "title": "Massenet: Don Quichotte, Act 1: \"Elle m'aime et va me revenir\" (Don Quichotte, Dulcinée)",
+                    "uri": "2CMhlhy5Bw9J0b05iSPZp8"
+                },
+                {
+                    "artist": "Daniel Lopes",
+                    "title": "Das muss Liebe sein",
+                    "uri": "3xXdHlbu2yNGr8A9wZa4Ly"
+                }
+            ]
+        }
+    },
     "wave-form-16th-september-2023": {
         "00": {
             "s0": [

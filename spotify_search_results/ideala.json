@@ -1,4 +1,386 @@
 {
+    "ideala-17th-december-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alexander Borodin",
+                    "title": "ダッタン人の踊り (歌劇 イーゴリ公より) 2 娘たちの流麗な踊り",
+                    "uri": "2mZHhnW9724S7JUHqT0V1N"
+                },
+                {
+                    "artist": "Alexander Borodin",
+                    "title": "ダッタン人の踊り (歌劇 イーゴリ公より) 6 娘たちの流麗な踊り",
+                    "uri": "3nz5gOAnmsgP55CFsj9cdN"
+                },
+                {
+                    "artist": "Vivid BAD SQUAD",
+                    "title": "悪魔の踊り方 (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)",
+                    "uri": "1sWzngBA5qX1di9zxY03rf"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kohei Fukuda",
+                    "title": "舟漕ぎ流し唄(北海道民謡)",
+                    "uri": "6n7CljaEFQ3cIWzmoSlgVV"
+                },
+                {
+                    "artist": "Mika Shinno",
+                    "title": "下北漁港",
+                    "uri": "1ztCSLoNUpoQ6EmhPzf4cu"
+                },
+                {
+                    "artist": "矢の如し",
+                    "title": "空船に揺られて",
+                    "uri": "728IkpkB0buPSVQffvk3DR"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "栗山 和樹",
+                    "title": "鴨川の流れ",
+                    "uri": "2zcRMPwlN9irGwZBT7YU87"
+                },
+                {
+                    "artist": "三山ひろし",
+                    "title": "お岩木山",
+                    "uri": "4UZ8g9lmbe4cmw1m3NuGYK"
+                },
+                {
+                    "artist": "三山ひろし",
+                    "title": "望郷山河",
+                    "uri": "7LuJOnj4jpYk8vFZu7X3iP"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "前口渉",
+                    "title": "碓氷拓海",
+                    "uri": "0cIpT43eND958EDSYAI4a8"
+                },
+                {
+                    "artist": "新山詩織",
+                    "title": "今 ここにいる",
+                    "uri": "78XWreXsN3uKC68wKR5Z24"
+                },
+                {
+                    "artist": "新山詩織",
+                    "title": "今 ここにいる",
+                    "uri": "4gRUdtCtmd6upYbmozMDlK"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Yasumasa Kitagawa",
+                    "title": "大追求 〜成歩堂龍ノ介の覺悟",
+                    "uri": "7a0PMLaZMhu18Hl88STQBk"
+                },
+                {
+                    "artist": "大度",
+                    "title": "宰羊 - 伴奏",
+                    "uri": "5yvllwLqRrRf58ClRgrNfU"
+                },
+                {
+                    "artist": "大度",
+                    "title": "宰羊",
+                    "uri": "2vslOnarD0v06yvLRMnAeD"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "澤田勝秋",
+                    "title": "津軽小原節",
+                    "uri": "7Ln8fTwSi4owFmWx9hfNLq"
+                },
+                {
+                    "artist": "輝＆輝(KIKI)",
+                    "title": "津軽じょんがら節　掛け合い",
+                    "uri": "5W7xBq77jAWCC6NRMaUzKN"
+                },
+                {
+                    "artist": "木村 徹二",
+                    "title": "津軽平野",
+                    "uri": "1ljLxBEoUNBi4FsZbIx3BO"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hiromitsu Agatsuma",
+                    "title": "祭り囃子",
+                    "uri": "5bp5IjV4jGBM1ta0d6v3OQ"
+                },
+                {
+                    "artist": "Kohei Fukuda",
+                    "title": "舟漕ぎ流し唄(北海道民謡)",
+                    "uri": "6n7CljaEFQ3cIWzmoSlgVV"
+                },
+                {
+                    "artist": "森田圭一",
+                    "title": "古調　稗搗き節",
+                    "uri": "0AJvV1rj4rc9SJC9yWRzBZ"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "森田圭一",
+                    "title": "古調　稗搗き節",
+                    "uri": "0AJvV1rj4rc9SJC9yWRzBZ"
+                },
+                {
+                    "artist": "三山ひろし",
+                    "title": "東京の灯よいつまでも",
+                    "uri": "4RF7G1GhnL6yK0Kuz5JmXs"
+                },
+                {
+                    "artist": "Tokyo Garonne",
+                    "title": "祭囃子",
+                    "uri": "6FmJMfBnsMCkK6zeYj4aQh"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "高田みづえ",
+                    "title": "回転木馬",
+                    "uri": "5xZYTZ5mwK89A1u0NJrCNG"
+                },
+                {
+                    "artist": "高田みづえ",
+                    "title": "水無月から・・",
+                    "uri": "5eTo0TlKFQfKFONKBbbhgm"
+                },
+                {
+                    "artist": "高田 梢枝",
+                    "title": "秘密基地",
+                    "uri": "7eKiIuzYA36r7yLUtq9W0F"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "青坂満",
+                    "title": "江差追分",
+                    "uri": "2nSXtral4ouTp6VJ8aaBUc"
+                },
+                {
+                    "artist": "房田勝芳",
+                    "title": "江差三下がり",
+                    "uri": "50cNQhSWSvfiRXUCiFcNoN"
+                },
+                {
+                    "artist": "Michiya Mihashi",
+                    "title": "江差恋しや",
+                    "uri": "4raszrbXAxTwFOx4712WYN"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "澤田勝秋",
+                    "title": "八戸甚句～南部馬方三下り",
+                    "uri": "4gz6HgIgYYK97Sdm5PGIYD"
+                },
+                {
+                    "artist": "古井戸道雄",
+                    "title": "三百",
+                    "uri": "3g4cANVuM62qMfYgRRwgUc"
+                },
+                {
+                    "artist": "康笑笛",
+                    "title": "八水",
+                    "uri": "0LUtnhSnCSTvV0MDWIEZ52"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Meiko Kaji",
+                    "title": "山猫",
+                    "uri": "24XxRmykY25glxzT0yxvCv"
+                },
+                {
+                    "artist": "三山ひろし",
+                    "title": "お岩木山",
+                    "uri": "4UZ8g9lmbe4cmw1m3NuGYK"
+                },
+                {
+                    "artist": "海城新公社",
+                    "title": "山山成川 - 伴奏",
+                    "uri": "0MW7sXpjFBsLBPi222tGTS"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Noriko Sakai",
+                    "title": "碧いうさぎ",
+                    "uri": "6jzYJy7XuvaoHpWlC9tJJv"
+                },
+                {
+                    "artist": "浅香 唯",
+                    "title": "セシル - Single Version; 2010 Remaster",
+                    "uri": "6mqQAoAkzN9Dyl2mmb0yr3"
+                },
+                {
+                    "artist": "長橋清",
+                    "title": "荒野",
+                    "uri": "5SMIx40NBSgbRpilIYjgSC"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "佐井好子",
+                    "title": "波止場",
+                    "uri": "5UCuv4TzO16bVuJZZLxYBe"
+                },
+                {
+                    "artist": "Yoko Kanno",
+                    "title": "菅野よう子: 花は咲く",
+                    "uri": "6KcQpb1huzbhSpHhLVR4Df"
+                },
+                {
+                    "artist": "長橋清",
+                    "title": "荒野",
+                    "uri": "5SMIx40NBSgbRpilIYjgSC"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chiemi Eri",
+                    "title": "串本節(和歌山県民謡)",
+                    "uri": "2nZpfJXpLAzxS9iJXZ0b59"
+                },
+                {
+                    "artist": "彩青",
+                    "title": "十勝馬唄",
+                    "uri": "7gHe5m2z4SPT0Ch23HfbWx"
+                },
+                {
+                    "artist": "森田圭一",
+                    "title": "古調　稗搗き節",
+                    "uri": "0AJvV1rj4rc9SJC9yWRzBZ"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "澤田勝秋",
+                    "title": "出雲崎おけさ",
+                    "uri": "7tI2pds09pbwXOaByiNeit"
+                },
+                {
+                    "artist": "春風亭一朝",
+                    "title": "淀五郎",
+                    "uri": "5ubgJjlCtfFkDQ1KAPJgtc"
+                },
+                {
+                    "artist": "Michiya Mihashi",
+                    "title": "島の船唄",
+                    "uri": "5GEfcQ3uof4ktl86xGmIyr"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Teruo Ikeda",
+                    "title": "日豊本線",
+                    "uri": "7dOsUc2T32i5Fe8A8CPMs5"
+                },
+                {
+                    "artist": "Tokiko Kato",
+                    "title": "仮面の騎士 - Live",
+                    "uri": "3555SQOuukXHNP6iNicfM2"
+                },
+                {
+                    "artist": "二葉百合子",
+                    "title": "関東一本〆",
+                    "uri": "60h2dltkX6WOvyi8YWrRQ8"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "笠置シヅ子",
+                    "title": "大島ブギー - 2023 Remastered Ver.",
+                    "uri": "0cCLP3sOHuAgSUEn1MM16m"
+                },
+                {
+                    "artist": "岡山健二",
+                    "title": "大島さん",
+                    "uri": "3UPKar19619QQf6OkBSI0E"
+                },
+                {
+                    "artist": "Junpei Oda",
+                    "title": "約束",
+                    "uri": "2yxWKx0Az8Sg1UEsTtTggJ"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hachiro Kasuga",
+                    "title": "旅人",
+                    "uri": "3JwchRaIf7uQoubvRP5J00"
+                },
+                {
+                    "artist": "于櫻櫻",
+                    "title": "春歸路",
+                    "uri": "0HFs5LgTDQcBG88ymuo5s8"
+                },
+                {
+                    "artist": "清浦夏実",
+                    "title": "旅の途中",
+                    "uri": "1M9G7rtS145mE3KLwErInn"
+                }
+            ]
+        }
+    },
     "ideala-19th-march-2023": {
         "00": {
             "s0": "",
