@@ -7770,6 +7770,755 @@
             ]
         }
     },
+    "soup-to-nuts-john-gomez-18th-december-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Peter Barclay",
+                    "title": "You Are Loved",
+                    "uri": "0XthUqViyQuWgvjYPrf0Hm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Peter Barclay",
+                    "title": "You Are Loved",
+                    "uri": "0XthUqViyQuWgvjYPrf0Hm"
+                },
+                {
+                    "artist": "Peter Bradley Adams",
+                    "title": "The Longer I Run",
+                    "uri": "03czT1nVZDRv2JlpY2GxON"
+                },
+                {
+                    "artist": "Peter Bradley Adams",
+                    "title": "My Arms Were Always Around You",
+                    "uri": "02a2RQEICEzbdPPYh0aLnJ"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Ocean Moon",
+                    "title": "The Ecstatic Alarm",
+                    "uri": "3R919WjV4lTdTDYBSdD0Ft"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ocean Moon",
+                    "title": "The Ecstatic Alarm",
+                    "uri": "3R919WjV4lTdTDYBSdD0Ft"
+                },
+                {
+                    "artist": "Roots of Creation",
+                    "title": "Ocean Moon - Acoustic",
+                    "uri": "0cPaMn4CWg2cB3I8BnlzVG"
+                },
+                {
+                    "artist": "PsychixBeats",
+                    "title": "ocean moonlight.",
+                    "uri": "1QHozhq8Ny0vLdNxyGjJYP"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Seb Wildblood",
+                    "title": "slice",
+                    "uri": "6E9NjT6XbWFTjsrjK8CbuE"
+                },
+                {
+                    "artist": "Seb Wildblood",
+                    "title": "slice - Gold Panda Remix",
+                    "uri": "2OrqhbF4qjcSki327nFA3l"
+                },
+                {
+                    "artist": "Seb Wildblood",
+                    "title": "slice - Gold Panda Remix",
+                    "uri": "7wlkeffCyIOIndONtdYTLl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Seb Wildblood",
+                    "title": "slice",
+                    "uri": "6E9NjT6XbWFTjsrjK8CbuE"
+                },
+                {
+                    "artist": "Seb Wildblood",
+                    "title": "slice - Gold Panda Remix",
+                    "uri": "2OrqhbF4qjcSki327nFA3l"
+                },
+                {
+                    "artist": "Seb Wildblood",
+                    "title": "slice - Gold Panda Remix",
+                    "uri": "7wlkeffCyIOIndONtdYTLl"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Avalon Emerson",
+                    "title": "Dreamliner",
+                    "uri": "5LhNwK0hawsVqNsV5SqlHy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Avalon Emerson",
+                    "title": "Dreamliner",
+                    "uri": "5LhNwK0hawsVqNsV5SqlHy"
+                },
+                {
+                    "artist": "Avalon Emerson",
+                    "title": "Astrology Poisoning",
+                    "uri": "2vYd15dPYelxBESvyviVbf"
+                },
+                {
+                    "artist": "Avalon",
+                    "title": "Afterlife",
+                    "uri": "67gKQsgf3KacBTbQaWZ4SN"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Marina Herlop",
+                    "title": "La Alhambra",
+                    "uri": "4Qof27HYNjISAVepmVBD7t"
+                },
+                {
+                    "artist": "Marina Herlop",
+                    "title": "La Alhambra",
+                    "uri": "1HecK94y9XWiUXyBHPsqUF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Marina Herlop",
+                    "title": "La Alhambra",
+                    "uri": "1HecK94y9XWiUXyBHPsqUF"
+                },
+                {
+                    "artist": "Marina Herlop",
+                    "title": "La Alhambra",
+                    "uri": "4Qof27HYNjISAVepmVBD7t"
+                },
+                {
+                    "artist": "Francisco Tárrega",
+                    "title": "Recuerdos de la Alhambra",
+                    "uri": "7nTCpSPOBnuxwWIbfG2hzq"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Bruno Berle",
+                    "title": "Tirolirole",
+                    "uri": "5x89MDzl5Xcsg7wO4yPpVJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bruno Berle",
+                    "title": "Tirolirole",
+                    "uri": "5x89MDzl5Xcsg7wO4yPpVJ"
+                },
+                {
+                    "artist": "Tiroler Spatzen",
+                    "title": "Mein Tirolerland",
+                    "uri": "34TYbxuh36oHaXcF9mhEZe"
+                },
+                {
+                    "artist": "Zellberg Buam",
+                    "title": "Tirolerzeit",
+                    "uri": "6DFNGK65OF8vPBwHmu2JSN"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Varnish La Piscine",
+                    "title": "BYE BYE FOREVER",
+                    "uri": "0uOUpq0ABw8N5Hq7InOBUt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Varnish La Piscine",
+                    "title": "BYE BYE FOREVER",
+                    "uri": "0uOUpq0ABw8N5Hq7InOBUt"
+                },
+                {
+                    "artist": "Benash",
+                    "title": "Bye Bye",
+                    "uri": "4OrzZjZHVfayEVfZPE1uhk"
+                },
+                {
+                    "artist": "Marnik",
+                    "title": "Bye Bye Bye",
+                    "uri": "1vYFL3ZdGllLpnJK5RsJE7"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Jalen Ngonda",
+                    "title": "It Takes A Fool",
+                    "uri": "3vdfmxNcwJHonDzazX5Y5b"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jalen Ngonda",
+                    "title": "It Takes A Fool",
+                    "uri": "3vdfmxNcwJHonDzazX5Y5b"
+                },
+                {
+                    "artist": "Jalen Ngonda",
+                    "title": "So Glad I Found You",
+                    "uri": "4Egu9NllrAbdpNjW5ys8CM"
+                },
+                {
+                    "artist": "Jalen Ngonda",
+                    "title": "What A Difference She Made",
+                    "uri": "4kOdKWtst1d1PwERMtOWlX"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Hypnotic Brass Ensemble",
+                    "title": "Treasure",
+                    "uri": "31cLeG1v6vEmxOcxuuOQO3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hypnotic Brass Ensemble",
+                    "title": "Treasure",
+                    "uri": "31cLeG1v6vEmxOcxuuOQO3"
+                },
+                {
+                    "artist": "Hypnotic Brass Ensemble",
+                    "title": "Flipside",
+                    "uri": "73CtQ5mEQOarDjZfRdJ454"
+                },
+                {
+                    "artist": "Hypnotic Brass Ensemble",
+                    "title": "Ballicki Bone",
+                    "uri": "0s86cVD9jP3QahHnOfkLp0"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Vanishing Twin",
+                    "title": "Marbles",
+                    "uri": "561Fygjy0zzPLTd2LCJBdz"
+                },
+                {
+                    "artist": "Vanishing Twin",
+                    "title": "Marbles",
+                    "uri": "3hlaBsAEPfnBWMmxnP5pej"
+                },
+                {
+                    "artist": "Vanishing Twin",
+                    "title": "Marbles",
+                    "uri": "69hpYqSDwBP63advBwIml1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Vanishing Twin",
+                    "title": "Marbles",
+                    "uri": "3hlaBsAEPfnBWMmxnP5pej"
+                },
+                {
+                    "artist": "Vanishing Twin",
+                    "title": "Marbles",
+                    "uri": "561Fygjy0zzPLTd2LCJBdz"
+                },
+                {
+                    "artist": "Enui",
+                    "title": "Vanishing",
+                    "uri": "0aImQQCR20G0KZu9OtoLSJ"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Headache",
+                    "title": "Truisms 4 Dummies",
+                    "uri": "40oMDrqiESAbKzfnK6avpB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Headache",
+                    "title": "Truisms 4 Dummies",
+                    "uri": "40oMDrqiESAbKzfnK6avpB"
+                },
+                {
+                    "artist": "Motionless In White",
+                    "title": "Headache",
+                    "uri": "1zVuDtGYWtwg2Id64zrL2K"
+                },
+                {
+                    "artist": "Asal",
+                    "title": "Headache",
+                    "uri": "1HtxGCsjuaokdASW95dBN3"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Khotin",
+                    "title": "Fountain, Growth",
+                    "uri": "4FP1Fumg7lNoJr2XaGDN87"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Khotin",
+                    "title": "Fountain, Growth",
+                    "uri": "4FP1Fumg7lNoJr2XaGDN87"
+                },
+                {
+                    "artist": "Khotin",
+                    "title": "Groove 32",
+                    "uri": "6658u0EPu6u0x9r5A4qT4h"
+                },
+                {
+                    "artist": "Khotin",
+                    "title": "Welcome",
+                    "uri": "0GYzXPF4P81qEPMzfEZ4o3"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Toumba",
+                    "title": "Istibtan",
+                    "uri": "0xKYUsca6nDBKcEWL8PyKQ"
+                },
+                {
+                    "artist": "Toumba",
+                    "title": "Istibtan",
+                    "uri": "0lhiWnlPWnPkgtCYjxzog4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Toumba",
+                    "title": "Istibtan",
+                    "uri": "0xKYUsca6nDBKcEWL8PyKQ"
+                },
+                {
+                    "artist": "Toumba",
+                    "title": "Istibtan",
+                    "uri": "0lhiWnlPWnPkgtCYjxzog4"
+                },
+                {
+                    "artist": "mamdy ready",
+                    "title": "Toumba",
+                    "uri": "3ZptNLYEVjbUjz5ozLaLHi"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Summer Walker",
+                    "title": "Karma - Sped Up",
+                    "uri": "0MwFC8WoPCjq2H3UES2aos"
+                },
+                {
+                    "artist": "Emdey",
+                    "title": "Karma",
+                    "uri": "3mzvXUlRgBnk24rhTOmcq8"
+                },
+                {
+                    "artist": "MOD SUN",
+                    "title": "Karma",
+                    "uri": "7vXtuHrqgzQi58ihUO7L2d"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Thundercat",
+                    "title": "No More Lies",
+                    "uri": "62tGzw9OJOwDcjPBnMPCuj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Thundercat",
+                    "title": "No More Lies",
+                    "uri": "62tGzw9OJOwDcjPBnMPCuj"
+                },
+                {
+                    "artist": "Thundercat",
+                    "title": "Them Changes",
+                    "uri": "7CH99b2i1TXS5P8UUyWtnM"
+                },
+                {
+                    "artist": "Thundercat",
+                    "title": "Funny Thing",
+                    "uri": "1c5CllrZr45UBhWpIqM332"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nick Hollywood",
+                    "title": "Deep Henderson",
+                    "uri": "1nKe6UStiQ6J2y5nHFb32C"
+                },
+                {
+                    "artist": "Nick Howard",
+                    "title": "Our Time",
+                    "uri": "14xh7PEnDCxfjwkgsTC5OF"
+                },
+                {
+                    "artist": "1914",
+                    "title": "...And A Cross Now Marks His Place",
+                    "uri": "53w9todDdp3sB7Wzj6GNls"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kumachan Seal",
+                    "title": "Radonamin",
+                    "uri": "2IUb5X7kVyTuFosoqKwiow"
+                },
+                {
+                    "artist": "Kuma HM",
+                    "title": "Ocean",
+                    "uri": "4LSuMKEv6e9uCzuOkvZHAb"
+                },
+                {
+                    "artist": "Kuma HM",
+                    "title": "Run",
+                    "uri": "2aMGdZhgIDafVhtXyPajCw"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Loveshadow",
+                    "title": "Mirage",
+                    "uri": "0I2iVl3NL6SqSrUG34iPHY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Loveshadow",
+                    "title": "Mirage",
+                    "uri": "0I2iVl3NL6SqSrUG34iPHY"
+                },
+                {
+                    "artist": "The B-52's",
+                    "title": "Love Shack",
+                    "uri": "4W4wYHtsrgDiivRASVOINL"
+                },
+                {
+                    "artist": "The B-52's",
+                    "title": "Love Shack - Edit; 2019 Remaster",
+                    "uri": "0LzeivEHO16a8eBQGlpVkE"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Lamin Fofana",
+                    "title": "Niary Ngorong - Itinerant Mix",
+                    "uri": "6XN3rMm7dDcflxl9PJr8i6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lamin Fofana",
+                    "title": "Niary Ngorong - Itinerant Mix",
+                    "uri": "6XN3rMm7dDcflxl9PJr8i6"
+                },
+                {
+                    "artist": "Lamin Fofana",
+                    "title": "Niary Ngorong - Caprices Mix",
+                    "uri": "3dIqaZ73wx9Wyyc4ixwKnu"
+                },
+                {
+                    "artist": "Klangphonics",
+                    "title": "Laminar - Moonbootica Remix",
+                    "uri": "3XsNa1764TvABm41Ru2WgR"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Odetari",
+                    "title": "HYPNOTIC DATA",
+                    "uri": "26wxtmoH4uPUF1n5VlPxMc"
+                },
+                {
+                    "artist": "Max Styler",
+                    "title": "Hypnotic",
+                    "uri": "1TCJjzvQn6zaIzckTZiabG"
+                },
+                {
+                    "artist": "Lynnic",
+                    "title": "Hypnotica - Radio-Edit",
+                    "uri": "6rsaNBtww99lyAfRCcRafl"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lincoln Olivetti",
+                    "title": "Suspira",
+                    "uri": "1qNxA7OrDL6goGPUHJQSzD"
+                },
+                {
+                    "artist": "Lincoln Olivetti",
+                    "title": "Suspira",
+                    "uri": "4WL0GEaVb6g0Dpg4lZvDAQ"
+                },
+                {
+                    "artist": "Robson Jorge",
+                    "title": "Ginga",
+                    "uri": "2KDF5lrsQNBN0a89SwkwDg"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Amp Fiddler",
+                    "title": "Good Vibes",
+                    "uri": "2pF46947F7sUvImI95eLQ2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Amp Fiddler",
+                    "title": "Good Vibes",
+                    "uri": "2pF46947F7sUvImI95eLQ2"
+                },
+                {
+                    "artist": "Santiano",
+                    "title": "The Fiddler On The Deck - ESC 2014 Radio Version",
+                    "uri": "35LTGHRmAWlj1u5A964Lh3"
+                },
+                {
+                    "artist": "Fiddler's Green",
+                    "title": "The Bog",
+                    "uri": "4Pqe4rdlcUjKN7owNfBt0Q"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Free Magic",
+                    "title": "Info At",
+                    "uri": "0vtI1KLOEt2tsHOb756u5X"
+                },
+                {
+                    "artist": "Free Magic",
+                    "title": "Info At",
+                    "uri": "2hTEcGJeX9y24uksLnAg1e"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Free Magic",
+                    "title": "Info At",
+                    "uri": "0vtI1KLOEt2tsHOb756u5X"
+                },
+                {
+                    "artist": "Free Magic",
+                    "title": "Info At",
+                    "uri": "2hTEcGJeX9y24uksLnAg1e"
+                },
+                {
+                    "artist": "Koresma",
+                    "title": "Free - Marley Carroll Remix",
+                    "uri": "6FbWzGDOiaSVFOwXOTUd9w"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "Olof Dreijer",
+                    "title": "Camelia",
+                    "uri": "1p39reyT7Qmcq1lIYFe2rA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Olof Dreijer",
+                    "title": "Camelia",
+                    "uri": "1p39reyT7Qmcq1lIYFe2rA"
+                },
+                {
+                    "artist": "Camélia Jordana",
+                    "title": "Moi c'est",
+                    "uri": "0cgWTzGYVUWELohSykTxrb"
+                },
+                {
+                    "artist": "Olaf Schubert",
+                    "title": "Ich bin ich!",
+                    "uri": "6lSvqIq0S6R7QNTc4fz3Dm"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "LiloCox",
+                    "title": "Samba",
+                    "uri": "0S4ea7HxCIds1AQpRJwZoV"
+                },
+                {
+                    "artist": "Samba KF",
+                    "title": "Topi Topi",
+                    "uri": "4w12mr93gyMAy95cFGpFWg"
+                },
+                {
+                    "artist": "vision string quartet",
+                    "title": "Samba",
+                    "uri": "0WqAEKV3SftcJoRnFMJdAS"
+                }
+            ]
+        },
+        "25": {
+            "s0": [
+                {
+                    "artist": "Envee",
+                    "title": "Sum Luv - 2-Step Mix Full Vocal Version",
+                    "uri": "1NLJlL1cPdyW5nAkMNxSa7"
+                },
+                {
+                    "artist": "Envee",
+                    "title": "Sum Luv - 2-Step Mix Full Vocal Version",
+                    "uri": "01ThQuP8rB0i2J3hmmOCRa"
+                },
+                {
+                    "artist": "Envee",
+                    "title": "Sum Luv - 2-Step Mix Full Vocal Version",
+                    "uri": "2Rn6ABD0zj5NaelNYA3e6r"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Envee",
+                    "title": "Sum Luv - 2-Step Mix Full Vocal Version",
+                    "uri": "1NLJlL1cPdyW5nAkMNxSa7"
+                },
+                {
+                    "artist": "Envee",
+                    "title": "Sum Luv - 2-Step Mix Radio Version",
+                    "uri": "7EwF0jlP4rXNUxo6m4YNt8"
+                },
+                {
+                    "artist": "Envee",
+                    "title": "Sum Luv - 2-Step Mix Full Vocal Version",
+                    "uri": "2Rn6ABD0zj5NaelNYA3e6r"
+                }
+            ]
+        },
+        "26": {
+            "s0": [
+                {
+                    "artist": "Close Counters",
+                    "title": "SNAP TO IT!",
+                    "uri": "6TbFEexVjMq0oiVqdwjaYr"
+                },
+                {
+                    "artist": "Close Counters",
+                    "title": "SNAP TO IT!",
+                    "uri": "4iyDRW0QVeXra6dSBINkHY"
+                },
+                {
+                    "artist": "Close Counters",
+                    "title": "SNAP TO IT!",
+                    "uri": "5N5ODKxC7VKJ6yh2FIf0k3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Close Counters",
+                    "title": "SNAP TO IT!",
+                    "uri": "4iyDRW0QVeXra6dSBINkHY"
+                },
+                {
+                    "artist": "Close Counters",
+                    "title": "SNAP TO IT!",
+                    "uri": "6TbFEexVjMq0oiVqdwjaYr"
+                },
+                {
+                    "artist": "Close Counters",
+                    "title": "SOULACOASTA",
+                    "uri": "0I1FFxUHgZnlElEonD1cCL"
+                }
+            ]
+        },
+        "27": {
+            "s0": [
+                {
+                    "artist": "Mildlife",
+                    "title": "Musica",
+                    "uri": "1PcorHXcbsQu0II44fnwAZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mildlife",
+                    "title": "Musica",
+                    "uri": "1PcorHXcbsQu0II44fnwAZ"
+                },
+                {
+                    "artist": "Mildlife",
+                    "title": "Return To Centaurus",
+                    "uri": "4h2CGxsqEbu5jPyIsmBS7B"
+                },
+                {
+                    "artist": "Mildlife",
+                    "title": "Return To Centaurus",
+                    "uri": "7cNuV7yVldD6vj1rdAKUBw"
+                }
+            ]
+        }
+    },
     "soup-to-nuts-john-gomez-18th-july-2022": {
         "00": {
             "s0": [
