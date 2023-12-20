@@ -6609,6 +6609,368 @@
             ]
         }
     },
+    "carla-dal-forno-19th-december-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Flaer",
+                    "title": "Hew",
+                    "uri": "2lGiO5sbzFpTGJEhSSQQBh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Flaer",
+                    "title": "Hew",
+                    "uri": "2lGiO5sbzFpTGJEhSSQQBh"
+                },
+                {
+                    "artist": "Hensonn",
+                    "title": "Flare - Slowed",
+                    "uri": "7aZxSDe8hgD8MXv8ukuCfT"
+                },
+                {
+                    "artist": "BRADIO",
+                    "title": "Flyers",
+                    "uri": "6VBQ4DF4fwPJNA96RbMQWT"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Genghis Cohn",
+                    "title": "Onion",
+                    "uri": "6zyc1x1e6YR1rbz7e3lFi4"
+                },
+                {
+                    "artist": "Genghis Cohn",
+                    "title": "Onion",
+                    "uri": "0a3SHvX9hIHkDc64oS70VN"
+                },
+                {
+                    "artist": "Genghis Cohn",
+                    "title": "Onion",
+                    "uri": "16M15g5HaGz4encz7tyxut"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Genghis Cohn",
+                    "title": "Onion",
+                    "uri": "6zyc1x1e6YR1rbz7e3lFi4"
+                },
+                {
+                    "artist": "Genghis Cohn",
+                    "title": "Onion",
+                    "uri": "0a3SHvX9hIHkDc64oS70VN"
+                },
+                {
+                    "artist": "Onion Boi",
+                    "title": "Allein - Remix",
+                    "uri": "5fl4zZqXuo8eOQGGOFeXC0"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jam Money",
+                    "title": "Away Inside",
+                    "uri": "22EOmYVZbPnM3ezVMC0VEf"
+                },
+                {
+                    "artist": "Jam Merchants",
+                    "title": "2:1",
+                    "uri": "3jwlvIOc0VQUsHeLnQpl3f"
+                },
+                {
+                    "artist": "Jamtitiwam",
+                    "title": "Money",
+                    "uri": "2rVFY57haJU6PYyKVHQjGI"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Klang",
+                    "title": "As It Is",
+                    "uri": "0fN1DPN3Yx8IT5mUnlnFAy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Klang",
+                    "title": "As It Is",
+                    "uri": "0fN1DPN3Yx8IT5mUnlnFAy"
+                },
+                {
+                    "artist": "Klangkarussell",
+                    "title": "Sonnentanz",
+                    "uri": "4YRvb9B8cgvhst11qk8CKn"
+                },
+                {
+                    "artist": "Klangkuenstler",
+                    "title": "Die Welt Brennt",
+                    "uri": "7oAM2GxHCTKTLU3gXvkuuj"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Adam Axelzon",
+                    "title": "Ke-No-La-E",
+                    "uri": "34IjhBljIciN82dJneGSkV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Henryk Górecki",
+                    "title": "Symphony No. 3, Op. 36: II. Lento e Largo - Tranquillissimo",
+                    "uri": "4iCn374fZg5UbGD1xFNo1m"
+                },
+                {
+                    "artist": "John Adams",
+                    "title": "Adams: The Death of Klinghoffer, Prologue: Chorus of Exiled Palestinians",
+                    "uri": "5L9bEvb3CdE9LQWe5hAhD2"
+                },
+                {
+                    "artist": "Amadodana Ase Wesile",
+                    "title": "Ke Na Le Modisa",
+                    "uri": "4Jy7u1pqz10cx9sE2ffR7l"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jorane",
+                    "title": "Vent fou",
+                    "uri": "6i3659FPWh4fL7dMCQYYeb"
+                },
+                {
+                    "artist": "Jorane",
+                    "title": "Vent fou - Live",
+                    "uri": "3c7VplRFHxLVUjoDjwYUKy"
+                },
+                {
+                    "artist": "Tophat Panda",
+                    "title": "Kou",
+                    "uri": "0cmf8tSnmOumJyfn08o2Ic"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Natalie Uhrman",
+                    "title": "Nano",
+                    "uri": "77CyZedyNmW11l2aqm34U7"
+                },
+                {
+                    "artist": "Remoe",
+                    "title": "Nano",
+                    "uri": "3bTBcwJmUfRJV4H0UGNq6l"
+                },
+                {
+                    "artist": "Natalie Uhrman",
+                    "title": "Clown",
+                    "uri": "4AG39qH4JeCUXQ6ex2WUaf"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Thomas Blug",
+                    "title": "My House Is Green",
+                    "uri": "4bSi283Toy50x9UzZYEaz1"
+                },
+                {
+                    "artist": "Thomas Hass",
+                    "title": "Nefertiti",
+                    "uri": "2HdqSqyzDeleLnKRMhKEdl"
+                },
+                {
+                    "artist": "Thomas Hass",
+                    "title": "Wild Flower",
+                    "uri": "1iaKMD29IA03guhDzt1DiH"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Yoko Oginome",
+                    "title": "六本木純情派",
+                    "uri": "7pfOV26Wzr1KcV8rtIG2FU"
+                },
+                {
+                    "artist": "Yume.Play",
+                    "title": "Izumi",
+                    "uri": "1FvSnDWNlFDIZrrdttd10w"
+                },
+                {
+                    "artist": "iwamizu",
+                    "title": "Surely It Was",
+                    "uri": "5FrouXIw5FyXRChPOALfNT"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Regulated Migration",
+                    "title": "Free people",
+                    "uri": "2Jho0fIerx94u6lpN27AbT"
+                },
+                {
+                    "artist": "Freepeoples FreQuency",
+                    "title": "Shortcake",
+                    "uri": "67Z79WnRKlw7ywaqxU88cw"
+                },
+                {
+                    "artist": "illuminati hotties",
+                    "title": "free ppls",
+                    "uri": "6Xa8axuQYfQsGmUvOwKHBj"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dirk Brossé",
+                    "title": "Bella's Lullaby - From \"Twilight\"",
+                    "uri": "1LW5QMF5tbYzHxPaSZdyRo"
+                },
+                {
+                    "artist": "Carter Burwell",
+                    "title": "Bella's Lullaby (From \"Twilight\")",
+                    "uri": "0w5ymU3obTE6hVDfMHJDDL"
+                },
+                {
+                    "artist": "Maksym Rzemiński",
+                    "title": "Bella's Lullaby (From \"Twilight\")",
+                    "uri": "0N88wTQ9EpVu3l4QtxOqD5"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Cloakroom",
+                    "title": "Lost Meaning",
+                    "uri": "28Z4IeW9azaCyVMQpJtyp7"
+                },
+                {
+                    "artist": "Cloakroom",
+                    "title": "Seedless Star",
+                    "uri": "7qHhvbujqpoH4W1LlvbMaJ"
+                },
+                {
+                    "artist": "Lacrimas Profundere",
+                    "title": "A Cloak Woven of Stars",
+                    "uri": "63MHeFB8wPnk1BdOzOhSQH"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Static Cleaner Lost Reward",
+                    "title": "Stones On The Beach",
+                    "uri": "1U0Np6xhFBlQluiKucrraW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Static Cleaner Lost Reward",
+                    "title": "Stones On The Beach",
+                    "uri": "1U0Np6xhFBlQluiKucrraW"
+                },
+                {
+                    "artist": "Static Cleaner Lost Reward",
+                    "title": "Brigade Spinnet",
+                    "uri": "2IRneI3c7GG8tB2W5YCwe3"
+                },
+                {
+                    "artist": "Static-X",
+                    "title": "You Am I",
+                    "uri": "2vtQy1s5LC7glVhNC9fVrG"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Felix Kramer",
+                    "title": "Er sagt, dass er sich bemüht",
+                    "uri": "7EaKzohF0S7JkkJYBiNrCS"
+                },
+                {
+                    "artist": "Steven Universe",
+                    "title": "Lapis Lazuli (feat. Zach Callison)",
+                    "uri": "2IIvGb927AIht6Yf6jtCY9"
+                },
+                {
+                    "artist": "fox",
+                    "title": "Lapis-Lazuli",
+                    "uri": "2qW2fhWd5YSvLrz7eGsw3G"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Abby Sage",
+                    "title": "Pool Party",
+                    "uri": "6g2lOCDWFDjYLscHr6LCoM"
+                },
+                {
+                    "artist": "Abby Silverman",
+                    "title": "Tuesday Clearing",
+                    "uri": "4yMveNJje6wu6YUgf62DE1"
+                },
+                {
+                    "artist": "Abby Anderson",
+                    "title": "Heart On Fire In Mexico",
+                    "uri": "72SRZVihNBosupaENmkdrv"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dalal",
+                    "title": "Richter: Vladimir’s Blues",
+                    "uri": "0rcCKsciAbTQe3aF1cJrE4"
+                },
+                {
+                    "artist": "Richter",
+                    "title": "Symbiose",
+                    "uri": "2cclv3P7kl3SDh7NOxeBa8"
+                },
+                {
+                    "artist": "Richter",
+                    "title": "Ich hab gewusst",
+                    "uri": "735Y1jxnXSvIc1zhmuDfHi"
+                }
+            ]
+        }
+    },
     "carla-dal-forno-19th-february-2019": {
         "00": {
             "s0": "",
