@@ -587,6 +587,136 @@
             "title": "A Day In The Life"
         }
     },
+    "early-bird-show-w-pam-14th-december-2023": {
+        "00": {
+            "artist": "An Trinse",
+            "title": "Duairc Aontais"
+        },
+        "01": {
+            "artist": "Zeynep Agcabay",
+            "title": "Ayzit"
+        },
+        "02": {
+            "artist": "Fauré, ",
+            "title": "Pelléas Et Mélisande, Op. 180: III. Sicilienne"
+        },
+        "03": {
+            "artist": "Memotone",
+            "title": "The River Slows to a Stop"
+        },
+        "04": {
+            "artist": "Jandek",
+            "title": "Nancy Sings"
+        },
+        "05": {
+            "artist": "O Yama O",
+            "title": "Suna No Shiro 砂の城"
+        },
+        "06": {
+            "artist": "Russ Garcia, His Vocal Choir And Orchestra",
+            "title": "Sophisticated Lady"
+        },
+        "07": {
+            "artist": "A Large Sheet Of Muscle",
+            "title": "Lucy Gamma"
+        },
+        "08": {
+            "artist": "The Flesh-Eating Bugs",
+            "title": "Song Against Static"
+        },
+        "09": {
+            "artist": "Zülfü Livaneli",
+            "title": "Kardeşin Duymaz El Oğlu Duyar"
+        },
+        "10": {
+            "artist": "Erik Kramer",
+            "title": "Rain for the field"
+        },
+        "11": {
+            "artist": "Barbara Kinga Majewska, ",
+            "title": "Harwilu Li Bayta Lahma"
+        },
+        "12": {
+            "artist": "Kou",
+            "title": "Blue Moon"
+        },
+        "13": {
+            "artist": "Smashing Pumpkins",
+            "title": "Soothe"
+        },
+        "14": {
+            "artist": "Sixpence None The Richer",
+            "title": "Kiss Me"
+        },
+        "15": {
+            "artist": "Bladee",
+            "title": "Wings In Motion"
+        },
+        "16": {
+            "artist": "Cassie",
+            "title": "Numb"
+        },
+        "17": {
+            "artist": "Ralphie Choo",
+            "title": "Santo Angel"
+        },
+        "18": {
+            "artist": "Dj Ramon Sucesso",
+            "title": "Menina Caliente"
+        },
+        "19": {
+            "artist": "Cecilio G. & Mala Rodriquez",
+            "title": "Tú Me Vas A Matar"
+        },
+        "20": {
+            "artist": "Ryo Kawasaki",
+            "title": "Trinkets & Things"
+        },
+        "21": {
+            "artist": "Lewsberg",
+            "title": "All Things"
+        },
+        "22": {
+            "artist": "The Boats",
+            "title": "I’m Talking Facts, Not Shit"
+        },
+        "23": {
+            "artist": "Dane Law & Chants",
+            "title": "Icent Hud"
+        },
+        "24": {
+            "artist": "Isabel’s Dream",
+            "title": "Blue Morning"
+        },
+        "25": {
+            "artist": "Jackie Donie",
+            "title": "Dear"
+        },
+        "26": {
+            "artist": "Jost Andrée",
+            "title": "On Taille La Route"
+        },
+        "27": {
+            "artist": "Chief Kief",
+            "title": "I Don’t Think They Love Me"
+        },
+        "28": {
+            "artist": "E+E",
+            "title": "Angel Edit"
+        },
+        "29": {
+            "artist": "Stina Nordenstam",
+            "title": "Dynamite"
+        },
+        "30": {
+            "artist": "bar italia",
+            "title": "Miracle Crush"
+        },
+        "31": {
+            "artist": "The Brian Jonestown Massacre",
+            "title": "Deep In The Devil's Eye & You"
+        }
+    },
     "early-bird-show-w-pam-14th-september-2023": {
         "00": {
             "artist": "Idea Fire Company",
@@ -1785,6 +1915,100 @@
         "26": {
             "artist": "bar italia",
             "title": "Nurse!"
+        }
+    },
+    "early-bird-show-w-pam-21st-december-2023": {
+        "00": {
+            "artist": "Izumi Hirasawa",
+            "title": "太陽の彼方 (Movin')"
+        },
+        "01": {
+            "artist": "Rat Heart + The Peanuts",
+            "title": "Pam’s Plants Full Of Ants"
+        },
+        "02": {
+            "artist": "John T. Gast",
+            "title": "Abyss"
+        },
+        "03": {
+            "artist": "Soccer Committee",
+            "title": "Imagining you in the room"
+        },
+        "04": {
+            "artist": "Radio Hito",
+            "title": "Home"
+        },
+        "05": {
+            "artist": "7038634357",
+            "title": "Square Heart"
+        },
+        "06": {
+            "artist": "Compuma",
+            "title": "View 3"
+        },
+        "07": {
+            "artist": "Skrillex, ",
+            "title": "Don't Get Too Close"
+        },
+        "08": {
+            "artist": "Tenniscoats",
+            "title": "光光ランド = Kou-Kou Land"
+        },
+        "09": {
+            "artist": "Hiroyuki Onogawa",
+            "title": "Labyrinth of Dreams"
+        },
+        "10": {
+            "artist": "Johannes Björk",
+            "title": "Fluffiga Små Moln"
+        },
+        "11": {
+            "artist": "ssabæ",
+            "title": "Le Premier Soir Du Monde"
+        },
+        "12": {
+            "artist": "Erik Kramer",
+            "title": "Rain for the field"
+        },
+        "13": {
+            "artist": "World Standard",
+            "title": "嵐が丘 ／ Wuthering Heights"
+        },
+        "14": {
+            "artist": "Christian Mirande",
+            "title": "Beautiful One Day, Perfect The Next "
+        },
+        "15": {
+            "artist": "Headache",
+            "title": "Truisms 4 Dummies"
+        },
+        "16": {
+            "artist": "Sho Yoshimura",
+            "title": "Ornament"
+        },
+        "17": {
+            "artist": "The Flesh-Eating Bugs",
+            "title": "Tuesday Sun"
+        },
+        "18": {
+            "artist": "Bondo",
+            "title": "Flow My Tears The Police Man Said"
+        },
+        "19": {
+            "artist": "Yaya Jalloux",
+            "title": "Silencio"
+        },
+        "20": {
+            "artist": "Effective Power",
+            "title": "B4"
+        },
+        "21": {
+            "artist": "NewJeans",
+            "title": "Super Shy"
+        },
+        "22": {
+            "artist": "Skrillex, ",
+            "title": "Rumble"
         }
     },
     "early-bird-show-w-pam-21st-september-2023": {
