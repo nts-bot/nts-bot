@@ -1,4 +1,96 @@
 {
+    "aerial-roots-10th-september-2023": {
+        "00": {
+            "artist": "Toots & The Maytals",
+            "ratio": 9,
+            "title": "54-46 Was My Number",
+            "trackid": "1q8gelFgFYUwoWpQV7WNCe"
+        },
+        "01": {
+            "artist": "Desmond Dekker & The Aces",
+            "ratio": 9,
+            "title": "(Poor Mi) Israelites",
+            "trackid": "6zsH33Xbm0gAtBTx9R2vP0"
+        },
+        "02": {
+            "artist": "Bob Marley & The Wailers",
+            "ratio": 9,
+            "title": "Is This Love",
+            "trackid": "6JRLFiX9NJSoRRKxowlBYr"
+        },
+        "03": {
+            "artist": "Jennifer Lara",
+            "ratio": 9,
+            "title": "I Am in Love",
+            "trackid": "3ihUEHni4ACzTLQL9mUgJL"
+        },
+        "04": {
+            "artist": "Fabien Mouel",
+            "ratio": 4,
+            "title": "Dar Amor Con Amor",
+            "trackid": "7K4qbLC9FbZX7MQCzLQ7G2"
+        },
+        "05": {
+            "artist": "Dennis Brown",
+            "ratio": 9,
+            "title": "Promised Land",
+            "trackid": "3SmlQ9SaXbkmeXrXNF5ojP"
+        },
+        "06": {
+            "artist": "Barrington Levy",
+            "ratio": 9,
+            "title": "Black Roses",
+            "trackid": "7a2FaJBUsniyDAOFoopHuM"
+        },
+        "07": {
+            "artist": "Sister Nancy",
+            "ratio": 9,
+            "title": "Bam Bam",
+            "trackid": "7ixiCZEHWHc8FxaQXQh2P4"
+        },
+        "08": {
+            "artist": "Dawn Penn",
+            "ratio": 9,
+            "title": "You Don't Love Me (No, No, No) - Extended Mix",
+            "trackid": "0INtJm8gCJKtNaAYQNVlpZ"
+        },
+        "09": {
+            "artist": "Wayne Wonder",
+            "ratio": 9,
+            "title": "Bonafide Love (feat. Buju Banton)",
+            "trackid": "5mOcwAShXBiIm0yj4gvqcx"
+        },
+        "10": {
+            "artist": "Tarrus Riley",
+            "ratio": 9,
+            "title": "She's Royal",
+            "trackid": "6dFOwtd9iBMERardJvsIxY"
+        },
+        "11": {
+            "artist": "Gappy Ranks",
+            "ratio": 9,
+            "title": "Heaven In Her Eyes",
+            "trackid": "0jcHek5GNsrwzTWMjpgLaj"
+        },
+        "12": {
+            "artist": "Kabaka Pyramid",
+            "ratio": 3,
+            "title": "Lock the Street",
+            "trackid": "2P65hgdRS6expPM7ooHAzN"
+        },
+        "13": {
+            "artist": "Patrice Rushen",
+            "ratio": 9,
+            "title": "Remind Me - Remastered",
+            "trackid": "0vDu3wX2y4gMCYxkkvN08W"
+        },
+        "14": {
+            "artist": "Keni Burke",
+            "ratio": 9,
+            "title": "Risin' to the Top",
+            "trackid": "5iVxHPyHVO7vWSDnRpNH5d"
+        }
+    },
     "aerial-roots-18th-december-2022": {
         "00": {
             "artist": "Stevie Wonder",
@@ -261,6 +353,98 @@
             "ratio": 9,
             "title": "Government Name",
             "trackid": "03HiIa6w9TAJn2KplaTMCh"
+        }
+    },
+    "aerial-roots-23rd-december-2023": {
+        "00": {
+            "artist": "Stevie Wonder",
+            "ratio": 9,
+            "title": "For Once In My Life",
+            "trackid": "4kP69y3GKHi9tXckfgp4bK"
+        },
+        "01": {
+            "artist": "The Supremes",
+            "ratio": 9,
+            "title": "My Favorite Things",
+            "trackid": "6Bbak9Sp1vo0l8kptfv3Xd"
+        },
+        "02": {
+            "artist": "Natalie Cole",
+            "ratio": 9,
+            "title": "This Will Be (An Everlasting Love)",
+            "trackid": "0PDCewmZCp0P5s00bptcdd"
+        },
+        "03": {
+            "artist": "Syl Johnson",
+            "ratio": 9,
+            "title": "Black Balloons",
+            "trackid": "5nvYWl6RbVOgGkuL7Al7E4"
+        },
+        "04": {
+            "artist": "Horace Silver",
+            "ratio": 9,
+            "title": "Lonely Woman",
+            "trackid": "4zrtKlacZ1fu5YFfNwiEIS"
+        },
+        "05": {
+            "artist": "PJ Morton",
+            "ratio": 9,
+            "title": "How Deep Is Your Love",
+            "trackid": "0loJyuSFr6vVPBQSmLLrrQ"
+        },
+        "06": {
+            "artist": "Beyoncé",
+            "ratio": 9,
+            "title": "Me, Myself and I",
+            "trackid": "3pxJuMLjNPtiC0fX8EHFlF"
+        },
+        "07": {
+            "artist": "Erykah Badu",
+            "ratio": 9,
+            "title": "Hello",
+            "trackid": "1rqduvolf1CVHSzY519bPp"
+        },
+        "08": {
+            "artist": "IAMDDB",
+            "ratio": 9,
+            "title": "More",
+            "trackid": "3cXKEUStZGykEj2KOf68J2"
+        },
+        "09": {
+            "artist": "Gemma Dunleavy",
+            "ratio": 5,
+            "title": "Cruisin - Swing Ting Remix",
+            "trackid": "3wsKu0v64U1SIesr9oLcnW"
+        },
+        "10": {
+            "artist": "Mary J. Blige",
+            "ratio": 9,
+            "title": "Be Without You",
+            "trackid": "72pKaqEww3zHWt5P2MBnMJ"
+        },
+        "11": {
+            "artist": "Jorja Smith",
+            "ratio": 9,
+            "title": "Feelings (feat. J Hus)",
+            "trackid": "2mnbBznMFGVZfQlRFaRWrh"
+        },
+        "12": {
+            "artist": "Samory I",
+            "ratio": 9,
+            "title": "Crown",
+            "trackid": "5y0vPl06kFYasMJOhPYAzQ"
+        },
+        "13": {
+            "artist": "Chronixx",
+            "ratio": 9,
+            "title": "Never Give Up",
+            "trackid": "4ANZGc4p6NJxQ81C7aqIGw"
+        },
+        "14": {
+            "artist": "Sheku Kanneh-Mason",
+            "ratio": 9,
+            "title": "Star of the County Down (Arr. for Solo Cello)",
+            "trackid": "7knzFk9t4zdyTQ58qIAMh4"
         }
     },
     "aerial-roots-26th-march-2023": {

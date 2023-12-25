@@ -3212,6 +3212,124 @@
             ]
         }
     },
+    "raga-vibrations-23rd-december-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bahauddin Dagar",
+                    "title": "Raga Bhimpalasi",
+                    "uri": "10Y29ZF4vEM1iwBQlpIQ3W"
+                },
+                {
+                    "artist": "Shruti Sadolikar",
+                    "title": "Bhimpalasi",
+                    "uri": "0rA47sueOtSeWPtL9FzofK"
+                },
+                {
+                    "artist": "Sangit Om",
+                    "title": "Raga Bhoopali",
+                    "uri": "2FvS3T9QA1K7RibQDrTYqc"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Vilayat Khan",
+                    "title": "Raga Bageshri: Alap, Jor, Jhala & Gats in Teen Taal - Live",
+                    "uri": "2ckex7yfLrC2NBpGxy8Zct"
+                },
+                {
+                    "artist": "Vilayat Khan",
+                    "title": "Raga bageshri : Gat in vilambit teentaal",
+                    "uri": "1EYtcw0HA3IDV8Uimu6vu1"
+                },
+                {
+                    "artist": "Vilayat Khan",
+                    "title": "Raga bageshri : Gat in drut teentaal",
+                    "uri": "6ROfecQ6GKxnZENcl26FT4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Vilayat Khan",
+                    "title": "Raga Bageshree",
+                    "uri": "234hzACPHfmAc3oXdxC42M"
+                },
+                {
+                    "artist": "Vilayat Khan",
+                    "title": "Raga Bageshri: Alap, Jor, Jhala & Gats in Teen Taal - Live",
+                    "uri": "2ckex7yfLrC2NBpGxy8Zct"
+                },
+                {
+                    "artist": "Vilayat Khan",
+                    "title": "Raga bageshri : Gat in drut teentaal",
+                    "uri": "6ROfecQ6GKxnZENcl26FT4"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Veena Sahasrabuddhe",
+                    "title": "Raga Hamsadhvani: Alap",
+                    "uri": "4BcrSor0LuBfMjq6Ri4gS3"
+                },
+                {
+                    "artist": "Ronu Majumdar",
+                    "title": "Raaga Bhairav - Dadra",
+                    "uri": "4ft8L5WzFd2vvXganl6QGL"
+                },
+                {
+                    "artist": "Rakesh Chaurasia",
+                    "title": "Raag Bhairavi - Alap",
+                    "uri": "5OwdGNpfx8D74GtHK3aaiH"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Amjad Ali Khan",
+                    "title": "Raga Bhairav - drut gat in teental",
+                    "uri": "07kHlEAXVdzpfSc46bgrt3"
+                },
+                {
+                    "artist": "Ali Akbar Khan",
+                    "title": "Raga Sindhi Bhairavi: Dadra Tal (6 beats)",
+                    "uri": "5CMW3bF5enCbAFV4aZTbec"
+                },
+                {
+                    "artist": "Rakesh Chaurasia",
+                    "title": "Raga Hemavati (Flute)",
+                    "uri": "5lSSnYTe9Fm2KsHSnybC4F"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Debu Chaudhuri",
+                    "title": "Raga Bagesri: Tala - Teental - Ektal - Teental",
+                    "uri": "4d206q5STDZ8AHvY9QaOyJ"
+                },
+                {
+                    "artist": "Ronu Majumdar",
+                    "title": "Raaga Bhairav - Dadra",
+                    "uri": "4ft8L5WzFd2vvXganl6QGL"
+                },
+                {
+                    "artist": "Sangit Om",
+                    "title": "Raga Bhairavi",
+                    "uri": "33FhprDQkLTQxu2MQz2hTT"
+                }
+            ]
+        }
+    },
     "raga-vibrations-23rd-july-2018": {
         "00": {
             "s0": "",
