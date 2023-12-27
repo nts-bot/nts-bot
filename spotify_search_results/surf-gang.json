@@ -1,4 +1,938 @@
 {
+    "surf-gang-26th-december-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bell Book & Candle",
+                    "title": "Rescue Me - Radio Edit",
+                    "uri": "3sryjPEihgzXH84vu943pX"
+                },
+                {
+                    "artist": "Bell Book & Candle",
+                    "title": "Rescue Me - Radio Edit",
+                    "uri": "6feUMN9KaS3kNXsuXAK6YY"
+                },
+                {
+                    "artist": "bell hooks",
+                    "title": "Kapitel 2.9 - Alles über Liebe – Neue Sichtweisen (ungekürzt)",
+                    "uri": "2GjPZMgsxB4F1JK2jcf7hT"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Shadow030",
+                    "title": "Room",
+                    "uri": "7bxljff0pYXbmdMBsGRTb5"
+                },
+                {
+                    "artist": "OPFuture",
+                    "title": "Room",
+                    "uri": "0zqZJu5Hj8aaU88R7UxuNo"
+                },
+                {
+                    "artist": "Shadow030",
+                    "title": "Room",
+                    "uri": "6IhC7KJNloVeCDuDDkC7RO"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Harto Falión",
+                    "title": "paranoid_2_outside_the_party",
+                    "uri": "7rdd9cSRRbO5wF8YFvKVIj"
+                },
+                {
+                    "artist": "MADE",
+                    "title": "Paranoid",
+                    "uri": "3NZtF5KtrgMGzo5nSzx0ie"
+                },
+                {
+                    "artist": "Radiohead",
+                    "title": "Paranoid Android",
+                    "uri": "6LgJvl0Xdtc73RJ1mmpotq"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Alexais",
+                    "title": "just MORE",
+                    "uri": "2m1j65N0pcj3F3K2RZD39P"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Alexais",
+                    "title": "just MORE",
+                    "uri": "2m1j65N0pcj3F3K2RZD39P"
+                },
+                {
+                    "artist": "Alexisonfire",
+                    "title": "This Could Be Anywhere in the World",
+                    "uri": "4TnPmXU7KVmHZ51hXXn5Hv"
+                },
+                {
+                    "artist": "Wonderwall",
+                    "title": "Just More - Phatt Down Beat Mix",
+                    "uri": "5EMKHihgcvqqtcUyDwfz9L"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Nourished by Time",
+                    "title": "Daddy",
+                    "uri": "3jKlmTVS7ym2axSs9OEcrT"
+                },
+                {
+                    "artist": "Nourished by Time",
+                    "title": "Daddy",
+                    "uri": "7FOaukJwvpts8X2g48kXSi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nourished by Time",
+                    "title": "Daddy",
+                    "uri": "3jKlmTVS7ym2axSs9OEcrT"
+                },
+                {
+                    "artist": "Nourished by Time",
+                    "title": "Daddy",
+                    "uri": "7FOaukJwvpts8X2g48kXSi"
+                },
+                {
+                    "artist": "Nourished by Time",
+                    "title": "The Fields",
+                    "uri": "4zUcDwZpszCAGznQ3hADBs"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Deee-Lite",
+                    "title": "Good Beat",
+                    "uri": "3537ctBVaCefYh0r3DpNkC"
+                },
+                {
+                    "artist": "Deee-Lite",
+                    "title": "Goodbeatapella - Remix Version",
+                    "uri": "5OHItwoTnNkJ6I7SKcCG1O"
+                },
+                {
+                    "artist": "Jamie Berry",
+                    "title": "Delight",
+                    "uri": "36kaImsnzRzsU6L4cvWP6s"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Nubya Garcia",
+                    "title": "Stand With Each Other - KeiyaA Remix",
+                    "uri": "6xHQ5Zevw4MJnyuU5TLQKC"
+                },
+                {
+                    "artist": "Nubya Garcia",
+                    "title": "Stand With Each Other - KeiyaA Remix",
+                    "uri": "3H8fG6TkQtfTlERfDtN9x6"
+                },
+                {
+                    "artist": "Nubya Garcia",
+                    "title": "Stand With Each Other - KeiyaA Remix",
+                    "uri": "3vG2tSu2kuFzKujyXUHVnS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nubya Garcia",
+                    "title": "Stand With Each Other - KeiyaA Remix",
+                    "uri": "3H8fG6TkQtfTlERfDtN9x6"
+                },
+                {
+                    "artist": "Nubya Garcia",
+                    "title": "Stand With Each Other - KeiyaA Remix",
+                    "uri": "6xHQ5Zevw4MJnyuU5TLQKC"
+                },
+                {
+                    "artist": "Nubya Garcia",
+                    "title": "Stand With Each Other - KeiyaA Remix",
+                    "uri": "3vG2tSu2kuFzKujyXUHVnS"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Doris Day",
+                    "title": "Again (with The Mellomen)",
+                    "uri": "0qB213IfGN0JXXm9aRjldF"
+                },
+                {
+                    "artist": "Atze Schröder",
+                    "title": "Doris",
+                    "uri": "0CCMpCjbMjNAstztpBHlpJ"
+                },
+                {
+                    "artist": "Atze Schröder",
+                    "title": "Doris und Kevin",
+                    "uri": "1E6jvc7RAnRt0hHz8kVPuQ"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Undercover",
+                    "title": "Baker Street",
+                    "uri": "2DTQUOfYJAjdo7utgjnU4u"
+                },
+                {
+                    "artist": "Two Door Cinema Club",
+                    "title": "Undercover Martyn",
+                    "uri": "6GQLX6Z28fYwDNCrhaKzYF"
+                },
+                {
+                    "artist": "Tay Iwar",
+                    "title": "Undercover Lover",
+                    "uri": "729Jv4aGwlb9ujCFx03SUa"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "evilgiane",
+                    "title": "BASIC",
+                    "uri": "1ZfBMlcC2dRfS0Hl3bHwRS"
+                },
+                {
+                    "artist": "The Living Tombstone",
+                    "title": "Basics in Behavior (feat. Or3o) - Blue Version",
+                    "uri": "4qld5YulAobGzvI1F0Bo8t"
+                },
+                {
+                    "artist": "The Living Tombstone",
+                    "title": "Basics in Behavior - Blue Version",
+                    "uri": "05U9HuyMUW4NllNlBCRMrN"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Vayda",
+                    "title": "prima donna",
+                    "uri": "1i1LE3fHzpu7peB8UQNGnK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Vayda",
+                    "title": "prima donna",
+                    "uri": "1i1LE3fHzpu7peB8UQNGnK"
+                },
+                {
+                    "artist": "Vayda",
+                    "title": "v1deog1rl pt. 2",
+                    "uri": "3RoNBgYYtVbBsjRinXWkzV"
+                },
+                {
+                    "artist": "Giuseppe Verdi",
+                    "title": "Verdi: Aida, Act 2: Triumphal march",
+                    "uri": "08nDCxBREiwcl9pLGFB3ez"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "CRYSTALLMESS",
+                    "title": "Just Because It's a Funeral Doesn't Mean We Can't Rave",
+                    "uri": "3pKNysUoe9aUnYIBedeVLn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "CRYSTALLMESS",
+                    "title": "Just Because It's a Funeral Doesn't Mean We Can't Rave",
+                    "uri": "3pKNysUoe9aUnYIBedeVLn"
+                },
+                {
+                    "artist": "PR1SVX",
+                    "title": "CRYSTALS (Slowed)",
+                    "uri": "3hfvzrj13TtfKq8P3WG2Q1"
+                },
+                {
+                    "artist": "Isolate.exe",
+                    "title": "Crystals",
+                    "uri": "2BH3j05ZXWr5PR30sW079d"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": ""
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "glwzbll",
+                    "title": "Untitled #13 (Super Slowed)",
+                    "uri": "3fC7BKJN66Tyq44x6Try2R"
+                },
+                {
+                    "artist": "glwzbll",
+                    "title": "Untitled #13 (Slowed + Reverb)",
+                    "uri": "4w2C4w02lvnh4jcx6bq0Pj"
+                },
+                {
+                    "artist": "glwzbll",
+                    "title": "Untitled #13",
+                    "uri": "1YXV3fSpNgxXSfhsEgRmtb"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Angela Muñoz",
+                    "title": "Top Down",
+                    "uri": "5v8tx7AX5pvAxSmjOcmSvw"
+                },
+                {
+                    "artist": "Berner",
+                    "title": "Top Down",
+                    "uri": "0Pdt4ZvdWcRqowhlbzuctZ"
+                },
+                {
+                    "artist": "Estie",
+                    "title": "Stress",
+                    "uri": "2fQSAIJTWBD5pPHlq6amvu"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "C418",
+                    "title": "Danny",
+                    "uri": "2Au50d6aZrsYrbxQzDjjYW"
+                },
+                {
+                    "artist": "C418",
+                    "title": "Mutation",
+                    "uri": "0G6qJsqHP0Bbe5XuRjxGQq"
+                },
+                {
+                    "artist": "C418",
+                    "title": "Sweden",
+                    "uri": "4NsPgRYUdHu2Q5JRNgXYU5"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Boz Kamara",
+                    "title": "Brightside",
+                    "uri": "0CUMAzCujrUprenKpWMKdr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Boz Kamara",
+                    "title": "Brightside",
+                    "uri": "0CUMAzCujrUprenKpWMKdr"
+                },
+                {
+                    "artist": "Van Morrison",
+                    "title": "Bright Side of the Road",
+                    "uri": "4w4Shi3xjbZBDGuhLw5LsQ"
+                },
+                {
+                    "artist": "The Lumineers",
+                    "title": "BRIGHTSIDE",
+                    "uri": "63q3GlHZstxXzfb0zt7ZYY"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "More Sewo",
+                    "title": "SUKIE FREE UP",
+                    "uri": "0LstmlnRStFErfnT9zh4pE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "More Sewo",
+                    "title": "SUKIE FREE UP",
+                    "uri": "0LstmlnRStFErfnT9zh4pE"
+                },
+                {
+                    "artist": "Alex Calder",
+                    "title": "Suki and Me",
+                    "uri": "27satUwAweQPZAWqYqmpkC"
+                },
+                {
+                    "artist": "Romeo Samoa",
+                    "title": "Suki Le Fiafia",
+                    "uri": "11DpN9idiP9tB67r9zgh11"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "dj blackpower",
+                    "title": "Backseat - Tisakorean **dr.grabba mix**",
+                    "uri": "2DjwUJw5TMGOxr688bcFPf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "dj blackpower",
+                    "title": "Backseat - Tisakorean **dr.grabba mix**",
+                    "uri": "2DjwUJw5TMGOxr688bcFPf"
+                },
+                {
+                    "artist": "dj blackpower",
+                    "title": "Hellahi",
+                    "uri": "4MvaDpJvckydUX8Mupmj0n"
+                },
+                {
+                    "artist": "MC Rard",
+                    "title": "Backseat",
+                    "uri": "37jLYMH5N60gKOXG0fr9YN"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eddie the Wheel",
+                    "title": "Lesser Than",
+                    "uri": "3pfQNgQvQrbfATdQ9DAX2D"
+                },
+                {
+                    "artist": "Charles Jonathan",
+                    "title": "Smoke Aggregation",
+                    "uri": "292ZZZQyZWlKF0y1YUc6Kf"
+                },
+                {
+                    "artist": "Nym",
+                    "title": "Lesser Known Good",
+                    "uri": "3vGnW6Pg1LCFDwHAMnHuXX"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "PinkPantheress",
+                    "title": "Reason - Evilgiane Remix",
+                    "uri": "6GSXTLAmH1bHHOAuemto2j"
+                },
+                {
+                    "artist": "Endgame",
+                    "title": "Evil Ghost",
+                    "uri": "4zjz2wHGU0IBD8C7nnTVzO"
+                },
+                {
+                    "artist": "Phil Rxcket",
+                    "title": "Evil Girls",
+                    "uri": "3pgzZbWDaSHoZchxCJnywF"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Zsela",
+                    "title": "Liza - AceMo Remix",
+                    "uri": "0N4XdwaxqCP23AbWoyBZSS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Zsela",
+                    "title": "Liza - AceMo Remix",
+                    "uri": "0N4XdwaxqCP23AbWoyBZSS"
+                },
+                {
+                    "artist": "Ashkan Arab",
+                    "title": "Zelzela",
+                    "uri": "4WFfNYIiOeShyfsqEV1c60"
+                },
+                {
+                    "artist": "LISZA",
+                    "title": "Canta Querida",
+                    "uri": "4WhytNQFIaWokpLmUvlo6T"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Sona Mohapatra",
+                    "title": "Jiya Lage Na",
+                    "uri": "5AhxzlhZbKYfu4YNiUnmvx"
+                },
+                {
+                    "artist": "Sona Mohapatra",
+                    "title": "Jiya Lage Na (From \"Talaash\")",
+                    "uri": "237sNsvsVIG8BQDGkLLBSn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sona Mohapatra",
+                    "title": "Jiya Lage Na",
+                    "uri": "5AhxzlhZbKYfu4YNiUnmvx"
+                },
+                {
+                    "artist": "Sona Mohapatra",
+                    "title": "Jiya Lage Na (From \"Talaash\")",
+                    "uri": "237sNsvsVIG8BQDGkLLBSn"
+                },
+                {
+                    "artist": "Ka Wadhwa",
+                    "title": "Sona",
+                    "uri": "685glMCresRk1Yvy50O1wO"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Cashcache!",
+                    "title": "real runtz",
+                    "uri": "7ycLRIVfn3cJ6S9p2g5x4t"
+                },
+                {
+                    "artist": "Tony Shhnow",
+                    "title": "Real Runtz - Sped Up",
+                    "uri": "3jQqp0xU3jN8g4QgwB96rg"
+                },
+                {
+                    "artist": "Tony Shhnow",
+                    "title": "Real Rare",
+                    "uri": "3lmb4HkLaneQq0gKrHmW8x"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Zelooperz",
+                    "title": "Woozy",
+                    "uri": "3EUBy3oPCtDEVecILbf6Zn"
+                },
+                {
+                    "artist": "Woozle Goozle",
+                    "title": "Folge 01_Elektrizität_Kapitel 05",
+                    "uri": "430gUP1zurfxpZJ7IqkLXT"
+                },
+                {
+                    "artist": "Woozle Goozle",
+                    "title": "Folge 10_Schlaf_Kapitel 03",
+                    "uri": "57NTIpMgOtiJb2tvoHy1OM"
+                }
+            ]
+        },
+        "25": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kanye West",
+                    "title": "Drive Slow",
+                    "uri": "6vB49BJ70zBpDrrAPwdaB8"
+                },
+                {
+                    "artist": "Nix Northwest",
+                    "title": "Drive Slow",
+                    "uri": "1is1QB3ElS0UlaEYpIHyo0"
+                },
+                {
+                    "artist": "LAZR",
+                    "title": "Drive Slow",
+                    "uri": "3yIx9EJzHceZNhgqDTfjQz"
+                }
+            ]
+        },
+        "26": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "LuizFribs",
+                    "title": "No Regrets",
+                    "uri": "0KDpuuIEM7abJQeafHs7Dc"
+                },
+                {
+                    "artist": "Dreamfield",
+                    "title": "No Regrets",
+                    "uri": "5nzoKUWcA5ue0OwWErMT7G"
+                },
+                {
+                    "artist": "KSHMR",
+                    "title": "No Regrets (feat. Krewella)",
+                    "uri": "58hjBuGWj43LQ6WjN3ZQAK"
+                }
+            ]
+        },
+        "27": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dj Mad Dog",
+                    "title": "Reset",
+                    "uri": "3IZEm5D9dfH8wbrzOT6t5S"
+                },
+                {
+                    "artist": "Lofi Fruits Music",
+                    "title": "Reset",
+                    "uri": "7vVtHHDLjhaQqdsD9mL2Tp"
+                },
+                {
+                    "artist": "P1Harmony",
+                    "title": "Reset",
+                    "uri": "1agTLMl4pusuX4c1g3e7pr"
+                }
+            ]
+        },
+        "28": {
+            "s0": [
+                {
+                    "artist": "Ecco2k",
+                    "title": "Time",
+                    "uri": "4KfZSdlJ2YYZA4Q1p9WzUK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ecco2k",
+                    "title": "Time",
+                    "uri": "4KfZSdlJ2YYZA4Q1p9WzUK"
+                },
+                {
+                    "artist": "Ecco2k",
+                    "title": "Peroxide",
+                    "uri": "1fbmkoREwP13dkXJI5YGfn"
+                },
+                {
+                    "artist": "Claudio Monteverdi",
+                    "title": "L'Orfeo, SV 318 / Act II: Sinfonia - \"Ecco pur ch'a voi ritorno\"",
+                    "uri": "3w8zEhxqWIkX2S2LzGOgE7"
+                }
+            ]
+        },
+        "29": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "BOBBY",
+                    "title": "why stop now (feat. Jung Sangsoo)",
+                    "uri": "0npbaw7HqWtqLLH7IeTwXx"
+                },
+                {
+                    "artist": "Eminem",
+                    "title": "Untitled",
+                    "uri": "44ut2KJnt0HQMnUaMlDv9W"
+                },
+                {
+                    "artist": "ITCHY",
+                    "title": "Why Still Bother",
+                    "uri": "5v8NOFjQCxBxpCNlul11Mg"
+                }
+            ]
+        },
+        "30": {
+            "s0": [
+                {
+                    "artist": "duendita",
+                    "title": "mind",
+                    "uri": "3KVwr7N5Sm7TShrGQc8xco"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "duendita",
+                    "title": "mind",
+                    "uri": "3KVwr7N5Sm7TShrGQc8xco"
+                },
+                {
+                    "artist": "duendita",
+                    "title": "Blue Hands",
+                    "uri": "4bh6IIDGqeSR1KdfVFMNnP"
+                },
+                {
+                    "artist": "DerrienWhite",
+                    "title": "Appetite",
+                    "uri": "1VsQHIFm55RoeFvCPIjtm7"
+                }
+            ]
+        },
+        "31": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Knowmadic",
+                    "title": "Faces",
+                    "uri": "39qwnp9qlLcYd4bq6s5HMj"
+                },
+                {
+                    "artist": "KIING",
+                    "title": "Faces",
+                    "uri": "0srAbuERVPIISManwInxUR"
+                },
+                {
+                    "artist": "Sajjan Adeeb",
+                    "title": "Jodi Jachdi - 1 Min Music",
+                    "uri": "6GKjdQtHL3RuPoAgipyiy5"
+                }
+            ]
+        },
+        "32": {
+            "s0": [
+                {
+                    "artist": "SEES00000",
+                    "title": "APT 600",
+                    "uri": "6qGb9ab8JX4e1sWPSa9lPd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "SEES00000",
+                    "title": "APT 600",
+                    "uri": "6qGb9ab8JX4e1sWPSa9lPd"
+                },
+                {
+                    "artist": "Kanonym",
+                    "title": "600 PS",
+                    "uri": "5n1YrXDziujYSACdHWe1TP"
+                },
+                {
+                    "artist": "S.3000",
+                    "title": "Ecke",
+                    "uri": "08Cgt5WPejXYqHg2wBAuBN"
+                }
+            ]
+        },
+        "33": {
+            "s0": [
+                {
+                    "artist": "Crumb",
+                    "title": "Retreat!",
+                    "uri": "57rW757V8DwWVHaDgdAzw7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Crumb",
+                    "title": "Retreat!",
+                    "uri": "57rW757V8DwWVHaDgdAzw7"
+                },
+                {
+                    "artist": "Crumb",
+                    "title": "Ghostride",
+                    "uri": "0R3TWpoxAhT3HDXM7tpRzS"
+                },
+                {
+                    "artist": "Crumb",
+                    "title": "Cracking",
+                    "uri": "3VwgtTh9D0CubY32jdhI5U"
+                }
+            ]
+        },
+        "34": {
+            "s0": [
+                {
+                    "artist": "VXO",
+                    "title": "Cry",
+                    "uri": "3ggFz50NvZ9G83NzRw00Lt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bern-AT & WARLEX",
+                    "title": "Vois Sur Ton Chemin - Hardstyle",
+                    "uri": "2mVgDjPX3OzJ0EP1Y5cSWa"
+                },
+                {
+                    "artist": "voXXclub",
+                    "title": "Rock mi - Remix",
+                    "uri": "0zxQhr2l7YYdRbnL0SAsjR"
+                },
+                {
+                    "artist": "Volbeat",
+                    "title": "I'm So Lonesome I Could Cry",
+                    "uri": "2ZLwoovA1pv9VjO3NtMg2I"
+                }
+            ]
+        },
+        "35": {
+            "s0": [
+                {
+                    "artist": "Nilüfer Yanya",
+                    "title": "Day 7.5093 - keiyaA Remix",
+                    "uri": "48X1xDfJ2feAM6NmNJsflw"
+                },
+                {
+                    "artist": "Nilüfer Yanya",
+                    "title": "Day 7.5093",
+                    "uri": "7wgvcJO1qtwmbfU7YqVYND"
+                },
+                {
+                    "artist": "Nilüfer Yanya",
+                    "title": "Day 7.5093 - keiyaA Remix",
+                    "uri": "1IXmFFDeIQPaCdYP4JtwLM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nilüfer Yanya",
+                    "title": "Day 7.5093 - keiyaA Remix",
+                    "uri": "48X1xDfJ2feAM6NmNJsflw"
+                },
+                {
+                    "artist": "Nilüfer Yanya",
+                    "title": "Day 7.5093",
+                    "uri": "7wgvcJO1qtwmbfU7YqVYND"
+                },
+                {
+                    "artist": "Nilüfer",
+                    "title": "Son Arzum",
+                    "uri": "4C2BEVMCOoTRYLQdxumczm"
+                }
+            ]
+        },
+        "36": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ethan Tasch",
+                    "title": "Room",
+                    "uri": "0qyIfrncrrZQlx2jaffhYm"
+                },
+                {
+                    "artist": "OPFuture",
+                    "title": "Room",
+                    "uri": "0zqZJu5Hj8aaU88R7UxuNo"
+                },
+                {
+                    "artist": "Shadow030",
+                    "title": "Room",
+                    "uri": "7bxljff0pYXbmdMBsGRTb5"
+                }
+            ]
+        },
+        "37": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Arooj Aftab",
+                    "title": "Sajni",
+                    "uri": "2IsMmLgrMbFjfDFe2Beur5"
+                },
+                {
+                    "artist": "Skillet",
+                    "title": "The Resistance - SOLI Remix",
+                    "uri": "7Iw9lURKQ6DtyFb1te6FKZ"
+                },
+                {
+                    "artist": "Jal",
+                    "title": "Sajni",
+                    "uri": "3wLX0HwfAZlhT9ss18LGLY"
+                }
+            ]
+        },
+        "38": {
+            "s0": [
+                {
+                    "artist": "Dawuna",
+                    "title": "Parable II",
+                    "uri": "35lxzSOEwqgUY7FzsOAlx7"
+                },
+                {
+                    "artist": "Dawuna",
+                    "title": "Parable I",
+                    "uri": "2Pc6BhtVP7OE0qxTtYeUIy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dawuna",
+                    "title": "Parable II",
+                    "uri": "35lxzSOEwqgUY7FzsOAlx7"
+                },
+                {
+                    "artist": "Dawuna",
+                    "title": "Parable I",
+                    "uri": "2Pc6BhtVP7OE0qxTtYeUIy"
+                },
+                {
+                    "artist": "Duanova",
+                    "title": "Donia",
+                    "uri": "4trb0luHXNU6Q5UrHE4DpV"
+                }
+            ]
+        },
+        "39": {
+            "s0": [
+                {
+                    "artist": "Nailah Hunter",
+                    "title": "White Flower, Dark Hill",
+                    "uri": "7xMCTA7bAlOcryEnnkj4h6"
+                },
+                {
+                    "artist": "Nailah Hunter",
+                    "title": "White Flower, Dark Hill",
+                    "uri": "1u3Tp2qxZjvGFHSd8iTMts"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nailah Hunter",
+                    "title": "White Flower, Dark Hill",
+                    "uri": "7xMCTA7bAlOcryEnnkj4h6"
+                },
+                {
+                    "artist": "Nailah Hunter",
+                    "title": "White Flower, Dark Hill",
+                    "uri": "1u3Tp2qxZjvGFHSd8iTMts"
+                },
+                {
+                    "artist": "Dr Namaste",
+                    "title": "White Flower",
+                    "uri": "51FW40aVNiNxMvmEFodZs4"
+                }
+            ]
+        }
+    },
     "surf-gang-28th-november-2023": {
         "00": {
             "s0": "",
