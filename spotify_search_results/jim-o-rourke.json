@@ -4467,6 +4467,104 @@
             ]
         }
     },
+    "jim-o-rourke-28th-december-2023": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Carlos Giffoni",
+                    "title": "The Endless Mirror",
+                    "uri": "6B8HywocPfgFlvaz8y5Ej9"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nisse Sandström Group",
+                    "title": "Vår i Danmark",
+                    "uri": "2aoO96bV6daa2hSBy7Jjmi"
+                },
+                {
+                    "artist": "Burhan G",
+                    "title": "Nu Er Det Jul (Nissebanden)",
+                    "uri": "5Jqo99jKKbaSYKQ7P0SM54"
+                },
+                {
+                    "artist": "Børnemusik Dyrene",
+                    "title": "Til Julebal I Nisseland",
+                    "uri": "6iaPYrELrq9GGG8wxEwHe8"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Loren Connors & Haunted House",
+                    "title": "Thomas Paine",
+                    "uri": "0rxZDj3DFBXA2Enz9OadvR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Loren Connors & Haunted House",
+                    "title": "Thomas Paine",
+                    "uri": "0rxZDj3DFBXA2Enz9OadvR"
+                },
+                {
+                    "artist": "Holly Humberstone",
+                    "title": "Haunted House",
+                    "uri": "3J0jlN9j7fpmghvALVF0Th"
+                },
+                {
+                    "artist": "Neoni",
+                    "title": "Haunted House",
+                    "uri": "0lRWCC1H4Ik57AoCDywzPl"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Henry Kaiser",
+                    "title": "Ants and Chimps",
+                    "uri": "3YTil9btmjdl8a8ZhpNTt3"
+                },
+                {
+                    "artist": "Henry Kaiser",
+                    "title": "Greenhouse Uke",
+                    "uri": "5M61DX82MiSAGZCSrQyTzk"
+                },
+                {
+                    "artist": "Monty Python",
+                    "title": "Henry Kissinger",
+                    "uri": "1TKQmwUWpgZonUW4MB6xP2"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sam Duties",
+                    "title": "Do You 150?",
+                    "uri": "3ddx7vYi4LXRFhMWIBkhS1"
+                },
+                {
+                    "artist": "Sam DiNovo",
+                    "title": "Nothing Matters",
+                    "uri": "2mlwxNKa37lxCmuVIhOh3e"
+                },
+                {
+                    "artist": "Sam Donald",
+                    "title": "Son Of The Sandman",
+                    "uri": "5Qkt5NDAyz84z8lcFCNMuv"
+                }
+            ]
+        }
+    },
     "jim-o-rourke-29th-december-2022": {
         "00": {
             "s0": "",
