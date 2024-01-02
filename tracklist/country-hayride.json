@@ -6963,6 +6963,68 @@
             "title": "Price To Pay"
         }
     },
+    "country-hayride-31st-december-2023": {
+        "00": {
+            "artist": "What Are You Doing New Year’s Eve?",
+            "title": "Margaret Whiting"
+        },
+        "01": {
+            "artist": "New Year’s Day",
+            "title": "Charlie Robison"
+        },
+        "02": {
+            "artist": "It All Falls Down To The River",
+            "title": "Suzy Bogguss"
+        },
+        "03": {
+            "artist": "You’d Be The One",
+            "title": "Suzy Bogguss"
+        },
+        "04": {
+            "artist": "Farewell Andromeda (Welcome To My Morning)",
+            "title": "John Denver"
+        },
+        "05": {
+            "artist": "I’m Sorry",
+            "title": "John Denver"
+        },
+        "06": {
+            "artist": "Run Run Rudolph",
+            "title": "Chuck Berry"
+        },
+        "07": {
+            "artist": "Fairytale Of  New York",
+            "title": "The Pogues"
+        },
+        "08": {
+            "artist": "Christmas In Washington",
+            "title": "Steve Earle"
+        },
+        "09": {
+            "artist": "New Year, ",
+            "title": "Legends Of Country"
+        },
+        "10": {
+            "artist": "Always Fine",
+            "title": "Josie Toney"
+        },
+        "11": {
+            "artist": "2-Steppin’",
+            "title": "Amanda Fields"
+        },
+        "12": {
+            "artist": "The Golden Crystal Kingdom",
+            "title": "Vincent Neil Emerson"
+        },
+        "13": {
+            "artist": "True Companion",
+            "title": "The Wilder Blue"
+        },
+        "14": {
+            "artist": "Cold Cold Heart (Alternate Take)",
+            "title": "Hank Williams Sr"
+        }
+    },
     "country-hayride-31st-january-2016": {
         "00": {
             "artist": "George Jones",
