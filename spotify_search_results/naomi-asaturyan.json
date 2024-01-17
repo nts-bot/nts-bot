@@ -21547,6 +21547,324 @@
             ]
         }
     },
+    "naomi-asaturyan-8th-january-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "James Taylor",
+                    "title": "Gaia",
+                    "uri": "4HvUn2UZobWGX6BLijuaru"
+                },
+                {
+                    "artist": "James T Scattergood",
+                    "title": "The T",
+                    "uri": "5Aspb6gWCQg8dZ6N2Bat0X"
+                },
+                {
+                    "artist": "James T. Reese",
+                    "title": "Only You Can Change Your Tune",
+                    "uri": "67g24BZjKYbDakSAztLnBC"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Lady June",
+                    "title": "Everythingsnothing",
+                    "uri": "4OgDzjLvUjaXI4OjLHZjDf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lady June",
+                    "title": "Everythingsnothing",
+                    "uri": "4OgDzjLvUjaXI4OjLHZjDf"
+                },
+                {
+                    "artist": "Lady June",
+                    "title": "Missing Person",
+                    "uri": "1hQjqqVSuB4Vj5iiOlAPl7"
+                },
+                {
+                    "artist": "Lady July",
+                    "title": "Heavy",
+                    "uri": "6q5HnCSeZKnsBiTH0PD1R4"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bing Crosby",
+                    "title": "Silver Bells",
+                    "uri": "7ehhnVu3JUWMaSJzY1zC4k"
+                },
+                {
+                    "artist": "Orchestra Manhattan",
+                    "title": "Silver Bells",
+                    "uri": "1GANCv5qWWIGTnc7l9VU6S"
+                },
+                {
+                    "artist": "our distant worlds",
+                    "title": "Silver Bells - Piano",
+                    "uri": "5HGeOWobPDjZZ3vc0tUA0x"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Michael Nyman Band",
+                    "title": "Where the Bee Sucks",
+                    "uri": "2WjO32zYLkVngSfy6JW46O"
+                },
+                {
+                    "artist": "Michael Nyman",
+                    "title": "Songs for Ariel: Where the Bee Sucks There Suck I",
+                    "uri": "0OBFo7AZrr5WNHmoUcPCxs"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Michael Nyman Band",
+                    "title": "Where the Bee Sucks",
+                    "uri": "2WjO32zYLkVngSfy6JW46O"
+                },
+                {
+                    "artist": "Michael Nyman",
+                    "title": "Songs for Ariel: Where the Bee Sucks There Suck I",
+                    "uri": "0OBFo7AZrr5WNHmoUcPCxs"
+                },
+                {
+                    "artist": "Michael Nyman",
+                    "title": "The Heart Asks Pleasure First",
+                    "uri": "4RW7EZi7SHSLRwvn1Q8Mqj"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Piero Piccioni",
+                    "title": "Amore mio aiutami - Main Theme",
+                    "uri": "29KwH2LEjfWEtiC2jCrLVw"
+                },
+                {
+                    "artist": "Piero Piccioni",
+                    "title": "Luna, amore e no",
+                    "uri": "1LlQI0PyVcf9iiDPbSLxFp"
+                },
+                {
+                    "artist": "Piero Piccioni",
+                    "title": "Amore mio aiutami - Version 6",
+                    "uri": "17IoJ4OxBO1Ddlub4hrOkk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Piero Piccioni",
+                    "title": "Amore mio aiutami - Main Theme",
+                    "uri": "29KwH2LEjfWEtiC2jCrLVw"
+                },
+                {
+                    "artist": "Piero Piccioni",
+                    "title": "Amore mio aiutami - Version 6",
+                    "uri": "17IoJ4OxBO1Ddlub4hrOkk"
+                },
+                {
+                    "artist": "Piero Piccioni",
+                    "title": "Luna, amore e no",
+                    "uri": "1LlQI0PyVcf9iiDPbSLxFp"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "The Enid",
+                    "title": "The Sun",
+                    "uri": "2ORRZ6DCqTpBv8XWaW9oVT"
+                },
+                {
+                    "artist": "The Enid",
+                    "title": "The Sun",
+                    "uri": "0GAaQdfxEYPjQOjyOz5hHk"
+                },
+                {
+                    "artist": "The Enid",
+                    "title": "The Sun",
+                    "uri": "3sUaZPGt1VX4nq1TB5koiW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Enya",
+                    "title": "The Sun in the Stream - 2009 Remaster",
+                    "uri": "5KtmZFoj8N6g3tLLk6hYFK"
+                },
+                {
+                    "artist": "Jean-Baptiste Lully",
+                    "title": "Le bourgeois gentilhomme: Chaconne des Scaramouches, Frivelins et Arlequins",
+                    "uri": "7KHG8MHzxAv0YnLFBWY9Y1"
+                },
+                {
+                    "artist": "AC Killer",
+                    "title": "Warriors",
+                    "uri": "0vanZo9vOhCmqAK7h9bjy3"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Aleksei Bryantsev",
+                    "title": "Ты за чертой",
+                    "uri": "5kgWlXfM9BFkfCTZXfvpLt"
+                },
+                {
+                    "artist": "Aleksey Rom",
+                    "title": "Скрипка",
+                    "uri": "6TuC6K3ebdRhKmsZqUZmrn"
+                },
+                {
+                    "artist": "Alexei Surovykh",
+                    "title": "A River of Dreams",
+                    "uri": "4eqzu5ONDmzxLuhz1xkosb"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bill Frisell",
+                    "title": "Outlaws",
+                    "uri": "6XpcNZVkuSlurCExNOUNhG"
+                },
+                {
+                    "artist": "Bill Frisell",
+                    "title": "I Got Rhythm",
+                    "uri": "3Q3i5WQV7Kc3mn2ipstmGX"
+                },
+                {
+                    "artist": "Bill Grady",
+                    "title": "Don't Pray for Me",
+                    "uri": "6qWqDrr3ayXV7PrfEPYpia"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Flaming Lips",
+                    "title": "Yoshimi Battles the Pink Robots, Pt. 1",
+                    "uri": "0ccCwNzXvr1Yoz91vKz31Z"
+                },
+                {
+                    "artist": "The Flaming Lips",
+                    "title": "Yoshimi Battles the Pink Robots, Pt. 2",
+                    "uri": "1tCf9F4e0V7oIP7oPbm5rr"
+                },
+                {
+                    "artist": "Flaming Ouroboros",
+                    "title": "Heliacal Worship",
+                    "uri": "2nlTbNfSm2mRIdjFzQpMyK"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "The Sons",
+                    "title": "Country Girl",
+                    "uri": "3MAG6i6uJt61RF9vjkGb1s"
+                },
+                {
+                    "artist": "The Lions",
+                    "title": "Girl from the North Country",
+                    "uri": "63RTC1uFDMFqXeE2tC5w4A"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Lions",
+                    "title": "Girl from the North Country",
+                    "uri": "63RTC1uFDMFqXeE2tC5w4A"
+                },
+                {
+                    "artist": "Primal Scream",
+                    "title": "Country Girl",
+                    "uri": "2k1ITEDrXY9QHHvyC5APqo"
+                },
+                {
+                    "artist": "Lions",
+                    "title": "Girl from the North Country",
+                    "uri": "1S7hk5ucayMQJ8a2VvpFHh"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Romance",
+                    "title": "Once Upon a Time",
+                    "uri": "2BxKHAVxYsO1aAkWJwKLOt"
+                },
+                {
+                    "artist": "The Richard Romance Orchestra",
+                    "title": "Once Upon a Time in the West",
+                    "uri": "2ATnFPIur0tADe11UqzwPC"
+                },
+                {
+                    "artist": "Romancerary",
+                    "title": "Once Upon A Time",
+                    "uri": "1NapQ8vLWQLZqnWqmelNnZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Romance",
+                    "title": "Once Upon a Time",
+                    "uri": "2BxKHAVxYsO1aAkWJwKLOt"
+                },
+                {
+                    "artist": "Jamilah Barry",
+                    "title": "Once-Upon-A-Time",
+                    "uri": "0ruXlI2lrBoSApcBbjtRE4"
+                },
+                {
+                    "artist": "JO1",
+                    "title": "Romance",
+                    "uri": "15pDF3GrHVocU2VD5HDWdY"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "John T. Gast",
+                    "title": "PHANTASY",
+                    "uri": "1uNRlUGew14jn1oLqeIZFd"
+                },
+                {
+                    "artist": "World love",
+                    "title": "roots",
+                    "uri": "43V4CjqY4WZtizIx2NQNBk"
+                },
+                {
+                    "artist": "Mikey Dread",
+                    "title": "Roots and Culture",
+                    "uri": "27Ao7StVocPejWGBF3TwM0"
+                }
+            ]
+        }
+    },
     "naomi-asaturyan-9th-december-2018": {
         "00": {
             "s0": [

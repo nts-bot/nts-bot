@@ -1,4 +1,230 @@
 {
+    "htrk-10th-january-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nina Hagen",
+                    "title": "Du hast den Farbfilm vergessen",
+                    "uri": "5x9YbePfdkPcY6HDT6cjlv"
+                },
+                {
+                    "artist": "Nina Hagen",
+                    "title": "Du hast den Farbfilm vergessen",
+                    "uri": "2GsdNfuxE4tHS1Hj5hfVVf"
+                },
+                {
+                    "artist": "Nina Badric",
+                    "title": "Neka Noćaš Dođu Svi",
+                    "uri": "2mMsc54LkY2hAqfb9dI0TV"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Henry Cow",
+                    "title": "Solemn Music",
+                    "uri": "2F6qBbCNfq59csw3nqdYhS"
+                },
+                {
+                    "artist": "Henry Cow",
+                    "title": "Amygdala",
+                    "uri": "6JbEi1w4xGPfOXoSCigDGK"
+                },
+                {
+                    "artist": "Cece Giannotti",
+                    "title": "Harry's Caravan",
+                    "uri": "15C80gZxgPFjS8pOiyZisK"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gentle Giant",
+                    "title": "The Advent Of Panurge",
+                    "uri": "5UqFSGvjvZJuhiFWxXHmc2"
+                },
+                {
+                    "artist": "The Gentle Flower.",
+                    "title": "Dear Lucy",
+                    "uri": "3z2bS4iXF9Q0VXhKgLeblQ"
+                },
+                {
+                    "artist": "Marilla Ness",
+                    "title": "Gentle Woman",
+                    "uri": "339jeDCI3Po09zEVlJLgFV"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Park Jiha",
+                    "title": "Temporary Inertia",
+                    "uri": "0b5rkJPQSr9bU4tnzZqvVO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Park Jiha",
+                    "title": "Temporary Inertia",
+                    "uri": "0b5rkJPQSr9bU4tnzZqvVO"
+                },
+                {
+                    "artist": "Park Kyung",
+                    "title": "Ordinary Love",
+                    "uri": "1enx9LPZrXxaVVBxas5rRm"
+                },
+                {
+                    "artist": "PARK JI HOON",
+                    "title": "GOTCHA",
+                    "uri": "4mgkQnzI5XlVYgXoJGySwc"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eikichi Yazawa",
+                    "title": "時間よ止まれ - Remastered 2022",
+                    "uri": "4MpIgtozqPyjH2BJEa05yO"
+                },
+                {
+                    "artist": "Eikichi Yazawa",
+                    "title": "時間よ止まれ - Live at 横浜アリーナ'97 - Remastered 2022",
+                    "uri": "6pswtz6FHjsf0COkvHFJta"
+                },
+                {
+                    "artist": "Eigo Kawashima",
+                    "title": "時代おくれ（'85オリジナル・シングルバージョン）",
+                    "uri": "3NDEiaA6ER9w0ja9iH4JSu"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Maths Balance Volumes",
+                    "title": "Janet’s Song",
+                    "uri": "1xa5tirL8ZaugMAqtN8wgF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Maths Balance Volumes",
+                    "title": "Janet’s Song",
+                    "uri": "1xa5tirL8ZaugMAqtN8wgF"
+                },
+                {
+                    "artist": "Janet Jackson",
+                    "title": "Rhythm Nation",
+                    "uri": "51q3nDYWAqPY4hlgKEbP6j"
+                },
+                {
+                    "artist": "Janeth Salinas",
+                    "title": "Corazón Sufrido",
+                    "uri": "6drF5tbbdQzR1OP3uqAjw1"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Jérôme Noetinger",
+                    "title": "Coruscation, Pt. 14",
+                    "uri": "008NwcR2MRaRLTE1QQrxr2"
+                },
+                {
+                    "artist": "Jérôme Noetinger",
+                    "title": "Coruscation, Pt. 1",
+                    "uri": "1LwwNXqq1uG7yfZHYEVLgr"
+                },
+                {
+                    "artist": "Jérôme Noetinger",
+                    "title": "Coruscation, Pt. 12",
+                    "uri": "5sUzcERUXfAV17WdzO3a70"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jérôme Noetinger",
+                    "title": "Coruscation, Pt. 14",
+                    "uri": "008NwcR2MRaRLTE1QQrxr2"
+                },
+                {
+                    "artist": "Jérôme Noetinger",
+                    "title": "Coruscation, Pt. 1",
+                    "uri": "1LwwNXqq1uG7yfZHYEVLgr"
+                },
+                {
+                    "artist": "Jérôme Noetinger",
+                    "title": "Coruscation, Pt. 9",
+                    "uri": "3oAgx0vu1zixUecXDy2SC9"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alice Schach and the Magic Orchestra",
+                    "title": "Doppelgängers",
+                    "uri": "3um8rnuCg9TdLgDDehrNXV"
+                },
+                {
+                    "artist": "Otis Lockwood",
+                    "title": "Doppelgänger",
+                    "uri": "5xpHamBhvgRIU5jiWY77ev"
+                },
+                {
+                    "artist": "Doppelganger",
+                    "title": "Gun-Fight",
+                    "uri": "3hEBm6iWJwUYMHee5N6jsB"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Led Zeppelin",
+                    "title": "Achilles Last Stand - Remaster",
+                    "uri": "1ibHApXtb0pgplmNDRLHrJ"
+                },
+                {
+                    "artist": "Led Zeppelin",
+                    "title": "Achilles Last Stand - Remaster",
+                    "uri": "4wCMKxkE3eMOTtlAx0NFEM"
+                },
+                {
+                    "artist": "Led Zeppelin",
+                    "title": "Achilles Last Stand - Remaster",
+                    "uri": "0BochXUxV1vjmkGIfVRXpi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Led Zeppelin",
+                    "title": "Achilles Last Stand - Remaster",
+                    "uri": "1ibHApXtb0pgplmNDRLHrJ"
+                },
+                {
+                    "artist": "Led Zeppelin",
+                    "title": "Achilles Last Stand - Remaster",
+                    "uri": "0BochXUxV1vjmkGIfVRXpi"
+                },
+                {
+                    "artist": "Led Zeppelin",
+                    "title": "Immigrant Song - Remaster",
+                    "uri": "78lgmZwycJ3nzsdgmPPGNx"
+                }
+            ]
+        }
+    },
     "htrk-11th-january-2023": {
         "00": {
             "s0": [

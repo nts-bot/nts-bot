@@ -1,1 +1,370 @@
-{}
+{
+    "ichiko-aoba-16th-january-2024": {
+        "00": {
+            "artist": "Mandalay Ethnic Ensemble",
+            "ratio": 9,
+            "title": "Burmese Voices, Vol. 1",
+            "trackid": "6I6gEQvbMW4JO8IIRgy1LH"
+        },
+        "01": {
+            "artist": "Georg Holm",
+            "ratio": 0,
+            "title": "Fljótavík",
+            "trackid": "6hkOAdgduiWe3jCV3PjPKJ"
+        },
+        "02": {
+            "artist": "Skúli Sverrisson",
+            "ratio": 9,
+            "title": "Afternoon Variant",
+            "trackid": "2DbshDX4wiEqioqKqK0v24"
+        },
+        "03": {
+            "artist": "Julian Bream",
+            "ratio": 9,
+            "title": "Pavane pour une infante défunte (Maurice Ravel arr. Bream)",
+            "trackid": "21Y2ISw1khTOr4tpWlTDpg"
+        },
+        "04": {
+            "artist": "波照間島",
+            "ratio": 9,
+            "title": "西浜の波の音3",
+            "trackid": "7htIddYXOZqYwx6pI1tUZc"
+        },
+        "05": {
+            "artist": "Pygmées",
+            "ratio": 9,
+            "title": "Élabé monahé",
+            "trackid": "7vN0UMJF09TD15ICoKCwpm"
+        },
+        "06": {
+            "artist": "Stephan Micus",
+            "ratio": 9,
+            "title": "Fireflies",
+            "trackid": "4JQir4fBREm6DZ8yhlufmI"
+        },
+        "07": {
+            "artist": "Pharoah Sanders",
+            "ratio": 9,
+            "title": "Greeting To Saud (Brother McCoy Tyner)",
+            "trackid": "1qqIjiurhqrgacNG9uWCuG"
+        },
+        "08": {
+            "artist": "Orchestre Ratianarivo",
+            "ratio": 9,
+            "title": "Rambalamanana",
+            "trackid": "0SB0GXmA3qWxeyO35JM5tV"
+        },
+        "09": {
+            "artist": "Alice Mwale and Josefina Lungu",
+            "ratio": 9,
+            "title": "Two Lullabies - Nzimbo zo sinsihila mwana - Songs for Rocking a Child",
+            "trackid": "0PVwkEBhwAMgWAZ9uvSGzv"
+        },
+        "10": {
+            "artist": "Aka Pygmies",
+            "ratio": 9,
+            "title": "Nzenzenze",
+            "trackid": "1vjzl36v1N35y9wZXt0Is2"
+        },
+        "11": {
+            "artist": "Nelly Mundoro",
+            "ratio": 9,
+            "title": "Sawagoro Longo - North Pentecost",
+            "trackid": "5GRgrKGBGSmpPVyV7FvvTo"
+        },
+        "12": {
+            "artist": "波照間島",
+            "ratio": 9,
+            "title": "珊瑚の浜",
+            "trackid": "4rWE38eyfZk6HufjUdNwnt"
+        }
+    },
+    "ichiko-aoba-21st-november-2023": {
+        "00": {
+            "artist": "Taeko Onuki",
+            "ratio": 9,
+            "title": "星の奇跡 - Live Version 2022",
+            "trackid": "6GmSk75gy4R4k8hpNQATk9"
+        },
+        "01": {
+            "artist": "The Beach Boys",
+            "ratio": 9,
+            "title": "Let's Go Away For Awhile",
+            "trackid": "1kl9i2FGtcO34whpvwZb18"
+        },
+        "02": {
+            "artist": "Maurice Ravel",
+            "ratio": 9,
+            "title": "Miroirs: III. Une barque sur l'océan",
+            "trackid": "4JOEMgLkrHp8K1XNmyNffH"
+        },
+        "03": {
+            "artist": "Caetano Veloso",
+            "ratio": 9,
+            "title": "Michaelangelo Antonioni",
+            "trackid": "1geg1JSajlWYfLkd3jLQyo"
+        },
+        "04": {
+            "artist": "Clark",
+            "ratio": 9,
+            "title": "Omni Vignette",
+            "trackid": "5F0Ne6CGaUYZaegGli9BYN"
+        },
+        "05": {
+            "artist": "中村 由利子",
+            "ratio": 5,
+            "title": "哀しみのラプソディー",
+            "trackid": "7H9xOJrvS7woveQNcpqifi"
+        },
+        "06": {
+            "artist": "Erasmo Carlos",
+            "ratio": 9,
+            "title": "Vida Antiga",
+            "trackid": "3hPm7wwK3QaTJMe8jptr32"
+        },
+        "07": {
+            "artist": "Hiroko Yakushimaru",
+            "ratio": 4,
+            "title": "あなたを・もっと・知りたくて",
+            "trackid": "6Mi53Ih5CDHU1IK9Hx9Vkb"
+        },
+        "08": {
+            "artist": "Chassol",
+            "ratio": 9,
+            "title": "Chassol",
+            "trackid": "682lvQTLyaddr1yFhCHv80"
+        },
+        "09": {
+            "artist": "Mulatu Astatke",
+            "ratio": 9,
+            "title": "Tezeta (Nostalgia)",
+            "trackid": "414J8tKHbtF16XOiHGBEso"
+        },
+        "10": {
+            "artist": "Dirty Beaches",
+            "ratio": 9,
+            "title": "Lord Knows Best",
+            "trackid": "1i0ta3NUNreyKfDgqyy7QG"
+        },
+        "11": {
+            "artist": "Billie Holiday",
+            "ratio": 9,
+            "title": "Solitude",
+            "trackid": "30QD4VRP9yEneOh0eGTrtJ"
+        },
+        "12": {
+            "artist": "Frankie Reyes",
+            "ratio": 9,
+            "title": "Alma, Corazón y Vida",
+            "trackid": "2D4GOXUKTZzO7OlELqrmYV"
+        }
+    },
+    "ichiko-aoba-26th-september-2023": {
+        "00": {
+            "artist": "新崎純とナイン・シープス",
+            "ratio": 9,
+            "title": "かじゃでぃ風節 - Cover",
+            "trackid": "6Bc5XUNUfce2kVut7KvCVg"
+        },
+        "01": {
+            "artist": "David Darling & The Wulu Bunun",
+            "ratio": 9,
+            "title": "Mataisah-hik Sagan",
+            "trackid": "5RNCCJGehbv2kYF9S3L709"
+        },
+        "02": {
+            "artist": "Kenny Wheeler",
+            "ratio": 9,
+            "title": "Part 1 - Opening",
+            "trackid": "0TPz69Knk69ZE8yhil89CB"
+        },
+        "03": {
+            "artist": "Joe Loss & His Orchestra",
+            "ratio": 9,
+            "title": "Young At Heart",
+            "trackid": "2auL17JsoHmvZK8yeU8Jjr"
+        },
+        "04": {
+            "artist": "Nala Sinephro",
+            "ratio": 9,
+            "title": "Space 1",
+            "trackid": "5xYR2G6YOEzX2X9asFUrOE"
+        },
+        "05": {
+            "artist": "Fabiano do Nascimento",
+            "ratio": 9,
+            "title": "Curumim 2",
+            "trackid": "4pCEE0zpHULBrkmn2xc4xm"
+        },
+        "06": {
+            "artist": "Mulatu Astatke",
+            "ratio": 9,
+            "title": "Yèkèrmo Sèw",
+            "trackid": "4CwAgkBoKAGT6UMas89F0v"
+        },
+        "07": {
+            "artist": "Vladimir Cosma",
+            "ratio": 9,
+            "title": "Promenade sentimentale",
+            "trackid": "6m4yHLNlUANlyZEdMJ2nYu"
+        },
+        "08": {
+            "artist": "Taeko Onuki",
+            "ratio": 9,
+            "title": "Rain Dance",
+            "trackid": "5JAKDv1EGOFXwpS7T7TlNk"
+        },
+        "09": {
+            "artist": "Ryuichi Sakamoto",
+            "ratio": 9,
+            "title": "energy flow",
+            "trackid": "3lam56BGPAHGpzKeOZwBW1"
+        },
+        "10": {
+            "artist": "Brian Eno",
+            "ratio": 9,
+            "title": "Emerald and Stone",
+            "trackid": "6fymXW3eFHPmIOdDfnLXS4"
+        },
+        "11": {
+            "artist": "Emile Mosseri",
+            "ratio": 9,
+            "title": "Infinite Love",
+            "trackid": "6SIUbcqmVn4zTVDLeY5mMC"
+        },
+        "12": {
+            "artist": "Susanna",
+            "ratio": 9,
+            "title": "Love Will Tear Us Apart",
+            "trackid": "33z70kPS4Iwxyd1KKpxMQk"
+        },
+        "13": {
+            "artist": "Million Eyes",
+            "ratio": 9,
+            "title": "The Mercy of the Wind",
+            "trackid": "59EPbYaZgU4qrQy1OwwhKt"
+        },
+        "14": {
+            "artist": "Molly Lewis",
+            "ratio": 9,
+            "title": "Miracle Fruit",
+            "trackid": "7JM1c8Vn3tl00JPYLcHWN1"
+        },
+        "15": {
+            "artist": "Haruomi Hosono",
+            "ratio": 9,
+            "title": "最後の楽園",
+            "trackid": "3Q59MwvTzZveZTNunIQY1x"
+        },
+        "16": {
+            "artist": "Ichiko Aoba",
+            "ratio": 9,
+            "title": "Space Orphans",
+            "trackid": "0aCZDVvoYRJURBk4lzdA1b"
+        }
+    },
+    "ichiko-aoba-31st-august-2022": {
+        "00": {
+            "artist": "Green-House",
+            "ratio": 9,
+            "title": "Peperomia Seedling",
+            "trackid": "5zU11qaJ9MH4V3712zconf"
+        },
+        "01": {
+            "artist": "Alexandre Desplat",
+            "ratio": 9,
+            "title": "The Shape Of Water",
+            "trackid": "2VzJH2QeNO1PiZwXZMvx7g"
+        },
+        "02": {
+            "artist": "Floating Points",
+            "ratio": 4,
+            "title": "Birth4000",
+            "trackid": "0ULiCJAR2lmaHrXvs3exRm"
+        },
+        "03": {
+            "artist": "Hikaru Utada",
+            "ratio": 0,
+            "title": "あなた",
+            "trackid": "3yCVsL9xnnnhtOQ1CfPD7W"
+        },
+        "04": {
+            "artist": "Haruomi Hosono",
+            "ratio": 9,
+            "title": "最後の楽園",
+            "trackid": "3Q59MwvTzZveZTNunIQY1x"
+        },
+        "05": {
+            "artist": "Laufey",
+            "ratio": 9,
+            "title": "Like the Movies",
+            "trackid": "1hUXDEqjNIIbfjTcaz3jzb"
+        },
+        "06": {
+            "artist": "Nancy Adams",
+            "ratio": 9,
+            "title": "What The World Needs Now Is Love",
+            "trackid": "4LEYCU9XmAerPdthqELyOb"
+        },
+        "07": {
+            "artist": "Arooj Aftab",
+            "ratio": 9,
+            "title": "Suroor",
+            "trackid": "2MV0mtareRvUo9vUZoxLNA"
+        },
+        "08": {
+            "artist": "The Sweet Enoughs",
+            "ratio": 9,
+            "title": "Dream Puppy",
+            "trackid": "0JuXNcbA4jqJgDzIO90f1D"
+        },
+        "09": {
+            "artist": "Haruomi Hosono",
+            "ratio": 3,
+            "title": "最後の楽園",
+            "trackid": "3Q59MwvTzZveZTNunIQY1x"
+        },
+        "10": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "11": {
+            "artist": "Omni Gardens",
+            "ratio": 9,
+            "title": "Watering Plants",
+            "trackid": "1CSHHUTY7jxTuM2azS7wW7"
+        },
+        "12": {
+            "artist": "Brian Eno",
+            "ratio": 9,
+            "title": "Emerald and Stone",
+            "trackid": "6fymXW3eFHPmIOdDfnLXS4"
+        },
+        "13": {
+            "artist": "Gabriel Fauré",
+            "ratio": 7,
+            "title": "Requiem, Op.48: Introit et Kyrie",
+            "trackid": "4rNmHZXXRDo1P0RS0Hd2e5"
+        },
+        "14": {
+            "artist": "Harmonia & Eno '76",
+            "ratio": 9,
+            "title": "When Shade Was Born",
+            "trackid": "5CWe2Fu1Aquci7fboE4Qqe"
+        },
+        "15": {
+            "artist": "Harold Budd",
+            "ratio": 9,
+            "title": "Little Heart - 2013 Remaster",
+            "trackid": "3QdEJzVqLqIIRsUSSF3m0C"
+        },
+        "16": {
+            "artist": "Ichiko Aoba",
+            "ratio": 9,
+            "title": "Hello - live at Milton Court, London, 2022",
+            "trackid": "4QARCyRsZaAj1ja2b6IJ08"
+        }
+    }
+}

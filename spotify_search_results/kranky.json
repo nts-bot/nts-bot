@@ -1215,6 +1215,166 @@
             ]
         }
     },
+    "kranky-11th-january-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Adrian Milanio",
+                    "title": "After All",
+                    "uri": "4Rm7yl6jlW8aiFEaDJVvsY"
+                },
+                {
+                    "artist": "Am Amp",
+                    "title": "PZA",
+                    "uri": "2Rk8zldFFbfOj9SBmVhuzn"
+                },
+                {
+                    "artist": "Am Amp",
+                    "title": "責愛",
+                    "uri": "2pSgXoykjz7uxwYOgKPOgC"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Akina Nakamori",
+                    "title": "Close Your Eyes",
+                    "uri": "7CCM8GcUVir5j8jf5TZhtd"
+                },
+                {
+                    "artist": "Windy & Carl",
+                    "title": "Undercurrent",
+                    "uri": "6Qyy9fqDBBZyl90snerjl0"
+                },
+                {
+                    "artist": "Viken Arman",
+                    "title": "Close - Your eyes",
+                    "uri": "50LptHhSJpky3fYP2eBPU8"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Carter Burwell",
+                    "title": "Bella's Lullaby (From \"Twilight\")",
+                    "uri": "0w5ymU3obTE6hVDfMHJDDL"
+                },
+                {
+                    "artist": "Howard Shore",
+                    "title": "Bella's Truck / Florida - From \"The Twilight Saga: Eclipse\"",
+                    "uri": "4NPAn0xiqdI34o9Wc7yMay"
+                },
+                {
+                    "artist": "Mr.Babyface",
+                    "title": "Hood Story",
+                    "uri": "5dThk3rqnYjS23FscrPsGW"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Piper Spray & Lena Tsibizova",
+                    "title": "Recursive Personage",
+                    "uri": "19usz2Cscd7g9CjonVzCAb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Piper Spray & Lena Tsibizova",
+                    "title": "Recursive Personage",
+                    "uri": "19usz2Cscd7g9CjonVzCAb"
+                },
+                {
+                    "artist": "Piper Spray & Lena Tsibizova",
+                    "title": "Four Chords",
+                    "uri": "5yjKhg58dJ0S1qvpqIjZFf"
+                },
+                {
+                    "artist": "Piper Spray & Lena Tsibizova",
+                    "title": "Fisher",
+                    "uri": "6xBlI2vxAdB0o3kp9uUzCs"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Strategy",
+                    "title": "True Believers",
+                    "uri": "3y1xEf62WLX3yVRs85besR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Strategy",
+                    "title": "True Believers",
+                    "uri": "3y1xEf62WLX3yVRs85besR"
+                },
+                {
+                    "artist": "SAya",
+                    "title": "Call Me Maybe",
+                    "uri": "3kzDgmslzUUAPFZzO0YfsG"
+                },
+                {
+                    "artist": "CHA NI (SF9)",
+                    "title": "Starlight",
+                    "uri": "7lV0M6ulaapTNZJzx8stw0"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Allman Brothers Band",
+                    "title": "Blue Sky (Live)",
+                    "uri": "1LoZ7V8eevQoQYe5eRJ96c"
+                },
+                {
+                    "artist": "Allman Brothers Band",
+                    "title": "Blue Sky - Live at the Beacon Theatre, NYC, NY - March 1992",
+                    "uri": "3MtnDBFB7kgfCxypO3CY9s"
+                },
+                {
+                    "artist": "Sachiho",
+                    "title": "night sky",
+                    "uri": "5lMjVg7lcKqXey9vKAzgl4"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Slowfoam",
+                    "title": "Playfully Rendered",
+                    "uri": "66EO1tGCMCAD0p6lKYDkiO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Slowfoam",
+                    "title": "Playfully Rendered",
+                    "uri": "66EO1tGCMCAD0p6lKYDkiO"
+                },
+                {
+                    "artist": "The Braxtons",
+                    "title": "Slow Flow",
+                    "uri": "7m0noZQh3zB7vbbdHY2gk1"
+                },
+                {
+                    "artist": "Dz osm",
+                    "title": "Playful Captive",
+                    "uri": "7DmFCLNj4Q9MQaDTyVNucE"
+                }
+            ]
+        }
+    },
     "kranky-11th-march-2020": {
         "00": {
             "s0": "",

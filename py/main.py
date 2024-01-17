@@ -20,11 +20,12 @@ connection = web.connection()
 webscrape = web.webscraper()
 
 
-def scrape(test):
-    if test:
-        amount = 1
-    else:
-        amount = 15  # 15
+def scrape(amount: int = True):
+    if isinstance(amount, bool):
+        if amount:
+            amount = 1
+        else:
+            amount = 15  # 15
     soup = webscrape.browse("https://www.nts.live/latest", amount=amount)
     episodes = soup.select("a.nts-grid-v2-item__header")
     shelf = dict()
@@ -48,6 +49,7 @@ def scripts(self, show, test=False):
     if test:
         logging.warning(f"Running Test, Skipping Upload: {show}")
     else:
+        runner(self, show, f"./spotify/{show}", 4)
         logging.debug("S-Playlist")
         runner(self, show, f"./uploaded/{show}", 6)
 
@@ -78,7 +80,7 @@ def prerun(comparison_path):
     comparison = utils.rnw_json(comparison_path)
     missing_eps = []
     # SECOND TEST (TRACKS)
-    if all([isinstance(comparison[i], dict) for i in comparison]):
+    if all([isinstance(comparison[i], dict) for i in comparison]) and (comparison):
         ignore_empty = True
         for episode in comparison:
             for track in episodes[episode]:

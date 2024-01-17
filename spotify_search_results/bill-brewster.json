@@ -6852,5 +6852,564 @@
                 }
             ]
         }
+    },
+    "bill-brewster-9th-january-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Pete Josef",
+                    "title": "Lost Yourself",
+                    "uri": "1GNvzv3XeH1n8IqofpsD4g"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pete Josef",
+                    "title": "Lost Yourself",
+                    "uri": "1GNvzv3XeH1n8IqofpsD4g"
+                },
+                {
+                    "artist": "Pete Josef",
+                    "title": "Giants",
+                    "uri": "32B5eGIOm9qifV9hwpx0Kv"
+                },
+                {
+                    "artist": "Pete Josef",
+                    "title": "Make It Good",
+                    "uri": "3nAe3tuqBOXqy0fdWBESRg"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Helado Negro",
+                    "title": "Best For You and Me",
+                    "uri": "5ivI4ndsDzRgUpxfTlziPZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Helado Negro",
+                    "title": "Best For You and Me",
+                    "uri": "5ivI4ndsDzRgUpxfTlziPZ"
+                },
+                {
+                    "artist": "Helado Negro",
+                    "title": "I Just Want To Wake Up With You",
+                    "uri": "5wNA2n7bNJKRzGIbiU8rim"
+                },
+                {
+                    "artist": "Ronnituns",
+                    "title": "Helado",
+                    "uri": "2UibMHlFJKanWnJ5fSzevn"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Call Sender",
+                    "title": "The Black Dog",
+                    "uri": "5b1S1ITbzyVG3ETert5GyK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Call Sender",
+                    "title": "The Black Dog",
+                    "uri": "5b1S1ITbzyVG3ETert5GyK"
+                },
+                {
+                    "artist": "vo僕",
+                    "title": "The Black Dog",
+                    "uri": "60dpBoBkzYWtHoKH7YVeMJ"
+                },
+                {
+                    "artist": "The Black Dog",
+                    "title": "Borstal Communications - E0314 Mix",
+                    "uri": "6aHA8Q36otlnYVeQotRO3j"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Daryl Hall",
+                    "title": "The Farther Away I Am",
+                    "uri": "4RHvOsTxjsbHaIuIeTjKsj"
+                },
+                {
+                    "artist": "Daryl Hall",
+                    "title": "The Farther Away I Am",
+                    "uri": "2DTz3sapOxfP3snd4k82Qn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Daryl Hall",
+                    "title": "The Farther Away I Am",
+                    "uri": "4RHvOsTxjsbHaIuIeTjKsj"
+                },
+                {
+                    "artist": "Daryl Hall",
+                    "title": "The Farther Away I Am",
+                    "uri": "2DTz3sapOxfP3snd4k82Qn"
+                },
+                {
+                    "artist": "Daryl Hall",
+                    "title": "Dreamtime",
+                    "uri": "7kZZ2Hmkg1zfwrQLsmypNE"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Captain Beefheart & His Magic Band",
+                    "title": "My Head Is My Only House Unless It Rains",
+                    "uri": "40FBvcPdz84RpbCOx2lHQV"
+                },
+                {
+                    "artist": "Captain Beefheart & His Magic Band",
+                    "title": "Zig Zag Wanderer",
+                    "uri": "1F7euzYeo32NncoyEBo63v"
+                },
+                {
+                    "artist": "Captain Beefheart & His Magic Band",
+                    "title": "Her Eyes Are a Blue Million Miles",
+                    "uri": "6fJSEk0GDtPOk3gFxcnbUy"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Malcolm Bertie",
+                    "title": "Teddy Boy",
+                    "uri": "5TRvD0aGItmbZDPG7rETCq"
+                },
+                {
+                    "artist": "Malcolm Eisenhower",
+                    "title": "Fuyouzi",
+                    "uri": "5s4odcgaIcdopF1Rz3CZmb"
+                },
+                {
+                    "artist": "Malcolm Hoyle",
+                    "title": "Melrose Avenue",
+                    "uri": "5EfQjQTQUUYPoYMyI3GAqr"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Super Yamba Band",
+                    "title": "Bad Dog (Tigerbalm Remix)",
+                    "uri": "0sdIO9scgTzqbsj4TCLpmh"
+                },
+                {
+                    "artist": "Bad Dog",
+                    "title": "Pass the Warning",
+                    "uri": "74rqwHTkp1DEsTSJuPHuTt"
+                },
+                {
+                    "artist": "Axl Flores",
+                    "title": "Bad Dog",
+                    "uri": "6aWd1shhEpixvw7hDpqDf0"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tom Tom Club",
+                    "title": "Genius Of Love",
+                    "uri": "11aqD66CgNU4UXKGz9DtfZ"
+                },
+                {
+                    "artist": "Tom Tom Club",
+                    "title": "L Elephant",
+                    "uri": "7dUxR5McG5ZZnWqjlhWhU1"
+                },
+                {
+                    "artist": "CoComelon Español",
+                    "title": "Tom Tom Comparte en Navidad",
+                    "uri": "53ragm8eu9617bdPBUbxtz"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Jeff Mills",
+                    "title": "Methane Bubbles",
+                    "uri": "3DRF70nyxoJmSnomWTTSOS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jeff Mills",
+                    "title": "Methane Bubbles",
+                    "uri": "3DRF70nyxoJmSnomWTTSOS"
+                },
+                {
+                    "artist": "Breakbeat Populer",
+                    "title": "Shiver",
+                    "uri": "0lbLhmnhpIEV6iHvAn6D9P"
+                },
+                {
+                    "artist": "Jef Martens",
+                    "title": "And So the Story Began",
+                    "uri": "772Bcd8JnXHuDFawYaEvks"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Funkky",
+                    "title": "Sixth Sense - The Realm Remix Edit",
+                    "uri": "0opO99rODXPuZCeILnyKDf"
+                },
+                {
+                    "artist": "The Funky Knuckles",
+                    "title": "Franky 3",
+                    "uri": "2mZV52uqnoBI69KlSvLSaf"
+                },
+                {
+                    "artist": "Brown Eyed Girls",
+                    "title": "Sixth Sense",
+                    "uri": "2HT3UJvQ6Gz290CfYVxSLr"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Morris DJ",
+                    "title": "Basso Ipnotico",
+                    "uri": "7fRr1JGZKeVpfgdgOAWOlt"
+                },
+                {
+                    "artist": "Debbra Griff",
+                    "title": "Basso Zinco",
+                    "uri": "7rvEh39DpGm4xwkcyPZviR"
+                },
+                {
+                    "artist": "The Happy Birthdays",
+                    "title": "Basso Is Jarig",
+                    "uri": "7AfoitkY6bOSxkDF9KN45p"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "altrice",
+                    "title": "'ever do you want",
+                    "uri": "6EOhtoZa8JRw4fP7TkjOZ1"
+                },
+                {
+                    "artist": "altrice",
+                    "title": "'ever do you want",
+                    "uri": "0dYg8io1fham8xmfuoizt4"
+                },
+                {
+                    "artist": "altrice",
+                    "title": "'ever do you want",
+                    "uri": "6ZyFcsQtW4ZONjs43dAP6Q"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "altrice",
+                    "title": "'ever do you want",
+                    "uri": "6EOhtoZa8JRw4fP7TkjOZ1"
+                },
+                {
+                    "artist": "altrice",
+                    "title": "'ever do you want",
+                    "uri": "0dYg8io1fham8xmfuoizt4"
+                },
+                {
+                    "artist": "Artie 5ive",
+                    "title": "READY ROCK (2/3)",
+                    "uri": "6fALyHAjT0FgkM3oGtPAHt"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bananarama",
+                    "title": "Love in the First Degree",
+                    "uri": "2qjWA8QruRCkoFZUQJR4SQ"
+                },
+                {
+                    "artist": "Bananarama",
+                    "title": "Venus",
+                    "uri": "4XX1pFUkQOZTYp6Hb6a6Ae"
+                },
+                {
+                    "artist": "CREAM",
+                    "title": "BANANA",
+                    "uri": "57UIzA0NsbupNyc7O6ZhYc"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "TLC",
+                    "title": "Ain't 2 Proud 2 Beg",
+                    "uri": "5kVSEpbyuLIVuPM1i2KivC"
+                },
+                {
+                    "artist": "TLC",
+                    "title": "Ain't 2 Proud 2 Beg - U.S. 7\" Edit",
+                    "uri": "3tydeuNfRRcY5RRu02k5lk"
+                },
+                {
+                    "artist": "TLC",
+                    "title": "Ain't 2 Proud 2 Beg - Instrumental",
+                    "uri": "5HDAL2P80dPwpoOK1lGp1f"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Pointer Sisters",
+                    "title": "Don't It Drive You Crazy",
+                    "uri": "7HT8rn9DzwGuyQ7oTTibx9"
+                },
+                {
+                    "artist": "The Pointer Sisters",
+                    "title": "I'm So Excited",
+                    "uri": "1ot6jEe4w4hYnsOPjd3xKQ"
+                },
+                {
+                    "artist": "The Pointer Sisters",
+                    "title": "Don't It Drive You Crazy",
+                    "uri": "0XlJOCD2trC1psYzKv3fQy"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "En Vogue",
+                    "title": "My Lovin' (You're Never Gonna Get It) [Hype Radio Remix] - 2022 Remaster",
+                    "uri": "7fADNatSfT6h0u2Z8cGBuP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "En Vogue",
+                    "title": "My Lovin' (You're Never Gonna Get It) [Hype Radio Remix] - 2022 Remaster",
+                    "uri": "7fADNatSfT6h0u2Z8cGBuP"
+                },
+                {
+                    "artist": "En Vogue",
+                    "title": "My Lovin' (You're Never Gonna Get It)",
+                    "uri": "3R97rNX7JnmshCWBwOSFet"
+                },
+                {
+                    "artist": "En Vogue",
+                    "title": "Don't Let Go (Love)",
+                    "uri": "06TuMCjDEYjTOJScCRzmjf"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "The Slits",
+                    "title": "Typical Girls",
+                    "uri": "395kSI564E2Rl1Nh5kGOxQ"
+                },
+                {
+                    "artist": "The Slits",
+                    "title": "Typical Girls",
+                    "uri": "2rUgm92oHShYHg3Q6YbFcg"
+                },
+                {
+                    "artist": "The Slits",
+                    "title": "Typical Girls - Brink Style Dub",
+                    "uri": "2JVJ0m8GOAXvqXrPqiqlBJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Slits",
+                    "title": "Typical Girls",
+                    "uri": "395kSI564E2Rl1Nh5kGOxQ"
+                },
+                {
+                    "artist": "The Slits",
+                    "title": "Typical Girls",
+                    "uri": "2rUgm92oHShYHg3Q6YbFcg"
+                },
+                {
+                    "artist": "PERO PERO CANDY",
+                    "title": "Typical Girl",
+                    "uri": "6L34rb1xyrNXw5q4GJ5mGU"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Spice Girls",
+                    "title": "Spice Up Your Life - Morales Radio Mix",
+                    "uri": "45FrddbD0YpM8n4Gxz9oFH"
+                },
+                {
+                    "artist": "Spice Girls",
+                    "title": "Spice Up Your Life - Morales Radio Mix",
+                    "uri": "4UHpvjEGU7ynl7cN4EhoZx"
+                },
+                {
+                    "artist": "Spice Girls",
+                    "title": "Spice Up Your Life - Morales Radio Mix",
+                    "uri": "4wwiDF6ruqdKecJTV2N2Hn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Spice Girls",
+                    "title": "Spice Up Your Life - Morales Radio Mix",
+                    "uri": "4UHpvjEGU7ynl7cN4EhoZx"
+                },
+                {
+                    "artist": "Spice Girls",
+                    "title": "Spice Up Your Life - Morales Radio Mix",
+                    "uri": "45FrddbD0YpM8n4Gxz9oFH"
+                },
+                {
+                    "artist": "Spice Girls",
+                    "title": "Wannabe",
+                    "uri": "1Je1IMUlBXcx1Fz0WE7oPT"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "All Saints",
+                    "title": "Pure Shores",
+                    "uri": "6ZLGthToczpvnL5Eoy6yrY"
+                },
+                {
+                    "artist": "All Saints",
+                    "title": "Pure Shores",
+                    "uri": "2vIEquOWG8DTVgwIOofocm"
+                },
+                {
+                    "artist": "All Saints",
+                    "title": "Pure Shores",
+                    "uri": "2KaJzdPkFSBCpyptLD951J"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "All Saints",
+                    "title": "Pure Shores",
+                    "uri": "6ZLGthToczpvnL5Eoy6yrY"
+                },
+                {
+                    "artist": "All Saints",
+                    "title": "Never Ever",
+                    "uri": "7ziHnshbknkpFLDW5yGBjO"
+                },
+                {
+                    "artist": "All Saints",
+                    "title": "Pure Shores",
+                    "uri": "605Vk1DSSi7dVOgxjjGrnT"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Sugababes",
+                    "title": "Overload",
+                    "uri": "7orBBkQgdmanhPCD0FyHHZ"
+                },
+                {
+                    "artist": "Sugababes",
+                    "title": "Overload - Majestic Remix",
+                    "uri": "1SrII6esInjzQjzIv0tkkd"
+                },
+                {
+                    "artist": "Sugababes",
+                    "title": "Overload - Edit",
+                    "uri": "3EAJjwwwEjr0Q7TvabCMRR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sugababes",
+                    "title": "Overload",
+                    "uri": "7orBBkQgdmanhPCD0FyHHZ"
+                },
+                {
+                    "artist": "Sugababes",
+                    "title": "Overload - Edit",
+                    "uri": "3EAJjwwwEjr0Q7TvabCMRR"
+                },
+                {
+                    "artist": "L-Baby",
+                    "title": "Sugar Baby",
+                    "uri": "3RMdbUSshP2G8iNXeuKpHH"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Klymaxx",
+                    "title": "Never Underestimate the Power of a Woman",
+                    "uri": "1QupT7iTdS9iZmAkbtSzCP"
+                },
+                {
+                    "artist": "Klymaxx",
+                    "title": "Never Underestimate The Power Of A Woman (feat. Cheryl Cooley) - Live",
+                    "uri": "79nqEEDXgj7kZidNIHfNKk"
+                },
+                {
+                    "artist": "Klymaxx",
+                    "title": "Never Underestimate the Power of a Woman (Live)",
+                    "uri": "73Gowe4KBB6sVVclLIcoWo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Klymaxx",
+                    "title": "Never Underestimate the Power of a Woman",
+                    "uri": "1QupT7iTdS9iZmAkbtSzCP"
+                },
+                {
+                    "artist": "Klymaxx",
+                    "title": "Never Underestimate The Power Of A Woman (feat. Cheryl Cooley) - Live",
+                    "uri": "79nqEEDXgj7kZidNIHfNKk"
+                },
+                {
+                    "artist": "Klymaxx",
+                    "title": "I'd Still Say Yes",
+                    "uri": "24N9HH2b2H1c0EzA74kjQm"
+                }
+            ]
+        }
     }
 }

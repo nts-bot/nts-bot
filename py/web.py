@@ -191,8 +191,9 @@ class webscraper:
             soup = bs(self.req(url).content, "html.parser")
         else:
             soup = self.browse(url, amount)
-        grid = soup.select(".nts-grid-v2")
 
+        logging.info("Scraping Soup")
+        grid = soup.select(".nts-grid-v2")
         # EPISODES ID
         if not grid:
             raise RuntimeError(
@@ -245,7 +246,10 @@ class webscraper:
                     i.split(".")[0] for i in os.listdir("./spotify/")
                 ]  # IF IN SPOTIFY THEN IMAGE EXISTS
                 if show not in imlist:
-                    back = soup.select(".background-image")
+                    try:
+                        back = soup.select(".background-image")
+                    except:
+                        back = soup.select(".profile-image")
                     if back:
                         img = re.findall("\((.*?)\)", back[0].get("style"))[0]
                         img_data = requests.get(img).content
@@ -297,10 +301,12 @@ class webscraper:
             try:
                 self.meta[episode]
             except:
+                logging.info("Meta: New Episode")
                 self.meta[episode] = dict()
             try:
                 self.episodelist[episode]
             except:
+                logging.info("Eplist: New Episode")
                 self.episodelist[episode] = dict()
             if (
                 (not self.episodelist[episode])

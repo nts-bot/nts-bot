@@ -4130,6 +4130,239 @@
             ]
         }
     },
+    "true-as-few-9th-january-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "The Art of the Fugue, BWV 1080: Contrapunctus XIV (Fuga à 3 soggetti) - Excerpt",
+                    "uri": "2ys7TQ7LP3T2uA4MPef08r"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "The Art of Fugue, BWV 1080 - later version of the original print edited by Christoph Wolff: Contrapunctus No. 1",
+                    "uri": "0H0HIhkxBvEWwmdZLXxyDI"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "The Art of Fugue, BWV 1080: Contrapunctus I, a 4",
+                    "uri": "150yEvY5NIeISn4KdbPxXV"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Joseph Solomon",
+                    "title": "Godspeed",
+                    "uri": "497dDCmmQD5uX231nJeoxb"
+                },
+                {
+                    "artist": "Joseph Solomon",
+                    "title": "Officially Missing You",
+                    "uri": "4pd17VRAwDnii6YS8Nt6Ug"
+                },
+                {
+                    "artist": "Armin On The Track",
+                    "title": "Nocturno",
+                    "uri": "5AYXVR4B5zugdQ1naV7K0M"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Luis de Perikin",
+                    "title": "Flamencamente",
+                    "uri": "6iJLPLTzcisEPDmwlgtrhn"
+                },
+                {
+                    "artist": "Luis de la Lama",
+                    "title": "Obertura",
+                    "uri": "2heKlPXV9DlbamB4FBhfWn"
+                },
+                {
+                    "artist": "The Philarmonic Chorus Orchestra",
+                    "title": "El Baile De Luis Alonso-Intermedio",
+                    "uri": "4PzSAxjMzJ7OF08I6omEbQ"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Luis de la Lama",
+                    "title": "Epílogo",
+                    "uri": "6oCIn005nWMrAmSC9JAo40"
+                },
+                {
+                    "artist": "Luis de la Lama",
+                    "title": "Humanidad",
+                    "uri": "3p5LMEiBYz15zMQBfri9Dt"
+                },
+                {
+                    "artist": "Luis de la Lama",
+                    "title": "Obertura",
+                    "uri": "2heKlPXV9DlbamB4FBhfWn"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "The Art of the Fugue, BWV 1080: Contrapunctus XIV (Fuga à 3 soggetti) - Excerpt",
+                    "uri": "2ys7TQ7LP3T2uA4MPef08r"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "The Art of Fugue, BWV 1080 - later version of the original print edited by Christoph Wolff: Contrapunctus No. 1",
+                    "uri": "0H0HIhkxBvEWwmdZLXxyDI"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "The Art of Fugue, BWV 1080: Contrapunctus I, a 4",
+                    "uri": "150yEvY5NIeISn4KdbPxXV"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Antonio Soler",
+                    "title": "Sonata No. 88, in D-Flat Major",
+                    "uri": "5looOp17XiCWK9nl8AKoKF"
+                },
+                {
+                    "artist": "Domani Fendi",
+                    "title": "Sonata del Giardino",
+                    "uri": "2wNBTbBMhZ1FDFx5US3u3o"
+                },
+                {
+                    "artist": "Joaquín Rodrigo",
+                    "title": "Sonata giocosa: II. Andante moderato",
+                    "uri": "7lCykZv6dxrbN7p7GbKxMz"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Josep Soler Sarda",
+                    "title": "String Quartet No. 1",
+                    "uri": "5PejyPHigDZdehZbDnVAIx"
+                },
+                {
+                    "artist": "Josep Soler Sarda",
+                    "title": "String Quartet No. 1",
+                    "uri": "0BU5EtEqaxXxEmsNy6nyhe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Josep Soler Sarda",
+                    "title": "String Quartet No. 1",
+                    "uri": "5PejyPHigDZdehZbDnVAIx"
+                },
+                {
+                    "artist": "Josep Soler Sarda",
+                    "title": "String Quartet No. 1",
+                    "uri": "0BU5EtEqaxXxEmsNy6nyhe"
+                },
+                {
+                    "artist": "Eder Quartet",
+                    "title": "String Quartet No. 4 in C Major, K. 157: III. Presto",
+                    "uri": "6tkR1KqiZTTiTQR2LzfA35"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Luis de la Lama",
+                    "title": "Epílogo",
+                    "uri": "6oCIn005nWMrAmSC9JAo40"
+                },
+                {
+                    "artist": "Luis de Milán",
+                    "title": "Fantasia I",
+                    "uri": "7fkwimil1yL7zleZwT07zC"
+                },
+                {
+                    "artist": "Luis de la Lama",
+                    "title": "Obertura",
+                    "uri": "2heKlPXV9DlbamB4FBhfWn"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Luis de la Lama",
+                    "title": "Humanidad",
+                    "uri": "3p5LMEiBYz15zMQBfri9Dt"
+                },
+                {
+                    "artist": "Jesús Uriarte",
+                    "title": "Luis De La Torre",
+                    "uri": "5nrCRWvlNOLO4A2D0LIt15"
+                },
+                {
+                    "artist": "Luis Sebastian",
+                    "title": "De lunes a lunes",
+                    "uri": "32mzU97UFJ2uAlSymCQvRD"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Luis de la Lama",
+                    "title": "Epílogo",
+                    "uri": "6oCIn005nWMrAmSC9JAo40"
+                },
+                {
+                    "artist": "Luis de la Lama",
+                    "title": "Obertura",
+                    "uri": "2heKlPXV9DlbamB4FBhfWn"
+                },
+                {
+                    "artist": "Luis de Perikin",
+                    "title": "Flamencamente",
+                    "uri": "6iJLPLTzcisEPDmwlgtrhn"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "The Art of the Fugue, BWV 1080: Contrapunctus XIV (Fuga à 3 soggetti) - Excerpt",
+                    "uri": "2ys7TQ7LP3T2uA4MPef08r"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "The Art of Fugue, BWV 1080 - later version of the original print edited by Christoph Wolff: Contrapunctus No. 1",
+                    "uri": "0H0HIhkxBvEWwmdZLXxyDI"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "The Art of Fugue, BWV 1080: Contrapunctus I, a 4",
+                    "uri": "150yEvY5NIeISn4KdbPxXV"
+                }
+            ]
+        }
+    },
     "true-as-few-w-mark-19th-october-2021": {
         "00": {
             "s0": [

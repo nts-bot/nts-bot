@@ -1,4 +1,426 @@
 {
+    "lupini-10th-january-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Iasos",
+                    "title": "Libra Sunrise",
+                    "uri": "0TaGZcPrNl0ewkCgdjF7wt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Iasos",
+                    "title": "Libra Sunrise",
+                    "uri": "0TaGZcPrNl0ewkCgdjF7wt"
+                },
+                {
+                    "artist": "Nelson Fernández",
+                    "title": "Libra X Libra",
+                    "uri": "6ZZUUXR6QXgtSebhoV2gN2"
+                },
+                {
+                    "artist": "Danni Moreno",
+                    "title": "Libra",
+                    "uri": "5sq3y9o4wESohWHeMh74Cu"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Ralph Lundsten",
+                    "title": "Universe Calling - Universe",
+                    "uri": "0U6pYR9vL5GBtOdSABGNdu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ralph Lundsten",
+                    "title": "Universe Calling - Universe",
+                    "uri": "0U6pYR9vL5GBtOdSABGNdu"
+                },
+                {
+                    "artist": "emergenzq",
+                    "title": "Ralph Lauren",
+                    "uri": "3iBPy6G4eoDjY04rx5bdTF"
+                },
+                {
+                    "artist": "RALPH LAUREN STARCHILD",
+                    "title": "Electric",
+                    "uri": "2uvcdScVIidjsnzV5jwU86"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Hermeneia",
+                    "title": "In the Soil",
+                    "uri": "6yxUR6VNU0eedNCb40E8LH"
+                },
+                {
+                    "artist": "Hermeneia",
+                    "title": "In The Soil",
+                    "uri": "524Cg7N9imF5uuACG3yuhQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hermeneia",
+                    "title": "In the Soil",
+                    "uri": "6yxUR6VNU0eedNCb40E8LH"
+                },
+                {
+                    "artist": "Hermeneia",
+                    "title": "In The Soil",
+                    "uri": "524Cg7N9imF5uuACG3yuhQ"
+                },
+                {
+                    "artist": "Hernani",
+                    "title": "Hey!",
+                    "uri": "3rj1gH5vNozQPZ6U9dC9UF"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Circus Underwater",
+                    "title": "The Surface Of The Water",
+                    "uri": "22Lddwwh8tKP68UwgRUtE8"
+                },
+                {
+                    "artist": "Circus Underwater",
+                    "title": "The Surface Of The Water",
+                    "uri": "2Izh5VW5p4g1KRnYCmAZNA"
+                },
+                {
+                    "artist": "Circus Underwater",
+                    "title": "The Surface of the Water",
+                    "uri": "1puso4U6q4nmVwtCh69WBA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Circus Underwater",
+                    "title": "The Surface Of The Water",
+                    "uri": "22Lddwwh8tKP68UwgRUtE8"
+                },
+                {
+                    "artist": "Circus Underwater",
+                    "title": "The Surface Of The Water",
+                    "uri": "2Izh5VW5p4g1KRnYCmAZNA"
+                },
+                {
+                    "artist": "Rob Dalby",
+                    "title": "Circus - Alexis Mixail Remix",
+                    "uri": "16WPv17vIs4jB2UAAL33Zn"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "زيد الحبيب",
+                    "title": "نساني",
+                    "uri": "3HyEiqYe1pFQW8GIptdwbn"
+                },
+                {
+                    "artist": "Hamad Al Jabri",
+                    "title": "Anani",
+                    "uri": "30RsBLcyFzxH6J3Lo93FPX"
+                },
+                {
+                    "artist": "محمد الجنامي",
+                    "title": "جاء الاربعين",
+                    "uri": "5wUwg5MFMrv8cCwH5JtKkr"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "ULV",
+                    "title": "The Lost Industrial Temples - Asw Remix",
+                    "uri": "0JpEnPeXLFf96tkfFLjrnS"
+                },
+                {
+                    "artist": "ULV",
+                    "title": "The Lost Industrial Temples",
+                    "uri": "3dDWrpcUJXFdff5OPqxlqs"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "ULV",
+                    "title": "The Lost Industrial Temples",
+                    "uri": "3dDWrpcUJXFdff5OPqxlqs"
+                },
+                {
+                    "artist": "ULV",
+                    "title": "The Lost Industrial Temples - Asw Remix",
+                    "uri": "0JpEnPeXLFf96tkfFLjrnS"
+                },
+                {
+                    "artist": "Ulver",
+                    "title": "Lost in Moments",
+                    "uri": "09dDCafsdztHE4gIADZmZ6"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "10cc",
+                    "title": "Rubber Bullets",
+                    "uri": "4Mv4X4ecNuQU7XScbnKJwa"
+                },
+                {
+                    "artist": "Mili",
+                    "title": "Rubber Human - Key Ingredient ver.",
+                    "uri": "1GZVNCsEuyGkrk0CRESilN"
+                },
+                {
+                    "artist": "Nephew Hittman",
+                    "title": "RubberbandMan!",
+                    "uri": "6jq1i4I6KBoDR1x2TIeY6X"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tribal Seeds",
+                    "title": "In Your Eyes",
+                    "uri": "39QLrOG0qA6ASfkqPZ3yIw"
+                },
+                {
+                    "artist": "spring gang",
+                    "title": "Like This",
+                    "uri": "3X1lEZUb6WhkHmkyDuVuPQ"
+                },
+                {
+                    "artist": "CARSEY BEATS",
+                    "title": "Tribal Technotic",
+                    "uri": "0vpxlYszbEhn8cMavuVyjN"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Marco Bellucci",
+                    "title": "Le petit rien",
+                    "uri": "6HTwQXqJRpISaX6uAWmJzz"
+                },
+                {
+                    "artist": "Joe Hisaishi",
+                    "title": "Le Petit Poucet - Live",
+                    "uri": "6RsHrrL6k8UsDJs33FCknQ"
+                },
+                {
+                    "artist": "L’Amerigo",
+                    "title": "Le p'tit",
+                    "uri": "0pqAPEwJnachRE3c2bukej"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ashish Yadav",
+                    "title": "Photaba Dekhi Ke Jiya Hiyo Ge Karejba - Maghi",
+                    "uri": "0DytXTXFSoLqqpkPav22uq"
+                },
+                {
+                    "artist": "Photon Maiden",
+                    "title": "妙なる星と",
+                    "uri": "7s2wn7bhxFskrVUKrqooTF"
+                },
+                {
+                    "artist": "Aashish Yadav",
+                    "title": "Photwa Chulha me jor debo ge",
+                    "uri": "5M1Z8nWW9njbxh8YbmjgTy"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Andy Rantzen",
+                    "title": "Will I Dream?",
+                    "uri": "1aVgglaRBGgQrJSlmV6YZY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Andy Rantzen",
+                    "title": "Will I Dream?",
+                    "uri": "1aVgglaRBGgQrJSlmV6YZY"
+                },
+                {
+                    "artist": "Jan Erik Noske",
+                    "title": "Andy & Randy",
+                    "uri": "0IkghqridEHElucKAkRM19"
+                },
+                {
+                    "artist": "Andy Roques",
+                    "title": "Free",
+                    "uri": "6SvuaZ1KH3ko7mIbYSk8bc"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "czn",
+                    "title": "Liz Business",
+                    "uri": "3fVAzdN4rFf1dQbBw5YRkg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "czn",
+                    "title": "Liz Business",
+                    "uri": "3fVAzdN4rFf1dQbBw5YRkg"
+                },
+                {
+                    "artist": "Franz Liszt",
+                    "title": "6 Chants polonais, S. 480: No. 2, Frühling (Wiosna, Spring) [After Chopin's Op. 74]",
+                    "uri": "7jBaUnodzhFJCMaPRC4cD7"
+                },
+                {
+                    "artist": "RNZ",
+                    "title": "Čierna Luna",
+                    "uri": "5EvOqibaJAl70JDjSqQpGn"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Cosmo Vitelli",
+                    "title": "A Brand New City feat. Fantastic Twins",
+                    "uri": "1QrikhIccabJulrOZAObMq"
+                },
+                {
+                    "artist": "Cosmo Vitelli",
+                    "title": "A Brand New City feat. Fantastic Twins",
+                    "uri": "3ysq1LdgNX9sNCsXh07uaM"
+                },
+                {
+                    "artist": "Cosmo Vitelli",
+                    "title": "A Brand New City - Alternate Version",
+                    "uri": "6qBV7bl59JD1yoFO59JZUW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cosmo Vitelli",
+                    "title": "A Brand New City feat. Fantastic Twins",
+                    "uri": "1QrikhIccabJulrOZAObMq"
+                },
+                {
+                    "artist": "Cosmo Vitelli",
+                    "title": "A Brand New City feat. Fantastic Twins",
+                    "uri": "3ysq1LdgNX9sNCsXh07uaM"
+                },
+                {
+                    "artist": "Takatsuki",
+                    "title": "Cosmo Girl",
+                    "uri": "1xT2pUezVUoUb4BolxgWnY"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hardfloor",
+                    "title": "Dubdope",
+                    "uri": "1PFClkppueHmvSF0YpSGU5"
+                },
+                {
+                    "artist": "Hardfloor",
+                    "title": "Dadamnphreaknoizphunk? (Dubdope) - mixed",
+                    "uri": "4NJSdPQxCDkMxNrphUPmKY"
+                },
+                {
+                    "artist": "Hardfloor",
+                    "title": "Acperience 1",
+                    "uri": "2IQ61J0AFfjnxBm4lQEU0W"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Speedy J",
+                    "title": "De-Orbit - Remastered 2021",
+                    "uri": "61aKZo1sgYkIHgVJI6irSB"
+                },
+                {
+                    "artist": "Speedy J",
+                    "title": "De-Orbit",
+                    "uri": "579etoKIwosZt2SqdHwJjn"
+                },
+                {
+                    "artist": "Speedy J",
+                    "title": "De-Orbit - Mixed",
+                    "uri": "29MWdHFMUfSdz3VuOExyYh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Speedy J",
+                    "title": "De-Orbit - Remastered 2021",
+                    "uri": "61aKZo1sgYkIHgVJI6irSB"
+                },
+                {
+                    "artist": "Speedy J",
+                    "title": "De-Orbit",
+                    "uri": "579etoKIwosZt2SqdHwJjn"
+                },
+                {
+                    "artist": "Marko Polo",
+                    "title": "SPEEDY SPEED BOY",
+                    "uri": "4UwmHaExaKIqodksotaoo3"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Headache",
+                    "title": "Truisms 4 Dummies",
+                    "uri": "40oMDrqiESAbKzfnK6avpB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Headache",
+                    "title": "Truisms 4 Dummies",
+                    "uri": "40oMDrqiESAbKzfnK6avpB"
+                },
+                {
+                    "artist": "Headache",
+                    "title": "The Party that Never Ends",
+                    "uri": "2dKZPlqXJ8Y4I1yfnDyCbY"
+                },
+                {
+                    "artist": "atsuover",
+                    "title": "Headache",
+                    "uri": "49VUsDqsKsy3nSKjURYwCp"
+                }
+            ]
+        }
+    },
     "lupini-12th-july-2023": {
         "00": {
             "s0": [

@@ -1,1 +1,524 @@
-{}
+{
+    "agathe-rousselle-11th-january-2024": {
+        "00": {
+            "artist": "Nusrat Fateh Ali Khan",
+            "ratio": 9,
+            "title": "Longing",
+            "trackid": "2IVTadJg1X3ZjlHI5dLh9r"
+        },
+        "01": {
+            "artist": "Father Yod & The Spirit Of 76",
+            "ratio": 9,
+            "title": "Home",
+            "trackid": "0V4NMW0Jz1VB2NSg1BBeXy"
+        },
+        "02": {
+            "artist": "Shogo Hamada",
+            "ratio": 3,
+            "title": "Theme of Father's Son ―遥かなる我家(live / 2011)",
+            "trackid": "6CQiZaMmW5TqauwOpciWdN"
+        },
+        "03": {
+            "artist": "Pyotr Ilyich Tchaikovsky",
+            "ratio": 3,
+            "title": "Valse Sentimentale, Op. 51, No. 6 (Arr. for Cello and Piano)",
+            "trackid": "5JZ9uz8ezgNQMNqJiqkrjE"
+        },
+        "04": {
+            "artist": "Lesley Gore",
+            "ratio": 9,
+            "title": "You Don't Own Me",
+            "trackid": "7ngRS53kqxLcEt9Pythc5d"
+        },
+        "05": {
+            "artist": "Norman Greenbaum",
+            "ratio": 9,
+            "title": "Spirit In The Sky",
+            "trackid": "0r2RpSySXGsKSL3OPj2UYt"
+        },
+        "06": {
+            "artist": "M83",
+            "ratio": 9,
+            "title": "Solitude - Felsmann + Tiley Reinterpretation",
+            "trackid": "6RK3IsiUW6YaSMEodbO4tk"
+        },
+        "07": {
+            "artist": "Gib",
+            "ratio": 3,
+            "title": "Arkansas Raise Up (A-State)",
+            "trackid": "1vY2q314LSQJZp7lJC6pUS"
+        },
+        "08": {
+            "artist": "Charles Manson",
+            "ratio": 9,
+            "title": "Look At Your Game, Girl",
+            "trackid": "2o6U8T1Iq8Q704g7B2Idir"
+        }
+    },
+    "agathe-rousselle-14th-december-2023": {
+        "00": {
+            "artist": "Hrysoula Stefanaki",
+            "ratio": 9,
+            "title": "Apo Mesa Pethamenos",
+            "trackid": "0uRPIKu3kcnma0iwCzEzkM"
+        },
+        "01": {
+            "artist": "Haris Alexiou",
+            "ratio": 9,
+            "title": "Ti Ein' Afto Pou To Lene Agapi",
+            "trackid": "4p865Fy37vdOKJraNOK8Ry"
+        },
+        "02": {
+            "artist": "Jerskin Fendrix",
+            "ratio": 9,
+            "title": "Bella",
+            "trackid": "7dLWK0Gaa5zPswYx1TDWZl"
+        },
+        "03": {
+            "artist": "Jerskin Fendrix",
+            "ratio": 9,
+            "title": "\"Wee\"",
+            "trackid": "2eib7cy7HUT4YNUr4Mrdoz"
+        },
+        "04": {
+            "artist": "Tzeni Vanou",
+            "ratio": 9,
+            "title": "Mi Mou Pis Tipota",
+            "trackid": "3NFLBOB04Wy4bpcuoj6I5Z"
+        },
+        "05": {
+            "artist": "Tzeni Vanou",
+            "ratio": 9,
+            "title": "Apo Sena Arhizoun Ola",
+            "trackid": "6OPKVWsViyRqNTd3UCbIIA"
+        },
+        "06": {
+            "artist": "Sofia Gubaidulina",
+            "ratio": 0,
+            "title": "Raduysya (Rejoice): IV. And he returned to his own abode (Nun ist er in sein Haus zurückgekehrt)",
+            "trackid": "3Y3VhRe1bRHT2CT52sq2jp"
+        },
+        "07": {
+            "artist": "Franz Schubert",
+            "ratio": 5,
+            "title": "Stabat Mater in G Minor, D. 175",
+            "trackid": "1FlTxrRQdF35D0a2Jj6pIT"
+        },
+        "08": {
+            "artist": "CHRISTIAN PADOVAN",
+            "ratio": 9,
+            "title": "Love Is Hard to Find",
+            "trackid": "4D7WJNbYLkvjq1ymeKlTyW"
+        },
+        "09": {
+            "artist": "Antonio Vivaldi",
+            "ratio": 3,
+            "title": "Violin Concerto in A Minor, RV 523: II. Largo",
+            "trackid": "76d6R3Arx2LCszSyXALNeW"
+        },
+        "10": {
+            "artist": "Johann Sebastian Bach",
+            "ratio": 0,
+            "title": "Mass in B Minor, BWV 232: Ia. Kyrie. Kyrie eleison - Remastered 2023",
+            "trackid": "76aupnESU1dRdbApoFnd3y"
+        },
+        "11": {
+            "artist": "Marinella",
+            "ratio": 9,
+            "title": "S' Aparnithika Tris",
+            "trackid": "5YHbWsu2pUpcmYqIFU7Im6"
+        },
+        "12": {
+            "artist": "Jerskin Fendrix",
+            "ratio": 9,
+            "title": "\"Poor Things\" Finale and End Credits",
+            "trackid": "2Bi8KaJ8bXZSUZ8fTyuCWJ"
+        }
+    },
+    "agathe-rousselle-16th-november-2023": {
+        "00": {
+            "artist": "Leonard Cohen",
+            "ratio": 9,
+            "title": "Nevermind",
+            "trackid": "5h6d8KluYqa9GaSGNR1ZpW"
+        },
+        "01": {
+            "artist": "Bob Dylan",
+            "ratio": 9,
+            "title": "Rocks And Gravel",
+            "trackid": "7le2tmIfjEUrjBJdYxpuAG"
+        },
+        "02": {
+            "artist": "Alabama 3",
+            "ratio": 9,
+            "title": "Woke Up This Morning",
+            "trackid": "74b3xzu1xf69MzPIaoTS7r"
+        },
+        "03": {
+            "artist": "Rodrigo Amarante",
+            "ratio": 9,
+            "title": "Tuyo (Narcos Theme) [Extended Version] - A Netflix Original Series Soundtrack",
+            "trackid": "6g2BiiVQqY5v1S4HIrM54F"
+        },
+        "04": {
+            "artist": "Afrosound",
+            "ratio": 9,
+            "title": "Caliventura",
+            "trackid": "5P1vcUYy4BxJA1jWpSXPia"
+        },
+        "05": {
+            "artist": "London Music Works",
+            "ratio": 9,
+            "title": "Theme - From \"Six Feet Under\"",
+            "trackid": "4x9Kt7Rjo4m4uMPugGjEF5"
+        },
+        "06": {
+            "artist": "Yo La Tengo",
+            "ratio": 9,
+            "title": "Our Way to Fall",
+            "trackid": "5CSWXnKRzx7vI4S4JFAunl"
+        },
+        "07": {
+            "artist": "Sia",
+            "ratio": 9,
+            "title": "Breathe Me",
+            "trackid": "7jqzZyJJLrpkRFYGpkqSK6"
+        },
+        "08": {
+            "artist": "David Schwartz",
+            "ratio": 9,
+            "title": "Arrested Development (Main Title)",
+            "trackid": "1coE1zDitXxB9qKHdzjI2a"
+        },
+        "09": {
+            "artist": "Gary Moore",
+            "ratio": 3,
+            "title": "Parisienne Walkways",
+            "trackid": "6z4VNjyxLfRXRx23gzl51x"
+        },
+        "10": {
+            "artist": "James Francies",
+            "ratio": 5,
+            "title": "713",
+            "trackid": "3EhH15zLHO0IEmEEbG5fCc"
+        },
+        "11": {
+            "artist": "Jonathan Wolff",
+            "ratio": 9,
+            "title": "Seinfeld Theme",
+            "trackid": "1oo7pneuUHUEKdbH0TgiGc"
+        },
+        "12": {
+            "artist": "Bérode",
+            "ratio": 3,
+            "title": "Nous non",
+            "trackid": "0WDFUyjQGGokUaT6siIUoU"
+        },
+        "13": {
+            "artist": "Bryan Ferry",
+            "ratio": 9,
+            "title": "Slave To Love",
+            "trackid": "7imzBhHn7KD6ag3letxmSt"
+        },
+        "14": {
+            "artist": "Villagers",
+            "ratio": 9,
+            "title": "The Waves",
+            "trackid": "2TwG89TVMf2gtWe9lwySvf"
+        },
+        "15": {
+            "artist": "Nicholas Britell",
+            "ratio": 9,
+            "title": "Succession (Main Title Theme)",
+            "trackid": "0bSHwuTOZVJUXWT03H9oD2"
+        },
+        "16": {
+            "artist": "The Blind Boys Of Alabama",
+            "ratio": 4,
+            "title": "Welcome",
+            "trackid": "2DMOjHafRx0V2tgiZv3QoQ"
+        },
+        "17": {
+            "artist": "Tom Waits",
+            "ratio": 3,
+            "title": "Way Down In The Hole - 2023 Remaster",
+            "trackid": "4SP9crxTnfhTUIabkFM01a"
+        },
+        "18": {
+            "artist": "Cristobal Tapia De Veer",
+            "ratio": 9,
+            "title": "Renaissance (Main Title Theme) - from \"The White Lotus: Season 2\" - Orch. by William Marsey",
+            "trackid": "2Otr9JPO0LzP7OyEEEtM9N"
+        }
+    },
+    "agathe-rousselle-19th-october-2023": {
+        "00": {
+            "artist": "Squeeze",
+            "ratio": 9,
+            "title": "Loving You Tonight",
+            "trackid": "0G7JpML6ez6ftyVVszTFuJ"
+        },
+        "01": {
+            "artist": "The Dixie Cups",
+            "ratio": 9,
+            "title": "Chapel Of Love",
+            "trackid": "7vVG9xbmNQrtdSPTi7KDUm"
+        },
+        "02": {
+            "artist": "David Motion",
+            "ratio": 9,
+            "title": "Pavanne",
+            "trackid": "0CH8mC5CF1cv91v3U5BsgM"
+        },
+        "03": {
+            "artist": "Primal Scream",
+            "ratio": 9,
+            "title": "Trainspotting",
+            "trackid": "3N8p0hzXZ0EF0OoDGFh5G9"
+        },
+        "04": {
+            "artist": "Blur",
+            "ratio": 9,
+            "title": "Sing - 2012 Remaster",
+            "trackid": "7d1dGY0j55oqOmJFAdmQlR"
+        },
+        "05": {
+            "artist": "Brian Eno",
+            "ratio": 9,
+            "title": "Deep Blue Day - Remastered 2005",
+            "trackid": "50mL6pbI0uI6YX1xbSer7g"
+        },
+        "06": {
+            "artist": "Benny Goodman",
+            "ratio": 3,
+            "title": "Winter Weather (feat. Peggy Lee) - 78rpm Version",
+            "trackid": "6uzEKJ8Trsm9yYvbuKu8JH"
+        },
+        "07": {
+            "artist": "Al Green",
+            "ratio": 9,
+            "title": "How Can You Mend a Broken Heart",
+            "trackid": "6lUXneXZ9jc3HSMHgd8oqh"
+        },
+        "08": {
+            "artist": "George Fenton",
+            "ratio": 4,
+            "title": "If Only",
+            "trackid": "24hLpDpezPW6MdE0Hc99vW"
+        },
+        "09": {
+            "artist": "Norman Greenbaum",
+            "ratio": 9,
+            "title": "Spirit In The Sky",
+            "trackid": "0r2RpSySXGsKSL3OPj2UYt"
+        },
+        "10": {
+            "artist": "Sinéad O'Connor",
+            "ratio": 9,
+            "title": "You Made Me the Thief of Your Heart",
+            "trackid": "4Kaactp7PdWvC8stpChpvK"
+        }
+    },
+    "agathe-rousselle-21st-september-2023": {
+        "00": {
+            "artist": "Nino Rota",
+            "ratio": 9,
+            "title": "La Dolce Vita (Finale)",
+            "trackid": "1jcwSW0SAiIUWFaAltrG6X"
+        },
+        "01": {
+            "artist": "Nino Rota",
+            "ratio": 9,
+            "title": "La dolce vita",
+            "trackid": "3Li7Cw9cnF830ijj8iX8H4"
+        },
+        "02": {
+            "artist": "Bruno Lauzi",
+            "ratio": 9,
+            "title": "Ti ruberò",
+            "trackid": "7JqnMhkypXhaFUqD74U6kO"
+        },
+        "03": {
+            "artist": "David Lang",
+            "ratio": 9,
+            "title": "I lie",
+            "trackid": "4JjFlelE1x55yUnmXSJJvS"
+        },
+        "04": {
+            "artist": "Fiorenzo Carpi",
+            "ratio": 9,
+            "title": "Incompreso (L'auto nera)",
+            "trackid": "2cg9zzDHJImEay835OevYQ"
+        },
+        "05": {
+            "artist": "Fiorenzo Carpi",
+            "ratio": 9,
+            "title": "Incompreso (Cattivo tempismo)",
+            "trackid": "3qHOMcrgafWQVAl97PdA8p"
+        },
+        "06": {
+            "artist": "Fiorenzo Carpi",
+            "ratio": 9,
+            "title": "Passeggiata nel parco",
+            "trackid": "5qrTK9YLV0EquOiswGV2c0"
+        },
+        "07": {
+            "artist": "Ennio Morricone",
+            "ratio": 9,
+            "title": "Cinema Paradiso (Main Theme)",
+            "trackid": "0FFOaRW0WTJgd12cKEKuaC"
+        },
+        "08": {
+            "artist": "Ennio Morricone",
+            "ratio": 9,
+            "title": "Salò o le 120 giornate di Sodoma",
+            "trackid": "2WqKPHYP3HAX2B9NfExGmV"
+        },
+        "09": {
+            "artist": "Vladimir Cosma",
+            "ratio": 4,
+            "title": "Premier baiser",
+            "trackid": "2pHIfKFGbIktyakg8P4xe8"
+        },
+        "10": {
+            "artist": "Ernest Bloch",
+            "ratio": 3,
+            "title": "From Jewish Life: No. 1, Prayer",
+            "trackid": "3u7ZcNlPEym1bq1sQx49Rr"
+        },
+        "11": {
+            "artist": "Nino Rota",
+            "ratio": 9,
+            "title": "La Strada",
+            "trackid": "6nnvbQTVq1MB88Xs1GJYSc"
+        },
+        "12": {
+            "artist": "Nino Rota",
+            "ratio": 3,
+            "title": "La Plage",
+            "trackid": "6cHuOeqc7RR8xPb3LnJwTd"
+        },
+        "13": {
+            "artist": "Giovanni Fusco",
+            "ratio": 4,
+            "title": "Tema grottesco",
+            "trackid": "0D7JFydpAJjmKrcI9j32Xh"
+        },
+        "14": {
+            "artist": "Giovanni Fusco",
+            "ratio": 9,
+            "title": "L'avventura Theme - From \"L'avventura\" Soundtrack",
+            "trackid": "6RB34TCKm2f7EHto8BLrup"
+        },
+        "15": {
+            "artist": "Jimi Hendrix",
+            "ratio": 9,
+            "title": "Third Stone From The Sun",
+            "trackid": "34jAhU99TNRvYwwOEoINl3"
+        }
+    },
+    "agathe-rousselle-24th-august-2023": {
+        "00": {
+            "artist": "Kevin Morby",
+            "ratio": 9,
+            "title": "Like A Flower",
+            "trackid": "7wf34zdd2u0OSwwXXdZjDp"
+        },
+        "01": {
+            "artist": "Ennio Morricone",
+            "ratio": 9,
+            "title": "Beat n. 3",
+            "trackid": "6BQaCx0iNMFFm4NcD5KhBS"
+        },
+        "02": {
+            "artist": "Hrysoula Stefanaki",
+            "ratio": 9,
+            "title": "Apo Mesa Pethamenos",
+            "trackid": "0uRPIKu3kcnma0iwCzEzkM"
+        },
+        "03": {
+            "artist": "Thomas Newman",
+            "ratio": 9,
+            "title": "American Beauty",
+            "trackid": "6XJGpirOP4Bgurcvkdanxb"
+        },
+        "04": {
+            "artist": "Rose Shephard and Ellen M. Smith",
+            "ratio": 9,
+            "title": "Jesus Loves Me",
+            "trackid": "78kJ243BJ9u6m2CY7CTWTx"
+        },
+        "05": {
+            "artist": "Nicolas Jaar",
+            "ratio": 9,
+            "title": "America! I'm For The Birds",
+            "trackid": "0CmdYj96dhJAsnnXRvH4Ce"
+        },
+        "06": {
+            "artist": "Ry Cooder",
+            "ratio": 9,
+            "title": "Paris, Texas",
+            "trackid": "1idiifjTcCoGfBeZiYOdim"
+        },
+        "07": {
+            "artist": "Chris Isaak",
+            "ratio": 9,
+            "title": "Baby Did A Bad Bad Thing",
+            "trackid": "116Qy7Q95zaZgVUc5Z03wp"
+        },
+        "08": {
+            "artist": "The Creatures",
+            "ratio": 9,
+            "title": "Miss The Girl",
+            "trackid": "4HHsSi2aun6XcePM7DJtFO"
+        },
+        "09": {
+            "artist": "Dean & Britta",
+            "ratio": 9,
+            "title": "Million Dollar Doll",
+            "trackid": "3uDWydS68dVMhJTO2QBZRP"
+        },
+        "10": {
+            "artist": "John Cooper Clarke",
+            "ratio": 9,
+            "title": "Evidently Chickentown",
+            "trackid": "5tQEhwzCCM3Wy2JbXOO8Au"
+        },
+        "11": {
+            "artist": "Vangelis",
+            "ratio": 9,
+            "title": "Love Theme",
+            "trackid": "2oDR7QWoLBk9VYMwsFbRGq"
+        },
+        "12": {
+            "artist": "Herbie Hancock",
+            "ratio": 9,
+            "title": "Verushka, Pt. 1",
+            "trackid": "2SwOTx2DCyTh8cFJVPy1gO"
+        },
+        "13": {
+            "artist": "Kate Gibson",
+            "ratio": 9,
+            "title": "Dance Me to the End of Love",
+            "trackid": "6kLCCWyF1hUDbU67HBo9Xv"
+        },
+        "14": {
+            "artist": "Seu Jorge",
+            "ratio": 9,
+            "title": "Life On Mars?",
+            "trackid": "6epNBXJdVO6VbRtvjWnu6a"
+        },
+        "15": {
+            "artist": "Peter Sarstedt",
+            "ratio": 9,
+            "title": "Where Do You Go to (My Lovely)",
+            "trackid": "5gcFsUsvHvByxrZWHfQ1Tk"
+        },
+        "16": {
+            "artist": "John Ottman",
+            "ratio": 9,
+            "title": "Main Theme",
+            "trackid": "7d1Ll2BihSOlNj43BXO0Fm"
+        }
+    }
+}

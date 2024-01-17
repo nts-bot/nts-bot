@@ -73,8 +73,9 @@ class nts:
     # SPOTIFY SEARCH
 
     @utils.monitor
-    def pid(self, show):
+    def _pid(self, show):
         """GET/CREATE SHOW PLAYLIST ID"""
+        logging.info(f"Creating PID for {show}")
         try:
             shelf = self.pid[show]
             return shelf
@@ -174,7 +175,7 @@ class nts:
         connection.connect()
 
         """ APPEND-FROM/CREATE SPOTIFY PLAYLIST """
-        pid = self.pid[show]
+        pid = self._pid(show)
         meta = utils.rnw_json(f"./meta/{show}")
         sortmeta = sorted(
             [".".join(value["date"].split(".")[::-1]), key]

@@ -41,7 +41,44 @@
             "title": "Jam The Box"
         }
     },
-    "dj-spanish-fly-12th-december-2023": {},
+    "dj-spanish-fly-12th-december-2023": {
+        "00": {
+            "artist": "DJ Spanish Fly",
+            "title": "Servin"
+        },
+        "01": {
+            "artist": "DJ Spanish Fly",
+            "title": "Pop Dat"
+        },
+        "02": {
+            "artist": "dj spanish fly",
+            "title": "Big M-Town"
+        },
+        "03": {
+            "artist": "DJ Spanish Fly",
+            "title": "I`m Da Nigga (Original)"
+        },
+        "04": {
+            "artist": "DJ Spanish Fly",
+            "title": "Slangin Mix"
+        },
+        "05": {
+            "artist": "DJ Spanish Fly",
+            "title": "Trigga Rap (Orig.)"
+        },
+        "06": {
+            "artist": "dj spanish fly",
+            "title": "Wearing Fat Azz Herringbones"
+        },
+        "07": {
+            "artist": "D.J. Spanish Fly",
+            "title": "Hoodcall II"
+        },
+        "08": {
+            "artist": "DJ Spanish Fly",
+            "title": "Smoking Onion"
+        }
+    },
     "dj-spanish-fly-14th-october-2015": {
         "00": {
             "artist": "Sir Mix-A-Lot",
@@ -341,5 +378,6 @@
             "artist": "Zhane",
             "title": "Hey Mr. D.J. (Original Mix)"
         }
-    }
+    },
+    "dj-spanish-fly-9th-january-2024": {}
 }

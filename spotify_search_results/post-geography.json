@@ -7952,6 +7952,90 @@
             ]
         }
     },
+    "post-geography-1st-december-2023": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Éliane Radigue",
+                    "title": "Occam XXII",
+                    "uri": "3taZtIIJVpaBXo360oulZJ"
+                },
+                {
+                    "artist": "Éliane Radigue",
+                    "title": "OCCAM OCEAN OCCAM XXVII",
+                    "uri": "45FomgX3psoXFptmSt9Muy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Éliane Radigue",
+                    "title": "Occam XXII",
+                    "uri": "3taZtIIJVpaBXo360oulZJ"
+                },
+                {
+                    "artist": "Carol Robinson",
+                    "title": "Occam River XXII",
+                    "uri": "7brDBpvm0ziJYGTlyOYN4m"
+                },
+                {
+                    "artist": "Eliane Elias",
+                    "title": "Little Paradise",
+                    "uri": "7p3AeUfrHFKdBuyVTXwXKW"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Lisa Lerkenfeldt",
+                    "title": "Shell Of A City",
+                    "uri": "0hGtOzEEUrAykh82Pd1J4L"
+                },
+                {
+                    "artist": "Lisa Lerkenfeldt",
+                    "title": "Shell Of A City (Excerpt)",
+                    "uri": "2YhnBDIFou7sit1jSewk8X"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lisa Lerkenfeldt",
+                    "title": "Shell Of A City",
+                    "uri": "0hGtOzEEUrAykh82Pd1J4L"
+                },
+                {
+                    "artist": "Lisa Lerkenfeldt",
+                    "title": "Shell Of A City (Excerpt)",
+                    "uri": "2YhnBDIFou7sit1jSewk8X"
+                },
+                {
+                    "artist": "Lisa Lerkenfeldt",
+                    "title": "Limestone",
+                    "uri": "0gTedS2PdvCnlzufv25fmf"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Steve Reich",
+                    "title": "Reich/Richter: Cross fades",
+                    "uri": "08NPK8mZBj8F5YW9XMZJt4"
+                },
+                {
+                    "artist": "Steve Reich",
+                    "title": "Music For A Large Ensemble",
+                    "uri": "2G9XfuAa9uXEIAkrck62Xt"
+                },
+                {
+                    "artist": "Steve Reich",
+                    "title": "Electric Counterpoint: III. Fast",
+                    "uri": "3h64C58s1P6WsNu7ZMa0QY"
+                }
+            ]
+        }
+    },
     "post-geography-20th-july-2017": {
         "00": {
             "s0": "",

@@ -709,6 +709,137 @@
             ]
         }
     },
+    "moon-duo-11th-january-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Phill Niblock",
+                    "title": "Expl Arditti SQ",
+                    "uri": "0guiWWJygaKyPJJtpOiTJw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Phill Niblock",
+                    "title": "Expl Arditti SQ",
+                    "uri": "0guiWWJygaKyPJJtpOiTJw"
+                },
+                {
+                    "artist": "Phill Niblock",
+                    "title": "Five More String Quartets",
+                    "uri": "0FwcBu6dv4VtOpJPGNpe3e"
+                },
+                {
+                    "artist": "Genc Altin",
+                    "title": "Mein Block",
+                    "uri": "6oqvfad2tAfbd8mJ9XBxkR"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Dorothy Carter",
+                    "title": "Summer Rhapsody",
+                    "uri": "2lVEtKYn47ne8bcv3UA8Zz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dorothy Carter",
+                    "title": "Summer Rhapsody",
+                    "uri": "2lVEtKYn47ne8bcv3UA8Zz"
+                },
+                {
+                    "artist": "Dorothy Ashby",
+                    "title": "By The Time I Get To Phoenix",
+                    "uri": "0l2k4tdemioYYKIDtEv21c"
+                },
+                {
+                    "artist": "SUPER JUNIOR",
+                    "title": "도로시 (Dorothy) - sung by SUPER JUNIOR–K.R.Y.",
+                    "uri": "6EqKOxuWP2eAGKQwe9lfiA"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Burke Emily",
+                    "title": "Robber",
+                    "uri": "5B4KgbrJ3F90NjCQEFraRT"
+                },
+                {
+                    "artist": "Emily Robb",
+                    "title": "Bells",
+                    "uri": "1D4X5SA7uHDj484x88LIjd"
+                },
+                {
+                    "artist": "Billy F Gibbons",
+                    "title": "Low Rider (Live)",
+                    "uri": "4j4yigjlUd4PYOp4HylbXt"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Iasos",
+                    "title": "Rainbow Canyon",
+                    "uri": "2CqQLhCCRiXjeRlVrNis0J"
+                },
+                {
+                    "artist": "Iasos",
+                    "title": "Rainbow Canyon",
+                    "uri": "4qOuiCEPczg8dPsJ8y9MDe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Iasos",
+                    "title": "Rainbow Canyon",
+                    "uri": "2CqQLhCCRiXjeRlVrNis0J"
+                },
+                {
+                    "artist": "Iasos",
+                    "title": "Rainbow Canyon",
+                    "uri": "4qOuiCEPczg8dPsJ8y9MDe"
+                },
+                {
+                    "artist": "Iasos",
+                    "title": "Libra Sunrise",
+                    "uri": "0TaGZcPrNl0ewkCgdjF7wt"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Rosali",
+                    "title": "Rewind",
+                    "uri": "4cE5VRcJURYP6hIyFF29N4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rosali",
+                    "title": "Rewind",
+                    "uri": "4cE5VRcJURYP6hIyFF29N4"
+                },
+                {
+                    "artist": "ROSALÍA",
+                    "title": "SAOKO",
+                    "uri": "2FYGZDfsAnNsrm1gVbyKnG"
+                },
+                {
+                    "artist": "ROSALÍA",
+                    "title": "TKN (feat. Travis Scott)",
+                    "uri": "4w47S36wQGBhGg073q3nt7"
+                }
+            ]
+        }
+    },
     "moon-duo-13th-january-2022": {
         "00": {
             "s0": "",
