@@ -2176,6 +2176,112 @@
             "title": "Musique Non Stop"
         }
     },
+    "prosumer-16th-january-2024": {
+        "00": {
+            "artist": "Frankie Goes To Hollywood",
+            "title": "Relax"
+        },
+        "01": {
+            "artist": "Eurythmics",
+            "title": "Sex Crime 1984"
+        },
+        "02": {
+            "artist": "Queen",
+            "title": "Radio Gaga"
+        },
+        "03": {
+            "artist": "Talking Heads",
+            "title": "This Must Be The Place"
+        },
+        "04": {
+            "artist": "Run-D.M.C.",
+            "title": "Here We Go (Live At The Funhouse)"
+        },
+        "05": {
+            "artist": "Orchestral Manoeuvres In The Dark",
+            "title": "Talking Loud And Clear"
+        },
+        "06": {
+            "artist": "Bronski Beat",
+            "title": "It Ain't Necessarily So"
+        },
+        "07": {
+            "artist": "Sade",
+            "title": "Smooth Operator"
+        },
+        "08": {
+            "artist": "Everything But The Girl",
+            "title": "Each And Every One"
+        },
+        "09": {
+            "artist": "Red Hot Chilli Peppers",
+            "title": "Mommy, Where’s Daddy?"
+        },
+        "10": {
+            "artist": "Laurie Anderson",
+            "title": "Kokoku"
+        },
+        "11": {
+            "artist": "Depeche Mode",
+            "title": "Somebody"
+        },
+        "12": {
+            "artist": "Thomas Dolby",
+            "title": "I Scare Myself"
+        },
+        "13": {
+            "artist": "Tina Turner",
+            "title": "Private Dancer"
+        },
+        "14": {
+            "artist": "Prince",
+            "title": "Darling Nikki"
+        },
+        "15": {
+            "artist": "Coil",
+            "title": "Restless Day"
+        },
+        "16": {
+            "artist": "Mangeblanc",
+            "title": "On Our Way To?"
+        },
+        "17": {
+            "artist": "Telex",
+            "title": "Raised By Snakes"
+        },
+        "18": {
+            "artist": "Culture Club",
+            "title": "The War Song"
+        },
+        "19": {
+            "artist": "Steve Monite",
+            "title": "Only You"
+        },
+        "20": {
+            "artist": "RAF",
+            "title": "Self Control"
+        },
+        "21": {
+            "artist": "Bobby Womack",
+            "title": "Tell Me Why"
+        },
+        "22": {
+            "artist": "Talk Talk",
+            "title": "Such A Shame"
+        },
+        "23": {
+            "artist": "Soft Cell",
+            "title": "Where Was Your Heart (When You Needed It Most)"
+        },
+        "24": {
+            "artist": "Madonna",
+            "title": "Borderline"
+        },
+        "25": {
+            "artist": "Manuel Göttsching",
+            "title": "E2-E4 (Full Length Version)"
+        }
+    },
     "prosumer-16th-june-2015": {
         "00": {
             "artist": "Leila",
