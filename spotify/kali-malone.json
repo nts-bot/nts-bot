@@ -1,4 +1,84 @@
 {
+    "kali-malone-29th-september-2019": {
+        "00": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "01": {
+            "artist": "NTSHGA",
+            "ratio": 3,
+            "title": "Astral Ascension",
+            "trackid": "0FArYwoLjgSRaIX0JttowD"
+        },
+        "02": {
+            "artist": "Vilhelm Bromander",
+            "ratio": 9,
+            "title": "Harmony for Two or More Voices II",
+            "trackid": "2sWQYkjqNHCUP4cN2BBQJG"
+        },
+        "03": {
+            "artist": "Alex Zhang Hungtai",
+            "ratio": 9,
+            "title": "Crimée II",
+            "trackid": "3YjPbQHTg5ErW8gb53pYRr"
+        },
+        "04": {
+            "artist": "Arthur Russell",
+            "ratio": 9,
+            "title": "Tower Of Meaning/Rabbit's Ear/Home Away From Home",
+            "trackid": "0W2Nl7C5ifo3i0gVLObmaO"
+        },
+        "05": {
+            "artist": "YOASOBI",
+            "ratio": 5,
+            "title": "祝福",
+            "trackid": "1VoTe7qVyqyMNLgZpQeugO"
+        },
+        "06": {
+            "artist": "Maria W Horn",
+            "ratio": 9,
+            "title": "Konvektion",
+            "trackid": "5fOr0VJwhHuOFyh6FCZVyO"
+        },
+        "07": {
+            "artist": "Dewa 19",
+            "ratio": 4,
+            "title": "Roman Picisan",
+            "trackid": "35E6odHU6yHAN0harHjemH"
+        },
+        "08": {
+            "artist": "Bezuayehu Demissie",
+            "ratio": 3,
+            "title": "Salaysh",
+            "trackid": "45FcBs2FyhGQjvN9OguHu4"
+        },
+        "09": {
+            "artist": "Jessika Kenney",
+            "ratio": 9,
+            "title": "Kidung",
+            "trackid": "4xy9tOJiFu1SLNW9D5MIgH"
+        },
+        "10": {
+            "artist": "Ebony Loren",
+            "ratio": 4,
+            "title": "Tongue Tied",
+            "trackid": "1vxhCATyjDXRjteXeRtUKQ"
+        },
+        "11": {
+            "artist": "Kali Malone",
+            "ratio": 4,
+            "title": "No Sun To Burn (for brass)",
+            "trackid": "6BbI0lle1msAZqNDUMPMlQ"
+        },
+        "12": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        }
+    },
     "kali-malone-kali-14th-december-2023": {
         "00": {
             "artist": "Kali Malone",
@@ -71,6 +151,203 @@
             "ratio": 9,
             "title": "Kora Interlude",
             "trackid": "0yoLfCbqfEdP2vThwqMB1q"
+        }
+    },
+    "kali-malone-kali-24th-december-2020": {
+        "00": {
+            "artist": "Anonymous",
+            "ratio": 5,
+            "title": "Benedicamus Domino",
+            "trackid": "3dcCvD3fhLoCUdEsi4n2NY"
+        },
+        "01": {
+            "artist": "Vilnius Municipal Choir Jauna Muzika",
+            "ratio": 9,
+            "title": "Nun eile ich zu euch",
+            "trackid": "0vYyq3kdcYclokey63WQIB"
+        },
+        "02": {
+            "artist": "Orexov Mk",
+            "ratio": 3,
+            "title": "Без назви",
+            "trackid": "5WY2M3ICnPhBRcXwDFC8vf"
+        },
+        "03": {
+            "artist": "Josquin des Prez",
+            "ratio": 9,
+            "title": "Cueur langoreulx",
+            "trackid": "5pMZROYRkduJElybRxOQwi"
+        },
+        "04": {
+            "artist": "Orlande de Lassus",
+            "ratio": 4,
+            "title": "Psalmi Davidis poenitentiales: Miserere mei Deus",
+            "trackid": "25GNaRURRpeMdQlCQIdNhq"
+        },
+        "05": {
+            "artist": "Olivier Bergeron",
+            "ratio": 5,
+            "title": "La chance de rêver",
+            "trackid": "3BJkcWlaGAw3fq8G0YvijX"
+        },
+        "06": {
+            "artist": "CURIO",
+            "ratio": 5,
+            "title": "Unfinished Song",
+            "trackid": "3swIFXfWjBIkrmjdEY5t8L"
+        },
+        "07": {
+            "artist": "Anonymous",
+            "ratio": 9,
+            "title": "Piange Maria cum dolore II",
+            "trackid": "16NKCHtfWUMkUTLKNfKVG5"
+        },
+        "08": {
+            "artist": "La Capella Reial De Catalunya",
+            "ratio": 3,
+            "title": "Pie Jesu (Requiem)",
+            "trackid": "65aTzsEbSxOJPYmE5oPO6M"
+        },
+        "09": {
+            "artist": "Johann Sebastian Bach",
+            "ratio": 3,
+            "title": "Concerto No. 1 in D Major, BWV 972 (After Vivaldi RV 230): II. Larghetto (Arr. Perroy for Guitar)",
+            "trackid": "2fn7wn7Rl9Lgco3KjeCkJn"
+        },
+        "10": {
+            "artist": "Guillaume Dufay",
+            "ratio": 8,
+            "title": "Nuper rosarum flores / Terribilis est",
+            "trackid": "5x3XZeWbj1vFLG9hSQLbYi"
+        },
+        "11": {
+            "artist": "David Lang",
+            "ratio": 9,
+            "title": "I lie",
+            "trackid": "4JjFlelE1x55yUnmXSJJvS"
+        },
+        "12": {
+            "artist": "Vicente Lusitano",
+            "ratio": 9,
+            "title": "Heu me, Domine",
+            "trackid": "6ZWVKYQPYWom6vOArSjQHI"
+        },
+        "13": {
+            "artist": "Traditional",
+            "ratio": 4,
+            "title": "Gaudens Gaudebo : Introïtus, Modus III",
+            "trackid": "4KsrMhzq1AyLAMgK1RbGA2"
+        },
+        "14": {
+            "artist": "Orexov Mk",
+            "ratio": 4,
+            "title": "Без назви",
+            "trackid": "5WY2M3ICnPhBRcXwDFC8vf"
+        }
+    },
+    "kali-malone-kali-24th-march-2020": {
+        "00": {
+            "artist": "Þorkell Sigurbjörnsson",
+            "ratio": 9,
+            "title": "Icelandic Folk Songs: I. Iceland, Land of Prosperity",
+            "trackid": "5hm5Su2agsCsgBRsUBtLTo"
+        },
+        "01": {
+            "artist": "Magnús Eiríksson",
+            "ratio": -1,
+            "title": "Hvað um mig og þig?",
+            "trackid": "2mbXszPaUFvTRCO8A9DmoL",
+            "uri": ""
+        },
+        "02": {
+            "artist": "Misaal",
+            "ratio": 3,
+            "title": "Kaali Malayi",
+            "trackid": "6VXiveXxvgJOSYwrGM5nbh"
+        },
+        "03": {
+            "artist": "Mara Kyps",
+            "ratio": 0,
+            "title": "Belladonna - Version Acoustique",
+            "trackid": "6EjPZ98tMtjCv6R6jVVye4"
+        },
+        "04": {
+            "artist": "Ансамбль \"Лик\"",
+            "ratio": 9,
+            "title": "Ты святая Варвара",
+            "trackid": "1QLZ0xIwImpcOQL1kAshda"
+        },
+        "05": {
+            "artist": "Marc Sadane",
+            "ratio": 4,
+            "title": "Girl Come On (Let's Get It On)",
+            "trackid": "31rD9Bb5sONMt7B1qSnNZp"
+        },
+        "06": {
+            "artist": "Hikaru Utada",
+            "ratio": 0,
+            "title": "Prisoner Of Love",
+            "trackid": "3NeJu91ZzmeskPdNSCmzMP"
+        },
+        "07": {
+            "artist": "Kali Malone",
+            "ratio": 4,
+            "title": "All Life Long (for organ)",
+            "trackid": "6IO3QzgakulWbc7ClhfJR3"
+        },
+        "08": {
+            "artist": "Ансамбль \"Лик\"",
+            "ratio": 9,
+            "title": "Скажи, скажи",
+            "trackid": "08xhSaJdfH1pK5906fqzgV"
+        },
+        "09": {
+            "artist": "Wolfgang von Schweinitz",
+            "ratio": 0,
+            "title": "Plainsound Glissando Modulation, Op. 49: Region 1",
+            "trackid": "5jlYtGOWk4uHt4cBNYbcxT"
+        },
+        "10": {
+            "artist": "Kali Malone",
+            "ratio": 4,
+            "title": "Spectacle Of Ritual",
+            "trackid": "62SMTFdXWQ4g8UMcgk0WLz"
+        },
+        "11": {
+            "artist": "Jauna Slavas Dziesma",
+            "ratio": 5,
+            "title": "Es Bērns Tavs",
+            "trackid": "3Q9O7xF1CDC3tuwlAym4IU"
+        },
+        "12": {
+            "artist": "Gates of Age",
+            "ratio": 4,
+            "title": "The Coming",
+            "trackid": "6RHsLfJ19Y8MITRXqQGPxt"
+        },
+        "13": {
+            "artist": "Cirque du Soleil",
+            "ratio": 3,
+            "title": "Bella Donna Twist",
+            "trackid": "2nnEdTXQsmD1L85EsupXpe"
+        },
+        "14": {
+            "artist": "Kali Malone",
+            "ratio": 5,
+            "title": "Rose Wreath Crown (For CW)",
+            "trackid": "6hxnAQfBXgmBOSwFYrRa8E"
+        },
+        "15": {
+            "artist": "Chango Spasiuk",
+            "ratio": 4,
+            "title": "Stárosta / Sombrero de Paja - En Vivo en el Teatro Colón",
+            "trackid": "42hNaBKcX1LxrGSpRCGbdS"
+        },
+        "16": {
+            "artist": "MUJI BGM",
+            "ratio": 4,
+            "title": "Gulēja saulīte",
+            "trackid": "0FPYjt2bxJKmo8JKcmnHQo"
         }
     },
     "kali-malone-kalimalone-18th-january-2024": {

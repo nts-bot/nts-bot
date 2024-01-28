@@ -2758,6 +2758,99 @@
             ]
         }
     },
+    "raga-vibrations-20th-january-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ali Akbar Khan",
+                    "title": "Raga Sindhi Bhairavi: Dadra Tal (6 beats)",
+                    "uri": "5CMW3bF5enCbAFV4aZTbec"
+                },
+                {
+                    "artist": "Veena Sahasrabuddhe",
+                    "title": "Raga Hamsadhvani: Alap",
+                    "uri": "4BcrSor0LuBfMjq6Ri4gS3"
+                },
+                {
+                    "artist": "Rashid Khan",
+                    "title": "Raga Pahari - Bedardi Tu Ne Dard Na Jana",
+                    "uri": "5a3uLmcBm4iSDl1QSa5Yg9"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "G.S. Sachdev",
+                    "title": "Raga Shudh Kalyan Alap",
+                    "uri": "5K56gLQIT9UhXcENzvBr7r"
+                },
+                {
+                    "artist": "G.S. Sachdev",
+                    "title": "Raga Purya Kalyan - Alap",
+                    "uri": "4eKiGJ1AZae3uF17Rxf3CI"
+                },
+                {
+                    "artist": "Tushar Dutta",
+                    "title": "Raga Shuddha Kalyan Sahajanand Sukhdhami Bhaj Man",
+                    "uri": "0R46NchYuLRSFgAMO2wMyB"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hariprasad Chaurasia",
+                    "title": "Raga Marwa",
+                    "uri": "40Vnbn5j6S7PPHIbfJKUza"
+                },
+                {
+                    "artist": "Hariprasad Chaurasia",
+                    "title": "Bhupali",
+                    "uri": "3hfh3VfPtFVtB9KnuNtJXo"
+                },
+                {
+                    "artist": "Hariprasad Chaurasia",
+                    "title": "Bhairav",
+                    "uri": "5ICE5HeCD5EHuNk3MkPw9O"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman Kalyan - Alap",
+                    "uri": "1UVANj6IFvPe3uemZlV9k5"
+                },
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman: Alap",
+                    "uri": "1vyKEMqBeH9olp2lkHIzJj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman: Alap",
+                    "uri": "1vyKEMqBeH9olp2lkHIzJj"
+                },
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman Kalyan - Alap",
+                    "uri": "1UVANj6IFvPe3uemZlV9k5"
+                },
+                {
+                    "artist": "Zia Mohiuddin Dagar",
+                    "title": "Raga Yaman Kalyan - Jod",
+                    "uri": "7mOJNuEHdXIS1OOmxKismt"
+                }
+            ]
+        }
+    },
     "raga-vibrations-20th-march-2021": {
         "00": {
             "s0": "",

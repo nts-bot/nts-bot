@@ -7359,6 +7359,380 @@
             ]
         }
     },
+    "team-sesh-19th-january-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "cat soup",
+                    "title": "too late",
+                    "uri": "5NDfJvTxUlgQJDWzd1Qrbc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "cat soup",
+                    "title": "too late",
+                    "uri": "5NDfJvTxUlgQJDWzd1Qrbc"
+                },
+                {
+                    "artist": "Gregory Isaacs",
+                    "title": "Too Late (7\" Mix)",
+                    "uri": "2HuTQmOPrqFpLeTVWbsB1S"
+                },
+                {
+                    "artist": "CoreSonic",
+                    "title": "Too Late",
+                    "uri": "5CtzfzGJ8reubCza2C68sY"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Evian Christ",
+                    "title": "With Me",
+                    "uri": "3x2leC3D4Hlhjg97tB6RVT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Evian Christ",
+                    "title": "With Me",
+                    "uri": "3x2leC3D4Hlhjg97tB6RVT"
+                },
+                {
+                    "artist": "Evian Christ",
+                    "title": "The Beach",
+                    "uri": "74MrkICU9XLNrRzdycgFrM"
+                },
+                {
+                    "artist": "Evian Christ",
+                    "title": "On Embers",
+                    "uri": "6NGuBUDtlmPak65c4V2uyC"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Burial",
+                    "title": "Endorphin",
+                    "uri": "3yNdr5O0F5pCLdkMyiYZv8"
+                },
+                {
+                    "artist": "Burial",
+                    "title": "Untitled",
+                    "uri": "7fJtcuPZYJFZufp9D0a8Av"
+                },
+                {
+                    "artist": "Burial",
+                    "title": "Ghost Hardware",
+                    "uri": "4Ene7pDlBipg2whXHM5u7J"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Fleetwood Mac",
+                    "title": "Landslide",
+                    "uri": "5ihS6UUlyQAfmp48eSkxuQ"
+                },
+                {
+                    "artist": "Oh Wonder",
+                    "title": "Landslide",
+                    "uri": "3xDiVP3T67OzWhgP5Q0ZkF"
+                },
+                {
+                    "artist": "Cattle & Cane",
+                    "title": "Landslide",
+                    "uri": "4BoLz4MolURQlaSjCRuZ4c"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Klimeks",
+                    "title": "Incantation",
+                    "uri": "4ppJH3jQPSQiVe26Bs0wMN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Klimeks",
+                    "title": "Incantation",
+                    "uri": "4ppJH3jQPSQiVe26Bs0wMN"
+                },
+                {
+                    "artist": "Suwento",
+                    "title": "Klimmen",
+                    "uri": "6ehZaY6qHEqTZKQ3JCNXQD"
+                },
+                {
+                    "artist": "BKO",
+                    "title": "Klimmen",
+                    "uri": "1uQRaq91E7c0Me6wJnsN6B"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "drip-133",
+                    "title": "The Offer Still Stands",
+                    "uri": "0LwQCMzgWSWH3hjMMqz8g9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "drip-133",
+                    "title": "The Offer Still Stands",
+                    "uri": "0LwQCMzgWSWH3hjMMqz8g9"
+                },
+                {
+                    "artist": "SNWMN",
+                    "title": "Drip",
+                    "uri": "7x5AEndEpmAU392l1nBtfR"
+                },
+                {
+                    "artist": "Dj Cyborg",
+                    "title": "Drip Extended Version",
+                    "uri": "5BJW39knoz9bnEE9q6Q77r"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Boris Keynes",
+                    "title": "Dex",
+                    "uri": "2qWnMONeZsvqhv8ezT2MYL"
+                },
+                {
+                    "artist": "Dexx Dolla",
+                    "title": "Don't Stop",
+                    "uri": "7oZgIWwUSljPcehwiM82jP"
+                },
+                {
+                    "artist": "Dexx Dolla",
+                    "title": "Why",
+                    "uri": "3VG9LO90LJnnJn7zhgfhH2"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "BONES",
+                    "title": "UncleRicksMonteCarlo",
+                    "uri": "72OfaOb4VA5yXdSDAyRZ1D"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "BONES",
+                    "title": "UncleRicksMonteCarlo",
+                    "uri": "72OfaOb4VA5yXdSDAyRZ1D"
+                },
+                {
+                    "artist": "Clarx",
+                    "title": "Bones",
+                    "uri": "5QWAWsWcO5bwdxWlzKtOAC"
+                },
+                {
+                    "artist": "Monte Carlo",
+                    "title": "Sagitario",
+                    "uri": "35Cd5rtpSZQQ3HaRjJ53uv"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Agazero",
+                    "title": "Vnvnse",
+                    "uri": "4kPUZrwnsqNUuXN1PXZvIi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Agazero",
+                    "title": "Vnvnse",
+                    "uri": "4kPUZrwnsqNUuXN1PXZvIi"
+                },
+                {
+                    "artist": "Alchemist",
+                    "title": "Vengeance",
+                    "uri": "0TquyUSaGblgUBWmM8ob02"
+                },
+                {
+                    "artist": "Franco 101",
+                    "title": "AGARIO",
+                    "uri": "6FFoYhwBImLxs0e2kD3DfI"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "ghost/\\/ghoul",
+                    "title": "Sarah Connor",
+                    "uri": "14OwAyxJGmHEOLlfsoNozh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "ghost/\\/ghoul",
+                    "title": "Sarah Connor",
+                    "uri": "14OwAyxJGmHEOLlfsoNozh"
+                },
+                {
+                    "artist": "Sarah Coponat",
+                    "title": "Insouciance",
+                    "uri": "5iXYIu04vkN1pT11qqKBM9"
+                },
+                {
+                    "artist": "Halsey",
+                    "title": "Ghost",
+                    "uri": "5dcYoYFAXh0f0qI05AoufB"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Slikback",
+                    "title": "KENEKI",
+                    "uri": "4HAyPcIUTOJ61IqQAXvqYr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Slikback",
+                    "title": "KENEKI",
+                    "uri": "4HAyPcIUTOJ61IqQAXvqYr"
+                },
+                {
+                    "artist": "Lakim",
+                    "title": "A Pimp Named Slickback",
+                    "uri": "4hQz37Z88go8H8hrK7ncVz"
+                },
+                {
+                    "artist": "Kenshi Yonezu",
+                    "title": "KICK BACK",
+                    "uri": "3khEEPRyBeOUabbmOPJzAG"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Friendzone",
+                    "title": "FANTASY",
+                    "uri": "5Fg2onQHtRKexXa735yEyd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Friendzone",
+                    "title": "FANTASY",
+                    "uri": "5Fg2onQHtRKexXa735yEyd"
+                },
+                {
+                    "artist": "TREMBLING BAMBI",
+                    "title": "friend zone",
+                    "uri": "52zrh42Le8AIbqfmZIVECr"
+                },
+                {
+                    "artist": "Korlift",
+                    "title": "Final Gumi Fantasy",
+                    "uri": "3xzWCW0xgdhKvSn1Uc1dkL"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "bastienGOAT",
+                    "title": "Slander",
+                    "uri": "65f2d3k1wvtf8zN4zQOKdk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "bastienGOAT",
+                    "title": "Slander",
+                    "uri": "65f2d3k1wvtf8zN4zQOKdk"
+                },
+                {
+                    "artist": "SLANDER",
+                    "title": "Love Is Gone",
+                    "uri": "39glqzRVRAy4vq3PqeTGb8"
+                },
+                {
+                    "artist": "SLANDER",
+                    "title": "Love Is Gone",
+                    "uri": "6HfZTdkheqDGQQwQGRV8et"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "DJH",
+                    "title": "Agency",
+                    "uri": "0oR6geZu9pPuDjcs4ArUrX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "DJH",
+                    "title": "Agency",
+                    "uri": "0oR6geZu9pPuDjcs4ArUrX"
+                },
+                {
+                    "artist": "DJ Haku",
+                    "title": "You",
+                    "uri": "5gBldK43qKAXk4J4AX7EuT"
+                },
+                {
+                    "artist": "Kwon Jin Ah",
+                    "title": "You",
+                    "uri": "4P31D4cdzUl3Afg64Jznri"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Drew The Architect",
+                    "title": "captured storms",
+                    "uri": "0j2tNof1Ui4Nm88zKaILXX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Drew The Architect",
+                    "title": "captured storms",
+                    "uri": "0j2tNof1Ui4Nm88zKaILXX"
+                },
+                {
+                    "artist": "Drew the Kid",
+                    "title": "Gods Gift",
+                    "uri": "0DsCysfblYBAWs4MxYfFsN"
+                },
+                {
+                    "artist": "Drew Indigo",
+                    "title": "R&R Intro",
+                    "uri": "7ljWuJ9Z4weIDaEC4mkNw6"
+                }
+            ]
+        }
+    },
     "team-sesh-1st-september-2023": {
         "00": {
             "s0": [

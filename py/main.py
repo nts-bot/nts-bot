@@ -8,7 +8,6 @@ Year: 2023-09-02
 """
 
 # .1 Standard Libraries
-import os
 import logging
 import traceback
 

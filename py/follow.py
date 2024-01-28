@@ -23,15 +23,12 @@ script = import_module("script")
 class_instance = script.nts()
 
 # .4 todo
-# todo = ["counter"]  # "publicise", "follow"
+todo = ["follow"]  # , "counter"]  # "publicise"
 
-# for i in todo:
-#     script.connection.connect()
-#     logging.info(f"Starting: {i}")
-#     try:
-#         getattr(class_instance, i)()
-#     except:
-#         logging.warning(traceback.format_exc())
-
-script.connection.connect()
-class_instance.counter()
+for i in todo:
+    script.connection.connect()
+    logging.info(f"Starting: {i}")
+    try:
+        getattr(class_instance, i)()
+    except:
+        logging.warning(traceback.format_exc())
