@@ -1,1 +1,388 @@
-{}
+{
+    "june-mcdoom-10th-october-2023": {
+        "00": {
+            "artist": "June McDoom",
+            "title": "Emeral River Dance"
+        },
+        "01": {
+            "artist": "Hortense Ellis",
+            "title": "People Make The World Go Round"
+        },
+        "02": {
+            "artist": "Dionne Warwick",
+            "title": "Don't Say I Didn't Tell You So"
+        },
+        "03": {
+            "artist": "Dorothy Carter",
+            "title": "Song of the Hemp"
+        },
+        "04": {
+            "artist": "Trees",
+            "title": "While The Iron Is Hot"
+        },
+        "05": {
+            "artist": "Odetta",
+            "title": "If I Had A Ribbon Bow"
+        },
+        "06": {
+            "artist": "Erroll Garner",
+            "title": "Dreamy"
+        },
+        "07": {
+            "artist": "Beenie Man",
+            "title": "Promises"
+        },
+        "08": {
+            "artist": "Sammy Weissberg",
+            "title": "Deckhand’s Morning"
+        },
+        "09": {
+            "artist": "The Dells",
+            "title": "The Love We Had (Stays On My Mind)"
+        },
+        "10": {
+            "artist": "Norma Tanega",
+            "title": "Beautiful Things"
+        },
+        "11": {
+            "artist": "Salty Dog",
+            "title": "See The Storm "
+        },
+        "12": {
+            "artist": "Bridget St. John",
+            "title": "A Day Away"
+        },
+        "13": {
+            "artist": "Shira Small",
+            "title": "Lights Gleam Lonely"
+        },
+        "14": {
+            "artist": "Alton Ellis",
+            "title": "I'll Be Waiting"
+        },
+        "15": {
+            "artist": "Nina Simone",
+            "title": "Cherish"
+        },
+        "16": {
+            "artist": "Molly Drake",
+            "title": "What Can A Song Do To You?"
+        }
+    },
+    "june-mcdoom-1st-december-2023": {
+        "00": {
+            "artist": "Margo Guryan",
+            "title": "Love Songs"
+        },
+        "01": {
+            "artist": "Felt",
+            "title": "Ferdinand Magellan"
+        },
+        "02": {
+            "artist": "Poly Styrene",
+            "title": "Dreaming"
+        },
+        "03": {
+            "artist": "Buckingham Nicks",
+            "title": "Stephanie"
+        },
+        "04": {
+            "artist": "The Source, ",
+            "title": "You Got The Love"
+        },
+        "05": {
+            "artist": "Jimi Hendrix",
+            "title": "May This Be Love"
+        },
+        "06": {
+            "artist": "Cocteau Twins",
+            "title": "Wax And Wane"
+        },
+        "07": {
+            "artist": "Bobbie Gentry",
+            "title": "Interlude"
+        },
+        "08": {
+            "artist": "The Frost",
+            "title": "Behind The Closed Doors Of Her Mind"
+        },
+        "09": {
+            "artist": "Cat’s Eyes",
+            "title": "Pavane"
+        },
+        "10": {
+            "artist": "Cat’s Eyes",
+            "title": "Evelyn’s Birthday"
+        },
+        "11": {
+            "artist": "Jessica Pratt",
+            "title": "Half Twain The Jesse"
+        },
+        "12": {
+            "artist": "Marshall Crenshaw",
+            "title": "You’re My Favorite Waste Of Time"
+        },
+        "13": {
+            "artist": "Joe Meek, ",
+            "title": "The Bublight"
+        },
+        "14": {
+            "artist": "Allan Holdsworth",
+            "title": "Non-Brewed Condiment"
+        },
+        "15": {
+            "artist": "My Bloody Valentine",
+            "title": "Lose My Breath"
+        },
+        "16": {
+            "artist": "The Ronettes",
+            "title": "Walking In The Rain"
+        },
+        "17": {
+            "artist": "Link Wray & The Wraymen",
+            "title": "Tenderly"
+        },
+        "18": {
+            "artist": "These Trails",
+            "title": "Of Broken Links"
+        },
+        "19": {
+            "artist": "Charles Brown",
+            "title": "Until The Real Thing Comes Along"
+        },
+        "20": {
+            "artist": "Curtis Mayfield",
+            "title": "Think"
+        }
+    },
+    "june-mcdoom-26th-january-2024": {
+        "00": {
+            "artist": "The Association",
+            "title": "Message Of Our Love"
+        },
+        "01": {
+            "artist": "Bulgarian State Television Female Choir",
+            "title": "Polegnala E Todora (Love Song)"
+        },
+        "02": {
+            "artist": "Dionne Warwick",
+            "title": "In Between The Heartaches"
+        },
+        "03": {
+            "artist": "Labi Siffre",
+            "title": "Talkabout"
+        },
+        "04": {
+            "artist": "Anne Briggs",
+            "title": "Fine Horseman"
+        },
+        "05": {
+            "artist": "The Mynah Birds",
+            "title": "Go On And Cry"
+        },
+        "06": {
+            "artist": "Carlo Vinci, Jr.",
+            "title": "Piper Of Dreams II"
+        },
+        "07": {
+            "artist": "The Caravelles",
+            "title": "Forever"
+        },
+        "08": {
+            "artist": "Vashti",
+            "title": "Train Song"
+        },
+        "09": {
+            "artist": "This Mortal Coil",
+            "title": "Waves Become Wings"
+        },
+        "10": {
+            "artist": "Nadia Cattouse",
+            "title": "Travel On"
+        },
+        "11": {
+            "artist": "Mimi & Richard Fariña",
+            "title": "A Swallow Song"
+        },
+        "12": {
+            "artist": "Jessie Mae Hemphill",
+            "title": "Overseas Blues"
+        },
+        "13": {
+            "artist": "Shelagh McDonald",
+            "title": "Ophelia's Song"
+        },
+        "14": {
+            "artist": "Crosslegged",
+            "title": "Automatic "
+        },
+        "15": {
+            "artist": "Ginger Williams",
+            "title": "He's My Honey Boy"
+        },
+        "16": {
+            "artist": "Fresh Maggots",
+            "title": "Spring"
+        },
+        "17": {
+            "artist": "Bettye Swann",
+            "title": "Don't Look Back"
+        },
+        "18": {
+            "artist": "Os Mutantes",
+            "title": "O Relógio"
+        },
+        "19": {
+            "artist": "King Crimson",
+            "title": "I Talk to the Wind (Stormy Mix)"
+        }
+    },
+    "june-mcdoom-2nd-january-2024": {
+        "00": {
+            "artist": "Winston McDoom",
+            "title": "Without Love Version (Unreleased)"
+        },
+        "01": {
+            "artist": "Ernie Smith",
+            "title": "I Am : I Said"
+        },
+        "02": {
+            "artist": "Marcia Griffith",
+            "title": "Love Walked In"
+        },
+        "03": {
+            "artist": "Hugh Roy, ",
+            "title": "Wear You To The Ball"
+        },
+        "04": {
+            "artist": "Tenor Saw",
+            "title": "Pumpkin Belly"
+        },
+        "05": {
+            "artist": "General Echo",
+            "title": "Arleen"
+        },
+        "06": {
+            "artist": "The Heptones",
+            "title": "Baby"
+        },
+        "07": {
+            "artist": "Johnny Osbourne",
+            "title": "Reggae On Broadway"
+        },
+        "08": {
+            "artist": "The Jamaicans",
+            "title": "Ba Ba Boom"
+        },
+        "09": {
+            "artist": "Ginger Williams",
+            "title": "He's My Honey Boy"
+        },
+        "10": {
+            "artist": "Alton Ellis",
+            "title": "Joy In The Morning"
+        },
+        "11": {
+            "artist": "John Holt",
+            "title": "I Made a Vow"
+        },
+        "12": {
+            "artist": "Big Youth",
+            "title": "Rock Johnny Roll"
+        },
+        "13": {
+            "artist": "John Holt",
+            "title": "Ali Baba"
+        },
+        "14": {
+            "artist": "Junior Byles",
+            "title": "Demonstration"
+        },
+        "15": {
+            "artist": "Delroy Wilson",
+            "title": "Conquer Me"
+        },
+        "16": {
+            "artist": "Delroy Wilson",
+            "title": "I Don't Know Why"
+        },
+        "17": {
+            "artist": "Alton Ellis",
+            "title": "Breaking Up"
+        },
+        "18": {
+            "artist": "Larrt & Alvin",
+            "title": "Your Love"
+        },
+        "19": {
+            "artist": "Nora Dean, ",
+            "title": "Barbwire"
+        },
+        "20": {
+            "artist": "John Holt",
+            "title": "A Love I Can Feel"
+        }
+    },
+    "june-mcdoom-6th-november-2023": {
+        "00": {
+            "artist": "Monik",
+            "title": "Thank You"
+        },
+        "01": {
+            "artist": "Still Cool",
+            "title": "To Be Poor Is A Crime"
+        },
+        "02": {
+            "artist": "The Delfonics",
+            "title": "Round And Round"
+        },
+        "03": {
+            "artist": "Todd Rundgren",
+            "title": "Don’t You Ever Learn?"
+        },
+        "04": {
+            "artist": "Clint Eastwood & General Saint",
+            "title": "Can’t Take Another World War"
+        },
+        "05": {
+            "artist": "Naomi",
+            "title": "Dear Friend"
+        },
+        "06": {
+            "artist": "Otis The 3rd",
+            "title": "Time"
+        },
+        "07": {
+            "artist": "Billie Holiday",
+            "title": "Everything I Have Is Yours"
+        },
+        "08": {
+            "artist": "Sly & The Family Stone",
+            "title": "I Cannot Make It"
+        },
+        "09": {
+            "artist": "Sandy Denny",
+            "title": "Let No Man Steal Your Thyme "
+        },
+        "10": {
+            "artist": "Dorothy Ashby, ",
+            "title": "Moonlight In Vermont"
+        },
+        "11": {
+            "artist": "Niecy Blues",
+            "title": "Violently Rooted"
+        },
+        "12": {
+            "artist": "Abyssinians",
+            "title": "Declaration Of Rights"
+        },
+        "13": {
+            "artist": "Issam Hajali",
+            "title": "Ana Damir El Motakallim"
+        },
+        "14": {
+            "artist": "Cleveland Francis",
+            "title": "What’s Wrong With The World"
+        }
+    }
+}
