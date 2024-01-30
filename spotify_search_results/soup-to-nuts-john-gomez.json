@@ -19229,6 +19229,644 @@
             ]
         }
     },
+    "soup-to-nuts-john-gomez-29th-january-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jon Lucien",
+                    "title": "Listen Love",
+                    "uri": "2xXngZG7QfpCYuL2b1Aq2q"
+                },
+                {
+                    "artist": "Jon Lucien",
+                    "title": "Mi Vida",
+                    "uri": "2zkRtF8SaXN4o8Z0PXbf2h"
+                },
+                {
+                    "artist": "Herbie Hancock",
+                    "title": "Maiden Voyage",
+                    "uri": "6WtuvQAy8RHSA4dG4a0ssF"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Cloe Martin",
+                    "title": "Winter is Much Too Long",
+                    "uri": "64caThcdpjUNEw2NV5LnRm"
+                },
+                {
+                    "artist": "Cloe Martin",
+                    "title": "Winter is Much Too Long",
+                    "uri": "1OgcRwq5gnmEenQKlUyeoW"
+                },
+                {
+                    "artist": "Cloe Martin",
+                    "title": "Winter is Much Too Long",
+                    "uri": "6gVGsqSCfeaXpuk05Rt2aT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cloe Martin",
+                    "title": "Winter is Much Too Long",
+                    "uri": "64caThcdpjUNEw2NV5LnRm"
+                },
+                {
+                    "artist": "Cloe Martin",
+                    "title": "Winter is Much Too Long",
+                    "uri": "6gVGsqSCfeaXpuk05Rt2aT"
+                },
+                {
+                    "artist": "Cloe Martin",
+                    "title": "Winter is Much Too Long",
+                    "uri": "1OgcRwq5gnmEenQKlUyeoW"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jason Moran",
+                    "title": "Affectionate, Painful",
+                    "uri": "0x3T42A3mXd27YQOVEfKXW"
+                },
+                {
+                    "artist": "Marcus Miller",
+                    "title": "Free",
+                    "uri": "20OBzeBljhrueLR4l9YCpS"
+                },
+                {
+                    "artist": "Marcus G",
+                    "title": "Mám ťa rád",
+                    "uri": "1bLnNGpTpBzWLAyM5eMYK6"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Shackleton",
+                    "title": "Your Love Pours like Water",
+                    "uri": "71xNV1FhfYnV0ESln88tAZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Shackleton",
+                    "title": "Your Love Pours like Water",
+                    "uri": "71xNV1FhfYnV0ESln88tAZ"
+                },
+                {
+                    "artist": "Mary Mary",
+                    "title": "Shackles (Praise You)",
+                    "uri": "7JKEA8xYDoFp4q0QBW2PGg"
+                },
+                {
+                    "artist": "Steven Rodriguez",
+                    "title": "Shackles",
+                    "uri": "1nFusfst42jPWjXa8EAhyE"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Automat",
+                    "title": "Climb",
+                    "uri": "0ONIh8O6yz3KI7Z0m9utTF"
+                },
+                {
+                    "artist": "Automat",
+                    "title": "Climb",
+                    "uri": "0wq72OFFExNYa1oPR9P6dX"
+                },
+                {
+                    "artist": "Automatic Symphony",
+                    "title": "Climbing",
+                    "uri": "1BSu6cbTOszeP9ZadoCzdl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Automat",
+                    "title": "Climb",
+                    "uri": "0ONIh8O6yz3KI7Z0m9utTF"
+                },
+                {
+                    "artist": "Automat",
+                    "title": "Climb",
+                    "uri": "0wq72OFFExNYa1oPR9P6dX"
+                },
+                {
+                    "artist": "Laura Misch",
+                    "title": "Climb",
+                    "uri": "5fl9DTvHOVrbg7crvJ0hCr"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Djamel Allam",
+                    "title": "Leεmer-im",
+                    "uri": "7JWdBqxPG4kyHsf5nEdwJD"
+                },
+                {
+                    "artist": "Djamel Allam",
+                    "title": "Bghigh",
+                    "uri": "4wGiaBp2rF1HbUmzQrY64b"
+                },
+                {
+                    "artist": "Djamel Allam",
+                    "title": "Lḥiḍ",
+                    "uri": "2R4AmNlW2P2fpvbyM490Ad"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Peso Pluma",
+                    "title": "ROSA PASTEL",
+                    "uri": "4yjeRuoVickg1G87LWeRes"
+                },
+                {
+                    "artist": "Peso Pluma",
+                    "title": "Rosa Pastel",
+                    "uri": "4LreWoO3cpgiIfrRwbOUSF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Peso Pluma",
+                    "title": "ROSA PASTEL",
+                    "uri": "4yjeRuoVickg1G87LWeRes"
+                },
+                {
+                    "artist": "Peso Pluma",
+                    "title": "Rosa Pastel",
+                    "uri": "4LreWoO3cpgiIfrRwbOUSF"
+                },
+                {
+                    "artist": "Conjunto Siete",
+                    "title": "Rosa Pastel",
+                    "uri": "2mqubT7tB0Li9x8x8vB0jq"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Nubya Garcia",
+                    "title": "Fortify",
+                    "uri": "0oD4SYLAvCK5PI38bUK2jc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nubya Garcia",
+                    "title": "Fortify",
+                    "uri": "0oD4SYLAvCK5PI38bUK2jc"
+                },
+                {
+                    "artist": "Nubya Garcia",
+                    "title": "Lost Kingdoms",
+                    "uri": "6eTT6SQgTfXiKXdvMe0ZID"
+                },
+                {
+                    "artist": "Nubia Zagen",
+                    "title": "Digital",
+                    "uri": "0BXLS1dgePVDEgJLPzjDUo"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Aziz Balouch",
+                    "title": "Granadina Arabe Del Siglo IX",
+                    "uri": "0rHFpD7usUXgFT04DTr2u3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aziz Balouch",
+                    "title": "Granadina Arabe Del Siglo IX",
+                    "uri": "0rHFpD7usUXgFT04DTr2u3"
+                },
+                {
+                    "artist": "Harry Kalahiki",
+                    "title": "Granada",
+                    "uri": "7gFCvt8SGMlAFUOKDIgm6l"
+                },
+                {
+                    "artist": "Isaac Albéniz",
+                    "title": "Granada",
+                    "uri": "5S1Nh02afzIgjwYPZSbh6N"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hassan Daniel Chavez",
+                    "title": "Strings Healing",
+                    "uri": "4Et7cbnqDHNu76C4UIG8vO"
+                },
+                {
+                    "artist": "Earth Alliance",
+                    "title": "Healing 528 Hz",
+                    "uri": "5BxKsEiwQIEiYTi3YZppDY"
+                },
+                {
+                    "artist": "Healing Solfeggio Frequencies",
+                    "title": "Heal and Repair 528",
+                    "uri": "0jJpwl7K6POP3IkW2Umfpb"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "福岡ユタカ",
+                    "title": "Bon Voyage (Theme of Pompidou)",
+                    "uri": "2xWiEJPLwmNxx65OrKKIaN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "福岡ユタカ",
+                    "title": "Bon Voyage (Theme of Pompidou)",
+                    "uri": "2xWiEJPLwmNxx65OrKKIaN"
+                },
+                {
+                    "artist": "Hikaru Utada",
+                    "title": "花束を君に",
+                    "uri": "31yv1hR9gw1WSEmtqsaZbD"
+                },
+                {
+                    "artist": "Yutaka Ozaki",
+                    "title": "OH MY LITTLE GIRL",
+                    "uri": "4w8BWDyfDxlNLWKQaiUhmd"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Los Gardelitos",
+                    "title": "Pájaro y Campana",
+                    "uri": "1r6WVv50QamOeWf7mwTTIq"
+                },
+                {
+                    "artist": "Los Gardelitos",
+                    "title": "Pájaro y Campana - En Vivo",
+                    "uri": "1rpwwSk31TGAebnT2pM9dm"
+                },
+                {
+                    "artist": "Lobo Mixteco",
+                    "title": "El Pajaro Cardenal",
+                    "uri": "4wlRPqYDTGWsiQGGyys0wt"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "KIM YO HAN",
+                    "title": "Landing On You",
+                    "uri": "7idlxx9vU2Mdibp2Yanfsj"
+                },
+                {
+                    "artist": "KIM YO HAN",
+                    "title": "STAR",
+                    "uri": "3st2RjiLszky8FMrhnFPjj"
+                },
+                {
+                    "artist": "KIM YO HAN",
+                    "title": "Blue In You (Duet With CHEEZE)",
+                    "uri": "7wjBq0g3hSdVDmi3Eol5hl"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Kali Uchis",
+                    "title": "Diosa",
+                    "uri": "3RleMgz4iO0BNezGdSxDnY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kali Uchis",
+                    "title": "Diosa",
+                    "uri": "3RleMgz4iO0BNezGdSxDnY"
+                },
+                {
+                    "artist": "Kali Uchis",
+                    "title": "Igual Que Un Ángel (with Peso Pluma)",
+                    "uri": "6XaJfhwof7qIgbbXO5tIQI"
+                },
+                {
+                    "artist": "Kali Uchis",
+                    "title": "Moonlight",
+                    "uri": "2i2gDpKKWjvnRTOZRhaPh2"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Angel Petisme",
+                    "title": "Hola Noé",
+                    "uri": "0dEDwhhuN8jUcqyIJBc1JI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Angel Petisme",
+                    "title": "Hola Noé",
+                    "uri": "0dEDwhhuN8jUcqyIJBc1JI"
+                },
+                {
+                    "artist": "Angel Petisme",
+                    "title": "Golpes de Mar",
+                    "uri": "5q9LL1rUySpRS14CCZ6Yas"
+                },
+                {
+                    "artist": "Angel Peréz",
+                    "title": "Pensando en ti",
+                    "uri": "3dDxPQorvLnEUNKaBCxvax"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Claude McKenzie",
+                    "title": "Nutaui",
+                    "uri": "6aScNnt5yye9uBPZRr7Lhb"
+                },
+                {
+                    "artist": "Clyde Ellen",
+                    "title": "Another Take",
+                    "uri": "7Frw4JsovFfKLAjcA8nWSA"
+                },
+                {
+                    "artist": "Claude Louis-Marie",
+                    "title": "Tu Me Dis Souvent Pourquoi",
+                    "uri": "12Q2RWqraeJisc6F7vktAG"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Elizabeth Cotten",
+                    "title": "Take Me Back to Baltimore",
+                    "uri": "68mmWIcxwNbzdx38KOOLBT"
+                },
+                {
+                    "artist": "The KLF",
+                    "title": "Baltimore to Fair Play",
+                    "uri": "0TJJcRcGvDs7DxAL79bqFN"
+                },
+                {
+                    "artist": "JUDY AND MARY",
+                    "title": "WARP",
+                    "uri": "0Eq9uXte8EyYnb4WqsHzbU"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": ""
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Donnie & Joe Emerson",
+                    "title": "Baby",
+                    "uri": "62wdQ5CInFr7cjISqrr46f"
+                },
+                {
+                    "artist": "Donnie & Joe Emerson",
+                    "title": "Baby",
+                    "uri": "06kuGpCWhMJERYSdjNSxNN"
+                },
+                {
+                    "artist": "Donnie & Joe Emerson",
+                    "title": "Baby",
+                    "uri": "6JNpmc5TngGnsbSdcgRUZY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Donnie & Joe Emerson",
+                    "title": "Baby",
+                    "uri": "62wdQ5CInFr7cjISqrr46f"
+                },
+                {
+                    "artist": "Donnie & Joe Emerson",
+                    "title": "Baby",
+                    "uri": "2BKVG8bXVI9Yu0Vc3LoMRi"
+                },
+                {
+                    "artist": "Donnie & Joe Emerson",
+                    "title": "Thoughts in My Mind",
+                    "uri": "0rPc2m5HUqa1g8npvSS6kl"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "ジ・エコーズ",
+                    "title": "ULTRA SEVEN",
+                    "uri": "4Ykl9v5p7Buq1pNITX5IQg"
+                },
+                {
+                    "artist": "Ritmo Tropical",
+                    "title": "Guitarras Locas, Sonido Condor",
+                    "uri": "6pmvwiKx7rJmd9S0WJFr3c"
+                },
+                {
+                    "artist": "YUZU",
+                    "title": "Ultra Lover Soul",
+                    "uri": "3O15cv04RN8pbAjX8d2oBH"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Tek 9",
+                    "title": "Is It On ? - Carl Craig Mix",
+                    "uri": "3dO7wWTuEvxx7BGCSuYFZt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tek 9",
+                    "title": "Is It On ? - Carl Craig Mix",
+                    "uri": "3dO7wWTuEvxx7BGCSuYFZt"
+                },
+                {
+                    "artist": "Tek 9",
+                    "title": "Is It On ?",
+                    "uri": "1HnkB3hNhs6RQMEAZ1WH7C"
+                },
+                {
+                    "artist": "Glock Forex",
+                    "title": "On Ma Mind",
+                    "uri": "6OHO084PxYtKE4z1vBs7OO"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Psychic TV",
+                    "title": "The Orchids",
+                    "uri": "00c2vsoZuubtGkLFQCdT1p"
+                },
+                {
+                    "artist": "PSYCHIC FEVER from EXILE TRIBE",
+                    "title": "Psyfe Cypher",
+                    "uri": "6U2IZrMsGnGXpn2B5Hf4u8"
+                },
+                {
+                    "artist": "Chris Brown",
+                    "title": "Psychic",
+                    "uri": "394hdNuRnciqSxO7bDblIm"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Reggie Becton",
+                    "title": "Bad M'fkr",
+                    "uri": "37o1LWelGPbIdcf8YGMBP5"
+                },
+                {
+                    "artist": "Reggie Becton",
+                    "title": "Leaves",
+                    "uri": "7sqLzX73av3Gy1aPM4i1tG"
+                },
+                {
+                    "artist": "Reggie Romance",
+                    "title": "Kissing On Your Neck",
+                    "uri": "5ofrj4tzDRrbXd5N8d64I7"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Roma Zuckerman",
+                    "title": "soviet journalist",
+                    "uri": "6wb5fsnC7W3qva9UlIk95v"
+                },
+                {
+                    "artist": "Roma Zhukov",
+                    "title": "Синий иней",
+                    "uri": "03hZRhdTziRapO1osWbxvA"
+                },
+                {
+                    "artist": "ZuckerStark",
+                    "title": "Kapitel 02: Instituto di Corrispondenza Archeologica",
+                    "uri": "69hpsfsIBSPdLnBMrAFHfz"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ratkiller",
+                    "title": "Sense Off (Ajukaja vs. Ratkiller)",
+                    "uri": "3XOnOcIEGpolmepeRQT2jh"
+                },
+                {
+                    "artist": "Anne Veski",
+                    "title": "Aja käskijanna",
+                    "uri": "64tIk4ZcLHp0vLeiTMVFAR"
+                },
+                {
+                    "artist": "Haidi",
+                    "title": "Ajakaa lujempaa",
+                    "uri": "5CquAkHzyfKtFvOvi5gphL"
+                }
+            ]
+        },
+        "25": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lionmilk",
+                    "title": "gifts",
+                    "uri": "4lrdbYO9MYHvVimQkJbi0A"
+                },
+                {
+                    "artist": "Lionmilk",
+                    "title": "a new day",
+                    "uri": "4g3Td2vcjKzrb6ybeCFTYv"
+                },
+                {
+                    "artist": "Lionmilk",
+                    "title": "the gift of sunshine",
+                    "uri": "0naFLgzgPXdWZZz2shNhp2"
+                }
+            ]
+        },
+        "26": {
+            "s0": [
+                {
+                    "artist": "Thomas Leer",
+                    "title": "Chasing The Dragon",
+                    "uri": "744b8Ctf5k2Y3Bajn1UN1l"
+                },
+                {
+                    "artist": "Thomas Leer",
+                    "title": "Chasing The Dragon",
+                    "uri": "6CdJMonG79fS9Mgf9uIFEk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Thomas Leer",
+                    "title": "Chasing The Dragon",
+                    "uri": "744b8Ctf5k2Y3Bajn1UN1l"
+                },
+                {
+                    "artist": "Thomas Leer",
+                    "title": "Chasing The Dragon",
+                    "uri": "6CdJMonG79fS9Mgf9uIFEk"
+                },
+                {
+                    "artist": "The Wanted",
+                    "title": "Chasing The Sun",
+                    "uri": "3p0PMFujot49H1AMXBx0nt"
+                }
+            ]
+        }
+    },
     "soup-to-nuts-john-gomez-29th-november-2021": {
         "00": {
             "s0": "",
