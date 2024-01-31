@@ -1,1 +1,394 @@
-{}
+{
+    "ly-trang-10th-october-2023": {
+        "00": {
+            "artist": "ADT",
+            "ratio": 9,
+            "title": "Apply For",
+            "trackid": "7xxY8paKXVQlmKNr0yWehh"
+        },
+        "01": {
+            "artist": "OOIOO",
+            "ratio": 9,
+            "title": "walk for 345 minutes, while saying Ah Yeah! with a Mountain Book in one hand, until a shower of light pours down",
+            "trackid": "2SiN873D9kO9cJ2qzFN90J"
+        },
+        "02": {
+            "artist": "Fire-Toolz",
+            "ratio": 9,
+            "title": "Above All Else I Want To See",
+            "trackid": "6xsdfmlFCM6vkVdVvVKskk"
+        },
+        "03": {
+            "artist": "Yoshie Kashiwabara",
+            "ratio": 4,
+            "title": "花梨",
+            "trackid": "3I4EAlWaN4wb4Dc6Psg8Yd"
+        },
+        "04": {
+            "artist": "Floating Points",
+            "ratio": 3,
+            "title": "Anasickmodular",
+            "trackid": "078Zo7KacHHy1YMEoVjVDH"
+        },
+        "05": {
+            "artist": "Ikue Mori",
+            "ratio": 9,
+            "title": "Monkey Music Moon",
+            "trackid": "7KXazGVGzFlgIgkk9pxkZd"
+        },
+        "06": {
+            "artist": "Knalltraumafeuerwerk",
+            "ratio": 3,
+            "title": "Silvester-Atmosphäre",
+            "trackid": "7pTGDR5ZvSzgVDMimlYr8D"
+        },
+        "07": {
+            "artist": "Martha Skye Murphy",
+            "ratio": 9,
+            "title": "86 km",
+            "trackid": "022RWZfuiiB2DNZ8Ww7gFO"
+        },
+        "08": {
+            "artist": "SAICOBAB",
+            "ratio": 9,
+            "title": "Bx Ax Bx",
+            "trackid": "6tS3jyHgOb5WxnilpAX1W7"
+        },
+        "09": {
+            "artist": "Kissyna",
+            "ratio": 4,
+            "title": "Afro party",
+            "trackid": "16anYkBIsIuBh6px3Aahf0"
+        },
+        "10": {
+            "artist": "Chypho",
+            "ratio": 9,
+            "title": "Tonga-Kermadec Ridge",
+            "trackid": "1G3tm4DJoQyXiyrFE6JtbP"
+        }
+    },
+    "ly-trang-29th-january-2024": {
+        "00": {
+            "artist": "Peter Kater",
+            "ratio": 3,
+            "title": "Prayer for Peace",
+            "trackid": "1DEluUV05BnDRjBSbj56e8"
+        },
+        "01": {
+            "artist": "Merzbow",
+            "ratio": 9,
+            "title": "Door",
+            "trackid": "1vteoH8ltUKLpnGXMIHf4e"
+        },
+        "02": {
+            "artist": "Tăng Duy Tân",
+            "ratio": 3,
+            "title": "Cắt Đôi Nỗi Sầu",
+            "trackid": "1ZgiJ8fiSEwd07OpB9ZuRz"
+        },
+        "03": {
+            "artist": "Jeff Cascaro",
+            "ratio": 4,
+            "title": "Holler",
+            "trackid": "1q0tnmIk5Bpez4KhPuaRbm"
+        },
+        "04": {
+            "artist": "Arexibo",
+            "ratio": 9,
+            "title": "3",
+            "trackid": "1bEw0RanH3b3mFdIi9dkqi"
+        },
+        "05": {
+            "artist": "Björk",
+            "ratio": 9,
+            "title": "Bath",
+            "trackid": "2PVR9gDi7jfxVUCbJjLyGL"
+        },
+        "06": {
+            "artist": "Shoal",
+            "ratio": 9,
+            "title": "Think Twice - Original mix",
+            "trackid": "09d89gOS1wTdkfrKdXcuCN"
+        },
+        "07": {
+            "artist": "Chris Staples",
+            "ratio": 5,
+            "title": "Dark Side of the Moon",
+            "trackid": "7bwTOCU26b6Nb9CYng83HW"
+        },
+        "08": {
+            "artist": "Cyclo.",
+            "ratio": 9,
+            "title": "C5",
+            "trackid": "2I0JmNdzIr7fumjZIeMeJf"
+        },
+        "09": {
+            "artist": "Imryll",
+            "ratio": 9,
+            "title": "Foaming Mouth",
+            "trackid": "5Hu67ELVngVlJtYgpI5yM4"
+        },
+        "10": {
+            "artist": "Björk",
+            "ratio": 9,
+            "title": "Dark Matter - Alva Noto Remodel",
+            "trackid": "4ET0NR6v5FZxB6oj7WzEwO"
+        },
+        "11": {
+            "artist": "Heejin Jang",
+            "ratio": 9,
+            "title": "Promotion Day",
+            "trackid": "0Hb44AFRwsTamoNeWEkbTU"
+        },
+        "12": {
+            "artist": "Red Hot Chili Peppers",
+            "ratio": 3,
+            "title": "Parallel Universe",
+            "trackid": "6fut8mo6sof0srjhQwAy9x"
+        },
+        "13": {
+            "artist": "Nguyễn Hưng",
+            "ratio": 4,
+            "title": "Hư Vô",
+            "trackid": "5PrbWvT30q6KHiLIVWBbBF"
+        },
+        "14": {
+            "artist": "Hiromi Go",
+            "ratio": 4,
+            "title": "よろしく哀愁",
+            "trackid": "71XkdNB1ser3Qnz6iIwfgm"
+        },
+        "15": {
+            "artist": "Ludwig Göransson",
+            "ratio": 4,
+            "title": "TRUCKS IN PLACE",
+            "trackid": "2qwjVyRjKzownq7ggOcgj8"
+        },
+        "16": {
+            "artist": "Rắn Cạp Đuôi",
+            "ratio": 9,
+            "title": "Mang Theo Tôi Nữa",
+            "trackid": "1rajYBoDlgFRdePYv7BtjT"
+        },
+        "17": {
+            "artist": "Ngọc Khuê",
+            "ratio": 4,
+            "title": "Bức Họa Đồng Quê (Live)",
+            "trackid": "6sb8q9Ooyb9PMrHL0xp3DL"
+        }
+    },
+    "ly-trang-2nd-january-2024": {
+        "00": {
+            "artist": "Pyur",
+            "ratio": 9,
+            "title": "Delta",
+            "trackid": "4X0LxeaqIAMXdr719g52jz"
+        },
+        "01": {
+            "artist": "Marta De Pascalis",
+            "ratio": 9,
+            "title": "Equal To No Weight At All",
+            "trackid": "5TYD9X8qxOShpIrmzW4BPG"
+        },
+        "02": {
+            "artist": "Saint Abdullah",
+            "ratio": 9,
+            "title": "Experts Defeating Experts",
+            "trackid": "5RhaEiaq6wy9OWliDYWgwB"
+        },
+        "03": {
+            "artist": "Hiiro Issiki",
+            "ratio": 9,
+            "title": "Kinpaginpa",
+            "trackid": "4gmAP2FVXRk9ym1LVms931"
+        },
+        "04": {
+            "artist": "Azu Tiwaline",
+            "ratio": 9,
+            "title": "Canopée imaginaire",
+            "trackid": "1btV2wVAo7nWIjnHQOdQut"
+        },
+        "05": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "06": {
+            "artist": "Jana Irmert",
+            "ratio": 9,
+            "title": "Stratum",
+            "trackid": "791k5J45uSzRgVC6Oo5AIT"
+        },
+        "07": {
+            "artist": "Jacek Sienkiewicz",
+            "ratio": 9,
+            "title": "Kristine - Edit",
+            "trackid": "65Q4BTxOALESqc9cXvv88B"
+        },
+        "08": {
+            "artist": "UCC Harlo",
+            "ratio": 9,
+            "title": "Ceres",
+            "trackid": "451CT70vMaSUviYSQaDY0A"
+        },
+        "09": {
+            "artist": "Josiah Steinbrick",
+            "ratio": 9,
+            "title": "2XQ",
+            "trackid": "4FymmR21ndZVpllUZg86Wo"
+        },
+        "10": {
+            "artist": "Franz Kirmann",
+            "ratio": 9,
+            "title": "A Remembrance",
+            "trackid": "0JNrpdrHiq9VixCVScm1uE"
+        },
+        "11": {
+            "artist": "Lý Trang",
+            "ratio": 9,
+            "title": "i'm ready to be any animal that's whistled",
+            "trackid": "5zlzjH94cz3MdueCU4hkfW"
+        },
+        "12": {
+            "artist": "Emerson, Lake & Palmer",
+            "ratio": 4,
+            "title": "Jerusalem (2014 - Remaster)",
+            "trackid": "06JMyso0ZSN5MoGjqATf6I"
+        },
+        "13": {
+            "artist": "Aho Ssan",
+            "ratio": 9,
+            "title": "Tetsuo II",
+            "trackid": "02jAyCkFcEB9ve4lonYBNt"
+        },
+        "14": {
+            "artist": "Kangding Ray",
+            "ratio": 9,
+            "title": "Serotonin",
+            "trackid": "1FS9iZ9xEBwsnBUbDQ6YNF"
+        },
+        "15": {
+            "artist": "Ancestral Voices",
+            "ratio": 9,
+            "title": "Brihaspati",
+            "trackid": "35YROOnVtE2GQkwtg9I2mq"
+        },
+        "16": {
+            "artist": "Pyur",
+            "ratio": 9,
+            "title": "Intersections",
+            "trackid": "5tiMPHN8getdlWdSU7g3ra"
+        }
+    },
+    "ly-trang-7th-november-2023": {
+        "00": {
+            "artist": "Dustin Wong",
+            "ratio": 9,
+            "title": "Janus Juggles",
+            "trackid": "7nY2cWLA1WDMc9hhZYTe0Q"
+        },
+        "01": {
+            "artist": "NTsKi",
+            "ratio": 9,
+            "title": "Kung-Fu",
+            "trackid": "3VMMT6mr9WxmZvqjHxBGnL"
+        },
+        "02": {
+            "artist": "MALVY",
+            "ratio": 4,
+            "title": "Мавпи",
+            "trackid": "29xqZ9aOSig7aqsoK5wh0Y"
+        },
+        "03": {
+            "artist": "Chrisman",
+            "ratio": 9,
+            "title": "Late Siren",
+            "trackid": "2aC3v1brCtDYDmEvM1sbNU"
+        },
+        "04": {
+            "artist": "iblss",
+            "ratio": 9,
+            "title": "shhhhhh",
+            "trackid": "3JpEVj0JKa6xe542RskXRM"
+        },
+        "05": {
+            "artist": "upsammy",
+            "ratio": 9,
+            "title": "Patterning",
+            "trackid": "0MHcCahXFfRQeLhlUrAK2K"
+        },
+        "06": {
+            "artist": "Oneohtrix Point Never",
+            "ratio": 9,
+            "title": "Locrian Midwest",
+            "trackid": "1uBgBfrr1n1297EZlDAmoj"
+        },
+        "07": {
+            "artist": "MC Yallah",
+            "ratio": 9,
+            "title": "Kubali",
+            "trackid": "6PABOp286YbmH3c4Iq1yTe"
+        },
+        "08": {
+            "artist": "BBY NABE",
+            "ratio": 3,
+            "title": "PINK SWEET",
+            "trackid": "78C3YRa8QCgaJrFwVsqkA7"
+        },
+        "09": {
+            "artist": "Muqata'a",
+            "ratio": 9,
+            "title": "Ikmal",
+            "trackid": "4Kvb6rj7WEYe1fk2FoPBBk"
+        },
+        "10": {
+            "artist": "syobangz",
+            "ratio": 4,
+            "title": "Slowbro",
+            "trackid": "6XCMmfe7ZvWqZbrTdKK1LV"
+        },
+        "11": {
+            "artist": "Wonderwall",
+            "ratio": 3,
+            "title": "Just More",
+            "trackid": "1a6X1sDfhHvnrHbUTEcO42"
+        },
+        "12": {
+            "artist": "MAEVE",
+            "ratio": 4,
+            "title": "Сама (dame remix)",
+            "trackid": "3PQVDvEvQQ0H6pkT8olHe7"
+        },
+        "13": {
+            "artist": "Balming Tiger",
+            "ratio": 9,
+            "title": "Kamehameha",
+            "trackid": "0CVmXeT4XO6O1tZWYG78Od"
+        },
+        "14": {
+            "artist": "Emptyset",
+            "ratio": 9,
+            "title": "ash",
+            "trackid": "0rK3UAUWytHHOSrKwGmve5"
+        },
+        "15": {
+            "artist": "Sofia Kourtesis",
+            "ratio": 8,
+            "title": "Estación Esperanza",
+            "trackid": "1jGkLUJCl46NmXIM6rUghn"
+        },
+        "16": {
+            "artist": "JPEGMAFIA",
+            "ratio": 9,
+            "title": "Beta Male Strategies",
+            "trackid": "7JMVhsR4cggN4Rvq0NQVOX"
+        },
+        "17": {
+            "artist": "Ly Trang",
+            "ratio": 9,
+            "title": "extinct imposters",
+            "trackid": "0I3XjULd89cpuY3eSMLTnz"
+        }
+    }
+}
