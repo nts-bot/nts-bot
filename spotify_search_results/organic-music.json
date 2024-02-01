@@ -3588,6 +3588,406 @@
             ]
         }
     },
+    "organic-music-31st-january-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Kim Parker",
+                    "title": "Paris Is A Lonely Town",
+                    "uri": "6v4iE1GWUYyU43ir5gXFJg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kim Parker",
+                    "title": "Paris Is A Lonely Town",
+                    "uri": "6v4iE1GWUYyU43ir5gXFJg"
+                },
+                {
+                    "artist": "Kim Parker",
+                    "title": "How My Heart Sings",
+                    "uri": "4pU6nkFV0tDGT50vEZbZtO"
+                },
+                {
+                    "artist": "David Baldacci",
+                    "title": "Kim Parkte Den Lexus In Einer Nebenstrasse",
+                    "uri": "10jnGfuEesBVjc7Onzb47t"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Flora Purim",
+                    "title": "Preciso Aprender a Ser Só",
+                    "uri": "2QqPsikYbC88xgizO7bb06"
+                },
+                {
+                    "artist": "Flora Purim",
+                    "title": "Preciso Aprender a Ser Só",
+                    "uri": "5bllzp4tLLwypjMv6LwdyR"
+                },
+                {
+                    "artist": "Flora Martínez",
+                    "title": "Happy",
+                    "uri": "3VoamGkXelS0NOIVm1BBJg"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ella Fitzgerald",
+                    "title": "These Foolish Things (Remind Me Of You)",
+                    "uri": "5s9tKuZkMiDxY1b6WIzHtL"
+                },
+                {
+                    "artist": "Lester Young",
+                    "title": "These Foolish Things",
+                    "uri": "07l1kkIQkfNlCmVwMC4GD0"
+                },
+                {
+                    "artist": "Lester Young & The Oscar Peterson Trio",
+                    "title": "These Foolish Things",
+                    "uri": "428zgQbotcPFjjWbTZuzid"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Judy Roberts",
+                    "title": "Last Tango In Paris",
+                    "uri": "4lKKfVgXOVUOZhzdtMjbZE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Judy Roberts",
+                    "title": "Last Tango In Paris",
+                    "uri": "4lKKfVgXOVUOZhzdtMjbZE"
+                },
+                {
+                    "artist": "Judy Roberts",
+                    "title": "I Can't Help It",
+                    "uri": "4PeifyDoyB7JjgVJdzxBBr"
+                },
+                {
+                    "artist": "Gato Barbieri",
+                    "title": "Last Tango in Paris - Ultimo Tango a Parigi (Titles)",
+                    "uri": "2dRjEirtMproK2r4gzda1j"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dorothy Ashby",
+                    "title": "Little Sunflower",
+                    "uri": "3A6e928yOFJ0MhlG7xrFDW"
+                },
+                {
+                    "artist": "Alexander Zonjic",
+                    "title": "Little Sunflower",
+                    "uri": "1KZtUZjCnHIwi9qE1tSefo"
+                },
+                {
+                    "artist": "Rebecca Ferguson",
+                    "title": "Willow Weep for Me",
+                    "uri": "3CouChEohjqeO4TTR9V9Vh"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Annette Peacock",
+                    "title": "This Feel Within",
+                    "uri": "5U6wfgeIS5kYY0u2NrVdm4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Annette Peacock",
+                    "title": "This Feel Within",
+                    "uri": "5U6wfgeIS5kYY0u2NrVdm4"
+                },
+                {
+                    "artist": "Annette Focks",
+                    "title": "Nach dem Auftritt",
+                    "uri": "17hK2y47spnoVFMYXhb3mO"
+                },
+                {
+                    "artist": "Annette Focks",
+                    "title": "Alles vorbei",
+                    "uri": "1wUG6dfN9INQNvf8Tu1etw"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nun flog Dr. Bert Rabe",
+                    "title": "Der Maulwurfmann",
+                    "uri": "6imNr1hXbCftcrsAcLE89E"
+                },
+                {
+                    "artist": "Thomas Raber & Freunde",
+                    "title": "Wer hat dem Maulwurf auf den Kopf gemacht",
+                    "uri": "4gAwHhpvEuWb1ImKISA1s6"
+                },
+                {
+                    "artist": "Gerhard A. Meyer",
+                    "title": "Kapitel 2: Ich will das Licht am Ende des Tunnels sehn",
+                    "uri": "1Qrin2cgkV69IRYO44IymT"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Charles Green",
+                    "title": "Resolute",
+                    "uri": "1tT6hL4EoyErTl0s0VeXdC"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chico Freeman",
+                    "title": "The Search",
+                    "uri": "6MhVwypFP3A7waj1Hcq9yZ"
+                },
+                {
+                    "artist": "Chico Freeman",
+                    "title": "Autumn in New York",
+                    "uri": "3JduUf42mz3J8pX1knG4Rm"
+                },
+                {
+                    "artist": "Chico Freeman",
+                    "title": "You Don't Have to Say You're Sorry",
+                    "uri": "1TXiqQYqotbDi11kZ8Kwrx"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nannie Porres",
+                    "title": "I Thought About You",
+                    "uri": "27pkxEvI4LK9YNQLDlyuqC"
+                },
+                {
+                    "artist": "Nannie Porres",
+                    "title": "Love for Sale",
+                    "uri": "7MGdkF8c47NqrvQVVDD11Q"
+                },
+                {
+                    "artist": "Nannie Porres",
+                    "title": "That´s All There Is",
+                    "uri": "6XGNn1dFFb5UZBz3oh6KgJ"
+                }
+            ]
+        }
+    },
+    "organic-music-3rd-january-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Masahiko Togashi",
+                    "title": "SPRING WILL COME",
+                    "uri": "4fcGRW58F73LPlkMrwjMGk"
+                },
+                {
+                    "artist": "Seiichi Yamamoto",
+                    "title": "For Absent Friends",
+                    "uri": "5gTqR39RER462DNt7CiXTU"
+                },
+                {
+                    "artist": "Dude's Cover",
+                    "title": "Yamamoto's Rage Theme (From \"Bleach: Thousand Year Blood War\")",
+                    "uri": "3yTw13aAzaHj14eNneb4An"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Günter Grünwald",
+                    "title": "Das Übersetzungskästchen",
+                    "uri": "2aXJ8C7ic7qZgSLHVcx5C4"
+                },
+                {
+                    "artist": "Günter Grünwald",
+                    "title": "Die Gehirnoperation",
+                    "uri": "1t4SREhesgX2IoqCTUZF3N"
+                },
+                {
+                    "artist": "Günter Grünwald",
+                    "title": "Die Pause",
+                    "uri": "0pvddYbF4TCLwfUI0s8DtX"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pierre Favre",
+                    "title": "Yemanjá",
+                    "uri": "5znVdlVZshEG65ayZbnw0m"
+                },
+                {
+                    "artist": "Tamia",
+                    "title": "Chant D'Exil",
+                    "uri": "6BasKFpJc5Kj2vl1UcwvZt"
+                },
+                {
+                    "artist": "Pierre Favre",
+                    "title": "Ballade (excerpt)",
+                    "uri": "52207mUtqs62fccecQeneq"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mauro Rawn",
+                    "title": "Blends",
+                    "uri": "1StQJw4EAHzDz3tybfh3iD"
+                },
+                {
+                    "artist": "House Music 2021",
+                    "title": "Blend Exclusive",
+                    "uri": "02RA81FWAxjPuy6bqIbLDJ"
+                },
+                {
+                    "artist": "Rokko Weissensee",
+                    "title": "Ritual",
+                    "uri": "7DQhvIq3TfxMDqRxw1E1Xf"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "John Surman",
+                    "title": "Changes Of Season",
+                    "uri": "1FPStI7OHsmK8GkjcB8tCM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "John Surman",
+                    "title": "Changes Of Season",
+                    "uri": "1FPStI7OHsmK8GkjcB8tCM"
+                },
+                {
+                    "artist": "John Summit",
+                    "title": "Where You Are",
+                    "uri": "4qDpLaFGf5ampf2DXD2TMA"
+                },
+                {
+                    "artist": "John Summit",
+                    "title": "Better Than This",
+                    "uri": "5OLSGox6JVpAyEQuoSYRcs"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ricardo Mendeza",
+                    "title": "Memories",
+                    "uri": "66ZZxtPZCiJn8ZthsgWfzs"
+                },
+                {
+                    "artist": "TICO DE MORAES",
+                    "title": "Break In",
+                    "uri": "50T4oNyzIMVM2xoC8kvoLw"
+                },
+                {
+                    "artist": "Tico QDP",
+                    "title": "Sereia",
+                    "uri": "1gtfKlH9doeAbuXnpSw4S0"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Paul Bley",
+                    "title": "Nothing Ever Was, Anyway",
+                    "uri": "4j8fi4c8qjpyb9hUJC3zLW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Paul Bley",
+                    "title": "Nothing Ever Was, Anyway",
+                    "uri": "4j8fi4c8qjpyb9hUJC3zLW"
+                },
+                {
+                    "artist": "Annette Peacock",
+                    "title": "Nothing Ever Was, Anyway",
+                    "uri": "0zeBsrBvfnvPGhpKAdgavk"
+                },
+                {
+                    "artist": "Paul Bley",
+                    "title": "Autumn Breeze",
+                    "uri": "7rfQSR01yyCxP55RNl7Zyu"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Enrico Rava",
+                    "title": "Torna A Surriento",
+                    "uri": "19iNygtp15laOhh1QEUH0C"
+                },
+                {
+                    "artist": "Enrico Rava",
+                    "title": "Torna A Surriento",
+                    "uri": "0VnxaGDyr1IRCs6JIEN3nC"
+                },
+                {
+                    "artist": "Enrico Rava",
+                    "title": "Torna A Surriento",
+                    "uri": "1p6VqlGch3Nf6v0BE5UBDA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Enrico Rava",
+                    "title": "Torna A Surriento",
+                    "uri": "19iNygtp15laOhh1QEUH0C"
+                },
+                {
+                    "artist": "Enrico Rava",
+                    "title": "Torna A Surriento",
+                    "uri": "0VnxaGDyr1IRCs6JIEN3nC"
+                },
+                {
+                    "artist": "Enrico Rava",
+                    "title": "Peace",
+                    "uri": "43vqt26LO1cWMK9bPkAQFO"
+                }
+            ]
+        }
+    },
     "organic-music-4th-july-2018": {
         "00": {
             "s0": [
