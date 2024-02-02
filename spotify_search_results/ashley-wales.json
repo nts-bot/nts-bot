@@ -773,6 +773,68 @@
             ]
         }
     },
+    "ashley-wales-1st-february-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Arnold Schoenberg",
+                    "title": "Suite for Piano, Op. 25: VI. Gigue - Musical Moments",
+                    "uri": "0wwReHfskijZp6CXo9PwAp"
+                },
+                {
+                    "artist": "Arnold Schoenberg",
+                    "title": "Suite for Piano, Op. 25: I. Präludium",
+                    "uri": "6Dt6vUL6iKTNWi5OC7kv5Y"
+                },
+                {
+                    "artist": "Arnold Schoenberg",
+                    "title": "Schoenberg: 6 Little Piano Pieces, Op. 19: No. 1 Leicht, zart",
+                    "uri": "6ISQeh1wDQtGLt6fDHtS0C"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Max Reger",
+                    "title": "Violin Sonata No. 1 in D Minor, Op. 1: III. Adagio",
+                    "uri": "2335zjxL9pqaGFTQnzJBbz"
+                },
+                {
+                    "artist": "Max Reger",
+                    "title": "Variation 5: Quasi presto",
+                    "uri": "0qquBva7WWQ2nSFxXddBYa"
+                },
+                {
+                    "artist": "Max Reger",
+                    "title": "Lose Blätter, Op. 13: No. 12, Choral",
+                    "uri": "6G9Wn9kpHcRzxhIAQ50Bcv"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Olivier Messiaen",
+                    "title": "Et exspecto resurrectionem mortuorum: V. Et j'entendis la voix d'une foule immense...",
+                    "uri": "0YUgIHslVdnscviJjsthC8"
+                },
+                {
+                    "artist": "Olivier Messiaen",
+                    "title": "Preludes: Le nombre leger (The Light Number)",
+                    "uri": "4o8eGxtEm4WqR39jI3Gv4e"
+                },
+                {
+                    "artist": "Olivier Messiaen",
+                    "title": "Preludes: La colombe (The Dove)",
+                    "uri": "0a9mUPCyu1R2kxRqDoO9Q3"
+                }
+            ]
+        }
+    },
     "ashley-wales-20th-july-2023": {
         "00": {
             "s0": "",
@@ -2684,6 +2746,108 @@
                     "artist": "Ralph Vaughan Williams",
                     "title": "Concerto for Oboe and Strings: 1. Rondo Pastorale",
                     "uri": "3AZVOnq73ggfRE1DeJ3mBx"
+                }
+            ]
+        }
+    },
+    "ashley-wales-4th-january-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gerald Bailey",
+                    "title": "Dusty Rhodes",
+                    "uri": "1Ij2mvxmCV825mU4DCqWMn"
+                },
+                {
+                    "artist": "Gerald Clayton",
+                    "title": "Just A Dream",
+                    "uri": "3n09FQ8rPHhxS46wzYEmWq"
+                },
+                {
+                    "artist": "Gerald Clayton",
+                    "title": "Sun Glimpse",
+                    "uri": "0JQR5UNK8XrfdTeWt2Dfv5"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Anton Webern",
+                    "title": "5 Canons on Latin Texts, Op. 16: Crux fidelis",
+                    "uri": "7m6JbR1bJmjIbLb9ymgtqG"
+                },
+                {
+                    "artist": "Anton Webern",
+                    "title": "5 Canons on Latin Texts, Op. 16: Crucem tuam adoramus",
+                    "uri": "0IU65wrF238wAictBqX0ds"
+                },
+                {
+                    "artist": "Carl Maria von Weber",
+                    "title": "Variations on a Theme from the Opera Silvana in B-Flat Major, Op. 33: III. Variation II. Con Grazia",
+                    "uri": "7beyiVePpPPIrWbdmb8RAW"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Morton Feldman",
+                    "title": "Piano and Orchestra",
+                    "uri": "7Ba9Y6wKPYWCT2w8Zh0imO"
+                },
+                {
+                    "artist": "Morton Feldman",
+                    "title": "Something Wild in the City: Mary Ann's Theme (1960) for horn, celesta, and string Quartet",
+                    "uri": "1p7PMNcrcRC8AZ5aQRHB8u"
+                },
+                {
+                    "artist": "Morton Feldman",
+                    "title": "Jackson Pollock (1950-51) for two Cellos: V Painting on Glass",
+                    "uri": "5vsxgjUMbJQXDEzRsx0BK4"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Harrison Birtwistle",
+                    "title": "Orpheus Elegies: No. 12, — (Live)",
+                    "uri": "2M032pDCTm1oahNEdf34yE"
+                },
+                {
+                    "artist": "Harrison Storm",
+                    "title": "My Way Home",
+                    "uri": "1PmHzy1AebjGRue4hYVkpM"
+                },
+                {
+                    "artist": "Harrison Storm",
+                    "title": "Breathe Again - Acoustic",
+                    "uri": "2Y29DHOl92FAqXy6Oe6f5h"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bell Ringing Team",
+                    "title": "St. Mary Redcliffe Church, Bristol",
+                    "uri": "3TDpFC9Ox7eWLZa3IFOftq"
+                },
+                {
+                    "artist": "Bob B. Soxx & The Blue Jeans",
+                    "title": "The Bells of St. Mary",
+                    "uri": "1ktQ6en7c8R42MNaTMS6kW"
+                },
+                {
+                    "artist": "Sound Ideas",
+                    "title": "Large Church Bells Tolling with Heavy Pulley Movement",
+                    "uri": "374lnxKGTaWPT3CuS4bwwt"
                 }
             ]
         }

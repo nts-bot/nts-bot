@@ -1447,6 +1447,68 @@
             "trackid": "03CvpPindDdUBxZAFF7K30"
         }
     },
+    "geologist-1st-february-2024": {
+        "00": {
+            "artist": "John Cage",
+            "ratio": 4,
+            "title": "A room (Two Pieces for Harp) - 1942",
+            "trackid": "3Q4V9R5XhcPMrJwOJjj6WK"
+        },
+        "01": {
+            "artist": "Irreversible Entanglements",
+            "ratio": 9,
+            "title": "Sunshine",
+            "trackid": "24NpnSABvPW31YPEmvdnyu"
+        },
+        "02": {
+            "artist": "Jon Appleton",
+            "ratio": 9,
+            "title": "BAO",
+            "trackid": "2GMrQz18YvTVgGbj4mcmD4"
+        },
+        "03": {
+            "artist": "BCMC",
+            "ratio": 9,
+            "title": "The Swarm",
+            "trackid": "46WPBJjvHyxLNBYXlYdRK4"
+        },
+        "04": {
+            "artist": "Jair-Rohm Parker-Wells",
+            "ratio": 9,
+            "title": "Favorable Conditions",
+            "trackid": "6pNIGgeDXDei0hoeheYWU6"
+        },
+        "05": {
+            "artist": "Terry Riley",
+            "ratio": 9,
+            "title": "Lion's Throne",
+            "trackid": "7j5vLn78PSJaXritwcDgXN"
+        },
+        "06": {
+            "artist": "Blue Phantom",
+            "ratio": 9,
+            "title": "Psycho-Nebulous",
+            "trackid": "742UnJDv28v2h0XDLH2Zls"
+        },
+        "07": {
+            "artist": "John Fahey",
+            "ratio": 9,
+            "title": "Untitled (w/o Rain)",
+            "trackid": "1DFNMQpR6iJ54CGH958Nns"
+        },
+        "08": {
+            "artist": "Rafael Manjarrez",
+            "ratio": 3,
+            "title": "Ausencia Sentimental",
+            "trackid": "5pjc6fJEkSBjDZzkmJbfk9"
+        },
+        "09": {
+            "artist": "Sun Ra",
+            "ratio": 3,
+            "title": "Tapestry from an Asteroid",
+            "trackid": "0EjtZmOLT6WLShJRHCFWVU"
+        }
+    },
     "geologist-1st-march-2022": {
         "00": {
             "artist": "Os Brazoes",
@@ -3131,6 +3193,98 @@
             "ratio": 9,
             "title": "Going Home",
             "trackid": "6g9ItEHIAXnEDVdXd8nwEg"
+        }
+    },
+    "geologist-4th-january-2024": {
+        "00": {
+            "artist": "Nourished by Time",
+            "ratio": 9,
+            "title": "Staring into the Fireplace",
+            "trackid": "2XKjTD3yl46rJ53IKCVrF2"
+        },
+        "01": {
+            "artist": "Bellah Mae",
+            "ratio": 4,
+            "title": "On Purpose (For My Future Daughter)",
+            "trackid": "2iEGf6cKhUrzbtRaltEtLn"
+        },
+        "02": {
+            "artist": "BTS",
+            "ratio": 4,
+            "title": "Blood Sweat & Tears",
+            "trackid": "0Yqr9qtmhjYPUtsFB04g9R"
+        },
+        "03": {
+            "artist": "Swim Season",
+            "ratio": 5,
+            "title": "Gold Cloak City",
+            "trackid": "21JOvNirLgIIzU4WqksfFc"
+        },
+        "04": {
+            "artist": "louke's beats",
+            "ratio": 3,
+            "title": "Hark! The Herald Angels Sing",
+            "trackid": "0bgcp8ZKgJg2pqCwegbw1M"
+        },
+        "05": {
+            "artist": "SF9",
+            "ratio": 4,
+            "title": "Tear Drop",
+            "trackid": "5T6UFJ0AtAU7gXGybQ0HH7"
+        },
+        "06": {
+            "artist": "Chicago Jazz Lounge",
+            "ratio": 4,
+            "title": "Jazz Organ Soundtrack for Calm Flow",
+            "trackid": "1xQGWOjxqCdSBH6B2Lh1X6"
+        },
+        "07": {
+            "artist": "Bubble Wand",
+            "ratio": 9,
+            "title": "Clouds",
+            "trackid": "6xC5YOEZfkw44GrwA5qPCf"
+        },
+        "08": {
+            "artist": "Ruby Mars",
+            "ratio": 9,
+            "title": "Guarded Lawn",
+            "trackid": "5d8IX6rNCQdg3gPG6Au9eD"
+        },
+        "09": {
+            "artist": "F-music-J",
+            "ratio": 4,
+            "title": "All About That Bass",
+            "trackid": "1zuFd73aivj9j77oP4lm1N"
+        },
+        "10": {
+            "artist": "Sham",
+            "ratio": 9,
+            "title": "As The Heat Rises",
+            "trackid": "1uFv8cCkK1wuqULioEnhu8"
+        },
+        "11": {
+            "artist": "Pure Duduk Solo",
+            "ratio": 9,
+            "title": "Anush Garun",
+            "trackid": "0ERlbViRhpqUkWlh99ixvi"
+        },
+        "12": {
+            "artist": "Stephen Sanchez",
+            "ratio": 0,
+            "title": "Evangeline",
+            "trackid": "7vANkmN3lIED9QkNS48N14"
+        },
+        "13": {
+            "artist": "Wheatie Mattiasich",
+            "ratio": 9,
+            "title": "Rose",
+            "trackid": "5XoZ6DEEMsyTIPHV82koCg"
+        },
+        "14": {
+            "artist": "Andrew Bernstein",
+            "ratio": 9,
+            "title": "Deus Ex Machina",
+            "trackid": "0HMF3fyu5Lh1LP4GkcL11C"
         }
     },
     "geologist-5th-february-2019": {
