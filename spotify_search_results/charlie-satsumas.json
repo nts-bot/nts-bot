@@ -631,7 +631,429 @@
             ]
         }
     },
-    "charlie-satsumas-3rd-february-2024": {},
+    "charlie-satsumas-3rd-february-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "The Germans",
+                    "title": "Ich Sagte",
+                    "uri": "0Xa3EZv6mQ7F0IXveuyK9Z"
+                },
+                {
+                    "artist": "The Germans",
+                    "title": "Ich Sagte",
+                    "uri": "1NNWsoUEGHqZTEuHMZLYTH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Germans",
+                    "title": "Ich Sagte",
+                    "uri": "1NNWsoUEGHqZTEuHMZLYTH"
+                },
+                {
+                    "artist": "The Germans",
+                    "title": "Ich Sagte",
+                    "uri": "0Xa3EZv6mQ7F0IXveuyK9Z"
+                },
+                {
+                    "artist": "The Demencials",
+                    "title": "Germans de sang",
+                    "uri": "7jnIl4CroFSBnQ7mXlkxV2"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Raphael Roginski",
+                    "title": "Electron",
+                    "uri": "1n1bLYO3tYsVmcln0CRkhP"
+                },
+                {
+                    "artist": "Sisi Row",
+                    "title": "Electron",
+                    "uri": "0KkNeFOoAKW0NkhaleFeGk"
+                },
+                {
+                    "artist": "Ice Bird Studio",
+                    "title": "Electron",
+                    "uri": "40ammCO1LN6cQKvdBCZXPm"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eden Ahbez",
+                    "title": "Full Moon",
+                    "uri": "4YP81OCyHsxAb23UTAW7Vn"
+                },
+                {
+                    "artist": "電音部",
+                    "title": "Full Moon",
+                    "uri": "0WBAox6gdVhMnUEWlezo5V"
+                },
+                {
+                    "artist": "有馬かな(CV:潘めぐみ)",
+                    "title": "Full moon…!",
+                    "uri": "2ZQaCiKPUz3gKtmhj3A57l"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jerry Ryan",
+                    "title": "Lights in the Night",
+                    "uri": "4aHUr1rIXzJRBQnebe6Dot"
+                },
+                {
+                    "artist": "Flash & The Pain",
+                    "title": "Lights in the Night - Special Version",
+                    "uri": "5gbtV3eo1bgT45vO1sxq66"
+                },
+                {
+                    "artist": "Sebastiane Jessie",
+                    "title": "Flash in the pan",
+                    "uri": "0QUxRwVvAZIa5IVVEWGmXW"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Dome",
+                    "title": "Airmail",
+                    "uri": "3dsKJU1M3EiCqEs0mPlm5N"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dome",
+                    "title": "Airmail",
+                    "uri": "3dsKJU1M3EiCqEs0mPlm5N"
+                },
+                {
+                    "artist": "Charlie Christian",
+                    "title": "Airmail Special",
+                    "uri": "7C5Kz5zFpmWjRDiU84Vrum"
+                },
+                {
+                    "artist": "The Gospellers",
+                    "title": "AIR MAIL",
+                    "uri": "1WfkWYl2txg60QlsXXhD6Q"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Captain & Tennille",
+                    "title": "Do That To Me One More Time",
+                    "uri": "0m4jVVZrsv0bLkAr1uM6UG"
+                },
+                {
+                    "artist": "Iron & Wine",
+                    "title": "Time After Time",
+                    "uri": "5JEM7lT9uSyhUsKFXwGfSm"
+                },
+                {
+                    "artist": "Marcus & Martinus",
+                    "title": "It's Christmas Time",
+                    "uri": "75Vdr7hLo14DAapfLIdN77"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Prelude & Fugue in C Major, BWV 847",
+                    "uri": "3depYJhYv93qdlrspIREyQ"
+                },
+                {
+                    "artist": "Johann Pachelbel",
+                    "title": "Canon & Gigue in D Major, P. 37: I. Canon (Arr. for Harpsichord, Piano & Vibraphone by Guoda Gedvilaitė)",
+                    "uri": "4HZcqS5zOfdueBIZI8Yn3y"
+                },
+                {
+                    "artist": "Rachie",
+                    "title": "time & time",
+                    "uri": "3dlBsP8xv4Wh9Jw0oPAjuD"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Spacemen 3",
+                    "title": "Ode To Street Hassle",
+                    "uri": "0wCVB9Zu5efVqEBSAn3dr8"
+                },
+                {
+                    "artist": "Spacemen 3",
+                    "title": "Ode To Street Hassle",
+                    "uri": "3YfvEk8r9cFFIAcZrU1TSq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Spacemen 3",
+                    "title": "Ode To Street Hassle",
+                    "uri": "0wCVB9Zu5efVqEBSAn3dr8"
+                },
+                {
+                    "artist": "Spacemen 3",
+                    "title": "Ode To Street Hassle",
+                    "uri": "3YfvEk8r9cFFIAcZrU1TSq"
+                },
+                {
+                    "artist": "Electric Callboy",
+                    "title": "Spaceman (feat. FiNCH)",
+                    "uri": "2zNZ81rcbDUvOmKo0borJr"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Sonic Boom",
+                    "title": "Angel",
+                    "uri": "0UZVz7qy4IxJTtVGkhalUb"
+                },
+                {
+                    "artist": "Sonic Boom",
+                    "title": "Angel - Extended Mix",
+                    "uri": "5OtTUDuiSs6ztVD8aPLQE5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sonic Boom",
+                    "title": "Angel",
+                    "uri": "0UZVz7qy4IxJTtVGkhalUb"
+                },
+                {
+                    "artist": "Sonic Boom",
+                    "title": "Angel - Extended Mix",
+                    "uri": "5OtTUDuiSs6ztVD8aPLQE5"
+                },
+                {
+                    "artist": "Maaya Sakamoto",
+                    "title": "SONIC BOOM",
+                    "uri": "2fR18TKm6d10XByIfzV4cP"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Desmond Simmons",
+                    "title": "To Be Lost",
+                    "uri": "2KGaPP4CIrrS132nt9JGNp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Desmond Simmons",
+                    "title": "To Be Lost",
+                    "uri": "2KGaPP4CIrrS132nt9JGNp"
+                },
+                {
+                    "artist": "Desmond Dekker & The Aces",
+                    "title": "Fu Man Chu",
+                    "uri": "5sC836mBGkD9vni59G1YyV"
+                },
+                {
+                    "artist": "Desmond Cheese",
+                    "title": "Morning Glory",
+                    "uri": "7ovbi8XiVJJuiwGoPTt3zp"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Aigue Morte",
+                    "title": "Rétroviseur",
+                    "uri": "3QIcl3gn25sdTSy6dmZMY0"
+                },
+                {
+                    "artist": "Barbara",
+                    "title": "L'aigle noir",
+                    "uri": "0e3J7BxEO608VEaQ5aZNoU"
+                },
+                {
+                    "artist": "Gabriel Auer",
+                    "title": "Retrouvailles",
+                    "uri": "11JN2F71WjDG5uZZ0i1vMd"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Severed Heads",
+                    "title": "A Million Angels",
+                    "uri": "6s9UO0jNaECNx2bTu4gMLI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Severed Heads",
+                    "title": "A Million Angels",
+                    "uri": "6s9UO0jNaECNx2bTu4gMLI"
+                },
+                {
+                    "artist": "Gorillaz",
+                    "title": "Severed Head (feat. Goldlink and Unknown Mortal Orchestra)",
+                    "uri": "44AJ1hmtEVZVAMANYCxDlB"
+                },
+                {
+                    "artist": "Rage Outlawz",
+                    "title": "Severed Ties Bleeding Out",
+                    "uri": "3tfh0aUx1YQ0QYUceSeowr"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Thomas Leer",
+                    "title": "Chasing The Dragon",
+                    "uri": "744b8Ctf5k2Y3Bajn1UN1l"
+                },
+                {
+                    "artist": "Thomas Leer",
+                    "title": "Chasing The Dragon",
+                    "uri": "6CdJMonG79fS9Mgf9uIFEk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Thomas Leer",
+                    "title": "Chasing The Dragon",
+                    "uri": "744b8Ctf5k2Y3Bajn1UN1l"
+                },
+                {
+                    "artist": "Thomas Leer",
+                    "title": "Chasing The Dragon",
+                    "uri": "6CdJMonG79fS9Mgf9uIFEk"
+                },
+                {
+                    "artist": "Nate VanDeusen",
+                    "title": "Chasing The Sun",
+                    "uri": "7zJPrJtZpQEYvclXOQelxe"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "CCFX",
+                    "title": "The One to Wait",
+                    "uri": "0Q6OskXNfChXfBpN2oswue"
+                },
+                {
+                    "artist": "CCFX",
+                    "title": "The One to Wait - Mixed",
+                    "uri": "06BvT6KK5o448FMEBT3tcw"
+                },
+                {
+                    "artist": "CCFX",
+                    "title": "The One to Wait - Sunday of Existence Mix",
+                    "uri": "0YRFjKv9KEOvv9qYmsNxed"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "CCFX",
+                    "title": "The One to Wait",
+                    "uri": "0Q6OskXNfChXfBpN2oswue"
+                },
+                {
+                    "artist": "CCFX",
+                    "title": "The One to Wait - Sunday of Existence Mix",
+                    "uri": "0YRFjKv9KEOvv9qYmsNxed"
+                },
+                {
+                    "artist": "Crossfaith",
+                    "title": "Omen",
+                    "uri": "4abJbqX8C8CQTXHZxEbJZz"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "The Clash",
+                    "title": "Train in Vain (Stand by Me) - Remastered",
+                    "uri": "6ITuEsxEy2qPhqMowdDAeI"
+                },
+                {
+                    "artist": "The Clash",
+                    "title": "Train in Vain (Stand by Me)",
+                    "uri": "5wQHhucJ34AZ8usOTyhOPb"
+                },
+                {
+                    "artist": "The Clash",
+                    "title": "Train in Vain (Stand by Me) - Remastered",
+                    "uri": "4Lv7EZcBhop6aituAZU8i5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Clash",
+                    "title": "Train in Vain (Stand by Me) - Remastered",
+                    "uri": "6ITuEsxEy2qPhqMowdDAeI"
+                },
+                {
+                    "artist": "The Clash",
+                    "title": "Train in Vain (Stand by Me) - Remastered",
+                    "uri": "4Lv7EZcBhop6aituAZU8i5"
+                },
+                {
+                    "artist": "The Clash",
+                    "title": "Should I Stay or Should I Go - Remastered",
+                    "uri": "39shmbIHICJ2Wxnk1fPSdz"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "DJ Katapila",
+                    "title": "Cocoawra",
+                    "uri": "02MRjoMrZZyfGDE93fEvgn"
+                },
+                {
+                    "artist": "DJ Katapila",
+                    "title": "Cocoawra (Angel)",
+                    "uri": "6LZUKium7VJQiPMI5PwV5L"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "DJ Katapila",
+                    "title": "Cocoawra",
+                    "uri": "02MRjoMrZZyfGDE93fEvgn"
+                },
+                {
+                    "artist": "DJ Katapila",
+                    "title": "Cocoawra (Angel)",
+                    "uri": "6LZUKium7VJQiPMI5PwV5L"
+                },
+                {
+                    "artist": "Madeen SK",
+                    "title": "Kapolla Intikada DJ - DJ Version",
+                    "uri": "6h5D2QmAOI1Oojfn2snEM8"
+                }
+            ]
+        }
+    },
     "charlie-satsumas-6th-january-2024": {
         "00": {
             "s0": "",
