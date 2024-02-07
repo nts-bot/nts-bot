@@ -1,4 +1,776 @@
 {
+    "soup-to-nuts-6th-february-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Yesterday's New Quintet",
+                    "title": "Broken Dreams",
+                    "uri": "41QkRNmJja6F1pJ2nG5CSn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Yesterday's New Quintet",
+                    "title": "Broken Dreams",
+                    "uri": "41QkRNmJja6F1pJ2nG5CSn"
+                },
+                {
+                    "artist": "Jimmy Raney",
+                    "title": "Yesterdays",
+                    "uri": "3CX7KakgJHruhIgjNrsoOi"
+                },
+                {
+                    "artist": "Wes Montgomery Trio",
+                    "title": "Yesterdays",
+                    "uri": "6syzakkI2K7KOdgL8ubC9h"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Ronald Snijders",
+                    "title": "Galibi",
+                    "uri": "3X8jrnOZP6B0s4JvUEAI6u"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ronald Snijders",
+                    "title": "Galibi",
+                    "uri": "3X8jrnOZP6B0s4JvUEAI6u"
+                },
+                {
+                    "artist": "Ronald Snijders",
+                    "title": "Radio",
+                    "uri": "7vsBQHbfl2tZqomxb8fkhR"
+                },
+                {
+                    "artist": "Ronald Snijders",
+                    "title": "Ik hou van een hert (alleen)",
+                    "uri": "5b9FDI8IVNxFp95ADcFjCR"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Latimore",
+                    "title": "Sweet Vibrations",
+                    "uri": "5cH5VSLoGMuvr14cr0Fhu7"
+                },
+                {
+                    "artist": "Latimore",
+                    "title": "Sweet Vibrations",
+                    "uri": "401dvIPsj826eabvRn7x8X"
+                },
+                {
+                    "artist": "Latimore",
+                    "title": "Sweet Vibrations",
+                    "uri": "5hSRedrclziddsmHJqJfbs"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Latimore",
+                    "title": "Sweet Vibrations",
+                    "uri": "5cH5VSLoGMuvr14cr0Fhu7"
+                },
+                {
+                    "artist": "Latimore",
+                    "title": "Sweet Vibrations",
+                    "uri": "401dvIPsj826eabvRn7x8X"
+                },
+                {
+                    "artist": "Latimore",
+                    "title": "Let Me Go",
+                    "uri": "3YTwCVfJHxdzHbdz1ADCTI"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Albert Hammond",
+                    "title": "Es Facil Amar - Remasterizado",
+                    "uri": "0GuUn8AmixAWalhWCCt5o5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Albert Hammond",
+                    "title": "Es Facil Amar - Remasterizado",
+                    "uri": "0GuUn8AmixAWalhWCCt5o5"
+                },
+                {
+                    "artist": "Albert Hammond",
+                    "title": "It Never Rains in Southern California",
+                    "uri": "6tunhVGD8C05MZNjSVIsjw"
+                },
+                {
+                    "artist": "Albert Hammond",
+                    "title": "For The Peace Of All Mankind",
+                    "uri": "12l2LowNXIVHS660DfjXTz"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Boule Noire",
+                    "title": "Aimer d'amour",
+                    "uri": "2StZPBvnpTBg2rGZqEdQT0"
+                },
+                {
+                    "artist": "Boule Noire",
+                    "title": "Aimer d'amour",
+                    "uri": "3K54DrbkDlu6MVTUpar4uN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Boule Noire",
+                    "title": "Aimer d'amour",
+                    "uri": "2StZPBvnpTBg2rGZqEdQT0"
+                },
+                {
+                    "artist": "Aimer",
+                    "title": "Falling Alone",
+                    "uri": "5nxZvEWTtOiVW8i3enik6t"
+                },
+                {
+                    "artist": "Boule Noire",
+                    "title": "Aimer d'amour",
+                    "uri": "3K54DrbkDlu6MVTUpar4uN"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Manu Chao",
+                    "title": "Bongo Bong",
+                    "uri": "00SmB7n85SKROGjybsyq5i"
+                },
+                {
+                    "artist": "The Andrews Sisters",
+                    "title": "Civilization - Bongo, Bongo, Bongo",
+                    "uri": "4vzdGcuSYJhlscmC1v08Xl"
+                },
+                {
+                    "artist": "Sebastian",
+                    "title": "Este es el Bongo Bongo",
+                    "uri": "1C4ofErYsnipmNLHAYoWny"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Serge Gainsbourg",
+                    "title": "Quand mon 6,35 me fait les yeux doux",
+                    "uri": "4FNitVwe7FXXxmBw8FJQB5"
+                },
+                {
+                    "artist": "Serge Gainsbourg",
+                    "title": "Quand mon 6,35 me fait les yeux doux",
+                    "uri": "5BXxzg0twWp8CpsdwTvwhH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Serge Gainsbourg",
+                    "title": "Quand mon 6,35 me fait les yeux doux",
+                    "uri": "4FNitVwe7FXXxmBw8FJQB5"
+                },
+                {
+                    "artist": "Serge Gainsbourg",
+                    "title": "Quand mon 6,35 me fait les yeux doux",
+                    "uri": "5BXxzg0twWp8CpsdwTvwhH"
+                },
+                {
+                    "artist": "Serge Gainsbourg",
+                    "title": "Baudelaire",
+                    "uri": "5j9Z3X3FAsyZGEdEptMepT"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hendriks",
+                    "title": "Hopen op geluk",
+                    "uri": "7cPkP0ELlAospv8kleuycU"
+                },
+                {
+                    "artist": "Jimi Hendrix",
+                    "title": "Introduction - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+                    "uri": "0bHFzlbjS7LHT1tV2fn6nJ"
+                },
+                {
+                    "artist": "Hendriks",
+                    "title": "Tijdelijk",
+                    "uri": "7fThv0000Vptn3ltz9U5hr"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Ken Nordine",
+                    "title": "Olive",
+                    "uri": "5c9tepdyWBK9eXNJUaIQQI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ken Nordine",
+                    "title": "Olive",
+                    "uri": "5c9tepdyWBK9eXNJUaIQQI"
+                },
+                {
+                    "artist": "Olive Oil",
+                    "title": "OBRDRNX",
+                    "uri": "6XPYKMnjObwjSrBH1F9qRW"
+                },
+                {
+                    "artist": "Ken Navarro",
+                    "title": "Smooth Sensation",
+                    "uri": "1jKOG02lqHnwYXHpyLF3Nd"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "La Kábala",
+                    "title": "Caliente - (You Got It)",
+                    "uri": "70MNqJ4BaEigpxXNCoknsF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "La Kábala",
+                    "title": "Caliente - (You Got It)",
+                    "uri": "70MNqJ4BaEigpxXNCoknsF"
+                },
+                {
+                    "artist": "KABALA",
+                    "title": "Deja de Llorar",
+                    "uri": "7c106Rg4YezVhOICqNnPYQ"
+                },
+                {
+                    "artist": "KABALA",
+                    "title": "Borracho y Amanecido",
+                    "uri": "0M2fl9jzX7NCtA1t9X94aN"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "BM Las Cigarreras",
+                    "title": "Triana",
+                    "uri": "3HrsU7s4J66GLIA7IBRIu3"
+                },
+                {
+                    "artist": "BM Las Cigarreras",
+                    "title": "Esperanza que guía a Triana",
+                    "uri": "58R9qoKBNE0BYYb3iRlLia"
+                },
+                {
+                    "artist": "Banda de Cornetas y Tambores Nuestro Padre Jesus de la Presentacion al Pueblo",
+                    "title": "Así Reza Triana - Live",
+                    "uri": "0E1Pl6gJzcaqFNJ55wUgsr"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Brenda Russell",
+                    "title": "I Want Something to Find Me",
+                    "uri": "5upo62mZD7Gt8a0waSJrfp"
+                },
+                {
+                    "artist": "Brenda Russell",
+                    "title": "Piano In The Dark",
+                    "uri": "7esAUabV6rHcj76syr32Uf"
+                },
+                {
+                    "artist": "Music Travel Love",
+                    "title": "Tequila (Live in Aspen)",
+                    "uri": "1Ap4Ck1o5eAKRXZnuILzLU"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Aminé",
+                    "title": "Charmander",
+                    "uri": "4Aocy7YAyOYf5YHj18Vfj3"
+                },
+                {
+                    "artist": "muque",
+                    "title": "Charming",
+                    "uri": "0clwFdp5TcTNWO6bAe73bM"
+                },
+                {
+                    "artist": "Yitou",
+                    "title": "Je t'invite à danser",
+                    "uri": "1LNtcLdX6wVjhnFIvdFjio"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Henri Dès",
+                    "title": "L'eau c'est de l'or",
+                    "uri": "5D0ttMpj13uJEpvnZQz2PU"
+                },
+                {
+                    "artist": "Gerkin Mateo",
+                    "title": "El Hebreo",
+                    "uri": "2T4JmW9yps56zVnZMykRfD"
+                },
+                {
+                    "artist": "Los Voceros de Cristo",
+                    "title": "La historia de Benito",
+                    "uri": "1cyiJy0adaU9DjJAundaYG"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Haziz",
+                    "title": "Shabtai",
+                    "uri": "2hIAdQm8A51SgZqu4hsr7N"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Haziz",
+                    "title": "Shabtai",
+                    "uri": "2hIAdQm8A51SgZqu4hsr7N"
+                },
+                {
+                    "artist": "The Zenmenn",
+                    "title": "The Legend Of Haziz - Cover of Shabtai by Haziz",
+                    "uri": "1F2jefhJxDUnEdMGnHEgIb"
+                },
+                {
+                    "artist": "Tarek El Sheikh",
+                    "title": "Ghariba",
+                    "uri": "203epkxqsaOvvX5siwAKO3"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": ""
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Wilson Das Neves",
+                    "title": "Fragmentos do Amor",
+                    "uri": "2yL3wT95IbwFtSCwOOiSlf"
+                },
+                {
+                    "artist": "Wilson Camey",
+                    "title": "Amar a Cristo",
+                    "uri": "10b8SXMLrmprlqlnkzpDx7"
+                },
+                {
+                    "artist": "Wilson Camey",
+                    "title": "Solo de Jesus La Sangre - En Vivo",
+                    "uri": "6xF9cV7MkkzDJU0pAFJMYC"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ed Carlos",
+                    "title": "Você Não Tem o Direito de Agir Assim - ED CARLOS",
+                    "uri": "6psYOKSzVRNeH7WfbsDdnF"
+                },
+                {
+                    "artist": "Liene Show",
+                    "title": "Caminhos do Sol",
+                    "uri": "66lcmhHgHvQGbAu2uk2PyL"
+                },
+                {
+                    "artist": "Evaldo Cardoso",
+                    "title": "No Meu Caminhão",
+                    "uri": "1cPbvhNDmjoqKD24XcJzl4"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Cezar de Mercês",
+                    "title": "Grande / Pequeno",
+                    "uri": "5BUHlJcNKdU2Tt99t9BpYN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cezar de Mercês",
+                    "title": "Grande / Pequeno",
+                    "uri": "5BUHlJcNKdU2Tt99t9BpYN"
+                },
+                {
+                    "artist": "Cesar De Guatemala",
+                    "title": "Sh... Boom",
+                    "uri": "4I6Albmvt7knP4npY6hqaE"
+                },
+                {
+                    "artist": "César Romero",
+                    "title": "Pico e Pala Meu!",
+                    "uri": "0yT8uA6NlYOCRBuRiVX4LD"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Enzo Carella",
+                    "title": "Contatto",
+                    "uri": "0D5c9DhHw6WYg6ckWUPdxV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Enzo Carella",
+                    "title": "Contatto",
+                    "uri": "0D5c9DhHw6WYg6ckWUPdxV"
+                },
+                {
+                    "artist": "Enzo Carniel",
+                    "title": "For All We Know",
+                    "uri": "7BeFHCnsKUGNRb1z4wVdOK"
+                },
+                {
+                    "artist": "Enzo La Mattina",
+                    "title": "Il Tramonto",
+                    "uri": "1wHO9UPhBh1b7kg0JOBlSd"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alan Sorrenti",
+                    "title": "Figli Delle Stelle - Remastered 2017",
+                    "uri": "4wECg73vCUg8N5RE8jXmEP"
+                },
+                {
+                    "artist": "Alan Sorrenti",
+                    "title": "Tu sei l’unica donna per me",
+                    "uri": "4nOvlV13vhlg2UM2l54XGG"
+                },
+                {
+                    "artist": "Alan Sorrenti",
+                    "title": "Figli Delle Stelle",
+                    "uri": "05XmwlgvXAgViBa9woDhVS"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Manzanito",
+                    "title": "Wenamecheinsama - A capela",
+                    "uri": "5Y62eXR1k1HV910DSZnAjp"
+                },
+                {
+                    "artist": "Pinpin OSP",
+                    "title": "Manzel La Vey",
+                    "uri": "13L4bvTqe19VWGwoQuFBQC"
+                },
+                {
+                    "artist": "Cheba Manel",
+                    "title": "Manzidch Naachek",
+                    "uri": "7hsD40ZK2vX4PdDfvq0skR"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "David Buckland",
+                    "title": "Celia",
+                    "uri": "08PWhgszMXwwsEWMw0jRC7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "David Buckland",
+                    "title": "Celia",
+                    "uri": "08PWhgszMXwwsEWMw0jRC7"
+                },
+                {
+                    "artist": "Celia Cloten",
+                    "title": "Je Te Manque?",
+                    "uri": "3OH8rKFY3rNV6Y7HMIate7"
+                },
+                {
+                    "artist": "David Baldacci",
+                    "title": "Kapitel 1 - Finstere Lügen",
+                    "uri": "4EOJdxRCxflav1xFSkOZSe"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lebrón Brothers",
+                    "title": "Musica, Musica, Musica",
+                    "uri": "1ZPKfrtQn0jF1UBj5wet2w"
+                },
+                {
+                    "artist": "Lebrón Brothers",
+                    "title": "Salsa Y Control",
+                    "uri": "2klcxsjL2wQbEwLBZtskut"
+                },
+                {
+                    "artist": "Micky Mao",
+                    "title": "Lebron James - Instrumental",
+                    "uri": "36l7pXS0TFIkoNb6c7XDza"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Galileo Galilei",
+                    "title": "夏空",
+                    "uri": "0LmI2mmiVIwVs9D8q2rjRM"
+                },
+                {
+                    "artist": "Galileo Galilei",
+                    "title": "クライマー",
+                    "uri": "0var06tEoXUqS76RScrCCP"
+                },
+                {
+                    "artist": "Galileo Galilei",
+                    "title": "死んでくれ",
+                    "uri": "3zriGDrUvCWdY40Gd1xZGf"
+                }
+            ]
+        },
+        "25": {
+            "s0": [
+                {
+                    "artist": "Lizzy Mercier Descloux",
+                    "title": "Jim on the Move",
+                    "uri": "26PBY5fcinRDb4xPKqD8pI"
+                },
+                {
+                    "artist": "Lizzy Mercier Descloux",
+                    "title": "Jim on the Move",
+                    "uri": "1dELN3eh4fwNvoi6SqWW3F"
+                },
+                {
+                    "artist": "Lizzy Mercier Descloux",
+                    "title": "Jim on the Move",
+                    "uri": "6jDjIHjFqJ8YKu04Pz11WL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lizzy Mercier Descloux",
+                    "title": "Jim on the Move",
+                    "uri": "26PBY5fcinRDb4xPKqD8pI"
+                },
+                {
+                    "artist": "Lizzy Mercier Descloux",
+                    "title": "Jim on the Move",
+                    "uri": "1dELN3eh4fwNvoi6SqWW3F"
+                },
+                {
+                    "artist": "Lizzy Mercier Descloux",
+                    "title": "Nina Con Un Terer Ojo",
+                    "uri": "7BovLg3z5P9hcvGyT5CGiV"
+                }
+            ]
+        },
+        "26": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mikado",
+                    "title": "NAUFRAGE EN HIVER",
+                    "uri": "63SHQPpUX6CVS4apTbwuLB"
+                },
+                {
+                    "artist": "7",
+                    "title": "は？",
+                    "uri": "6REPi70h6SJETgzJ5msqmz"
+                },
+                {
+                    "artist": "Dave Mc Loud",
+                    "title": "MIKADO",
+                    "uri": "0WkBt7xRUDmaFVbRRqhk5F"
+                }
+            ]
+        },
+        "27": {
+            "s0": [
+                {
+                    "artist": "Precious Bloom",
+                    "title": "Consequences",
+                    "uri": "2U3VTSvCAADkqGdgJV4Mno"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Precious Bloom",
+                    "title": "Teka Teki Asmara",
+                    "uri": "7iN4TXD1qsjIDHwoHzqvaj"
+                },
+                {
+                    "artist": "Precious Bloom",
+                    "title": "Dawn of The Eclipse",
+                    "uri": "1whhu1ODsiEOflZnzeurhh"
+                },
+                {
+                    "artist": "avex ROYALBRATS",
+                    "title": "Precious",
+                    "uri": "6669CTlzPhn8zza2x9tvHP"
+                }
+            ]
+        },
+        "28": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DIMENSION",
+                    "title": "Beat #5",
+                    "uri": "6mu7niajgv8eZrSSb0tH1N"
+                },
+                {
+                    "artist": "Kobaryo",
+                    "title": "Dimension Hacker",
+                    "uri": "0CDXfS5Yesdarx7NmzsRU9"
+                },
+                {
+                    "artist": "tripleS",
+                    "title": "Dimension (AAA Ver.)",
+                    "uri": "5kuOlpBAyvhO76SlapYGTQ"
+                }
+            ]
+        },
+        "29": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alceu Valença",
+                    "title": "Me dá um Beijo - Ao Vivo",
+                    "uri": "5RfRhFUe9hErAz5Tn4kj9e"
+                },
+                {
+                    "artist": "Alceu Valença",
+                    "title": "O Homem da Meia-Noite",
+                    "uri": "16s7nqR24c6qtfGANRV0MJ"
+                },
+                {
+                    "artist": "João Batista",
+                    "title": "Me Dá uma Chance?",
+                    "uri": "4P9R9fUYTaNNgOIj0MRuXE"
+                }
+            ]
+        },
+        "30": {
+            "s0": [
+                {
+                    "artist": "Os Brazoes",
+                    "title": "Que Maravilha",
+                    "uri": "7bxZ7gAIkQRrcHNavmt59k"
+                },
+                {
+                    "artist": "Os Brazoes",
+                    "title": "Que Maravilha",
+                    "uri": "63tSZw11nw8zARN4fdCwIZ"
+                },
+                {
+                    "artist": "Os Brazoes",
+                    "title": "Que Maravilha",
+                    "uri": "34l547DDQTdewjL6n5vjyX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Os Brazoes",
+                    "title": "Que Maravilha",
+                    "uri": "7bxZ7gAIkQRrcHNavmt59k"
+                },
+                {
+                    "artist": "Os Brazoes",
+                    "title": "Que Maravilha",
+                    "uri": "63tSZw11nw8zARN4fdCwIZ"
+                },
+                {
+                    "artist": "Iglesia de Cristo Ebenezer Honduras",
+                    "title": "Los Brazos Del Padre",
+                    "uri": "5MoXokjLJCTkhaCx5YFwo7"
+                }
+            ]
+        },
+        "31": {
+            "s0": [
+                {
+                    "artist": "Compass",
+                    "title": "Sunflower",
+                    "uri": "7vmxRsGRySfQX6pmGBUj6J"
+                },
+                {
+                    "artist": "Buzz Compass",
+                    "title": "Little Sunflower",
+                    "uri": "4TSK8fDwbCvKsK5vj2ZmVP"
+                },
+                {
+                    "artist": "Follow the Compass",
+                    "title": "Sunflowers",
+                    "uri": "40cy7foqxjGwb71SgF6H3c"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Saigenji",
+                    "title": "Sunflower (Jinga)",
+                    "uri": "1iJrjNWpiHgTCJ02Ycqb1a"
+                },
+                {
+                    "artist": "Saigenji",
+                    "title": "Sunflower （J-inga） - LIVE",
+                    "uri": "3xNTPfG94wtHvosCWKWgaY"
+                },
+                {
+                    "artist": "Re:vale",
+                    "title": "compass",
+                    "uri": "5mFcWIu1sLJfdAN5lzJ7rJ"
+                }
+            ]
+        }
+    },
     "soup-to-nuts-coco-maria-30th-january-2024": {
         "00": {
             "s0": "",

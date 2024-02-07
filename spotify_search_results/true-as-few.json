@@ -3457,6 +3457,150 @@
             ]
         }
     },
+    "true-as-few-6th-february-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Josep Soler",
+                    "title": "Sonata No. 10: I. Tranquillo",
+                    "uri": "75DdtKqVlcu6o82MyhuUiC"
+                },
+                {
+                    "artist": "Josep Soler",
+                    "title": "Sonata No. 10: II. Molto Tranquillo",
+                    "uri": "0LWU2ocMX7QlcLmFAHDA3o"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Josep Soler",
+                    "title": "Sonata No. 10: I. Tranquillo",
+                    "uri": "75DdtKqVlcu6o82MyhuUiC"
+                },
+                {
+                    "artist": "Josep Soler",
+                    "title": "Sonata No. 10: II. Molto Tranquillo",
+                    "uri": "0LWU2ocMX7QlcLmFAHDA3o"
+                },
+                {
+                    "artist": "Antonio Soler",
+                    "title": "Sonata No. 88, in D-Flat Major",
+                    "uri": "0HadVkr1PqB6N56CRr9WAq"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gustav Mahler",
+                    "title": "Mahler: Symphony No. 8 in E-Flat Major \"Of a Thousand\", Pt. 2 \"Final Scene from Faust\": XIV. Komm! Komm!",
+                    "uri": "5YlBE9PrPagZzTL6krJDQc"
+                },
+                {
+                    "artist": "Gustav Mahler",
+                    "title": "Symphony No. 1 in D Major: I. Langsam, schleppend - Immer sehr gemächlich - Live",
+                    "uri": "4AzIL3IcM0gnb5HEnUYLrQ"
+                },
+                {
+                    "artist": "Gustav Mahler",
+                    "title": "Symphony No. 3 in D Minor: I. Kräftig. Entschieden",
+                    "uri": "5CZVhuJJKFlmM9PjrAmLS9"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Josep Soler Sarda",
+                    "title": "String Quartet No. 1",
+                    "uri": "5PejyPHigDZdehZbDnVAIx"
+                },
+                {
+                    "artist": "Josep Soler Sarda",
+                    "title": "String Quartet No. 1",
+                    "uri": "0BU5EtEqaxXxEmsNy6nyhe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Josep Soler Sarda",
+                    "title": "String Quartet No. 1",
+                    "uri": "5PejyPHigDZdehZbDnVAIx"
+                },
+                {
+                    "artist": "Josep Soler Sarda",
+                    "title": "String Quartet No. 1",
+                    "uri": "0BU5EtEqaxXxEmsNy6nyhe"
+                },
+                {
+                    "artist": "Eder Quartet",
+                    "title": "String Quartet No. 2 in D Major, K. 155: III. Molto allegro",
+                    "uri": "3zQSHezFD67KjBoSTKtqET"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Juan María Solare",
+                    "title": "Chattahoochee River",
+                    "uri": "4imQliWd0EQbKdRUavwIjs"
+                },
+                {
+                    "artist": "Arlberger Soatnmusi",
+                    "title": "Marienlieder",
+                    "uri": "2arJgg2QxQN68SmIJx40nR"
+                },
+                {
+                    "artist": "Martin D.C. Bruch",
+                    "title": "Die Geburt Jesu - Voice only Version",
+                    "uri": "61jubsWDgewHSTv98nUnuX"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Joseph Solomon",
+                    "title": "Godspeed",
+                    "uri": "497dDCmmQD5uX231nJeoxb"
+                },
+                {
+                    "artist": "Joseph Solomon",
+                    "title": "Home",
+                    "uri": "7hcsCwpHEfboOPMrAPtTJc"
+                },
+                {
+                    "artist": "Joseph Solomon",
+                    "title": "Gold",
+                    "uri": "5dAD6gxUH9Bo9nwsKNHRo0"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Paul Cortese",
+                    "title": "Soler: Sonata Per a Viola I Piano Sobre un Tema de Verdi",
+                    "uri": "5ysAKWZHx8OrdidYDt8Scm"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Sonata for Viola da Gamba in G Major, BWV 1027: III. Andante (Arr. for Viola)",
+                    "uri": "0ORXSpGcDBab4dobjq0Eub"
+                },
+                {
+                    "artist": "Arcangelo Corelli",
+                    "title": "Sonata a violono e violone e cimbalo, Op. 5, Sonata No.11 in E: II.Allegro",
+                    "uri": "6copqnozlU7klnzLV5em9d"
+                }
+            ]
+        }
+    },
     "true-as-few-7th-february-2023": {
         "00": {
             "s0": "",
