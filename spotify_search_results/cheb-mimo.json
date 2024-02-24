@@ -1243,5 +1243,378 @@
                 }
             ]
         }
+    },
+    "cheb-mimo-dar-disku-21st-february-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Ahmed Fakroun",
+                    "title": "Ansani",
+                    "uri": "5htYetf14J9eXdyaBdLNUc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ahmed Fakroun",
+                    "title": "Ansani",
+                    "uri": "5htYetf14J9eXdyaBdLNUc"
+                },
+                {
+                    "artist": "Ahmed Fakroun",
+                    "title": "Snini",
+                    "uri": "6PYLpfV1Wt5nlS97r240Z9"
+                },
+                {
+                    "artist": "Ahmed Fahmi",
+                    "title": "Elly Msabbarny",
+                    "uri": "1MKZLvhBmITkxb4nXKdEDd"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Jets",
+                    "title": "Make It Real",
+                    "uri": "0QWoIBZXd9FbVf0M7hVcmt"
+                },
+                {
+                    "artist": "Palak Gujela",
+                    "title": "Aaja Nindiya Rani Aaja - Hindi",
+                    "uri": "3A8F9LoUSLGkzA9YiZ1FnR"
+                },
+                {
+                    "artist": "Nikul Sabalpara",
+                    "title": "Aaja Mahi",
+                    "uri": "4fyumm7EEK4wWR4a568DdR"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Cheb Hasni",
+                    "title": "Saadini nahjar maak",
+                    "uri": "2giKZraLwbCWVEwy3VW6IV"
+                },
+                {
+                    "artist": "Cheb Hasni",
+                    "title": "Sâadini",
+                    "uri": "7gsnLQHZiGWdpwL7oOJvPa"
+                },
+                {
+                    "artist": "Cheb Hasni",
+                    "title": "Sâadini",
+                    "uri": "6fkebgIr5Uoom2HWHDw1Xp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cheb Hasni",
+                    "title": "Sâadini",
+                    "uri": "7gsnLQHZiGWdpwL7oOJvPa"
+                },
+                {
+                    "artist": "Cheb Hasni",
+                    "title": "Saâdini Nehdjar Maak",
+                    "uri": "5v7jzHTHRVPyNBinMDgtmj"
+                },
+                {
+                    "artist": "Cheb Hasni",
+                    "title": "Rouhi ghaybi",
+                    "uri": "3uKw6uyl9a8mGoQB1RTonP"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Bashar Salman",
+                    "title": "Mediterranean",
+                    "uri": "5fMWW9G97UX5etnYQlolhH"
+                },
+                {
+                    "artist": "Bashar Sharifah",
+                    "title": "Syrian Medly",
+                    "uri": "4IYjUAcu3XbzFO7SllybHT"
+                },
+                {
+                    "artist": "Akbar Basharov",
+                    "title": "Meditation",
+                    "uri": "4NNFQTSWOTkYxFWAZ53KYG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ahmed Mekky",
+                    "title": "El Rap Ya Bashar",
+                    "uri": "6LpxcqYERZtY7SBa19ZbUS"
+                },
+                {
+                    "artist": "Bashar",
+                    "title": "Ai Slave",
+                    "uri": "7cN0TqFkLAXjRANJUERddv"
+                },
+                {
+                    "artist": "Bilal Ashraf",
+                    "title": "Medley",
+                    "uri": "39foYhJEnH5iEr7vymkIbg"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alabina",
+                    "title": "Alabina - Remix Club",
+                    "uri": "7cq8vwxzexEioUuoawIGRj"
+                },
+                {
+                    "artist": "Al Bano And Romina Power",
+                    "title": "Parigi E' Bella",
+                    "uri": "43yp4JN7toQjPUt2gNW8if"
+                },
+                {
+                    "artist": "Jabibis",
+                    "title": "Alabina",
+                    "uri": "5L7ulR5EQem0sW5zo9ONq2"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Amar Ezzahi",
+                    "title": "Ya Layem La Tloumni",
+                    "uri": "4VPRGYjyrzjZY6zPPq40IO"
+                },
+                {
+                    "artist": "Alka Yagnik",
+                    "title": "Amar Ei Gaan",
+                    "uri": "0fmH0Pyjpq9d2yuoiTaiYF"
+                },
+                {
+                    "artist": "Ariful Islam",
+                    "title": "Amar Hridoy Kalo",
+                    "uri": "3IQ4WhRzbDgbXHHNEAv6t5"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Nasro",
+                    "title": "Chta dani nehki saari",
+                    "uri": "68bDEjady5Qiy8W8NtvGBb"
+                },
+                {
+                    "artist": "Cheb Nasro",
+                    "title": "Chta dani nehki saari",
+                    "uri": "6KKv5lR22t8FAvVovpnknz"
+                },
+                {
+                    "artist": "Nasro",
+                    "title": "Chta dani nehki saari",
+                    "uri": "0cZqoj8b75TorPlyoGOHKB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nasro",
+                    "title": "Chta dani nehki saari",
+                    "uri": "68bDEjady5Qiy8W8NtvGBb"
+                },
+                {
+                    "artist": "Cheb Nasro",
+                    "title": "Chta dani nehki saari",
+                    "uri": "6KKv5lR22t8FAvVovpnknz"
+                },
+                {
+                    "artist": "Nasro",
+                    "title": "Chta dani nehki saari",
+                    "uri": "0cZqoj8b75TorPlyoGOHKB"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Jessy Matador",
+                    "title": "Dansez (feat. Daddy Killa)",
+                    "uri": "7tZY3CMfzcuqAyl0PrPasg"
+                },
+                {
+                    "artist": "Jessy Matador",
+                    "title": "Dansez (feat. Daddy Killa) [radio edit]",
+                    "uri": "4appl7iuEYJa1DBowr39r5"
+                },
+                {
+                    "artist": "Jessy Matador",
+                    "title": "Danse danse (feat. Zahouania) [by Dj Kim]",
+                    "uri": "4gF6HoDAZvWA0WkvrXI274"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jessy Matador",
+                    "title": "Dansez (feat. Daddy Killa)",
+                    "uri": "7tZY3CMfzcuqAyl0PrPasg"
+                },
+                {
+                    "artist": "Jessy Matador",
+                    "title": "Danse danse (feat. Zahouania) [by Dj Kim]",
+                    "uri": "4gF6HoDAZvWA0WkvrXI274"
+                },
+                {
+                    "artist": "Jessy Matador",
+                    "title": "Allez Ola Olé",
+                    "uri": "1xSl7uE9De7aLDEGXahCJB"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Taifa Issawiya",
+                    "title": "El Gnaoui",
+                    "uri": "3jCAe92SNMxSvfIp6LSf1B"
+                },
+                {
+                    "artist": "Cee-G Badazz",
+                    "title": "Moumia2",
+                    "uri": "5OYfrODjgGIeTJTKaebuum"
+                },
+                {
+                    "artist": "Young BG Officiel",
+                    "title": "Gninai",
+                    "uri": "0eRhqjcswtS2HSwjzbY9QZ"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Leston Paul",
+                    "title": "Dancin",
+                    "uri": "0yOsBLiYHDNjC3En6d1h62"
+                },
+                {
+                    "artist": "Leston Paul",
+                    "title": "Fire In The Area",
+                    "uri": "0IMHeZLqFm8IB2CwuBnX8O"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Doni Nicole",
+                    "title": "MasterPlan 2",
+                    "uri": "5bAVM6FyQFVD9LMhmtew3g"
+                },
+                {
+                    "artist": "Doni Nicole",
+                    "title": "MasterPlan 1",
+                    "uri": "4MuGAbg6PkhcLyMLHcJoPI"
+                },
+                {
+                    "artist": "Atlantic Starr",
+                    "title": "Masterpiece",
+                    "uri": "2sm3HfTCt3O6R6qUc5f6xb"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ayman Tahoun",
+                    "title": "Contat",
+                    "uri": "4JIa8XHtJBcqNzt9IbYxzE"
+                },
+                {
+                    "artist": "Ayman Zaxoy",
+                    "title": "Khigga & Siskany - Live",
+                    "uri": "4kiPpxjK2ymfqLvtU2Etqf"
+                },
+                {
+                    "artist": "Kamel Raiah",
+                    "title": "Ayema",
+                    "uri": "1WCznmAORCRD0kz0H83XXk"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Paco Versailles",
+                    "title": "Big World",
+                    "uri": "5fHSAKde49ELSgjy3ARYzD"
+                },
+                {
+                    "artist": "Paco Silva y su Tropa Colombiana",
+                    "title": "Se Baila Así",
+                    "uri": "5yHRbZSFBSH8Yp6encmWQJ"
+                },
+                {
+                    "artist": "Paco Silva y su Tropa Colombiana",
+                    "title": "La Negra Parrandera",
+                    "uri": "0eEmYBXI6SFDiSCbwRbZxI"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Syphax Band",
+                    "title": "Rhenni",
+                    "uri": "59TeFKtBDK9UM3ipUCpaQT"
+                },
+                {
+                    "artist": "Syphax Band",
+                    "title": "Al Hoceima",
+                    "uri": "2nlaIPMh4QJsVTzoxlFOaS"
+                },
+                {
+                    "artist": "SIRUP",
+                    "title": "Synapse (Chocoholic Remix)",
+                    "uri": "6C1DuoRufctUhuwkSoUeak"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Grup Vitamin",
+                    "title": "Dozer Abuzer",
+                    "uri": "55rrx7BBtcn9sBVpmBsY0N"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Grup Vitamin",
+                    "title": "Dozer Abuzer",
+                    "uri": "55rrx7BBtcn9sBVpmBsY0N"
+                },
+                {
+                    "artist": "CAN",
+                    "title": "Vitamin C",
+                    "uri": "3EuaSft3ZBTflEwNGCdIQW"
+                },
+                {
+                    "artist": "THORE",
+                    "title": "Vitamin C",
+                    "uri": "3fVFMqmfgD9lFeip0WOqj3"
+                }
+            ]
+        }
     }
 }

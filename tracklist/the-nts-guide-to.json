@@ -12404,6 +12404,52 @@
             "title": "Fantastic Mokondo Gentil"
         }
     },
+    "the-nts-guide-to-after-sabbath-9th-february-2024": {
+        "00": {
+            "artist": "High Tide",
+            "title": "Pushed, But Not Forgotten"
+        },
+        "01": {
+            "artist": "Leaf Hound",
+            "title": "Sad Road To The Sea"
+        },
+        "02": {
+            "artist": "Dark",
+            "title": "Darkside"
+        },
+        "03": {
+            "artist": "Blonde On Blonde",
+            "title": "Heart Without A Home"
+        },
+        "04": {
+            "artist": "Daemon",
+            "title": "Entrance To Hell (1971, UK)"
+        },
+        "05": {
+            "artist": "UFO",
+            "title": "Silver Bird"
+        },
+        "06": {
+            "artist": "Sam Gopal",
+            "title": "Cold Embrace"
+        },
+        "07": {
+            "artist": "Gun",
+            "title": "Dreams And Screams"
+        },
+        "08": {
+            "artist": "Jerusalem",
+            "title": "Frustration"
+        },
+        "09": {
+            "artist": "The Open Mind",
+            "title": "Cast A Spell"
+        },
+        "10": {
+            "artist": "Cycle",
+            "title": "Father Of Time"
+        }
+    },
     "the-nts-guide-to-ambient-americana-16th-february-2023": {
         "00": {
             "artist": "Ry Cooder",
@@ -12912,6 +12958,88 @@
             "title": "Yswr Ymennydd"
         }
     },
+    "the-nts-guide-to-australian-folk-and-country-21st-february-2024": {
+        "00": {
+            "artist": "Martyn Wyndham-Read",
+            "title": "Jamie Raeburn's Farewell"
+        },
+        "01": {
+            "artist": "Glen Tomasetti",
+            "title": "The Wild Colonial Boy"
+        },
+        "02": {
+            "artist": "Cathie O'Sullivan",
+            "title": "Song Of Artesian Waters"
+        },
+        "03": {
+            "artist": "Ewan MacColl, ",
+            "title": "South Australia"
+        },
+        "04": {
+            "artist": "David Lumsden",
+            "title": "Thousand Miles Away"
+        },
+        "05": {
+            "artist": "The Moreton Bay Bushwhackers",
+            "title": "The Cane Cutter's Lament"
+        },
+        "06": {
+            "artist": "Denis Gibbons",
+            "title": "The Dying Stockman"
+        },
+        "07": {
+            "artist": "Declan Affley",
+            "title": "Mulga Maxims"
+        },
+        "08": {
+            "artist": "Martyn Wyndham-Read",
+            "title": "Jim Jones"
+        },
+        "09": {
+            "artist": "Denis Gibbons",
+            "title": "Botany Bay"
+        },
+        "10": {
+            "artist": "Jimmy Little",
+            "title": "Mysteries Of Life"
+        },
+        "11": {
+            "artist": "Dave de Hugard",
+            "title": "Then Give Me A Hut In My Own Native Land"
+        },
+        "12": {
+            "artist": "Unknown Artist",
+            "title": "Lachlan Tiger"
+        },
+        "13": {
+            "artist": "Dougie Young",
+            "title": "The Land Where The Crow Flies Backwards"
+        },
+        "14": {
+            "artist": "Buddy Williams",
+            "title": "The Kelly Gang"
+        },
+        "15": {
+            "artist": "Slim Dusty",
+            "title": "My Faded Dream"
+        },
+        "16": {
+            "artist": "Gary Shearston",
+            "title": "Put A Light In Every Country Window"
+        },
+        "17": {
+            "artist": "Tex Morton",
+            "title": "Freight Train Yodel"
+        },
+        "18": {
+            "artist": "Bizony & Dempsey Knight",
+            "title": "I Don't Care Who Knows"
+        },
+        "19": {
+            "artist": "Chad Morgan",
+            "title": "The Sheik Of Scrubby Creek"
+        }
+    },
     "the-nts-guide-to-avant-garde-jazz-of-blue-note-records-30th-november-2023": {
         "00": {
             "artist": "Anthony Williams",
@@ -13226,6 +13354,88 @@
         "18": {
             "artist": "John Lee Hooker",
             "title": "Burnin' Hell"
+        }
+    },
+    "the-nts-guide-to-bolero-13th-february-2024": {
+        "00": {
+            "artist": "Frank Dominguez",
+            "title": "Imágenes"
+        },
+        "01": {
+            "artist": "José Antonio Méndez",
+            "title": "Si Me Comprendieras"
+        },
+        "02": {
+            "artist": "Agustín Lara",
+            "title": "Santa"
+        },
+        "03": {
+            "artist": "Álvaro Carrillo",
+            "title": "Cancionero"
+        },
+        "04": {
+            "artist": "María Alma",
+            "title": "No Me Hables De Ese Amor"
+        },
+        "05": {
+            "artist": "Los Tres Reyes",
+            "title": "Sin Ti"
+        },
+        "06": {
+            "artist": "Los 3 Ases",
+            "title": "Estoy Perdido"
+        },
+        "07": {
+            "artist": "María Alma",
+            "title": "Si Fueras Sincero"
+        },
+        "08": {
+            "artist": "Los Tres Diamantes",
+            "title": "Soberbia"
+        },
+        "09": {
+            "artist": "Eydie Gorme, ",
+            "title": "Sabor A Mí"
+        },
+        "10": {
+            "artist": "Trio Los Panchos",
+            "title": "Bésame Mucho"
+        },
+        "11": {
+            "artist": "Celia Cruz, ",
+            "title": "Cuando Estoy Contigo"
+        },
+        "12": {
+            "artist": "Álvaro Carrillo",
+            "title": "Popurrí, Amor Mío, Sabrá Dios, Sabor A Mí"
+        },
+        "13": {
+            "artist": "Eydie Gormé",
+            "title": "No Te Vayas Sin Mí"
+        },
+        "14": {
+            "artist": "Matilde Diaz, ",
+            "title": "Indiferencia"
+        },
+        "15": {
+            "artist": "Los Tres Caballeros",
+            "title": "Siete Noches"
+        },
+        "16": {
+            "artist": "Cuarteto D'Aida",
+            "title": "Profecía"
+        },
+        "17": {
+            "artist": "José Antonio Méndez",
+            "title": "No Crees En Mi Amor"
+        },
+        "18": {
+            "artist": "Los Dandys",
+            "title": "Tres Regalos "
+        },
+        "19": {
+            "artist": "José Antonio Méndez",
+            "title": "Soy Tan Feliz"
         }
     },
     "the-nts-guide-to-brick-squad-vol-1-18th-january-2024": {
@@ -16095,6 +16305,104 @@
             "title": "I Ruined Them All"
         }
     },
+    "the-nts-guide-to-songs-of-love-and-lust-14th-february-2024": {
+        "00": {
+            "artist": "Norman Kennedy",
+            "title": "Night Visiting Song"
+        },
+        "01": {
+            "artist": "Anne Briggs",
+            "title": "Gathering Rushes In The Month Of May"
+        },
+        "02": {
+            "artist": "The Yetties",
+            "title": "Pretty Nancy Of Weymouth"
+        },
+        "03": {
+            "artist": "Unknown Artist",
+            "title": "A Longing Desire"
+        },
+        "04": {
+            "artist": "Mister \"X\"",
+            "title": "The Red Light Saloon"
+        },
+        "05": {
+            "artist": "Terri \"Cup-Cake\" O'Mason",
+            "title": "Honey-Bun Ball"
+        },
+        "06": {
+            "artist": "Clara Smith",
+            "title": "It's Tight Like That"
+        },
+        "07": {
+            "artist": "Isla Cameron, ",
+            "title": "Blow The Candles Out"
+        },
+        "08": {
+            "artist": "Anne Briggs",
+            "title": "The Stonecutter Boy"
+        },
+        "09": {
+            "artist": "Bessie Smith",
+            "title": "Empty Bed Blues"
+        },
+        "10": {
+            "artist": "Isla Cameron, ",
+            "title": "Take Me Out Of Pity"
+        },
+        "11": {
+            "artist": "Unknown Artist",
+            "title": "A Baby That's Not My Own"
+        },
+        "12": {
+            "artist": "Isla Cameron, ",
+            "title": "Oh, No John, No John, No!"
+        },
+        "13": {
+            "artist": "Unknown Artist",
+            "title": "Go Out And Hustle"
+        },
+        "14": {
+            "artist": "Lil Johnson",
+            "title": "Rock That Thing"
+        },
+        "15": {
+            "artist": "Lil Johnson",
+            "title": "Press My Button (Ring My Bell)"
+        },
+        "16": {
+            "artist": "Memphis Minnie",
+            "title": "Bumble Bee Blues"
+        },
+        "17": {
+            "artist": "All Around Man",
+            "title": "Bo Carter"
+        },
+        "18": {
+            "artist": "Blind Lemon Jefferson",
+            "title": "Bed Springs Blues "
+        },
+        "19": {
+            "artist": "Tampa Joe And Macon Ed",
+            "title": "Wringing That Thing "
+        },
+        "20": {
+            "artist": "Blind Boy Fuller",
+            "title": "Truckin' My Blues Away"
+        },
+        "21": {
+            "artist": "Bo Carter",
+            "title": "Please Warm My Weiner"
+        },
+        "22": {
+            "artist": "Tampa Red And Georgia Tom",
+            "title": "It's Tight Like That (1928)"
+        },
+        "23": {
+            "artist": "Robert Johnson",
+            "title": "They're Red Hot "
+        }
+    },
     "the-nts-guide-to-soul-and-disco-covered-in-reggae-15th-june-2023": {
         "00": {
             "artist": "The Heptones",
@@ -16221,6 +16529,72 @@
         "13": {
             "artist": "Hirasawa Susumu",
             "title": "Behelit"
+        }
+    },
+    "the-nts-guide-to-taiwanese-folk-19th-february-2024": {
+        "00": {
+            "artist": "美黛, ",
+            "title": "昨日今日明日"
+        },
+        "01": {
+            "artist": "Lily Chao",
+            "title": "誰能知道我的情 (Who Can Know My Heart)"
+        },
+        "02": {
+            "artist": "美黛, ",
+            "title": "忘也忘不了"
+        },
+        "03": {
+            "artist": "往事只能回味",
+            "title": "尤雅"
+        },
+        "04": {
+            "artist": "Lily Chao",
+            "title": "玫瑰花兒為誰開 (Whose Blooming Rose)"
+        },
+        "05": {
+            "artist": "尤雅",
+            "title": "我找到自己"
+        },
+        "06": {
+            "artist": "美黛, ",
+            "title": "絕望的愛"
+        },
+        "07": {
+            "artist": "有我就有你",
+            "title": "尤雅"
+        },
+        "08": {
+            "artist": "葉楓",
+            "title": "晚霞 (1959) Digitally Remastered"
+        },
+        "09": {
+            "artist": "Lily Chao",
+            "title": "扡起你的蓋頭 (Lift Your Veil)"
+        },
+        "10": {
+            "artist": "静婷",
+            "title": "明日之歌 = Song Of Tomorrow"
+        },
+        "11": {
+            "artist": "美黛, ",
+            "title": "美夢成真"
+        },
+        "12": {
+            "artist": "周璇",
+            "title": "天涯歌女 Zhou Xuan"
+        },
+        "13": {
+            "artist": "默默祝福你",
+            "title": "尤雅"
+        },
+        "14": {
+            "artist": "劉家昌",
+            "title": "只有我和你"
+        },
+        "15": {
+            "artist": "楊小萍 Yang Xiao Ping",
+            "title": "今夜雨濛濛 Jin Ye Yu Meng Meng"
         }
     },
     "the-nts-guide-to-tele-music-15th-february-2023": {
@@ -16605,6 +16979,100 @@
         "37": {
             "artist": "Mr. Fingers",
             "title": "Can You Feel It"
+        }
+    },
+    "the-nts-guide-to-uk-chill-drill-vol-ii-15th-february-2024": {
+        "00": {
+            "artist": "Cristale",
+            "title": "13 Going On 30"
+        },
+        "01": {
+            "artist": "Skiifall",
+            "title": "Left The Trenches"
+        },
+        "02": {
+            "artist": "NEMZZZ",
+            "title": "8AM IN MANNY"
+        },
+        "03": {
+            "artist": "El Londo",
+            "title": "MESSY W_ DA"
+        },
+        "04": {
+            "artist": "Sainté",
+            "title": "Reference"
+        },
+        "05": {
+            "artist": "Knucks",
+            "title": "Daily Duppy (Feat. GRM Daily)"
+        },
+        "06": {
+            "artist": "Feux",
+            "title": "CLOUD NINE W_ ASHBECK"
+        },
+        "07": {
+            "artist": "Sainté",
+            "title": "03'"
+        },
+        "08": {
+            "artist": "Chy Cartier",
+            "title": "BOSSED UP"
+        },
+        "09": {
+            "artist": "Aycen",
+            "title": "Santander"
+        },
+        "10": {
+            "artist": "Ayrtn",
+            "title": "STEP Ft. BXKS"
+        },
+        "11": {
+            "artist": "Artyn",
+            "title": "Ocean Prime (Official Video)"
+        },
+        "12": {
+            "artist": "Brandon Nembhard",
+            "title": "Waiting"
+        },
+        "13": {
+            "artist": "Nemzzz",
+            "title": "Elevate"
+        },
+        "14": {
+            "artist": "Knucks",
+            "title": "Leon The Professional"
+        },
+        "15": {
+            "artist": "Brandon Nembhard",
+            "title": "The World is Yours"
+        },
+        "16": {
+            "artist": "DC3",
+            "title": "Purpose"
+        },
+        "17": {
+            "artist": "Joe James",
+            "title": "Pearl Harbour"
+        },
+        "18": {
+            "artist": "Knucks, ",
+            "title": "Fxcked Up"
+        },
+        "19": {
+            "artist": "Kalin!",
+            "title": "Mixed & Mastered"
+        },
+        "20": {
+            "artist": "Gbnga",
+            "title": "Champions League"
+        },
+        "21": {
+            "artist": "Hecs Aint A Rapper",
+            "title": "DIFFERENT VISION 5EB X HECZZ"
+        },
+        "22": {
+            "artist": "Artyn",
+            "title": "South"
         }
     },
     "the-nts-guide-to-uk-drill-2016-20th-july-2023": {
