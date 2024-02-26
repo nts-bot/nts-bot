@@ -19277,6 +19277,265 @@
             ]
         }
     },
+    "thereignset-25th-february-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Pleasure Pool",
+                    "title": "Love Without Illusion",
+                    "uri": "029OGUl8Ot8V7MLDhvNjYr"
+                },
+                {
+                    "artist": "Pleasure Pool",
+                    "title": "Love Without Illusion",
+                    "uri": "7vXbZfM4HVUAflc7YvSzBS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pleasure Pool",
+                    "title": "Love Without Illusion",
+                    "uri": "7vXbZfM4HVUAflc7YvSzBS"
+                },
+                {
+                    "artist": "Pleasure Pool",
+                    "title": "Love Without Illusion",
+                    "uri": "029OGUl8Ot8V7MLDhvNjYr"
+                },
+                {
+                    "artist": "Shakur Luciano",
+                    "title": "Pleasure",
+                    "uri": "0u3iaIpahLkV5OUV3450tG"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                },
+                {
+                    "artist": "Unknown Artist",
+                    "title": "Track two",
+                    "uri": "5CwJklfMxcgWLIAv8Qz84i"
+                },
+                {
+                    "artist": "AKUGETSU",
+                    "title": "Unknown (Till The End...)",
+                    "uri": "76zvyaDfQAXTfWBAq9qxgY"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "CAN",
+                    "title": "One More Night",
+                    "uri": "5gyJcehHjlqHXeaudfPb2D"
+                },
+                {
+                    "artist": "DJ Kapten Cantik",
+                    "title": "DJ ONE MORE NIGHT STYLE FUNKOT",
+                    "uri": "3DoluGXuQy8jd4GUVWqX7O"
+                },
+                {
+                    "artist": "CAN",
+                    "title": "One More Night",
+                    "uri": "4b4VqE4CQu9b2dltRIuNGz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "CAN",
+                    "title": "One More Night",
+                    "uri": "5gyJcehHjlqHXeaudfPb2D"
+                },
+                {
+                    "artist": "大倉忠義",
+                    "title": "One more night",
+                    "uri": "6ZCDNR2VBTiUsRCH9zGdwZ"
+                },
+                {
+                    "artist": "SwitchBlade",
+                    "title": "Bad Intentions",
+                    "uri": "0mqJ5rlQWFVcBX5XULD02c"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "MC5",
+                    "title": "Shakin' Street",
+                    "uri": "3EqfPKnwgiBLUsEs6hY6ip"
+                },
+                {
+                    "artist": "MC5",
+                    "title": "Shaking Street",
+                    "uri": "6m7GYKtfwwe50cjP87AmB4"
+                },
+                {
+                    "artist": "MC5",
+                    "title": "Shakin' Street",
+                    "uri": "04AAyHHOkcDnBH56Tbse9o"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "MC5",
+                    "title": "Shakin' Street",
+                    "uri": "3EqfPKnwgiBLUsEs6hY6ip"
+                },
+                {
+                    "artist": "MC5",
+                    "title": "Shaking Street",
+                    "uri": "6m7GYKtfwwe50cjP87AmB4"
+                },
+                {
+                    "artist": "MC5",
+                    "title": "Shakin' Street",
+                    "uri": "04AAyHHOkcDnBH56Tbse9o"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Portion Control",
+                    "title": "The Great Divide",
+                    "uri": "1gzzXe5kfycTHVJjayA4Sd"
+                },
+                {
+                    "artist": "Portion Control",
+                    "title": "The Great Divide",
+                    "uri": "6bCo16MSaLWaIjyxG87vmv"
+                },
+                {
+                    "artist": "Portion Control",
+                    "title": "The Great Divide",
+                    "uri": "15pREBWxsO8ZR97jvkNtNL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Portion Control",
+                    "title": "The Great Divide",
+                    "uri": "6bCo16MSaLWaIjyxG87vmv"
+                },
+                {
+                    "artist": "Portion Control",
+                    "title": "The Great Divide",
+                    "uri": "1gzzXe5kfycTHVJjayA4Sd"
+                },
+                {
+                    "artist": "Brian Leaf",
+                    "title": "Portions",
+                    "uri": "6KVu21hEiGs8nMluA60bWx"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "People Under The Stairs",
+                    "title": "Acid Raindrops",
+                    "uri": "4MbV8zrWudQflnbiIzp29t"
+                },
+                {
+                    "artist": "H.S.Records",
+                    "title": "The acid rain",
+                    "uri": "4Ks136YpQzqxMeiqWaO6gJ"
+                },
+                {
+                    "artist": "Liquid Tension Experiment",
+                    "title": "Acid Rain",
+                    "uri": "7D1wLtyGaUppoqMleM6VqT"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Damon Lee",
+                    "title": "Outside",
+                    "uri": "2yCRgcVTb7BS5grk095Ka8"
+                },
+                {
+                    "artist": "Damon Lee",
+                    "title": "Nightmares",
+                    "uri": "07ZxcLnmbgK77NfA81o3sY"
+                },
+                {
+                    "artist": "Damon Lee",
+                    "title": "Stuck Here Pacing",
+                    "uri": "1pm22zEnekhXusnIBFySay"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                },
+                {
+                    "artist": "Unknown Artist",
+                    "title": "Track two",
+                    "uri": "5CwJklfMxcgWLIAv8Qz84i"
+                },
+                {
+                    "artist": "AKUGETSU",
+                    "title": "Unknown (Till The End...)",
+                    "uri": "76zvyaDfQAXTfWBAq9qxgY"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Doof",
+                    "title": "Skunked on Planet Dub",
+                    "uri": "4IRUJTCFYNL0O8rwTpGeqo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Doof",
+                    "title": "Skunked on Planet Dub",
+                    "uri": "4IRUJTCFYNL0O8rwTpGeqo"
+                },
+                {
+                    "artist": "YOUMOU TO OHANA",
+                    "title": "Doop Doo De Doop",
+                    "uri": "2m0nZeXI62886m2E11pEJY"
+                },
+                {
+                    "artist": "Grasiela Piasson",
+                    "title": "Doop-Doo-De-Doop a Doodlin' Song",
+                    "uri": "3EjfZfDx8fxsUZrhomIkNA"
+                }
+            ]
+        }
+    },
     "thereignset-26th-february-2023": {
         "00": {
             "s0": [
@@ -19884,6 +20143,260 @@
                     "artist": "Tion Wayne",
                     "title": "Who Else (feat. Unknown T)",
                     "uri": "6BERzZBkuvnjuf7dUYOL3R"
+                }
+            ]
+        }
+    },
+    "thereignset-28th-january-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Strawberry Guy",
+                    "title": "F Song",
+                    "uri": "4z9KVNX4hmk672SJfhtQNz"
+                },
+                {
+                    "artist": "Strawberry Guy",
+                    "title": "F Song (Strings Version)",
+                    "uri": "4R1XgmhGeYP3artdotFthw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Strawberry Guy",
+                    "title": "F Song",
+                    "uri": "4z9KVNX4hmk672SJfhtQNz"
+                },
+                {
+                    "artist": "Strawberry Guy",
+                    "title": "F Song (Strings Version)",
+                    "uri": "4R1XgmhGeYP3artdotFthw"
+                },
+                {
+                    "artist": "Jesse Barrera",
+                    "title": "Strawberry Soju",
+                    "uri": "3Naqjihn2GJjOBZNeenivP"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "A Mountain Of One",
+                    "title": "Custards Last Stand - Instrumental",
+                    "uri": "7LmfP5vFtP0qIHZMKYJ01K"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "A Mountain Of One",
+                    "title": "Custards Last Stand - Instrumental",
+                    "uri": "7LmfP5vFtP0qIHZMKYJ01K"
+                },
+                {
+                    "artist": "上海アリス幻樂団",
+                    "title": "ネイティブフェイス",
+                    "uri": "68D3KVo5UkWaBIwvjY101y"
+                },
+                {
+                    "artist": "上海アリス幻樂団",
+                    "title": "神々が恋した幻想郷",
+                    "uri": "4rrL0f1iCU6GATz3Aou6L4"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Stano",
+                    "title": "White Field (In Isis)",
+                    "uri": "4VuHbmu7WbcAn0nK82IVxG"
+                },
+                {
+                    "artist": "Stano",
+                    "title": "White Field (in isis)",
+                    "uri": "3BrZJPvs6YLUyYr7T4qh1m"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Stano",
+                    "title": "White Field (in isis)",
+                    "uri": "3BrZJPvs6YLUyYr7T4qh1m"
+                },
+                {
+                    "artist": "Stano",
+                    "title": "White Field (In Isis)",
+                    "uri": "4VuHbmu7WbcAn0nK82IVxG"
+                },
+                {
+                    "artist": "fripSide",
+                    "title": "white forces",
+                    "uri": "3hsyn73e03cL3JCnlRIQ7K"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "The Belles",
+                    "title": "Melvin",
+                    "uri": "3Swc2B2ApeDZgt3ROhNAKK"
+                },
+                {
+                    "artist": "The Belles",
+                    "title": "Melvin",
+                    "uri": "38qXDMaMS3BzFYr9qr1eM2"
+                },
+                {
+                    "artist": "The Belles",
+                    "title": "Melvin",
+                    "uri": "17FhXQE994UuvucS3YcQuX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Belles",
+                    "title": "Melvin",
+                    "uri": "38qXDMaMS3BzFYr9qr1eM2"
+                },
+                {
+                    "artist": "The Belles",
+                    "title": "Melvin",
+                    "uri": "17FhXQE994UuvucS3YcQuX"
+                },
+                {
+                    "artist": "The Belles",
+                    "title": "Come Back",
+                    "uri": "4rD8kOZ2oQoRmmhlDubzJH"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dougie D",
+                    "title": "Live",
+                    "uri": "5AWt7j2cTjsO0JxFqNaBCG"
+                },
+                {
+                    "artist": "Dougie D",
+                    "title": "Y.O.T.U.D. (S.L.A.B.ed)",
+                    "uri": "24kENFWUPJCAGOoQcRppHO"
+                },
+                {
+                    "artist": "BigWinnn",
+                    "title": "Dougie",
+                    "uri": "3luUXlbzT7wjt1ZmUXb9wo"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                },
+                {
+                    "artist": "Unknown Artist",
+                    "title": "Track two",
+                    "uri": "5CwJklfMxcgWLIAv8Qz84i"
+                },
+                {
+                    "artist": "AKUGETSU",
+                    "title": "Unknown (Till The End...)",
+                    "uri": "76zvyaDfQAXTfWBAq9qxgY"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                },
+                {
+                    "artist": "Unknown Artist",
+                    "title": "Track two",
+                    "uri": "5CwJklfMxcgWLIAv8Qz84i"
+                },
+                {
+                    "artist": "AKUGETSU",
+                    "title": "Unknown (Till The End...)",
+                    "uri": "76zvyaDfQAXTfWBAq9qxgY"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Zeros",
+                    "title": "Don't Push Me Around",
+                    "uri": "4RgCvVyMoUzfong6YIFXcr"
+                },
+                {
+                    "artist": "The Zeros",
+                    "title": "Beat Your Heart Out",
+                    "uri": "0EBLNTsQrZ6553DFZEJYdd"
+                },
+                {
+                    "artist": "WENDY",
+                    "title": "Don’t Push Me (Original Ver.)",
+                    "uri": "16IAuQQd0tpC3xV6D917LP"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Zdenka Kovačiček",
+                    "title": "Elektra",
+                    "uri": "1YmGCt3dEtWFguX1jcgNk8"
+                },
+                {
+                    "artist": "Zdenka Kovačiček",
+                    "title": "Elektra",
+                    "uri": "4K610MQPdBFLsisNuymHLO"
+                },
+                {
+                    "artist": "Zdenka Kovačiček",
+                    "title": "Elektra",
+                    "uri": "2xaxm59eOV2JA3oRXTD2Fi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Zdenka Kovačiček",
+                    "title": "Elektra",
+                    "uri": "1YmGCt3dEtWFguX1jcgNk8"
+                },
+                {
+                    "artist": "Zdenka Kovačiček",
+                    "title": "Elektra",
+                    "uri": "4K610MQPdBFLsisNuymHLO"
+                },
+                {
+                    "artist": "Zdenka Kovačiček",
+                    "title": "Elektra",
+                    "uri": "2xaxm59eOV2JA3oRXTD2Fi"
                 }
             ]
         }

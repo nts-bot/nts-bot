@@ -1,5 +1,454 @@
 {
-    "colleen-cosmo-murphy-28th-january-2024": {},
+    "colleen-cosmo-murphy-25th-february-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Billy Joel",
+                    "title": "And So It Goes",
+                    "uri": "1u7kQUb3lQcpHaYRfia13A"
+                },
+                {
+                    "artist": "Joshua Espinoza",
+                    "title": "And So it Goes",
+                    "uri": "7AP03AuSv0uWp0i3ef9HaH"
+                },
+                {
+                    "artist": "Heather Rigdon",
+                    "title": "And so It Goes",
+                    "uri": "43WltgbMe8OVuMVpHEfrTV"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Alina Bzhezhinska",
+                    "title": "Anima - Breathe",
+                    "uri": "0OD3fEXjdmaBNdIIVhJZCd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Alina Bzhezhinska",
+                    "title": "Anima - Breathe",
+                    "uri": "0OD3fEXjdmaBNdIIVhJZCd"
+                },
+                {
+                    "artist": "Toni Braxton",
+                    "title": "Breathe Again",
+                    "uri": "1xFliXOpcu7E89AsDAZ7JV"
+                },
+                {
+                    "artist": "AB6IX",
+                    "title": "BREATHE",
+                    "uri": "4XbyRgWe6yU4wE6WShdTEs"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Takuro Yoshida",
+                    "title": "結婚しようよ",
+                    "uri": "29Wg6HS5bMfSYTCdY9WpfV"
+                },
+                {
+                    "artist": "Takuro Yoshida",
+                    "title": "人生を語らず",
+                    "uri": "1zDPaZJxf4zbNPThFqjqu8"
+                },
+                {
+                    "artist": "Yoshida Yamada",
+                    "title": "日々",
+                    "uri": "78iXPlh3D67sgglgTbJBl6"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "E. Lundquist",
+                    "title": "My Sun",
+                    "uri": "5rr9twruhmB2qSoJ9D0YTt"
+                },
+                {
+                    "artist": "E. Lundquist",
+                    "title": "My Sun",
+                    "uri": "67MHJRv5cDRfNE1ob1vgyw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "E. Lundquist",
+                    "title": "My Sun",
+                    "uri": "5rr9twruhmB2qSoJ9D0YTt"
+                },
+                {
+                    "artist": "E. Lundquist",
+                    "title": "My Sun",
+                    "uri": "67MHJRv5cDRfNE1ob1vgyw"
+                },
+                {
+                    "artist": "E. Lundquist",
+                    "title": "Persuasive",
+                    "uri": "4ArfZHgpHkFH3wyWZSRQlZ"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "John Wasson",
+                    "title": "Caravan",
+                    "uri": "2Xtsv7BUMrNodQWH2JPOc0"
+                },
+                {
+                    "artist": "Caravan",
+                    "title": "Walkin’The Cat",
+                    "uri": "3H4BI2uORkoM8aaWmWGrdY"
+                },
+                {
+                    "artist": "The Ventures",
+                    "title": "Caravan - Stereo",
+                    "uri": "08DuEeBfRM9jrqJN7TM0Kz"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Split Enz",
+                    "title": "Message To My Girl",
+                    "uri": "72FOq9Cc9Y36yrCVDVOld6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Split Enz",
+                    "title": "Message To My Girl",
+                    "uri": "72FOq9Cc9Y36yrCVDVOld6"
+                },
+                {
+                    "artist": "Split Enz",
+                    "title": "I Got You",
+                    "uri": "3KOPorZiKeW6gFeIViqMoq"
+                },
+                {
+                    "artist": "Yeat",
+                    "title": "Split",
+                    "uri": "3HqGDrSOZ6LbBfX5EsiaAj"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jeinson Manuel",
+                    "title": "Esa Mujer - En Vivo",
+                    "uri": "7C670309qbp6fAaRPLNmdn"
+                },
+                {
+                    "artist": "MC Albertico",
+                    "title": "Esa Mujer",
+                    "uri": "5kMEAjVZZ0FKvgVF3CB0zE"
+                },
+                {
+                    "artist": "Mulato",
+                    "title": "ESA MUCHACHA",
+                    "uri": "5baHy0vswCw7i3O5Q3pH33"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Feel Fly",
+                    "title": "Esperanto - Marcoradi Remix",
+                    "uri": "5leVdPXoMusip6AH9XC0JS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Feel Fly",
+                    "title": "Esperanto - Marcoradi Remix",
+                    "uri": "5leVdPXoMusip6AH9XC0JS"
+                },
+                {
+                    "artist": "Ace Hashimoto",
+                    "title": "I Feel Fly",
+                    "uri": "7k9jwSHbQohuLfHvQBU0z1"
+                },
+                {
+                    "artist": "Umegaki Runa",
+                    "title": "Esperanto",
+                    "uri": "70CUZtpLl7JYn5UJ99HkS4"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "frederic",
+                    "title": "熱帯夜",
+                    "uri": "6JukOYSktFb3IP4MDKi13Y"
+                },
+                {
+                    "artist": "frederic",
+                    "title": "YONA YONA DANCE - フレデリズム Ver.",
+                    "uri": "1mdlF75ac2fDG5b4TtmUx0"
+                },
+                {
+                    "artist": "frederic",
+                    "title": "midnight creative drive",
+                    "uri": "7eS2UQ88DPLgrl6ScYkIdK"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Crown Heights Affair",
+                    "title": "I Struck Gold",
+                    "uri": "3dR9A1XJxhwinuc5D73cPo"
+                },
+                {
+                    "artist": "Crown Heights Biggy",
+                    "title": "DROPP WIZZ",
+                    "uri": "2PwJf6mQtqaLwJWZrJpLxO"
+                },
+                {
+                    "artist": "Maxo",
+                    "title": "Crown Heights",
+                    "uri": "6H82VCg1j55gAFYrh9yHm6"
+                }
+            ]
+        }
+    },
+    "colleen-cosmo-murphy-28th-january-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Devadip Carlos Santana",
+                    "title": "Love Theme from \"Spartacus\"",
+                    "uri": "3KjbDaMr76wJySRzM1Nx8G"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Devadip Carlos Santana",
+                    "title": "Love Theme from \"Spartacus\"",
+                    "uri": "3KjbDaMr76wJySRzM1Nx8G"
+                },
+                {
+                    "artist": "Yusef Lateef",
+                    "title": "Love Theme From Spartacus - Rudy Van Gelder Remaster / 2006",
+                    "uri": "7yzM0pEseQUpb6BMViOPEA"
+                },
+                {
+                    "artist": "Bill Evans",
+                    "title": "Love Theme From 'Spartacus'",
+                    "uri": "3oz50kNixpP5LV7z35460N"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "J.J. Cale",
+                    "title": "The Woman That Got Away",
+                    "uri": "63RtRAGENJvFw4oGcOJ29L"
+                },
+                {
+                    "artist": "J.J. Cale",
+                    "title": "The Woman That Got Away",
+                    "uri": "4LUBSS5hemSYqzc1SNO8BO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "J.J. Cale",
+                    "title": "The Woman That Got Away",
+                    "uri": "63RtRAGENJvFw4oGcOJ29L"
+                },
+                {
+                    "artist": "J.J. Cale",
+                    "title": "The Woman That Got Away",
+                    "uri": "4LUBSS5hemSYqzc1SNO8BO"
+                },
+                {
+                    "artist": "J.J. Cale",
+                    "title": "After Midnight",
+                    "uri": "1PC5GV3OaoXx5em8ttQOMI"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Per-Erik Hallin",
+                    "title": "Gospel Train",
+                    "uri": "2AQvHAUxm2dPH27wjKcvvG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Per-Erik Hallin",
+                    "title": "Gospel Train",
+                    "uri": "2AQvHAUxm2dPH27wjKcvvG"
+                },
+                {
+                    "artist": "Carola",
+                    "title": "Gospel Train",
+                    "uri": "2ac5qsUIn31cKWf5eNOwAj"
+                },
+                {
+                    "artist": "Per-Erik Hallin",
+                    "title": "Feel Like Goin' Home",
+                    "uri": "6eDkCOXhyyCY8apocx9TQe"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "John Forde",
+                    "title": "Stardance",
+                    "uri": "4qGWBrLZJTOkAp3TjPP79R"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "John Forde",
+                    "title": "Stardance",
+                    "uri": "4qGWBrLZJTOkAp3TjPP79R"
+                },
+                {
+                    "artist": "John Fogerty",
+                    "title": "Centerfield",
+                    "uri": "38BgqHjoogBGBqdx14cV46"
+                },
+                {
+                    "artist": "John Ford Coley",
+                    "title": "Just Tell Me You Love Me",
+                    "uri": "221bffk5Wt9jbxUog7HhLQ"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Dennis Parker",
+                    "title": "Like An Eagle",
+                    "uri": "7khzIPpqJO6NY6gxE4unIB"
+                },
+                {
+                    "artist": "Dennis Parker",
+                    "title": "Like an Eagle",
+                    "uri": "2qF9ANEvvwT1nzV2338n25"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dennis Parker",
+                    "title": "Like An Eagle",
+                    "uri": "7khzIPpqJO6NY6gxE4unIB"
+                },
+                {
+                    "artist": "Dennis Parker",
+                    "title": "Like an Eagle",
+                    "uri": "2qF9ANEvvwT1nzV2338n25"
+                },
+                {
+                    "artist": "Dennis Parker",
+                    "title": "High Life",
+                    "uri": "6hln7EDDhTdfFMAuSwol3o"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Ashford & Simpson",
+                    "title": "Count Your Blessings",
+                    "uri": "0lAEegWyK8nrX6rZW8YnT8"
+                },
+                {
+                    "artist": "Ashford & Simpson",
+                    "title": "Count Your Blessings",
+                    "uri": "1e1yxzUse4GOyWt8PybS5K"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ashford & Simpson",
+                    "title": "Count Your Blessings",
+                    "uri": "0lAEegWyK8nrX6rZW8YnT8"
+                },
+                {
+                    "artist": "Ashford & Simpson",
+                    "title": "Solid",
+                    "uri": "4sr4NdrPfds9Qfors9UkiO"
+                },
+                {
+                    "artist": "Ashford & Simpson",
+                    "title": "Count Your Blessings",
+                    "uri": "1e1yxzUse4GOyWt8PybS5K"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Amr Diab",
+                    "title": "Wala Ala Balo",
+                    "uri": "3Myno7mzYuIaNrOGPlIheQ"
+                },
+                {
+                    "artist": "Amr Diab",
+                    "title": "Amarain",
+                    "uri": "0WcFWvjYOAEFJn1LuvqX7F"
+                },
+                {
+                    "artist": "Amr Diab",
+                    "title": "أيس كريم في جليم",
+                    "uri": "71jQMPalwz4kCRUbBHGX62"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Fat Freddy's Drop",
+                    "title": "Mother Mother - Cosmodelica Remix",
+                    "uri": "6jjhSGOz2390hH2cOeprBO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fat Freddy's Drop",
+                    "title": "Mother Mother - Cosmodelica Remix",
+                    "uri": "6jjhSGOz2390hH2cOeprBO"
+                },
+                {
+                    "artist": "Fat Freddy's Drop",
+                    "title": "Hope - LOCK-IN",
+                    "uri": "6MoQ4uo9Ss5OuON9vYliXQ"
+                },
+                {
+                    "artist": "Fat Freddy's Drop",
+                    "title": "Wandering Eye",
+                    "uri": "1axOjSJQj3Y7sANSUAxv2m"
+                }
+            ]
+        }
+    },
     "colleen-cosmo-murphy-31st-december-2023": {
         "00": {
             "s0": [
