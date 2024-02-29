@@ -341,8 +341,90 @@
             "title": "Orq Barron"
         }
     },
+    "ritmo-santanero-27th-february-2024": {},
     "ritmo-santanero-2nd-january-2024": {},
-    "ritmo-santanero-30th-january-2024": {},
+    "ritmo-santanero-30th-january-2024": {
+        "00": {
+            "artist": "Los Cumbieros",
+            "title": "El Indio"
+        },
+        "01": {
+            "artist": "Conjunto Fernando",
+            "title": "Tambores"
+        },
+        "02": {
+            "artist": "Guajiros",
+            "title": "Mara"
+        },
+        "03": {
+            "artist": "Conjunto Del Mar",
+            "title": "Baja"
+        },
+        "04": {
+            "artist": "Anillo Y Su Conjunto",
+            "title": "Stereo"
+        },
+        "05": {
+            "artist": "Fernando Y Su Acordeon",
+            "title": "Cumbia Del Loco"
+        },
+        "06": {
+            "artist": "Campechana",
+            "title": "La Fiesta"
+        },
+        "07": {
+            "artist": "La Sampuesana",
+            "title": "Rosarito"
+        },
+        "08": {
+            "artist": "El Ritmo",
+            "title": "La Luna"
+        },
+        "09": {
+            "artist": "Chiles Verdes",
+            "title": "Chile"
+        },
+        "10": {
+            "artist": "Conjunto Edin Enrique",
+            "title": "Cumbia Rica"
+        },
+        "11": {
+            "artist": "Los Jilgueritos",
+            "title": "Los Alegres"
+        },
+        "12": {
+            "artist": "Los Jovenes",
+            "title": "Santa Barbara"
+        },
+        "13": {
+            "artist": "Unknown Artist",
+            "title": "El Primero"
+        },
+        "14": {
+            "artist": "Hectorin",
+            "title": "La Raya"
+        },
+        "15": {
+            "artist": "Jose Y Su Banda",
+            "title": "Rosario"
+        },
+        "16": {
+            "artist": "Conjunto Pescador",
+            "title": "La Florera"
+        },
+        "17": {
+            "artist": "Conjunto Santanero",
+            "title": "El Toro"
+        },
+        "18": {
+            "artist": "Los De Peru",
+            "title": "Chicha"
+        },
+        "19": {
+            "artist": "Los Diablos Colombianos",
+            "title": "Cumbiero Loco"
+        }
+    },
     "ritmo-santanero-5th-december-2023": {
         "00": {
             "artist": "Condor's",
