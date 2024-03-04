@@ -6294,6 +6294,814 @@
             ]
         }
     },
+    "gelato-1st-march-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rich Sinners",
+                    "title": "Stars In The Mirror",
+                    "uri": "6mp64JiMYys66KapGw1Ans"
+                },
+                {
+                    "artist": "Skrillex",
+                    "title": "Rumble",
+                    "uri": "74fmYjFwt9CqEFAh8ybeBD"
+                },
+                {
+                    "artist": "Skrillex",
+                    "title": "Bangarang (feat. Sirah)",
+                    "uri": "6VRhkROS2SZHGlp0pxndbJ"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "$ouley",
+                    "title": "Shoot yah",
+                    "uri": "3HIAtfDHB1cQSbguggOhBj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "$ouley",
+                    "title": "Shoot yah",
+                    "uri": "3HIAtfDHB1cQSbguggOhBj"
+                },
+                {
+                    "artist": "上海アリス幻樂団",
+                    "title": "風神少女",
+                    "uri": "2XPqUfZE1iFRzjzgHYSrCM"
+                },
+                {
+                    "artist": "EST Gee",
+                    "title": "Shoot It Myself (feat. Future)",
+                    "uri": "6Md6lyVVoKWcOaSg8u1tDn"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Sonny Rave",
+                    "title": "Sidelines",
+                    "uri": "5T4ux5Ris48ysBpknnn1TZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sonny Rave",
+                    "title": "Sidelines",
+                    "uri": "5T4ux5Ris48ysBpknnn1TZ"
+                },
+                {
+                    "artist": "Sonny Rollins",
+                    "title": "God Bless the Child",
+                    "uri": "7DUGRxCf9NFJffb5Eei8Ar"
+                },
+                {
+                    "artist": "Sonny Rollins",
+                    "title": "Where Are You - Remastered",
+                    "uri": "3EvT0m0eRWFtdXA89M2sk8"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Friendzone",
+                    "title": "APPROPRIATE X",
+                    "uri": "7MCZ4wOAY5xNmBZVpIsaj0"
+                },
+                {
+                    "artist": "Friendzone",
+                    "title": "APPROPRIATE X",
+                    "uri": "5FrAbQRROwYHnLCPODQCTz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Friendzone",
+                    "title": "APPROPRIATE X",
+                    "uri": "7MCZ4wOAY5xNmBZVpIsaj0"
+                },
+                {
+                    "artist": "Friendzone",
+                    "title": "BLAST FURNACE",
+                    "uri": "2c3wph1RAxAOMsnjy1EBUc"
+                },
+                {
+                    "artist": "TREMBLING BAMBI",
+                    "title": "friend zone",
+                    "uri": "52zrh42Le8AIbqfmZIVECr"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Hardrock",
+                    "title": "b4dagrave",
+                    "uri": "3m8r488DlYxV8Uzoih32yT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hardrock",
+                    "title": "b4dagrave",
+                    "uri": "3m8r488DlYxV8Uzoih32yT"
+                },
+                {
+                    "artist": "Hardrock",
+                    "title": "WA\\VE",
+                    "uri": "1K7Tnhm54msvxefjFMWa6f"
+                },
+                {
+                    "artist": "Lordi",
+                    "title": "Hard Rock Hallelujah",
+                    "uri": "7sZTvm0Sx8umbyQViTE2Qc"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Len",
+                    "title": "WONT WIN",
+                    "uri": "3yaMB16Y8yxbuvy17TmNHI"
+                },
+                {
+                    "artist": "Len",
+                    "title": "WONT WIN",
+                    "uri": "6UtH32nZT1L370X6ZmQUyu"
+                },
+                {
+                    "artist": "Anna-Lena Winter",
+                    "title": "He Won't Tell Me",
+                    "uri": "40ahjhI1EmcUalJ5585qj8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Len",
+                    "title": "WONT WIN",
+                    "uri": "3yaMB16Y8yxbuvy17TmNHI"
+                },
+                {
+                    "artist": "Len",
+                    "title": "WONT WIN",
+                    "uri": "6UtH32nZT1L370X6ZmQUyu"
+                },
+                {
+                    "artist": "Gisbert Zu Knyphausen",
+                    "title": "Neues Jahr",
+                    "uri": "21Yo8ZwJijj9ohVf9RcR22"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "LUCKI",
+                    "title": "Gemini Love",
+                    "uri": "15O6GFJHJnJA1FGIJdgBfI"
+                },
+                {
+                    "artist": "LUCKI",
+                    "title": "Gemini Love",
+                    "uri": "5rVBnQyw0UzZr2gbdaErKc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "LUCKI",
+                    "title": "Gemini Love",
+                    "uri": "15O6GFJHJnJA1FGIJdgBfI"
+                },
+                {
+                    "artist": "LUCKI",
+                    "title": "Gemini Love",
+                    "uri": "5rVBnQyw0UzZr2gbdaErKc"
+                },
+                {
+                    "artist": "LUCKY TAPES",
+                    "title": "MOOD",
+                    "uri": "39dvNiqFBQ1OG27fCCOZe7"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "ICYTWAT",
+                    "title": "Ilybutnomore",
+                    "uri": "1LUg1mUyN0jIfTTeBGDzTM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "ICYTWAT",
+                    "title": "Ilybutnomore",
+                    "uri": "1LUg1mUyN0jIfTTeBGDzTM"
+                },
+                {
+                    "artist": "ICYTWAT",
+                    "title": "Call tha Troopz",
+                    "uri": "6oUrHfENy0qxi4sIa7AkH1"
+                },
+                {
+                    "artist": "ITZY",
+                    "title": "ICY",
+                    "uri": "1wQfFXIq26XtDbZETxHbsx"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Yhapojj",
+                    "title": "Bubbles",
+                    "uri": "1F6YkeQ8G1SxpgbVVND8S1"
+                },
+                {
+                    "artist": "Hiroyuki Sawano",
+                    "title": "BUBBLE",
+                    "uri": "4Mvnk4EELuPLi7nuGyC4XB"
+                },
+                {
+                    "artist": "LoDub",
+                    "title": "Bubbles",
+                    "uri": "1XFHGb4pHfR3VWgow8vBI9"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "ICYTWAT",
+                    "title": "Love Who?",
+                    "uri": "1DdO4nVlzqwUdNJoRBd9c3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "ICYTWAT",
+                    "title": "Love Who?",
+                    "uri": "1DdO4nVlzqwUdNJoRBd9c3"
+                },
+                {
+                    "artist": "ICYTWAT",
+                    "title": "Eyez on Em",
+                    "uri": "0g2g3VJI3ppvvs9L4JMvVh"
+                },
+                {
+                    "artist": "Da-iCE",
+                    "title": "イチタスイチ",
+                    "uri": "6Cl7I6kQtcB87zw5qaIzvz"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gabriela Smith",
+                    "title": "Mell Bradley",
+                    "uri": "7Bp5Ifw7WCDpA8ZWhT81a9"
+                },
+                {
+                    "artist": "Mel Briars",
+                    "title": "SUNDER",
+                    "uri": "7cWiQmk5MQyXwHnCl2l8e0"
+                },
+                {
+                    "artist": "Mel Briars",
+                    "title": "SO YOUNG",
+                    "uri": "5jbaSp02uzFngWpIBDdXHC"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Downhill2k01",
+                    "title": "A Piece Of My Mind",
+                    "uri": "3L25RzggVb72wZOUCG7Vn4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Downhill2k01",
+                    "title": "A Piece Of My Mind",
+                    "uri": "3L25RzggVb72wZOUCG7Vn4"
+                },
+                {
+                    "artist": "HIMI",
+                    "title": "Down hill",
+                    "uri": "397WLGWbOBSZkWeDXxZLjF"
+                },
+                {
+                    "artist": "Gyoson",
+                    "title": "Downhill",
+                    "uri": "0EE6hnWdmiOq7LosrSHQcw"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Meel B",
+                    "title": "D.O.M",
+                    "uri": "3uEquYuDPP2bItzJOFVgVK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Meel B",
+                    "title": "D.O.M",
+                    "uri": "3uEquYuDPP2bItzJOFVgVK"
+                },
+                {
+                    "artist": "The Prodigy",
+                    "title": "Breathe",
+                    "uri": "6udk3HhE4DmnCXrzIbgUd6"
+                },
+                {
+                    "artist": "The Prodigy",
+                    "title": "Breathe",
+                    "uri": "0Ja4hLKiUSw01E01pJ1yGr"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Che Ecru",
+                    "title": "GMO LOVE",
+                    "uri": "2XiWBSe2EiZFljbvnW4gut"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Che Ecru",
+                    "title": "GMO LOVE",
+                    "uri": "2XiWBSe2EiZFljbvnW4gut"
+                },
+                {
+                    "artist": "Che Ecru",
+                    "title": "Peppermint",
+                    "uri": "5bUx64o8X8FB15A7gk9x0G"
+                },
+                {
+                    "artist": "Che Ecru",
+                    "title": "WATER",
+                    "uri": "1vqRkUzvD2o0OIEVAN3cIg"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Planet Giza",
+                    "title": "Why Do You Run",
+                    "uri": "30uUmtxVYUTpOZaY97ZBky"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Planet Giza",
+                    "title": "Why Do You Run",
+                    "uri": "30uUmtxVYUTpOZaY97ZBky"
+                },
+                {
+                    "artist": "Planet Giza",
+                    "title": "2wice Again",
+                    "uri": "1ozcu6sqh1hoecOs3SVKSd"
+                },
+                {
+                    "artist": "Planet Giza",
+                    "title": "LIMB",
+                    "uri": "5RG1HRQocUAafoCrGd9lY5"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Peanut Butter Wolf",
+                    "title": "Dopestyle",
+                    "uri": "4TrCVbwhU2GOPoa9R2Jk1L"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Peanut Butter Wolf",
+                    "title": "Dopestyle",
+                    "uri": "4TrCVbwhU2GOPoa9R2Jk1L"
+                },
+                {
+                    "artist": "DPR IAN",
+                    "title": "Peanut Butter & Tears",
+                    "uri": "05QrjMU5kHV7dpyNmSxqdv"
+                },
+                {
+                    "artist": "Galantis",
+                    "title": "Peanut Butter Jelly",
+                    "uri": "3aIhJDHxr1kgTSnutJxPTH"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Lili Castiglioni",
+                    "title": "SUGAR",
+                    "uri": "3JPs55XqXnoRgfxVhizg5X"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lili Castiglioni",
+                    "title": "SUGAR",
+                    "uri": "3JPs55XqXnoRgfxVhizg5X"
+                },
+                {
+                    "artist": "Nissy",
+                    "title": "SUGAR",
+                    "uri": "1wjtGsvlmXeao2c0eVY9bm"
+                },
+                {
+                    "artist": "NOMELON NOLEMON",
+                    "title": "SUGAR",
+                    "uri": "62G0sw7ecvZSKvUVJl754s"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Bktherula",
+                    "title": "TATTI",
+                    "uri": "67mSIbxWBzaFptWINhPN2U"
+                },
+                {
+                    "artist": "Bktherula",
+                    "title": "TATTI",
+                    "uri": "1yQ4GRLW5ww410wHEL2tBN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bktherula",
+                    "title": "TATTI",
+                    "uri": "67mSIbxWBzaFptWINhPN2U"
+                },
+                {
+                    "artist": "Bktherula",
+                    "title": "TATTI",
+                    "uri": "1yQ4GRLW5ww410wHEL2tBN"
+                },
+                {
+                    "artist": "Tati G13",
+                    "title": "Karehba",
+                    "uri": "0EVsmhOkomtQRduEKpHzYe"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Meel B",
+                    "title": "WW",
+                    "uri": "2Hr3MEW0eoM0wtKMEy0eWS"
+                },
+                {
+                    "artist": "Meel B",
+                    "title": "WW",
+                    "uri": "2moVdNngy5kJBAV6rGr11l"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Meel B",
+                    "title": "WW",
+                    "uri": "2moVdNngy5kJBAV6rGr11l"
+                },
+                {
+                    "artist": "Meel B",
+                    "title": "WW",
+                    "uri": "2Hr3MEW0eoM0wtKMEy0eWS"
+                },
+                {
+                    "artist": "Nuria Polanka",
+                    "title": "Melibea",
+                    "uri": "6iPklVZHZeyQBqm4zV2ruy"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bremen Entertainment Inc.",
+                    "title": "Untitled 9",
+                    "uri": "67RSYTAmSaip7s8DMOUhC8"
+                },
+                {
+                    "artist": "glwzbll",
+                    "title": "Untitled #13",
+                    "uri": "1YXV3fSpNgxXSfhsEgRmtb"
+                },
+                {
+                    "artist": "glwzbll",
+                    "title": "Untitled #13 (Slowed + Reverb)",
+                    "uri": "4w2C4w02lvnh4jcx6bq0Pj"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bktherula",
+                    "title": "IDK WHAT TO TELL YOU",
+                    "uri": "67Ca21PiqjzovVSAwBMwUf"
+                },
+                {
+                    "artist": "Amr Saiko",
+                    "title": "Bftkrk 2",
+                    "uri": "1E8qidxkcwOZnqAswIGQ2W"
+                },
+                {
+                    "artist": "Misss Greeen",
+                    "title": "Zalim - Vocal Edit",
+                    "uri": "2NUa5IzxokUgvimEmmpOWI"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "KP SKYWALKA",
+                    "title": "Lean On Me / For My Fans",
+                    "uri": "4ygkSlb8ZHmD95TVyIkwyJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "KP SKYWALKA",
+                    "title": "Lean On Me / For My Fans",
+                    "uri": "4ygkSlb8ZHmD95TVyIkwyJ"
+                },
+                {
+                    "artist": "BOBBY",
+                    "title": "LEAN ON ME - KR Ver.",
+                    "uri": "2K6CirGXtejc9XJt0i6R7c"
+                },
+                {
+                    "artist": "AI",
+                    "title": "Lean On Me",
+                    "uri": "7earMq5q7ERhEcZA6XX2Gh"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Baby Fifty",
+                    "title": "Die Trying",
+                    "uri": "0Eeg1hk5GFfNz1d8rOyi2V"
+                },
+                {
+                    "artist": "Baby Fifty",
+                    "title": "Betta Dip",
+                    "uri": "5Etqft5s5gPfpx7GMvuBP6"
+                },
+                {
+                    "artist": "Baby Fifty",
+                    "title": "Brother Died",
+                    "uri": "1bKXSxLMbIMdjslcqM0I7l"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "TH",
+                    "title": "SUN TZU",
+                    "uri": "2hNtNiBPe8EiS1UN2AYXoo"
+                },
+                {
+                    "artist": "The Lofi Dragon",
+                    "title": "Sun Tzu",
+                    "uri": "6qiCSxrXzdZ4NOy2ZKJkzm"
+                },
+                {
+                    "artist": "Ja'king the Divine",
+                    "title": "MASTER SUN, A TRIP INTO THE INEVITABLE",
+                    "uri": "5AVrOlrxvvIs3UZu8GRROy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sun Tzu",
+                    "title": "The Art of War - Chapter 1&2",
+                    "uri": "6qCkFjCinoP7Ax3bZ4tsfj"
+                },
+                {
+                    "artist": "Sun Tzu",
+                    "title": "The Art of War - Chapter 3&4",
+                    "uri": "4HRuQbqewYzIASpPCtIYWo"
+                },
+                {
+                    "artist": "Tsuji Ayano",
+                    "title": "風になる",
+                    "uri": "1BMYkyKXS6UfnJteWN7nSD"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "Jolagreen23",
+                    "title": "AIMBOT (2021VERSION)",
+                    "uri": "3DnReKCXhIZVFe7qnJ41jO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jolagreen23",
+                    "title": "AIMBOT (2021VERSION)",
+                    "uri": "3DnReKCXhIZVFe7qnJ41jO"
+                },
+                {
+                    "artist": "Jahhlu",
+                    "title": "Aimbot",
+                    "uri": "3C9T37Y3e2gyC4xQ8FvH6D"
+                },
+                {
+                    "artist": "AliA",
+                    "title": "あいことば - TV size ver.",
+                    "uri": "4KZgmtgUZH7m7saBdF7d2j"
+                }
+            ]
+        },
+        "25": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gerry Mulligan Sextet",
+                    "title": "Prelude In E Minor",
+                    "uri": "17OHsQ5RBrU6b9lTaPP0vh"
+                },
+                {
+                    "artist": "Gerry Mulligan Sextet",
+                    "title": "In The Wee Small Hours Of The Morning",
+                    "uri": "4c9u4ruTL1xWv2YcnS8AjN"
+                },
+                {
+                    "artist": "Gerry Mulligan",
+                    "title": "Line For Lyons",
+                    "uri": "0GUUhTWMylAx5pHDI42t1V"
+                }
+            ]
+        },
+        "26": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lord Apex",
+                    "title": "Love Drunk (Interlude)",
+                    "uri": "52IET7RxSCPoDwdwrbH0Z8"
+                },
+                {
+                    "artist": "Lord Apex",
+                    "title": "Speak For Yourself",
+                    "uri": "00UMe917sriaeiFbI2hUKg"
+                },
+                {
+                    "artist": "Lord Apex",
+                    "title": "Em3",
+                    "uri": "6bhLbuTCWeHHD6NtpfDo3M"
+                }
+            ]
+        },
+        "27": {
+            "s0": [
+                {
+                    "artist": "BXKS",
+                    "title": "Microphone Sex",
+                    "uri": "65RuwnCmxHDYrfyasNyBMI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "BXKS",
+                    "title": "Microphone Sex",
+                    "uri": "65RuwnCmxHDYrfyasNyBMI"
+                },
+                {
+                    "artist": "MICROPHONE PAGER",
+                    "title": "病む街",
+                    "uri": "0eoXQ2ATqLxCmY379XbN98"
+                },
+                {
+                    "artist": "Ayumi Hamasaki",
+                    "title": "Microphone",
+                    "uri": "7LJfv9ZZnVCP8WdyDMf7g5"
+                }
+            ]
+        },
+        "28": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bear1Boss",
+                    "title": "conscious",
+                    "uri": "0NIi7V4HIdHaC8rR0ntEOP"
+                },
+                {
+                    "artist": "Future",
+                    "title": "Lay Up",
+                    "uri": "4iOq2DLxbRuBdrILZwOKoW"
+                },
+                {
+                    "artist": "Layup",
+                    "title": "All The Best",
+                    "uri": "29wvkRHuawkIYwdTBG8WTd"
+                }
+            ]
+        },
+        "29": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bricksy & 3g",
+                    "title": "Akai",
+                    "uri": "5iRlC78eH6tOe1F2yYrE2c"
+                },
+                {
+                    "artist": "Bricksy & 3g",
+                    "title": "Akai",
+                    "uri": "3JPui2IiyD08kDnVrlRtQo"
+                },
+                {
+                    "artist": "Moonside Trio",
+                    "title": "Akaishi",
+                    "uri": "5npOIRaqGTVT5Ur8cf4i4K"
+                }
+            ]
+        },
+        "30": {
+            "s0": [
+                {
+                    "artist": "BabyDrill",
+                    "title": "ScoreGod (feat. Luh Tyler)",
+                    "uri": "3jvUUI68ZxFYosDbQLuSBL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "BabyDrill",
+                    "title": "ScoreGod (feat. Luh Tyler)",
+                    "uri": "3jvUUI68ZxFYosDbQLuSBL"
+                },
+                {
+                    "artist": "BabyDrill",
+                    "title": "Just Want You (feat. Hunxho)",
+                    "uri": "0qWK7UJLquvQL7debk6UJu"
+                },
+                {
+                    "artist": "dante knockin'",
+                    "title": "Babydoll",
+                    "uri": "5AJ2BO5eUJXXRWHlTObra6"
+                }
+            ]
+        },
+        "31": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "RIRI",
+                    "title": "Comfy",
+                    "uri": "3D35McSrvV0zdqycOPzA97"
+                },
+                {
+                    "artist": "Jaeden Camstra",
+                    "title": "comfy chair",
+                    "uri": "7BndlSmNYV6rpcoMbaM0rA"
+                },
+                {
+                    "artist": "Original Sicilian Style",
+                    "title": "Scotti e senza sale",
+                    "uri": "39GTCExd4FiU3YTGmgZeoq"
+                }
+            ]
+        }
+    },
     "gelato-21st-july-2023": {
         "00": {
             "s0": "",

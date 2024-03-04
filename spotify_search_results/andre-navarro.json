@@ -6159,6 +6159,732 @@
             ]
         }
     },
+    "andre-navarro-2nd-march-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "The Beach Boys",
+                    "title": "'Til I Die - Remastered 2009",
+                    "uri": "2Uup75DRkJ03P91XyITXGC"
+                },
+                {
+                    "artist": "The Beach Boys",
+                    "title": "'Til I Die - Alternate Mix",
+                    "uri": "28aIqZUlKuDQ0CAWLSB2Ay"
+                },
+                {
+                    "artist": "The Beach Boys",
+                    "title": "'Til I Die",
+                    "uri": "3WUNxugA6pYzNDy813K4Z6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Beach Boys",
+                    "title": "'Til I Die - Remastered 2009",
+                    "uri": "2Uup75DRkJ03P91XyITXGC"
+                },
+                {
+                    "artist": "The Beach Boys",
+                    "title": "'Til I Die",
+                    "uri": "1qxhOnKOLxzMMME2RPS16H"
+                },
+                {
+                    "artist": "The Beach Boys",
+                    "title": "Wouldn't It Be Nice",
+                    "uri": "4IHc6SzGPnzSPuHVEPzpJc"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Akira Ishikawa & Count Buffaloes",
+                    "title": "Prayer",
+                    "uri": "7ixuT3e1TjOor65m3PeJtF"
+                },
+                {
+                    "artist": "Akira Ikuma",
+                    "title": "夢の鼓動",
+                    "uri": "5wGux4eHjHlZw37l8cXopT"
+                },
+                {
+                    "artist": "Akira Jimbo",
+                    "title": "Indigo",
+                    "uri": "4n3lQBLa9x5GEbdIqmLAUt"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Heatwave",
+                    "title": "Happiness Togetherness",
+                    "uri": "3hivRltQf3eEKB0BwTTa0x"
+                },
+                {
+                    "artist": "Heatwave",
+                    "title": "Happiness Togetherness",
+                    "uri": "6XqknW8WwKxXDszmuFmCSH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Heatwave",
+                    "title": "Happiness Togetherness",
+                    "uri": "3hivRltQf3eEKB0BwTTa0x"
+                },
+                {
+                    "artist": "Heatwave",
+                    "title": "Happiness Togetherness",
+                    "uri": "6XqknW8WwKxXDszmuFmCSH"
+                },
+                {
+                    "artist": "Martha Reeves & The Vandellas",
+                    "title": "(Love Is Like A) Heat Wave",
+                    "uri": "3VgrSJEKBRT3xmwzpaxxEF"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mexican Institute Of Sound",
+                    "title": "Cruzando el Río",
+                    "uri": "6BLOc8JkVz3l1SlHxIAuqo"
+                },
+                {
+                    "artist": "Juan Cruz",
+                    "title": "Tu Olvido",
+                    "uri": "0pRNAPsyHnUsC1W1w42Vt4"
+                },
+                {
+                    "artist": "Juan Cruz",
+                    "title": "La Sachacarera",
+                    "uri": "1BXaGHzzZDLwL5IS31ntuT"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Reuben James",
+                    "title": "Ruby Smiles",
+                    "uri": "5ippVyDzVqQO0NjXGO7Pi2"
+                },
+                {
+                    "artist": "Reuben James",
+                    "title": "Closer",
+                    "uri": "6aHtgW6EVioVXA7qsawYXU"
+                },
+                {
+                    "artist": "Reuben James",
+                    "title": "U Got Me",
+                    "uri": "3mRtaTacnhxzwJQK17rAaz"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Marie Laforêt",
+                    "title": "Viens, viens",
+                    "uri": "1YL6ZnHkTUCBCOHhmiffj7"
+                },
+                {
+                    "artist": "Marie Laforêt",
+                    "title": "Viens",
+                    "uri": "4kmnAJWLZUVxFIiADxcxp2"
+                },
+                {
+                    "artist": "Marie Laforêt",
+                    "title": "Viens sur la montagne",
+                    "uri": "2ZG3kylFuk0s0UEgiHIo1J"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Marie Laforêt",
+                    "title": "Viens, viens",
+                    "uri": "1YL6ZnHkTUCBCOHhmiffj7"
+                },
+                {
+                    "artist": "Marie Laforêt",
+                    "title": "Viens sur la montagne",
+                    "uri": "2ZG3kylFuk0s0UEgiHIo1J"
+                },
+                {
+                    "artist": "Marie Laforêt",
+                    "title": "Saint-tropez blues",
+                    "uri": "1AHRCyqA0oTITwSx5k6006"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Nikki Giovanni",
+                    "title": "The Way I Feel",
+                    "uri": "4AULGOIFtRC3VZmKOnIcjX"
+                },
+                {
+                    "artist": "Nikki Giovanni",
+                    "title": "The Life I Led",
+                    "uri": "1lny5mUpFarTj2T7U7XGOh"
+                },
+                {
+                    "artist": "Nikki Giovanni",
+                    "title": "The Women Gather",
+                    "uri": "6urPLDawvtFPw8IgdC10zq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nikki Giovanni",
+                    "title": "The Way I Feel",
+                    "uri": "4AULGOIFtRC3VZmKOnIcjX"
+                },
+                {
+                    "artist": "Nikki Giovanni",
+                    "title": "My House",
+                    "uri": "3ggRum4Ak5evqymlOGrAFi"
+                },
+                {
+                    "artist": "Nikki Giovanni",
+                    "title": "A Certain Peace / When I Nap",
+                    "uri": "7ujnyAoNX0Oa1rzfGjfghT"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jacky Giordano",
+                    "title": "Self Confidence",
+                    "uri": "2Ippkn3KsUQFRHlbHR4qT0"
+                },
+                {
+                    "artist": "Jacky Terrasson",
+                    "title": "Baby",
+                    "uri": "0two7TnLd5MCu418XJl8a4"
+                },
+                {
+                    "artist": "Sasaki Kentaro",
+                    "title": "Simple 01",
+                    "uri": "1ezDym4XJAgUrQ4LQTKhxb"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Brian Bennett",
+                    "title": "Solstice",
+                    "uri": "6zaXiO68HYdJZY8skqLjSG"
+                },
+                {
+                    "artist": "Brian Bennett",
+                    "title": "Solstice",
+                    "uri": "1jKCJVtcrUUEyDr2VWNwYA"
+                },
+                {
+                    "artist": "Brian Bennett",
+                    "title": "Solstice - Working Mix",
+                    "uri": "0CgsVuNGzNotCFlMsGVYnk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Brian Bennett",
+                    "title": "Solstice",
+                    "uri": "6zaXiO68HYdJZY8skqLjSG"
+                },
+                {
+                    "artist": "Brian Bennett",
+                    "title": "Solstice",
+                    "uri": "1jKCJVtcrUUEyDr2VWNwYA"
+                },
+                {
+                    "artist": "Brian Bennett",
+                    "title": "Ladybird",
+                    "uri": "1s308gmAYYsxggU0lJaDl2"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Rioland",
+                    "title": "Tension",
+                    "uri": "3z9ik3ST0njhkuyVxxukoW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rioland",
+                    "title": "Tension",
+                    "uri": "3z9ik3ST0njhkuyVxxukoW"
+                },
+                {
+                    "artist": "Kylie Minogue",
+                    "title": "Tension (Chromeo Remix)",
+                    "uri": "1FvLE1PSYgWy9t98gHyoz8"
+                },
+                {
+                    "artist": "Garrett Adair",
+                    "title": "Tension",
+                    "uri": "1DlSWB6kGiGL4I5yn8lTI4"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Gian Piero Reverberi",
+                    "title": "Windy Wendy",
+                    "uri": "1TUGa1sxiipjfvXvhJcgmg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gian Piero Reverberi",
+                    "title": "Windy Wendy",
+                    "uri": "1TUGa1sxiipjfvXvhJcgmg"
+                },
+                {
+                    "artist": "Gianfranco Reverberi",
+                    "title": "Sweet Awakening",
+                    "uri": "3rLHfCfoRqjImWoOBx5VwK"
+                },
+                {
+                    "artist": "Gianfranco Reverberi",
+                    "title": "Moon Shadows",
+                    "uri": "78XDqM5RDKdViL4s09bGAB"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Dominique Guiot",
+                    "title": "Wind Surf Ballad",
+                    "uri": "7MC8EtNZOKKFczMzpTOalq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dominique Guiot",
+                    "title": "Wind Surf Ballad",
+                    "uri": "7MC8EtNZOKKFczMzpTOalq"
+                },
+                {
+                    "artist": "Domenique Dumont",
+                    "title": "Merry-Go-Round",
+                    "uri": "4rky5NWrNfRBH14cZmiqwF"
+                },
+                {
+                    "artist": "Domenique Dumont",
+                    "title": "Message of the Diving Bird",
+                    "uri": "1NkIn479Q5zgQud2tWJsNH"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Eddy Zoltan",
+                    "title": "Mjuke Dråpar",
+                    "uri": "1Ho27LJynFceLl9oKXHwLq"
+                },
+                {
+                    "artist": "Eddy Zoltan",
+                    "title": "Mjuke dråpar",
+                    "uri": "4Uwa16vGw5Mr1NV6gBuWAE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eddy Zoltan",
+                    "title": "Mjuke Dråpar",
+                    "uri": "1Ho27LJynFceLl9oKXHwLq"
+                },
+                {
+                    "artist": "Eddy Zoltan",
+                    "title": "Mjuke dråpar",
+                    "uri": "4Uwa16vGw5Mr1NV6gBuWAE"
+                },
+                {
+                    "artist": "Eddie Meduza",
+                    "title": "Gamla glada fyrtiotal",
+                    "uri": "4kETMMKhGrINatmNhWJkgB"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Asanović Tihomir Pop",
+                    "title": "Balada O Lišću",
+                    "uri": "0WEP1LArgFg2V3SuPhkMyb"
+                },
+                {
+                    "artist": "Asanović Tihomir Pop",
+                    "title": "Balada O Lišću",
+                    "uri": "1gC8HKk6XNy1jaVVVppxum"
+                },
+                {
+                    "artist": "Asanović Tihomir Pop",
+                    "title": "Balada O Lišću",
+                    "uri": "0LSmHhEnMprFGSMxkjORmQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Asanović Tihomir Pop",
+                    "title": "Balada O Lišću",
+                    "uri": "0WEP1LArgFg2V3SuPhkMyb"
+                },
+                {
+                    "artist": "Asanović Tihomir Pop",
+                    "title": "Balada O Lišću",
+                    "uri": "1gC8HKk6XNy1jaVVVppxum"
+                },
+                {
+                    "artist": "Asanović Tihomir Pop",
+                    "title": "Balada O Lišću",
+                    "uri": "0LSmHhEnMprFGSMxkjORmQ"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Amancio D'Silva",
+                    "title": "What Maria Sees",
+                    "uri": "79YYNaLl2ndTLKDAGFZQDW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Amancio D'Silva",
+                    "title": "What Maria Sees",
+                    "uri": "79YYNaLl2ndTLKDAGFZQDW"
+                },
+                {
+                    "artist": "Amancio D'Silva",
+                    "title": "A Street In Bombay",
+                    "uri": "5lDFKx89P1ptW5fnfepY0u"
+                },
+                {
+                    "artist": "Joe Harriott",
+                    "title": "Hum Dono",
+                    "uri": "0qVAYyPGB60rQ1Ck2blYqA"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Oneness Of Juju",
+                    "title": "West Wind",
+                    "uri": "36ExmuAutSTXB00GXX8etj"
+                },
+                {
+                    "artist": "Oneness Of Juju",
+                    "title": "The Connection",
+                    "uri": "7JZHwtePlwXSHAgRVsbHWe"
+                },
+                {
+                    "artist": "Alan Menken",
+                    "title": "West Wing",
+                    "uri": "7CY1MXWnjsQMqm2OcOUnbM"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Four Tops",
+                    "title": "Still Water (Love)",
+                    "uri": "5feUxmo1qphxusEo1N9GRt"
+                },
+                {
+                    "artist": "The Hello Darlins",
+                    "title": "Still Waters",
+                    "uri": "1gm1cXrVxTiaGAADSL2kDp"
+                },
+                {
+                    "artist": "Bigg Fatts",
+                    "title": "Still Water - Slowed & Chopped",
+                    "uri": "49Mh8pi0pRKcCKwWOGJOJc"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Richard Scott Snodgrass",
+                    "title": "Rise",
+                    "uri": "0mUVsWTUNlaOmCrmEKND9X"
+                },
+                {
+                    "artist": "Dr. Richard A. Schwartz",
+                    "title": "E",
+                    "uri": "5ytaxu2Y6pYBgpnAcRRZba"
+                },
+                {
+                    "artist": "Richard Souther",
+                    "title": "The Last Roundup",
+                    "uri": "7uyxlNxCBllMan2agCxQwd"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Geoff Knorr",
+                    "title": "Sumeria (The Atomic Era)",
+                    "uri": "2waUDh18oyzc8yk1pzVpzp"
+                },
+                {
+                    "artist": "markcato",
+                    "title": "Sumeru Tavern Theme",
+                    "uri": "1lB8DAuBfDiG10zOXxrugb"
+                },
+                {
+                    "artist": "Veselin Radanov",
+                    "title": "Sumeru - Fan Theme",
+                    "uri": "5hGd08zxtDglh7eOyzPEcf"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tristan",
+                    "title": "Triptamine",
+                    "uri": "5iypSEg6inNmRr3nKCCZfz"
+                },
+                {
+                    "artist": "Tristan",
+                    "title": "Triptamine - 2020 Update",
+                    "uri": "6Nw1hXVJfNKmL5qJlWUgZv"
+                },
+                {
+                    "artist": "Atohmic",
+                    "title": "Triptaminas (Progressive Trance 2021 Mix) - Mixed",
+                    "uri": "0nFzdmJIXi1NIaPIjY1USh"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Magic Carpet Riders",
+                    "title": "Welcome to the Party - Radio-Edit",
+                    "uri": "470ZKmGeXrHUTqVt8PU3lO"
+                },
+                {
+                    "artist": "Magic Carpet",
+                    "title": "End Of The Road",
+                    "uri": "5KuReldL49ku8DY4kD5ZV6"
+                },
+                {
+                    "artist": "Magic Carpets",
+                    "title": "Out of the Window",
+                    "uri": "1so2M6NcEgkYKiMD0fPDTy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Steppenwolf",
+                    "title": "Magic Carpet Ride",
+                    "uri": "4c4jJJoaiY21t2TyRZgdWS"
+                },
+                {
+                    "artist": "NCT 127",
+                    "title": "Magic Carpet Ride",
+                    "uri": "13CDU2AlrwsYOP5U7ePifB"
+                },
+                {
+                    "artist": "NCT 127",
+                    "title": "Magic Carpet Ride",
+                    "uri": "2lAaG0GoT24Bg0DPvK7oAa"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Goo Goo Dolls",
+                    "title": "Name",
+                    "uri": "1G8jae4jD8mwkXdodqHsBM"
+                },
+                {
+                    "artist": "KID ON AN ODYSSEY",
+                    "title": "Goo Goo Gaga",
+                    "uri": "1DhXDoaPnskYyadWbwtQtq"
+                },
+                {
+                    "artist": "Jhon Chris",
+                    "title": "GoGos",
+                    "uri": "31nESdEYpRw18MGOK1wsh6"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Teo Usuelli",
+                    "title": "Il prato macchiato di rosso - Seq. 15",
+                    "uri": "5tlKwzk1uOCp3QUeoOS0f7"
+                },
+                {
+                    "artist": "Andrea Carri",
+                    "title": "Teo",
+                    "uri": "2sPL2k5wKgtmYaCQk7BSfd"
+                },
+                {
+                    "artist": "Luigi Gianfrancesco",
+                    "title": "Piacere Dartagnan",
+                    "uri": "0LmfNs1jxZEPJNnnNCh42f"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Franco Micalizzi",
+                    "title": "Robert's Theme",
+                    "uri": "5lgeTLXCTuKpLFrqmJVZ5F"
+                },
+                {
+                    "artist": "Franco Micalizzi",
+                    "title": "Sadness Theme",
+                    "uri": "1deOV8lDnZ6u4TpBqOYYUV"
+                },
+                {
+                    "artist": "Franco Micalizzi & The Big Bubbling Band",
+                    "title": "Italia a Mano Armata",
+                    "uri": "6aUGcX5DpekgPUVw6oCkm4"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "Ennio Morricone",
+                    "title": "Per Dalila (I)",
+                    "uri": "698Ak6n53H4mly9UH3QI1U"
+                },
+                {
+                    "artist": "Ennio Morricone",
+                    "title": "Per Dalila",
+                    "uri": "0EAEKGLWdWUWw7P3TRGUbn"
+                },
+                {
+                    "artist": "Ennio Morricone",
+                    "title": "Per Dalila #2",
+                    "uri": "7xZlUS2bA5RDAtazzyHq5W"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ennio Morricone",
+                    "title": "Per Dalila - From \"Il bandito dagli occhi azzurri\"",
+                    "uri": "2iXzDozevgItZ8I3OqG9GH"
+                },
+                {
+                    "artist": "Ennio Morricone",
+                    "title": "Per Dalila",
+                    "uri": "0EAEKGLWdWUWw7P3TRGUbn"
+                },
+                {
+                    "artist": "Ennio Morricone",
+                    "title": "Per Dalila #2",
+                    "uri": "7xZlUS2bA5RDAtazzyHq5W"
+                }
+            ]
+        },
+        "25": {
+            "s0": [
+                {
+                    "artist": "Elvio Monti",
+                    "title": "Love, Soul, Love",
+                    "uri": "2U527eBssvR7BwzlkHbObU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Elvio Monti",
+                    "title": "Love, Soul, Love",
+                    "uri": "2U527eBssvR7BwzlkHbObU"
+                },
+                {
+                    "artist": "Elvio Monti",
+                    "title": "Bossalonga",
+                    "uri": "6l6IwJXg0TdT70uVCruw5i"
+                },
+                {
+                    "artist": "Elvio Martín",
+                    "title": "Placidus",
+                    "uri": "0k5fYqZwhHGPxMxmLYg6gu"
+                }
+            ]
+        },
+        "26": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sketch Show",
+                    "title": "Supreme Secret",
+                    "uri": "0tNbAwFzCsq54H2MJwH80h"
+                },
+                {
+                    "artist": "Thuma Mina",
+                    "title": "Solomon",
+                    "uri": "4y2MbaorOfE7LXB4bzC2gR"
+                },
+                {
+                    "artist": "Supreme Skillz",
+                    "title": "Face",
+                    "uri": "3B2lKCZiZ5capuewwFCTOc"
+                }
+            ]
+        },
+        "27": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gianni Marchetti",
+                    "title": "Una bossa piccola piccola 1",
+                    "uri": "3yOxLxsu6ibyxvIReuUb5M"
+                },
+                {
+                    "artist": "Gianni Marchetti",
+                    "title": "Il segreto di una diciottenne",
+                    "uri": "3BJnEQNMLmUkqFiiDGK1Fk"
+                },
+                {
+                    "artist": "Gianni Parrini",
+                    "title": "Beloved - Radio",
+                    "uri": "2Tn282P3LJFp9aEmWUiUFY"
+                }
+            ]
+        }
+    },
     "andre-navarro-3rd-february-2024": {
         "00": {
             "s0": "",
