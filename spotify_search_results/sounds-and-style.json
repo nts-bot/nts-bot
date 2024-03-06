@@ -1,4 +1,510 @@
 {
+    "sounds-and-style-heidi-bivens-6th-march-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Bikini Kill",
+                    "title": "This Is Not a Test",
+                    "uri": "1UDBHB9xpgiJF7pUDlI0eg"
+                },
+                {
+                    "artist": "Bikini Kill",
+                    "title": "This Is Not a Test",
+                    "uri": "2wtTxiBekNiST4pF0ODF1J"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bikini Kill",
+                    "title": "This Is Not a Test",
+                    "uri": "1UDBHB9xpgiJF7pUDlI0eg"
+                },
+                {
+                    "artist": "Bikini Kill",
+                    "title": "This Is Not a Test",
+                    "uri": "2wtTxiBekNiST4pF0ODF1J"
+                },
+                {
+                    "artist": "Dawin",
+                    "title": "Bikini Body",
+                    "uri": "0mM39ptTtRKkeSfwsFKFxt"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Slits",
+                    "title": "Man Next Door",
+                    "uri": "5KIdc61y8co2zgfiweoUm5"
+                },
+                {
+                    "artist": "The Slits",
+                    "title": "Man Next Door",
+                    "uri": "5zfQQBwACA935lVdKQRPC2"
+                },
+                {
+                    "artist": "Massive Attack",
+                    "title": "Man Next Door",
+                    "uri": "2Tz5THgkMOQeaW6DlqAlIa"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "X-Ray Spex",
+                    "title": "Art-I-Ficial",
+                    "uri": "382zFMHyMbvNdl8sIjvgMM"
+                },
+                {
+                    "artist": "X-Ray Spex",
+                    "title": "Art-i-ficial",
+                    "uri": "6Y0geE6381hIfQTa9noShC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "X-Ray Spex",
+                    "title": "Art-I-Ficial",
+                    "uri": "382zFMHyMbvNdl8sIjvgMM"
+                },
+                {
+                    "artist": "X-Ray Spex",
+                    "title": "Art-i-ficial",
+                    "uri": "6Y0geE6381hIfQTa9noShC"
+                },
+                {
+                    "artist": "X-Ray Spex",
+                    "title": "Identity",
+                    "uri": "0vlD6vTcdjXOt2eBwBFhRm"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sonic Youth",
+                    "title": "Doctor's Orders",
+                    "uri": "0Tft0gghYiosRFVH7e5ZRD"
+                },
+                {
+                    "artist": "Sonic Youth",
+                    "title": "Teen Age Riot (Album Version)",
+                    "uri": "0WIbzDVEpmOyBnqqdtqIL9"
+                },
+                {
+                    "artist": "Sonic Youth",
+                    "title": "Mildred Pierce",
+                    "uri": "7yHKJKvbi5xfHj0QTWUdDT"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Nirvana",
+                    "title": "About A Girl",
+                    "uri": "2SHTKB8YYlawTGIuJ2b2ok"
+                },
+                {
+                    "artist": "Nirvana",
+                    "title": "About A Girl - Live",
+                    "uri": "48YkpE5enOln5c7jXSTuHL"
+                },
+                {
+                    "artist": "Nirvana",
+                    "title": "About A Girl",
+                    "uri": "55yvzYuvJYG2RUEnMK78tr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nirvana",
+                    "title": "About A Girl",
+                    "uri": "2SHTKB8YYlawTGIuJ2b2ok"
+                },
+                {
+                    "artist": "Nirvana",
+                    "title": "About A Girl - Live",
+                    "uri": "48YkpE5enOln5c7jXSTuHL"
+                },
+                {
+                    "artist": "Nirvana",
+                    "title": "About A Girl",
+                    "uri": "55yvzYuvJYG2RUEnMK78tr"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Fugazi",
+                    "title": "Arpeggiator - Demo",
+                    "uri": "13K9j1LuwhjqeQb13C2yzi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fugazi",
+                    "title": "Arpeggiator - Demo",
+                    "uri": "13K9j1LuwhjqeQb13C2yzi"
+                },
+                {
+                    "artist": "Fugazi",
+                    "title": "Arpeggiator",
+                    "uri": "3reyhsL4ScQCL8ZoG2sbXV"
+                },
+                {
+                    "artist": "Fugazi",
+                    "title": "I'm So Tired",
+                    "uri": "6JgHKt0WwdwlXIht6M0mqa"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Folk Implosion",
+                    "title": "Nothing Gonna Stop",
+                    "uri": "2yYZ26Qmsn5e0su5G6do3E"
+                },
+                {
+                    "artist": "Folk Implosion",
+                    "title": "Nothing Gonna Stop - 2023 Live Session",
+                    "uri": "6LrIDW87WChaMZBNmiWBnx"
+                },
+                {
+                    "artist": "Folk Implosion",
+                    "title": "Nothing Gonna Stop - Instrumental",
+                    "uri": "2gcYkVIlp8WO2lZ8Qa1zPS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Folk Implosion",
+                    "title": "Nothing Gonna Stop",
+                    "uri": "2yYZ26Qmsn5e0su5G6do3E"
+                },
+                {
+                    "artist": "Folk Implosion",
+                    "title": "Nothing Gonna Stop - 2023 Live Session",
+                    "uri": "6LrIDW87WChaMZBNmiWBnx"
+                },
+                {
+                    "artist": "Folk Implosion",
+                    "title": "Insinuation",
+                    "uri": "6S7S9iXBzkQLK058mRbOrX"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Shakatak",
+                    "title": "Low Down",
+                    "uri": "1NPUNrxcczQnAL0bkLkX4r"
+                },
+                {
+                    "artist": "Mario Biondi",
+                    "title": "Lowdown (feat. Incognito & Chaka Khan)",
+                    "uri": "3pAuycJ8CsUo8JUVBYwrcJ"
+                },
+                {
+                    "artist": "MondoeSix4",
+                    "title": "Low Down",
+                    "uri": "1aVGKoEuIlJp8qDNME4IWl"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Nas",
+                    "title": "One Time 4 Your Mind",
+                    "uri": "3p50PUgtBHM6rwUuD3RfFV"
+                },
+                {
+                    "artist": "Nas",
+                    "title": "One Time 4 Your Mind (feat. National Symphony Orchestra) - Live",
+                    "uri": "2Kl5Su2ojnW0sF6PqPeqCu"
+                },
+                {
+                    "artist": "Nas",
+                    "title": "One Time 4 Your Mind",
+                    "uri": "2pod1OYOrNtZmKbEuy1CD0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nas",
+                    "title": "One Time 4 Your Mind",
+                    "uri": "3p50PUgtBHM6rwUuD3RfFV"
+                },
+                {
+                    "artist": "Nas",
+                    "title": "One Time 4 Your Mind",
+                    "uri": "2pod1OYOrNtZmKbEuy1CD0"
+                },
+                {
+                    "artist": "Nas",
+                    "title": "Nas Is Like",
+                    "uri": "3gY6tiCNsuVi6s8kPV6aQg"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "10cc",
+                    "title": "Donna",
+                    "uri": "4YUx4HFEGRxM4gpblM8qpD"
+                },
+                {
+                    "artist": "10cc",
+                    "title": "Donna",
+                    "uri": "0BmkLc8PwY27G7zs1mtdDF"
+                },
+                {
+                    "artist": "10cc",
+                    "title": "Donna",
+                    "uri": "3wSaVY4rEIAwl5RcHfSUrz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "10cc",
+                    "title": "Donna",
+                    "uri": "4YUx4HFEGRxM4gpblM8qpD"
+                },
+                {
+                    "artist": "10cc",
+                    "title": "Donna",
+                    "uri": "0BmkLc8PwY27G7zs1mtdDF"
+                },
+                {
+                    "artist": "10cc",
+                    "title": "I'm Not In Love",
+                    "uri": "5HQEmiV2lKnSO6qa2fsR7x"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Seals and Crofts",
+                    "title": "Yellow Dirt",
+                    "uri": "26JNvurYV0BtIT5UPBCiB4"
+                },
+                {
+                    "artist": "Seals and Crofts",
+                    "title": "Yellow Dirt",
+                    "uri": "4NFbywKxX5BRuTT5EMYXeb"
+                },
+                {
+                    "artist": "Seals and Crofts",
+                    "title": "Yellow Dirt",
+                    "uri": "1WdlCF7bA5KwtYICPddEXQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Seals and Crofts",
+                    "title": "Yellow Dirt",
+                    "uri": "26JNvurYV0BtIT5UPBCiB4"
+                },
+                {
+                    "artist": "Seals and Crofts",
+                    "title": "Yellow Dirt",
+                    "uri": "4NFbywKxX5BRuTT5EMYXeb"
+                },
+                {
+                    "artist": "Seals and Crofts",
+                    "title": "Yellow Dirt",
+                    "uri": "1WdlCF7bA5KwtYICPddEXQ"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Steely Dan",
+                    "title": "Midnite Cruiser",
+                    "uri": "7y5nJToPWMjtJLcLEGxyGf"
+                },
+                {
+                    "artist": "Steely Dan",
+                    "title": "Midnite Cruiser",
+                    "uri": "1Ukz0CbWzSxCx8IEMGvvIE"
+                },
+                {
+                    "artist": "Steely Dan",
+                    "title": "Midnite Cruiser",
+                    "uri": "7nu3PVfsljvw6AFX5YMEIy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Steely Dan",
+                    "title": "Midnite Cruiser",
+                    "uri": "7y5nJToPWMjtJLcLEGxyGf"
+                },
+                {
+                    "artist": "Steely Dan",
+                    "title": "Reelin' In The Years",
+                    "uri": "1x1XQqhBViz4opcpwc7FVs"
+                },
+                {
+                    "artist": "Steely Dan",
+                    "title": "Midnite Cruiser",
+                    "uri": "7nu3PVfsljvw6AFX5YMEIy"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Angelo Badalamenti",
+                    "title": "Jeffrey's Dark Side",
+                    "uri": "4OMnAbP12SFmma0mHiRruQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Angelo Badalamenti",
+                    "title": "Jeffrey's Dark Side",
+                    "uri": "4OMnAbP12SFmma0mHiRruQ"
+                },
+                {
+                    "artist": "Angelo Badalamenti",
+                    "title": "Laura Palmer's Theme - Instrumental",
+                    "uri": "7Bk3p8UqcP4sItaWNWbvXL"
+                },
+                {
+                    "artist": "Angelo Badalamenti",
+                    "title": "Twin Peaks Theme - Instrumental",
+                    "uri": "7FO7BolIZsl1o8DDSjeOph"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Julee Cruise",
+                    "title": "Mysteries of Love",
+                    "uri": "0jF5G6LnVRX92gFTnKxIbx"
+                },
+                {
+                    "artist": "Julee Cruise",
+                    "title": "Mysteries of Love",
+                    "uri": "1G0x4clUBPFRi6YwUdpRFN"
+                },
+                {
+                    "artist": "Julee Cruise",
+                    "title": "Mysteries of Love",
+                    "uri": "5boWRji5NQuJbKKUq2vetv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Julee Cruise",
+                    "title": "Mysteries of Love",
+                    "uri": "0jF5G6LnVRX92gFTnKxIbx"
+                },
+                {
+                    "artist": "Julee Cruise",
+                    "title": "Mysteries of Love",
+                    "uri": "5boWRji5NQuJbKKUq2vetv"
+                },
+                {
+                    "artist": "Julee Cruise",
+                    "title": "The Nightingale",
+                    "uri": "5kEcXZZS97TSNXc6174Ed6"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Mica Levi",
+                    "title": "Lonely Void",
+                    "uri": "7g60ZczXsAtKpx3iGwOkQe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mica Levi",
+                    "title": "Lonely Void",
+                    "uri": "7g60ZczXsAtKpx3iGwOkQe"
+                },
+                {
+                    "artist": "Mica Levi",
+                    "title": "Pre-Barok",
+                    "uri": "0i0KghJaQOU1pY4lfaUjqR"
+                },
+                {
+                    "artist": "Mica Levi",
+                    "title": "Bedroom",
+                    "uri": "4bRlaUvBsaaLBlZ9xrFajU"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "David Lynch",
+                    "title": "Ghost of Love",
+                    "uri": "6JD6jBkORvpWXju3j4L0oL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "David Lynch",
+                    "title": "Ghost of Love",
+                    "uri": "6JD6jBkORvpWXju3j4L0oL"
+                },
+                {
+                    "artist": "David Lynch",
+                    "title": "Imaginary Girl",
+                    "uri": "4LB2BMPWop9UtcTJf5uF2s"
+                },
+                {
+                    "artist": "David Linard",
+                    "title": "Cafe Gitane",
+                    "uri": "4ToHHv0Cuwb6n8NiUOecof"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Tirzah",
+                    "title": "I’m Not Dancing - Greco-Roman Soundsystem Dub",
+                    "uri": "5aeBnhcrlIJeg1N5oElSaA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tirzah",
+                    "title": "I'm Not Dancing",
+                    "uri": "5EdLxCgzxPaUgD62LCBmWK"
+                },
+                {
+                    "artist": "Tirzah",
+                    "title": "Ooo Never",
+                    "uri": "1RIobw2bC0MblST5v4kbRR"
+                },
+                {
+                    "artist": "Tirzah",
+                    "title": "he made",
+                    "uri": "56uvLOkCrks25PTH4h1jBl"
+                }
+            ]
+        }
+    },
     "sounds-and-style-jawara-28th-february-2024": {
         "00": {
             "s0": [

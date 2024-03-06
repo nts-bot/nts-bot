@@ -3457,6 +3457,119 @@
             ]
         }
     },
+    "true-as-few-5th-march-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jaime Rodríguez Roa",
+                    "title": "Concert dels Àngels: I. Molto lento",
+                    "uri": "0V3yTlw9UPKBReR5X9U6D3"
+                },
+                {
+                    "artist": "Jaime Rodríguez Roa",
+                    "title": "Concert dels Àngels: V. Molto tranquilo",
+                    "uri": "17ZBCLqrgpB5OlIdKfG25R"
+                },
+                {
+                    "artist": "Joseph Solomon",
+                    "title": "Officially Missing You",
+                    "uri": "4pd17VRAwDnii6YS8Nt6Ug"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kreuther Klarinettenmusi",
+                    "title": "Klarinett Jodler - 3 Klarinetten",
+                    "uri": "62OmeDx8yLN1BQEk7hcJ90"
+                },
+                {
+                    "artist": "Wolfgang Amadeus Mozart",
+                    "title": "Klarinettenkonzert A-Dur, K. 622: 2. Adagio (Jenseits von Afrika): II. Adagio",
+                    "uri": "4a2qoYY6xINDXtUOBFbJ6d"
+                },
+                {
+                    "artist": "Edelweiss Xpress",
+                    "title": "Heisse Klarinetten",
+                    "uri": "79EksmZddngyOosGmhprhP"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Josep Soler Sarda",
+                    "title": "String Quartet No. 1",
+                    "uri": "5PejyPHigDZdehZbDnVAIx"
+                },
+                {
+                    "artist": "Josep Soler Sarda",
+                    "title": "String Quartet No. 1",
+                    "uri": "0BU5EtEqaxXxEmsNy6nyhe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Josep Soler Sarda",
+                    "title": "String Quartet No. 1",
+                    "uri": "5PejyPHigDZdehZbDnVAIx"
+                },
+                {
+                    "artist": "Josep Soler Sarda",
+                    "title": "String Quartet No. 1",
+                    "uri": "0BU5EtEqaxXxEmsNy6nyhe"
+                },
+                {
+                    "artist": "Eder Quartet",
+                    "title": "String Quartet No. 2 in D Major, K. 155: III. Molto allegro",
+                    "uri": "3zQSHezFD67KjBoSTKtqET"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Clint Mansell",
+                    "title": "Lux Aeterna",
+                    "uri": "62Da3JOu9H9EIgmqV7DoLG"
+                },
+                {
+                    "artist": "Slovak Philharmonic",
+                    "title": "Requiem In D Minor, K. 626: Sequence: I. Dies Irae",
+                    "uri": "2RVry0sPmDSZxnna3HAw7g"
+                },
+                {
+                    "artist": "Wolfgang Amadeus Mozart",
+                    "title": "Requiem, K. 626: III. Sequentia: a. Dies irae (Orch. Süssmayr, Beyer) - Live",
+                    "uri": "2d7C38EFmRjhBoDVQlkBwq"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Antonio Soler",
+                    "title": "Keyboard Sonata No. 89 in F Major",
+                    "uri": "0xSc40rLG2kMwVDyhB6Z2K"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Concierto para Clave Nº 5, BWV 1056: II. Largo - Versión eléctrica con órgano Hammond y Bajo eléctrico",
+                    "uri": "1BqnIrY1hDUWtA2qlz9LNa"
+                },
+                {
+                    "artist": "Luis Maravilla",
+                    "title": "Soleares y Seguiriyas (with Pepe Valencia)",
+                    "uri": "4VLKe6av0P6uEaxHU8CaI2"
+                }
+            ]
+        }
+    },
     "true-as-few-6th-february-2024": {
         "00": {
             "s0": [

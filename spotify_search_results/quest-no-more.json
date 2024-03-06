@@ -12956,6 +12956,440 @@
             ]
         }
     },
+    "quest-no-more-5th-march-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Major Lazer",
+                    "title": "Get Free",
+                    "uri": "11pO5Lbbvl848v49IEnq6c"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Major Lazer",
+                    "title": "Get Free",
+                    "uri": "11pO5Lbbvl848v49IEnq6c"
+                },
+                {
+                    "artist": "Major Lazer",
+                    "title": "Lean On",
+                    "uri": "01aTsQoKoeXofSTvKuunzv"
+                },
+                {
+                    "artist": "Major Lazer",
+                    "title": "Cold Water",
+                    "uri": "13pVIIellD76zNT1APT1De"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Erykah Badu",
+                    "title": "Phone Down",
+                    "uri": "3aapF0aOexc3GMvVuu2Wdw"
+                },
+                {
+                    "artist": "Erykah Badu",
+                    "title": "Didn't Cha Know",
+                    "uri": "7pv80uUHfocFqfTytu1MVi"
+                },
+                {
+                    "artist": "Dominic Fike",
+                    "title": "Phone Numbers",
+                    "uri": "3f9Mzvd3URfbbIJBX4pz9Z"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "James Blake",
+                    "title": "Limit To Your Love",
+                    "uri": "2bN58GareTPp89qlI9j0rk"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "James Blake",
+                    "title": "Limit To Your Love",
+                    "uri": "2bN58GareTPp89qlI9j0rk"
+                },
+                {
+                    "artist": "Kick Back Ohio",
+                    "title": "Limit To Your Love (in the style of James Blake)",
+                    "uri": "0gsRSCk1XYLnEDuw0hgiU0"
+                },
+                {
+                    "artist": "Travis Scott",
+                    "title": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
+                    "uri": "76gcXhY3Zv6wW0BTe9nHJo"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Steve Lacy",
+                    "title": "Static",
+                    "uri": "4OmfWzukSVD140NiAIEjem"
+                },
+                {
+                    "artist": "Steve Lacy",
+                    "title": "Uuuu",
+                    "uri": "6M0EP76qW9TG4SNU0agu94"
+                },
+                {
+                    "artist": "Steve Lacy",
+                    "title": "C U Girl",
+                    "uri": "6FBzhcfgGacfXF3AmtfEaX"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Steve Miller Band",
+                    "title": "Fly Like An Eagle",
+                    "uri": "3e0FzZjTXOUtiJGSClOBrI"
+                },
+                {
+                    "artist": "Steve Miller Band",
+                    "title": "Fly Like An Eagle - Live",
+                    "uri": "5ltZYU8LCCMZVU8CVTY2Jc"
+                },
+                {
+                    "artist": "Steve Miller Band",
+                    "title": "Fly Like An Eagle",
+                    "uri": "206ttXt6yHnDAMRX1EsTfu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Steve Miller Band",
+                    "title": "Fly Like An Eagle",
+                    "uri": "3e0FzZjTXOUtiJGSClOBrI"
+                },
+                {
+                    "artist": "Steve Miller Band",
+                    "title": "Fly Like An Eagle",
+                    "uri": "206ttXt6yHnDAMRX1EsTfu"
+                },
+                {
+                    "artist": "Steve Miller Band",
+                    "title": "Wild Mountain Honey - Live",
+                    "uri": "4q1zEnloytwbDp4PCU78MY"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Nina Simone",
+                    "title": "Feeling Good",
+                    "uri": "6Rqn2GFlmvmV4w9Ala0I1e"
+                },
+                {
+                    "artist": "Nina Simone",
+                    "title": "Feeling Good",
+                    "uri": "1VNfpCEQ0PfyfbuE5N8alF"
+                },
+                {
+                    "artist": "Nina Simone",
+                    "title": "Feeling Good - Austin Millz Remix",
+                    "uri": "5DQFUDNNpdu2l3ZyE8GHON"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nina Simone",
+                    "title": "Feeling Good",
+                    "uri": "6Rqn2GFlmvmV4w9Ala0I1e"
+                },
+                {
+                    "artist": "Nina Simone",
+                    "title": "Feeling Good - Austin Millz Remix",
+                    "uri": "5DQFUDNNpdu2l3ZyE8GHON"
+                },
+                {
+                    "artist": "Nina Simone",
+                    "title": "I Wish I Knew How It Would Feel to Be Free",
+                    "uri": "5CKHhg31HcYYhwUeeGqvhq"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "MEGA NRG MAN",
+                    "title": "Burning Desire - Extended Ver.",
+                    "uri": "5RTvRpgs4jCQLhdq8vi1nD"
+                },
+                {
+                    "artist": "MEGA NRG MAN",
+                    "title": "BURNING DESIRE",
+                    "uri": "0y7YiWYGKo6BCSJs6Xblr6"
+                },
+                {
+                    "artist": "MEGA NRG MAN",
+                    "title": "BURNING DESIRE - NEW GENERATION MIX",
+                    "uri": "2Jk3W6kwd6Q4qhy9Asi2al"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "JAY-Z",
+                    "title": "03' Bonnie & Clyde",
+                    "uri": "5ljCWsDlSyJ41kwqym2ORw"
+                },
+                {
+                    "artist": "YUQI",
+                    "title": "Bonnie & Clyde",
+                    "uri": "21aIsunB7PfZI0vlIoaJPh"
+                },
+                {
+                    "artist": "Keydom",
+                    "title": "BONNIE N CLYDE",
+                    "uri": "5NqfVq1QskHSnM3tohvm2K"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Sister Sledge",
+                    "title": "He’s the Greatest Dancer",
+                    "uri": "2Vf3aqKqw5HZwXEPSGMIYL"
+                },
+                {
+                    "artist": "Sister Sledge",
+                    "title": "He's The Greatest Dancer (Super Star Mix)",
+                    "uri": "61f9g0bMsh7duF4t9XrhJG"
+                },
+                {
+                    "artist": "Sister Sledge",
+                    "title": "He’s the Greatest Dancer",
+                    "uri": "0CGy0OpOwmAHVETDQ9QVsD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sister Sledge",
+                    "title": "He's the Greatest Dancer - 1995 Remaster",
+                    "uri": "5WwRKYnVy9dekqXAGPbAvU"
+                },
+                {
+                    "artist": "Sister Sledge",
+                    "title": "He's the Greatest Dancer - Remix",
+                    "uri": "4VCy6ZbfkPi9lMDpu4LZua"
+                },
+                {
+                    "artist": "Sister Sledge",
+                    "title": "We Are Family - 1995 Remaster",
+                    "uri": "5IKLwqBQG6KU6MP2zP80Nu"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Frank Ocean",
+                    "title": "Ivy",
+                    "uri": "2ZWlPOoWh0626oTaHrnl2a"
+                },
+                {
+                    "artist": "Frank Ocean",
+                    "title": "White",
+                    "uri": "1VMdwVq0yaTc4DeqSCi7DO"
+                },
+                {
+                    "artist": "Calvin Harris",
+                    "title": "Slide (feat. Frank Ocean & Migos)",
+                    "uri": "7tr2za8SQg2CI8EDgrdtNl"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Noah Beall",
+                    "title": "USED",
+                    "uri": "6opcd3cqH6YSDZmtYaA1S3"
+                },
+                {
+                    "artist": "Noah Beall",
+                    "title": "Broken",
+                    "uri": "3AN6q0vftRn2mCLWBpvlf8"
+                },
+                {
+                    "artist": "Noah Black",
+                    "title": "Real Love",
+                    "uri": "6J1ZK0BD721nz0YCCSrzmE"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Pink Floyd",
+                    "title": "Another Brick in the Wall, Pt. 2",
+                    "uri": "4gMgiXfqyzZLMhsksGmbQV"
+                },
+                {
+                    "artist": "Pink Floyd",
+                    "title": "Another Brick in the Wall, Pt. 1",
+                    "uri": "7K6xMPtAjTuLPNlJMLf5bS"
+                },
+                {
+                    "artist": "Pink Floyd",
+                    "title": "Another Brick in the Wall, Pt. 3",
+                    "uri": "5A7eooPKJHtr0UJmatjH4a"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pink Floyd",
+                    "title": "Another Brick in the Wall, Pt. 2",
+                    "uri": "4gMgiXfqyzZLMhsksGmbQV"
+                },
+                {
+                    "artist": "Pink Floyd",
+                    "title": "Another Brick in the Wall, Pt. 1",
+                    "uri": "7K6xMPtAjTuLPNlJMLf5bS"
+                },
+                {
+                    "artist": "Pink Floyd",
+                    "title": "Another Brick in the Wall, Pt. 3",
+                    "uri": "5A7eooPKJHtr0UJmatjH4a"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mount Kimbie",
+                    "title": "You Took Your Time (feat. King Krule)",
+                    "uri": "49BU1Ib1JeHPsPFhMqVZqu"
+                },
+                {
+                    "artist": "Mount Kimbie",
+                    "title": "Dumb Guitar",
+                    "uri": "50UWt4jx8Y1t8EoV0ODKDL"
+                },
+                {
+                    "artist": "Mount Kimbie",
+                    "title": "Fishbrain",
+                    "uri": "0xEHXAoanem0YrAZ2HMFRY"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Zara Larsson",
+                    "title": "So Good (feat. Ty Dolla $ign)",
+                    "uri": "54LGxQGf5LPXNGjtzDZ5IE"
+                },
+                {
+                    "artist": "Halsey",
+                    "title": "So Good",
+                    "uri": "6kxaaIeowajN7w21PfMLbu"
+                },
+                {
+                    "artist": "Davina Michelle",
+                    "title": "Nobody Is Perfect",
+                    "uri": "4eYWXD97mSKpK7r3PIC9Zr"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Noah Becker",
+                    "title": "Around the Corner - Original",
+                    "uri": "2SnZ2OwLS5njYAAdrUOe20"
+                },
+                {
+                    "artist": "Noah Becker",
+                    "title": "Around the Corner - Noah's Original Re-edit",
+                    "uri": "0fp8AXWUuK0sx8HrUQAT59"
+                },
+                {
+                    "artist": "Noah Becker",
+                    "title": "Around the Corner - Deep Cycle's 2012 Remix",
+                    "uri": "3k7vMXJUOBO3kjmKnRkeex"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Noah Becker",
+                    "title": "Around the Corner - Original",
+                    "uri": "2SnZ2OwLS5njYAAdrUOe20"
+                },
+                {
+                    "artist": "Noah Becker",
+                    "title": "Around the Corner - Noah's Original Re-edit",
+                    "uri": "0fp8AXWUuK0sx8HrUQAT59"
+                },
+                {
+                    "artist": "Noah Beall",
+                    "title": "TOXIC",
+                    "uri": "0ZCL7hTEUqrZ3jq2B5GIqj"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Noah Becker",
+                    "title": "Lethal",
+                    "uri": "2dFGHqkEA47xHk9bnBFpFk"
+                },
+                {
+                    "artist": "Noah Beall",
+                    "title": "USED",
+                    "uri": "6opcd3cqH6YSDZmtYaA1S3"
+                },
+                {
+                    "artist": "Noah Weaver",
+                    "title": "Can't Sleep",
+                    "uri": "1KNptTGCpnJoubsWPwOLcP"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "太鼓の達人",
+                    "title": "HARDCOREノ心得",
+                    "uri": "2Od41VSEgk8nedhxaHbAzs"
+                },
+                {
+                    "artist": "Ken Carson",
+                    "title": "Hardcore",
+                    "uri": "39xDX63yonTblgoHdTKLtI"
+                },
+                {
+                    "artist": "Apayo",
+                    "title": "HARDCORE BEAT",
+                    "uri": "0ZfrHbDZsr8TL71JIR5K99"
+                }
+            ]
+        }
+    },
     "quest-no-more-6th-april-2021": {
         "00": {
             "s0": [
