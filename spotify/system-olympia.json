@@ -460,6 +460,68 @@
             "trackid": "5h6gKjJcNotGhdNwUACtCx"
         }
     },
+    "system-olympia-11th-march-2024": {
+        "00": {
+            "artist": "Nora Orlandi",
+            "ratio": 9,
+            "title": "Libidine 3",
+            "trackid": "2fDP5urE70IE0nXNyfU6PM"
+        },
+        "01": {
+            "artist": "Lucio Battisti",
+            "ratio": 9,
+            "title": "Io gli ho detto no",
+            "trackid": "1lzRd8Eg3xKKL7iZridrWt"
+        },
+        "02": {
+            "artist": "Hokage Simon",
+            "ratio": 9,
+            "title": "Fancy Clown",
+            "trackid": "1lG87HiZE3qQvAHLsZsGZx"
+        },
+        "03": {
+            "artist": "Keith Mansfield",
+            "ratio": 4,
+            "title": "Funky Fanfare",
+            "trackid": "3Vr406z58yyyO2Ofh1fbqA"
+        },
+        "04": {
+            "artist": "Bill Evans",
+            "ratio": 9,
+            "title": "The Dolphin - After",
+            "trackid": "1j6Tc3zhI4w73YWVwndwyA"
+        },
+        "05": {
+            "artist": "Bassolino",
+            "ratio": 9,
+            "title": "Napoli Visionaria",
+            "trackid": "2rwE6iIEa9Qid2DEoX3UEb"
+        },
+        "06": {
+            "artist": "Bassolino",
+            "ratio": 9,
+            "title": "'E Parole",
+            "trackid": "4o4f0Cddeo8fTA4Rc3ZP5c"
+        },
+        "07": {
+            "artist": "Bassolino",
+            "ratio": 9,
+            "title": "Oro Di Miele",
+            "trackid": "2E6lvSzVJNFwy0CMnhEqYb"
+        },
+        "08": {
+            "artist": "Bassolino",
+            "ratio": 9,
+            "title": "Città Futura",
+            "trackid": "6eKPdRjUepZxs8GyaSfuap"
+        },
+        "09": {
+            "artist": "Cristiano Malgioglio",
+            "ratio": 9,
+            "title": "...Io, la pantera...",
+            "trackid": "0SJLfO81DQ7HvIEWqAHA4n"
+        }
+    },
     "system-olympia-11th-november-2017": {
         "00": {
             "artist": "Surprise Chef",
@@ -717,6 +779,86 @@
             "ratio": 9,
             "title": "I'll Be Your Mirror",
             "trackid": "4PINSJIlBWsnVeveicq1S8"
+        }
+    },
+    "system-olympia-12th-february-2024": {
+        "00": {
+            "artist": "George Koutalieris",
+            "ratio": 9,
+            "title": "In The House Of Troisi",
+            "trackid": "6QEl05ArrQ5Iv8KY88DugH"
+        },
+        "01": {
+            "artist": "O.V. Wright",
+            "ratio": 9,
+            "title": "Let's Straighten It Out",
+            "trackid": "12n47FuVsiUGug0xkiGkSc"
+        },
+        "02": {
+            "artist": "Su Kramer",
+            "ratio": 9,
+            "title": "Magic Dance - Remastered",
+            "trackid": "2gmDBlJ5WYkaNoCfWtcb65"
+        },
+        "03": {
+            "artist": "Marianne Rosenberg",
+            "ratio": 4,
+            "title": "Marleen - Remix '90",
+            "trackid": "6a6HhT6nOwbN11cz4GwX8V"
+        },
+        "04": {
+            "artist": "Netsky",
+            "ratio": 9,
+            "title": "Everybody Loves The Sunshine",
+            "trackid": "4ch0ejqrSwJrotLroa9mXn"
+        },
+        "05": {
+            "artist": "Alberto Baldan Bembo",
+            "ratio": 5,
+            "title": "Linda",
+            "trackid": "6zE2xJvFmHEPECsvLki2CE"
+        },
+        "06": {
+            "artist": "Emma Dorgu",
+            "ratio": 9,
+            "title": "Rover Man",
+            "trackid": "03iqwLGZXaWvCwE301Bgme"
+        },
+        "07": {
+            "artist": "Cymande",
+            "ratio": 9,
+            "title": "Brothers On The Slide",
+            "trackid": "3ObBmm3X92aff7Dct4drkj"
+        },
+        "08": {
+            "artist": "William Bell",
+            "ratio": 9,
+            "title": "Private Number",
+            "trackid": "3AXo2kHagfMQsVQyzzPac3"
+        },
+        "09": {
+            "artist": "Rinder & Lewis",
+            "ratio": 9,
+            "title": "Lust - Disco Remix",
+            "trackid": "57dFxEiwpjctLkJ4e8tLpH"
+        },
+        "10": {
+            "artist": "Lorraine Johnson",
+            "ratio": 9,
+            "title": "The More I Get the More I Want",
+            "trackid": "646oiuVTJJpfUJlprBSKIk"
+        },
+        "11": {
+            "artist": "Eli Escobar",
+            "ratio": 3,
+            "title": "Fixed Our Love",
+            "trackid": "0wRidSQ8u52CyK5wQ1OwrJ"
+        },
+        "12": {
+            "artist": "Pino Daniele",
+            "ratio": 9,
+            "title": "Ma che ho - 2021 Remaster",
+            "trackid": "0SW8sqzkU6PqLTtxORLETw"
         }
     },
     "system-olympia-12th-october-2019": {

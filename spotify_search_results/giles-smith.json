@@ -3110,5 +3110,514 @@
                 }
             ]
         }
+    },
+    "giles-smith-7th-march-2024": {
+        "00": {
+            "s0": "",
+            "s1": ""
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Frank Zappa",
+                    "title": "Mr. Green Genes",
+                    "uri": "5SzSSh6METLV9PxYrSDDVn"
+                },
+                {
+                    "artist": "VoidedLegacy",
+                    "title": "Mr Heartbreak",
+                    "uri": "6RzQzjMWnHu0PX2uRSBFOM"
+                },
+                {
+                    "artist": "Big Prodeje",
+                    "title": "Chuccs & Khakis (feat. Cali Pitts & Havikk the Rhimeson)",
+                    "uri": "688MVp2bHoP2mIXZjJYa31"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Kenny Larkin",
+                    "title": "Butterflies",
+                    "uri": "4Shb9gPMGOVMuhFBC8kIxU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kenny Larkin",
+                    "title": "Butterflies",
+                    "uri": "4Shb9gPMGOVMuhFBC8kIxU"
+                },
+                {
+                    "artist": "Kenny Lattimore",
+                    "title": "For You",
+                    "uri": "4eI8okfmurpexL41RdjkGA"
+                },
+                {
+                    "artist": "Kenny Lattimore",
+                    "title": "And I Love Her",
+                    "uri": "19su5qOjCG0iKrWJ5etHou"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Marvin Belton",
+                    "title": "Bleed to be Free",
+                    "uri": "5CphG9Tznd6Xt7UiR2vik9"
+                },
+                {
+                    "artist": "Marvin Belton",
+                    "title": "Bleed to Be Free",
+                    "uri": "3NOK0fJnhI4VFIzkJ7LFtq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Marvin Belton",
+                    "title": "Bleed to be Free",
+                    "uri": "5CphG9Tznd6Xt7UiR2vik9"
+                },
+                {
+                    "artist": "Marvin Belton",
+                    "title": "Bleed to Be Free",
+                    "uri": "3NOK0fJnhI4VFIzkJ7LFtq"
+                },
+                {
+                    "artist": "Marvin Belton",
+                    "title": "Love Will Find a Way (Original 2003 Version)",
+                    "uri": "1MgL41QGGuefCn8d1kdlmG"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Norm Talley",
+                    "title": "Travlin",
+                    "uri": "1NDXJID9ufnpk6INx9Z6ph"
+                },
+                {
+                    "artist": "Norma Tanega",
+                    "title": "A Street That Rhymes at 6am",
+                    "uri": "4xsYQI1apu1XXe53gNIhIf"
+                },
+                {
+                    "artist": "Norm Ender",
+                    "title": "Bu Düş Çok Güzel",
+                    "uri": "09pUzVEZyAQwCLe91i194Y"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Desos",
+                    "title": "Dubs",
+                    "uri": "03NGKzIDUqqGGGYp22rpWc"
+                },
+                {
+                    "artist": "Barbés.D",
+                    "title": "Told Me Dub",
+                    "uri": "1KFVTYz4EUQ0KigmwHiNvV"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "JONIX",
+                    "title": "Phoenix In The Night",
+                    "uri": "0yCSjVLp8rSsbcIxmA9Swy"
+                },
+                {
+                    "artist": "Phoenix Moon",
+                    "title": "The Midnight Sun",
+                    "uri": "3BGUmFWBgrIbHYZILYJsaz"
+                },
+                {
+                    "artist": "Phoenix Moon",
+                    "title": "Take Me With You",
+                    "uri": "5n3PZv1aJwZxXaqUmACJxO"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Scott Grooves",
+                    "title": "Organ Nights pt. 2",
+                    "uri": "7ERSjE1cBK37cISFeZv0Q9"
+                },
+                {
+                    "artist": "Scott Grooves",
+                    "title": "Organ Nights pt. 2",
+                    "uri": "5fv2RTdcPS84EM8iupAHGx"
+                },
+                {
+                    "artist": "Scott Grooves",
+                    "title": "Mothership Reconnection (feat. Parliament/Funkadelic) - (Daft Punk Remix)",
+                    "uri": "5aWVNrjqFHCATLIhS2na3t"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Erykah Badu",
+                    "title": "Honey",
+                    "uri": "2z4ypE6YI1mybsczNx4eRU"
+                },
+                {
+                    "artist": "Erykah Badu",
+                    "title": "Didn't Cha Know",
+                    "uri": "7pv80uUHfocFqfTytu1MVi"
+                },
+                {
+                    "artist": "Erykah Badu",
+                    "title": "On & On",
+                    "uri": "0tNuJpBgtE65diL6Q8Q7fI"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Dj Spinna",
+                    "title": "In the Distance",
+                    "uri": "7MHFDD8BHIsagEzoMCAflY"
+                },
+                {
+                    "artist": "Dj Spinna",
+                    "title": "In the Distance - Instrumental",
+                    "uri": "5wpPRH6SuIu8MB9E5q6hMH"
+                },
+                {
+                    "artist": "Dj Spinna",
+                    "title": "In the Distance",
+                    "uri": "7xBLgjLinBPnDu1kYJyUxw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dj Spinna",
+                    "title": "In the Distance",
+                    "uri": "7MHFDD8BHIsagEzoMCAflY"
+                },
+                {
+                    "artist": "Dj Spinna",
+                    "title": "In the Distance - Instrumental",
+                    "uri": "5wpPRH6SuIu8MB9E5q6hMH"
+                },
+                {
+                    "artist": "Malin Hole",
+                    "title": "DJ Spinn - Light Style",
+                    "uri": "6rJtK8ML7q7rAaekAap32g"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Two Thou",
+                    "title": "Never Lose - (Two Thou Percussion Dub)",
+                    "uri": "7J4tsjUrYfSKCNbSbC6u5m"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Two Thou",
+                    "title": "Never Lose - (Two Thou Percussion Dub)",
+                    "uri": "7J4tsjUrYfSKCNbSbC6u5m"
+                },
+                {
+                    "artist": "Two Thou",
+                    "title": "Never Lose - Original Mix",
+                    "uri": "3APewTi23elP2Tv53UNTz2"
+                },
+                {
+                    "artist": "FRIENDLY THUG 52 NGG",
+                    "title": "Two Thousand Nineteen",
+                    "uri": "2jaj32b3itkBko52TxPcje"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Zo!",
+                    "title": "Packing For Chicago - Terry Hunter Remix",
+                    "uri": "5oAtyCRMf8CLZsHmCZTyDR"
+                },
+                {
+                    "artist": "Zo!",
+                    "title": "Packing For Chicago - Terry Hunter Remix Edit",
+                    "uri": "0TKRnmiM4WxTTcg0rkjBFa"
+                },
+                {
+                    "artist": "Lizzy",
+                    "title": "Packing Light",
+                    "uri": "259f8QYEUG7Fy48E9lOAxL"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Adam Port",
+                    "title": "The Dream (feat. Martina Camargo)",
+                    "uri": "2dwU9cQumllxZFtXgautY4"
+                },
+                {
+                    "artist": "BOBBY HOOD",
+                    "title": "Fred Perry",
+                    "uri": "01rU5emvHjCJUltlhpgt3v"
+                },
+                {
+                    "artist": "Aversion",
+                    "title": "The Dream - Live Edit",
+                    "uri": "36UYHq0L5j3zu635R2F1O6"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kayenne Live",
+                    "title": "Love Shampoo",
+                    "uri": "4Ik0s7EDzC5j2DE7VaQvgZ"
+                },
+                {
+                    "artist": "S. Ramesh Raj",
+                    "title": "Kayena Vacha Shloka",
+                    "uri": "5VnCLQcZ0CeIdLYcbNrtcB"
+                },
+                {
+                    "artist": "Sinister",
+                    "title": "KAYENNE",
+                    "uri": "3QW12Z9d1M6RawG9Y1aep1"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Frank Turner",
+                    "title": "Haven't Been Doing So Well",
+                    "uri": "0MfZURmmGTIobgW6YPTZiY"
+                },
+                {
+                    "artist": "Frank Turner",
+                    "title": "No Thank You For The Music",
+                    "uri": "02KgdbM5JkhtBUBIkjFaaA"
+                },
+                {
+                    "artist": "Frank Turner",
+                    "title": "Do One",
+                    "uri": "3YDarROTsrFbUHFKwPO1zP"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dr. Surabi",
+                    "title": "Hood Rock - Remix",
+                    "uri": "3bkjf4LPcTbdzICmZFESF5"
+                },
+                {
+                    "artist": "Dr. Dundiff",
+                    "title": "The Puzzle",
+                    "uri": "64tfJLNhrWpUtTvEeFqqQq"
+                },
+                {
+                    "artist": "Dr Donk",
+                    "title": "Make The Crowd Go",
+                    "uri": "6iJDg5obYUO395LFOJvJYX"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Scan 7",
+                    "title": "Here to There",
+                    "uri": "3mLIYcK9NhbwMo1qkdyTGU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Scan 7",
+                    "title": "Here to There",
+                    "uri": "3mLIYcK9NhbwMo1qkdyTGU"
+                },
+                {
+                    "artist": "Jon Gravy",
+                    "title": "Here 2 Stay",
+                    "uri": "7uZUVdFuHxhi2901ahey5t"
+                },
+                {
+                    "artist": "Korn",
+                    "title": "Here To Stay",
+                    "uri": "66LT15XEqCaWiMG44NGQRE"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bob Marley & The Wailers",
+                    "title": "Time Will Tell",
+                    "uri": "5AMy058KlCyQfHK6Mim42N"
+                },
+                {
+                    "artist": "Witchz",
+                    "title": "Time Will Tell",
+                    "uri": "4kDwdCKHi7dtRnGuJjk2P7"
+                },
+                {
+                    "artist": "Glen Hansard",
+                    "title": "Time Will Be The Healer",
+                    "uri": "2Wl9dGzDkgW0jUrUzKO2Ln"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jim Reeves",
+                    "title": "This World Is Not My Home",
+                    "uri": "1PbfABCRDcIvWvUt26l5Xw"
+                },
+                {
+                    "artist": "Jordan Luke Gage",
+                    "title": "This World Will Remember Me",
+                    "uri": "1VcnBdtlSSxB80vzf12rFI"
+                },
+                {
+                    "artist": "LeRoy Stoltzfus",
+                    "title": "This World Is Not My Home",
+                    "uri": "7u2rjfGtrioNsSMDopSRZS"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Gerideau",
+                    "title": "Take A Stand - Smack Rain Vibe Remix (Mixed)",
+                    "uri": "6DnxJNtOXiaJlBFA9p4PS7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gerideau",
+                    "title": "Take A Stand - Smack Rain Vibe Remix (Mixed)",
+                    "uri": "6DnxJNtOXiaJlBFA9p4PS7"
+                },
+                {
+                    "artist": "Ski Mask The Slump God",
+                    "title": "Take A Step Back",
+                    "uri": "2gQYziDV5cSTRSqr6akzi5"
+                },
+                {
+                    "artist": "normal the kid",
+                    "title": "take a moment to breathe.",
+                    "uri": "2GvWK1w9SpqNda6q2l1k31"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Freil",
+                    "title": "West of Motebe - Freil me down mix",
+                    "uri": "71cUleQUlz9UdAXULdWPtA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Freil",
+                    "title": "West of Motebe - Freil me down mix",
+                    "uri": "71cUleQUlz9UdAXULdWPtA"
+                },
+                {
+                    "artist": "Misha Segal",
+                    "title": "Where is the Train Going",
+                    "uri": "4BbwchPGUEbm6EsrlFhG3a"
+                },
+                {
+                    "artist": "Misha Segal",
+                    "title": "Locke's Damnation",
+                    "uri": "6TNf1ccPgpQ89DNFxUbfvR"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gboyega Adelaja",
+                    "title": "Colourful Environment",
+                    "uri": "4mIrDavH6mXzyS95pvhfdr"
+                },
+                {
+                    "artist": "Hotline",
+                    "title": "Fella's Doing It in Lagos",
+                    "uri": "7y8EFiKDpN7ZGi8t5yezdj"
+                },
+                {
+                    "artist": "Hotline",
+                    "title": "Fella's Doing It in Lagos",
+                    "uri": "6vWbD0rukB7f4FEgm3o4v9"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "KenLou",
+                    "title": "Gimme Some More - KenLou Mix",
+                    "uri": "6FOgIG8NSXCe0GyZUXD9CJ"
+                },
+                {
+                    "artist": "KenLou",
+                    "title": "Gimme Some More - KenLou Instrumental Mix",
+                    "uri": "3fx8ZmMGdF2TxL2CO64Bzt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "KenLou",
+                    "title": "Gimme Some More - KenLou Mix",
+                    "uri": "6FOgIG8NSXCe0GyZUXD9CJ"
+                },
+                {
+                    "artist": "KenLou",
+                    "title": "Gimme Some More - KenLou Instrumental Mix",
+                    "uri": "3fx8ZmMGdF2TxL2CO64Bzt"
+                },
+                {
+                    "artist": "Matroda",
+                    "title": "Gimme Some Keys",
+                    "uri": "5lbFVZ3g63LLssXLKirfjA"
+                }
+            ]
+        }
     }
 }

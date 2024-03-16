@@ -1,4 +1,114 @@
 {
+    "asher-g-10th-march-2024": {
+        "00": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "Last Time",
+            "trackid": "4Fydi0jQ0HheSACtH5bqgY"
+        },
+        "01": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "Soul Sister",
+            "trackid": "1UiVaJcwUuDk7xmlVWGNVW"
+        },
+        "02": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "It's All in the Game",
+            "trackid": "4Nb43yyzlpANYmNrjxykKx"
+        },
+        "03": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "You Had Your Chance",
+            "trackid": "45bExk6HC9baAOoUkGAYT0"
+        },
+        "04": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "It's Hard To Confess",
+            "trackid": "3Zz0k1ZyExmZREMSLT10Y4"
+        },
+        "05": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "ABC Rocksteady",
+            "trackid": "4A7oOAx4DFcF3BjbGBd7eL"
+        },
+        "06": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "I Need Your Loving",
+            "trackid": "5PgjHLjrIiLNeNbNvcYf2q"
+        },
+        "07": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "I Need Your Loving",
+            "trackid": "5PgjHLjrIiLNeNbNvcYf2q"
+        },
+        "08": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "Joy in the Morning",
+            "trackid": "6tHoWTBzBWNCPYdvU4S8Yt"
+        },
+        "09": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "Who Will You Tell Your Lies",
+            "trackid": "506zb7W5lETKez9lh2RiUo"
+        },
+        "10": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "Have'nt I the Right",
+            "trackid": "3xvNQJ5kTGlSvoYo6rmLn1"
+        },
+        "11": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "Give a Helping Hand",
+            "trackid": "4cPXRXPbonsJZNneRX14KG"
+        },
+        "12": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "Tears from My Eyes",
+            "trackid": "2MxxdzHr6GK3qOTylCxmuD"
+        },
+        "13": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "Don't Try to Reach Me",
+            "trackid": "4Eab9Xsn3NRXUrdZOrA6JD"
+        },
+        "14": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "Africa",
+            "trackid": "7fu6Dcl57bkXKmyg6SBBHp"
+        },
+        "15": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "Emanuel Road",
+            "trackid": "0m1qr1M9sPiFixTMtAMKuT"
+        },
+        "16": {
+            "artist": "Elton John",
+            "ratio": 4,
+            "title": "Don't Let The Sun Go Down On Me - Remastered 1995",
+            "trackid": "11FcfHd3SOmmrWJPGe7Y30"
+        },
+        "17": {
+            "artist": "The Gaylads",
+            "ratio": 9,
+            "title": "Looking For A Girl",
+            "trackid": "5FoRSJ3ds6jw3nvwdpdngb"
+        }
+    },
     "asher-g-11th-april-2021": {
         "00": {
             "artist": "The Emotions",
@@ -143,6 +253,92 @@
             "ratio": 3,
             "title": "Rub It Down",
             "trackid": "7916D4065c5kpIIAC5VG16"
+        }
+    },
+    "asher-g-11th-february-2024": {
+        "00": {
+            "artist": "Desmond Dekker & The Aces",
+            "ratio": 9,
+            "title": "I've Got the Blues",
+            "trackid": "0bhQ4YDNldZZNL466jH3dv"
+        },
+        "01": {
+            "artist": "Roland Alphonso",
+            "ratio": 9,
+            "title": "Soul Finger",
+            "trackid": "2iNwq3xmCsAOTcOsF43vrj"
+        },
+        "02": {
+            "artist": "Roland Alphonso",
+            "ratio": 9,
+            "title": "Jungle Bit",
+            "trackid": "0qjCflaqj0k0RdL7tqNWa9"
+        },
+        "03": {
+            "artist": "Roland Toubin",
+            "ratio": 3,
+            "title": "Presque l'amour",
+            "trackid": "03VbBcRhqaoH04MMlxlGIC"
+        },
+        "04": {
+            "artist": "Toots & The Maytals",
+            "ratio": 9,
+            "title": "Just Tell Me",
+            "trackid": "0AYpnBM3NMVc2KNa6wo0JO"
+        },
+        "05": {
+            "artist": "The Deacons",
+            "ratio": 9,
+            "title": "Man Alone",
+            "trackid": "5PgbLV41XS6JRt1Z9sYbww"
+        },
+        "06": {
+            "artist": "Don Drummond",
+            "ratio": 9,
+            "title": "Confucious",
+            "trackid": "7hn5zDp7O7I0TDY7RZmh4S"
+        },
+        "07": {
+            "artist": "The Skatalites",
+            "ratio": 9,
+            "title": "Ringo",
+            "trackid": "5qqgtPz8w0XrSVkEjLFDTj"
+        },
+        "08": {
+            "artist": "Roland Alphonso",
+            "ratio": 9,
+            "title": "Guantanamera Ska",
+            "trackid": "2ppDxpYK2Qrjq1nXAHi9XG"
+        },
+        "09": {
+            "artist": "The Skatalites",
+            "ratio": 9,
+            "title": "Surftide Seven",
+            "trackid": "0ASZZyoGzSZ8Y9ndyFpsRt"
+        },
+        "10": {
+            "artist": "Roland Alphonso",
+            "ratio": 9,
+            "title": "A Shot In The Dark - Take 1",
+            "trackid": "4fpoETvQ3kdE89mdHajLaL"
+        },
+        "11": {
+            "artist": "Derrick Morgan",
+            "ratio": 4,
+            "title": "Conquering Ruler",
+            "trackid": "7A8CKnf7NR6vhTufZptStS"
+        },
+        "12": {
+            "artist": "Derrick Morgan",
+            "ratio": 4,
+            "title": "Conquering Ruler",
+            "trackid": "7A8CKnf7NR6vhTufZptStS"
+        },
+        "13": {
+            "artist": "Desmond Dekker & The Aces",
+            "ratio": 9,
+            "title": "Keep a Cool Head",
+            "trackid": "72BkQkdcuJaORXR8N7yqLf"
         }
     },
     "asher-g-12th-february-2023": {

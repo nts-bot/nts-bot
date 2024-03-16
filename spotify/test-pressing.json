@@ -297,6 +297,164 @@
             "trackid": "2vQPGaUznXgyBBPxz1FDMC"
         }
     },
+    "test-pressing-10th-february-2024": {
+        "00": {
+            "artist": "Martha Reeves & The Vandellas",
+            "ratio": 0,
+            "title": "Dancing In The Street",
+            "trackid": "0dP4wWIz4K4LIYANJUp6fV"
+        },
+        "01": {
+            "artist": "Pat Metheny",
+            "ratio": 9,
+            "title": "As Falls Wichita, So Falls Wichita Falls",
+            "trackid": "12G2g8Z326EE2NFtIC1Kn6"
+        },
+        "02": {
+            "artist": "Yuto Takei",
+            "ratio": 9,
+            "title": "EV22",
+            "trackid": "5arIPhYvy17rqIJUjwIm0j"
+        },
+        "03": {
+            "artist": "Andy Summers",
+            "ratio": 9,
+            "title": "Train",
+            "trackid": "1uZRWGZ34kOVUSr9CsDEUW"
+        },
+        "04": {
+            "artist": "UB40",
+            "ratio": 0,
+            "title": "C'est La Vie",
+            "trackid": "11ziwT3Hlfi4Eec0exgtVN"
+        },
+        "05": {
+            "artist": "Open Space",
+            "ratio": 9,
+            "title": "Tied",
+            "trackid": "6wAqYZDjerex723slVVrX3"
+        },
+        "06": {
+            "artist": "Dawn Richard and Spencer Zahn",
+            "ratio": 9,
+            "title": "Umber",
+            "trackid": "13j0OWpkKPTMJAxtoeZJA0"
+        },
+        "07": {
+            "artist": "Facta",
+            "ratio": 9,
+            "title": "Kiss Me, Can't Sleep",
+            "trackid": "2P6EPWmSTqvICQhFljMmAZ"
+        },
+        "08": {
+            "artist": "Juan Acuña Y El Terro Del Norte",
+            "ratio": 3,
+            "title": "Bella Natali",
+            "trackid": "4DCHZcY5U8HujRqM2EqhMf"
+        },
+        "09": {
+            "artist": "Daniel Lanois",
+            "ratio": 9,
+            "title": "Amazing Grace - Gold Top Edition",
+            "trackid": "1ziPpyjuYUK29CDyAtSA6j"
+        },
+        "10": {
+            "artist": "This Mortal Coil",
+            "ratio": 9,
+            "title": "Mr. Somewhere - Remastered",
+            "trackid": "3P7366WEh3wxcZPvSc5mGT"
+        },
+        "11": {
+            "artist": "Cocteau Twins",
+            "ratio": 9,
+            "title": "Bluebeard",
+            "trackid": "4kxpoNJE8r3LgsSzEqaEDU"
+        },
+        "12": {
+            "artist": "Twin Peaks",
+            "ratio": 4,
+            "title": "Blue Coupe",
+            "trackid": "3jw5KrLTxeIzpSvByNsH7F"
+        },
+        "13": {
+            "artist": "Dopplereffekt",
+            "ratio": 9,
+            "title": "Infophysix",
+            "trackid": "1Q61AT82IFsSWpZGTS1Xlv"
+        },
+        "14": {
+            "artist": "Donato Dozzy",
+            "ratio": 9,
+            "title": "Test 7",
+            "trackid": "2AXwKQKTHFxfdrDcnpsH3T"
+        },
+        "15": {
+            "artist": "FIT Siegel",
+            "ratio": 9,
+            "title": "Carmine",
+            "trackid": "2vSVxjheWdneogq2Fh7w9I"
+        },
+        "16": {
+            "artist": "Mission Control",
+            "ratio": 9,
+            "title": "Outta Limits - Shelter Mix",
+            "trackid": "4FIyZn3njjb33Sie1CIjuM"
+        },
+        "17": {
+            "artist": "Talstrasse 3-5",
+            "ratio": 5,
+            "title": "Electrojhetto",
+            "trackid": "1IHKDOjTUBnOruB5W0ZbG4"
+        },
+        "18": {
+            "artist": "Andy Summers",
+            "ratio": 9,
+            "title": "Girl On A Swing",
+            "trackid": "5xBF1fdeAx1deNXwmXc68h"
+        },
+        "19": {
+            "artist": "Doof",
+            "ratio": 9,
+            "title": "Baba, We Love Dub So",
+            "trackid": "1GH3jpAX9kgsiQnewj1ai6"
+        },
+        "20": {
+            "artist": "Olof Dreijer",
+            "ratio": 9,
+            "title": "Coral",
+            "trackid": "5BfLBqr0hr9hMXaudLZA8y"
+        },
+        "21": {
+            "artist": "Chicken Lips",
+            "ratio": 9,
+            "title": "Do It Proper - Maurice Fulton Remix",
+            "trackid": "4QTxlDuoCb5j4Rq2y8uUdL"
+        },
+        "22": {
+            "artist": "D-Breeze",
+            "ratio": 9,
+            "title": "Crazy For Love - Autechre Remix Mixed",
+            "trackid": "0pTD6pK8rvrno9rXu4t0hH"
+        },
+        "23": {
+            "artist": "AUX88",
+            "ratio": 9,
+            "title": "Phantom Power",
+            "trackid": "1qyZPpkQdt3d0rqwGcsU3X"
+        },
+        "24": {
+            "artist": "The 7th Plain",
+            "ratio": 9,
+            "title": "Lost",
+            "trackid": "5PH5nSIUnDhj4tX2TRJFhw"
+        },
+        "25": {
+            "artist": "Vladimir Cosma",
+            "ratio": 9,
+            "title": "Promenade sentimentale",
+            "trackid": "6m4yHLNlUANlyZEdMJ2nYu"
+        }
+    },
     "test-pressing-10th-june-2017": {
         "00": {
             "artist": "Earth Boys",
@@ -15681,6 +15839,183 @@
             "ratio": 9,
             "title": "Slow Down",
             "trackid": "19CybGYwC2L1aDiS2P6wQv"
+        }
+    },
+    "test-pressing-9th-march-2024": {
+        "00": {
+            "artist": "Flamingo Pier",
+            "ratio": 9,
+            "title": "Deeper Soul",
+            "trackid": "7rQaTwHjOb23Pk3Dewzu1t"
+        },
+        "01": {
+            "artist": "Meo",
+            "ratio": 9,
+            "title": "Aries",
+            "trackid": "5kEBqTmNui3CBxROpfGSeC"
+        },
+        "02": {
+            "artist": "Shinichiro Yokota",
+            "ratio": 9,
+            "title": "Right Here! Right Now!",
+            "trackid": "4n9lVLJfHKtu7ogdcTOUdZ"
+        },
+        "03": {
+            "artist": "Josh Levi",
+            "ratio": 0,
+            "title": "Doorstep",
+            "trackid": "0goyV3vvCCOYQYdZrrLzNN"
+        },
+        "04": {
+            "artist": "Terrence Parker",
+            "ratio": 3,
+            "title": "Something Here for the Club - Vocal",
+            "trackid": "5GcceWVBHFdjrW7yRqA9je"
+        },
+        "05": {
+            "artist": "Oliver Heldens",
+            "ratio": 4,
+            "title": "Set Me Free (feat. MAX)",
+            "trackid": "1bmvJkAA8Yz9bv6y3WOj3U"
+        },
+        "06": {
+            "artist": "Ilija Rudman",
+            "ratio": 9,
+            "title": "Time & Time - Dub Mix",
+            "trackid": "5zZ7M8SH3FaqNoYoMj5W2g"
+        },
+        "07": {
+            "artist": "F.O.E",
+            "ratio": 9,
+            "title": "AGRICULT",
+            "trackid": "6o06ZGzyttjyEEOxRa6R0q"
+        },
+        "08": {
+            "artist": "Yello",
+            "ratio": 9,
+            "title": "Pumping Velvet - Remastered 2005",
+            "trackid": "7o0xjH6Z1z0CuLw3dMtGog"
+        },
+        "09": {
+            "artist": "Kirk Degiorgio",
+            "ratio": 9,
+            "title": "All About U",
+            "trackid": "7HAAm6YjAIRY3W1jOPKBBY"
+        },
+        "10": {
+            "artist": "Wes Phili",
+            "ratio": 3,
+            "title": "Make A Dollar Bleed Change",
+            "trackid": "0oY5hUMwca6UJAWStEkRqq"
+        },
+        "11": {
+            "artist": "Klaas",
+            "ratio": 4,
+            "title": "Extasy",
+            "trackid": "6DIwLrjFuDqzWV3HffqlKG"
+        },
+        "12": {
+            "artist": "Tiësto",
+            "ratio": 5,
+            "title": "Red Lights",
+            "trackid": "5L2l7mI8J1USMzhsmdjat9"
+        },
+        "13": {
+            "artist": "Bolis Pupul",
+            "ratio": 9,
+            "title": "Goodnight Mr Yi",
+            "trackid": "7w37LtRs3f1PCYBiNGegmv"
+        },
+        "14": {
+            "artist": "Parkway Drive",
+            "ratio": 4,
+            "title": "Prey",
+            "trackid": "7lMFAK8dv0QkWpIlZcWQlJ"
+        },
+        "15": {
+            "artist": "Re.You",
+            "ratio": 9,
+            "title": "Wabi Sabi",
+            "trackid": "30EUy2e5kYYLAfU5czs580"
+        },
+        "16": {
+            "artist": "buda la revelacion",
+            "ratio": 0,
+            "title": "Discoteca",
+            "trackid": "08uWEnYNzWvbXQG7s5cUKC"
+        },
+        "17": {
+            "artist": "Double FM",
+            "ratio": 8,
+            "title": "Illusion - Vocal Club Mix",
+            "trackid": "6CKWKUBOYyi1m9WkRGrRQ1"
+        },
+        "18": {
+            "artist": "Azaky",
+            "ratio": 4,
+            "title": "Young Man",
+            "trackid": "1C5fOSQyQ6BLUD8PJQD56W"
+        },
+        "19": {
+            "artist": "Unknown Artist",
+            "ratio": -1,
+            "title": "Unknown Track",
+            "trackid": "47FlbrwMWmaaC87mkVbwcZ",
+            "uri": ""
+        },
+        "20": {
+            "artist": "Om Unit",
+            "ratio": 9,
+            "title": "Citrus - Mr. Ho Remix",
+            "trackid": "1mHrxr9zzFand779iu4KqH"
+        },
+        "21": {
+            "artist": "Apostolia Zoi",
+            "ratio": 3,
+            "title": "Lipstick",
+            "trackid": "6bcda77O0cwAx8PV9Mlvcr"
+        },
+        "22": {
+            "artist": "Cappio Bros.",
+            "ratio": 9,
+            "title": "Caffeine 4 Daze - Freshly Brewed Dub",
+            "trackid": "1LuG9zm0P3TrYbX7yByYhh"
+        },
+        "23": {
+            "artist": "RUDY J*",
+            "ratio": 9,
+            "title": "Exist in Bubble Format",
+            "trackid": "2Ce8ZWcaOmoEEO9mAbBOQB"
+        },
+        "24": {
+            "artist": "Unique 3",
+            "ratio": 9,
+            "title": "Digicality",
+            "trackid": "6Of9vlUJKfVvKEQmxQHULI"
+        },
+        "25": {
+            "artist": "Studio Barnhus",
+            "ratio": 9,
+            "title": "L.S.B.",
+            "trackid": "3GADeF5ccxa9eBtsgI1dzS"
+        },
+        "26": {
+            "artist": "Maggie Reilly",
+            "ratio": 4,
+            "title": "The Locket",
+            "trackid": "4fz61PPf8aFFYr6LImo7gu"
+        },
+        "27": {
+            "artist": "Two Cold",
+            "ratio": 9,
+            "title": "Katanga Slide",
+            "trackid": "2DKQSx56ElP6DDS3PscJT4"
+        },
+        "28": {
+            "artist": "Ardah",
+            "ratio": 4,
+            "title": "A Night In Spring",
+            "trackid": "6j6wtwEtxK5ZAXzRK47WED"
         }
     },
     "test-pressing-9th-may-2020": {

@@ -4410,6 +4410,449 @@
             ]
         }
     },
+    "soup-to-nuts-anu-12th-march-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Arti Gollapudi",
+                    "title": "cheese cheese",
+                    "uri": "25QqBANZiXPUUm6JX9bTBw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Arti Gollapudi",
+                    "title": "cheese cheese",
+                    "uri": "25QqBANZiXPUUm6JX9bTBw"
+                },
+                {
+                    "artist": "Cheese Ledger",
+                    "title": "Cheese Ahada",
+                    "uri": "1flVzmpm6sPXsydRjVOjL0"
+                },
+                {
+                    "artist": "Cheese Ledger",
+                    "title": "Cheeyak",
+                    "uri": "5sfTxQVhfc4LLSaz0mVM8o"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Nadia Khan",
+                    "title": "In Gleam",
+                    "uri": "65n315tA59gt8sAUdG4Bcc"
+                },
+                {
+                    "artist": "Nadia Khan",
+                    "title": "In Gleam",
+                    "uri": "4sQK6HLp5Mm3bCfkB8xkf5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nadia Khan",
+                    "title": "In Gleam",
+                    "uri": "65n315tA59gt8sAUdG4Bcc"
+                },
+                {
+                    "artist": "Nadia Khan",
+                    "title": "Place of Necessity",
+                    "uri": "2EAF0tXVqyCOYhf0qNf1wG"
+                },
+                {
+                    "artist": "Big Head Bandz",
+                    "title": "Nadia",
+                    "uri": "2wLhiONk1qDTi9ONjtAdgL"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Sven Libaek",
+                    "title": "That's Peg's Affair (Solo Guitar)",
+                    "uri": "1Yn5uJDAgXjcfrYihsrHpE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sven Libaek",
+                    "title": "That's Peg's Affair",
+                    "uri": "388hqut8nMDiMbACHbK3su"
+                },
+                {
+                    "artist": "Sven Libaek",
+                    "title": "That's Peg's Affair (Solo Guitar)",
+                    "uri": "1Yn5uJDAgXjcfrYihsrHpE"
+                },
+                {
+                    "artist": "Sven Libaek",
+                    "title": "Love Me",
+                    "uri": "1NxpyWldZevNWTbQ8aE753"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Sun Ra & His Arkestra",
+                    "title": "Springtime Again",
+                    "uri": "1IMbKfMzGyFK4WxsMy9xRF"
+                },
+                {
+                    "artist": "Sun Ra",
+                    "title": "Percussion intro / Springtime Again",
+                    "uri": "6KFzpPDK0mm84XuJmZhnSP"
+                },
+                {
+                    "artist": "Sun Ra Arkestra",
+                    "title": "Springtime Again (Live)",
+                    "uri": "02SKJV0yi86uIKnsCT231s"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sun Ra & His Arkestra",
+                    "title": "Springtime Again",
+                    "uri": "1IMbKfMzGyFK4WxsMy9xRF"
+                },
+                {
+                    "artist": "Sun Ra",
+                    "title": "Percussion intro / Springtime Again",
+                    "uri": "6KFzpPDK0mm84XuJmZhnSP"
+                },
+                {
+                    "artist": "Sun Ra",
+                    "title": "Tapestry from an Asteroid",
+                    "uri": "0EjtZmOLT6WLShJRHCFWVU"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Erika de Casier",
+                    "title": "Twice",
+                    "uri": "3U4eW849fjz2U8BF9ghjQb"
+                },
+                {
+                    "artist": "Erika de Casier",
+                    "title": "ice",
+                    "uri": "0Tsr1YNiCw3znq8RYwiLjp"
+                },
+                {
+                    "artist": "Erika de Casier",
+                    "title": "Home Alone",
+                    "uri": "3L4xlzfNLq2F3NaGasKc9i"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lafayette Afro Rock Band",
+                    "title": "Ozan Koukle - Remastered",
+                    "uri": "7oMHdedLWsoXHcJyKqDbiR"
+                },
+                {
+                    "artist": "Lafayette Afro Rock Band",
+                    "title": "Ozan Koukle - Remastered",
+                    "uri": "4JOKcpwwyf1IikEfgA6raB"
+                },
+                {
+                    "artist": "AK AUSSERKONTROLLE",
+                    "title": "Lafayette",
+                    "uri": "3jMcAKZO81QJppWC5J2hGg"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Stereolab",
+                    "title": "Miss Modular",
+                    "uri": "0rjmjw66MN5qDr8jAEOi5k"
+                },
+                {
+                    "artist": "Stereolab",
+                    "title": "Miss Modular (Demo)",
+                    "uri": "3LDzfWRxXrYitHw13nkuvU"
+                },
+                {
+                    "artist": "Stereolab",
+                    "title": "Miss Modular",
+                    "uri": "3VDsr2U5zGlr97uQtN6mDq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Stereolab",
+                    "title": "Miss Modular",
+                    "uri": "0rjmjw66MN5qDr8jAEOi5k"
+                },
+                {
+                    "artist": "Stereolab",
+                    "title": "Miss Modular",
+                    "uri": "3VDsr2U5zGlr97uQtN6mDq"
+                },
+                {
+                    "artist": "Stereo Lovers",
+                    "title": "Stereo Love - Sped Up Version",
+                    "uri": "7AjU3sce5VrGGxHjGDy7ZZ"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Soft Touch",
+                    "title": "Look up, Look Down",
+                    "uri": "1jkuNTaVIg2vAiUWsIdf4L"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Soft Touch",
+                    "title": "Look up, Look Down",
+                    "uri": "1jkuNTaVIg2vAiUWsIdf4L"
+                },
+                {
+                    "artist": "Love Touch",
+                    "title": "Angels in the Dust - Soft Touch Radio Cut",
+                    "uri": "0q2JO4Hq8A1iz6mvBPTYKO"
+                },
+                {
+                    "artist": "Soft Tide",
+                    "title": "Hold You",
+                    "uri": "71V8UT9DjNpg8PDfSBmcUO"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Timothy Wilson",
+                    "title": "Baby Baby Please",
+                    "uri": "2szH2U7tpBSRYenMZlRvSN"
+                },
+                {
+                    "artist": "Timothy Wilson",
+                    "title": "Baby Baby Please",
+                    "uri": "3rnVG1x0gAyXP1fSg5Zz5b"
+                },
+                {
+                    "artist": "Timothy Wilson",
+                    "title": "Baby Baby Please",
+                    "uri": "4b1g5P4jSOXTC8YfTNiBIl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Timothy Wilson",
+                    "title": "Baby Baby Please",
+                    "uri": "3rnVG1x0gAyXP1fSg5Zz5b"
+                },
+                {
+                    "artist": "Timothy Wilson",
+                    "title": "Baby Baby Please",
+                    "uri": "2szH2U7tpBSRYenMZlRvSN"
+                },
+                {
+                    "artist": "Timothy Cole",
+                    "title": "Falling",
+                    "uri": "575kn9FC2EQX0bvDBOlz21"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DRAMAS",
+                    "title": "Mess",
+                    "uri": "2YuqCmmbe9l2npWrHe7GAK"
+                },
+                {
+                    "artist": "Eilen Jewell",
+                    "title": "Mess Around",
+                    "uri": "3MoA5BRezYDl0ZOAhb8VSU"
+                },
+                {
+                    "artist": "Chidiya Ohiagu",
+                    "title": "Mess into a Message",
+                    "uri": "76aJBXDHpUhWS3xOeqKlSw"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Spontaneous Overthrow",
+                    "title": "All About Money",
+                    "uri": "0Ds9IpR2VOmUGMtsr9TcE0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Spontaneous Overthrow",
+                    "title": "All About Money",
+                    "uri": "0Ds9IpR2VOmUGMtsr9TcE0"
+                },
+                {
+                    "artist": "Spontaneous Overthrow",
+                    "title": "Why Did You Leave Me",
+                    "uri": "5KG0myp3J0tpcosS3ZGtFp"
+                },
+                {
+                    "artist": "MADE",
+                    "title": "Spontan",
+                    "uri": "4bzAA6YAKKaLHtxYVPWNLa"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "zxcursed",
+                    "title": "SHINIGAMI EYES",
+                    "uri": "5BhB5qVTBW1faYgK6rEZKK"
+                },
+                {
+                    "artist": "Free Flow Flava",
+                    "title": "Shinigami",
+                    "uri": "3hM8XenEHaZ0m9ZvW9e5mo"
+                },
+                {
+                    "artist": "Charizma867",
+                    "title": "Shinigami Lifestyle 3",
+                    "uri": "3n0HtNJtiPkDYsM0EyPU7s"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Lee Tracy",
+                    "title": "Foxy Lady",
+                    "uri": "6oJjMNNN8me8cCbLHfLY2j"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lee Tracy",
+                    "title": "Foxy Lady",
+                    "uri": "6oJjMNNN8me8cCbLHfLY2j"
+                },
+                {
+                    "artist": "Lee Tracy",
+                    "title": "Jesus Going to Clean House",
+                    "uri": "1omUiAFs2xEeaZrUWhC0of"
+                },
+                {
+                    "artist": "Tracy Lawrence",
+                    "title": "Time Marches On",
+                    "uri": "2TIEeLrOQrGnO2D2OeDDJu"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lee Tracy",
+                    "title": "Jesus Going to Clean House",
+                    "uri": "7ktUeo5nKHg9YNyxKInNc5"
+                },
+                {
+                    "artist": "Lee Tracy",
+                    "title": "Jesus Going to Clean House",
+                    "uri": "1omUiAFs2xEeaZrUWhC0of"
+                },
+                {
+                    "artist": "Lee Tracy",
+                    "title": "Take My Hand",
+                    "uri": "1Ka9DfGqxaxNRcQurbnSMY"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Communards",
+                    "title": "Never Can Say Goodbye",
+                    "uri": "6A48JrV1QyIbmd5cZglvRl"
+                },
+                {
+                    "artist": "Vulfmon",
+                    "title": "Never Can Say Goodbye",
+                    "uri": "3HKUFudvl99hRo701som94"
+                },
+                {
+                    "artist": "SkySky",
+                    "title": "Pure Magic",
+                    "uri": "7sd347AW3dsMftfCFJskGP"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Todd McClenathan",
+                    "title": "High from Our Love",
+                    "uri": "2yyM0FsMRQIo7aOYW82fWw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Todd McClenathan",
+                    "title": "High from Our Love",
+                    "uri": "2yyM0FsMRQIo7aOYW82fWw"
+                },
+                {
+                    "artist": "Todd Cameron",
+                    "title": "Ya Can't Beat Home",
+                    "uri": "7JHyd7pc3NBhm3rON4U503"
+                },
+                {
+                    "artist": "Apathy",
+                    "title": "Todd McFarlane",
+                    "uri": "2yhkr7LMj5e2X0FNr8hfEC"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Jai Paul",
+                    "title": "Str8 Outta Mumbai",
+                    "uri": "0mRtv3pnmPiN2mDMzYzWt2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jai Paul",
+                    "title": "Str8 Outta Mumbai",
+                    "uri": "0mRtv3pnmPiN2mDMzYzWt2"
+                },
+                {
+                    "artist": "A.R. Rahman",
+                    "title": "Mumbai Theme",
+                    "uri": "5qD5fo6GNMvuN4v3whFAgp"
+                },
+                {
+                    "artist": "Skrillex",
+                    "title": "Mumbai Power",
+                    "uri": "2beor6qrB0XJxW1CM6X9x2"
+                }
+            ]
+        }
+    },
     "soup-to-nuts-anu-12th-october-2022": {
         "00": {
             "s0": [

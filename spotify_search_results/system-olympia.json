@@ -1811,6 +1811,275 @@
             ]
         }
     },
+    "system-olympia-11th-march-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nora Orlandi",
+                    "title": "Libidine 8",
+                    "uri": "3xiZ0cV7Q50inH4RDYHN4m"
+                },
+                {
+                    "artist": "Nora Orlandi",
+                    "title": "Libidine 3",
+                    "uri": "2fDP5urE70IE0nXNyfU6PM"
+                },
+                {
+                    "artist": "Nora Orlandi",
+                    "title": "Libidine 4",
+                    "uri": "4NVx7tccZm0LxorCOfrwWE"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Lucio Battisti",
+                    "title": "Io gli ho detto no",
+                    "uri": "1lzRd8Eg3xKKL7iZridrWt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lucio Battisti",
+                    "title": "Io gli ho detto no",
+                    "uri": "1lzRd8Eg3xKKL7iZridrWt"
+                },
+                {
+                    "artist": "Lucio Battisti",
+                    "title": "Il mio canto libero",
+                    "uri": "2SvXqxiG2ntfkEWvuABT7u"
+                },
+                {
+                    "artist": "Lucio Battisti",
+                    "title": "E penso a te",
+                    "uri": "2f9q7MMH5hRU8kiJH6tlix"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Hokage Simon",
+                    "title": "Fancy Clown",
+                    "uri": "1lG87HiZE3qQvAHLsZsGZx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hokage Simon",
+                    "title": "Fancy Clown",
+                    "uri": "1lG87HiZE3qQvAHLsZsGZx"
+                },
+                {
+                    "artist": "Anbu Monastir",
+                    "title": "Der erste Hokage - Hashirama",
+                    "uri": "0iQ27z1Om3Tvd4UwzT83k3"
+                },
+                {
+                    "artist": "Anbu Monastir",
+                    "title": "Hokage der Meere",
+                    "uri": "28ZbyUwjESEfkbQ0FMoR13"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "John Cameron",
+                    "title": "Half-Forgotten Daydreams",
+                    "uri": "08STpchszuaAppBWoOzmY5"
+                },
+                {
+                    "artist": "Keith Mansfield",
+                    "title": "Funky Fanfare",
+                    "uri": "3Vr406z58yyyO2Ofh1fbqA"
+                },
+                {
+                    "artist": "Keith Mansfield",
+                    "title": "The Loving Touch",
+                    "uri": "6CWBpOv0X9se3d4Z4PaVmS"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Bill Evans",
+                    "title": "The Dolphin - After",
+                    "uri": "1j6Tc3zhI4w73YWVwndwyA"
+                },
+                {
+                    "artist": "Bill Evans",
+                    "title": "The Dolphin - After",
+                    "uri": "3xvUmjaXszuRNkcQVLV8Ns"
+                },
+                {
+                    "artist": "Bill Evans",
+                    "title": "The Dolphin - After",
+                    "uri": "29JOxf2bjFh0ajDSvX0R4V"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bill Evans",
+                    "title": "The Dolphin - After",
+                    "uri": "1j6Tc3zhI4w73YWVwndwyA"
+                },
+                {
+                    "artist": "Bill Evans",
+                    "title": "The Dolphin - After",
+                    "uri": "3xvUmjaXszuRNkcQVLV8Ns"
+                },
+                {
+                    "artist": "Bill Evans Trio",
+                    "title": "Waltz For Debby - Live At The Village Vanguard, New York / 1961 / Take 2",
+                    "uri": "6EC51OfUhguCbNp5H5SdGm"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Bassolino",
+                    "title": "Napoli Visionaria",
+                    "uri": "2rwE6iIEa9Qid2DEoX3UEb"
+                },
+                {
+                    "artist": "Bassolino",
+                    "title": "Napoli Visionaria",
+                    "uri": "0H0XrzteLyHBQCh9UMkMDr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bassolino",
+                    "title": "Napoli Visionaria",
+                    "uri": "2rwE6iIEa9Qid2DEoX3UEb"
+                },
+                {
+                    "artist": "Bassolino",
+                    "title": "Napoli Visionaria",
+                    "uri": "0H0XrzteLyHBQCh9UMkMDr"
+                },
+                {
+                    "artist": "CAPO",
+                    "title": "Napoli",
+                    "uri": "7nN5Dzp2RY2OOOWlPzGfyQ"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bassolino",
+                    "title": "'E Parole",
+                    "uri": "4o4f0Cddeo8fTA4Rc3ZP5c"
+                },
+                {
+                    "artist": "Bassolino",
+                    "title": "Oro Di Miele",
+                    "uri": "2E6lvSzVJNFwy0CMnhEqYb"
+                },
+                {
+                    "artist": "Robin Aristo",
+                    "title": "Bassline Sound",
+                    "uri": "55LnwbxoNhijp0OsIYn2Gz"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Bassolino",
+                    "title": "Oro Di Miele",
+                    "uri": "2E6lvSzVJNFwy0CMnhEqYb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bassolino",
+                    "title": "Oro Di Miele",
+                    "uri": "2E6lvSzVJNFwy0CMnhEqYb"
+                },
+                {
+                    "artist": "Bassolino",
+                    "title": "Napoli Visionaria",
+                    "uri": "2rwE6iIEa9Qid2DEoX3UEb"
+                },
+                {
+                    "artist": "Bassolino",
+                    "title": "Napoli Visionaria",
+                    "uri": "0H0XrzteLyHBQCh9UMkMDr"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Bassolino",
+                    "title": "Città Futura",
+                    "uri": "6eKPdRjUepZxs8GyaSfuap"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bassolino",
+                    "title": "Città Futura",
+                    "uri": "6eKPdRjUepZxs8GyaSfuap"
+                },
+                {
+                    "artist": "Bassolino",
+                    "title": "'E Parole",
+                    "uri": "4o4f0Cddeo8fTA4Rc3ZP5c"
+                },
+                {
+                    "artist": "Bassolino",
+                    "title": "Napoli Visionaria",
+                    "uri": "0H0XrzteLyHBQCh9UMkMDr"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Cristiano Malgioglio",
+                    "title": "...Io, la pantera...",
+                    "uri": "0SJLfO81DQ7HvIEWqAHA4n"
+                },
+                {
+                    "artist": "Cristiano Malgioglio",
+                    "title": "...Io, la pantera...",
+                    "uri": "4vbJv9Tg4CUIhTTwtB20jD"
+                },
+                {
+                    "artist": "Cristiano Malgioglio",
+                    "title": "...Io, la pantera...",
+                    "uri": "1iVYsUBI68PlsQhm5gUZJ3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cristiano Malgioglio",
+                    "title": "...Io, la pantera...",
+                    "uri": "0SJLfO81DQ7HvIEWqAHA4n"
+                },
+                {
+                    "artist": "Cristiano Malgioglio",
+                    "title": "...Io, la pantera...",
+                    "uri": "4vbJv9Tg4CUIhTTwtB20jD"
+                },
+                {
+                    "artist": "Cristiano Malgioglio",
+                    "title": "...Io, la pantera...",
+                    "uri": "1iVYsUBI68PlsQhm5gUZJ3"
+                }
+            ]
+        }
+    },
     "system-olympia-11th-november-2017": {
         "00": {
             "s0": "",
@@ -2777,6 +3046,345 @@
                     "artist": "The Velvet Underground",
                     "title": "I'll Be Your Mirror - Live at Max's Kansas City; 2015 Remaster",
                     "uri": "7aYQC93m6nESW24sIk8iUe"
+                }
+            ]
+        }
+    },
+    "system-olympia-12th-february-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "George Koutalieris",
+                    "title": "In The House Of Troisi",
+                    "uri": "6QEl05ArrQ5Iv8KY88DugH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "George Koutalieris",
+                    "title": "In The House Of Troisi",
+                    "uri": "6QEl05ArrQ5Iv8KY88DugH"
+                },
+                {
+                    "artist": "Manos Loizos",
+                    "title": "O Koutalianos",
+                    "uri": "4UCGf9vEHwzgAZOmTrgsxt"
+                },
+                {
+                    "artist": "George Koutalieris",
+                    "title": "Early Morning Ferry - Original Mix",
+                    "uri": "2NDHniqCKPhAiYRtfxEH6S"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "O.V. Wright",
+                    "title": "Let's Straighten It Out",
+                    "uri": "12n47FuVsiUGug0xkiGkSc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "O.V. Wright",
+                    "title": "Let's Straighten It Out",
+                    "uri": "12n47FuVsiUGug0xkiGkSc"
+                },
+                {
+                    "artist": "O.V. Wright",
+                    "title": "I Don't Know Why",
+                    "uri": "4ZUVx8uMEKJUYPbIsV8yGM"
+                },
+                {
+                    "artist": "O.V. Wright",
+                    "title": "The Bottom Line",
+                    "uri": "3jZcB4uYL7J1nhD9h1Dpqm"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Su Kramer",
+                    "title": "Magic Dance - Remastered",
+                    "uri": "2gmDBlJ5WYkaNoCfWtcb65"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Su Kramer",
+                    "title": "Magic Dance - Remastered",
+                    "uri": "2gmDBlJ5WYkaNoCfWtcb65"
+                },
+                {
+                    "artist": "Su Kramer",
+                    "title": "Hier ist das Leben '09 - Radio Edit",
+                    "uri": "5PdbmNVujiMlMkd428yax8"
+                },
+                {
+                    "artist": "Dr. Dancefloor",
+                    "title": "Dr. Dancefloor - Radio Mix",
+                    "uri": "5hx4gN5faa8Oj4bGFXjG1h"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Frank Zander",
+                    "title": "Marlene",
+                    "uri": "53DeFrj7kIWoMCjgcFKtDc"
+                },
+                {
+                    "artist": "Marianne Rosenberg",
+                    "title": "Marleen - Remix '90",
+                    "uri": "6a6HhT6nOwbN11cz4GwX8V"
+                },
+                {
+                    "artist": "Marianne Rosenberg",
+                    "title": "Marleen",
+                    "uri": "3WdTdtQpLcHdo8qDfeSVeg"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Roy Ayers Ubiquity",
+                    "title": "Everybody Loves The Sunshine",
+                    "uri": "5le4sn0iMcnKU56bdmNzso"
+                },
+                {
+                    "artist": "Takuya Kuroda",
+                    "title": "Everybody Loves The Sunshine",
+                    "uri": "4F17fOFNxTHhNk6fXq46w6"
+                },
+                {
+                    "artist": "Netsky",
+                    "title": "Everybody Loves The Sunshine",
+                    "uri": "4ch0ejqrSwJrotLroa9mXn"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alberto Baldan Bembo",
+                    "title": "Linda",
+                    "uri": "6zE2xJvFmHEPECsvLki2CE"
+                },
+                {
+                    "artist": "Alexander Scheer und Band",
+                    "title": "Linda",
+                    "uri": "6w6VoaEBImAtyaAMPIRPj0"
+                },
+                {
+                    "artist": "Eugenio Pedro",
+                    "title": "Linda Jacaltequita",
+                    "uri": "7dhUHDlrNPfkGU7xrgxnZl"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Emma Dorgu",
+                    "title": "Rover Man",
+                    "uri": "03iqwLGZXaWvCwE301Bgme"
+                },
+                {
+                    "artist": "Emma Dorgu",
+                    "title": "Rover Man",
+                    "uri": "7xGGCrx65svdFDOMI4X9aT"
+                },
+                {
+                    "artist": "Emma Dorgu",
+                    "title": "Rover Man",
+                    "uri": "5o34yeJ1rEQJbxnmawzz5d"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Emma Dorgu",
+                    "title": "Rover Man",
+                    "uri": "03iqwLGZXaWvCwE301Bgme"
+                },
+                {
+                    "artist": "Emma Dorgu",
+                    "title": "Rover Man",
+                    "uri": "7xGGCrx65svdFDOMI4X9aT"
+                },
+                {
+                    "artist": "S1mba",
+                    "title": "Rover (feat. DTG)",
+                    "uri": "4slSrbTK1sNK4I1mDYEthf"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Cymande",
+                    "title": "Brothers On The Slide",
+                    "uri": "3ObBmm3X92aff7Dct4drkj"
+                },
+                {
+                    "artist": "Cymande",
+                    "title": "Brothers on the Slide",
+                    "uri": "3lnrq68qcZm6c3U3EDUt42"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cymande",
+                    "title": "Brothers On The Slide",
+                    "uri": "3ObBmm3X92aff7Dct4drkj"
+                },
+                {
+                    "artist": "Cymande",
+                    "title": "Brothers on the Slide",
+                    "uri": "3lnrq68qcZm6c3U3EDUt42"
+                },
+                {
+                    "artist": "Cymande",
+                    "title": "Dove",
+                    "uri": "4TbIOAb7FfbhHi2glq0EwA"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "William Bell",
+                    "title": "Private Number",
+                    "uri": "3AXo2kHagfMQsVQyzzPac3"
+                },
+                {
+                    "artist": "William Bell",
+                    "title": "Private Number",
+                    "uri": "27gcnHgipabsH5oAWug9Tk"
+                },
+                {
+                    "artist": "William Bell",
+                    "title": "Private Number",
+                    "uri": "5szoTRfDtkzKnWND5VISgk"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Laurin Rinder",
+                    "title": "Lust",
+                    "uri": "4vZXS3i6SLOxm0SwlK3Cq0"
+                },
+                {
+                    "artist": "Rinder & Lewis",
+                    "title": "Lust - Disco Remix",
+                    "uri": "57dFxEiwpjctLkJ4e8tLpH"
+                },
+                {
+                    "artist": "Laurin Rinder",
+                    "title": "Lust",
+                    "uri": "2s10iNZ5RwJBb8zm7kEcKY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rinder & Lewis",
+                    "title": "Lust - Disco Remix",
+                    "uri": "57dFxEiwpjctLkJ4e8tLpH"
+                },
+                {
+                    "artist": "Laurin Rinder",
+                    "title": "Lust",
+                    "uri": "4vZXS3i6SLOxm0SwlK3Cq0"
+                },
+                {
+                    "artist": "Peter Hinnen",
+                    "title": "Siebentausend Rinder",
+                    "uri": "4u5ESVCB3rZW4dkvFwl05B"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lorraine Johnson",
+                    "title": "The More I Get the More I Want",
+                    "uri": "646oiuVTJJpfUJlprBSKIk"
+                },
+                {
+                    "artist": "Lorraine Johnson",
+                    "title": "Feed the Flame - Remix",
+                    "uri": "5zznjYIAjyd2C1tQENehw3"
+                },
+                {
+                    "artist": "TOTO",
+                    "title": "Lorraine",
+                    "uri": "2CVtHDPr11MGRF44lYhOhb"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eli Escobar",
+                    "title": "Body and Soul",
+                    "uri": "4H7MtvOMVqg7ZwQYKHSBaJ"
+                },
+                {
+                    "artist": "Eli Escobar",
+                    "title": "Fixed Our Love",
+                    "uri": "0wRidSQ8u52CyK5wQ1OwrJ"
+                },
+                {
+                    "artist": "KYTES",
+                    "title": "Take Me Home",
+                    "uri": "0A6wEAkC07kDobLKTpGWAD"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Pino Daniele",
+                    "title": "Ma che ho - 2021 Remaster",
+                    "uri": "0SW8sqzkU6PqLTtxORLETw"
+                },
+                {
+                    "artist": "Pino Daniele",
+                    "title": "Ma che ho - 2017 Remaster",
+                    "uri": "3rdcaTDCw4A5NZwDk4iFDE"
+                },
+                {
+                    "artist": "Pino Daniele",
+                    "title": "Ma che ho - Live",
+                    "uri": "4wLW7seHuDhm4hHLaSrbUc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pino Daniele",
+                    "title": "Ma che ho - 2021 Remaster",
+                    "uri": "0SW8sqzkU6PqLTtxORLETw"
+                },
+                {
+                    "artist": "Pino Daniele",
+                    "title": "Ma che ho - 2017 Remaster",
+                    "uri": "3rdcaTDCw4A5NZwDk4iFDE"
+                },
+                {
+                    "artist": "Pino Daniele",
+                    "title": "Che male c'è - 2017 Remaster",
+                    "uri": "2opZnbrOLF2rj14Oslz76K"
                 }
             ]
         }

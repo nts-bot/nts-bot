@@ -1,4 +1,78 @@
 {
+    "charlie-dark-10th-march-2024": {
+        "00": {
+            "artist": "Martine Girault",
+            "ratio": 9,
+            "title": "Revival - Japanese LP Mix",
+            "trackid": "3Wk247NJ1cIC1AuvkCMEHM"
+        },
+        "01": {
+            "artist": "XanduIsBored",
+            "ratio": 3,
+            "title": "Stronger Than You - Chara Version",
+            "trackid": "2EIuXYmjmbw301hj9zaxmx"
+        },
+        "02": {
+            "artist": "Jay Dee",
+            "ratio": 9,
+            "title": "Rico Suave Bossa Nova",
+            "trackid": "2hR5vP6MiTSdkFY8jfsCLb"
+        },
+        "03": {
+            "artist": "Jahari Massamba Unit",
+            "ratio": 9,
+            "title": "Riesling Pour Robert",
+            "trackid": "6lyP3AkvTSTJ75l5p3zKES"
+        },
+        "04": {
+            "artist": "Steve Spacek",
+            "ratio": 9,
+            "title": "Could It B Ur Love",
+            "trackid": "5W0LbRflOzfmM2AfHywxUa"
+        },
+        "05": {
+            "artist": "Country Dons",
+            "ratio": 0,
+            "title": "Sticky Situations",
+            "trackid": "1nC1V3FP9CmyMnIH2DnzHj"
+        },
+        "06": {
+            "artist": "Afro-Mystik",
+            "ratio": 9,
+            "title": "Natural - Fluids Off Kilter Mix",
+            "trackid": "0cu7EBU2JdCnNqEbO6GXnk"
+        },
+        "07": {
+            "artist": "Psaiko.Dino",
+            "ratio": 3,
+            "title": "PEPPERMINT (feat. Toby Romeo)",
+            "trackid": "52RPbW5MNS0S6esTVqi9BA"
+        },
+        "08": {
+            "artist": "Sufi Lounge",
+            "ratio": 3,
+            "title": "Shams Tabrizi",
+            "trackid": "6W42CVjlORQb2gGrnl72tA"
+        },
+        "09": {
+            "artist": "Ash Walker",
+            "ratio": 4,
+            "title": "Afronaught - Ron Trent Remix",
+            "trackid": "1MaDoQF0udclBVRELAcH5u"
+        },
+        "10": {
+            "artist": "Gerardo Frisina",
+            "ratio": 9,
+            "title": "Duende",
+            "trackid": "3AisZycxXMU97JCXhYX4ke"
+        },
+        "11": {
+            "artist": "LEFTO EARLY BIRD",
+            "ratio": 8,
+            "title": "I Sing To Find Peace Of Mind (feat. Simbad)",
+            "trackid": "2kZWWWMqFKYuYY6ilPS5Ag"
+        }
+    },
     "charlie-dark-14th-january-2024": {
         "00": {
             "artist": "Jamie Cullum",
@@ -59,6 +133,87 @@
             "ratio": 3,
             "title": "Been Calling",
             "trackid": "4s2E2VODtnNYikHBJPnpxO"
+        }
+    },
+    "charlie-dark-17th-december-2023": {
+        "00": {
+            "artist": "DJ FLG",
+            "ratio": 3,
+            "title": "DILATAÇÃO HIPNÓTICA 6.0 - Sped Up",
+            "trackid": "0b1Xs0XDHpxcZfuQP6l9cf"
+        },
+        "01": {
+            "artist": "Hava",
+            "ratio": 5,
+            "title": "Dilara <3",
+            "trackid": "1HIBrnEV7dePilrWLpiCNR"
+        },
+        "02": {
+            "artist": "Patsy Gallant",
+            "ratio": 9,
+            "title": "It'll All Come Around",
+            "trackid": "1rVP30BW6y7uA8iJrp7wl1"
+        },
+        "03": {
+            "artist": "Hypnotic Brass Ensemble",
+            "ratio": 9,
+            "title": "Balicky Bon",
+            "trackid": "2gqJFSX1kuf3Z2nNXekhC5"
+        },
+        "04": {
+            "artist": "Pat Thomas",
+            "ratio": 9,
+            "title": "Gyae Su",
+            "trackid": "3U9NVmsEdrTutU49F1ykvf"
+        },
+        "05": {
+            "artist": "Gazo",
+            "ratio": 3,
+            "title": "KASSAV (feat. Tiakola)",
+            "trackid": "25PVU9aowaP69bSYRBe3sj"
+        },
+        "06": {
+            "artist": "Nkotti François",
+            "ratio": 5,
+            "title": "Nja ka",
+            "trackid": "5i287lOXjx7EftpXbEPGUF"
+        },
+        "07": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "08": {
+            "artist": "Slumber Cloud",
+            "ratio": 0,
+            "title": "Precious",
+            "trackid": "3XmrVpprhAW88crIhi1g6d"
+        },
+        "09": {
+            "artist": "Los Pappets",
+            "ratio": 5,
+            "title": "El Club de los Zombies - Radio Edit",
+            "trackid": "06OlnA4YJK0ya5DglcMmoq"
+        },
+        "10": {
+            "artist": "Unknown Artist",
+            "ratio": -1,
+            "title": "UNKNOWN - 3",
+            "trackid": "03Azmx3DjEHgnrq8YYirHx",
+            "uri": ""
+        },
+        "11": {
+            "artist": "Marcus Mixx",
+            "ratio": 9,
+            "title": "Without Makeup (Ron Hardy Mix)",
+            "trackid": "6Xz47P6Fm1iQCWuQtbl6Qu"
+        },
+        "12": {
+            "artist": "Eji Oyewole",
+            "ratio": 9,
+            "title": "Gele Odun (Oil Boom)",
+            "trackid": "0Pvi7JEJ4VMrkKtz2623pw"
         }
     },
     "charlie-dark-19th-november-2023": {},

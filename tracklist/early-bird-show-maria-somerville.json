@@ -6100,6 +6100,112 @@
             "title": "Summer's Last Sound"
         }
     },
+    "early-bird-show-maria-somerville-11th-march-2024": {
+        "00": {
+            "artist": "Jasmine Wood",
+            "title": "II"
+        },
+        "01": {
+            "artist": "Discovery Zone",
+            "title": "Supernatural"
+        },
+        "02": {
+            "artist": "James Heather",
+            "title": "Oizys (Nailah Hunter Rework)"
+        },
+        "03": {
+            "artist": "Love Is Yes",
+            "title": "Steevast"
+        },
+        "04": {
+            "artist": "Love Is Yes",
+            "title": "Rain People"
+        },
+        "05": {
+            "artist": "Olof Dreijer",
+            "title": "Hazel"
+        },
+        "06": {
+            "artist": "The Chemical Brothers",
+            "title": "Asleep From Day"
+        },
+        "07": {
+            "artist": "Shovel Dance Collective",
+            "title": "Camera flash on the Deptford foreshore, The Rolling Waves, crashing spring waves by the Cutty Sark"
+        },
+        "08": {
+            "artist": "Love Is Yes",
+            "title": "Twilight You"
+        },
+        "09": {
+            "artist": "Piano Magic",
+            "title": "Waking Up"
+        },
+        "10": {
+            "artist": "Sun City Girls",
+            "title": "Vine Street Piano (Orchestral)"
+        },
+        "11": {
+            "artist": "André 3000",
+            "title": "Ninety Three 'Til Infinity And Beyoncé"
+        },
+        "12": {
+            "artist": "Seamus Ennis",
+            "title": "The Wandering Minstrel / Jackson's Morning Brush"
+        },
+        "13": {
+            "artist": "dip in the pool",
+            "title": "Rabo Del Sol"
+        },
+        "14": {
+            "artist": "jb glazer",
+            "title": "dust yourself off"
+        },
+        "15": {
+            "artist": "Ian Matthews",
+            "title": "These Days"
+        },
+        "16": {
+            "artist": "A.R. Kane",
+            "title": "Haunting"
+        },
+        "17": {
+            "artist": "Weyes Blood",
+            "title": "It's Not Just Me, It's Everybody"
+        },
+        "18": {
+            "artist": "Martin Rev",
+            "title": "Dreams"
+        },
+        "19": {
+            "artist": "Sans Merit",
+            "title": "Friends Won't Kick"
+        },
+        "20": {
+            "artist": "Cukor Bila Smert’",
+            "title": "The Great Hen-Yuan’ River"
+        },
+        "21": {
+            "artist": "Slowdive",
+            "title": "Prayer Remembered"
+        },
+        "22": {
+            "artist": "Acopia",
+            "title": "Intentions"
+        },
+        "23": {
+            "artist": "My Bloody Valentine",
+            "title": "She Found Now"
+        },
+        "24": {
+            "artist": "Clarissa Connelly",
+            "title": "Life of the Forbidden"
+        },
+        "25": {
+            "artist": "Albert Giménez",
+            "title": "Conte Xinés"
+        }
+    },
     "early-bird-show-maria-somerville-11th-october-2022": {
         "00": {
             "artist": "Fog",
@@ -6638,6 +6744,96 @@
         "24": {
             "artist": "Sasha Slug",
             "title": "Artifacts"
+        }
+    },
+    "early-bird-show-maria-somerville-12th-march-2024": {
+        "00": {
+            "artist": "Daniel Kobialka",
+            "title": "Blue Spirals"
+        },
+        "01": {
+            "artist": "Stars Of The Lid",
+            "title": "Don't Bother They're Here"
+        },
+        "02": {
+            "artist": "Adrian Miles",
+            "title": "Mapping horizons"
+        },
+        "03": {
+            "artist": "Cindy Lee",
+            "title": "Burning Candle"
+        },
+        "04": {
+            "artist": "Adrian Miles",
+            "title": "Blank Paper"
+        },
+        "05": {
+            "artist": "Suzanne Kraft",
+            "title": "Flatiron"
+        },
+        "06": {
+            "artist": "Cold Hands Warm Heart",
+            "title": "Quartz"
+        },
+        "07": {
+            "artist": "Melody English",
+            "title": "Take It Slow"
+        },
+        "08": {
+            "artist": "@",
+            "title": "Star Game"
+        },
+        "09": {
+            "artist": "Alex G",
+            "title": "Ain’t It Easy"
+        },
+        "10": {
+            "artist": "Dissolve",
+            "title": "Presume Too Far"
+        },
+        "11": {
+            "artist": "ORCHESTRAL MANOEUVRES IN THE DARK",
+            "title": "Extended Souvenir"
+        },
+        "12": {
+            "artist": "The Radio Dept.",
+            "title": "The Video Dept."
+        },
+        "13": {
+            "artist": "Linda Smith",
+            "title": "I So Liked Spring (1996 Version)"
+        },
+        "14": {
+            "artist": "Stereolab",
+            "title": "Pack Yr Romantic Mind"
+        },
+        "15": {
+            "artist": "jonatan leandoer96, ",
+            "title": "Blue Light"
+        },
+        "16": {
+            "artist": "Quit Life",
+            "title": "Absent"
+        },
+        "17": {
+            "artist": "RAINY MILLER, ",
+            "title": "Bobbies Reprise (Feat. Bobbieorkid)"
+        },
+        "18": {
+            "artist": "His Name Is Alive",
+            "title": "I Can See A Lot Of Light In You"
+        },
+        "19": {
+            "artist": "Enya",
+            "title": "Less Than A Pearl"
+        },
+        "20": {
+            "artist": "Samuel Organ",
+            "title": "Myth_Memory"
+        },
+        "21": {
+            "artist": "John Beltran",
+            "title": "Spring Affects Him"
         }
     },
     "early-bird-show-maria-somerville-12th-september-2022": {
@@ -14022,7 +14218,100 @@
             "title": "Hammond Song"
         }
     },
-    "early-bird-show-maria-somerville-26th-february-2024": {},
+    "early-bird-show-maria-somerville-26th-february-2024": {
+        "00": {
+            "artist": "M. SAGE, ",
+            "title": "John Emerson’s “Parayellowgram”"
+        },
+        "01": {
+            "artist": "Pmxper, ",
+            "title": "Lavender Milk"
+        },
+        "02": {
+            "artist": "Adeline Hotel",
+            "title": "Seeing Yourself Seen"
+        },
+        "03": {
+            "artist": "Gi Gi",
+            "title": "Montjuïc"
+        },
+        "04": {
+            "artist": "Jonny Nash",
+            "title": "Low Tide"
+        },
+        "05": {
+            "artist": "Darshan Ambient",
+            "title": "The Dreamer Slept But Did Not Dream"
+        },
+        "06": {
+            "artist": "Harold Budd, ",
+            "title": "The Plateaux Of Mirror"
+        },
+        "07": {
+            "artist": "North Americans",
+            "title": "American Dipper"
+        },
+        "08": {
+            "artist": "Broadcast",
+            "title": "Tears In The Typing Pool"
+        },
+        "09": {
+            "artist": "Blue Lake",
+            "title": "Wavelength"
+        },
+        "10": {
+            "artist": "Bridget St. John",
+            "title": "The Road Was Lonely"
+        },
+        "11": {
+            "artist": "Thin Lizzy",
+            "title": "Saga Of The Ageing Orphan"
+        },
+        "12": {
+            "artist": "BODY/NEGATIVE, ",
+            "title": "Sleepy"
+        },
+        "13": {
+            "artist": "Yo La Tengo",
+            "title": "Blue-Green Arrow"
+        },
+        "14": {
+            "artist": "Meredith Monk",
+            "title": "Monk: Ascent"
+        },
+        "15": {
+            "artist": "Freak Heat Waves",
+            "title": "In a Moment Divine (With Cindy Lee)"
+        },
+        "16": {
+            "artist": "Land Of The Loops",
+            "title": "Heidi Cakes"
+        },
+        "17": {
+            "artist": "Smashing Pumpkins",
+            "title": "Mayonaise"
+        },
+        "18": {
+            "artist": "Gyeongsu",
+            "title": "YZOBEL (feat CROCHE) "
+        },
+        "19": {
+            "artist": "Con Dolore",
+            "title": "This Sad Movie"
+        },
+        "20": {
+            "artist": "The Cure",
+            "title": "Pictures Of You"
+        },
+        "21": {
+            "artist": "Bulgarian State Television Female Choir",
+            "title": "Messetschinko lio Gre_livko (Love Song from the Mountains)"
+        },
+        "22": {
+            "artist": "(703) 863-4357",
+            "title": "No Hate Is A Cold Star"
+        }
+    },
     "early-bird-show-maria-somerville-26th-july-2022": {
         "00": {
             "artist": "HOLLAND ANDREWS",
@@ -14451,7 +14740,100 @@
             "title": "Double Landscape"
         }
     },
-    "early-bird-show-maria-somerville-27th-february-2024": {},
+    "early-bird-show-maria-somerville-27th-february-2024": {
+        "00": {
+            "artist": "Alex Somers",
+            "title": "One"
+        },
+        "01": {
+            "artist": "Otto A Totland",
+            "title": "Anona"
+        },
+        "02": {
+            "artist": "Mazzy Star",
+            "title": "Into Dust"
+        },
+        "03": {
+            "artist": "Hiroshi Yoshimura",
+            "title": "View From My Window"
+        },
+        "04": {
+            "artist": "James Elkington",
+            "title": "Burial At See"
+        },
+        "05": {
+            "artist": "Geotic",
+            "title": "Simplehearted"
+        },
+        "06": {
+            "artist": "白噪音ASMR睡眠",
+            "title": "長浪聲 睡眠 白噪音ASMR"
+        },
+        "07": {
+            "artist": "Malibu",
+            "title": "So Far Out Of Love"
+        },
+        "08": {
+            "artist": "Oliver Coates",
+            "title": "Another Day"
+        },
+        "09": {
+            "artist": "CLARISSA CONNELLY",
+            "title": "The Bell Tower"
+        },
+        "10": {
+            "artist": "Clarissa Connelly",
+            "title": "An Embroidery"
+        },
+        "11": {
+            "artist": "Acetone",
+            "title": "Shobud"
+        },
+        "12": {
+            "artist": "(703) 863-4357",
+            "title": "No Hate Is A Cold Star"
+        },
+        "13": {
+            "artist": "Other Joe",
+            "title": "Dreaming out Loud"
+        },
+        "14": {
+            "artist": "Elliott Smith",
+            "title": "Alameda"
+        },
+        "15": {
+            "artist": "Double Virgo",
+            "title": "No Sweat"
+        },
+        "16": {
+            "artist": "Chanel Beads",
+            "title": "Idea June"
+        },
+        "17": {
+            "artist": "The Cranberries",
+            "title": "Linger (Acoustic Version)"
+        },
+        "18": {
+            "artist": "Locust",
+            "title": "No-one In The World"
+        },
+        "19": {
+            "artist": "Trouble Books",
+            "title": "Strelka"
+        },
+        "20": {
+            "artist": "Country Teasers",
+            "title": "Golden Apples"
+        },
+        "21": {
+            "artist": "Lou Reed",
+            "title": "Coney Island Baby"
+        },
+        "22": {
+            "artist": "Orbital",
+            "title": "Belfast"
+        }
+    },
     "early-bird-show-maria-somerville-27th-june-2022": {
         "00": {
             "artist": "Robert Fripp / Brian Eno",

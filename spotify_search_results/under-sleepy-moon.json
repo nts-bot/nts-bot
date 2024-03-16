@@ -1011,6 +1011,811 @@
             ]
         }
     },
+    "under-sleepy-moon-11th-march-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "John Tavener",
+                    "title": "Tavener: Funeral Ikos",
+                    "uri": "6mKT2dxf6qP6bHQTy6B94u"
+                },
+                {
+                    "artist": "John Tavener",
+                    "title": "Funeral Ikos",
+                    "uri": "31Z8nhEPrq3QOxCq9tRgWo"
+                },
+                {
+                    "artist": "John Tavener",
+                    "title": "Funeral Ikos",
+                    "uri": "3LoU0Ldr24I89upgzrkxWZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "John Tavener",
+                    "title": "Funeral Ikos",
+                    "uri": "31Z8nhEPrq3QOxCq9tRgWo"
+                },
+                {
+                    "artist": "John Tavener",
+                    "title": "Funeral Ikos",
+                    "uri": "3LoU0Ldr24I89upgzrkxWZ"
+                },
+                {
+                    "artist": "John Tavener",
+                    "title": "Tavener: Funeral Canticle",
+                    "uri": "5mQ1l8rmzCC1f6zzJfTkP3"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Ola Gjeilo",
+                    "title": "Sunrise Mass: I. The Spheres",
+                    "uri": "7FVDhmspr9gn7YVLAAcs4r"
+                },
+                {
+                    "artist": "Ola Gjeilo",
+                    "title": "Sunrise Mass: II. Sunrise",
+                    "uri": "5JGPdpdgQQ1c9fR7NgONbz"
+                },
+                {
+                    "artist": "Ola Gjeilo",
+                    "title": "Sunrise Mass: Kyrie \"The Spheres\"",
+                    "uri": "2JKprlOn7EiSpFZPysLRBm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ola Gjeilo",
+                    "title": "Sunrise Mass: I. The Spheres",
+                    "uri": "7FVDhmspr9gn7YVLAAcs4r"
+                },
+                {
+                    "artist": "Ola Gjeilo",
+                    "title": "Sunrise Mass: Kyrie \"The Spheres\"",
+                    "uri": "2JKprlOn7EiSpFZPysLRBm"
+                },
+                {
+                    "artist": "Ola Gjeilo",
+                    "title": "Sun Prelude",
+                    "uri": "07RjQvhbiROEpMtNyNE08U"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Rone",
+                    "title": "Esperanza - DJ Lostboi I Could Live in Hope Remix",
+                    "uri": "1jvh0TNHt73Im7viGy8mYu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rone",
+                    "title": "Esperanza - DJ Lostboi I Could Live in Hope Remix",
+                    "uri": "1jvh0TNHt73Im7viGy8mYu"
+                },
+                {
+                    "artist": "Hilight Tribe",
+                    "title": "Esperanza",
+                    "uri": "1hxLjD8TYT5A1oAKhwgaA7"
+                },
+                {
+                    "artist": "Lostboi Lino",
+                    "title": "Hal5",
+                    "uri": "6Gu99KX4HbEJX5aRoSAYgJ"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Sarah Davachi",
+                    "title": "Keep Outside the Night",
+                    "uri": "5GySQUa7Rm3Vr9aa72Ltk6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sarah Davachi",
+                    "title": "Keep Outside the Night",
+                    "uri": "5GySQUa7Rm3Vr9aa72Ltk6"
+                },
+                {
+                    "artist": "Sarah Davachi",
+                    "title": "Or Something",
+                    "uri": "07qI32Eu5hhWx54YOaxE1K"
+                },
+                {
+                    "artist": "Derina Harvey Band",
+                    "title": "Sarah",
+                    "uri": "4qoY9d0fhLD6RzTAxk72fQ"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Ulla Straus",
+                    "title": "Nana",
+                    "uri": "0aGSZzwgXxDBk0Zinmr31t"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ulla Straus",
+                    "title": "Nana",
+                    "uri": "0aGSZzwgXxDBk0Zinmr31t"
+                },
+                {
+                    "artist": "Acid Pauli",
+                    "title": "Nana",
+                    "uri": "0PGVmGVnLNF58JFieI3p14"
+                },
+                {
+                    "artist": "Marcio Philomena",
+                    "title": "Nana",
+                    "uri": "7hZgnIYynYjpYPQ5lcvUXm"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Ryoji Ikeda",
+                    "title": "data.vortex",
+                    "uri": "0suF5UBwek7NuGW2Mr5iaE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ryoji Ikeda",
+                    "title": "data.vortex",
+                    "uri": "0suF5UBwek7NuGW2Mr5iaE"
+                },
+                {
+                    "artist": "Ryoji Ikeda",
+                    "title": "data.matrix",
+                    "uri": "5ZmSq1xJbf1IptikZZgvJ6"
+                },
+                {
+                    "artist": "Ryoji Ikeda",
+                    "title": "data.index",
+                    "uri": "7eKV1WYPpARYF70KZkfsdq"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Ex Wiish",
+                    "title": "The Wavering Knife",
+                    "uri": "4YbGyQjkC2oDi8jikq0pMw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ex Wiish",
+                    "title": "The Wavering Knife",
+                    "uri": "4YbGyQjkC2oDi8jikq0pMw"
+                },
+                {
+                    "artist": "SIX",
+                    "title": "Ex-Wives",
+                    "uri": "0FZ9csVDfNZAvzw3pPBXkG"
+                },
+                {
+                    "artist": "SIX",
+                    "title": "Ex-Wives - Reprise",
+                    "uri": "2CY7o6fJwR3bCtY4NzYUR6"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Serwed",
+                    "title": "Brize",
+                    "uri": "2tpEU4TRSuqoVhzZVog12f"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Serwed",
+                    "title": "Brize",
+                    "uri": "2tpEU4TRSuqoVhzZVog12f"
+                },
+                {
+                    "artist": "GIMS",
+                    "title": "Brisé - Pilule bleue",
+                    "uri": "6CQv2bGN6cl0kzc2rHl4Yb"
+                },
+                {
+                    "artist": "Accaoui",
+                    "title": "Brisé Son Coeur",
+                    "uri": "6kaDIiUNspcuVP7EIeuWgM"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Malibu",
+                    "title": "The Things That Fade",
+                    "uri": "4Jlke4AshgHUQjKKXi3BbG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Malibu",
+                    "title": "The Things That Fade",
+                    "uri": "4Jlke4AshgHUQjKKXi3BbG"
+                },
+                {
+                    "artist": "Miley Cyrus",
+                    "title": "Malibu - Tiësto Remix",
+                    "uri": "1NvSQe0i4ApmQCnBI8Jwzq"
+                },
+                {
+                    "artist": "seatime",
+                    "title": "Malibu - Instrumental Version",
+                    "uri": "2o8PNaiUKyByu76L5fPIh4"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Grouper",
+                    "title": "Being Her Shadow",
+                    "uri": "2HeFT5Khue5e3vybIgRmUh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Grouper",
+                    "title": "Being Her Shadow",
+                    "uri": "2HeFT5Khue5e3vybIgRmUh"
+                },
+                {
+                    "artist": "Grouper",
+                    "title": "Living Room",
+                    "uri": "1nJV1JGWf61WRJy851LO34"
+                },
+                {
+                    "artist": "Grouper",
+                    "title": "Poison Tree",
+                    "uri": "6Q5uDNuuFYa8ToL3CCoHPC"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Embaci",
+                    "title": "Tiniest Whisper",
+                    "uri": "4RfhL6ZmGQQypL9uM4l1dH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Embaci",
+                    "title": "Tiniest Whisper",
+                    "uri": "4RfhL6ZmGQQypL9uM4l1dH"
+                },
+                {
+                    "artist": "T-Minus",
+                    "title": "Princely Sum",
+                    "uri": "5qjbgM9D8OhWkgzMlbPYky"
+                },
+                {
+                    "artist": "White Noise Therapy",
+                    "title": "Soothing Tinnitus Aid",
+                    "uri": "6fsFPfD8fQHoNXzqtxOQgX"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "SSIEGE",
+                    "title": "Nebbia Spugna",
+                    "uri": "40AtMGoYGIUBXpx22LqMKn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "SSIEGE",
+                    "title": "Nebbia Spugna",
+                    "uri": "40AtMGoYGIUBXpx22LqMKn"
+                },
+                {
+                    "artist": "Luca Magliano",
+                    "title": "Nebbia",
+                    "uri": "16d6iAPkHT69gtd9dksGuz"
+                },
+                {
+                    "artist": "NEBULA ELECTRÓNICA",
+                    "title": "SUPERNOVA SHUFFLE",
+                    "uri": "5XqZ4lrXVpL9w8GEnIdKdA"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Carmen Villain",
+                    "title": "Two Halves Touching",
+                    "uri": "63Ra6rlO5ybbsEDWOQ395S"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Carmen Villain",
+                    "title": "Two Halves Touching",
+                    "uri": "63Ra6rlO5ybbsEDWOQ395S"
+                },
+                {
+                    "artist": "Vladimir Horowitz",
+                    "title": "Carmen Variations",
+                    "uri": "2GqcRBqDox3jJuxpXuG37x"
+                },
+                {
+                    "artist": "Reductio",
+                    "title": "Carmen",
+                    "uri": "1xp3l9b1dZMom8lPsREyK4"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Hysterical Love Project",
+                    "title": "Cement",
+                    "uri": "0gC75cb9GKCWmxZ34EnlPL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hysterical Love Project",
+                    "title": "Cement",
+                    "uri": "0gC75cb9GKCWmxZ34EnlPL"
+                },
+                {
+                    "artist": "Klasey Jones",
+                    "title": "Cement",
+                    "uri": "57VM8YqkSLUbP3ovGQBW4g"
+                },
+                {
+                    "artist": "Yeah Yeah Yeahs",
+                    "title": "Hysteric",
+                    "uri": "5rtaBnrHSnGUFWb8UYRspA"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "D-A-D",
+                    "title": "God's Favourite",
+                    "uri": "3b2SHwguOyBYsCGKKBrdRN"
+                },
+                {
+                    "artist": "Amir Douglas",
+                    "title": "God's Favor",
+                    "uri": "1pSpbEYjLgw0Y7myCMEaMI"
+                },
+                {
+                    "artist": "Carmine Coppola",
+                    "title": "Vincent's Theme",
+                    "uri": "4XfwMSIDHfeS3JijwzUYrw"
+                }
+            ]
+        }
+    },
+    "under-sleepy-moon-12th-february-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Nils Økland",
+                    "title": "Blankt vatn",
+                    "uri": "0iDgKrsZiwS3UAsH93HNKI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nils Økland",
+                    "title": "Blankt vatn",
+                    "uri": "0iDgKrsZiwS3UAsH93HNKI"
+                },
+                {
+                    "artist": "Gil Ofarim",
+                    "title": "Nils Holgersson - Titelsong",
+                    "uri": "0U3xxhAdEiQ4DHLBuYwcyW"
+                },
+                {
+                    "artist": "Die Sternenkinder",
+                    "title": "Nils Holgerson",
+                    "uri": "1DefkeFmJ7cnjXHxeoTfca"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Kelela",
+                    "title": "Divorce",
+                    "uri": "6osuEBSw4nYk2cw3stqy4A"
+                },
+                {
+                    "artist": "Kelela",
+                    "title": "Divorce - DJ Manny Remix",
+                    "uri": "4VQO0R6BHZdD7RHj85EZYw"
+                },
+                {
+                    "artist": "Kelela",
+                    "title": "Divorce - Loraine James Remix",
+                    "uri": "6j8QCw6falnwBrQMOBqqur"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kelela",
+                    "title": "Divorce",
+                    "uri": "6osuEBSw4nYk2cw3stqy4A"
+                },
+                {
+                    "artist": "Kelela",
+                    "title": "Divorce - DJ Manny Remix",
+                    "uri": "4VQO0R6BHZdD7RHj85EZYw"
+                },
+                {
+                    "artist": "Kelela",
+                    "title": "Divorce - Loraine James Remix",
+                    "uri": "6j8QCw6falnwBrQMOBqqur"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Slow Attack Ensemble",
+                    "title": "Rivers Turn to Waterfalls",
+                    "uri": "77Vfwruxo8edl1Lts9EnUw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Slow Attack Ensemble",
+                    "title": "Rivers Turn to Waterfalls",
+                    "uri": "77Vfwruxo8edl1Lts9EnUw"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Ludwig A.F.",
+                    "title": "Tau",
+                    "uri": "0OzZ5vNljlFKsEkN2YRiUn"
+                },
+                {
+                    "artist": "Ludwig van Beethoven",
+                    "title": "Fidelio, Op. 72 (Ed. Lühning & Didion), Act I: Dialogue. Ich täusche die Menschen",
+                    "uri": "6ksgzEMBQXWQL8sXbjB9i4"
+                },
+                {
+                    "artist": "Ludwig van Beethoven",
+                    "title": "19. Beginn der Taubheit",
+                    "uri": "14VaIfZKjTIhqk5L5EsO40"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ludwig A.F.",
+                    "title": "Tau",
+                    "uri": "0OzZ5vNljlFKsEkN2YRiUn"
+                },
+                {
+                    "artist": "Ludwig van Beethoven",
+                    "title": "Fidelio, Op. 72 (Ed. Lühning & Didion), Act I: Dialogue. Ich täusche die Menschen",
+                    "uri": "6ksgzEMBQXWQL8sXbjB9i4"
+                },
+                {
+                    "artist": "Ludwig Göransson",
+                    "title": "Quantum Mechanics",
+                    "uri": "09I8yYd9egMHOLDRFenYrV"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Susumu Yokota",
+                    "title": "Amanogawa",
+                    "uri": "0Cm2iyVQRMvN37ftEpNP8C"
+                },
+                {
+                    "artist": "Susumu Yokota",
+                    "title": "Amanogawa",
+                    "uri": "2BnVjXTKGlDgBw6QMWuXOw"
+                },
+                {
+                    "artist": "Susumu Yokota",
+                    "title": "Amanogawa 1997",
+                    "uri": "6J4Rg6koiq9sM58tab3CtY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Susumu Yokota",
+                    "title": "Amanogawa",
+                    "uri": "0Cm2iyVQRMvN37ftEpNP8C"
+                },
+                {
+                    "artist": "Susumu Yokota",
+                    "title": "Amanogawa 1997",
+                    "uri": "6J4Rg6koiq9sM58tab3CtY"
+                },
+                {
+                    "artist": "Susumu Yokota",
+                    "title": "Sea Blue",
+                    "uri": "4jW13pPTcqad52Ckgg8Jsu"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Khotin",
+                    "title": "Sound Gathering Trip",
+                    "uri": "2AC2xWbWP0QoYsBPrEpbnI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Khotin",
+                    "title": "Sound Gathering Trip",
+                    "uri": "2AC2xWbWP0QoYsBPrEpbnI"
+                },
+                {
+                    "artist": "Khotin",
+                    "title": "Dwellberry",
+                    "uri": "6924XH4uThVPk4CpFv30gG"
+                },
+                {
+                    "artist": "Khotin",
+                    "title": "Shopping List",
+                    "uri": "5au7mQ99uiktcyvEYTaCsc"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Romance",
+                    "title": "Never Will",
+                    "uri": "6qblKVGgilGa9NhjxDehxI"
+                },
+                {
+                    "artist": "My Chemical Romance",
+                    "title": "Vampires Will Never Hurt You",
+                    "uri": "7J4uwuiyWB7BqIcyNdcVRl"
+                },
+                {
+                    "artist": "My Chemical Romance",
+                    "title": "Vampires Will Never Hurt You",
+                    "uri": "3hU9CeY2ZeQPfSAsgN1SrG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "My Chemical Romance",
+                    "title": "Vampires Will Never Hurt You",
+                    "uri": "7J4uwuiyWB7BqIcyNdcVRl"
+                },
+                {
+                    "artist": "Joe Williams",
+                    "title": "Ev'ry Day (I Fall in Love)",
+                    "uri": "6lzTlTmRqbCs0JKSRJjJSc"
+                },
+                {
+                    "artist": "YOASOBI",
+                    "title": "Romance",
+                    "uri": "6Kh3obD8LG4yeXxQDhr6Vr"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Desroi",
+                    "title": "Hanabi",
+                    "uri": "54CJhgpfcT01Nof8wrdth3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Desroi",
+                    "title": "Hanabi",
+                    "uri": "54CJhgpfcT01Nof8wrdth3"
+                },
+                {
+                    "artist": "Desroi",
+                    "title": "Crossing The Rubicon",
+                    "uri": "1nRpoGjWaFK3UP665eT5kQ"
+                },
+                {
+                    "artist": "Ikimonogakari",
+                    "title": "HANABI",
+                    "uri": "4rAzjtHqpKYZ9bVKMmaQLU"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The KLF",
+                    "title": "Baltimore to Fair Play",
+                    "uri": "0TJJcRcGvDs7DxAL79bqFN"
+                },
+                {
+                    "artist": "The KLF",
+                    "title": "Fair Play to North Druid Hills",
+                    "uri": "2falbMVlOsMNNQYVtS0960"
+                },
+                {
+                    "artist": "Nockis",
+                    "title": "Fair Play",
+                    "uri": "6mUfbUKXInvb9zuU4hYv1A"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Young Thug",
+                    "title": "Hot (Remix) [feat. Gunna and Travis Scott]",
+                    "uri": "4ea9w8c4ROqiZpJVhfBA3m"
+                },
+                {
+                    "artist": "Young Thug",
+                    "title": "Hot (feat. Gunna)",
+                    "uri": "5Z8HZM6iQMhhqyPcCGY5g9"
+                },
+                {
+                    "artist": "Young Thug",
+                    "title": "Oh U Went (feat. Drake)",
+                    "uri": "7qLr3HMApUbyDkUvgIvHnB"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Rainy Miller",
+                    "title": "Let It Die",
+                    "uri": "1gij162RBHJfyFpOn8Gojo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rainy Miller",
+                    "title": "Let It Die",
+                    "uri": "1gij162RBHJfyFpOn8Gojo"
+                },
+                {
+                    "artist": "Three Days Grace",
+                    "title": "Let It Die",
+                    "uri": "6tBtLGv5vi39CEvKOqExYX"
+                },
+                {
+                    "artist": "RuffyProductions",
+                    "title": "LET IT DRILL",
+                    "uri": "4V2e6unV65huBG7aVte09e"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Winter",
+                    "title": "the lonely girl",
+                    "uri": "4uMKR0rtdKK1TwnLYNtNJf"
+                },
+                {
+                    "artist": "Sarah Vaughan With Hugo Winterhalter & His Orchestra",
+                    "title": "Lonely Girl",
+                    "uri": "7DoaSGQageS0zvjL05WTJA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Winter",
+                    "title": "the lonely girl",
+                    "uri": "4uMKR0rtdKK1TwnLYNtNJf"
+                },
+                {
+                    "artist": "Lonely Girl",
+                    "title": "Sleep Tight",
+                    "uri": "2FQJKnZLAutVXF5c9qXIlA"
+                },
+                {
+                    "artist": "Sandra Hesch",
+                    "title": "Lonely Girl",
+                    "uri": "2iUbnA5qcIVLHO2tV9cNr1"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Romance",
+                    "title": "Hymn To The Sea",
+                    "uri": "6lRUtzYN9YjRGGshV95XF3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Romance",
+                    "title": "Hymn To The Sea",
+                    "uri": "6lRUtzYN9YjRGGshV95XF3"
+                },
+                {
+                    "artist": "James Horner",
+                    "title": "Hymn to the Sea",
+                    "uri": "7HEgOGOTgdOsyu7WKvduJ9"
+                },
+                {
+                    "artist": "James Horner",
+                    "title": "Hymn to the Sea",
+                    "uri": "77vAuUDLRCp4pa5FBfx9F6"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Slipknot",
+                    "title": "Danger - Keep Away",
+                    "uri": "6zZl4RKS9pRRlQHIk4CG7A"
+                },
+                {
+                    "artist": "Slipknot",
+                    "title": "Danger - Keep Away",
+                    "uri": "5fFjC5OTA323Ym9PyWO64A"
+                },
+                {
+                    "artist": "Slipknot",
+                    "title": "Danger Keep Away",
+                    "uri": "4kfAd4MNa0GRYVUxjQ98Ll"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Slipknot",
+                    "title": "Danger - Keep Away",
+                    "uri": "6zZl4RKS9pRRlQHIk4CG7A"
+                },
+                {
+                    "artist": "Slipknot",
+                    "title": "Danger Keep Away",
+                    "uri": "4kfAd4MNa0GRYVUxjQ98Ll"
+                },
+                {
+                    "artist": "Slipknot",
+                    "title": "Duality",
+                    "uri": "61mWefnWQOLf90gepjOCb3"
+                }
+            ]
+        }
+    },
     "under-sleepy-moon-13th-february-2023": {
         "00": {
             "s0": "",

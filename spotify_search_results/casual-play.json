@@ -12294,6 +12294,752 @@
             ]
         }
     },
+    "casual-play-8th-march-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Futuro Pelo",
+                    "title": "Adventures - Tell Remix",
+                    "uri": "1ieg6G2Nr9C0OzsFDQEjqL"
+                },
+                {
+                    "artist": "Futuro Pelo",
+                    "title": "Adventures",
+                    "uri": "1cFafTZ4kcW0lb4TIOyBqm"
+                },
+                {
+                    "artist": "Futuro Pelo",
+                    "title": "Nefertiti - David Walters Remix",
+                    "uri": "1m0OvusfKEUnCp5yeu2n5w"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Philip Budny",
+                    "title": "Somnambulism",
+                    "uri": "40Npk4KJgP9Zl1Yf782A0Q"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Philip Budny",
+                    "title": "Somnambulism",
+                    "uri": "40Npk4KJgP9Zl1Yf782A0Q"
+                },
+                {
+                    "artist": "Philip Budny",
+                    "title": "Pypes",
+                    "uri": "5lTEEQLsQyUffRcZGyu9Z6"
+                },
+                {
+                    "artist": "Ferdinando Zetticci",
+                    "title": "Sonnambulismo",
+                    "uri": "2Ud0BKOtLvXRFXXE6ikCKn"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Peggy Gou",
+                    "title": "Shero",
+                    "uri": "1SCavOqanyTnGotH0xL4b6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Peggy Gou",
+                    "title": "Shero",
+                    "uri": "1SCavOqanyTnGotH0xL4b6"
+                },
+                {
+                    "artist": "Peggy Gou",
+                    "title": "(It Goes Like) Nanana - Edit",
+                    "uri": "23RoR84KodL5HWvUTneQ1w"
+                },
+                {
+                    "artist": "Peggy Gou",
+                    "title": "It Makes You Forget (Itgehane) - Edit",
+                    "uri": "1GZJu6ciZ55S8Kp1s8Z5ex"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Adele",
+                    "title": "My Little Love",
+                    "uri": "2DuPBbS5mIldXnh7Wum8Cy"
+                },
+                {
+                    "artist": "Mabes",
+                    "title": "Little Love",
+                    "uri": "1Pq2zNeHfbEA4phoHXHG5b"
+                },
+                {
+                    "artist": "Little Starflower",
+                    "title": "Little Love",
+                    "uri": "3KhynCCBuv7QY9uZLh9xVn"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Doms & Deykers",
+                    "title": "Eyes Up",
+                    "uri": "39dAcJCF3TNZ0rJsURjM5P"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Doms & Deykers",
+                    "title": "Eyes Up",
+                    "uri": "39dAcJCF3TNZ0rJsURjM5P"
+                },
+                {
+                    "artist": "Tiishe",
+                    "title": "Eyes Up",
+                    "uri": "74i9qx80sOGmzojF8CW3DL"
+                },
+                {
+                    "artist": "ONE HOUSE",
+                    "title": "Eyes Up",
+                    "uri": "0QGmvrkleLv2wgRHPNQc9f"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Jacques Greene",
+                    "title": "Night Service - Fort Romeau Remix",
+                    "uri": "1XhiVGY3mGJ3du5OR18FW9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jacques Greene",
+                    "title": "Night Service - Fort Romeau Remix",
+                    "uri": "1XhiVGY3mGJ3du5OR18FW9"
+                },
+                {
+                    "artist": "Ouri",
+                    "title": "High & Choking - Jacques Greene Remix",
+                    "uri": "6qmblg3jRsKu7N8yipxJvF"
+                },
+                {
+                    "artist": "Nosaj Thing",
+                    "title": "Too Close",
+                    "uri": "0FlYCmQM5q3TcdvwRT53Tt"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Route 8",
+                    "title": "From the Valley",
+                    "uri": "4EU0XXDviIS5QdTFgTYBGV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Route 8",
+                    "title": "From the Valley",
+                    "uri": "4EU0XXDviIS5QdTFgTYBGV"
+                },
+                {
+                    "artist": "Chuck Berry",
+                    "title": "Route 66",
+                    "uri": "6TXnGAr6DLVYshIrMeP0lZ"
+                },
+                {
+                    "artist": "Truck Stop",
+                    "title": "Route 66",
+                    "uri": "16egsBEJfB9Ggkxuxj8iHO"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "CDF",
+                    "title": "Not so Silent",
+                    "uri": "1mweeqAKOeXZZUxtLqfCbV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "CDF",
+                    "title": "Not so Silent",
+                    "uri": "1mweeqAKOeXZZUxtLqfCbV"
+                },
+                {
+                    "artist": "CDF",
+                    "title": "La Rencontre",
+                    "uri": "2qdkzhhvk3bXYDncHOCRRi"
+                },
+                {
+                    "artist": "Yves V",
+                    "title": "Not So Bad (feat. Emie)",
+                    "uri": "1XFHbzTikXks9CsMq4v8Q3"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DJ Swisha",
+                    "title": "What Can I Get Wituhh Drink Ticket?",
+                    "uri": "0Wv7h30iAXJRGyMyywagzV"
+                },
+                {
+                    "artist": "DJ SWISHERMAN",
+                    "title": "Pourin Up",
+                    "uri": "3bSvXlBYICJjdJxvaYWQ0o"
+                },
+                {
+                    "artist": "DJ SWISHERMAN",
+                    "title": "PUSHIN' KEYS",
+                    "uri": "6vJfOf66uhGVKdxXA75EFG"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Escaflowne",
+                    "title": "Betta Believe - Club mix",
+                    "uri": "01u6vYVxyFSVKAZUc05JMZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Escaflowne",
+                    "title": "Betta Believe - Club mix",
+                    "uri": "01u6vYVxyFSVKAZUc05JMZ"
+                },
+                {
+                    "artist": "midori",
+                    "title": "Sóra's Folktale",
+                    "uri": "1PtPb11D8N98rovI03z8fq"
+                },
+                {
+                    "artist": "Damian Force",
+                    "title": "Gotta Believe",
+                    "uri": "2AVFP9aEYlPQ40V0lkGhE4"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Los Hermanos",
+                    "title": "In Deeper Presence",
+                    "uri": "4Umfdrksoa85OqoKlN9uKc"
+                },
+                {
+                    "artist": "LOS HERMANOS",
+                    "title": "In Deeper Presence",
+                    "uri": "2g2CmENNMmZ2UqInqWzkEl"
+                },
+                {
+                    "artist": "LOS HERMANOS",
+                    "title": "In Deeper Presence",
+                    "uri": "2XwGILOwygDPwv0sTJdbdQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Los Hermanos",
+                    "title": "In Deeper Presence",
+                    "uri": "4Umfdrksoa85OqoKlN9uKc"
+                },
+                {
+                    "artist": "LOS HERMANOS",
+                    "title": "In Deeper Presence",
+                    "uri": "2XwGILOwygDPwv0sTJdbdQ"
+                },
+                {
+                    "artist": "Los Hermanos",
+                    "title": "Anna Júlia",
+                    "uri": "0aASUtDb1N96NJDwmWj5Gf"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Holy Garage",
+                    "title": "Surprise - Holy Bassline Mix",
+                    "uri": "5hIbC44muiPCznV3hk7HEP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Holy Garage",
+                    "title": "Surprise - Holy Bassline Mix",
+                    "uri": "5hIbC44muiPCznV3hk7HEP"
+                },
+                {
+                    "artist": "JAY-Z",
+                    "title": "Holy Grail",
+                    "uri": "1q9bLSeIlGf2xBvbOkp2Wr"
+                },
+                {
+                    "artist": "Holy Goof",
+                    "title": "Over You",
+                    "uri": "7qm3YjedUCXH2p58VLwUHi"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tems",
+                    "title": "Crazy Tings",
+                    "uri": "2Li9UJop1djc8aH4MjuJUX"
+                },
+                {
+                    "artist": "Tems",
+                    "title": "Crazy Tings",
+                    "uri": "5VQagemEOLpJJikcLzDNYR"
+                },
+                {
+                    "artist": "Ozzy Osbourne",
+                    "title": "Crazy Train",
+                    "uri": "7ACxUo21jtTHzy7ZEV56vU"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dego",
+                    "title": "Warp 7",
+                    "uri": "5J4m4eakrX44T4IDjss5qn"
+                },
+                {
+                    "artist": "DragonForce",
+                    "title": "Kingdom of Steel",
+                    "uri": "5kX5enIdvzXiLMqSHuKbUe"
+                },
+                {
+                    "artist": "Jesper Kyd",
+                    "title": "Warp Traveller",
+                    "uri": "4CgUSJrO3SP1yrsQVrGxMY"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Laura Trash & Chloe Shitty",
+                    "title": "Expression",
+                    "uri": "1MM8z52BpqBRmQr4vPuKlJ"
+                },
+                {
+                    "artist": "Donny Livingston",
+                    "title": "Expression",
+                    "uri": "2onuMeIaRamFyapx2BfUS6"
+                },
+                {
+                    "artist": "Gordo Napalma",
+                    "title": "Expression",
+                    "uri": "5zdCyjtjf8iQmgm0wTqDa8"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "GlenGang 030",
+                    "title": "Eden im Herz",
+                    "uri": "0bfzb2GxLaaDo3ToGIZBUb"
+                },
+                {
+                    "artist": "GlenGang 030",
+                    "title": "Kein Pflaster",
+                    "uri": "1GENY8Kggj0Wb9e1aF8goN"
+                },
+                {
+                    "artist": "Olivia Vedder",
+                    "title": "My Father's Daughter",
+                    "uri": "2LxglhGxGhHF4P11HPEFwu"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kyle Hall",
+                    "title": "Jasmine Heights",
+                    "uri": "4akX2plQz8OHcpqd8oq01u"
+                },
+                {
+                    "artist": "DPR LIVE",
+                    "title": "Jasmine",
+                    "uri": "2IgbYlOlFpiSFYnsqB39lM"
+                },
+                {
+                    "artist": "Jasmine Jethwa",
+                    "title": "Have I Ever Been",
+                    "uri": "2myy3lzRU87HPV9Gxs9ddQ"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bebe Winans",
+                    "title": "It's All Good (feat. Debbie Winans Lowe & Korean Soul) - [Louie Vega Remix]",
+                    "uri": "2AHD6x1aqUwziuRx4IEysH"
+                },
+                {
+                    "artist": "Bebe Winans",
+                    "title": "It's All Good (feat. Debbie Winans Lowe & Korean Soul) - [Louie Vega Remix] [Extended Version]",
+                    "uri": "6v99FahgvUAsBLu3uHsymj"
+                },
+                {
+                    "artist": "Jon Batiste",
+                    "title": "It's All Right - From \"Soul\"/Soundtrack Version",
+                    "uri": "1XmdReQRsXwlXs62EELp5S"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ralf Gum",
+                    "title": "Take Me to My Love",
+                    "uri": "5oYZAxG1ZVy8lwVduEKYxe"
+                },
+                {
+                    "artist": "d4vd",
+                    "title": "Take Me To The Sun",
+                    "uri": "32GHYtVVAsYNQGafHrrRxv"
+                },
+                {
+                    "artist": "Alex Yurkiv",
+                    "title": "Take Me to the River (I Will Swim)",
+                    "uri": "4yaalj9cPc9FCVi0SXkBuV"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Shacks",
+                    "title": "Crimson And Clover",
+                    "uri": "2J3hiL5egugOFdHFqDuSP7"
+                },
+                {
+                    "artist": "Clover!",
+                    "title": "On The Run!",
+                    "uri": "1SsLipuRWaCHPawzZ5HNsT"
+                },
+                {
+                    "artist": "Clover!",
+                    "title": "Toxic Love!",
+                    "uri": "5rZ3vXPxhIFfB3RQsCVoAc"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Adi Oasis",
+                    "title": "Adonis - Feat. KIRBY",
+                    "uri": "1Q6n0mQqqOCXsUGGKxQmrV"
+                },
+                {
+                    "artist": "Dreamville",
+                    "title": "Adonis Interlude (The Montage) (with J. Cole)",
+                    "uri": "5Mkbqot9JUaN5XhRgqITME"
+                },
+                {
+                    "artist": "Dreamville",
+                    "title": "Adonis Interlude (The Montage) (with J. Cole)",
+                    "uri": "23w7p4AuDtw9CrhFBcMat5"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Cajmere",
+                    "title": "Percolator - Jamie Jones Vault Mix",
+                    "uri": "6ZRA5uk11p6M8cJBtoyq6N"
+                },
+                {
+                    "artist": "Cajmere",
+                    "title": "Percolator - Original Mix",
+                    "uri": "5JYbPUFjUn0i8BQy1C5JTs"
+                },
+                {
+                    "artist": "Boots Randolph",
+                    "title": "Percolator",
+                    "uri": "6gLxiJbv4kdg0dDtGcwogP"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dam Swindle",
+                    "title": "Howsmusic",
+                    "uri": "1GBtIqXLfMHyFZNF7W64ws"
+                },
+                {
+                    "artist": "Dam Swindle",
+                    "title": "Howsmusic - Original Mix",
+                    "uri": "6pgBRsYnMI6qzT2cv03Ixe"
+                },
+                {
+                    "artist": "KISS",
+                    "title": "Detroit Rock City",
+                    "uri": "0PQ51hZtABYRaXNHkVpAfD"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Patrice Rushen",
+                    "title": "Forget Me Nots - Remastered",
+                    "uri": "4UQH52FfgGpzDShKDbBvEA"
+                },
+                {
+                    "artist": "Patrice Rushen",
+                    "title": "Forget Me Nots - Single Version",
+                    "uri": "6hGBWw0Pv1oe8uYCVXz1yK"
+                },
+                {
+                    "artist": "Patrice Rushen",
+                    "title": "Forget Me Nots - Remastered",
+                    "uri": "5ERZGchTi6sysVmA913Ryx"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Just B.Trill",
+                    "title": "Pickin n Choosing",
+                    "uri": "6r9DotMxw7Fbvj0ITVo8tt"
+                },
+                {
+                    "artist": "Chiko Rackz",
+                    "title": "Pickin’ & Choosin’",
+                    "uri": "4NbU6mwDLkahbnR0cigUCa"
+                },
+                {
+                    "artist": "Eve Boswell",
+                    "title": "Pickin' a Chicken",
+                    "uri": "0QBTJ12iztMH999Nxeic9u"
+                }
+            ]
+        },
+        "25": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gabby's Dollhouse",
+                    "title": "Gabby hat einen Schluckauf - Teil 1",
+                    "uri": "0Jubq9C7FyP0giIzojTQyM"
+                },
+                {
+                    "artist": "Gabby's Dollhouse",
+                    "title": "Gabby hat einen Schluckauf - Teil 3",
+                    "uri": "5WJWZ7SKZ8EfYHh0PoJ4G9"
+                },
+                {
+                    "artist": "Gabby's Dollhouse",
+                    "title": "Gabby hat einen Schluckauf - Teil 2",
+                    "uri": "081WPY7sZ8TlX5CtVLX8Yb"
+                }
+            ]
+        },
+        "26": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rap La Rue",
+                    "title": "Mercedes",
+                    "uri": "6Az6Yrqa5tI3VCMIb6lbYG"
+                },
+                {
+                    "artist": "Janis Joplin",
+                    "title": "Mercedes Benz",
+                    "uri": "1MntHPLU1T7a9W4tojbg8g"
+                },
+                {
+                    "artist": "Nasty Babe",
+                    "title": "Mercedes",
+                    "uri": "1bCkfmWZyzU6AqAmDjTxVD"
+                }
+            ]
+        },
+        "27": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mark Ronson",
+                    "title": "Summer Breaking (feat. Kevin Parker)",
+                    "uri": "3hoh1AoKwuC3VZ8CYj6YA9"
+                },
+                {
+                    "artist": "Mark Ronson",
+                    "title": "Ooh Wee (feat. Ghostface Killah, Nate Dogg, Trife & Saigon)",
+                    "uri": "4WimB4Ei0LU3MotHhL3kBL"
+                },
+                {
+                    "artist": "Mark Ronson",
+                    "title": "Ooh Wee (feat. Ghostface Killah, Nate Dogg, Trife & Saigon)(Radio Edit)",
+                    "uri": "5UCdt8HN1nri8jYwP8Ugcd"
+                }
+            ]
+        },
+        "28": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Prodigy",
+                    "title": "Charly",
+                    "uri": "02G5u4AcbGhlfSkHzGCpmN"
+                },
+                {
+                    "artist": "The Prodigy",
+                    "title": "Charly - Trip Into Drum and Bass Version",
+                    "uri": "7v5sjnQVCRyB4gECSL4ajK"
+                },
+                {
+                    "artist": "The Prodigy",
+                    "title": "O",
+                    "uri": "2qgTvtCVbQ18SQ4ZDVUlMB"
+                }
+            ]
+        },
+        "29": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "BRELAND",
+                    "title": "My Truck",
+                    "uri": "6jGyDvL1Rf4XfwTb25o1HN"
+                },
+                {
+                    "artist": "Phonk Killer",
+                    "title": "Trunk - Slowed + Reverb",
+                    "uri": "4bvMK3XIahoOheT0YXpIYf"
+                },
+                {
+                    "artist": "EREN CAN",
+                    "title": "4 Uhr",
+                    "uri": "6qhbEhsjodeW1ZqUsFjH3Q"
+                }
+            ]
+        },
+        "30": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Close Counters",
+                    "title": "My Everything",
+                    "uri": "15RGKNcR7ZDmyXTWY9OmLh"
+                },
+                {
+                    "artist": "Owl City",
+                    "title": "My Everything",
+                    "uri": "1CfzJiAnuAiyopNL7Wb3cB"
+                },
+                {
+                    "artist": "Ariana Grande",
+                    "title": "Intro",
+                    "uri": "0qMNPhpRzbghJy6G3SgRag"
+                }
+            ]
+        },
+        "31": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eric Roberson",
+                    "title": "Change For Me",
+                    "uri": "3mHI82rXE6dqbHOSmbYzmi"
+                },
+                {
+                    "artist": "Eric Roberson",
+                    "title": "Change For Me",
+                    "uri": "4Zgi784zShU76CWOvwBM3W"
+                },
+                {
+                    "artist": "Eric Reprid",
+                    "title": "SUKI",
+                    "uri": "1GegKRYsUlq6y1Rlm5p6TB"
+                }
+            ]
+        },
+        "32": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Peven Everett",
+                    "title": "Run Around",
+                    "uri": "1PnwlB8lvTiSjofddCsS45"
+                },
+                {
+                    "artist": "Dion",
+                    "title": "Runaround Sue - Remastered 1991",
+                    "uri": "3u6v1F9EQqYFaCAou7ipzN"
+                },
+                {
+                    "artist": "Dion",
+                    "title": "Runaround Sue",
+                    "uri": "1DndHckdH9m5rp6gYP086b"
+                }
+            ]
+        },
+        "33": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "P!nk",
+                    "title": "Turbulence",
+                    "uri": "1dJzTNm46rtvQR2A3GZU8F"
+                },
+                {
+                    "artist": "Waterparks",
+                    "title": "Turbulent",
+                    "uri": "4ig3DcNoj3UfPdhL2Rw9J1"
+                },
+                {
+                    "artist": "Coopex",
+                    "title": "Turbulence",
+                    "uri": "506EQ1X6MmQlyrmoErYUfc"
+                }
+            ]
+        }
+    },
     "casual-play-w-inkswel-edseven-12th-march-2020": {
         "00": {
             "s0": "",

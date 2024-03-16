@@ -350,5 +350,63 @@
             "artist": "John Ottman",
             "title": "Main Theme"
         }
+    },
+    "agathe-rousselle-7th-march-2024": {
+        "00": {
+            "artist": "Tim Roth, ",
+            "title": "Pumpkin And Honey Bunny"
+        },
+        "01": {
+            "artist": "Thomas Newman",
+            "title": "May"
+        },
+        "02": {
+            "artist": "The Fall",
+            "title": "Hip Priest"
+        },
+        "03": {
+            "artist": "The Cure",
+            "title": "Burn"
+        },
+        "04": {
+            "artist": "Violent Femmes",
+            "title": "Color Me Once"
+        },
+        "05": {
+            "artist": "Medicine",
+            "title": "Time Baby III"
+        },
+        "06": {
+            "artist": "Lunatic Calm",
+            "title": "Leave You Far Behind"
+        },
+        "07": {
+            "artist": "RATM",
+            "title": "Wake Up"
+        },
+        "08": {
+            "artist": "Howard Shore, ",
+            "title": "Simpatico"
+        },
+        "09": {
+            "artist": "Gabrielle",
+            "title": "Dreams"
+        },
+        "10": {
+            "artist": "Juliette Lewis",
+            "title": "Born Bad"
+        },
+        "11": {
+            "artist": "Leonard Cohen",
+            "title": "Waiting For The Miracle"
+        },
+        "12": {
+            "artist": "Bob Dylan, ",
+            "title": "The Shape I'm In"
+        },
+        "13": {
+            "artist": "Esquivel",
+            "title": "Mucha Muchacha"
+        }
     }
 }

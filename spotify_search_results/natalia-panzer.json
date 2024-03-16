@@ -1,4 +1,490 @@
 {
+    "natalia-panzer-10th-february-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "dj poolboi",
+                    "title": "we can be happy",
+                    "uri": "4JoPwacbkrBPl6A98KhXDV"
+                },
+                {
+                    "artist": "Oasis",
+                    "title": "The Swamp Song (Excerpt 1) - Remastered",
+                    "uri": "0C5sWHmcl8725KPaVJj1td"
+                },
+                {
+                    "artist": "TOOL",
+                    "title": "Swamp Song",
+                    "uri": "5q4L6JyoEY3VN5pOSbgjS8"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "La Fine Equipe",
+                    "title": "Gateau russe",
+                    "uri": "2i5ER6mssF7x9gFpLIQyZF"
+                },
+                {
+                    "artist": "Royal & the Serpent",
+                    "title": "overwhelmed - Chri$tian Gate$ remix",
+                    "uri": "4Kh6cq3XgOGUK9yXQu7RTq"
+                },
+                {
+                    "artist": "Egypt Central",
+                    "title": "Raise the Gates",
+                    "uri": "6R1TURToULKD3Rlkb7xAL8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Edoardo Bennato",
+                    "title": "Il rock di capitan uncino",
+                    "uri": "0hQwK2xN3VxsifhVdnB4FL"
+                },
+                {
+                    "artist": "Train",
+                    "title": "Hey, Soul Sister",
+                    "uri": "4HlFJV71xXKIGcU3kRyttv"
+                },
+                {
+                    "artist": "pazzy",
+                    "title": "e e e e",
+                    "uri": "6URYLufHfSeErwm5xfXZyX"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Zouzounia",
+                    "title": "Akadou",
+                    "uri": "0kaWGcTNpzTNeioEG0mNkg"
+                },
+                {
+                    "artist": "Zouzounia",
+                    "title": "Zouzounia Zou Zou",
+                    "uri": "6SmqDmXAJQfIFZCT3Civ8A"
+                },
+                {
+                    "artist": "ZUTOMAYO",
+                    "title": "猫リセット",
+                    "uri": "5znJrB6cvS8lffgUFnNETf"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mikey Enwright",
+                    "title": "Higher",
+                    "uri": "2fQqvC2ymu7PTtgElqc70d"
+                },
+                {
+                    "artist": "Mikey Enwright",
+                    "title": "Images",
+                    "uri": "1uaY7sON2Hi95MRVnWmZ0v"
+                },
+                {
+                    "artist": "Mikey Dread",
+                    "title": "Roots and Culture",
+                    "uri": "27Ao7StVocPejWGBF3TwM0"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "UGK",
+                    "title": "Pinky Ring",
+                    "uri": "7gA5NWojLZRn8DYQ9HXE7x"
+                },
+                {
+                    "artist": "THE HITS LAB",
+                    "title": "Pinky Ring",
+                    "uri": "5Pp9ICJqOiBrB6hDPnNGEl"
+                },
+                {
+                    "artist": "Mxno",
+                    "title": "Pinky Ring",
+                    "uri": "3zlTVKYVDmrCiihfB85xGR"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Michael Forster",
+                    "title": "All of Me - Piano Version",
+                    "uri": "62Bc1Dm73zD7O1F98YO97V"
+                },
+                {
+                    "artist": "Michael Bublé",
+                    "title": "All of Me",
+                    "uri": "3ts3nBCGF7K9JvSjWVQfX8"
+                },
+                {
+                    "artist": "Beth",
+                    "title": "All of Me - Acoustic",
+                    "uri": "28PAALt0KQANJnw0btwbWL"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Larry June",
+                    "title": "Palisades, CA",
+                    "uri": "70wd1fE44Rb9mnZMaApmkc"
+                },
+                {
+                    "artist": "Palisades",
+                    "title": "Let Down",
+                    "uri": "2CZvpD9EWrkgL0abqc9c3f"
+                },
+                {
+                    "artist": "Parker Millsap",
+                    "title": "Palisade (feat. Michael Rose)",
+                    "uri": "1s5IgWBZmQLfdSaAHBFuEu"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Connie Francis",
+                    "title": "Frankie",
+                    "uri": "3cmGF5NDmyRcc8XM3xbFWb"
+                },
+                {
+                    "artist": "Connie Francis",
+                    "title": "Frankie",
+                    "uri": "5BsOVkxK3BdGcAS2FtoSpr"
+                },
+                {
+                    "artist": "Connie Francis",
+                    "title": "Frankie",
+                    "uri": "4MDh2LSsIPrv2o9v6FOzdX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Connie Francis",
+                    "title": "Frankie",
+                    "uri": "3cmGF5NDmyRcc8XM3xbFWb"
+                },
+                {
+                    "artist": "Connie Francis",
+                    "title": "Frankie",
+                    "uri": "5BsOVkxK3BdGcAS2FtoSpr"
+                },
+                {
+                    "artist": "Connie Francis",
+                    "title": "Schöner fremder Mann",
+                    "uri": "6jhNnyDMpxD8xCBATr9CuM"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Cobblestone Jazz",
+                    "title": "DMT",
+                    "uri": "72ach21QAhTQlJ3BIIa1Qc"
+                },
+                {
+                    "artist": "xxyyxx",
+                    "title": "DMT",
+                    "uri": "6kBAlRKTukxlwmp0u8mde4"
+                },
+                {
+                    "artist": "ALVIDO",
+                    "title": "DMT",
+                    "uri": "7bwerSZfAnLDqKp0UyuxiQ"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Pont à Mousson",
+                    "title": "Song for Her Hair",
+                    "uri": "7nBxMTkQKzkK8Ijg3RMbdp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pont à Mousson",
+                    "title": "Song for Her Hair",
+                    "uri": "7nBxMTkQKzkK8Ijg3RMbdp"
+                },
+                {
+                    "artist": "Nana Mouskouri",
+                    "title": "Le pont de Nantes",
+                    "uri": "2N1QCGseas4PNTOLm162Fw"
+                },
+                {
+                    "artist": "Nana Mouskouri",
+                    "title": "Le pont de Nantes",
+                    "uri": "0BAneM16KmxAGD86YHOoCg"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Dan Melchior",
+                    "title": "The Story of Love",
+                    "uri": "0YbW6HIiIVyiYNE61NYdvx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dan Melchior",
+                    "title": "The Story of Love",
+                    "uri": "0YbW6HIiIVyiYNE61NYdvx"
+                },
+                {
+                    "artist": "Keiji Inai",
+                    "title": "Melancholy",
+                    "uri": "6fwS4OBSMJ8XOa8EpYd8Ma"
+                },
+                {
+                    "artist": "Dan Melchior Band",
+                    "title": "Shellfish Constable",
+                    "uri": "6FyWmc7BE81COnJXWQ9ZIc"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Friction",
+                    "title": "Set Me Free",
+                    "uri": "3q2uX1BAjCiKmhEQiqWZTD"
+                },
+                {
+                    "artist": "Litchii",
+                    "title": "Set Me Free",
+                    "uri": "6X7xXktXA9aZIyYcI2ob5D"
+                },
+                {
+                    "artist": "Mincheon",
+                    "title": "set me free",
+                    "uri": "6QM9IjsrcyXva10IleDuyz"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Soft Cell",
+                    "title": "Seedy Films",
+                    "uri": "2UjJWn33oJSmjnjBT4L0PN"
+                },
+                {
+                    "artist": "Seeed",
+                    "title": "Music Monks (The See(e)dy Monks) - Berlin Arena 2006; Live",
+                    "uri": "4enEGxZelaR4cNqNIZzESR"
+                },
+                {
+                    "artist": "Seedy Jeezus",
+                    "title": "How Ya Doin",
+                    "uri": "1fOioY72v5KWH1HrCXjkgo"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Canary Room",
+                    "title": "Calla",
+                    "uri": "5ElJ9iX6rSmPohq0KpYNLQ"
+                },
+                {
+                    "artist": "Canary Room",
+                    "title": "Calla",
+                    "uri": "5tVoFBz7JmzlVkSIGLvx0B"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Canary Room",
+                    "title": "Calla",
+                    "uri": "5ElJ9iX6rSmPohq0KpYNLQ"
+                },
+                {
+                    "artist": "Canary Room",
+                    "title": "Calla",
+                    "uri": "5tVoFBz7JmzlVkSIGLvx0B"
+                },
+                {
+                    "artist": "Keope",
+                    "title": "The Canary Inukh",
+                    "uri": "6zXe5eScWYkjQ59bcDETWf"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Clairo",
+                    "title": "Hello?",
+                    "uri": "7qwt4xUIqQWCu1DJf96g2k"
+                },
+                {
+                    "artist": "Samra",
+                    "title": "Kiss Me",
+                    "uri": "76SBSmc38qQQSpkgBenb8U"
+                },
+                {
+                    "artist": "Vampyx",
+                    "title": "Kiss me <3",
+                    "uri": "0D9tO35v4hqQaKI9NqCnVK"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "No To Co",
+                    "title": "Inne kwiaty",
+                    "uri": "7ATFstEoLAtFknGstJjxXM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "No To Co",
+                    "title": "Inne kwiaty",
+                    "uri": "7ATFstEoLAtFknGstJjxXM"
+                },
+                {
+                    "artist": "Diho",
+                    "title": "No to cyk",
+                    "uri": "3qHUVXQ20OIgtITF80ZsGu"
+                },
+                {
+                    "artist": "Slavic DAMA",
+                    "title": "Kwiaty",
+                    "uri": "3vODtjmC3BnttPQNR2iqpN"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Fresh Celeste",
+                    "title": "Don't Let This Be the End",
+                    "uri": "4l4mXNQJ9Yowmd56DQ0Q50"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fresh Celeste",
+                    "title": "Don't Let This Be the End",
+                    "uri": "4l4mXNQJ9Yowmd56DQ0Q50"
+                },
+                {
+                    "artist": "Celeste Frost",
+                    "title": "Current Situation",
+                    "uri": "21wnOYSCypBueMyAF5INT4"
+                },
+                {
+                    "artist": "Leo Rojas",
+                    "title": "Celeste - Remix by SASH!",
+                    "uri": "29SbjZsnEUxNlYhJy66Hvy"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Callie Ryan",
+                    "title": "Orange Notes",
+                    "uri": "44fjAEPHMxMhIuG5PEfBXD"
+                },
+                {
+                    "artist": "Callie Ryan",
+                    "title": "Orange Notes - Sage Caswell Remix",
+                    "uri": "7A0nMWnQrEbXqO7Jv8C7aF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Callie Ryan",
+                    "title": "Orange Notes",
+                    "uri": "44fjAEPHMxMhIuG5PEfBXD"
+                },
+                {
+                    "artist": "Callie Ryan",
+                    "title": "Orange Notes - Sage Caswell Remix",
+                    "uri": "7A0nMWnQrEbXqO7Jv8C7aF"
+                },
+                {
+                    "artist": "Callie Reiff",
+                    "title": "Chain Reaction (feat. GiGi Grombacher)",
+                    "uri": "16MSqsifKBQf1BKQCvJags"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Connan Mockasin",
+                    "title": "Forever Dolphin Love",
+                    "uri": "2TgEw8mRIuauwAHjUYD2kD"
+                },
+                {
+                    "artist": "Connan Mockasin",
+                    "title": "Forever Dolphin Love (Erol Alkan Rework)",
+                    "uri": "2HMLeD4rnuBaWk9U0MuYZp"
+                },
+                {
+                    "artist": "King Krule",
+                    "title": "363N63",
+                    "uri": "1MtMZ8lLNbZsDMwApwymaA"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Musique Chienne",
+                    "title": "Split in two",
+                    "uri": "461qvyKcvBAgq8d0mQ9CWl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Musique Chienne",
+                    "title": "Split in two",
+                    "uri": "461qvyKcvBAgq8d0mQ9CWl"
+                },
+                {
+                    "artist": "Musique De Chien",
+                    "title": "Chien calmant la musique",
+                    "uri": "2bmnBmFeecHXi484VMfrHk"
+                },
+                {
+                    "artist": "Musique De Chien",
+                    "title": "Musique chiot",
+                    "uri": "6MhFbxcZTRz2ADHRKywmO7"
+                }
+            ]
+        }
+    },
     "natalia-panzer-11th-february-2023": {
         "00": {
             "s0": [
@@ -6475,6 +6961,458 @@
                     "artist": "R3HAB",
                     "title": "Downtown (with Kelvin Jones)",
                     "uri": "5sVballPE4eldYS7INbthB"
+                }
+            ]
+        }
+    },
+    "natalia-panzer-9th-march-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "The Gentle People",
+                    "title": "The Soundtrack of Life - Toy Bunny Mix",
+                    "uri": "2OCLztb0Dq1c5fEFkDuPNr"
+                },
+                {
+                    "artist": "The Gentle People",
+                    "title": "The Soundtrack of Life - Remixed by DJ Force",
+                    "uri": "7aY4FQeMIkps4RfMTV2gXK"
+                },
+                {
+                    "artist": "The Gentle People",
+                    "title": "The Soundtrack of Life - F.P.M. Young Lation Love Mix by Fantastic Plastic Machine",
+                    "uri": "7vgPpMZKbopJ598Ic7q9nS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Gentle People",
+                    "title": "The Soundtrack of Life - Toy Bunny Mix",
+                    "uri": "2OCLztb0Dq1c5fEFkDuPNr"
+                },
+                {
+                    "artist": "The Gentle People",
+                    "title": "The Soundtrack of Life - F.P.M. Young Lation Love Mix by Fantastic Plastic Machine",
+                    "uri": "7vgPpMZKbopJ598Ic7q9nS"
+                },
+                {
+                    "artist": "The Gentle Men",
+                    "title": "Enemy",
+                    "uri": "0OYySkVVgFDyxT7Z0eVOGQ"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lamp",
+                    "title": "日本少年の夏",
+                    "uri": "0WtYVwg3sYsiRiVQKbBG9d"
+                },
+                {
+                    "artist": "SHISHAMO",
+                    "title": "中庭の少女たち",
+                    "uri": "1YrU8ExqF04ygegVoOOoFU"
+                },
+                {
+                    "artist": "蒋哥哥",
+                    "title": "南国忆 - 伴奏",
+                    "uri": "40DVMzAiHhDnlQ90s66LDK"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Robert Leiner",
+                    "title": "To Places You've Never Been",
+                    "uri": "2EXfeTyOhlH93xJs63eCEp"
+                },
+                {
+                    "artist": "Philip Parker",
+                    "title": "ROBERT LEWANDOWSKI SONG",
+                    "uri": "3Zrs8162fsyN8KmFTSisXF"
+                },
+                {
+                    "artist": "LETNI",
+                    "title": "Robert Lewandowski - Video Mix",
+                    "uri": "0UtDvOTHJp9VjuBxu5tpvn"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Musique Chienne",
+                    "title": "Nihongo de Asobo",
+                    "uri": "1Z19T6wtekLUW3GYLJCzbi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Musique Chienne",
+                    "title": "Nihongo de Asobo",
+                    "uri": "1Z19T6wtekLUW3GYLJCzbi"
+                },
+                {
+                    "artist": "Fillies",
+                    "title": "Zombi",
+                    "uri": "6ZtY3m46RPhzee6maagqMK"
+                },
+                {
+                    "artist": "BASSTON",
+                    "title": "ZOMBIE - TECHNO",
+                    "uri": "61WBD9H0D0NqDz6l1oVI5P"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Manoir Molle",
+                    "title": "histoire",
+                    "uri": "1v56WYkOWEIAIGctUobijc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Manoir Molle",
+                    "title": "histoire",
+                    "uri": "1v56WYkOWEIAIGctUobijc"
+                },
+                {
+                    "artist": "MPL",
+                    "title": "Histoires anciennes",
+                    "uri": "7MY141bXhSJCJYLBW37LbN"
+                },
+                {
+                    "artist": "Monsieur Timoté",
+                    "title": "L'histoire de Monsieur Timoté",
+                    "uri": "6Gr1mtF24TbgqhEZCVLTK2"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Daft Punk",
+                    "title": "Robot Rock / Oh Yeah",
+                    "uri": "5EaZLVO6pSEWIyUDsHWiSU"
+                },
+                {
+                    "artist": "Svralys Ida",
+                    "title": "Robot Man - Short Mix",
+                    "uri": "2IZAcMor7BQAuy0W4hlKGz"
+                },
+                {
+                    "artist": "Daft Punk",
+                    "title": "Robot Rock / Oh Yeah",
+                    "uri": "5eS6pTvDNOvh2kyxeZtK3r"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Julius Smack",
+                    "title": "One Day the Day Will Come When the Day Will Not Come",
+                    "uri": "4egK8p5iGovTnpDqovgVlw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Julius Smack",
+                    "title": "One Day the Day Will Come When the Day Will Not Come",
+                    "uri": "4egK8p5iGovTnpDqovgVlw"
+                },
+                {
+                    "artist": "Julius Smokes",
+                    "title": "Jackals",
+                    "uri": "4zYd1SxY5RH7ygC0YHcTCi"
+                },
+                {
+                    "artist": "Julius Smack",
+                    "title": "Sonata",
+                    "uri": "6Wzs11Nbn6HVHYvLrqZCsq"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Laurent Dury",
+                    "title": "Micropolis",
+                    "uri": "7hHGvyxSGJ5uoLWQ8KmuAZ"
+                },
+                {
+                    "artist": "Young K",
+                    "title": "Microphone",
+                    "uri": "7HIStGUGjgfZVHKri0rc8Q"
+                },
+                {
+                    "artist": "Nerds At Raves",
+                    "title": "Infinity",
+                    "uri": "73PEhgeGKHSTsXPnSCbZV7"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "horsegiirL",
+                    "title": "Harvest Heartbreak",
+                    "uri": "7JhJekpDWk91o3ddofa9RA"
+                },
+                {
+                    "artist": "RaiM",
+                    "title": "Симпа",
+                    "uri": "12CyVMukc52Nm31SmFmdjq"
+                },
+                {
+                    "artist": "RaiM",
+                    "title": "Симпа (Mikis Remix)",
+                    "uri": "0l48ATBuuswIve4S2qDjiT"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jana",
+                    "title": "Šta Će Ti Pevačica",
+                    "uri": "1U4MeFEFqkE4MraWgwRU0O"
+                },
+                {
+                    "artist": "BBX",
+                    "title": "ESSA - Radio Mix",
+                    "uri": "6vgCBPfTDayTTRvKTNjWkt"
+                },
+                {
+                    "artist": "MC Stojan",
+                    "title": "Šta Ćes S Njim",
+                    "uri": "7lEWbQ1jQESa9QW9SHz8Be"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "young friend",
+                    "title": "PINCH ME",
+                    "uri": "14QUJhbXCWO90NfZ0mXnGG"
+                },
+                {
+                    "artist": "Barenaked Ladies",
+                    "title": "Pinch Me",
+                    "uri": "2RQ3fWFZJJe4G5KkHEACww"
+                },
+                {
+                    "artist": "Al David",
+                    "title": "Pinch Me!",
+                    "uri": "44vapBgY7VHoRqkdhSlL4m"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "my bloody valentine",
+                    "title": "when you sleep",
+                    "uri": "2KylN9C0wNbzLgZNTG9oiU"
+                },
+                {
+                    "artist": "Mira",
+                    "title": "When You Sleep (My Bloody Valentine cover)",
+                    "uri": "3exMRQ0KZD62DCBkU1Wrju"
+                },
+                {
+                    "artist": "Twenty One Pilots",
+                    "title": "My Blood",
+                    "uri": "5HeKOKc4phmLn8e4I7EkzD"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Starcleaner Reunion",
+                    "title": "Moss on my Brick Wall",
+                    "uri": "02tioN0aznXtcmaeED7un5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Starcleaner Reunion",
+                    "title": "Moss on my Brick Wall",
+                    "uri": "02tioN0aznXtcmaeED7un5"
+                },
+                {
+                    "artist": "Starcleaner Reunion",
+                    "title": "Ribbon Le Chou",
+                    "uri": "7GQHTX3XkV59jsFBSe2uCZ"
+                },
+                {
+                    "artist": "The Brian Jonestown Massacre",
+                    "title": "Starcleaner",
+                    "uri": "4MTkDYcQtbG9O3eeHNJo6K"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Roving Bottles",
+                    "title": "Florasong",
+                    "uri": "2wGLhpZF2GHbvbauUsGaZH"
+                },
+                {
+                    "artist": "Enya",
+                    "title": "Flora's Secret",
+                    "uri": "2C7wrqJsycuxyboi9LzOyX"
+                },
+                {
+                    "artist": "Flora Rose",
+                    "title": "You've Been On My Mind",
+                    "uri": "5TV4XeP24gE7h6QIuosb4e"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Vanessa Amara",
+                    "title": "Hvad glor I på Wikipedia?",
+                    "uri": "2ow1PgAqbRmCdjAYzqdl3L"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Vanessa Amara",
+                    "title": "Hvad glor I på Wikipedia?",
+                    "uri": "2ow1PgAqbRmCdjAYzqdl3L"
+                },
+                {
+                    "artist": "Vanessa Mai",
+                    "title": "Happy End (feat. Sido)",
+                    "uri": "5GGGxF124I4hMQv90hlcMM"
+                },
+                {
+                    "artist": "Vanessa Mai",
+                    "title": "Nicht von dieser Erde",
+                    "uri": "4L0PedIJZ1tX6JSJrMrR9A"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Roger Doyle",
+                    "title": "Sir Geoffrey",
+                    "uri": "7gvs9Rope6chMiohbpDnLK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Roger Doyle",
+                    "title": "Sir Geoffrey",
+                    "uri": "7gvs9Rope6chMiohbpDnLK"
+                },
+                {
+                    "artist": "Geoffrey Oryema",
+                    "title": "Makambo",
+                    "uri": "2F9aMslwYQurvgv7DGS7S5"
+                },
+                {
+                    "artist": "Geoffrey Oryema",
+                    "title": "Land of Anaka",
+                    "uri": "1ljztZC52YENxjzhYo84gM"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Jardino",
+                    "title": "Le rossignol il chante",
+                    "uri": "4OGFDqlCmbL6jNwoclNP6Z"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jardino",
+                    "title": "Le rossignol il chante",
+                    "uri": "4OGFDqlCmbL6jNwoclNP6Z"
+                },
+                {
+                    "artist": "Jardino",
+                    "title": "Rossignolet des bois",
+                    "uri": "51MVn5RGLyVpvwf3AlQtum"
+                },
+                {
+                    "artist": "Henri Salvador",
+                    "title": "Jardin d'hiver",
+                    "uri": "7gHRVNiuL66Z6fE6DwZaFT"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "F.G.S.",
+                    "title": "Buck Blood",
+                    "uri": "0ML3owedFoVYRLZ7nrGf6A"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "50 Cent",
+                    "title": "Blood Hound",
+                    "uri": "11hW1pk42xj0koCUJf9Xnj"
+                },
+                {
+                    "artist": "Buddy Greene",
+                    "title": "There is Power In the Blood (feat. Buck White)",
+                    "uri": "3LqXbjlRtuVewcTWEgvxQl"
+                },
+                {
+                    "artist": "Masayoshi Soken",
+                    "title": "Metal - Brute Justice Mode",
+                    "uri": "339GJnwdqS20UC8M46qOpD"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "FLOWTRON",
+                    "title": "Ode to Ian",
+                    "uri": "6GVIs1kUHHhFCKwqylFe9b"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "FLOWTRON",
+                    "title": "Ode to Ian",
+                    "uri": "6GVIs1kUHHhFCKwqylFe9b"
+                },
+                {
+                    "artist": "Move Ya!",
+                    "title": "Reincarnation",
+                    "uri": "1YNuQz4OZ9w2V4fi8TchS0"
+                },
+                {
+                    "artist": "FlowTheRapper",
+                    "title": "Birth",
+                    "uri": "7dvabUcDqFXHHC8odsTvXl"
                 }
             ]
         }

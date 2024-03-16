@@ -1,4 +1,493 @@
 {
+    "ichiko-aoba-12th-march-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Silvana Estrada",
+                    "title": "Mas O Menos Antes",
+                    "uri": "1NttZF0RMI3NnWRVIcM81u"
+                },
+                {
+                    "artist": "Silvana Estrada",
+                    "title": "Al Norte",
+                    "uri": "2dxeshKXUCGzydZQziuN3B"
+                },
+                {
+                    "artist": "Silvana Estrada",
+                    "title": "Tenías Que Ser Tú",
+                    "uri": "2rIKsynpXAj5bHFdY6ESE1"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "B.J. Thomas",
+                    "title": "Rain Drops Keep Falling on My Head",
+                    "uri": "0sKymIftfpTNp62P4oTvTY"
+                },
+                {
+                    "artist": "B.J. Thomas",
+                    "title": "Raindrops Keep Fallin' On My Head",
+                    "uri": "2s1Yh0AywJhLsKKZ9vM0tm"
+                },
+                {
+                    "artist": "Till Brönner",
+                    "title": "Raindrops Keep Falling On My Head",
+                    "uri": "5fFySNR1vIQN8O30iIPC8c"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Umitaro Abe",
+                    "title": "Oda Al Verano",
+                    "uri": "1bdHe137uwzWBMgF5LLVTL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Umitaro Abe",
+                    "title": "Oda Al Verano",
+                    "uri": "1bdHe137uwzWBMgF5LLVTL"
+                },
+                {
+                    "artist": "Umitaro Abe",
+                    "title": "Scene I, Kyoto",
+                    "uri": "0p8gAcPkDYgzcZZwAou12B"
+                },
+                {
+                    "artist": "Ado",
+                    "title": "Dawn and Fireflies",
+                    "uri": "3i1dqflrqcLVxZeWi7r0pm"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Audrey Hepburn",
+                    "title": "Moon River (From Breakfast at Tiffany's) [Remastered]",
+                    "uri": "1XwAKjAZ1xDZOcuyZoqce4"
+                },
+                {
+                    "artist": "Henry Mancini",
+                    "title": "Moon River(Vocal Audrey Hepburn)",
+                    "uri": "5iGleL7HpEThuuYQ3us2jh"
+                },
+                {
+                    "artist": "Louis Armstrong",
+                    "title": "Moon River",
+                    "uri": "17gxfuiFUrLhbUKdunxUPJ"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "solari",
+                    "uri": "2ZYyuqKe7T64UqWVuW7CkS"
+                },
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "solari - immersion 2023",
+                    "uri": "5WiUtAnI1obABqp6rD99oa"
+                },
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "Dream",
+                    "uri": "66hacKPqwClRgpSmWDWhBx"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Josiah Steinbrick",
+                    "title": "Blue Age",
+                    "uri": "0xlwtfuaGruHk60hnPbi5t"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Josiah Steinbrick",
+                    "title": "Blue Age",
+                    "uri": "0xlwtfuaGruHk60hnPbi5t"
+                },
+                {
+                    "artist": "Josiah Steinbrick",
+                    "title": "Full Bloom",
+                    "uri": "7ITHiH4W292Vb2wIbJaQ8v"
+                },
+                {
+                    "artist": "Josiah Steinbrick",
+                    "title": "House Tears",
+                    "uri": "6lHRwhkok5FfiO7HSzZNVz"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Radiohead",
+                    "title": "Weird Fishes/ Arpeggi",
+                    "uri": "4wajJ1o7jWIg62YqpkHC7S"
+                },
+                {
+                    "artist": "Radiohead",
+                    "title": "Weird Fishes/ Arpeggi",
+                    "uri": "4hKvsbiiJ0e4McNcxkSBnX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Radiohead",
+                    "title": "Weird Fishes/ Arpeggi",
+                    "uri": "4wajJ1o7jWIg62YqpkHC7S"
+                },
+                {
+                    "artist": "Radiohead",
+                    "title": "Weird Fishes/ Arpeggi",
+                    "uri": "4hKvsbiiJ0e4McNcxkSBnX"
+                },
+                {
+                    "artist": "Radiohead",
+                    "title": "Creep",
+                    "uri": "70LcF31zb1H0PyJoS1Sx1r"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "George Frideric Handel",
+                    "title": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
+                    "uri": "0n9cHRLNSCXECfXx4cvw0D"
+                },
+                {
+                    "artist": "George Frideric Handel",
+                    "title": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
+                    "uri": "6AG7ekfWoiYTY6gyiEebCN"
+                },
+                {
+                    "artist": "George Frideric Handel",
+                    "title": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: III. Minuets I & II",
+                    "uri": "5Olix25Y5aNqIWGDrrB0Pb"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Haruomi Hosono",
+                    "title": "KORENDOR (2020 Remastering)",
+                    "uri": "0cNXCFTTUVZNUVWqZBHFUc"
+                },
+                {
+                    "artist": "Haruomi Hosono",
+                    "title": "最後の楽園",
+                    "uri": "3Q59MwvTzZveZTNunIQY1x"
+                },
+                {
+                    "artist": "Haruomi Hosono",
+                    "title": "Boku Wa Chotto",
+                    "uri": "1RMnWyL9KlDgmAhirqNxin"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Skúli Sverrisson",
+                    "title": "Instants",
+                    "uri": "2m2nyQtuu7BIsGo6nPPYtM"
+                },
+                {
+                    "artist": "Skúli Sverrisson",
+                    "title": "Instants",
+                    "uri": "4S2WXBOjuaJYlILDpAI3PV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Skúli Sverrisson",
+                    "title": "Instants",
+                    "uri": "2m2nyQtuu7BIsGo6nPPYtM"
+                },
+                {
+                    "artist": "Skúli Sverrisson",
+                    "title": "Instants",
+                    "uri": "4S2WXBOjuaJYlILDpAI3PV"
+                },
+                {
+                    "artist": "Skúli Sverrisson",
+                    "title": "Divena",
+                    "uri": "2vONUXq47auTwQGRAqOjaJ"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lana Del Rey",
+                    "title": "Paris, Texas (feat. SYML)",
+                    "uri": "0Oqxt6JixieLHbwMfnJGWO"
+                },
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Paris, Texas",
+                    "uri": "1idiifjTcCoGfBeZiYOdim"
+                },
+                {
+                    "artist": "Kenya Grace",
+                    "title": "Paris",
+                    "uri": "3WzmwVmkRDTYroaLg0Klcb"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Umitaro Abe",
+                    "title": "Havanera De La Montagne (Piano Solo)",
+                    "uri": "11OscetVMwJEAKGd89292e"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Umitaro Abe",
+                    "title": "Havanera De La Montagne (Piano Solo)",
+                    "uri": "11OscetVMwJEAKGd89292e"
+                },
+                {
+                    "artist": "Armel Dupas Trio",
+                    "title": "Habanera",
+                    "uri": "1TKJu779sVM4bM1Kg0qNEF"
+                },
+                {
+                    "artist": "Great Tango Artists",
+                    "title": "Habanera",
+                    "uri": "1Sbh7grFYXZsRmPYq3jEhR"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "meetka",
+                    "title": "New Me",
+                    "uri": "5mxpyKMkZDZK2OrWyerR0A"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "meetka",
+                    "title": "New Me",
+                    "uri": "5mxpyKMkZDZK2OrWyerR0A"
+                },
+                {
+                    "artist": "Florentina",
+                    "title": "New Me",
+                    "uri": "0InImmvabu40OepmE6HFtC"
+                },
+                {
+                    "artist": "DubVision",
+                    "title": "New Memories",
+                    "uri": "7C9SonafFzEtoheAQDQ2UW"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "The Vernon Spring",
+                    "title": "Unassigned",
+                    "uri": "5moOCj2U0YjYqWqJqEMurH"
+                },
+                {
+                    "artist": "The Vernon Spring",
+                    "title": "Unassigned II",
+                    "uri": "4xYqn83h2wm0GTTRbNxXGv"
+                },
+                {
+                    "artist": "The Vernon Spring",
+                    "title": "Unassigned II",
+                    "uri": "4DwJO2BZ91w8DQc0EjDKlv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Vernon Spring",
+                    "title": "Unassigned",
+                    "uri": "5moOCj2U0YjYqWqJqEMurH"
+                },
+                {
+                    "artist": "The Vernon Spring",
+                    "title": "Unassigned II",
+                    "uri": "4DwJO2BZ91w8DQc0EjDKlv"
+                },
+                {
+                    "artist": "The Vernon Spring",
+                    "title": "Mother's Love",
+                    "uri": "25iPLrlogdTHS9ZYnUEtxw"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Chino Yoshio",
+                    "title": "193193 (For Gentle Sine Bells)",
+                    "uri": "0uUAjENK3nlgR4bVb7XLTS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chino Yoshio",
+                    "title": "193193 (For Gentle Sine Bells)",
+                    "uri": "0uUAjENK3nlgR4bVb7XLTS"
+                },
+                {
+                    "artist": "Chino Yoshio",
+                    "title": "193193 (For Piano)",
+                    "uri": "13OgZEBlbjGIfWesmIoqjJ"
+                },
+                {
+                    "artist": "Chino Yoshio",
+                    "title": "Sparkler",
+                    "uri": "2ncYdwxhFDJGcr2BU5RVvw"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Chino Yoshio",
+                    "title": "Moon (Sine Version)",
+                    "uri": "5mGJ22rjT3Ey78JC9GSQqB"
+                },
+                {
+                    "artist": "Chino Yoshio",
+                    "title": "White Moon (Sine Version)",
+                    "uri": "74018f3KCdz66vy2GCYIZ8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chino Yoshio",
+                    "title": "Moon (Sine Version)",
+                    "uri": "5mGJ22rjT3Ey78JC9GSQqB"
+                },
+                {
+                    "artist": "Chino Yoshio",
+                    "title": "White Moon (Sine Version)",
+                    "uri": "74018f3KCdz66vy2GCYIZ8"
+                },
+                {
+                    "artist": "Chino Yoshio",
+                    "title": "193193 (For Gentle Sine Bells)",
+                    "uri": "0uUAjENK3nlgR4bVb7XLTS"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "h hunt",
+                    "title": "Go Home",
+                    "uri": "7lDF5wX5XRWBAgR27qtvdi"
+                },
+                {
+                    "artist": "HUNNY",
+                    "title": "Good Will Hunting Song",
+                    "uri": "0d3qLX0wWmTd0n5qa15u2g"
+                },
+                {
+                    "artist": "Grant Hunt",
+                    "title": "Let's Go Home Together - unwind",
+                    "uri": "1AIxeWDJ0ip3RkFDW0Zt8Y"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "h hunt",
+                    "title": "Go Home",
+                    "uri": "7lDF5wX5XRWBAgR27qtvdi"
+                },
+                {
+                    "artist": "Helena Hunting",
+                    "title": "Kapitel 59 - Homecoming - Pearl-Lake-Reihe, Teil 1",
+                    "uri": "1mNYttZZTjGgZfyREW9EzA"
+                },
+                {
+                    "artist": "Fearless Motivation",
+                    "title": "Go Hunt Your Dream",
+                    "uri": "3OyzbAEwM8ildhK9mtF3DV"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Sławek Jaskułke",
+                    "title": "Sea III",
+                    "uri": "3RULoSzFrzJsdIkSEeKalz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sławek Jaskułke",
+                    "title": "Sea III",
+                    "uri": "3RULoSzFrzJsdIkSEeKalz"
+                },
+                {
+                    "artist": "Sławek Jaskułke",
+                    "title": "Sea I",
+                    "uri": "7HZDTXbpoc6yVMWP1jZoj3"
+                },
+                {
+                    "artist": "Sławek Jaskułke",
+                    "title": "Music on canvas III",
+                    "uri": "0fIR5DkWmKRXDirhdUTr9R"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Silvana Estrada",
+                    "title": "La Enfermedad Del Siglo",
+                    "uri": "7niAuHSSG7BhJfWdU9ZElI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Silvana Estrada",
+                    "title": "La Enfermedad Del Siglo",
+                    "uri": "7niAuHSSG7BhJfWdU9ZElI"
+                },
+                {
+                    "artist": "Silvana Estrada",
+                    "title": "Al Norte",
+                    "uri": "2dxeshKXUCGzydZQziuN3B"
+                },
+                {
+                    "artist": "Silvana Estrada",
+                    "title": "Tenías Que Ser Tú",
+                    "uri": "2rIKsynpXAj5bHFdY6ESE1"
+                }
+            ]
+        }
+    },
     "ichiko-aoba-16th-january-2024": {
         "00": {
             "s0": [

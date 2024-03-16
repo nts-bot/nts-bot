@@ -86938,6 +86938,536 @@
             ]
         }
     },
+    "the-nts-guide-to-inspired-by-dune-13th-march-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "TOTO",
+                    "title": "Prophecy Theme",
+                    "uri": "2FOZhjP4KGNWoLnUb7pkK1"
+                },
+                {
+                    "artist": "TOTO",
+                    "title": "Prophecy Theme - From \"Dune\"",
+                    "uri": "1Xi8AD5poV7khPuhU1vwML"
+                },
+                {
+                    "artist": "Anue-Nahki",
+                    "title": "Prophecy",
+                    "uri": "2LAIaUMXjH69B8ELdNoUlP"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Roly Porter",
+                    "title": "Arrakis",
+                    "uri": "0uUIaaUEc07BugyFDhxZSR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Roly Porter",
+                    "title": "Arrakis",
+                    "uri": "0uUIaaUEc07BugyFDhxZSR"
+                },
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Arrakis",
+                    "uri": "0d1CJxYbDHClRp3qnoAQXE"
+                },
+                {
+                    "artist": "Tek-One",
+                    "title": "Arrakis '97",
+                    "uri": "42h3LkZuEOhFfH2sKZ67qU"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Klaus Schulze",
+                    "title": "Dune",
+                    "uri": "0C4HSkoWOM8fbHzovOcc0O"
+                },
+                {
+                    "artist": "Klaus Schulze",
+                    "title": "Dune",
+                    "uri": "5iEJGvDJLKJbf4ZZXWjK12"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Klaus Schulze",
+                    "title": "Dune",
+                    "uri": "0C4HSkoWOM8fbHzovOcc0O"
+                },
+                {
+                    "artist": "Klaus Schulze",
+                    "title": "Dune",
+                    "uri": "5iEJGvDJLKJbf4ZZXWjK12"
+                },
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Herald of the Change",
+                    "uri": "4eYtg015W15Ik5dUGzFXje"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Bernard Szajner",
+                    "title": "Dune 2 (Tyler Pope & Clara Moto Remake)",
+                    "uri": "7uUZ0N0yTbWS7DFKmqI0lu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bernard Szajner",
+                    "title": "Dune 2 (Tyler Pope & Clara Moto Remake)",
+                    "uri": "7uUZ0N0yTbWS7DFKmqI0lu"
+                },
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Paul's Dream",
+                    "uri": "1Qr17u2S9kNDzTeWAJCY5N"
+                },
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Eclipse",
+                    "uri": "7997Fg3oHuE4FLeikWGk1k"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Jade Warrior",
+                    "title": "Images Of Dune: Prescient Dawn / The Freman / Journey On A Dream",
+                    "uri": "2lTzn6Nf4NRsfM9Uscy9jj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jade Warrior",
+                    "title": "Images Of Dune: Prescient Dawn / The Freman / Journey On A Dream",
+                    "uri": "2lTzn6Nf4NRsfM9Uscy9jj"
+                },
+                {
+                    "artist": "Jade Warrior",
+                    "title": "The Traveller",
+                    "uri": "6JhtXGepLpGAbZJcgDcim6"
+                },
+                {
+                    "artist": "Jade Bastile",
+                    "title": "Shots Fired",
+                    "uri": "49Au3DVobT9LxZkmB6Boxl"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Kurt Stenzel",
+                    "title": "Point of View",
+                    "uri": "4qa4WknHTEm74Yv0gJ02j3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kurt Stenzel",
+                    "title": "Point of View",
+                    "uri": "4qa4WknHTEm74Yv0gJ02j3"
+                },
+                {
+                    "artist": "DB Boulevard",
+                    "title": "Point of View - Radio Edit",
+                    "uri": "1Jlt67b4oOhCoFW9GQwL9T"
+                },
+                {
+                    "artist": "GRAHAM",
+                    "title": "Point of View",
+                    "uri": "176afxfTiW48pVvYJUN1HT"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "L A N D S R A A D",
+                    "title": "A Secret Meeting//Edrics Precience",
+                    "uri": "0Cr9Dbid5ZZgoFMA0LYCtG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "L A N D S R A A D",
+                    "title": "A Secret Meeting//Edrics Precience",
+                    "uri": "0Cr9Dbid5ZZgoFMA0LYCtG"
+                },
+                {
+                    "artist": "L A N D S R A A D",
+                    "title": "Secret Covenant//Traps in the Sand",
+                    "uri": "7jGFR6rwwPm9k4xkw5HYdY"
+                },
+                {
+                    "artist": "Lansdowne",
+                    "title": "Burn Brighter",
+                    "uri": "2HeMAEEndWqSgbjXbAnUAs"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Kurt Stenzel",
+                    "title": "Leap of Faith",
+                    "uri": "1EIMWraRjYZhBbA4o5MipM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kurt Stenzel",
+                    "title": "Leap of Faith",
+                    "uri": "1EIMWraRjYZhBbA4o5MipM"
+                },
+                {
+                    "artist": "Kurt Stracener",
+                    "title": "The Open Eye",
+                    "uri": "74eeDEbyvPPqjUtURzNibc"
+                },
+                {
+                    "artist": "Kurt Strangle",
+                    "title": "Know This Fear",
+                    "uri": "48ETtnSssDns4ttVL3o2CI"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Graeme Revell",
+                    "title": "Navigator Advises",
+                    "uri": "0IUjjMDdIOUblEF6irfZ8O"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Graeme Revell",
+                    "title": "Navigator Advises",
+                    "uri": "0IUjjMDdIOUblEF6irfZ8O"
+                },
+                {
+                    "artist": "Armin van Buuren",
+                    "title": "Mr. Navigator",
+                    "uri": "1Q7FZie2f2sJjfI5svBjGR"
+                },
+                {
+                    "artist": "Revelle",
+                    "title": "wir bleiben",
+                    "uri": "0Sbdal6AMFArIyy6K2oH81"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Spice Girls",
+                    "title": "Spice Up Your Life - Morales Radio Mix",
+                    "uri": "4UHpvjEGU7ynl7cN4EhoZx"
+                },
+                {
+                    "artist": "Spice",
+                    "title": "POP OFF",
+                    "uri": "79v72ZoKQiErmqIgARfrOr"
+                },
+                {
+                    "artist": "Natsumi Kiyoura",
+                    "title": "Tabi no Tochuu",
+                    "uri": "6KeWalxT7jDYdNfwiBtBzt"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Richard Pinhas",
+                    "title": "Sur le theme de Bene Gesserit I",
+                    "uri": "0hBgiIPulQE1AiD8vvKveG"
+                },
+                {
+                    "artist": "Richard Pinhas",
+                    "title": "Home: Ruitor",
+                    "uri": "2XDudvwtM8EC0iYWtp3QIg"
+                },
+                {
+                    "artist": "Richard Settlement",
+                    "title": "Variations and Fugue on a Theme by Handel in B-Flat Major, Op. 24: No. 24 Variation 23",
+                    "uri": "4xxMqTHhwOjo9zmMQWM1f1"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Klaus Schulze",
+                    "title": "Sons of the Desert",
+                    "uri": "6UYv2q7hik9HQnqW00gVYV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Klaus Schulze",
+                    "title": "Sons of the Desert",
+                    "uri": "6UYv2q7hik9HQnqW00gVYV"
+                },
+                {
+                    "artist": "Klaus Schulze",
+                    "title": "Many Dreams Have Faded",
+                    "uri": "2effsD0skRaGIPOxwYR3gr"
+                },
+                {
+                    "artist": "Klaus Schulze",
+                    "title": "Osiris - Pt. 4",
+                    "uri": "2McDV0nVZ1FcC8ZfwWI6zj"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Cybotron",
+                    "title": "Arrakis",
+                    "uri": "0NunZqZCnIUoh9PjH1xPz5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cybotron",
+                    "title": "Arrakis",
+                    "uri": "0NunZqZCnIUoh9PjH1xPz5"
+                },
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Night on Arrakis",
+                    "uri": "0ggw2MNONhaQ8VAfEq7n2R"
+                },
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Dream of Arrakis",
+                    "uri": "5maXVyAZAkkB3Cf0vca9CY"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Nostromo",
+                    "title": "Gom Jabbar.",
+                    "uri": "1bkr73cYv6SYojpGcxanY1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nostromo",
+                    "title": "Gom Jabbar.",
+                    "uri": "1bkr73cYv6SYojpGcxanY1"
+                },
+                {
+                    "artist": "Nostrum",
+                    "title": "Brilliant - Radio Edit",
+                    "uri": "0grpXmJ9N9GQosDzTfZMdj"
+                },
+                {
+                    "artist": "Nostrum",
+                    "title": "Brainchild - Original",
+                    "uri": "0kmy0Dyx4AMuh0VeB8ENcE"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Night on Arrakis",
+                    "uri": "0ggw2MNONhaQ8VAfEq7n2R"
+                },
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Harkonnen Arena",
+                    "uri": "1XGqJG2n2lUq5MrlVNOay3"
+                },
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Arrakeen",
+                    "uri": "2yFXeoB6uAMXfdgcdB8dsz"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Richard Pinhas",
+                    "title": "Paul Atreides",
+                    "uri": "4PUwNOuhcvQgqBYHo5XAqe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Richard Pinhas",
+                    "title": "Paul Atreides",
+                    "uri": "4PUwNOuhcvQgqBYHo5XAqe"
+                },
+                {
+                    "artist": "Richard Iacona",
+                    "title": "Evening In Paris",
+                    "uri": "3O2CJEVoOfVcwnXIq4PkNm"
+                },
+                {
+                    "artist": "Richard Peshkin",
+                    "title": "It's a Long Way Down",
+                    "uri": "3Xn170bpnhLKYdm71LX115"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Die Biene Maja",
+                    "title": "Majas Geburtstag",
+                    "uri": "55Z0qds86TfHm0XhrBmmOr"
+                },
+                {
+                    "artist": "Benne",
+                    "title": "Lichtjahr - Piano Version",
+                    "uri": "0e760pH9ORjR23sJnre78H"
+                },
+                {
+                    "artist": "Miracle Of Sound",
+                    "title": "Beneath the Black Flag",
+                    "uri": "7FSgUdEyYap0Wbix3tKWPp"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": ""
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Grimes",
+                    "title": "Caladan",
+                    "uri": "5VtrilMNGhibqhCpzzi6S1"
+                },
+                {
+                    "artist": "Grimes",
+                    "title": "Caladan (Nightcore Mix)",
+                    "uri": "4k7iHLbQA9tweKceBM9Tvg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Grimes",
+                    "title": "Caladan",
+                    "uri": "5VtrilMNGhibqhCpzzi6S1"
+                },
+                {
+                    "artist": "Grimes",
+                    "title": "Caladan (Nightcore Mix)",
+                    "uri": "4k7iHLbQA9tweKceBM9Tvg"
+                },
+                {
+                    "artist": "Grimes",
+                    "title": "Oblivion",
+                    "uri": "4BY4V1T0RJK1HmD2Q0ClyK"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Giant Sand",
+                    "title": "Stranded Pearl",
+                    "uri": "38glBaNhuch6yguIl46dqy"
+                },
+                {
+                    "artist": "Giant Sand",
+                    "title": "Cracklin Water",
+                    "uri": "2m10FWZCw8y5NH68YxhBln"
+                },
+                {
+                    "artist": "Giant Sand",
+                    "title": "Wind Blown Waltz",
+                    "uri": "5MsjTMoTmsDWpWOWxca4Fp"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Buffalo",
+                    "title": "Dune Messiah",
+                    "uri": "1vTnJJzZqf3BVtXjrXiJl8"
+                },
+                {
+                    "artist": "Buffalo Crows",
+                    "title": "Dune Messiah",
+                    "uri": "2gP76HMdpO8Fey96w59iNV"
+                },
+                {
+                    "artist": "BUFFALO",
+                    "title": "(Intro) Dune Messiah - BUFFALO Revisited - LIVE at the Bridge Hotel 2013",
+                    "uri": "77kkdOCSkVjQXPmptGaS1A"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Buffalo",
+                    "title": "Dune Messiah",
+                    "uri": "1vTnJJzZqf3BVtXjrXiJl8"
+                },
+                {
+                    "artist": "Buffalo Crows",
+                    "title": "Dune Messiah",
+                    "uri": "2gP76HMdpO8Fey96w59iNV"
+                },
+                {
+                    "artist": "Bob Marley & The Wailers",
+                    "title": "Buffalo Soldier",
+                    "uri": "0QyBdoz2JktWEo111DBEx9"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sleep",
+                    "title": "Antarcticans Thawed",
+                    "uri": "2CF0niTTP3OycapyOZ6sgY"
+                },
+                {
+                    "artist": "$uicideboy$",
+                    "title": "Antarctica",
+                    "uri": "5UGAXwbA17bUC0K9uquGY2"
+                },
+                {
+                    "artist": "SHABAB",
+                    "title": "Antarktis",
+                    "uri": "5mWF2PXnrozYPylJozTjRq"
+                }
+            ]
+        }
+    },
     "the-nts-guide-to-international-dream-pop-space-rock-shoegaze-1990-2001-23rd-november-2023": {
         "00": {
             "s0": "",
