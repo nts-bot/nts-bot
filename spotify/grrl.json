@@ -1566,6 +1566,110 @@
             "trackid": "5vQcvMTyjMWijV5RE8R7Hj"
         }
     },
+    "grrl-14th-march-2024": {
+        "00": {
+            "artist": "Horace Silver Quintet",
+            "ratio": 4,
+            "title": "Tippin' - Remastered 2000/Rudy Van Gelder Edition",
+            "trackid": "2yVOF2movPBYvUt1vdpv5k"
+        },
+        "01": {
+            "artist": "Untold",
+            "ratio": 9,
+            "title": "Just Look at the Rain",
+            "trackid": "56HAWDxmv9OkE1Xwk9pFWU"
+        },
+        "02": {
+            "artist": "TSVI",
+            "ratio": 9,
+            "title": "Progressiva",
+            "trackid": "3Hdd8EsyyvrHXNrTZujH11"
+        },
+        "03": {
+            "artist": "Samantha Fish",
+            "ratio": 5,
+            "title": "Don't Say You Love Me",
+            "trackid": "7iTOFUqGJLgHbGMDzUP3sT"
+        },
+        "04": {
+            "artist": "Asking Alexandria",
+            "ratio": 3,
+            "title": "Undivided",
+            "trackid": "3p7uj0MzEZUV9Lai8LUcdE"
+        },
+        "05": {
+            "artist": "Arkane",
+            "ratio": 9,
+            "title": "Faded Memories",
+            "trackid": "1wjsApkaSE6szKXQQHBz7d"
+        },
+        "06": {
+            "artist": "Dubfire",
+            "ratio": 9,
+            "title": "Escape - Truncate Remix",
+            "trackid": "5I7UcCYp1qRLoF5NAe1uAZ"
+        },
+        "07": {
+            "artist": "Freakso",
+            "ratio": 5,
+            "title": "Drive",
+            "trackid": "0sKrq6gfXDBSDuiuh38ASS"
+        },
+        "08": {
+            "artist": "Aphex Twin",
+            "ratio": 3,
+            "title": "Alberto Balsalm",
+            "trackid": "6gbmylJ7sB7NFfMfTQHosf"
+        },
+        "09": {
+            "artist": "Mikrotakt",
+            "ratio": 9,
+            "title": "The Third Kind",
+            "trackid": "1wvhaGs5t1FsF5z9gsTEH7"
+        },
+        "10": {
+            "artist": "Bours?",
+            "ratio": 9,
+            "title": "File May Occur",
+            "trackid": "3Ny4CxZGclywQZB3r1ZmDU"
+        },
+        "11": {
+            "artist": "2bit2bi",
+            "ratio": 9,
+            "title": "Escape",
+            "trackid": "5HKL5apZWNMpkQjVzd63qx"
+        },
+        "12": {
+            "artist": "Bjarki",
+            "ratio": 9,
+            "title": "Ping Pong Ball Gag",
+            "trackid": "1C89zKee0PuSQwJQfcH9cw"
+        },
+        "13": {
+            "artist": "Len Faki",
+            "ratio": 9,
+            "title": "Yantra - Planetary Assault Systems Remix",
+            "trackid": "0YnDCtnolvyt0hDVbSSiDR"
+        },
+        "14": {
+            "artist": "Kollegah",
+            "ratio": 4,
+            "title": "Fokus",
+            "trackid": "1QRZ0CxU9vjcB0uY3qVVb8"
+        },
+        "15": {
+            "artist": "Alpharisc",
+            "ratio": 9,
+            "title": "Ram Face",
+            "trackid": "2urAImH8bIUOof3T0lPpsv"
+        },
+        "16": {
+            "artist": "Shed",
+            "ratio": 9,
+            "title": "Cut",
+            "trackid": "4VayoadqcW1tQvdpD48Vsz"
+        }
+    },
     "grrl-14th-may-2020": {
         "00": {
             "artist": "Laur",
@@ -1736,6 +1840,104 @@
             "ratio": 9,
             "title": "Sick Bitch",
             "trackid": "7FfPZEeRpDjisWER6xohdV"
+        }
+    },
+    "grrl-15th-february-2024": {
+        "00": {
+            "artist": "Isak J Martinsson",
+            "ratio": 0,
+            "title": "Rodent Underground",
+            "trackid": "69opalKSJdcPPAbpMAcu9s"
+        },
+        "01": {
+            "artist": "Fresko",
+            "ratio": 9,
+            "title": "Post Urban Condition",
+            "trackid": "21jLi1lOjxYLkCoslthwBf"
+        },
+        "02": {
+            "artist": "Anne-Marie",
+            "ratio": 4,
+            "title": "Don't Play",
+            "trackid": "4I5bvu2KDsrCg0EWHIcvul"
+        },
+        "03": {
+            "artist": "Hertz",
+            "ratio": 9,
+            "title": "Integer",
+            "trackid": "0ISfGDLfHA4pP8H31cmJhh"
+        },
+        "04": {
+            "artist": "Tom Helsen",
+            "ratio": 3,
+            "title": "Sun in Her Eyes",
+            "trackid": "3wz2dLhHFuhgXBDZ4cDqy4"
+        },
+        "05": {
+            "artist": "Franco Rossi",
+            "ratio": 9,
+            "title": "Flexio",
+            "trackid": "5dMDlL1osJ0rP2jPjMStKE"
+        },
+        "06": {
+            "artist": "Absolet",
+            "ratio": 9,
+            "title": "Callous",
+            "trackid": "2XWeOc3ItzW2HPyyMBNwUn"
+        },
+        "07": {
+            "artist": "Aakaash Rao",
+            "ratio": 3,
+            "title": "Hubris (feat. Deryn Cullen)",
+            "trackid": "5qiS0uWgrWMRGvwAS93mpx"
+        },
+        "08": {
+            "artist": "Pakard",
+            "ratio": 9,
+            "title": "Back Room",
+            "trackid": "1WgCJwuxwssF3o3t9JwE8z"
+        },
+        "09": {
+            "artist": "AADJA",
+            "ratio": 9,
+            "title": "introvert problems",
+            "trackid": "7HWpCIF5sfiTcO8DOEp0bg"
+        },
+        "10": {
+            "artist": "Nailbiter",
+            "ratio": 9,
+            "title": "I Saw",
+            "trackid": "3f5gdA27t8naosAdbLxxQX"
+        },
+        "11": {
+            "artist": "Hypah",
+            "ratio": 9,
+            "title": "You've Got Enough",
+            "trackid": "1ZllDyvp0dnI9LPioKworq"
+        },
+        "12": {
+            "artist": "Nemoral",
+            "ratio": 9,
+            "title": "Watch Your Step - SYEP020",
+            "trackid": "5y6vjvFQGpWVH7u1UewKbS"
+        },
+        "13": {
+            "artist": "KaioBarssalos",
+            "ratio": 9,
+            "title": "A Pura",
+            "trackid": "4cIPW9zqOw0siJfYpk2kvp"
+        },
+        "14": {
+            "artist": "Phara",
+            "ratio": 9,
+            "title": "Hush Now 206",
+            "trackid": "1ndM2PeYhAUTSl8Xf5rfFK"
+        },
+        "15": {
+            "artist": "Astatine",
+            "ratio": 9,
+            "title": "Radiation",
+            "trackid": "71kg5TVRus2upAmASOaMRP"
         }
     },
     "grrl-15th-june-2017": {

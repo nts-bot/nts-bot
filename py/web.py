@@ -241,26 +241,26 @@ class webscraper:
 
             # ARTIST IMAGES
 
-            try:
-                imlist = [
-                    i.split(".")[0] for i in os.listdir("./spotify/")
-                ]  # IF IN SPOTIFY THEN IMAGE EXISTS
-                if show not in imlist:
-                    try:
-                        back = soup.select(".background-image")
-                    except:
-                        back = soup.select(".profile-image")
-                    if back:
-                        img = re.findall("\((.*?)\)", back[0].get("style"))[0]
-                        img_data = requests.get(img).content
-                        extension = img.split(".")[-1]
-                        with open(f"./jpeg/{show}.{extension}", "wb") as handler:
-                            handler.write(img_data)
-                    else:
-                        logging.info(". . . . . . . . .Image not found.")
+            # try:
+            imlist = [
+                i.split(".")[0] for i in os.listdir("./jpeg/")
+            ]  # IF IN SPOTIFY THEN IMAGE EXISTS
+            if show not in imlist:
+                # back = soup.select(".background-image")
+                back = soup.select(".profile-image")
+                if back:
+                    # img = re.findall("\((.*?)\)", back[0].get("style"))[0]
+                    img = back[0].find("img")["src"].replace("100x100", "1600x1600")
+                    logging.info(f"Getting image: {img}")
+                    img_data = requests.get(img).content
+                    extension = img.split(".")[-1]
+                    with open(f"./jpeg/{show}.{extension}", "wb") as handler:
+                        handler.write(img_data)
+                else:
+                    logging.info(". . . . . . . . .Image not found.")
 
-            except Exception:
-                logging.warning(f"Image Request Failed : {traceback.format_exc()}")
+            # except Exception:
+            #     logging.warning(f"Image Request Failed : {traceback.format_exc()}")
 
             # ARTIST BIO
 
@@ -292,7 +292,7 @@ class webscraper:
             time.sleep(1.0)
             self.req(url)
 
-    @utils.monitor
+    # @utils.monitor
     def ntstracklist(self, show, episodes=[]):
         if not episodes:
             episodes = self.episodelist

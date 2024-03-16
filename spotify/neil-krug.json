@@ -1,1 +1,429 @@
-{}
+{
+    "neil-krug-14th-march-2024": {},
+    "neil-krug-21st-december-2023": {
+        "00": {
+            "artist": "Rodney Atkins",
+            "ratio": 4,
+            "title": "Farmer's Daughter",
+            "trackid": "5zGqTc1WQUe8XqqdnrpKTV"
+        },
+        "01": {
+            "artist": "Damon",
+            "ratio": 9,
+            "title": "Don't You Feel Me",
+            "trackid": "0uDhPG7s84Uc7m9qeJUUy6"
+        },
+        "02": {
+            "artist": "The Troggs",
+            "ratio": 9,
+            "title": "Maybe The Madman",
+            "trackid": "0SLNNN72cSXQlpML5PQzb8"
+        },
+        "03": {
+            "artist": "The Pretty Things",
+            "ratio": 9,
+            "title": "Defecting Grey",
+            "trackid": "3a5yWphVWglKOBBm1PqR1R"
+        },
+        "04": {
+            "artist": "The Beatles",
+            "ratio": 9,
+            "title": "Blue Jay Way - Remastered 2009",
+            "trackid": "0QIX9BS0AUCQcHYvyrsMkV"
+        },
+        "05": {
+            "artist": "The Beatles",
+            "ratio": 9,
+            "title": "You've Got To Hide Your Love Away - Remastered 2009",
+            "trackid": "4F1AgKpuFRMLEgtPETVwZk"
+        },
+        "06": {
+            "artist": "Nirvana",
+            "ratio": 9,
+            "title": "The Touchables (All Of Us)",
+            "trackid": "5do4bQRfnGVWAY1rLHkD1T"
+        },
+        "07": {
+            "artist": "Lalo Schifrin",
+            "ratio": 9,
+            "title": "Danube Incident",
+            "trackid": "2QqouLGFYMynquwDMYUGk1"
+        },
+        "08": {
+            "artist": "Portishead",
+            "ratio": 9,
+            "title": "Sour Times",
+            "trackid": "6vTtCOimcPs5H1Jr9d0Aep"
+        },
+        "09": {
+            "artist": "Captain Beefheart & His Magic Band",
+            "ratio": 9,
+            "title": "Abba Zaba",
+            "trackid": "20xLBgnu4Z4S2feBXMccz0"
+        },
+        "10": {
+            "artist": "Dorothy Ashby",
+            "ratio": 9,
+            "title": "Joyful Grass And Grape",
+            "trackid": "7DhirV3YLZWSWyprVQBrfX"
+        },
+        "11": {
+            "artist": "Rotary Connection",
+            "ratio": 9,
+            "title": "Respect",
+            "trackid": "5lOUxU6giZYMVkLZDGyih0"
+        },
+        "12": {
+            "artist": "Sly & The Family Stone",
+            "ratio": 9,
+            "title": "Jane is a Groupee",
+            "trackid": "297wOaKOJedUfGPWFepCr0"
+        },
+        "13": {
+            "artist": "Kaleidoscope",
+            "ratio": 9,
+            "title": "Keep Your Mind Open",
+            "trackid": "5xu7dKDRDYyUgnIid5c1yB"
+        },
+        "14": {
+            "artist": "The Zodiac",
+            "ratio": 9,
+            "title": "Aquarius - The Lover of Life",
+            "trackid": "0ZMMEBwm23ks6PzGmRABiQ"
+        },
+        "15": {
+            "artist": "The Millennium",
+            "ratio": 9,
+            "title": "I Just Want to Be Your Friend",
+            "trackid": "4rKpi6H6IFtuBVAdNN3fUe"
+        },
+        "16": {
+            "artist": "Ennio Morricone",
+            "ratio": 4,
+            "title": "La Califfa",
+            "trackid": "0AaVEJQfPJghqKrNojWiNm"
+        },
+        "17": {
+            "artist": "Nancy Sinatra",
+            "ratio": 9,
+            "title": "Some Velvet Morning",
+            "trackid": "6SEMWLEAQs90K4XSacidwM"
+        },
+        "18": {
+            "artist": "Lipka",
+            "ratio": 3,
+            "title": "Grande giocatore",
+            "trackid": "3AKFHTFa5YHbmDuHYHJMbp"
+        },
+        "19": {
+            "artist": "Rotary Connection",
+            "ratio": 9,
+            "title": "Memory Band",
+            "trackid": "1FRdZFdPus9rlIogtGg2yW"
+        },
+        "20": {
+            "artist": "Georg Danzer",
+            "ratio": 5,
+            "title": "War das etwa Haschisch",
+            "trackid": "31xCZ6J66sgYjEi0hkfoyY"
+        }
+    },
+    "neil-krug-23rd-november-2023": {
+        "00": {
+            "artist": "Viera Blech",
+            "ratio": 3,
+            "title": "Farmer's Tuba",
+            "trackid": "7hjPvYrkVPtgkU3yiScyOi"
+        },
+        "01": {
+            "artist": "The Flies",
+            "ratio": 9,
+            "title": "I’m Not Your Stepping Stone",
+            "trackid": "65eN1ibyufSAkyQ9sFB3hv"
+        },
+        "02": {
+            "artist": "The Bonniwell Music Machine",
+            "ratio": 9,
+            "title": "Talk Me Down",
+            "trackid": "6oHUCHyKtYF15ZhFISAVdB"
+        },
+        "03": {
+            "artist": "The Bonniwell Music Machine",
+            "ratio": 9,
+            "title": "The Trap",
+            "trackid": "5QsSEzHGaMFvLjKJ1CTBvI"
+        },
+        "04": {
+            "artist": "Doris",
+            "ratio": 9,
+            "title": "You Never Come Closer",
+            "trackid": "4w0dthfzhiPVmzXh7mnjbv"
+        },
+        "05": {
+            "artist": "Ralph Fridge",
+            "ratio": 4,
+            "title": "Angel - Club Mix",
+            "trackid": "39cfd32lzKwyTZeUsD3CvI"
+        },
+        "06": {
+            "artist": "Injun Joe",
+            "ratio": 9,
+            "title": "Indian Priest",
+            "trackid": "6r4sNd2G0dcBoJlq8yw0j1"
+        },
+        "07": {
+            "artist": "Sunfruits",
+            "ratio": 4,
+            "title": "Forest",
+            "trackid": "0sZvJwI3qwlBe6IdleZtDS"
+        },
+        "08": {
+            "artist": "Sagittarius",
+            "ratio": 9,
+            "title": "My World Fell Down",
+            "trackid": "63Zb0epU5ysyvDa72Jm4I1"
+        },
+        "09": {
+            "artist": "The Electric Prunes",
+            "ratio": 9,
+            "title": "Wind-Up Toys",
+            "trackid": "54npvA4SDF7jR4FpUnTpG8"
+        },
+        "10": {
+            "artist": "Marteeny",
+            "ratio": 4,
+            "title": "Buffen - Instrumental",
+            "trackid": "0xBjaX9mdlCbE8jqOYZzkT"
+        },
+        "11": {
+            "artist": "Oberammergauer Blasmusik",
+            "ratio": 5,
+            "title": "Graf Zeppelin Marsch",
+            "trackid": "5tI8btTYLfVGCTsGVEyK0c"
+        },
+        "12": {
+            "artist": "Os Mutantes",
+            "ratio": 9,
+            "title": "Ave, Lúcifer",
+            "trackid": "6T38taK5iVxfdOToLvGi7r"
+        },
+        "13": {
+            "artist": "François de Roubaix",
+            "ratio": 9,
+            "title": "Valérie, Ilona Et Stefaan",
+            "trackid": "1ruQuemWf4r00FIrVDa7x5"
+        },
+        "14": {
+            "artist": "Daniele De Martino",
+            "ratio": 4,
+            "title": "Non raccontargli mai",
+            "trackid": "0lFsTU8a6aLjQw9lVTjRBt"
+        },
+        "15": {
+            "artist": "The Growing Concern",
+            "ratio": 9,
+            "title": "Edge of Time",
+            "trackid": "5Tz2gjnziX8402QVqL97DQ"
+        },
+        "16": {
+            "artist": "The West Coast Pop Art Experimental Band",
+            "ratio": 9,
+            "title": "A Child's Guide to Good and Evil",
+            "trackid": "3k2gBdOlQfiBdlopMR0F8v"
+        },
+        "17": {
+            "artist": "The United States Of America",
+            "ratio": 9,
+            "title": "The American Metaphysical Circus",
+            "trackid": "04ezdCPZeafm0rGdm1X6mO"
+        },
+        "18": {
+            "artist": "The Freak Scene",
+            "ratio": 9,
+            "title": "Mind Bender",
+            "trackid": "0QN8XCE0NyJRaMjeHDlV2l"
+        },
+        "19": {
+            "artist": "The Beatles",
+            "ratio": 9,
+            "title": "I Am The Walrus",
+            "trackid": "7qUPlJTYxDRnpw3FKoWhm1"
+        },
+        "20": {
+            "artist": "The Moody Blues",
+            "ratio": 9,
+            "title": "The Best Way To Travel",
+            "trackid": "4TyYYwyENM2v3eoa169Fgi"
+        },
+        "21": {
+            "artist": "Pussy",
+            "ratio": 9,
+            "title": "The Open Ground",
+            "trackid": "63QzF5tIPVzRbnje23wR1y"
+        },
+        "22": {
+            "artist": "The West Coast Pop Art Experimental Band",
+            "ratio": 9,
+            "title": "Ritual #2",
+            "trackid": "6vxFMgaWW7cJR7ZyKxm5dG"
+        },
+        "23": {
+            "artist": "Ryan Caraveo",
+            "ratio": 3,
+            "title": "Peanut Butter Waffles",
+            "trackid": "0dVEcMDUSllqq287TZVFEf"
+        },
+        "24": {
+            "artist": "The Ashes",
+            "ratio": 9,
+            "title": "Dark on You Now",
+            "trackid": "2LDQWSK7SqEcNzCmWyGIkW"
+        },
+        "25": {
+            "artist": "Sagittarius",
+            "ratio": 9,
+            "title": "The Truth Is Not Real",
+            "trackid": "1pZEVDshc90JvKi2M84SJs"
+        },
+        "26": {
+            "artist": "The West Coast Pop Art Experimental Band",
+            "ratio": 9,
+            "title": "As Kind as Summer",
+            "trackid": "5KntHB7kAdRtINLVHnFV8T"
+        }
+    },
+    "neil-krug-26th-october-2023": {
+        "00": {
+            "artist": "Mimi Rutherfurt",
+            "ratio": 4,
+            "title": "Teil 5 - Folge 31: Mississippi Dampfer",
+            "trackid": "2z93aZplBRgZ8DmJHhy8Bg"
+        },
+        "01": {
+            "artist": "Damien Rice",
+            "ratio": 4,
+            "title": "Rootless Tree",
+            "trackid": "3tg6d7ykVICcYCn5Dd5V1c"
+        },
+        "02": {
+            "artist": "Hooterville Trolley",
+            "ratio": 9,
+            "title": "No Silver Bird",
+            "trackid": "2LGsrvHDSl7K9vKnoRPu4h"
+        },
+        "03": {
+            "artist": "Gerhard Wendland",
+            "ratio": 4,
+            "title": "Ich träume von dir",
+            "trackid": "6Wt4nbKWWX7wNHVOILT0B9"
+        },
+        "04": {
+            "artist": "Spanky & Our Gang",
+            "ratio": 9,
+            "title": "Coda (Like To Get To Know You)",
+            "trackid": "0YMF7acb857FfDPNcO3Xbv"
+        },
+        "05": {
+            "artist": "Small Faces",
+            "ratio": 9,
+            "title": "Ogdens' Nut Gone Flake (Stereo Version) (2018 Remaster)",
+            "trackid": "3UVptKEos9d8ApGgFumVeM"
+        },
+        "06": {
+            "artist": "Ape Escape",
+            "ratio": 3,
+            "title": "Sushi Temple / わびさびテンプル",
+            "trackid": "4Y3oJLhItddEaAEVuT6ENO"
+        },
+        "07": {
+            "artist": "Captain Beefheart & His Magic Band",
+            "ratio": 9,
+            "title": "Kandy Korn",
+            "trackid": "4nVObVt6w7zfi95AlISIXO"
+        },
+        "08": {
+            "artist": "George Harrison",
+            "ratio": 9,
+            "title": "Greasy Legs",
+            "trackid": "23V7CzPVyjMGtBPZLgZsWg"
+        },
+        "09": {
+            "artist": "Toni Moralez",
+            "ratio": 3,
+            "title": "TAKE OFF UR CLOTHES",
+            "trackid": "0iVwJ4ILZn8DZY80WxFrHJ"
+        },
+        "10": {
+            "artist": "The Bonniwell Music Machine",
+            "ratio": 9,
+            "title": "Tin Can Beach",
+            "trackid": "08jwuVpITpIkFSSgtfS79S"
+        },
+        "11": {
+            "artist": "Makers",
+            "ratio": 9,
+            "title": "Don’t Challenge Me",
+            "trackid": "7keyJb7V22AHhKEXFEbwkC"
+        },
+        "12": {
+            "artist": "Bee Gees",
+            "ratio": 9,
+            "title": "Every Christian Lion Hearted Man Will Show You",
+            "trackid": "5SLdJoKNqwv05IjFqcEUV1"
+        },
+        "13": {
+            "artist": "The Beatles",
+            "ratio": 9,
+            "title": "Tomorrow Never Knows - Remastered 2009",
+            "trackid": "00oZhqZIQfL9P5CjOP6JsO"
+        },
+        "14": {
+            "artist": "The West Coast Pop Art Experimental Band",
+            "ratio": 9,
+            "title": "Smell of Incense",
+            "trackid": "2SsMpbiZJi3twzorpStsRe"
+        },
+        "15": {
+            "artist": "Francis Lai",
+            "ratio": 9,
+            "title": "I Love You, Phil",
+            "trackid": "4F6qOEkMI5fihHTcvaPeMY"
+        },
+        "16": {
+            "artist": "Thierry Von Der Warth",
+            "ratio": 4,
+            "title": "Sunset Lovers",
+            "trackid": "1x7NAvqHgCvhV549ls0FTE"
+        },
+        "17": {
+            "artist": "Gandalf",
+            "ratio": 9,
+            "title": "Hang On To A Dream",
+            "trackid": "5unrr2qjb6GvIRHUEQKFLh"
+        },
+        "18": {
+            "artist": "Jim Morrison",
+            "ratio": 9,
+            "title": "Bird of Prey",
+            "trackid": "0psPuObi7UupQnXjaex39e"
+        },
+        "19": {
+            "artist": "Zachary Kibbee",
+            "ratio": 3,
+            "title": "Rattle My Bones",
+            "trackid": "5tjxLrvZhASeOl8b9zve6s"
+        },
+        "20": {
+            "artist": "Atmo",
+            "ratio": 9,
+            "title": "Bolle d'acqua, Pt. 1",
+            "trackid": "4D4jgHGmiw5O6xmvy6xJT6"
+        },
+        "21": {
+            "artist": "Ferrante & Teicher",
+            "ratio": 9,
+            "title": "Midnight Cowboy",
+            "trackid": "7kkZ5XdCIhjgt6tZIOIRCZ"
+        }
+    }
+}

@@ -21,6 +21,8 @@ import traceback
 import datetime as dt
 from threading import Thread, Lock
 
+import numpy as np
+
 # .2 Local
 import web
 import utils
@@ -48,7 +50,7 @@ class nts:
 
     # RUN SCRIPT
 
-    @utils.monitor
+    # @utils.monitor
     def review(self, show):
         tday = dt.date.today()
         day = [tday]
@@ -71,8 +73,28 @@ class nts:
         utils.rnw_json(f"./spotify/{show}", dict())
 
     # SPOTIFY SEARCH
+    @staticmethod
+    def crop_square(img, size, interpolation=cv2.INTER_AREA):
+        h, w = img.shape[:2]
+        min_size = np.amin([h, w])
 
-    @utils.monitor
+        # Centralize and crop
+        crop_img = img[
+            int(h / 2 - min_size / 2) : int(h / 2 + min_size / 2),
+            int(w / 2 - min_size / 2) : int(w / 2 + min_size / 2),
+        ]
+        resized = cv2.resize(crop_img, (size, size), interpolation=interpolation)
+
+        return resized
+
+    def bite_img(self, show):
+        im = [i for i in os.listdir("./jpeg/") if i.split(".")[0] == show][0]
+        img = cv2.imread(f"./jpeg/{im}")
+        img = self.crop_square(img, 300)
+        jpg_img = cv2.imencode(".jpg", img)
+        return base64.b64encode(jpg_img[1]).decode("utf-8")
+
+    # @utils.monitor
     def _pid(self, show):
         """GET/CREATE SHOW PLAYLIST ID"""
         logging.info(f"Creating PID for {show}")
@@ -80,20 +102,6 @@ class nts:
             shelf = self.pid[show]
             return shelf
         except KeyError:  # new show
-            #
-            try:
-                im = [i for i in os.listdir("./jpeg/") if i.split(".")[0] == show][0]
-                basewidth = 600
-                img = Image.open(f"./jpeg/{im}")
-                wpercent = basewidth / float(img.size[0])
-                hsize = int((float(img.size[1]) * float(wpercent)))
-                img = img.resize((basewidth, hsize), Image.ANTIALIAS)
-                img.save(f"./jpeg/{im}")
-                img = cv2.imread(f"./jpeg/{im}")
-                jpg_img = cv2.imencode(".jpg", img)
-                b64_string = base64.b64encode(jpg_img[1]).decode("utf-8")
-            except Exception as error:
-                logging.info(f"image failure for show : {show} : Error : {error}")
             ref = connection.sp.user_playlist_create(
                 connection.user,
                 f"{show}-nts",
@@ -102,15 +110,9 @@ class nts:
             )
             self.pid[show] = ref["id"]
             utils.rnw_json("pid", self.pid)
-            try:  # FIXME
-                connection.sp.playlist_upload_cover_image(ref["id"], b64_string)
-            except:
-                print("ERROR COVER")
-                logging.warning(traceback.format_exc())
-            #
             return ref["id"]
 
-    @utils.monitor
+    # @utils.monitor
     def searchloop(self, show, jsonlist, kind="search", episodelist=[]):
         """jsonlist = [TRACKLIST, DO-ON, ADDITIONALS]"""
         for jsondir in jsonlist:
@@ -169,7 +171,7 @@ class nts:
         seen = set()
         return [x for x in sequence if not (x in seen or seen.add(x))]
 
-    @utils.monitor
+    # @utils.monitor
     @utils.timeout(300.0)
     def spotifyplaylist(self, show, threshold=[6, 10], reset=False):
         connection.connect()
@@ -399,7 +401,11 @@ class nts:
             name=f"{title} - NTS",
             description=f'"{show}" {lastep}→{firstep} {reduced_title} [{syn}]',
         )
-
+        try:
+            connection.sp.playlist_upload_cover_image(pid, self.bite_img(show))
+        except:
+            print("ERROR COVER")
+            logging.warning(traceback.format_exc())
         """ UPDATE UPLOADED EPISODES METADATA """
         utils.rnw_json(f"./uploaded/{show}", uploaded)
 
@@ -514,7 +520,10 @@ class nts:
                 break
             else:
                 pids += [i]
-        return self.parallel(self.subprivatise, pids, [True])
+        # return self.parallel(self.subprivatise, pids, [True])
+        for i in pids:
+            print(i)
+            connection.sp.playlist_change_details(i, public=True)
 
     def counter_filter(self, episode):
         bad = [

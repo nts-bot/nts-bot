@@ -37,7 +37,7 @@ def scrape(amount: int = True):
     return shelf
 
 
-@utils.monitor
+# @utils.monitor
 def scripts(self, show, test=False):
     # TRACKLIST
     runner(self, show, f"./meta/{show}", 1)
@@ -53,7 +53,7 @@ def scripts(self, show, test=False):
         runner(self, show, f"./uploaded/{show}", 6)
 
 
-@utils.monitor
+# @utils.monitor
 def runner(self, show, comparison, command):
     rq, do = prerun(comparison)
     if rq:
@@ -73,7 +73,7 @@ def runner(self, show, comparison, command):
             self.spotifyplaylist(show)
 
 
-@utils.monitor
+# @utils.monitor
 def prerun(comparison_path):
     episodes = webscrape.episodelist
     comparison = utils.rnw_json(comparison_path)
@@ -124,11 +124,12 @@ def scene(sequence):
     return [x for x in sequence if not (x in seen or seen.add(x))]
 
 
-@utils.monitor
+# @utils.monitor
 def runscript(self, test, shows, short=True, retry=False):
     # ,bd=False,short=False,retry=True)
     # def runscript(self, shows, ):
     self.backup()
+    shows = list(set(shows) - set(["guests"]))
 
     connection.connect()
     _ = {i: shows[i] for i in range(len(shows))}

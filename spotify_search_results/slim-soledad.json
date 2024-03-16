@@ -1,4 +1,942 @@
 {
+    "slim-soledad-14th-march-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Antigone",
+                    "title": "DANCE",
+                    "uri": "2vHe8CbgXwqIyqRYNtWhT9"
+                },
+                {
+                    "artist": "Joris Voorn",
+                    "title": "Antigone (Yotto Remix)",
+                    "uri": "7s8KnzvB2qfpeOrlpKpH28"
+                },
+                {
+                    "artist": "Steph Strings",
+                    "title": "Antigone",
+                    "uri": "0ArDGUVwzvSeokcXuFiKKd"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Qoiet",
+                    "title": "switchblade",
+                    "uri": "3YdbOLP4xAfRqXxNPRKQro"
+                },
+                {
+                    "artist": "Rebelion",
+                    "title": "SWITCHBLADES - THE SECOND DOSE EDIT",
+                    "uri": "02qXVPp6VBwGI5ezfM7Z9V"
+                },
+                {
+                    "artist": "CUXTHROAT",
+                    "title": "SwitchBlade (Social Media Highlight)",
+                    "uri": "6BmOZwsEtbrLjqU5988v8J"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dwin",
+                    "title": "Tokyo",
+                    "uri": "4obMuJXFa9APNiFtlQHFBh"
+                },
+                {
+                    "artist": "J2LASTEU",
+                    "title": "Kush 7",
+                    "uri": "5nEZALVntYBWftNPMUYZ0q"
+                },
+                {
+                    "artist": "Jotin Bebi",
+                    "title": "Kush",
+                    "uri": "5w4GOJGa0fgxLkmAUXK0Bz"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "AceMo",
+                    "title": "Regeneration",
+                    "uri": "6FKOaWVmYA5kHwmGLDhtfE"
+                },
+                {
+                    "artist": "AceMo",
+                    "title": "Regeneration",
+                    "uri": "12SR5CzlxrmlY83jSrGw6G"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "AceMo",
+                    "title": "Regeneration",
+                    "uri": "6FKOaWVmYA5kHwmGLDhtfE"
+                },
+                {
+                    "artist": "AceMo",
+                    "title": "Regeneration",
+                    "uri": "12SR5CzlxrmlY83jSrGw6G"
+                },
+                {
+                    "artist": "AceMo",
+                    "title": "Chord and Triton Drums",
+                    "uri": "2fu6wSvPd2WNzWsARFMkHU"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Muh Re",
+                    "title": "Miraculous",
+                    "uri": "39klOrreaNPjsYeh1zTFjh"
+                },
+                {
+                    "artist": "Miraculous",
+                    "title": "Aller Anfang ist schwer (1) - Teil 1",
+                    "uri": "55WojtKHxsHemJmX9yIX1u"
+                },
+                {
+                    "artist": "Miraculous",
+                    "title": "Die Meerjungfrau - Teil 1",
+                    "uri": "4VqoqAfNUkV2uCJy3DXa8G"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "ENNIO",
+                    "title": "Scacotteter",
+                    "uri": "1v0rRYg7jqw3cT7HsTb4Fy"
+                },
+                {
+                    "artist": "ENNIO",
+                    "title": "Scacotteter",
+                    "uri": "7BP9xYyR0rswZ0MHjuHxSh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "ENNIO",
+                    "title": "Scacotteter",
+                    "uri": "1v0rRYg7jqw3cT7HsTb4Fy"
+                },
+                {
+                    "artist": "ENNIO",
+                    "title": "Scacotteter",
+                    "uri": "7BP9xYyR0rswZ0MHjuHxSh"
+                },
+                {
+                    "artist": "ENNIO",
+                    "title": "Let Go",
+                    "uri": "7n5BqVVhx0piwBjUH0bD2o"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "SRVD",
+                    "title": "The Yard Man",
+                    "uri": "53o7OT1ws3bjT061bTfIWb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "SRVD",
+                    "title": "The Yard Man",
+                    "uri": "53o7OT1ws3bjT061bTfIWb"
+                },
+                {
+                    "artist": "SRVD",
+                    "title": "Black On Black",
+                    "uri": "4BVlpscmlGeBGsy81cnmED"
+                },
+                {
+                    "artist": "The Yardbirds",
+                    "title": "Over Under Sideways Down (Stereo Version) - Remastered",
+                    "uri": "2k9fhELJm2UBW7sTWYCNGB"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "D.Dan",
+                    "title": "Escape from the Echo Chamber",
+                    "uri": "5DfVDeSjYVoBYfoLjFIaYz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "D.Dan",
+                    "title": "Escape from the Echo Chamber",
+                    "uri": "5DfVDeSjYVoBYfoLjFIaYz"
+                },
+                {
+                    "artist": "Echo Chamber",
+                    "title": "Escape From Freedom",
+                    "uri": "1rR2B5ofdsgikbAFHSZuDN"
+                },
+                {
+                    "artist": "D.Dan",
+                    "title": "Switchblade (Descendant)",
+                    "uri": "0WiGMQZ7nP483RG3HlgDqz"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Joey Beltram",
+                    "title": "SetUps",
+                    "uri": "4a2c7VzlWux3c6F3stL2fw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Joey Beltram",
+                    "title": "SetUps",
+                    "uri": "4a2c7VzlWux3c6F3stL2fw"
+                },
+                {
+                    "artist": "Joey Beltram",
+                    "title": "Energy Flash",
+                    "uri": "46ddej1ibGIgs58H0wakoK"
+                },
+                {
+                    "artist": "Joey Beltram",
+                    "title": "My Sound",
+                    "uri": "2Ip05ETLjC820n55G7PdvO"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Regal86",
+                    "title": "Gold Wire - Cruizin Mix",
+                    "uri": "1UDaLWVokuHb9secQoKg8B"
+                },
+                {
+                    "artist": "Ol Wallace",
+                    "title": "Cruisin",
+                    "uri": "61kkOwSTnnvS4G5tZTfkzw"
+                },
+                {
+                    "artist": "Cruizing Mind",
+                    "title": "Fati Te Taime",
+                    "uri": "7vDfxOOt2kQclH6BEqv3kO"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pomme",
+                    "title": "jardin",
+                    "uri": "2mcMoXYHmVLxmCgAvaO2cS"
+                },
+                {
+                    "artist": "Radio Kabira",
+                    "title": "Jardin Majorelle - Single Edit",
+                    "uri": "0Agr2PCbrMRfOoe5DFgBTi"
+                },
+                {
+                    "artist": "Jacob's Piano",
+                    "title": "Jardin",
+                    "uri": "2O8CAZqkEQo8UzJtnZETk6"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Gabber Eleganza",
+                    "title": "Never Sleep",
+                    "uri": "4GT3Qum7qq52hP8PRtORMT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gabber Eleganza",
+                    "title": "Never Sleep",
+                    "uri": "4GT3Qum7qq52hP8PRtORMT"
+                },
+                {
+                    "artist": "Gabber Eleganza",
+                    "title": "Junonica",
+                    "uri": "7zh2Um1EF7vEmPIJdaeyrV"
+                },
+                {
+                    "artist": "FiNCH",
+                    "title": "Gabber Girl",
+                    "uri": "4M44H2jidBcfAmrDeoqFNB"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tessela",
+                    "title": "Hackney Parrot - Special Request VIP",
+                    "uri": "1QuS5m8AbW9xL6uTYkiPkb"
+                },
+                {
+                    "artist": "Tessela",
+                    "title": "Hackney Parrot",
+                    "uri": "170ukLhJmsiTNqLHbNtcsG"
+                },
+                {
+                    "artist": "TesseracT",
+                    "title": "Sacrifice",
+                    "uri": "5keofjJGpX3ul9LXX7wYbz"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Samurai Breaks",
+                    "title": "Power Hour",
+                    "uri": "7KdDQAchXNjSHcXPCXYOdX"
+                },
+                {
+                    "artist": "Samurai Breaks",
+                    "title": "Power Hour",
+                    "uri": "5O82mL96d4c7TVtQMEMDiD"
+                },
+                {
+                    "artist": "Samurai Breaks",
+                    "title": "Power Hour - Original Mix - Mixed",
+                    "uri": "5iJWUbq5NBmif49Ialoh88"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Samurai Breaks",
+                    "title": "Power Hour",
+                    "uri": "7KdDQAchXNjSHcXPCXYOdX"
+                },
+                {
+                    "artist": "Samurai Breaks",
+                    "title": "Power Hour",
+                    "uri": "5O82mL96d4c7TVtQMEMDiD"
+                },
+                {
+                    "artist": "TH3 DARP",
+                    "title": "Samurai",
+                    "uri": "359XIIbRK5wZ9qmvCYXGOL"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Special Request",
+                    "title": "Quiet Storm - Tim Reaper Remix",
+                    "uri": "6P896k0G9OMP3KlYBdbLIy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Special Request",
+                    "title": "Quiet Storm - Tim Reaper Remix",
+                    "uri": "6P896k0G9OMP3KlYBdbLIy"
+                },
+                {
+                    "artist": "Mobb Deep",
+                    "title": "Quiet Storm (feat. Lil' Kim) - Remix",
+                    "uri": "47w8ZDr5nBClBgMS92FBDQ"
+                },
+                {
+                    "artist": "Shierro",
+                    "title": "Quiet Storm",
+                    "uri": "1QIsVlaCz3U5GfsEJE9O8L"
+                }
+            ]
+        }
+    },
+    "slim-soledad-15th-february-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Slim Soledad",
+                    "title": "RUSH",
+                    "uri": "1QOoaLhnO1bSWt8LaFizKL"
+                },
+                {
+                    "artist": "ZDBT",
+                    "title": "ELASTIC",
+                    "uri": "3enhwNFECQX6psc1uqprYV"
+                },
+                {
+                    "artist": "Slimmah Sound",
+                    "title": "Into the Ark",
+                    "uri": "6LhYZHTiyJHZQr2mCKdCsI"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Revoxx",
+                    "title": "Bass Activator",
+                    "uri": "5zaAObYX5TLW7CvXghZNiJ"
+                },
+                {
+                    "artist": "Alan Aztec",
+                    "title": "BassMarck",
+                    "uri": "28wEbDhARZqLhUNCgE6j96"
+                },
+                {
+                    "artist": "LUZI",
+                    "title": "Bass - HBz Remix",
+                    "uri": "2fUmFrj4gSYepwLk8nYfKA"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sinner",
+                    "title": "Slim Shady",
+                    "uri": "4PDVWDRUJ72xL1cm0rcVqG"
+                },
+                {
+                    "artist": "Eminem",
+                    "title": "The Real Slim Shady - Instrumental",
+                    "uri": "0hfBRQVuRT2R8KDwjjir1q"
+                },
+                {
+                    "artist": "Slim Shage",
+                    "title": "Dont Stop",
+                    "uri": "6GFKCZqkMcm1yxXRzszw6F"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Sopik",
+                    "title": "Dynamo - Original Mix",
+                    "uri": "0kYxrrs1uneQRJxzvAbRlY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sopik",
+                    "title": "Dynamo - Original Mix",
+                    "uri": "0kYxrrs1uneQRJxzvAbRlY"
+                },
+                {
+                    "artist": "Sopik",
+                    "title": "Gozo - Original Mix",
+                    "uri": "3KNHx7HoAPtQCQVOXJRwnK"
+                },
+                {
+                    "artist": "Sopik",
+                    "title": "Free Your Mind",
+                    "uri": "3aUMxRxGSDBYN1no8c3AkA"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Urias",
+                    "title": "Rolling",
+                    "uri": "04zj7YtTSjAd2Y8tt8KX2K"
+                },
+                {
+                    "artist": "Uriah Heep",
+                    "title": "Rain (2017 - Remaster)",
+                    "uri": "6NUg6NpiIAi51TpFiNENrV"
+                },
+                {
+                    "artist": "Oli Parker",
+                    "title": "The Real Slim Shady",
+                    "uri": "3HdB3l47OPW3fpJmuMcWF0"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DJ Babs",
+                    "title": "Les zommes",
+                    "uri": "6CsvzcT5rwHH6h6tmK9EjM"
+                },
+                {
+                    "artist": "DJ Babu",
+                    "title": "Phlip The Track",
+                    "uri": "0BQvzq5J8zz4YHP7IOwKM4"
+                },
+                {
+                    "artist": "DJ Babu",
+                    "title": "The Unexpected",
+                    "uri": "0EQRF4Q0NJ92hoGrzdLOIn"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Anonym",
+                    "title": "Intro",
+                    "uri": "7zZnoWYraqAjwKxGZ3WBUc"
+                },
+                {
+                    "artist": "YONII",
+                    "title": "Anonym",
+                    "uri": "3FUK0o5CXSC7XAFH1esRD0"
+                },
+                {
+                    "artist": "Anonym",
+                    "title": "Ghetto Panorama II",
+                    "uri": "3kSc1dKoy1yD9QtgNG5zQa"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Wise Guys",
+                    "title": "A cappella",
+                    "uri": "0Tj6qdtXOBnGGmSxm7far7"
+                },
+                {
+                    "artist": "DJ RENAN DA BL",
+                    "title": "Tu Brota Aqui Toda Sagaz",
+                    "uri": "2euryFrufa0TsMtWn1utPV"
+                },
+                {
+                    "artist": "Boss Haymakar",
+                    "title": "Tryna Reup - Clean Acappella",
+                    "uri": "71jg05CDJFCuUnpcCQ1Z5D"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Fantasm",
+                    "title": "Fear Wakes You Up",
+                    "uri": "7dGztjSlBoQL5ErjeMNZlD"
+                },
+                {
+                    "artist": "Tainy",
+                    "title": "FANTASMA | AVC",
+                    "uri": "0EZqBZknFKby6dk41hfi2o"
+                },
+                {
+                    "artist": "GangosoWorld",
+                    "title": "Fantasma",
+                    "uri": "5hOhSg5a1yYkFSbGBpzOo6"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DJ Fp de Vila Velha",
+                    "title": "É o Fp de Vila Velha Vs Chupa Tua Bct Igual Pitbull Com Raiva",
+                    "uri": "7zBd6Qt5iGlXmxH70etsbP"
+                },
+                {
+                    "artist": "DJ Fp de Vila Velha",
+                    "title": "Sequência dos 59d",
+                    "uri": "7LjVSIaNkJoGSUG4YLTg60"
+                },
+                {
+                    "artist": "DJ SF DO SJ",
+                    "title": "So Catucada",
+                    "uri": "3Tm5LVcC0c5FTciEGVSAe9"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Hannes Knef",
+                    "title": "Still Not Unique",
+                    "uri": "1nvdrJrzec2nolZTRKuWr3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hannes Knef",
+                    "title": "Still Not Unique",
+                    "uri": "1nvdrJrzec2nolZTRKuWr3"
+                },
+                {
+                    "artist": "Hannes",
+                    "title": "Hannes Unser",
+                    "uri": "6oaudKR5LXN5Cuo7MqRUnH"
+                },
+                {
+                    "artist": "Niklas Paschburg",
+                    "title": "Blooming (In C Minor) - Hannes Kretzer Remix",
+                    "uri": "1tiiPRQH1lszD6v9kYIAxC"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "El Remmy",
+                    "title": "Amor de 4 Paredes",
+                    "uri": "7BiBs5usf59yZQWOnyzE3G"
+                },
+                {
+                    "artist": "Forró du cheff",
+                    "title": "Em Quatro Paredes",
+                    "uri": "3BiPb3U1xa0MOk6WZ46vRg"
+                },
+                {
+                    "artist": "Allx Brown",
+                    "title": "4 Paredes",
+                    "uri": "01n6igdLeCzruFZGOkp5ir"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "THD+N",
+                    "title": "The Game",
+                    "uri": "0RdW6zYsuT91EHjMDMCxd2"
+                },
+                {
+                    "artist": "WWE",
+                    "title": "The Game (Triple H)",
+                    "uri": "2zSpaFB7e0Yo1QKsDQ22Ol"
+                },
+                {
+                    "artist": "The Notorious B.I.G.",
+                    "title": "1970 Somethin' (feat. The Game & Faith Evans)",
+                    "uri": "43CKG4Ag1kYOsNUCcHr7nI"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Urias",
+                    "title": "Ultimate One - Remix",
+                    "uri": "6jwPR3DzHe8fQCejI2THPQ"
+                },
+                {
+                    "artist": "Uriah Heep",
+                    "title": "Lady In Black",
+                    "uri": "2U2ByqoO82fnayaPzO4x2d"
+                },
+                {
+                    "artist": "Uriah Heep",
+                    "title": "Lady in Black (Alternate Version)",
+                    "uri": "1ifuiUFc3KWM9CAzgtB0av"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DJ Luminary",
+                    "title": "Ele Te Bota Bota",
+                    "uri": "28TTL9gtIqc1iXzUoYXsWd"
+                },
+                {
+                    "artist": "DJ JULIN DO AV",
+                    "title": "Mtg Bota Tudo Nela",
+                    "uri": "4MbT7ZVkZ9YJvNfLUH3xSY"
+                },
+                {
+                    "artist": "DJ NENEM",
+                    "title": "MTG - OS FAMOSO LADRÃO DE XOTA 3",
+                    "uri": "6GdVmPDMZn8o26WcNUr1Wq"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Seeed",
+                    "title": "Release - Dresden 2006; Live",
+                    "uri": "56NDlZUJ3QxLN5HH4qJ5I9"
+                },
+                {
+                    "artist": "STEEL",
+                    "title": "Release Me",
+                    "uri": "1oTo1swIorF096NPSgFoYt"
+                },
+                {
+                    "artist": "Taylor Conrod",
+                    "title": "self(less)",
+                    "uri": "7JOw3PsGRLZzNIs6aPZ8XS"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Tucker",
+                    "title": "TIME TO ROCK",
+                    "uri": "1gxAXs0tJHuO3c3ZXlXiHN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tucker",
+                    "title": "TIME TO ROCK",
+                    "uri": "1gxAXs0tJHuO3c3ZXlXiHN"
+                },
+                {
+                    "artist": "Boss Don",
+                    "title": "Digits",
+                    "uri": "440sxG2v0jOtULaT1MMZpI"
+                },
+                {
+                    "artist": "Tucker Nichol",
+                    "title": "Long Story Short",
+                    "uri": "5fKgAP6TE5r1DNbFmVa5YD"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "dj castro jb",
+                    "title": "CLIMA DA BALINHA",
+                    "uri": "7ziLngTJAjy4xX0wSMf2VV"
+                },
+                {
+                    "artist": "Mc Gabzin",
+                    "title": "Simplesmente Ela",
+                    "uri": "7qaUeAyg0eYYhHDCx58GXa"
+                },
+                {
+                    "artist": "Mc Gabzin",
+                    "title": "Incrível Jogando a Potranca",
+                    "uri": "2F4wyz6gkLTbyD9b5vTVoh"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "VITAL",
+                    "title": "Hell Penetration",
+                    "uri": "7ax7GhKQTjciY2uevm34FB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "VITAL",
+                    "title": "Hell Penetration",
+                    "uri": "7ax7GhKQTjciY2uevm34FB"
+                },
+                {
+                    "artist": "YOSIV",
+                    "title": "VITAL",
+                    "uri": "1ye9LmiZ5ocLW3QQrm8wud"
+                },
+                {
+                    "artist": "Nordex",
+                    "title": "Vital (From \"Angels of Death Animation\")",
+                    "uri": "38EkLQHRqPBReMPi7QGB3P"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "The Prodigy",
+                    "title": "No Good (Start the Dance)",
+                    "uri": "2Jb5Qyy37fdGOTJ6iPYq1y"
+                },
+                {
+                    "artist": "The Prodigy",
+                    "title": "No Good (Start the Dance) - Edit",
+                    "uri": "6QNVYknUkjgXMHN44LllzC"
+                },
+                {
+                    "artist": "The Prodigy",
+                    "title": "No Good (Start the Dance) - Remastered",
+                    "uri": "7nZsFPusGKsY8biJ9nWCSB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Prodigy",
+                    "title": "No Good (Start the Dance)",
+                    "uri": "2Jb5Qyy37fdGOTJ6iPYq1y"
+                },
+                {
+                    "artist": "The Prodigy",
+                    "title": "No Good (Start the Dance) - Edit",
+                    "uri": "6QNVYknUkjgXMHN44LllzC"
+                },
+                {
+                    "artist": "The Prodigy",
+                    "title": "Firestarter",
+                    "uri": "79CUrU5o2KAVDTNm4x3eGU"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Cher",
+                    "title": "Fernando",
+                    "uri": "1V9zWcD0PpWlFa42vCErzm"
+                },
+                {
+                    "artist": "Fernandinho",
+                    "title": "Galileu - Ao Vivo",
+                    "uri": "3BLj3BUTTlNjVkhdR45z9e"
+                },
+                {
+                    "artist": "Fernandinho Beat Box",
+                    "title": "Destrave a Boca",
+                    "uri": "3JFUfEmlOyM2zhACVCuPGa"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "APHØTIC",
+                    "title": "Thalassophobia",
+                    "uri": "1pcDlqCeLHpxK6xVdv6ONZ"
+                },
+                {
+                    "artist": "APHØTIC",
+                    "title": "Real Lies",
+                    "uri": "2gPgg1kOJ3LJZQwwKVCRhh"
+                },
+                {
+                    "artist": "Ethan Gander",
+                    "title": "APHRODITE",
+                    "uri": "5HJh0CWM5HBdbPA5pyHoil"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Money Man",
+                    "title": "24 (feat. Lil Baby)",
+                    "uri": "0xUvi7wldroBzaZCengPa5"
+                },
+                {
+                    "artist": "Money Man",
+                    "title": "24 (feat. Lil Baby)",
+                    "uri": "7v96VvFLS0wSYT8kewNLRy"
+                },
+                {
+                    "artist": "Joyner Lucas",
+                    "title": "24 hours to live",
+                    "uri": "5ia8VbDkfzWBjC6f3bOTt1"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kelis",
+                    "title": "Acapella",
+                    "uri": "3B3A4mqiRhspnA3VCyfEbb"
+                },
+                {
+                    "artist": "Daniel Caesar",
+                    "title": "A Cappella",
+                    "uri": "3XlzpaHje8MlpaGe8twgr7"
+                },
+                {
+                    "artist": "MIKOLAS",
+                    "title": "Acapella - Acoustic",
+                    "uri": "1wCqGhsYzHUmeVxnvzg783"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "CRRDR",
+                    "title": "Pal Cruze",
+                    "uri": "6l3NAZKIvQUyiLr2iuvkfw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "CRRDR",
+                    "title": "Pal Cruze",
+                    "uri": "6l3NAZKIvQUyiLr2iuvkfw"
+                },
+                {
+                    "artist": "Creedence Clearwater Revival",
+                    "title": "Lookin' Out My Back Door",
+                    "uri": "3RTUfvRgq3pYTf7XY0FIcS"
+                },
+                {
+                    "artist": "Creedence Clearwater Revival",
+                    "title": "Travelin' Band",
+                    "uri": "0INUNNYfsp4qr6kJdY46mY"
+                }
+            ]
+        },
+        "25": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "JSL Joosel",
+                    "title": "Desde los 14",
+                    "uri": "2e9xDQrjgQtln9755TmWgE"
+                },
+                {
+                    "artist": "Alejandro Sanz",
+                    "title": "Desde cuando",
+                    "uri": "38EI0NudWZT1qFuhEafIHh"
+                },
+                {
+                    "artist": "Grupo Xclusivo",
+                    "title": "Desde Las Calles de Mesa",
+                    "uri": "5d1Y8e1NspGyPmOU6aRHIG"
+                }
+            ]
+        }
+    },
     "slim-soledad-18th-january-2024": {
         "00": {
             "s0": "",

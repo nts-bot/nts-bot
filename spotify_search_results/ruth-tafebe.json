@@ -920,6 +920,573 @@
             ]
         }
     },
+    "ruth-tafebe-14th-march-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Capital Bra",
+                    "title": "Olé Olé",
+                    "uri": "4v4ZuW2tjSyyci2BcE5bTp"
+                },
+                {
+                    "artist": "DT Brown",
+                    "title": "Aye Ole",
+                    "uri": "1AOOyZQ4mQ2miG058k9Qr2"
+                },
+                {
+                    "artist": "BEKO",
+                    "title": "OLÉ OLÉ",
+                    "uri": "44ZViPckNyroAYix2TEFf2"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Luiz Bonfá",
+                    "title": "Samba de Orfeu",
+                    "uri": "4ecajlw9dEh0YtYlO5QGQR"
+                },
+                {
+                    "artist": "Luiz Bonfá",
+                    "title": "Sambalamento",
+                    "uri": "4fJrqBOXrJ9QwaqJ9UsptN"
+                },
+                {
+                    "artist": "Luiz Bonfá",
+                    "title": "Samba de Orfeu",
+                    "uri": "0yO7Rg00ZJiMMb8pHiBojc"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Sahara Band",
+                    "title": "Habibi",
+                    "uri": "7xUrUwMFYXzNb6lDzZSxpD"
+                },
+                {
+                    "artist": "Sahara Band",
+                    "title": "Habibi - Instrumental",
+                    "uri": "1oNOZaIs5Mm9mAvnFUYyKi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sahara Band",
+                    "title": "Habibi",
+                    "uri": "7xUrUwMFYXzNb6lDzZSxpD"
+                },
+                {
+                    "artist": "Sahara Band",
+                    "title": "Habibi - Instrumental",
+                    "uri": "1oNOZaIs5Mm9mAvnFUYyKi"
+                },
+                {
+                    "artist": "OMAR",
+                    "title": "HABIBI",
+                    "uri": "6W1k2TBsaDMo3VOyc2tNoB"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Stanislas Tohon",
+                    "title": "Dja, Dja, Dja",
+                    "uri": "1ZZxMNgWmLXFENyDFKKNac"
+                },
+                {
+                    "artist": "Stanislas Tohon",
+                    "title": "Dja Dja Dja",
+                    "uri": "6suXvsAQtEvIRqh8LNpluS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Stanislas Tohon",
+                    "title": "Dja, Dja, Dja",
+                    "uri": "1ZZxMNgWmLXFENyDFKKNac"
+                },
+                {
+                    "artist": "Stanislas Tohon",
+                    "title": "Dja Dja Dja",
+                    "uri": "6suXvsAQtEvIRqh8LNpluS"
+                },
+                {
+                    "artist": "Aya Nakamura",
+                    "title": "Djadja",
+                    "uri": "6FqqTni0AEtGXynpMpDm4L"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lvbel C5",
+                    "title": "BABA",
+                    "uri": "7ah5CgXHNPBtoJsdPV1AKA"
+                },
+                {
+                    "artist": "BABA BLANCA",
+                    "title": "UberXL",
+                    "uri": "1P7eUneNNJwySYRUEr5R1I"
+                },
+                {
+                    "artist": "Samço",
+                    "title": "Baba Tek Başına",
+                    "uri": "2qcv5qJCRXORzXdeLCcPij"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Bulimundo",
+                    "title": "Bulimundo",
+                    "uri": "2Aw1Yv3oYx4uRjb2aqOTzH"
+                },
+                {
+                    "artist": "Bulimundo",
+                    "title": "Bulimundo",
+                    "uri": "511ZVLd9LVXsxNndbaXaDa"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bulimundo",
+                    "title": "Bulimundo",
+                    "uri": "2Aw1Yv3oYx4uRjb2aqOTzH"
+                },
+                {
+                    "artist": "Bulimundo",
+                    "title": "Djâm Brancu Dja",
+                    "uri": "07am2fqXVoOQoltVILcE35"
+                },
+                {
+                    "artist": "December Avenue",
+                    "title": "Bulong",
+                    "uri": "5rV7xueHNNXaZqOLroaUta"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Les Difficiles de Petion-Ville",
+                    "title": "Ce La Vie",
+                    "uri": "1EGBtYlcwenE4t8kTkltis"
+                },
+                {
+                    "artist": "Les Difficiles de Petion-Ville",
+                    "title": "Ce la Vie",
+                    "uri": "3mfWOPwqmZiGhLA0NjqMZe"
+                },
+                {
+                    "artist": "Les Difficiles de Petion-Ville",
+                    "title": "Ce La Vie",
+                    "uri": "5ij6f0oCQoWznYVlWAM94u"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Les Difficiles de Petion-Ville",
+                    "title": "Ce La Vie",
+                    "uri": "1EGBtYlcwenE4t8kTkltis"
+                },
+                {
+                    "artist": "Les Difficiles de Petion-Ville",
+                    "title": "Espoir - Composition X",
+                    "uri": "6hhWUE8robadvGF4w59xYT"
+                },
+                {
+                    "artist": "Les Difficiles de Petion-Ville",
+                    "title": "Mesdames Yo",
+                    "uri": "5rTOiT60e54Vlhttu6Lnka"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Koffi Olomide",
+                    "title": "Jeune pato",
+                    "uri": "40S4yoVaP3G9FPRciQM7y4"
+                },
+                {
+                    "artist": "Koffi Olomide",
+                    "title": "Jeune Pato",
+                    "uri": "62mO2Iicl9x2TEYrhe4nDz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Koffi Olomide",
+                    "title": "Jeune pato",
+                    "uri": "40S4yoVaP3G9FPRciQM7y4"
+                },
+                {
+                    "artist": "Koffi Olomide",
+                    "title": "Jeune Pato",
+                    "uri": "62mO2Iicl9x2TEYrhe4nDz"
+                },
+                {
+                    "artist": "Kofi Nti",
+                    "title": "Odo nwom",
+                    "uri": "5X4bTpE8H7VnOpkf5Iju8h"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Archie Mohlala and The Boyoyo Boys",
+                    "title": "T. Boy Special",
+                    "uri": "16A97FGL4dKldmw0ogiLad"
+                },
+                {
+                    "artist": "Archie Mohlala and The Boyoyo Boys",
+                    "title": "Sebokeng 500",
+                    "uri": "7FgosE5mrH8fZXSZaaPwGY"
+                },
+                {
+                    "artist": "Archie Eversole",
+                    "title": "We Ready - Remix",
+                    "uri": "0i7Lec22TEo0Nkf0I7bvI5"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Creedence Clearwater Revival",
+                    "title": "Ramble Tamble",
+                    "uri": "47atuTch0AN7NvP9vp42a5"
+                },
+                {
+                    "artist": "Creedence Clearwater Revival",
+                    "title": "Ramble Tamble",
+                    "uri": "7h1N6ijC3H1i47Du5mzip0"
+                },
+                {
+                    "artist": "Black Stone Cherry",
+                    "title": "The Rambler",
+                    "uri": "17sEHeg1C36UE0884yfNq5"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rocka Mambo",
+                    "title": "Mabe Na Yo Moko",
+                    "uri": "30JXjkz2wVX4G8h8otAVzI"
+                },
+                {
+                    "artist": "Pérez Prado",
+                    "title": "Rock' Ambo No. 1 (Why Wait)",
+                    "uri": "6fK8OD8IhZ7CotfiOgWsh8"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Docteur Nico",
+                    "title": "Bonbon Sucré",
+                    "uri": "4DovsFkXEgfqilakVXJzn7"
+                },
+                {
+                    "artist": "Faya Tess",
+                    "title": "Bonbon sucré",
+                    "uri": "7iSdKeIf6IFBOzbC6mRZMQ"
+                },
+                {
+                    "artist": "Era Istrefi",
+                    "title": "Bonbon",
+                    "uri": "79Nnbjlw4ulw59lkHUZm9N"
+                }
+            ]
+        }
+    },
+    "ruth-tafebe-15th-february-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bernard Demirali",
+                    "title": "Bernard & J.Ritam (Deman Bisou SHOW 2023)",
+                    "uri": "21MFVxaIEbOryyNvqfBrMO"
+                },
+                {
+                    "artist": "Bernadette La Hengst",
+                    "title": "Łužyca Du visionäre Leere",
+                    "uri": "2BsWZbQ3aOx4pYt22knZ0h"
+                },
+                {
+                    "artist": "Bernard Allison",
+                    "title": "Leave Your Ego",
+                    "uri": "5lCrGrjeBufzZNUWyZuMH2"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "monkeyzxc",
+                    "title": "Amnyam love",
+                    "uri": "1CjopiLTevoBWhDc3s6H1q"
+                },
+                {
+                    "artist": "Anyma",
+                    "title": "Sonder",
+                    "uri": "3Nypznkyd4AVy5zbOAnIId"
+                },
+                {
+                    "artist": "Little Symphony",
+                    "title": "Amaya",
+                    "uri": "6gory3LC8NvdSaXZHzTiaR"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Luiz Visconde",
+                    "title": "Chofer de Praça",
+                    "uri": "6TWJ6vYq64wWAqoi4Ccn0F"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Luiz Visconde",
+                    "title": "Chofer de Praça",
+                    "uri": "6TWJ6vYq64wWAqoi4Ccn0F"
+                },
+                {
+                    "artist": "Luis Viscondes",
+                    "title": "Chofer de Praça",
+                    "uri": "2E6NAIa7mzE2maqEsIUU4j"
+                },
+                {
+                    "artist": "Killer M Guapo",
+                    "title": "Chofer De Praça",
+                    "uri": "6TTyuGxoWo60uoQoglPzS1"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Joe King Kologbo",
+                    "title": "Sugar Daddy",
+                    "uri": "7lBusINPUed0PWABrsywQV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Joe King Kologbo",
+                    "title": "Sugar Daddy",
+                    "uri": "7lBusINPUed0PWABrsywQV"
+                },
+                {
+                    "artist": "Joe King Kologbo",
+                    "title": "All Fingers Are Not Equal",
+                    "uri": "4K5SHlV2xeumMdWY2o1Ape"
+                },
+                {
+                    "artist": "Katja Krasavice",
+                    "title": "SUGAR DADDY",
+                    "uri": "5PLHEPvuuCbxFIX6TA4ZMM"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ihsan Al Munzer",
+                    "title": "Shis Kebap",
+                    "uri": "6wIKw35Sts39Dg9GQImnWS"
+                },
+                {
+                    "artist": "Ihsan Al Munzer",
+                    "title": "The Sheperd (Takasim)",
+                    "uri": "09GZ8wy56VIjjNfQwMwz5F"
+                },
+                {
+                    "artist": "ISHAN",
+                    "title": "The Blue",
+                    "uri": "0dZLxmj5uif7cxfTZbJe34"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Abelardo Carbonó y su Conjunto",
+                    "title": "Palenque",
+                    "uri": "4OBk2EKlq4tCbfaxm7MppN"
+                },
+                {
+                    "artist": "Los Renovados De California",
+                    "title": "El Del Palenque",
+                    "uri": "0y0LHWT79FsMBAWuNm602r"
+                },
+                {
+                    "artist": "Los Varones De California",
+                    "title": "El Del Palenque - En Vivo",
+                    "uri": "1trwTI8xco8OrsiEX289mr"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ludovico Einaudi",
+                    "title": "Experience - Solo Piano",
+                    "uri": "461pYJmtkFP57RTvkISLW0"
+                },
+                {
+                    "artist": "Helion",
+                    "title": "Cheri Cheri Lady",
+                    "uri": "7Ek1aftuL9IZVbR1ELISWJ"
+                },
+                {
+                    "artist": "THNDERZ",
+                    "title": "Cheri Cheri Lady",
+                    "uri": "5y8vRm4njsp6CJDDrSIqFw"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Soro n Gana",
+                    "title": "Yatchana",
+                    "uri": "6nU7AyRVWjVBz8Hhf1LvS0"
+                },
+                {
+                    "artist": "The Souljazz Orchestra",
+                    "title": "Negus Negast - taken from the album \"Rising Sun\"",
+                    "uri": "65UBTGMuKWRAP6ja70wyiO"
+                },
+                {
+                    "artist": "Negro EDS",
+                    "title": "Intro",
+                    "uri": "2zGewjHO1V3rDPpG2mJAsU"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Os Bongos",
+                    "title": "Kazucuta",
+                    "uri": "4j7rvp9LrvwWAKRYxIpIRc"
+                },
+                {
+                    "artist": "180",
+                    "title": "KAZAGURUMA - a cappella",
+                    "uri": "5d82xRznPqiu6Jp63gAng4"
+                },
+                {
+                    "artist": "Iuly Neamtu",
+                    "title": "Kawasaki",
+                    "uri": "1dMR1ltIgyYRq5vmFXvu07"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Lucila Campos",
+                    "title": "Samba Malato",
+                    "uri": "1UiYirIzVyd5bkwc4UvXNp"
+                },
+                {
+                    "artist": "Lucila Campos",
+                    "title": "Samba Malato",
+                    "uri": "1SIh68khEDu8PwE7IuThQQ"
+                },
+                {
+                    "artist": "Lucila Campos",
+                    "title": "Samba Malato",
+                    "uri": "09hbrq1HJ5hQ285ERPTUxu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lucila Campos",
+                    "title": "Samba Malato",
+                    "uri": "1UiYirIzVyd5bkwc4UvXNp"
+                },
+                {
+                    "artist": "Lucila Campos",
+                    "title": "Samba Malato",
+                    "uri": "09hbrq1HJ5hQ285ERPTUxu"
+                },
+                {
+                    "artist": "Lisias Menelaos",
+                    "title": "Lucy",
+                    "uri": "7i5ZLsrJz4lRJcceB7dFRZ"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gipsy Kings",
+                    "title": "Bossamba",
+                    "uri": "6J2ufwDZjaXQTtzAPIq1w7"
+                },
+                {
+                    "artist": "CONGO WORLDWIDE",
+                    "title": "BUZOBA YA NANI",
+                    "uri": "0lfIQCbs81m0CzQw6qa6tN"
+                },
+                {
+                    "artist": "Comic Relief",
+                    "title": "The Zamboanga Drama (Pasonanca)",
+                    "uri": "2RqoeuICyxVnlZWv4CcK08"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "John Talabot",
+                    "title": "Journeys",
+                    "uri": "7KkucSsPq5wC912oQUSKvI"
+                },
+                {
+                    "artist": "Johnny Talia",
+                    "title": "Asheetha",
+                    "uri": "4i1rVlq2ccw2vWwRPVwjPu"
+                },
+                {
+                    "artist": "J. Hartley",
+                    "title": "John Wayne",
+                    "uri": "2fvmEuEwISvAN0Rg10yjpe"
+                }
+            ]
+        }
+    },
     "ruth-tafebe-16th-february-2023": {
         "00": {
             "s0": "",

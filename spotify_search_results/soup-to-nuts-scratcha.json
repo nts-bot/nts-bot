@@ -47382,6 +47382,594 @@
             ]
         }
     },
+    "soup-to-nuts-scratcha-8th-march-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Machinedrum",
+                    "title": "ZOOM",
+                    "uri": "5BrX72zkxJaowRZwgM8wyB"
+                },
+                {
+                    "artist": "Machinedrum",
+                    "title": "Monique",
+                    "uri": "22IYNVtAjAYmL15lRCyP9I"
+                },
+                {
+                    "artist": "Sodiumm",
+                    "title": "machine de guerre",
+                    "uri": "5DyjCMhYmpT0PTIig2xrcb"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Charisse C",
+                    "title": "Morning Sun",
+                    "uri": "4X1YvzYZUzVeii8NDiYH8g"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Charisse C",
+                    "title": "Morning Sun",
+                    "uri": "4X1YvzYZUzVeii8NDiYH8g"
+                },
+                {
+                    "artist": "Jesse Colin Young",
+                    "title": "Morning Sun",
+                    "uri": "2XI5jIhGo6Mx455FUGm8Sb"
+                },
+                {
+                    "artist": "Chinese Man",
+                    "title": "Morning Sun - Introduction",
+                    "uri": "3tgCZE2K5k9k6Jl28OGeeZ"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Omagoqa",
+                    "title": "iNumber Number",
+                    "uri": "7wcy1BbA5JtRyV3wleeNIX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Omagoqa",
+                    "title": "iNumber Number",
+                    "uri": "7wcy1BbA5JtRyV3wleeNIX"
+                },
+                {
+                    "artist": "snctm.",
+                    "title": "omokage.",
+                    "uri": "0p3qc7N93wst5tEUBcLvUi"
+                },
+                {
+                    "artist": "Manowar",
+                    "title": "Number 1",
+                    "uri": "44aY80ueRBAveED9znUKVO"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Donald Byrd",
+                    "title": "Wind Parade",
+                    "uri": "4okz1TH0GeLw3J51pNRDGd"
+                },
+                {
+                    "artist": "Donald Byrd",
+                    "title": "Wind Parade",
+                    "uri": "7FS82foZ51pyzDl5BtigHq"
+                },
+                {
+                    "artist": "Donald Byrd",
+                    "title": "Wind Parade - Remastered",
+                    "uri": "6XDyxHw49HrGFyCjgxxu3Y"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Donald Byrd",
+                    "title": "Wind Parade",
+                    "uri": "4okz1TH0GeLw3J51pNRDGd"
+                },
+                {
+                    "artist": "Donald Byrd",
+                    "title": "Wind Parade",
+                    "uri": "7FS82foZ51pyzDl5BtigHq"
+                },
+                {
+                    "artist": "Donald Byrd",
+                    "title": "Cristo Redentor - Remastered",
+                    "uri": "0Xfq6BeOHdzf16gk9y8a1P"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Fatima",
+                    "title": "Love on Acid",
+                    "uri": "4IP9wkkNAv95lhoJxdl6kI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fatima",
+                    "title": "Love on Acid",
+                    "uri": "4IP9wkkNAv95lhoJxdl6kI"
+                },
+                {
+                    "artist": "Fatima",
+                    "title": "Donuts Waffles Sweet Grief",
+                    "uri": "6pIjSCvfD0kJq278spwCGS"
+                },
+                {
+                    "artist": "Fatima Yamaha",
+                    "title": "What's a Girl to Do",
+                    "uri": "5N720bYInxSsiUDvBOLM3C"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Ivy Lab",
+                    "title": "Kik Bak",
+                    "uri": "7wal8mxwO4hBrqYXEbx5w4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ivy Lab",
+                    "title": "Kik Bak",
+                    "uri": "7wal8mxwO4hBrqYXEbx5w4"
+                },
+                {
+                    "artist": "Ivy Lab",
+                    "title": "Cake",
+                    "uri": "4vAO9SA5TmBA62kxjtXL96"
+                },
+                {
+                    "artist": "The Amity Affliction",
+                    "title": "Ivy (Doomsday)",
+                    "uri": "2Ll0eOXFmIeBlcybOSaQJm"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Ivy Lab",
+                    "title": "Monsoon",
+                    "uri": "5qxd9s2vgaCk4z0Nrf8NGT"
+                },
+                {
+                    "artist": "Ivy Lab",
+                    "title": "Monsoon",
+                    "uri": "0Pko59TJfRjqRSZNS0qhgp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ivy Lab",
+                    "title": "Monsoon",
+                    "uri": "5qxd9s2vgaCk4z0Nrf8NGT"
+                },
+                {
+                    "artist": "Ivy Lab",
+                    "title": "Monsoon",
+                    "uri": "0Pko59TJfRjqRSZNS0qhgp"
+                },
+                {
+                    "artist": "Ivy Lab",
+                    "title": "Look Away",
+                    "uri": "6v7dsXwV9SCLe3qJg0FyIs"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Rocks FOE",
+                    "title": "Clean Sweep - Jersey Mix",
+                    "uri": "4gg9lLqr1kglttpCJWz5pX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rocks FOE",
+                    "title": "Clean Sweep - Jersey Mix",
+                    "uri": "4gg9lLqr1kglttpCJWz5pX"
+                },
+                {
+                    "artist": "Rocks FOE",
+                    "title": "Clean Sweep",
+                    "uri": "2y0kuHmIflCctDMexGylj4"
+                },
+                {
+                    "artist": "Mikey Ray",
+                    "title": "Clean Sweep",
+                    "uri": "0SKMeX3AiU9z0fzfnvLtt4"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Was A Be",
+                    "title": "Hallucination - Noroi Remix",
+                    "uri": "1irjVmXWDRSQ0u0fueBnao"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Was A Be",
+                    "title": "Hallucination - Noroi Remix",
+                    "uri": "1irjVmXWDRSQ0u0fueBnao"
+                },
+                {
+                    "artist": "Future",
+                    "title": "Hallucinating",
+                    "uri": "7IeHIGriFrJaTeaC4W0a8W"
+                },
+                {
+                    "artist": "Nounours",
+                    "title": "Hallucinogenics",
+                    "uri": "6Di7JDj7qcLYcLJnuv1UAk"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Alchemist",
+                    "title": "W.Y.G.D.T.N.S. (feat. ScHoolboy Q)",
+                    "uri": "7wwdta76VXZ80VVlJqvsRY"
+                },
+                {
+                    "artist": "Quiz",
+                    "title": "What You Call That?!",
+                    "uri": "6G6MzvFX438UE8rbhwVl1B"
+                },
+                {
+                    "artist": "Wheres the Rum",
+                    "title": "Schoolbusses",
+                    "uri": "1VQYZ8ILKrAO678SNPDQ61"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lijay",
+                    "title": "Freak Ho",
+                    "uri": "5pzD8U0w5aWidtCCjgCV42"
+                },
+                {
+                    "artist": "Tarek K.I.Z",
+                    "title": "Freak",
+                    "uri": "0l0csMYF0h3ds1WzMDRDJ3"
+                },
+                {
+                    "artist": "R3HAB",
+                    "title": "Freak - Joe Stone 2K18 Edit",
+                    "uri": "2xbRwcylUnX881qaqf5ZZJ"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Amaury Soan",
+                    "title": "Mutant - Radio Edit",
+                    "uri": "4FMyAKQAKH6MCrh9d4wdG7"
+                },
+                {
+                    "artist": "257ers",
+                    "title": "Mutanten übernehmen",
+                    "uri": "3jC6k8PhWMi0C7JaY6ygRI"
+                },
+                {
+                    "artist": "CVLTE",
+                    "title": "mutant.",
+                    "uri": "5tekqsI1eoUxmiX5OCPQ8O"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "ROSALÍA",
+                    "title": "A Palé",
+                    "uri": "23zJcKwLf5CeaKVbFhrWgF"
+                },
+                {
+                    "artist": "ROSALÍA",
+                    "title": "LA FAMA",
+                    "uri": "6Y46tOTRhkBamosyuWa6YX"
+                },
+                {
+                    "artist": "ROSALÍA",
+                    "title": "TKN (feat. Travis Scott)",
+                    "uri": "4w47S36wQGBhGg073q3nt7"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ivy Lab",
+                    "title": "When I Go",
+                    "uri": "5EKXcCIPjXO0VxsQwArvd1"
+                },
+                {
+                    "artist": "Ivy Lab",
+                    "title": "Cake",
+                    "uri": "4vAO9SA5TmBA62kxjtXL96"
+                },
+                {
+                    "artist": "Ivy Lab",
+                    "title": "Idols Fall",
+                    "uri": "4rmOb88oPfFnhfpGelSHFc"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lisa Lisa & Cult Jam",
+                    "title": "I Wonder If I Take You Home (with Full Force)",
+                    "uri": "3ZIUOVEIjIlVbdyIynJoFq"
+                },
+                {
+                    "artist": "Lisa Lisa & Cult Jam",
+                    "title": "I Wonder If I Take You Home",
+                    "uri": "66Cp9d3MRXiCpQBfVZQN5w"
+                },
+                {
+                    "artist": "Lisa Lisa & Cult Jam",
+                    "title": "I Wonder If I Take You Home (with Full Force)",
+                    "uri": "3T2EHbivF5iEO9C9I2tDAJ"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Headphone Activist",
+                    "title": "Low End Theories",
+                    "uri": "4WjHg5z46k2Kny3thcjCyL"
+                },
+                {
+                    "artist": "A Tribe Called Quest",
+                    "title": "Excursions",
+                    "uri": "4tEaytMs86hIaOSsiGoLcP"
+                },
+                {
+                    "artist": "The Low Anthem",
+                    "title": "Charlie Darwin",
+                    "uri": "1S2l2iYY0wY6mbZLIpuzTl"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Donae'o",
+                    "title": "No Way",
+                    "uri": "3d7e44ourw8B2WWOmC7VGY"
+                },
+                {
+                    "artist": "Y3nng",
+                    "title": "Dañado",
+                    "uri": "2JrJO0S1tS2HTF2Al3pimv"
+                },
+                {
+                    "artist": "litl mari",
+                    "title": "No Way",
+                    "uri": "6Aw5MNUgJPNfBlxf7tSPYf"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Kelela",
+                    "title": "Let It Go",
+                    "uri": "1OFEzFogOuGlrjZt6jdz6l"
+                },
+                {
+                    "artist": "Kelela",
+                    "title": "Go All Night - Let it Burn",
+                    "uri": "6t7Zd9AJNwG8A5ScPnTavx"
+                },
+                {
+                    "artist": "Kelela",
+                    "title": "Let It Go - NGUZUNGUZU x DJ GAY-Z Remix",
+                    "uri": "3I4ayEm7FmgciICl1ZmWn6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kelela",
+                    "title": "Let It Go",
+                    "uri": "1OFEzFogOuGlrjZt6jdz6l"
+                },
+                {
+                    "artist": "Kelela",
+                    "title": "Let It Go - NGUZUNGUZU x DJ GAY-Z Remix",
+                    "uri": "3I4ayEm7FmgciICl1ZmWn6"
+                },
+                {
+                    "artist": "Willemijn Verkaik",
+                    "title": "Lass jetzt los - German Version",
+                    "uri": "5Yz86qgjWOvuZjxrxCk3q5"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Max Richter",
+                    "title": "Shadow Journal",
+                    "uri": "4cXFtk0n7aPjiypuF1HFaA"
+                },
+                {
+                    "artist": "Max Richter",
+                    "title": "Richter: Shadow Journal",
+                    "uri": "2qy5CqiuBv2xsS8EqNfxKd"
+                },
+                {
+                    "artist": "Max Richter",
+                    "title": "Richter: Shadow Journal",
+                    "uri": "1NZ7xEjRm7hBSnR7EpnTDF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Max Richter",
+                    "title": "Shadow Journal",
+                    "uri": "4cXFtk0n7aPjiypuF1HFaA"
+                },
+                {
+                    "artist": "Max Richter",
+                    "title": "Richter: Shadow Journal",
+                    "uri": "2qy5CqiuBv2xsS8EqNfxKd"
+                },
+                {
+                    "artist": "Max Richter",
+                    "title": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2012",
+                    "uri": "5xbuJuQsTVheVZvX2AJVIv"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "24HR Experience",
+                    "title": "Allnighter",
+                    "uri": "5QSxtdVROe2hPYXA1Hqu5d"
+                },
+                {
+                    "artist": "Mishaal Tamer",
+                    "title": "ALL NIGHT LONG",
+                    "uri": "0zprG792oR31uWPCkYbCJZ"
+                },
+                {
+                    "artist": "SUNMI",
+                    "title": "24 Hours",
+                    "uri": "4ayWErdGIvSo4o6a3lMVLt"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Katy B",
+                    "title": "Katy on a Mission",
+                    "uri": "47uhrF6IvyE2eUyyfLAEzf"
+                },
+                {
+                    "artist": "Katy B Diamond",
+                    "title": "Badonkadonk",
+                    "uri": "2xm9jwa1gWnFUhrdbwIl3U"
+                },
+                {
+                    "artist": "ROTE MÜTZE RAPHI",
+                    "title": "CHLOÉ",
+                    "uri": "6NeVgfQxFpehhlfzrUhpZB"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "FunkyStepz",
+                    "title": "For U - Dodge & Fuski Club Dub",
+                    "uri": "3he7RMu9yKwZCtAJK17Dwa"
+                },
+                {
+                    "artist": "FunkyStepz",
+                    "title": "For U - Dodge & Fuski Club Dub",
+                    "uri": "111fGwh2MC1f7Cao1JmMHc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "FunkyStepz",
+                    "title": "For U - Dodge & Fuski Club Dub",
+                    "uri": "3he7RMu9yKwZCtAJK17Dwa"
+                },
+                {
+                    "artist": "FunkyStepz",
+                    "title": "For U - Dodge & Fuski Remix",
+                    "uri": "6hzUIKvV87D1SYTdC5SO8V"
+                },
+                {
+                    "artist": "FunkyStepz",
+                    "title": "For U - Dodge & Fuski Club Dub",
+                    "uri": "111fGwh2MC1f7Cao1JmMHc"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Banda The Five",
+                    "title": "Perigo - Cover",
+                    "uri": "1AgrEWk5NxzzqE2AFkgO2Y"
+                },
+                {
+                    "artist": "Banda The Five",
+                    "title": "Faz Amor Comigo - Cover",
+                    "uri": "53BrzsgcOfY7ukITZjbAYW"
+                },
+                {
+                    "artist": "Banda The Five",
+                    "title": "Nem uma Carta - Cover",
+                    "uri": "5BlJERRqND8Nrp5jCaTRQy"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DJ Zinc",
+                    "title": "Get Wiser",
+                    "uri": "4wGyvgQCAoyI0XQVd5FH7Z"
+                },
+                {
+                    "artist": "DJ Zinc",
+                    "title": "Therapy",
+                    "uri": "14m8zaNe63k0jBzsCs1Flv"
+                },
+                {
+                    "artist": "DJ Zinc",
+                    "title": "Waste My Time",
+                    "uri": "6Dy8UR9dhacqq6BJlumXN1"
+                }
+            ]
+        }
+    },
     "soup-to-nuts-scratcha-9th-december-2022": {
         "00": {
             "s0": "",

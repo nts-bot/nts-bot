@@ -131,6 +131,106 @@
             "title": "Solace"
         }
     },
+    "sigourney-14th-march-2024": {
+        "00": {
+            "artist": "Cage",
+            "title": "In A Landscape"
+        },
+        "01": {
+            "artist": "Phillip Glass, ",
+            "title": "Music In Contrary Motion (Arr. Taktus For 2 Marimbas)"
+        },
+        "02": {
+            "artist": "Arvo Pärt, ",
+            "title": "Für Alina, For Piano Solo"
+        },
+        "03": {
+            "artist": "John Adams",
+            "title": "Phrygian Gates"
+        },
+        "04": {
+            "artist": "Tibor Szemző",
+            "title": "Vízicsoda = Water-Wonder"
+        },
+        "05": {
+            "artist": "Riley Lee, ",
+            "title": "Goldfish Through Summer Rain"
+        },
+        "06": {
+            "artist": "Peter Michael Hamel",
+            "title": "Transpersonal"
+        },
+        "07": {
+            "artist": "Paul Mottram, ",
+            "title": "Reverie"
+        },
+        "08": {
+            "artist": "Kate Moore",
+            "title": "Sliabh Beagh "
+        },
+        "09": {
+            "artist": "CTM",
+            "title": "Drama"
+        },
+        "10": {
+            "artist": "Simon Rackham",
+            "title": "Something in F"
+        }
+    },
+    "sigourney-15th-february-2024": {
+        "00": {
+            "artist": "Esbe",
+            "title": "Serenissima Remembered"
+        },
+        "01": {
+            "artist": "Spohr, ",
+            "title": "Menuetto: Allegro; Trio"
+        },
+        "02": {
+            "artist": "Maria Thompson Corley, ",
+            "title": "Spring Intermezzo"
+        },
+        "03": {
+            "artist": "Jasdeep Singh Degun",
+            "title": "Ulterior Motives"
+        },
+        "04": {
+            "artist": "Brahms, ",
+            "title": "String Quartet No.1 In C Minor Op. 51"
+        },
+        "05": {
+            "artist": "Pedro Soares",
+            "title": "A Malnascida"
+        },
+        "06": {
+            "artist": "Artur Rubinstein, ",
+            "title": "Romance In F-Sharp, Op. 28"
+        },
+        "07": {
+            "artist": "Vladimir Ashkenazy, ",
+            "title": "Italian Polka"
+        },
+        "08": {
+            "artist": "Nik Sheva",
+            "title": "Calm in a Storm"
+        },
+        "09": {
+            "artist": "Daniela Mars",
+            "title": "The Where is Right Here"
+        },
+        "10": {
+            "artist": "Daniela Mars",
+            "title": "Live Performance"
+        },
+        "11": {
+            "artist": "Daniela Mars",
+            "title": "Cliffs I"
+        },
+        "12": {
+            "artist": "Peter Belec, ",
+            "title": "Dreaming"
+        }
+    },
     "sigourney-16th-february-2023": {
         "00": {
             "artist": "Sandrayati",

@@ -1,4 +1,557 @@
 {
+    "nts-on-yaeji-15th-march-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Carly Rae Jepsen",
+                    "title": "Kollage",
+                    "uri": "6vX00oaG3bMuNBKxapoPYO"
+                },
+                {
+                    "artist": "Carly Rae Jepsen",
+                    "title": "The Loneliest Time (feat. Rufus Wainwright)",
+                    "uri": "6c6vULMrRuN4NECs2iB1xe"
+                },
+                {
+                    "artist": "Carly Rae Jepsen",
+                    "title": "Cut To The Feeling",
+                    "uri": "6EJiVf7U0p1BBfs0qqeb1f"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Special Request",
+                    "title": "Panaflex Sunrise",
+                    "uri": "3GrgagtQfTTbRXogzo1Y1O"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Special Request",
+                    "title": "Panaflex Sunrise",
+                    "uri": "3GrgagtQfTTbRXogzo1Y1O"
+                },
+                {
+                    "artist": "Panaflex",
+                    "title": "Dounreay",
+                    "uri": "3fqXXPW0TlmnHBealHU9dg"
+                },
+                {
+                    "artist": "Panaphonic",
+                    "title": "Sunrise Light",
+                    "uri": "26FbtIKZrVAkct4Idu2VTl"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Cassius",
+                    "title": "Feeling for You",
+                    "uri": "0UHhtA7tNKZaEPh7hYZVGP"
+                },
+                {
+                    "artist": "Summer Walker",
+                    "title": "Ex For A Reason (with JT from City Girls)",
+                    "uri": "1De7cOMrdUnVpjWBaowMg4"
+                },
+                {
+                    "artist": "Cassius",
+                    "title": "Toop Toop",
+                    "uri": "7cHhpJV9fC2AqgdiLvq1AO"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Amanda Bergman",
+                    "title": "Falcons",
+                    "uri": "7dL2Lsa6b6wfX5IzkdWGlY"
+                },
+                {
+                    "artist": "Falconshield",
+                    "title": "Forging On",
+                    "uri": "5wbHoqGfSjnl8ae6Szotq0"
+                },
+                {
+                    "artist": "Falconshield",
+                    "title": "Life Is Cruel, Death Is Kind",
+                    "uri": "1mjOfxHww0lmh6FDyhH4MM"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Premex",
+                    "title": "Maserati Coupé",
+                    "uri": "5wjqi8EVLqf2S7tdcm1UfL"
+                },
+                {
+                    "artist": "Sha",
+                    "title": "Maserati",
+                    "uri": "0qA3AAef76iegtmwu5evkc"
+                },
+                {
+                    "artist": "Dado Polumenta",
+                    "title": "Maserati",
+                    "uri": "6HwOPc75wwYxvfeEcr4vI7"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Simo Cell",
+                    "title": "Uranium",
+                    "uri": "3qyT9YrMtNOR4tZfCyZv8m"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Simo Cell",
+                    "title": "Uranium",
+                    "uri": "3qyT9YrMtNOR4tZfCyZv8m"
+                },
+                {
+                    "artist": "Elton Britt",
+                    "title": "Uranium Fever",
+                    "uri": "7IPzEPRs8Y3j0hieZ4wdYf"
+                },
+                {
+                    "artist": "Elton Britt",
+                    "title": "Uranium Fever",
+                    "uri": "0riEqqgCIT9lyecfqyQ1pK"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "DIN",
+                    "title": "Warm Up",
+                    "uri": "6AzFiHzD1QOAqA2OXAY8Kh"
+                },
+                {
+                    "artist": "dinonuggyNoah",
+                    "title": "WARM-UP",
+                    "uri": "0rizNmx8GH1PDhCDbCTPoS"
+                },
+                {
+                    "artist": "Chalk Dinosaur",
+                    "title": "Warm Me Up",
+                    "uri": "5P8ivQ8ZalgPJzjToN26jF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "NF",
+                    "title": "Warm Up",
+                    "uri": "7Gr8gb3hqKr4zEbFlrVYPQ"
+                },
+                {
+                    "artist": "Young Thug",
+                    "title": "Bad Bad Bad",
+                    "uri": "4OwkGxG0eJGTPAUxQGXbfv"
+                },
+                {
+                    "artist": "Winter Warm Up Jazz",
+                    "title": "Accepted Dinner",
+                    "uri": "0t9I3R422tj7eG6l1hJfR5"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mo",
+                    "title": "Loyalty",
+                    "uri": "1pf1TCq0IxtTlJxuyKnXek"
+                },
+                {
+                    "artist": "xxxmanera",
+                    "title": "Loyalty Before Royalty",
+                    "uri": "6pdDXBRgRpcyGXcXJthNYC"
+                },
+                {
+                    "artist": "Anna Simonetta",
+                    "title": "Loyalty (Reimagined) - Solo Piano",
+                    "uri": "6PI9MfA2wU4UlvffvMYLr7"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Cupp Cave",
+                    "title": "Dice Pool",
+                    "uri": "2LNyJC3XNijrx0kqy7UxG9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cupp Cave",
+                    "title": "Dice Pool",
+                    "uri": "2LNyJC3XNijrx0kqy7UxG9"
+                },
+                {
+                    "artist": "Cupp Cave",
+                    "title": "Mind Bones",
+                    "uri": "3Qjxq1H2LQwfs5IiDLy6rN"
+                },
+                {
+                    "artist": "cupcakKe",
+                    "title": "Cpr",
+                    "uri": "35mBYyB61qTcGGj7MXIRM1"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "DJ Haus",
+                    "title": "Feels So Good",
+                    "uri": "6P79t2mWfSn4vZFtmvZMqw"
+                },
+                {
+                    "artist": "DJ Juanito",
+                    "title": "Feels So Good 25th - Haus-A-Holics Remix",
+                    "uri": "421kUzq06hXGrmplKR7XhX"
+                },
+                {
+                    "artist": "DJ Haus",
+                    "title": "Feels So Good - Original Mix",
+                    "uri": "31L7fsZcGbBrhyOPD2AM8s"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "DJ Haus",
+                    "title": "Feels So Good",
+                    "uri": "6P79t2mWfSn4vZFtmvZMqw"
+                },
+                {
+                    "artist": "DJ Haus",
+                    "title": "Feels So Good - Original Mix",
+                    "uri": "31L7fsZcGbBrhyOPD2AM8s"
+                },
+                {
+                    "artist": "DJ Isaac",
+                    "title": "Feel So Good",
+                    "uri": "0fnrHmbApoVm9Zt8jIwKsi"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "IVOXYGEN",
+                    "title": "COLOR PILLS",
+                    "uri": "5VWtASbORcN1pkKZwLaDvR"
+                },
+                {
+                    "artist": "PELUCHE ON THE TRACK",
+                    "title": "COLOR",
+                    "uri": "4U8eBMGDKB2CUow1aULE5z"
+                },
+                {
+                    "artist": "USHER",
+                    "title": "Risk It All - From the Original Motion Picture “The Color Purple”",
+                    "uri": "0TOsAD3Eb1dHpnrGXhopGb"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "ARME",
+                    "title": "Dap Dap",
+                    "uri": "54bK5MsqyfWUdfBStHbs1F"
+                },
+                {
+                    "artist": "Jean-Pierre Armengaud",
+                    "title": "Études, 1Er Livre: I. Pour Les Cinq Doigts (D'Après Monsieur Czerny) (Sagement) (Debussy)",
+                    "uri": "10x8onMm1PFMfu3eP2otfP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Panteros666",
+                    "title": "DAP",
+                    "uri": "5xkVfkZHLbSoW00hEXNxBB"
+                },
+                {
+                    "artist": "Juice WRLD",
+                    "title": "Armed And Dangerous",
+                    "uri": "5wujBwqG7INdStqGd4tRMX"
+                },
+                {
+                    "artist": "MEL",
+                    "title": "Wenn du mich liebst",
+                    "uri": "2YCXF7ZA3aViKN3u177dPs"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Artful Dodger",
+                    "title": "Re-Rewind (feat. Craig David)",
+                    "uri": "6RcYHuaxUcLAr9O6e2tE10"
+                },
+                {
+                    "artist": "Artful Dodger",
+                    "title": "Re-Rewind - Wideboys Remix",
+                    "uri": "1Pj367hFieJqbU9M7bytw5"
+                },
+                {
+                    "artist": "Artful Dodger",
+                    "title": "Re-Rewind (feat. Craig David)",
+                    "uri": "5ahNngeND4ozaulrmxCbOj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Artful Dodger",
+                    "title": "Re-Rewind (feat. Craig David)",
+                    "uri": "6RcYHuaxUcLAr9O6e2tE10"
+                },
+                {
+                    "artist": "Artful Dodger",
+                    "title": "Re-Rewind (feat. Craig David)",
+                    "uri": "5ahNngeND4ozaulrmxCbOj"
+                },
+                {
+                    "artist": "Artful Dodger",
+                    "title": "Woman Trouble",
+                    "uri": "3Exlt0eFsokr3wS4D475Aw"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Beyoncé",
+                    "title": "Freakum Dress",
+                    "uri": "6O88FozhBr3uOChtlbMqnX"
+                },
+                {
+                    "artist": "Norah Jones",
+                    "title": "Can You Believe",
+                    "uri": "2DEbufzHZ6fm29NDaRoKKH"
+                },
+                {
+                    "artist": "4URA",
+                    "title": "Freak Out",
+                    "uri": "5XfwYRkqyJSsl31y3PZFIC"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "iZem",
+                    "title": "Major Stef",
+                    "uri": "5BV9oL4iOhxM72WWra9z29"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "iZem",
+                    "title": "Major Stef",
+                    "uri": "5BV9oL4iOhxM72WWra9z29"
+                },
+                {
+                    "artist": "Captain Traumschiff",
+                    "title": "Major Tom (Völlig Losgelöst)",
+                    "uri": "6XuWggjR4pdDGZ4OsnDdp0"
+                },
+                {
+                    "artist": "Felix Harrer",
+                    "title": "Major Tom",
+                    "uri": "1yta7uq1RukAzZPSd0bZYi"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Walton",
+                    "title": "Frisbee",
+                    "uri": "0HEjq3KkXwfhxA1R2knQmH"
+                },
+                {
+                    "artist": "Walton",
+                    "title": "Deshavier Loves Video Games, Driving, and Frisbee",
+                    "uri": "0UQkyqNwHdj5tt5046jk4Z"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Walton",
+                    "title": "Frisbee",
+                    "uri": "0HEjq3KkXwfhxA1R2knQmH"
+                },
+                {
+                    "artist": "Walton",
+                    "title": "Deshavier Loves Video Games, Driving, and Frisbee",
+                    "uri": "0UQkyqNwHdj5tt5046jk4Z"
+                },
+                {
+                    "artist": "Daniel Caine Orchestra",
+                    "title": "The Waltons",
+                    "uri": "1YHIpik2VKQAFiNoNWeRkJ"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "LPR(Lyrical Poetic Rhyme-Master)",
+                    "title": "Throw Dem Bows",
+                    "uri": "67wL4GCXqSzklmFIjupnDs"
+                },
+                {
+                    "artist": "ALIN",
+                    "title": "LPS",
+                    "uri": "1YvqR2JxlsbzvxQw0jWZaV"
+                },
+                {
+                    "artist": "LXKXS",
+                    "title": "LXST CHXNCE",
+                    "uri": "0DoDsooOfMOubojgrSQ3Jw"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Oliver Scheffner",
+                    "title": "Life Is a Circle",
+                    "uri": "3yzIJFjrliscULnO9NwkfS"
+                },
+                {
+                    "artist": "Eagle & Hawk",
+                    "title": "Life Is A Circle",
+                    "uri": "0daILsTvVDsewrc0gI65WB"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "KAYTRANADA",
+                    "title": "Hilarity Duff",
+                    "uri": "1mjYcSJWnaysFztuekQEh0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "KAYTRANADA",
+                    "title": "Hilarity Duff",
+                    "uri": "1mjYcSJWnaysFztuekQEh0"
+                },
+                {
+                    "artist": "KAYTRANADA",
+                    "title": "At All",
+                    "uri": "35iNiYHSzx3sv6XuqYh8HJ"
+                },
+                {
+                    "artist": "Galt MacDermot",
+                    "title": "Duffer in F (Version 2)",
+                    "uri": "0hw7hcbmKIxWNfptV8fNfz"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Baby D",
+                    "title": "Let Me Be Your Fantasy - Original Radio Edit",
+                    "uri": "3x4skRSE10kW3hIpAQjtWY"
+                },
+                {
+                    "artist": "Palm Trees",
+                    "title": "Casanova (Bootycallers Remix) - Radio Edit",
+                    "uri": "1UdkUECSKj6stmsEhqPkYU"
+                },
+                {
+                    "artist": "KELTEK",
+                    "title": "Down To Earth",
+                    "uri": "0WLpcRqZeMsLVS66XeJW1z"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Outkast",
+                    "title": "Elevators (Me & You)",
+                    "uri": "2oLwDI8tZUOh6SmTMRRfKs"
+                },
+                {
+                    "artist": "Outkast",
+                    "title": "Elevators (Me & You)",
+                    "uri": "1QAzMMLtJXRnXzzNJcrk8i"
+                },
+                {
+                    "artist": "Outkast",
+                    "title": "Elevators (Me & You) - ONP 86 Mix",
+                    "uri": "3VO93aw7fZhxKk43pr2RTE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Outkast",
+                    "title": "Elevators (Me & You)",
+                    "uri": "2oLwDI8tZUOh6SmTMRRfKs"
+                },
+                {
+                    "artist": "Outkast",
+                    "title": "Elevators (Me & You)",
+                    "uri": "1QAzMMLtJXRnXzzNJcrk8i"
+                },
+                {
+                    "artist": "Outkast",
+                    "title": "Elevators (Me & You) - ONP 86 Mix",
+                    "uri": "3VO93aw7fZhxKk43pr2RTE"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "NO EMOTION",
+                    "title": "Halo - Techno Version",
+                    "uri": "1WdEHmvE4UdyDv3BWRPUVq"
+                },
+                {
+                    "artist": "Burna Boy",
+                    "title": "Normal",
+                    "uri": "4EDMfKmlvrDemvJBcoZvHk"
+                },
+                {
+                    "artist": "Nora Istrefi",
+                    "title": "Gati",
+                    "uri": "3Jn2Y26Cdqi4s5k97SUVUz"
+                }
+            ]
+        }
+    },
     "nts-on-yaeji-24th-february-2024": {
         "00": {
             "s0": "",
