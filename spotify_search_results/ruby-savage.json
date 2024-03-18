@@ -1447,6 +1447,770 @@
             ]
         }
     },
+    "ruby-savage-16th-march-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "DJ Harrison",
+                    "title": "Lil Birdie",
+                    "uri": "3ZlM3jTgrfTYp7AlASBJm4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "DJ Harrison",
+                    "title": "Lil Birdie",
+                    "uri": "3ZlM3jTgrfTYp7AlASBJm4"
+                },
+                {
+                    "artist": "DJ Harrison",
+                    "title": "Door #1/Door #2",
+                    "uri": "64GvDCraIDq3rGihYQoGpz"
+                },
+                {
+                    "artist": "Irvin Tatton",
+                    "title": "Little Birdie Steve",
+                    "uri": "40hfS3lHTqqbDdqxJPb5nm"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Diana Ross",
+                    "title": "My Old Piano",
+                    "uri": "4d4yVNYVwxrNsy5ukJ4QTJ"
+                },
+                {
+                    "artist": "Diana Ross & The Supremes",
+                    "title": "Love Child",
+                    "uri": "69EILuL34ggLWQsa626bes"
+                },
+                {
+                    "artist": "Diana Ross",
+                    "title": "If The World Just Danced - MOTi Remix",
+                    "uri": "7kEh6jNlJOAhC0lv6XV3iw"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Shake",
+                    "title": "Lost in Space (edit)",
+                    "uri": "2tUB8ENnsZP61qCn6rHNpT"
+                },
+                {
+                    "artist": "Shake Some Action!",
+                    "title": "Lost in Space",
+                    "uri": "3ts8GZNMIhVW9vwngGOip4"
+                },
+                {
+                    "artist": "Shakedown Provider",
+                    "title": "Lost in Space (Talking to Aliens)",
+                    "uri": "1Y4INwDsrcTnGFAcRiwJq5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Shake",
+                    "title": "Lost in Space (edit)",
+                    "uri": "2tUB8ENnsZP61qCn6rHNpT"
+                },
+                {
+                    "artist": "Shake",
+                    "title": "Music Is The Only Way I Can Cominicate (edit)",
+                    "uri": "0C1yeFcOgpf3CazL5DhTQt"
+                },
+                {
+                    "artist": "IShowSpeed",
+                    "title": "Shake, Pt. 2 - Get Get Down Version",
+                    "uri": "2AxuA0uGFuizelViYhaHgh"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Shyne",
+                    "title": "Bonnie & Shyne (feat. Barrington Levy)",
+                    "uri": "0UmIdWRGDL5gkXnqG9ZozM"
+                },
+                {
+                    "artist": "Shyne",
+                    "title": "Bonnie & Shyne (feat. Barrington Levy) - 2016 Remaster",
+                    "uri": "6TTXEIlXPlMAgqSnuDWgEo"
+                },
+                {
+                    "artist": "Shyne",
+                    "title": "Bonnie & Shyne (feat. Barrington Levy) - 2016 Remaster",
+                    "uri": "4UMh1Akqx5wRewrlZTPahf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Shyne",
+                    "title": "Bonnie & Shyne (feat. Barrington Levy)",
+                    "uri": "0UmIdWRGDL5gkXnqG9ZozM"
+                },
+                {
+                    "artist": "Shyne",
+                    "title": "Bonnie & Shyne (feat. Barrington Levy) - 2016 Remaster",
+                    "uri": "4UMh1Akqx5wRewrlZTPahf"
+                },
+                {
+                    "artist": "YUQI",
+                    "title": "Bonnie & Clyde",
+                    "uri": "21aIsunB7PfZI0vlIoaJPh"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Jon Lucien",
+                    "title": "Come With Me To Rio",
+                    "uri": "2yzHOq7FhdO51H2TRCALyN"
+                },
+                {
+                    "artist": "Jon Lucien",
+                    "title": "Come With Me To Rio",
+                    "uri": "5B3FMiaKz6OC8fik0T8GGI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jon Lucien",
+                    "title": "Come With Me To Rio",
+                    "uri": "2yzHOq7FhdO51H2TRCALyN"
+                },
+                {
+                    "artist": "Jon Lucien",
+                    "title": "Who Will Buy?",
+                    "uri": "3Psq178wktjBVJJb6vHB1q"
+                },
+                {
+                    "artist": "Jon Lucien",
+                    "title": "Come With Me To Rio",
+                    "uri": "5B3FMiaKz6OC8fik0T8GGI"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Moodymann",
+                    "title": "Downtown",
+                    "uri": "6IINWQmci3JUYMynPr61RC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Moodymann",
+                    "title": "Downtown",
+                    "uri": "6IINWQmci3JUYMynPr61RC"
+                },
+                {
+                    "artist": "Moodymann",
+                    "title": "Lyk U Use 2 (feat. Andres)",
+                    "uri": "4ncFRft2xEs4kanULQjaOz"
+                },
+                {
+                    "artist": "The Moody Blues",
+                    "title": "Nights In White Satin - Single Version / Mono",
+                    "uri": "6L5BZEcZmD6RBJnimzlyKr"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "SAULT",
+                    "title": "Higher",
+                    "uri": "0qnsUg7opCIpsBFHv0u7W1"
+                },
+                {
+                    "artist": "SAULT",
+                    "title": "Luos Higher",
+                    "uri": "023i6Y5wgtl0fiEnobXWrK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "SAULT",
+                    "title": "Higher",
+                    "uri": "0qnsUg7opCIpsBFHv0u7W1"
+                },
+                {
+                    "artist": "SAULT",
+                    "title": "Luos Higher",
+                    "uri": "023i6Y5wgtl0fiEnobXWrK"
+                },
+                {
+                    "artist": "Creed",
+                    "title": "Higher",
+                    "uri": "1ZozJfi8u9cO2Ob8KwiwNT"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Roger Robinson",
+                    "title": "Bun Bun Bun",
+                    "uri": "70EEABgj730PPqyZ6g6uTA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Roger Robinson",
+                    "title": "Bun Bun Bun",
+                    "uri": "70EEABgj730PPqyZ6g6uTA"
+                },
+                {
+                    "artist": "Anton Lehmann",
+                    "title": "Bum Bum Klatsch",
+                    "uri": "2pQL6MXSFh1cAQajCS4OPn"
+                },
+                {
+                    "artist": "2KE",
+                    "title": "BUM BUM SHAKATAKA",
+                    "uri": "4WiMqofMecOVeVgxscD43Q"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Delano Smith",
+                    "title": "Sunset - RIP - Original Mix",
+                    "uri": "15y7XzXn0fqi1KgEYveimw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Delano Smith",
+                    "title": "Sunset - RIP - Original Mix",
+                    "uri": "15y7XzXn0fqi1KgEYveimw"
+                },
+                {
+                    "artist": "Delano Smith",
+                    "title": "Ancestors - Deep Mix",
+                    "uri": "4F1D6RRUj4t8UUEezA4NPy"
+                },
+                {
+                    "artist": "Delano",
+                    "title": "Na Ponta Ela Fica",
+                    "uri": "1OtZIaJBXo3Pe6nfaMsjKT"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Trackhead",
+                    "title": "Indian Summer",
+                    "uri": "6dny5vlcHJCZ92ZbMplFhs"
+                },
+                {
+                    "artist": "Saace",
+                    "title": "Trackhawk",
+                    "uri": "0fGTyjpzpjsKctQXJvuvlK"
+                },
+                {
+                    "artist": "BBY GOYARD",
+                    "title": "Trackhawk",
+                    "uri": "5Wxlkp4WxVOtLpExENh8Y3"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "GeeW",
+                    "title": "Still In Love",
+                    "uri": "0quJImSDH6LnOZxjroCHFx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "GeeW",
+                    "title": "Still In Love",
+                    "uri": "0quJImSDH6LnOZxjroCHFx"
+                },
+                {
+                    "artist": "That Boy Lavish",
+                    "title": "GOODBYE",
+                    "uri": "434T8opcVSERLamHMA0FHH"
+                },
+                {
+                    "artist": "Back to Earth",
+                    "title": "Still In Love (first Part)",
+                    "uri": "6q7i2WAK2HAIGpPEBzFFxi"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Blaze",
+                    "title": "BREATH",
+                    "uri": "7jRiYlv4KQU2vT6lG7I1to"
+                },
+                {
+                    "artist": "Télépopmusik",
+                    "title": "Breathe",
+                    "uri": "0uKrhHBDUQ4w5fv4qwOubP"
+                },
+                {
+                    "artist": "zeck",
+                    "title": "breathe",
+                    "uri": "3KdHgvZphqrsIQAxfE5TeJ"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Stacey Kent",
+                    "title": "Que rest-t-il de nos amours?",
+                    "uri": "6QZ2OZGes6LAku3d5rIAeX"
+                },
+                {
+                    "artist": "Stacey Kent",
+                    "title": "Photograph",
+                    "uri": "2XDNzwJkyFfqqnc1FP8UJg"
+                },
+                {
+                    "artist": "Stacey Kent",
+                    "title": "In the Wee Small Hours of the Morning",
+                    "uri": "1PZAvwzzhQrK85uQhUXIR4"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Marley Marl",
+                    "title": "Joy (Hallelujah) Extended - Extended Version",
+                    "uri": "525FyfifOZtwPiXxhfTOFT"
+                },
+                {
+                    "artist": "Markant",
+                    "title": "Hallelujah",
+                    "uri": "1T25yzZeRk3D4uXSYdnork"
+                },
+                {
+                    "artist": "DJ Marky",
+                    "title": "All 4 U",
+                    "uri": "2mPeYGo1y7vwkz6vU5dVbI"
+                }
+            ]
+        }
+    },
+    "ruby-savage-17th-february-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Jay Daniel",
+                    "title": "Muse",
+                    "uri": "73IAB5fDdHoQ6YAm3WvsEe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jay Daniel",
+                    "title": "Muse",
+                    "uri": "73IAB5fDdHoQ6YAm3WvsEe"
+                },
+                {
+                    "artist": "Muse",
+                    "title": "Plug in Baby",
+                    "uri": "2UKARCqDrhkYDoVR4FN5Wi"
+                },
+                {
+                    "artist": "Raymond Schroyens",
+                    "title": "Les muses gaillardes: No. 3, La mort, que tant j'ay desiree",
+                    "uri": "4LjCkTIPS2sjlHky9yj4Ej"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "3582",
+                    "title": "Mc²",
+                    "uri": "3p8sXEKR3ctmm5bNbNfMq9"
+                },
+                {
+                    "artist": "3582",
+                    "title": "MC² (Instrumental)",
+                    "uri": "1JtOWhogdcEQOjbIfDri73"
+                },
+                {
+                    "artist": "Wolfgang Amadeus Mozart",
+                    "title": "Piano Concerto No. 21 in C Major, K. 467: II. Andante",
+                    "uri": "21E5Ey1d4pH0iapM0KSNVk"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "The Blackbyrds",
+                    "title": "Dreaming Of You",
+                    "uri": "7im1uVdOHRYhJVYFHvZ7xl"
+                },
+                {
+                    "artist": "The Blackbyrds",
+                    "title": "Dreaming Of You",
+                    "uri": "5eeCtUfSMGT9XrsUVQi8S8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Blackbyrds",
+                    "title": "Dreaming Of You",
+                    "uri": "7im1uVdOHRYhJVYFHvZ7xl"
+                },
+                {
+                    "artist": "The Blackbyrds",
+                    "title": "Dreaming Of You",
+                    "uri": "5eeCtUfSMGT9XrsUVQi8S8"
+                },
+                {
+                    "artist": "The Beatles",
+                    "title": "Blackbird - Remastered 2009",
+                    "uri": "5jgFfDIR6FR0gvlA56Nakr"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Patrice Rushen",
+                    "title": "Forget Me Nots - Remastered",
+                    "uri": "4UQH52FfgGpzDShKDbBvEA"
+                },
+                {
+                    "artist": "Patrice Rushen",
+                    "title": "Remind Me - Remastered",
+                    "uri": "4nFtNdjJtuRXmThiJo7Z5t"
+                },
+                {
+                    "artist": "Patrice Rushen",
+                    "title": "Forget Me Nots - Remastered",
+                    "uri": "5ERZGchTi6sysVmA913Ryx"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Debbie Cameron",
+                    "title": "Stop Foolin' Yourself",
+                    "uri": "4kvaUipdpG9QS2HMHn0MdD"
+                },
+                {
+                    "artist": "Debbie Cameron",
+                    "title": "Stop Foolin' Yourself",
+                    "uri": "5psXT8KLYZgF2usaoUCLkN"
+                },
+                {
+                    "artist": "Debbie Cameron",
+                    "title": "Stop Foolin' Yourself (feat. Thomas Clausen & Mads Vinding)",
+                    "uri": "0Le4Kz5WXDNHfeOhZ00hPX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Debbie Cameron",
+                    "title": "Stop Foolin' Yourself",
+                    "uri": "4kvaUipdpG9QS2HMHn0MdD"
+                },
+                {
+                    "artist": "Debbie Cameron",
+                    "title": "Stop Foolin' Yourself",
+                    "uri": "5psXT8KLYZgF2usaoUCLkN"
+                },
+                {
+                    "artist": "Debbie",
+                    "title": "Rain",
+                    "uri": "2WQvKZwVrLGQmriYmQqU6o"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Sugar Minott",
+                    "title": "One Step Ahead",
+                    "uri": "4lyIaHmlanxH7xHwHQ7und"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sugar Minott",
+                    "title": "One Step Ahead",
+                    "uri": "4lyIaHmlanxH7xHwHQ7und"
+                },
+                {
+                    "artist": "Victor Axelrod",
+                    "title": "One Step Ahead",
+                    "uri": "7xLwzs1EX5wYbmurZUwQiG"
+                },
+                {
+                    "artist": "Sugar Minott",
+                    "title": "Good Thing Going",
+                    "uri": "4VAgc32HtWx5Rm7x6FXVzL"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Side Effect",
+                    "title": "Midnight Lover",
+                    "uri": "4QMs5EI03D0EfmJoolX4Ci"
+                },
+                {
+                    "artist": "Side Effect",
+                    "title": "Midnight Lover",
+                    "uri": "1JidU18Tit6ftYZZydqN97"
+                },
+                {
+                    "artist": "Side Effect",
+                    "title": "Midnight Lover",
+                    "uri": "3gXh9WBz3JnfbprQPCkcFg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Side Effect",
+                    "title": "Midnight Lover",
+                    "uri": "4QMs5EI03D0EfmJoolX4Ci"
+                },
+                {
+                    "artist": "Side Effect",
+                    "title": "Midnight Lover",
+                    "uri": "3gXh9WBz3JnfbprQPCkcFg"
+                },
+                {
+                    "artist": "girl in red",
+                    "title": "midnight love",
+                    "uri": "32XaqPVTVkkuOiOPQZ3SpA"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Zepherin Saint",
+                    "title": "Give Me the Sunshine - Radio Mix",
+                    "uri": "3J9w2q4ih6KiepK0BhnaEb"
+                },
+                {
+                    "artist": "Zepherin Saint",
+                    "title": "Give Me the Sunshine - Extended Mix",
+                    "uri": "37Cs2WGL3JwUVCSXGMvFIS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Zepherin Saint",
+                    "title": "Give Me the Sunshine - Radio Mix",
+                    "uri": "3J9w2q4ih6KiepK0BhnaEb"
+                },
+                {
+                    "artist": "Zepherin Saint",
+                    "title": "Give Me the Sunshine - Extended Mix",
+                    "uri": "37Cs2WGL3JwUVCSXGMvFIS"
+                },
+                {
+                    "artist": "Con Alma",
+                    "title": "Zephyr",
+                    "uri": "0CNhH6mjashU1e7z0j1LXl"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Han Litz",
+                    "title": "Flute Passion - Daz-I-Kue Remix",
+                    "uri": "5CVajU50vhJFizfFJp1uE5"
+                },
+                {
+                    "artist": "Barcode Brothers",
+                    "title": "Flute - Radio Edit",
+                    "uri": "5JJJvX5q8IXWAbaspeoTE1"
+                },
+                {
+                    "artist": "New World Sound",
+                    "title": "Flute - Radio Mix",
+                    "uri": "2HBe1hMofcMQV2n5mhV8zu"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Roy Ayers",
+                    "title": "Sugar",
+                    "uri": "67OYjANxdP2N5im7mwjI6m"
+                },
+                {
+                    "artist": "Roy Ayers",
+                    "title": "Sugar - The Reflex Revision",
+                    "uri": "77eBJKMkUNVz2a72O1TcEk"
+                },
+                {
+                    "artist": "Roy Ayers",
+                    "title": "Sugar - Joey Negro Mix",
+                    "uri": "7qZDoCtfNzlmbdTg1DGo8f"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Roy Ayers",
+                    "title": "Sugar",
+                    "uri": "67OYjANxdP2N5im7mwjI6m"
+                },
+                {
+                    "artist": "Roy Ayers",
+                    "title": "Sugar - The Reflex Revision",
+                    "uri": "77eBJKMkUNVz2a72O1TcEk"
+                },
+                {
+                    "artist": "Roy Ayers Ubiquity",
+                    "title": "Everybody Loves The Sunshine",
+                    "uri": "5le4sn0iMcnKU56bdmNzso"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "General Ludd",
+                    "title": "Brothers and Sisters",
+                    "uri": "7souaHutKhzxDR3wochlyx"
+                },
+                {
+                    "artist": "General Ludd",
+                    "title": "Brothers and Sisters",
+                    "uri": "5xhP5Dc4ge5XNvyipMt3KS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "General Ludd",
+                    "title": "Brothers and Sisters",
+                    "uri": "7souaHutKhzxDR3wochlyx"
+                },
+                {
+                    "artist": "General Ludd",
+                    "title": "Brothers and Sisters",
+                    "uri": "5xhP5Dc4ge5XNvyipMt3KS"
+                },
+                {
+                    "artist": "General Levy",
+                    "title": "Addicted to the Grade",
+                    "uri": "6AhaSNHrR7sMC4VZMzEQaG"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Ash Walker",
+                    "title": "Afronaught - Ron Trent Remix",
+                    "uri": "1MaDoQF0udclBVRELAcH5u"
+                },
+                {
+                    "artist": "Ash Walker",
+                    "title": "Afronaught",
+                    "uri": "193rWNbGSDWxXwhzdYMIOr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ash Walker",
+                    "title": "Afronaught - Ron Trent Remix",
+                    "uri": "1MaDoQF0udclBVRELAcH5u"
+                },
+                {
+                    "artist": "Ash Walker",
+                    "title": "Afronaught",
+                    "uri": "193rWNbGSDWxXwhzdYMIOr"
+                },
+                {
+                    "artist": "Ash Walker",
+                    "title": "Precinct",
+                    "uri": "6y62ipYz8cZOqGukkE36KR"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "musclecars",
+                    "title": "Running Out Of Time",
+                    "uri": "4F3O8WvckHGFSlheZ3yc1v"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "musclecars",
+                    "title": "Running Out Of Time",
+                    "uri": "4F3O8WvckHGFSlheZ3yc1v"
+                },
+                {
+                    "artist": "Evgeny Bardyuzha",
+                    "title": "Muscle Car",
+                    "uri": "3E49UNQCbpct7CU4pGbTem"
+                },
+                {
+                    "artist": "Muse",
+                    "title": "Muscle Museum",
+                    "uri": "5rupf5kRDLhhFPxH15ZmBF"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "The Rurals",
+                    "title": "Rebel",
+                    "uri": "51HcqPqRceBFTqGuXaqRNt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Rurals",
+                    "title": "Rebel",
+                    "uri": "51HcqPqRceBFTqGuXaqRNt"
+                },
+                {
+                    "artist": "The Rural Alberta Advantage",
+                    "title": "Don't Haunt This Place",
+                    "uri": "4nVfmii8T3OKMm8zRBPCiO"
+                },
+                {
+                    "artist": "The Rural Alberta Advantage",
+                    "title": "Brother",
+                    "uri": "1NRKgfSA2WiArhtTEipA4n"
+                }
+            ]
+        }
+    },
     "ruby-savage-18th-february-2023": {
         "00": {
             "s0": [
