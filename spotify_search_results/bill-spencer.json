@@ -3096,6 +3096,339 @@
             ]
         }
     },
+    "bill-spencer-17th-march-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "ABRA",
+                    "title": "Fruit",
+                    "uri": "4SExof7SNMmYgTmgE8TBrE"
+                },
+                {
+                    "artist": "Fruit Junior",
+                    "title": "Eight Hours",
+                    "uri": "0G6I2K2DU70tZkrdVZ3hxZ"
+                },
+                {
+                    "artist": "The Straikerz",
+                    "title": "Fruits & Veggies",
+                    "uri": "6nD8iBwesebvt50LHWvQRN"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Da Weasel",
+                    "title": "Re-tratamento",
+                    "uri": "0YtFqZhheQZIrVc0qbqL8D"
+                },
+                {
+                    "artist": "Lullaby Time",
+                    "title": "Pop Goes the Weasel",
+                    "uri": "3kJtQ79tvaCFkCiXtpPfBw"
+                },
+                {
+                    "artist": "Sleepy World",
+                    "title": "Pop Goes the Weasel",
+                    "uri": "48FoEJfFxO0fKDLVFjIt2f"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Chris Coco",
+                    "title": "Guaguancoco - John Beltran Version",
+                    "uri": "0K07BZOiAArjSLfTH0IQcG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chris Coco",
+                    "title": "Guaguancoco - John Beltran Version",
+                    "uri": "0K07BZOiAArjSLfTH0IQcG"
+                },
+                {
+                    "artist": "John Beltran",
+                    "title": "Outro",
+                    "uri": "1aXbhtdLK2bYV9ALLjFyOq"
+                },
+                {
+                    "artist": "John Beltran",
+                    "title": "As The Sun",
+                    "uri": "0baHmScZuO8t7aQyBiih2f"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ruby Rushton",
+                    "title": "Trudi's Mood",
+                    "uri": "1TaVuTJt4KaZ3od5tGYSnv"
+                },
+                {
+                    "artist": "Ruby Rushton",
+                    "title": "Trudi's Mood, Pt. 2",
+                    "uri": "2qj72oDFr3wuIFBugdhuce"
+                },
+                {
+                    "artist": "Kleu",
+                    "title": "Rudy, A Message To You",
+                    "uri": "1V0jM9nrzMXGOTouXbE2ay"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Androo",
+                    "title": "Hanko - Percussion Dub Mix",
+                    "uri": "6nkaYbhe9u9QwR2FgYFF1i"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Androo",
+                    "title": "Hanko - Percussion Dub Mix",
+                    "uri": "6nkaYbhe9u9QwR2FgYFF1i"
+                },
+                {
+                    "artist": "Andro",
+                    "title": "Ночной рейс",
+                    "uri": "5fxYcm1pBQ6Wnqj1N5npQX"
+                },
+                {
+                    "artist": "The Limba",
+                    "title": "X.O",
+                    "uri": "6o92Z50qYohU4Q03xbMneu"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Somnolence",
+                    "title": "Tranquility",
+                    "uri": "6CbPp21JO1ZFFVkP9vism2"
+                },
+                {
+                    "artist": "Tranquility Spa",
+                    "title": "They can’t live",
+                    "uri": "1WnP7YURgLOv4OC588Q5Jq"
+                },
+                {
+                    "artist": "Lunar Skybox",
+                    "title": "Tranquility Bayview",
+                    "uri": "5Htl4hVzPmAUbESPxs4RzB"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Eastern Sun",
+                    "title": "Rapture At Sea",
+                    "uri": "7aRL8SpG1Wm1PZNGK1cRYg"
+                },
+                {
+                    "artist": "Eastern Sun and John Kelley",
+                    "title": "Rapture at Sea",
+                    "uri": "0HdeZ0MFWni6PQhWp5htQj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eastern Sun",
+                    "title": "Rapture At Sea",
+                    "uri": "7aRL8SpG1Wm1PZNGK1cRYg"
+                },
+                {
+                    "artist": "Eastern Sun and John Kelley",
+                    "title": "Rapture at Sea",
+                    "uri": "0HdeZ0MFWni6PQhWp5htQj"
+                },
+                {
+                    "artist": "Ayla Nereo",
+                    "title": "Eastern Sun",
+                    "uri": "7ipiXzS2bntcbSorEK22nh"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Duval",
+                    "title": "Una Vez",
+                    "uri": "09lnvEBrrbQoGZ5zYYH2nh"
+                },
+                {
+                    "artist": "Mich Duval",
+                    "title": "Una Vez Más",
+                    "uri": "7E4pFD7XZmCQvHIrYbE2O7"
+                },
+                {
+                    "artist": "José Luis Duval",
+                    "title": "Solamente una Vez",
+                    "uri": "7DHfUdZJTm0I0hJxNwVe3x"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Duval",
+                    "title": "Una Vez",
+                    "uri": "09lnvEBrrbQoGZ5zYYH2nh"
+                },
+                {
+                    "artist": "Mich Duval",
+                    "title": "Una Vez Más",
+                    "uri": "7E4pFD7XZmCQvHIrYbE2O7"
+                },
+                {
+                    "artist": "Bad Bunny",
+                    "title": "Una Vez",
+                    "uri": "5J7teKIJGtqVypgYI6sqXj"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Moody Boyz",
+                    "title": "Shango (Pray to the Thunder God)",
+                    "uri": "0phP1mw2S4Wtfz95opH2Ei"
+                },
+                {
+                    "artist": "Moody Boyz",
+                    "title": "Shango (Pray To The Thunder God)",
+                    "uri": "6Z7P8OZPNOkkukd42zW5YY"
+                },
+                {
+                    "artist": "The Moody Boyz",
+                    "title": "Shango (Pray to the Thunder God) - Original Version",
+                    "uri": "3sdVJb1dwDwj25IXsfatSo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Moody Boyz",
+                    "title": "Shango (Pray to the Thunder God)",
+                    "uri": "0phP1mw2S4Wtfz95opH2Ei"
+                },
+                {
+                    "artist": "Moody Boyz",
+                    "title": "Shango (Pray To The Thunder God)",
+                    "uri": "6Z7P8OZPNOkkukd42zW5YY"
+                },
+                {
+                    "artist": "The Moody Blues",
+                    "title": "Go Now",
+                    "uri": "7mnDpb8u9sqeJ9uu1x3H2I"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Azimov",
+                    "title": "Deep Breath",
+                    "uri": "0I08VvBBDGxoX4okW4VPl3"
+                },
+                {
+                    "artist": "Azimov",
+                    "title": "Deep Breath",
+                    "uri": "6r2TtFvfXrjD5AlvfHQec0"
+                },
+                {
+                    "artist": "Calmly",
+                    "title": "Gentle Breeze",
+                    "uri": "2EcQBTvscJziqBTOu9JsNI"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Earth Nation",
+                    "title": "The Ikarus Syndrome",
+                    "uri": "6oMosrkYqZ38rCsfb4XHZH"
+                },
+                {
+                    "artist": "Earth Nation",
+                    "title": "Outburst",
+                    "uri": "5DtfQAQoOXzaxY8tItyJFN"
+                },
+                {
+                    "artist": "HÆLOS",
+                    "title": "Earth Not Above",
+                    "uri": "5VDP0vZcOk7zNGJZpVrX9W"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Nav Katze",
+                    "title": "Heaven Electric",
+                    "uri": "2dz9uAEwUL0BgHsEJFkzsS"
+                },
+                {
+                    "artist": "Nav Katze",
+                    "title": "Heaven -disjecta- Electric(Seefeel Mix)",
+                    "uri": "3BSSVv9OlympRZ4pBdnMdo"
+                },
+                {
+                    "artist": "Nav Katze",
+                    "title": "Heaven Electric",
+                    "uri": "1EQwb9JaIPAkbL8xcq2jHz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nav Katze",
+                    "title": "Heaven Electric",
+                    "uri": "2dz9uAEwUL0BgHsEJFkzsS"
+                },
+                {
+                    "artist": "Nav Katze",
+                    "title": "Heaven -disjecta- Electric(Seefeel Mix)",
+                    "uri": "3BSSVv9OlympRZ4pBdnMdo"
+                },
+                {
+                    "artist": "Kiddys Corner Band",
+                    "title": "Die Katze Mathilda",
+                    "uri": "01H9vap1SwzASh9wUDvNyA"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "OSAMU SATO",
+                    "title": "EASTERN MIND - TONG NOU ZEN MIX",
+                    "uri": "15aKifCCbgZgZxRYhX7yWi"
+                },
+                {
+                    "artist": "Susumu Yokota",
+                    "title": "Tobiume",
+                    "uri": "4IQWc6rhJwpFrRKBLx27X6"
+                },
+                {
+                    "artist": "Pisca",
+                    "title": "OYASUMI SAIDO",
+                    "uri": "5glB2fROnWwL3o3X96E5Ap"
+                }
+            ]
+        }
+    },
     "bill-spencer-17th-september-2023": {
         "00": {
             "s0": "",

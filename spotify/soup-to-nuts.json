@@ -1,4 +1,192 @@
 {
+    "soup-to-nuts-13th-february-2024": {
+        "00": {
+            "artist": "Pastor T.L. Barrett and the Youth for Christ Choir",
+            "ratio": 9,
+            "title": "Nobody Knows",
+            "trackid": "2TM24qZOOgsmA94g6Ovy48"
+        },
+        "01": {
+            "artist": "Gino Soccio",
+            "ratio": 6,
+            "title": "Try It Out",
+            "trackid": "2hX4jY6URV3FsPgC7jqDAS"
+        },
+        "02": {
+            "artist": "Alexander O'Neal",
+            "ratio": 4,
+            "title": "If You Were Here Tonight",
+            "trackid": "1zl5xOvzInBy7esv1UAnrc"
+        },
+        "03": {
+            "artist": "Tomek",
+            "ratio": 9,
+            "title": "Love Music",
+            "trackid": "2CTlLbHXj7nu8K2ptGjeK2"
+        },
+        "04": {
+            "artist": "Grace Jones",
+            "ratio": 9,
+            "title": "Walking In The Rain",
+            "trackid": "6eQ40FpOWggK5iKl3khLyp"
+        },
+        "05": {
+            "artist": "CAN",
+            "ratio": 9,
+            "title": "Turtles Have Short Legs",
+            "trackid": "3DQYUtFdiSYYl5LiKIP5uO"
+        },
+        "06": {
+            "artist": "The Beach Boys",
+            "ratio": 9,
+            "title": "Long Promised Road - Remastered 2009",
+            "trackid": "4x3wjsXr6MtWNXii5gA1Ai"
+        },
+        "07": {
+            "artist": "Robert Wyatt",
+            "ratio": 9,
+            "title": "At Last I Am Free",
+            "trackid": "4uUP9pXjAALuZDFXh79ImJ"
+        },
+        "08": {
+            "artist": "MF Grimm",
+            "ratio": 9,
+            "title": "Rain Blood",
+            "trackid": "6bTsYh391BJRoPA6nzgYIk"
+        },
+        "09": {
+            "artist": "Sly & The Family Stone",
+            "ratio": 9,
+            "title": "Everyday People",
+            "trackid": "4ZVZBc5xvMyV3WzWktn8i7"
+        },
+        "10": {
+            "artist": "D-Block & S-te-Fan",
+            "ratio": 3,
+            "title": "Twilight Zone - Edit",
+            "trackid": "0u513gPhzKsQXSmM3nBMCQ"
+        },
+        "11": {
+            "artist": "Skunk Anansie",
+            "ratio": 9,
+            "title": "Hedonism (Just Because You Feel Good)",
+            "trackid": "0KPWi8mDRagwxnwaA0di8a"
+        },
+        "12": {
+            "artist": "The Astro-Physicians",
+            "ratio": 9,
+            "title": "Afro-Cuban Be-Bop",
+            "trackid": "0OSP2uIfX4ks19FurZE6jq"
+        },
+        "13": {
+            "artist": "Buffalo Springfield",
+            "ratio": 9,
+            "title": "Mr. Soul",
+            "trackid": "042v1NacbKJzCyi6nBme7T"
+        },
+        "14": {
+            "artist": "Stanley Unwin",
+            "ratio": 9,
+            "title": "Artcraft",
+            "trackid": "79JRKwAstyYwxp3YkvuyzN"
+        },
+        "15": {
+            "artist": "Argent",
+            "ratio": 9,
+            "title": "Clown",
+            "trackid": "3Sxgdq2NBlsrF9PQuZrIyp"
+        },
+        "16": {
+            "artist": "Johnny Bristol",
+            "ratio": 9,
+            "title": "Memories Don't Leave Like People Do",
+            "trackid": "1XTuFDhCDrGxXJrS2v7vC0"
+        },
+        "17": {
+            "artist": "Steely Dan",
+            "ratio": 9,
+            "title": "Babylon Sisters",
+            "trackid": "6677v7VjQsuA6BRFQxQcmG"
+        },
+        "18": {
+            "artist": "Todd Rundgren",
+            "ratio": 9,
+            "title": "I Saw the Light",
+            "trackid": "6nwBxtF0W3Quxf1dht2xLr"
+        },
+        "19": {
+            "artist": "Wipers",
+            "ratio": 9,
+            "title": "Wind the Clock Slowly",
+            "trackid": "733iyWgbSz1xeYyypByObs"
+        },
+        "20": {
+            "artist": "Björk",
+            "ratio": 9,
+            "title": "There's More To Life Than This - Live At The Milk Bar Toilets",
+            "trackid": "2runFrIwOg5p2HZo1oymEL"
+        },
+        "21": {
+            "artist": "Nina Lee",
+            "ratio": 5,
+            "title": "Go Baby Go",
+            "trackid": "4rD2SpgwtJ4k4eXrUwWUnK"
+        },
+        "22": {
+            "artist": "Frank Zappa",
+            "ratio": 9,
+            "title": "Call Any Vegetable",
+            "trackid": "3e0d38O6rkWgNrBQObemjP"
+        },
+        "23": {
+            "artist": "Erroll Garner",
+            "ratio": 9,
+            "title": "I'm In the Mood for Love",
+            "trackid": "6H4tFeG7D05ZJQggaEbGyV"
+        },
+        "24": {
+            "artist": "Patrice Rushen",
+            "ratio": 9,
+            "title": "Forget Me Nots - Remastered",
+            "trackid": "4UQH52FfgGpzDShKDbBvEA"
+        },
+        "25": {
+            "artist": "The Miracles",
+            "ratio": 9,
+            "title": "You've Really Got A Hold On Me",
+            "trackid": "7wLRmjiDYI6flIVzboUqSV"
+        },
+        "26": {
+            "artist": "J.J. Cale",
+            "ratio": 9,
+            "title": "Let Me Do It To You",
+            "trackid": "1bp5Jwl7DJYfyo4snU94my"
+        },
+        "27": {
+            "artist": "The Rolling Stones",
+            "ratio": 9,
+            "title": "Tumbling Dice",
+            "trackid": "4hq0S6wznq7SHDyMOFXL9i"
+        },
+        "28": {
+            "artist": "Curtis Mayfield",
+            "ratio": 9,
+            "title": "We Got to Have Peace",
+            "trackid": "1Hqtsr4UAaj495dQxFqdk8"
+        },
+        "29": {
+            "artist": "Brandy",
+            "ratio": 9,
+            "title": "The Boy Is Mine",
+            "trackid": "6sHsXIJoEN5JpdkGMQDJxt"
+        },
+        "30": {
+            "artist": "New Order",
+            "ratio": 9,
+            "title": "World in Motion",
+            "trackid": "08po8QZK3tihnLBZWATAki"
+        }
+    },
     "soup-to-nuts-6th-february-2024": {
         "00": {
             "artist": "Yesterday's New Quintet",
@@ -403,6 +591,164 @@
             "ratio": 9,
             "title": "Shikako Maru Ten",
             "trackid": "1nb2RQhKmTNSK3QRjEPz5E"
+        }
+    },
+    "soup-to-nuts-pam-18th-march-2024": {
+        "00": {
+            "artist": "The Durutti Column",
+            "ratio": 9,
+            "title": "Sketch for Winter",
+            "trackid": "3zTevRmiLGIDl3vxqiME3Y"
+        },
+        "01": {
+            "artist": "Prelude",
+            "ratio": 9,
+            "title": "After the Goldrush",
+            "trackid": "0f7YNe7M6HDX0e1aBQdpXt"
+        },
+        "02": {
+            "artist": "Kim Jung Mi",
+            "ratio": 9,
+            "title": "Spring",
+            "trackid": "4zQ8Y3TeQ98xWm20ebX3Cc"
+        },
+        "03": {
+            "artist": "Caetano Veloso",
+            "ratio": 9,
+            "title": "Cucurrucucu Paloma - En Vivo",
+            "trackid": "4GEJx7GJWxsDczLGly7KUX"
+        },
+        "04": {
+            "artist": "Fairport Convention",
+            "ratio": 9,
+            "title": "Fotheringay",
+            "trackid": "21FmChQe4DdylUfu57DETQ"
+        },
+        "05": {
+            "artist": "Fishmans",
+            "ratio": 9,
+            "title": "DAYDREAM",
+            "trackid": "2BVeeIDSD2dCnkNMhGDYK4"
+        },
+        "06": {
+            "artist": "A Craze",
+            "ratio": 9,
+            "title": "Wearing Your Jumper",
+            "trackid": "25LX7aOAwPxSGusfNlI5N9"
+        },
+        "07": {
+            "artist": "The Field Mice",
+            "ratio": 9,
+            "title": "So Said Kay",
+            "trackid": "5L5pnT5vIYq50oKGZB86oz"
+        },
+        "08": {
+            "artist": "Ivy",
+            "ratio": 9,
+            "title": "Back In Our Town",
+            "trackid": "16yKDEg68VQ1x3JyrK2xj4"
+        },
+        "09": {
+            "artist": "Ashanti",
+            "ratio": 9,
+            "title": "Foolish",
+            "trackid": "6zMUIb4uce1CzpbjR3vMdN"
+        },
+        "10": {
+            "artist": "Les Petits Parisians",
+            "ratio": 4,
+            "title": "Joseph Joseph",
+            "trackid": "0Z2SNcdBFdhPFH06vJDWZY"
+        },
+        "11": {
+            "artist": "Xavier Cugat",
+            "ratio": 9,
+            "title": "Perfidia",
+            "trackid": "4YZS5vODYkwjpBLOtnpmHw"
+        },
+        "12": {
+            "artist": "Sade",
+            "ratio": 9,
+            "title": "Kiss of Life",
+            "trackid": "65krtHkaYLPr0mEbjL61UP"
+        },
+        "13": {
+            "artist": "Steve Reich",
+            "ratio": 9,
+            "title": "Electric Counterpoint: II. Slow",
+            "trackid": "0FozPT4hGc1orTfYnduuT4"
+        },
+        "14": {
+            "artist": "Js Donny",
+            "ratio": 9,
+            "title": "Never Forget U",
+            "trackid": "0RAX6UDQbK52WZYBt5OuJj"
+        },
+        "15": {
+            "artist": "Ryuichi Sakamoto",
+            "ratio": 0,
+            "title": "energy flow",
+            "trackid": "38hwMaB4DWUhAWdyk1VljB"
+        },
+        "16": {
+            "artist": "Minerve",
+            "ratio": 3,
+            "title": "Don't Ask Me Why",
+            "trackid": "1VQszmXiugvYGC2WlTcAUW"
+        },
+        "17": {
+            "artist": "Robin Thicke",
+            "ratio": 4,
+            "title": "Lost Without U",
+            "trackid": "4V2F0DZrAXOWq9hkwMMG3x"
+        },
+        "18": {
+            "artist": "Young Thug",
+            "ratio": 9,
+            "title": "Oh U Went (feat. Drake)",
+            "trackid": "7qLr3HMApUbyDkUvgIvHnB"
+        },
+        "19": {
+            "artist": "The Jam",
+            "ratio": 9,
+            "title": "That's Entertainment - Snap! Demo Version",
+            "trackid": "26YUbiZxrprcQ5xfWrNo95"
+        },
+        "20": {
+            "artist": "Nico",
+            "ratio": 9,
+            "title": "These Days",
+            "trackid": "3uCkIqD0VzQUijbs8WIizs"
+        },
+        "21": {
+            "artist": "Steve Strauss",
+            "ratio": 9,
+            "title": "Just Like Love",
+            "trackid": "2RxkFis1AkuF89A16yQV0h"
+        },
+        "22": {
+            "artist": "John Martyn",
+            "ratio": 3,
+            "title": "Over The Hill",
+            "trackid": "4doNObRI4sHz3klm81tZmu"
+        },
+        "23": {
+            "artist": "Groove Connektion 2",
+            "ratio": 0,
+            "title": "Club Lonely - Serious Danger Mix",
+            "trackid": "7GI4r4MZHvpQuWmR6nmBKL"
+        },
+        "24": {
+            "artist": "Supertramp",
+            "ratio": 9,
+            "title": "Cannonball",
+            "trackid": "7AW4T7G3e8VsZ8D7jV1hMr"
+        },
+        "25": {
+            "artist": "Supertramp",
+            "ratio": 4,
+            "title": "Breakfast In America - 2010 Remastered",
+            "trackid": "4a5pNRjwmzYQuEY1E7O6pj"
         }
     }
 }

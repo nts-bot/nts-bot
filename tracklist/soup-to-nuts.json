@@ -1,4 +1,130 @@
 {
+    "soup-to-nuts-13th-february-2024": {
+        "00": {
+            "artist": "T. L. Barrett, ",
+            "title": "Nobody Knows"
+        },
+        "01": {
+            "artist": "Gino Soccio",
+            "title": "Turn It Around"
+        },
+        "02": {
+            "artist": "Alexander O’Neal, ",
+            "title": "I Didn’t Mean To Turn You On"
+        },
+        "03": {
+            "artist": "Tomek",
+            "title": "Love Music"
+        },
+        "04": {
+            "artist": "Grace Jones",
+            "title": "Walking In The Rain"
+        },
+        "05": {
+            "artist": "Can",
+            "title": "Turtles Have Short Legs"
+        },
+        "06": {
+            "artist": "The Beach Boys",
+            "title": "Long Promised Road"
+        },
+        "07": {
+            "artist": "Robert Wyatt",
+            "title": "At Last I Am Free"
+        },
+        "08": {
+            "artist": "MF Grimm",
+            "title": "Rain Blood"
+        },
+        "09": {
+            "artist": "Sly & The Family Stone",
+            "title": "Everyday People"
+        },
+        "10": {
+            "artist": "Trio Zero",
+            "title": "Twilight"
+        },
+        "11": {
+            "artist": "Skunk Anansie",
+            "title": "Hedonism (Just Because You Feel Good)"
+        },
+        "12": {
+            "artist": "The Afro-Physicians",
+            "title": "Afro-Cuban Be-Bop (Single Version)"
+        },
+        "13": {
+            "artist": "Buffalo Springfield",
+            "title": "Mr. Soul"
+        },
+        "14": {
+            "artist": "Stanley Unwin",
+            "title": "Artcraft"
+        },
+        "15": {
+            "artist": "Argent",
+            "title": "Clown"
+        },
+        "16": {
+            "artist": "Johnny Bristol",
+            "title": "Memories Don't Leave Like People Do"
+        },
+        "17": {
+            "artist": "Steely Dan",
+            "title": "Babylon Sisters"
+        },
+        "18": {
+            "artist": "Todd Rundgren",
+            "title": "I Saw The Light"
+        },
+        "19": {
+            "artist": "Wipers",
+            "title": "Wind The Clock Slowly"
+        },
+        "20": {
+            "artist": "Björk",
+            "title": "There's More To Life Than This"
+        },
+        "21": {
+            "artist": "Nina Lizell, ",
+            "title": "Hey Cowboy"
+        },
+        "22": {
+            "artist": "Frank Zappa, ",
+            "title": "Call Any Vegetable"
+        },
+        "23": {
+            "artist": "Errol Gardner",
+            "title": "I’m In The Mood For Love"
+        },
+        "24": {
+            "artist": "Patrice Rushen",
+            "title": "Forget Me Nots"
+        },
+        "25": {
+            "artist": "The Miracles",
+            "title": "You've Really Got A Hold On Me"
+        },
+        "26": {
+            "artist": "J.J. Cale",
+            "title": "Let Me Do It To You"
+        },
+        "27": {
+            "artist": "The Rolling Stones",
+            "title": "Tumbling Dice"
+        },
+        "28": {
+            "artist": "Curtis Mayfield",
+            "title": "We Got To Have Peace"
+        },
+        "29": {
+            "artist": "Brandy, ",
+            "title": "The Boy Is Mine (Instrumental)"
+        },
+        "30": {
+            "artist": "Englandneworder",
+            "title": "World In Motion..."
+        }
+    },
     "soup-to-nuts-6th-february-2024": {
         "00": {
             "artist": "Yesterdays New Quintet",
@@ -269,6 +395,112 @@
         "34": {
             "artist": "Can",
             "title": "Shikako Maru Ten"
+        }
+    },
+    "soup-to-nuts-pam-18th-march-2024": {
+        "00": {
+            "artist": "Durutti Column",
+            "title": "Sketch For Winter"
+        },
+        "01": {
+            "artist": "Prelude",
+            "title": "After The Goldrush"
+        },
+        "02": {
+            "artist": "Kim Jung Mi",
+            "title": "Spring (봄)"
+        },
+        "03": {
+            "artist": "Caetano Veloso",
+            "title": "Cucurrucucú Paloma"
+        },
+        "04": {
+            "artist": "Fairport Convention",
+            "title": "Fotheringay"
+        },
+        "05": {
+            "artist": "Fishmans",
+            "title": "Daydream"
+        },
+        "06": {
+            "artist": "A Craze",
+            "title": "Wearing Your Jumper"
+        },
+        "07": {
+            "artist": "The Field Mice",
+            "title": "So Said Kay"
+        },
+        "08": {
+            "artist": "Ivy",
+            "title": "Back In Our Town"
+        },
+        "09": {
+            "artist": "Ashanti",
+            "title": "Foolish"
+        },
+        "10": {
+            "artist": "Co La",
+            "title": "Chez Panisse"
+        },
+        "11": {
+            "artist": "Xavier Cugat",
+            "title": "Perfidia"
+        },
+        "12": {
+            "artist": "Sade",
+            "title": "Kiss Of Life"
+        },
+        "13": {
+            "artist": "Steve Reich, ",
+            "title": "Electric Counterpoint Slow"
+        },
+        "14": {
+            "artist": "Js Donny",
+            "title": "Never Forget U"
+        },
+        "15": {
+            "artist": "Ryuichi Sakamoto, ",
+            "title": "Risky (Extended Version)"
+        },
+        "16": {
+            "artist": "Mbv",
+            "title": "Don’t Ask Why"
+        },
+        "17": {
+            "artist": "Robin Thicke, ",
+            "title": "Wanna Love You Girl (U.K Remix)"
+        },
+        "18": {
+            "artist": "Young Thug",
+            "title": "Oh U Went"
+        },
+        "19": {
+            "artist": "The Jam",
+            "title": "That's Entertainment"
+        },
+        "20": {
+            "artist": "Nico",
+            "title": "These Days"
+        },
+        "21": {
+            "artist": "Steve Strauss",
+            "title": "Just Like Love"
+        },
+        "22": {
+            "artist": "John Martyn",
+            "title": "Sunshine's Better (Talvin Singh Remix 1)"
+        },
+        "23": {
+            "artist": "Lil’ Louis & The World",
+            "title": "Club Lonely (I’m On The Guestlist Mix)"
+        },
+        "24": {
+            "artist": "Supertramp",
+            "title": "Cannonball"
+        },
+        "25": {
+            "artist": "Supertramp",
+            "title": "Cannonball (Direct-To-Disc Version)"
         }
     }
 }
