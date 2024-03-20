@@ -1,1 +1,992 @@
-{}
+{
+    "sunday-club-17th-march-2024": {
+        "00": {
+            "artist": "Sonic Soul",
+            "title": "Brazilian Vibrations"
+        },
+        "01": {
+            "artist": "Freedom",
+            "title": "Closer (Klubb Kidz Flava Dub)"
+        },
+        "02": {
+            "artist": "Martin Madhatter",
+            "title": "Back To Rhythm"
+        },
+        "03": {
+            "artist": "Aphrodisi",
+            "title": "Sunshine (Sweetest Dub)"
+        },
+        "04": {
+            "artist": "Swing 52",
+            "title": "The Madness Of It All (The Rhythm Hyped Mix)"
+        },
+        "05": {
+            "artist": "Sagat",
+            "title": "Fuk Dat (After School Special Mix)"
+        },
+        "06": {
+            "artist": "Vanessa McMillian",
+            "title": "Stay With Me (Alternative Mix)"
+        },
+        "07": {
+            "artist": "UBQ Project",
+            "title": "Solutions"
+        },
+        "08": {
+            "artist": "Nu Storm",
+            "title": "Every Night (Gonna Find Me) (Clubhouse Mix)"
+        },
+        "09": {
+            "artist": "Zero B",
+            "title": "Spinning Wheel"
+        },
+        "10": {
+            "artist": "Wamdue Kids",
+            "title": "Red"
+        },
+        "11": {
+            "artist": "Ursula",
+            "title": "By Your Side (U-Jam Dub)"
+        },
+        "12": {
+            "artist": "Underground Solutions",
+            "title": "Paradise '97"
+        },
+        "13": {
+            "artist": "The Mighty Dubcats",
+            "title": "Only When I'm Dancing"
+        },
+        "14": {
+            "artist": "Alexander Hope",
+            "title": "Saturdays (Saturday Nite Mix)"
+        },
+        "15": {
+            "artist": "Ty Holden",
+            "title": "I Know"
+        },
+        "16": {
+            "artist": "Jason Kaye, ",
+            "title": "Shine"
+        },
+        "17": {
+            "artist": "DJ Dove",
+            "title": "Illusions"
+        },
+        "18": {
+            "artist": "Shafty",
+            "title": "The Deep Creep"
+        },
+        "19": {
+            "artist": "Liz Torres",
+            "title": "If You Keep It Up (Drum Mix)"
+        },
+        "20": {
+            "artist": "Earth People",
+            "title": "Dance (Bonus Beats)"
+        },
+        "21": {
+            "artist": "Anthony Shakir",
+            "title": "Track 2"
+        },
+        "22": {
+            "artist": "Alias",
+            "title": "No Rest Bite - Rmx"
+        },
+        "23": {
+            "artist": "Madonna",
+            "title": "Erotica (MAE Bass Hit Dub)"
+        },
+        "24": {
+            "artist": "DJ Lil' John",
+            "title": "Can't Let Go"
+        },
+        "25": {
+            "artist": "D.J. Romain",
+            "title": "All Day, All Night"
+        },
+        "26": {
+            "artist": "Eric Gadd",
+            "title": "The Right Way (Mood II Swing Dub Mix)"
+        },
+        "27": {
+            "artist": "Chez N Trent",
+            "title": "Prescription Underground"
+        },
+        "28": {
+            "artist": "CultureClash",
+            "title": "Mystic (House Dub)"
+        },
+        "29": {
+            "artist": "DJ Assassin",
+            "title": "Face In The Crowd"
+        },
+        "30": {
+            "artist": "Jaydee",
+            "title": "Plastic Dreams (Radio Edit)"
+        },
+        "31": {
+            "artist": "U.R.",
+            "title": "Timeline"
+        },
+        "32": {
+            "artist": "DJ Perception",
+            "title": "Know Your Name"
+        },
+        "33": {
+            "artist": "Tuff Jam",
+            "title": "I Got You (Dem 2's Dub Bug)"
+        },
+        "34": {
+            "artist": "Ground 96",
+            "title": "Groove Intervention"
+        },
+        "35": {
+            "artist": "Kerri Chandler",
+            "title": "Back To The Raw (Dark Mix)"
+        },
+        "36": {
+            "artist": "Large Joints",
+            "title": "Down On You (VIP)"
+        }
+    },
+    "sunday-club-18th-february-2024": {
+        "00": {
+            "artist": "Aaron Smith",
+            "title": "Sometimes I Wonder"
+        },
+        "01": {
+            "artist": "New Horizons",
+            "title": "Searchin On"
+        },
+        "02": {
+            "artist": "Dangerous Liaison",
+            "title": "Smoove"
+        },
+        "03": {
+            "artist": "Ricky Suarez",
+            "title": "Deep Vibes"
+        },
+        "04": {
+            "artist": "Kim Beacham",
+            "title": "Trouble (On My Knees Mix)"
+        },
+        "05": {
+            "artist": "DB Selective",
+            "title": "Find The Way"
+        },
+        "06": {
+            "artist": "Underground Mass",
+            "title": "Hard Times (Dub)"
+        },
+        "07": {
+            "artist": "Major Problems",
+            "title": "Gingivitis"
+        },
+        "08": {
+            "artist": "3rd Vision",
+            "title": "Girl Let Me"
+        },
+        "09": {
+            "artist": "DJ Romain & Matt \"Keys\" Echols",
+            "title": "Feelin Mellow"
+        },
+        "10": {
+            "artist": "Blunted Dummies",
+            "title": "House For All (Ruby Fruit Jungle Mix)"
+        },
+        "11": {
+            "artist": "Jomanda",
+            "title": "I Cried The Tears (Piano Dub)"
+        },
+        "12": {
+            "artist": "Plutonic",
+            "title": "Addicted (DJ Disciple Dub)"
+        },
+        "13": {
+            "artist": "4 Hero",
+            "title": "Better Place (CM Toni Mix)"
+        },
+        "14": {
+            "artist": "2 As 1",
+            "title": "Dig This"
+        },
+        "15": {
+            "artist": "Smokin Beats, ",
+            "title": "Times Are Changin (Smokin Dub)"
+        },
+        "16": {
+            "artist": "I Need",
+            "title": "Mark Prutton & Ben Keen"
+        },
+        "17": {
+            "artist": "Joe Louis",
+            "title": "The Love Of My Own (Instrumental)"
+        },
+        "18": {
+            "artist": "The Q Project",
+            "title": "A Little More (Mix 1)"
+        },
+        "19": {
+            "artist": "db, ",
+            "title": "Movin' On (db Dub)"
+        },
+        "20": {
+            "artist": "Chris Mac",
+            "title": "Jus Remember (Untitled Mix 2)"
+        },
+        "21": {
+            "artist": "Poolio & Jack D",
+            "title": "I Believe (Step-2-It Mix)"
+        },
+        "22": {
+            "artist": "Chris Mack",
+            "title": "Free (Obvious Mix)"
+        },
+        "23": {
+            "artist": "Y-Tribe",
+            "title": "Righteousness (Timbuk 2-Step Mix)"
+        },
+        "24": {
+            "artist": "Poolio & Chris D",
+            "title": "Little More Time (Sweet Mix)"
+        },
+        "25": {
+            "artist": "Oris Jay, ",
+            "title": "Trippin' (2010 Dub)"
+        },
+        "26": {
+            "artist": "Urban Myths",
+            "title": "Stronger"
+        },
+        "27": {
+            "artist": "Lost In Time",
+            "title": "Raw Elements"
+        },
+        "28": {
+            "artist": "Julian Jonah",
+            "title": "Caught Between A Rock And A Hard Place (The Real Deal Mix)"
+        },
+        "29": {
+            "artist": "Paul Rayner",
+            "title": "Believe Us"
+        },
+        "30": {
+            "artist": "Adeva",
+            "title": "I Thank You (Philly Dub Mix)"
+        },
+        "31": {
+            "artist": "Jungle Wonz",
+            "title": "Time Marches On (Vocal)"
+        },
+        "32": {
+            "artist": "Romanthony",
+            "title": "Now You Want Me"
+        },
+        "33": {
+            "artist": "Brett Dancer",
+            "title": "Dying Luv"
+        },
+        "34": {
+            "artist": "Paul Johnson",
+            "title": "Hour Glass Figure"
+        },
+        "35": {
+            "artist": "Dem 2",
+            "title": "Golden (Sunday Club Mix)"
+        }
+    },
+    "sunday-club-1st-october-2023": {
+        "00": {
+            "artist": "Mike Delgado",
+            "title": "Sunday's Groove"
+        },
+        "01": {
+            "artist": "Juice & Co.",
+            "title": "I Like"
+        },
+        "02": {
+            "artist": "Riley Evans Featuring Sonya Grant",
+            "title": "I See Visions"
+        },
+        "03": {
+            "artist": "Seven Grand Housing Authority",
+            "title": "Jessica (It Feels Alright) (Minimum Wage Bros' Po-Folks Mix)"
+        },
+        "04": {
+            "artist": "Tuff Jam",
+            "title": "My Love (Mix 1)"
+        },
+        "05": {
+            "artist": "Debbie Malone",
+            "title": "Rescue Me (Dance Mix)"
+        },
+        "06": {
+            "artist": "Underground Solutions",
+            "title": "I Need You Baby (3am Mix)"
+        },
+        "07": {
+            "artist": "The Toy Factory, ",
+            "title": "Party (Eastside Mix)"
+        },
+        "08": {
+            "artist": "Tuff & Jam Experience",
+            "title": "C'Mon (Lets Dance) (The Vibe Mix)"
+        },
+        "09": {
+            "artist": "The Wamdue Kids",
+            "title": "In My Soul (3c Deep Mix)"
+        },
+        "10": {
+            "artist": "Pseudo",
+            "title": "What Are You Gonna Do (Dub)"
+        },
+        "11": {
+            "artist": "Joi Cardwell",
+            "title": "Trouble (UBQ's Club Dub Remix)"
+        },
+        "12": {
+            "artist": "DB Selective",
+            "title": "Find The Way"
+        },
+        "13": {
+            "artist": "Edzy",
+            "title": "I'm Looking (Edzy's Funk Lab Remix)"
+        },
+        "14": {
+            "artist": "Jovonn",
+            "title": "Drum Drum"
+        },
+        "15": {
+            "artist": "Dem 2",
+            "title": "Bad Girl"
+        },
+        "16": {
+            "artist": "J.Kaye, ",
+            "title": "Feel The Fire"
+        },
+        "17": {
+            "artist": "Victor Simonelli, ",
+            "title": "I've Been Changed (Dub Mix)"
+        },
+        "18": {
+            "artist": "Tuff Jam",
+            "title": "I Got You"
+        },
+        "19": {
+            "artist": "M.E.",
+            "title": "It's Hot"
+        },
+        "20": {
+            "artist": "Prolific Featuring Simone",
+            "title": "Stay With Me Forever (Ambient Love Mix)"
+        },
+        "21": {
+            "artist": "Y-Tribe",
+            "title": "Baby (You Bring Me Up) (Daryl B. Mix)"
+        },
+        "22": {
+            "artist": "Seven Wonders",
+            "title": "Crazy (Slam Jam's Mix)"
+        },
+        "23": {
+            "artist": "Smokin Beats",
+            "title": "Just One Sound"
+        },
+        "24": {
+            "artist": "Gayland",
+            "title": "Get By (Mental Instrum Snapshot Mix)"
+        },
+        "25": {
+            "artist": "The Soul Of Nick Jones, ",
+            "title": "Peace And Unity (Tribal Vocal)"
+        },
+        "26": {
+            "artist": "DB Selective",
+            "title": "Free Breath"
+        },
+        "27": {
+            "artist": "Da Homies",
+            "title": "Dreamin Ain't Enough"
+        },
+        "28": {
+            "artist": "Circulation",
+            "title": "Sincerely (Creation Mix)"
+        },
+        "29": {
+            "artist": "Industry Standard, ",
+            "title": "Let Me Be Your Sunshine (Ozone Friendly Mix)"
+        },
+        "30": {
+            "artist": "Boo Williams",
+            "title": "Mars (Brett Dancer Remix)"
+        },
+        "31": {
+            "artist": "Dem 2",
+            "title": "Baby (You're So Sexy) (New Skool Mix)"
+        },
+        "32": {
+            "artist": "Db Feat. Jo Bryant",
+            "title": "Movin' On (Db Dub)"
+        },
+        "33": {
+            "artist": "Frankie Knuckles",
+            "title": "Tears (Unreleased Dubaholics Mix Featuring Onyx Stone)"
+        }
+    },
+    "sunday-club-24th-december-2023": {
+        "00": {
+            "artist": "The Vontastics",
+            "title": "Never Let Your Love Grow Cold"
+        },
+        "01": {
+            "artist": "Willis Wooten",
+            "title": "Your Love Is Indescribably Delicious"
+        },
+        "02": {
+            "artist": "Gloria Jay",
+            "title": "I'm Gonna Make It"
+        },
+        "03": {
+            "artist": "Brown Sugar",
+            "title": "Loneliness (Will Bring Us Together Again)"
+        },
+        "04": {
+            "artist": "Erma Franklin",
+            "title": "Change My Thoughts From You"
+        },
+        "05": {
+            "artist": "A.B.T.",
+            "title": "I Desire You (Sample)"
+        },
+        "06": {
+            "artist": "Sweet D",
+            "title": "Thank Ya"
+        },
+        "07": {
+            "artist": "Jimmy Ross",
+            "title": "Fall Into A Trance"
+        },
+        "08": {
+            "artist": "Ten City",
+            "title": "My Peace Of Heaven (Demo Mix)"
+        },
+        "09": {
+            "artist": "Ultraworld",
+            "title": "Northern Piano (Hardcore Piano Mix)"
+        },
+        "10": {
+            "artist": "Cassio",
+            "title": "Baby Love (Black Science Orchestra Superman Lover Vocal)"
+        },
+        "11": {
+            "artist": "Robinson Wall Project Feat. Clifton King",
+            "title": "Family Prayer"
+        },
+        "12": {
+            "artist": "Darryl D’Bonneau",
+            "title": "Say You're Gonna Stay (Smack Mix)"
+        },
+        "13": {
+            "artist": "LeRon Carson",
+            "title": "Baby Said to Me"
+        },
+        "14": {
+            "artist": "The It",
+            "title": "Donnie (Club Mix)"
+        },
+        "15": {
+            "artist": "Gruv'n Disco Affair, ",
+            "title": "You Don't Want To Lose It (Gruv'n Radiocentric)"
+        },
+        "16": {
+            "artist": "Brett Dancer",
+            "title": "Feelin' Fine"
+        },
+        "17": {
+            "artist": "North-Clybourn",
+            "title": "We Gonna Work It Out (Frankie Knuckles Mix)"
+        },
+        "18": {
+            "artist": "Paul Groove Feat. Down & Garcia",
+            "title": "Pees Groove (Mein Sax Mix)"
+        },
+        "19": {
+            "artist": "Gallifre Feat. Mondee Oliver",
+            "title": "Don't Walk Out On Love (Frankie Knuckles Club Remix)"
+        },
+        "20": {
+            "artist": "Truth",
+            "title": "The End"
+        },
+        "21": {
+            "artist": "Dreamhouse",
+            "title": "Jump & Prance (Club Mix)"
+        },
+        "22": {
+            "artist": "jeremy sylvester",
+            "title": "Can You Feel It"
+        },
+        "23": {
+            "artist": "Finn",
+            "title": "Angel's Heap"
+        },
+        "24": {
+            "artist": "Finn",
+            "title": "Dreams Of Santa Anne"
+        },
+        "25": {
+            "artist": "Stacy Kidd",
+            "title": "Far And Near"
+        },
+        "26": {
+            "artist": "Jeremy Sylvester",
+            "title": "Love Fantasy (Original)"
+        },
+        "27": {
+            "artist": "Finn",
+            "title": "This Time Of Year Feat. Martyn Bootyspoon"
+        },
+        "28": {
+            "artist": "Ladycop",
+            "title": "To Be Real (Sureality)"
+        },
+        "29": {
+            "artist": "Ricky Rouge",
+            "title": "Strange Love (Almost Original)"
+        },
+        "30": {
+            "artist": "Paul Johnson",
+            "title": "You Got To Get Over"
+        },
+        "31": {
+            "artist": "Wham!",
+            "title": "I'm Your Man (Acappella)"
+        },
+        "32": {
+            "artist": "LOFT",
+            "title": "Wish It Would Rain (Massive Vibe Moment)"
+        },
+        "33": {
+            "artist": "Piano City Productions",
+            "title": "I Want Your Love (Totally Uplifting Mix)"
+        },
+        "34": {
+            "artist": "Ja Rule, ",
+            "title": "Put It On Me (Radio Edit)"
+        },
+        "35": {
+            "artist": "Carly Simon",
+            "title": "Why"
+        },
+        "36": {
+            "artist": "Laura Nyro",
+            "title": "Woman's Blues"
+        }
+    },
+    "sunday-club-26th-november-2023": {
+        "00": {
+            "artist": "4 Hero Feat. Charlemagne",
+            "title": "Better Place (C.M. Toni Mix)"
+        },
+        "01": {
+            "artist": "Dangerous Liaisons",
+            "title": "Funky Ass Mutha"
+        },
+        "02": {
+            "artist": "Baffled, ",
+            "title": "Wanna Play (4 To Floor Mix)  "
+        },
+        "03": {
+            "artist": "Wiwanyag Wachipi Feat. Wendy",
+            "title": "I Don't Want You (I Don't Need You) (Humphreyish Dub)"
+        },
+        "04": {
+            "artist": "Simulcast",
+            "title": "I Don T Know What It Is"
+        },
+        "05": {
+            "artist": "Kim Beacham",
+            "title": "Trouble (Dub Mix)"
+        },
+        "06": {
+            "artist": "The Minimum Wage Bros.",
+            "title": "Find-A-Way (Found Mix)"
+        },
+        "07": {
+            "artist": "Dreamscape",
+            "title": "Forevermore"
+        },
+        "08": {
+            "artist": "Todd Edwards",
+            "title": "Winter Behaviour"
+        },
+        "09": {
+            "artist": "The Nathaniel X Project",
+            "title": "Gotta Get Over"
+        },
+        "10": {
+            "artist": "Jason Kaye, ",
+            "title": "Shine"
+        },
+        "11": {
+            "artist": "Tuff & Jam Experience",
+            "title": "Experience (Club Anthem Mix)"
+        },
+        "12": {
+            "artist": "Susan Clark, ",
+            "title": "Deeper (Kaoz 6:23 House Mix)"
+        },
+        "13": {
+            "artist": "Tony Varnado",
+            "title": "Hit Hard Tracks Volume 1 (A1)"
+        },
+        "14": {
+            "artist": "1st Quote",
+            "title": "All U Got 2 Do"
+        },
+        "15": {
+            "artist": "Ricky Suarez",
+            "title": "Deeper Vibes"
+        },
+        "16": {
+            "artist": "The Basement Boys, ",
+            "title": "Scandal (Love Me Dearly Mix)"
+        },
+        "17": {
+            "artist": "Smokin Beats",
+            "title": "Times Are Changing"
+        },
+        "18": {
+            "artist": "Blunted Dummies",
+            "title": "House For All (Ruby Fruit Jungle Mix)"
+        },
+        "19": {
+            "artist": "Tasty Treats",
+            "title": "Got To Believe"
+        },
+        "20": {
+            "artist": "3rd Vision",
+            "title": "Girl Let Me"
+        },
+        "21": {
+            "artist": "Armand Van Helden, ",
+            "title": "Play The World"
+        },
+        "22": {
+            "artist": "Kathy Brown",
+            "title": "Can't Play Around (M.A.W. Dub)"
+        },
+        "23": {
+            "artist": "All Things Nice",
+            "title": "This Groove (Sunday Fantasy Mix)"
+        },
+        "24": {
+            "artist": "Mark Rogers, ",
+            "title": "I Promise (More Beats For Passion Mix)"
+        },
+        "25": {
+            "artist": "Ursula",
+            "title": "By Your Side (U-Jam Dub)"
+        },
+        "26": {
+            "artist": "Precious",
+            "title": "In Motion (Vocal Mix)"
+        },
+        "27": {
+            "artist": "The Essence",
+            "title": "Slow Motion"
+        },
+        "28": {
+            "artist": "New Horizons",
+            "title": "Searchin On"
+        },
+        "29": {
+            "artist": "Urban Rhythm",
+            "title": "Luv Will Make It Right (As It Grooves Mix)"
+        },
+        "30": {
+            "artist": "Abstrac, ",
+            "title": "Mind Games"
+        },
+        "31": {
+            "artist": "Dreamscape",
+            "title": "To Think We Met Just Yesterday"
+        }
+    },
+    "sunday-club-29th-october-2023": {
+        "00": {
+            "artist": "Fade II Black",
+            "title": "The Calling (Reprise)"
+        },
+        "01": {
+            "artist": "Ty Holden",
+            "title": "Heaven (Konstruction Mix)"
+        },
+        "02": {
+            "artist": "John Robinson, ",
+            "title": "The March"
+        },
+        "03": {
+            "artist": "Down, ",
+            "title": "Special (I Want Your Love) (Dub)"
+        },
+        "04": {
+            "artist": "Julian Jonah",
+            "title": "Satisfaction Guaranteed"
+        },
+        "05": {
+            "artist": "Ty Holden",
+            "title": "I Know"
+        },
+        "06": {
+            "artist": "Jomanda",
+            "title": "I Cried The Tears (Piano Dub)"
+        },
+        "07": {
+            "artist": "Julian Jonah, ",
+            "title": "(There'll Be A) Better Day (The Reach Mix)"
+        },
+        "08": {
+            "artist": "DJ Feel Free",
+            "title": "Sisters (In The Air) (Visionary Mix)"
+        },
+        "09": {
+            "artist": "Armando Trovaioli",
+            "title": "A World Of Love (Instrumental)"
+        },
+        "10": {
+            "artist": "2 As 1",
+            "title": "Phreeks On The Loose"
+        },
+        "11": {
+            "artist": "Johanna",
+            "title": "Freak It (Tony Humphries Instrumental Mix)"
+        },
+        "12": {
+            "artist": "N.E.D.",
+            "title": "I'm Singing (Remix)"
+        },
+        "13": {
+            "artist": "UBQ Project Feat. Kathy Summers",
+            "title": "Feel My Soul (Terry Hunter Soulful Mix)"
+        },
+        "14": {
+            "artist": "Cynthia M.",
+            "title": "Everything I Do (Strip Down Mix)"
+        },
+        "15": {
+            "artist": "Maxim Sinclair, ",
+            "title": "Untitled (Track 3)"
+        },
+        "16": {
+            "artist": "Ty Holden . . KCC",
+            "title": "Somebody"
+        },
+        "17": {
+            "artist": "Nimbus Quartet",
+            "title": "Deep Deep Blue Green"
+        },
+        "18": {
+            "artist": "Restless Natives",
+            "title": "Fela's Tune (Republic Mix)"
+        },
+        "19": {
+            "artist": "Unique 3",
+            "title": "Open Up Your Mind (Deep Club Cut)"
+        },
+        "20": {
+            "artist": "Paul Rayner Feat. Carla Thomas",
+            "title": "On Your Mind"
+        },
+        "21": {
+            "artist": "Jeremy Sylvester",
+            "title": "Feel Your Love"
+        },
+        "22": {
+            "artist": "Mike Dunn",
+            "title": "Late Night Sex"
+        },
+        "23": {
+            "artist": "Melodees Wild",
+            "title": "I Feel Sanctified"
+        },
+        "24": {
+            "artist": "Tuff Jam",
+            "title": "I Got U (Dem 2's Dub Bug)"
+        },
+        "25": {
+            "artist": "Gettoswing Vol. 1",
+            "title": "Untitled (A1)"
+        },
+        "26": {
+            "artist": "Groove Chronicles, ",
+            "title": "Bye Bye"
+        },
+        "27": {
+            "artist": "Dem 2",
+            "title": "Golden (Sunday Club Mix)"
+        },
+        "28": {
+            "artist": "The Messenger",
+            "title": "So Real"
+        },
+        "29": {
+            "artist": "Disco Revisited",
+            "title": "Gonna Roc U All Nite"
+        },
+        "30": {
+            "artist": "Smokin Beats",
+            "title": "Dreams (Vocal Club)"
+        },
+        "31": {
+            "artist": "Paul Johnson",
+            "title": "Bless It"
+        },
+        "32": {
+            "artist": "Behind The Mask",
+            "title": "I Can't Help Myself"
+        }
+    },
+    "sunday-club-finn-3rd-september-2023": {
+        "00": {
+            "artist": "The Backroom Congregation",
+            "title": "Sunday Morning (WMC 98 Mix)"
+        },
+        "01": {
+            "artist": "The Restless Natives",
+            "title": "Deep Journey"
+        },
+        "02": {
+            "artist": "Mark Prutton, ",
+            "title": "I Need"
+        },
+        "03": {
+            "artist": "Vanessa McMillian",
+            "title": "Stay With Me (Alternative Mix)"
+        },
+        "04": {
+            "artist": "Nu Storm",
+            "title": "Every Night (Gonna Find Me) (Clubhouse Mix)"
+        },
+        "05": {
+            "artist": "Dem 2",
+            "title": "Don t Make Me Wait (Ruff Riff Mix)"
+        },
+        "06": {
+            "artist": "Musto & Bones",
+            "title": "The Music Is Right (R & B Dub Mix)"
+        },
+        "07": {
+            "artist": "Kim Cummings",
+            "title": "Your Attitude (Mental Instrum)"
+        },
+        "08": {
+            "artist": "Ceybil Jeffries",
+            "title": "Open Your Heart (Club Instrumental Mix)"
+        },
+        "09": {
+            "artist": "Brown Melody",
+            "title": "Rambling"
+        },
+        "10": {
+            "artist": "Cuddles",
+            "title": "Cruizin'"
+        },
+        "11": {
+            "artist": "Miss Joi Cardwell",
+            "title": "Goodbye (Vocal Mix)"
+        },
+        "12": {
+            "artist": "3-Play",
+            "title": "Summer Breezz"
+        },
+        "13": {
+            "artist": "Kalani Bob And Remegel",
+            "title": "Dreaming Of Brie"
+        },
+        "14": {
+            "artist": "Robinson, Wall Project, ",
+            "title": "Deep Down (Deep Down Mix)"
+        },
+        "15": {
+            "artist": "North-Clybourn",
+            "title": "We Gonna Work It Out (Mr Fingers Mix)"
+        },
+        "16": {
+            "artist": "Paul Groove Feat. Down & Garcia",
+            "title": "Pees Groove (Mein Sax Mix)"
+        },
+        "17": {
+            "artist": "Ruffneck",
+            "title": "New Life (The Nocturnal Piano Dub)"
+        },
+        "18": {
+            "artist": "Adeva",
+            "title": "Independent Woman (Rave Dub)"
+        },
+        "19": {
+            "artist": "Chocolate Fudge",
+            "title": "To Be Now"
+        },
+        "20": {
+            "artist": "Adeva",
+            "title": "Respect '93 (Club Vocal Remix)"
+        },
+        "21": {
+            "artist": "Julian Jonah",
+            "title": "Caught Between A Rock And A Hard Place (The Real Deal Mix)"
+        },
+        "22": {
+            "artist": "Deep Bros. Feat. Michael Watford",
+            "title": "You Got It (Tuff Jam Remix 2)"
+        },
+        "23": {
+            "artist": "Brett Dancer",
+            "title": "In Da Groove"
+        },
+        "24": {
+            "artist": "Romanthony",
+            "title": "Now You Want Me"
+        },
+        "25": {
+            "artist": "Valerie",
+            "title": "Inside (111 East Mix)"
+        },
+        "26": {
+            "artist": "Tina Moore",
+            "title": "Nobody Better (Dem 2's Luv Unlimited Mix)"
+        },
+        "27": {
+            "artist": "D.E.A. Project",
+            "title": "Ghetto Child (Feat. Tyrone Taylor)"
+        },
+        "28": {
+            "artist": "Groove Chronicles",
+            "title": "Faith In You"
+        },
+        "29": {
+            "artist": "Gallifre Feat. Mondee Oliver",
+            "title": "Don’t Walk Out On Love (Frankie's Dream Version)"
+        },
+        "30": {
+            "artist": "Da Homies",
+            "title": "Yorkshire (Dub Style)"
+        },
+        "31": {
+            "artist": "North-Clybourn",
+            "title": "O Ban 1"
+        },
+        "32": {
+            "artist": "Backroom Productions",
+            "title": "Trouble (Dub Version 3)"
+        },
+        "33": {
+            "artist": "Epitome Of Hype",
+            "title": "Inside My Head (From My Hands)"
+        },
+        "34": {
+            "artist": "Komix & Co. Feat. Pandela",
+            "title": "Feel It (111 East Dub)"
+        }
+    }
+}
