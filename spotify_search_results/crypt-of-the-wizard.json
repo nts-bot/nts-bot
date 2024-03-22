@@ -2953,6 +2953,186 @@
             ]
         }
     },
+    "crypt-of-the-wizard-21st-march-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Spife",
+                    "title": "Poem From the Mouth of Hvrall",
+                    "uri": "00iYFTp84q8zigZy3Rvx3K"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Spife",
+                    "title": "Poem From the Mouth of Hvrall",
+                    "uri": "00iYFTp84q8zigZy3Rvx3K"
+                },
+                {
+                    "artist": "Anne Clark",
+                    "title": "Poem Without Words 2 - Journey By Night",
+                    "uri": "1gpHMfSpviLSP9CNAeb5xt"
+                },
+                {
+                    "artist": "WE ARE FURY",
+                    "title": "Poem of a Killer",
+                    "uri": "2KDFKR2Xx7xhNhcTCLueEC"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Saint Spell",
+                    "title": "Zora's Domain (From \"The Legend of Zelda: Ocarina of Time\")",
+                    "uri": "1arupJ1KGRpK7KVxbLNR10"
+                },
+                {
+                    "artist": "Besso0",
+                    "title": "Zora's Domain (from \"The Legend of Zelda: Ocarina of Time\") - Lo-fi Hip Hop Edit",
+                    "uri": "4hTjtpkr6Sa26Pvh5rlGT3"
+                },
+                {
+                    "artist": "Sleeping Phoenix",
+                    "title": "Zora's Domain",
+                    "uri": "7Di9j4qIepvOispMpb8X4X"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Darren Korb",
+                    "title": "The Blackwagon",
+                    "uri": "5ahU8Wvn2zHhiRBTqFuUSx"
+                },
+                {
+                    "artist": "Darren Korb",
+                    "title": "Path to Glory",
+                    "uri": "2iEp3xkGgZuaHQLxIC8Zld"
+                },
+                {
+                    "artist": "Darren Korb",
+                    "title": "The Herald",
+                    "uri": "7lpe3ibMGcI5C1xDWNrBDp"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Brain Waves Therapy",
+                    "title": "Optimal Balance",
+                    "uri": "2G5cJRN5a320cl75snVYTq"
+                },
+                {
+                    "artist": "Brain Waves Therapy",
+                    "title": "Mind's Gate",
+                    "uri": "7LII1dDLTJcaLMW9VRC32w"
+                },
+                {
+                    "artist": "Brain Waves Therapy",
+                    "title": "Dna Repair",
+                    "uri": "3eBX0PcihaxueeOjdnPf87"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jon Brion",
+                    "title": "Theme - From \"Eternal Sunshine of the Spotless Mind\"/Score",
+                    "uri": "4AQwwsz0ztRx4YKNb1GdBB"
+                },
+                {
+                    "artist": "Eternal Tears Of Sorrow",
+                    "title": "Sakura No Rei",
+                    "uri": "3BiMXYAy3O9NGByIPNcyt0"
+                },
+                {
+                    "artist": "Eternal Torture",
+                    "title": "Deadly Sky",
+                    "uri": "1AAymbl8uI3k0iZy78VZSV"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Fleckentarn",
+                    "title": "Moon Wax, Corpse Wax",
+                    "uri": "3TggO0E3JqWXC7nM2cHAxK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fleckentarn",
+                    "title": "Moon Wax, Corpse Wax",
+                    "uri": "3TggO0E3JqWXC7nM2cHAxK"
+                },
+                {
+                    "artist": "Danny Elfman",
+                    "title": "Moon Dance",
+                    "uri": "1sttnTNN2V2KHi7TQzN9Fz"
+                },
+                {
+                    "artist": "Danny Elfman",
+                    "title": "The Piano Duet",
+                    "uri": "2CPnPnfbCMESaNpBQbeA0X"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jamaram",
+                    "title": "Honey Bee",
+                    "uri": "5g3RjnlRde8DB4gMsmWTf3"
+                },
+                {
+                    "artist": "Maleeq",
+                    "title": "Honey Bee",
+                    "uri": "4iGkkHIdwQPu88C4IUc0SF"
+                },
+                {
+                    "artist": "Blake Shelton",
+                    "title": "Honey Bee",
+                    "uri": "0U3xEfWLX4slslHJaAorSw"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Frog Concert",
+                    "title": "Serenade at the Bug Banquet",
+                    "uri": "1DCgjK8d5hZhR0COf4wnRn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Frog Concert",
+                    "title": "Serenade at the Bug Banquet",
+                    "uri": "1DCgjK8d5hZhR0COf4wnRn"
+                },
+                {
+                    "artist": "Piano Squall",
+                    "title": "Frog's Theme",
+                    "uri": "2Wh13mdG0eoMvGdFGZEcrC"
+                },
+                {
+                    "artist": "Paul Panzer",
+                    "title": "Big Bang Bolle",
+                    "uri": "12HJsMZecy47DO3DjdmgRU"
+                }
+            ]
+        }
+    },
     "crypt-of-the-wizard-22nd-february-2024": {
         "00": {
             "s0": [
