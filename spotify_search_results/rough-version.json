@@ -1109,6 +1109,110 @@
             ]
         }
     },
+    "rough-version-25th-march-2024": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Shabaka",
+                    "title": "Ital is vital",
+                    "uri": "76CobLmppi2uRB9DIRMs3N"
+                },
+                {
+                    "artist": "Yussef Dayes",
+                    "title": "Raisins Under the Sun (feat. Shabaka Hutchings)",
+                    "uri": "6ToLDO9Mh5nV4UvAgIDo3W"
+                },
+                {
+                    "artist": "Shabaka",
+                    "title": "I’ll Do Whatever You Want (feat. Floating Points, Laraaji)",
+                    "uri": "7tv000vU2ikgKNUNmGDeKV"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Herbie Hancock",
+                    "title": "Nobu",
+                    "uri": "3WzGnwyAWuYzYXPJWCH4dL"
+                },
+                {
+                    "artist": "Herbie Hancock",
+                    "title": "Nobu",
+                    "uri": "54SSr4aVZS90EVz86IU4KN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Herbie Hancock",
+                    "title": "Nobu",
+                    "uri": "3WzGnwyAWuYzYXPJWCH4dL"
+                },
+                {
+                    "artist": "Herbie Hancock",
+                    "title": "Nobu",
+                    "uri": "54SSr4aVZS90EVz86IU4KN"
+                },
+                {
+                    "artist": "Herbie Hancock",
+                    "title": "Cantaloupe Island - Remastered 1999/Rudy Van Gelder Edition",
+                    "uri": "0sCeNwt8xRCMR4NhKpMyBe"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Irreversible Entanglements",
+                    "title": "Keys to Creation",
+                    "uri": "2oZfJBcljgfR4NKNvsmXSI"
+                },
+                {
+                    "artist": "Irreversible Entanglements",
+                    "title": "Keys to Creation",
+                    "uri": "27VxkM1yefs49Suvv4YA9S"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Irreversible Entanglements",
+                    "title": "Keys to Creation",
+                    "uri": "2oZfJBcljgfR4NKNvsmXSI"
+                },
+                {
+                    "artist": "Irreversible Entanglements",
+                    "title": "Keys to Creation",
+                    "uri": "27VxkM1yefs49Suvv4YA9S"
+                },
+                {
+                    "artist": "Irreversible Entanglements",
+                    "title": "Free Love",
+                    "uri": "5Wc9a3EMdvw8yF7tzBQGai"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tube & Berger",
+                    "title": "Reliquia - German Brigante Remix",
+                    "uri": "0OMcDzTcEyM8Fdu6obV6fA"
+                },
+                {
+                    "artist": "Reliquiae",
+                    "title": "Feuertanz",
+                    "uri": "1k86xMzTt9ILQjWuei8bgf"
+                },
+                {
+                    "artist": "Reliquiae",
+                    "title": "Hölle",
+                    "uri": "3C3rTSdrM2WdpWq9ehJJvy"
+                }
+            ]
+        }
+    },
     "rough-version-25th-september-2019": {
         "00": {
             "s0": [

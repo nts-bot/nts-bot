@@ -19277,6 +19277,219 @@
             ]
         }
     },
+    "thereignset-24th-march-2024": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Kevin Harrison",
+                    "title": "Ink Man",
+                    "uri": "0rmzHYXU1SXLKeTkeUyWOH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kevin Harrison",
+                    "title": "Ink Man",
+                    "uri": "0rmzHYXU1SXLKeTkeUyWOH"
+                },
+                {
+                    "artist": "Harrison BDP",
+                    "title": "Decompression",
+                    "uri": "6u9JYXS4Kk0MbI05MYMAq2"
+                },
+                {
+                    "artist": "DJ Harrison",
+                    "title": "Carnaval ‘74",
+                    "uri": "5F7EdTZQd5dpnLwgTrETnC"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Conrad Schnitzler",
+                    "title": "Erotik",
+                    "uri": "1AsdObX6J6uzP9FPgOzqp3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Conrad Schnitzler",
+                    "title": "Erotik",
+                    "uri": "1AsdObX6J6uzP9FPgOzqp3"
+                },
+                {
+                    "artist": "Conrad Schnitzler",
+                    "title": "Auf Dem Schwarzen Kanal",
+                    "uri": "206nkHntpgkcQQRDLDUedp"
+                },
+                {
+                    "artist": "Conrad Schnitzler",
+                    "title": "Ballet Statique",
+                    "uri": "1WvIVC6Xsl5w54F1J2hk1N"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "This Side Up",
+                    "title": "Love Starts With An L",
+                    "uri": "7l2YSloSRimRBrc1Au2hoF"
+                },
+                {
+                    "artist": "This Side Up",
+                    "title": "Love Starts With An L",
+                    "uri": "2p415j5qIQE2kMiiM0xU9X"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "This Side Up",
+                    "title": "Love Starts With An L",
+                    "uri": "2p415j5qIQE2kMiiM0xU9X"
+                },
+                {
+                    "artist": "This Side Up",
+                    "title": "Love Starts With An L",
+                    "uri": "7l2YSloSRimRBrc1Au2hoF"
+                },
+                {
+                    "artist": "Hot Chocolate",
+                    "title": "It Started with a Kiss",
+                    "uri": "0EGSyetn3O1r9ri4bjgZii"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "47FlbrwMWmaaC87mkVbwcZ"
+                },
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "47FlbrwMWmaaC87mkVbwcZ"
+                },
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                },
+                {
+                    "artist": "RAMSES",
+                    "title": "Unknown",
+                    "uri": "0TSTBhREdOpJ67lXonvj0j"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "47FlbrwMWmaaC87mkVbwcZ"
+                },
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "47FlbrwMWmaaC87mkVbwcZ"
+                },
+                {
+                    "artist": "An Unknown Artist",
+                    "title": "Unknown Track",
+                    "uri": "7eJja8Vmb4TAj46iq283dV"
+                },
+                {
+                    "artist": "RAMSES",
+                    "title": "Unknown",
+                    "uri": "0TSTBhREdOpJ67lXonvj0j"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Steve Horner",
+                    "title": "Juniper",
+                    "uri": "2IXFYXql1GV85GxigmsPV5"
+                },
+                {
+                    "artist": "Steve Horner",
+                    "title": "Dreamer",
+                    "uri": "7m2lQ1YYaeblaiBFQWLxXh"
+                },
+                {
+                    "artist": "Steve Horner",
+                    "title": "Awakening",
+                    "uri": "4WPvFV2zulcF3lYdyEi4xo"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ashkabad",
+                    "title": "Obsessed",
+                    "uri": "3GxNfwexsG0DcpvaxjWhtk"
+                },
+                {
+                    "artist": "Mahom",
+                    "title": "Trouble of the World",
+                    "uri": "6SucFsmaLQyOpT8evUNBOO"
+                },
+                {
+                    "artist": "Somewhen",
+                    "title": "Schakal",
+                    "uri": "5ISHfymiN1BZS8S0d7cLx4"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Carmen",
+                    "title": "Schlaraffenland - Kapote Rework",
+                    "uri": "7jmqoeA4C8Z0kPOJJk8ZeL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Carmen",
+                    "title": "Schlaraffenland - Kapote Rework",
+                    "uri": "7jmqoeA4C8Z0kPOJJk8ZeL"
+                },
+                {
+                    "artist": "Maablosn",
+                    "title": "Carmen-Marsch",
+                    "uri": "1ftu8xkaLmSffncX5uhkfq"
+                },
+                {
+                    "artist": "Lorenz Büffel",
+                    "title": "Ich will Sex mit dir Carmen",
+                    "uri": "04EnOfThS93rU7aBbmjHCw"
+                }
+            ]
+        }
+    },
     "thereignset-25th-february-2024": {
         "00": {
             "s0": [
