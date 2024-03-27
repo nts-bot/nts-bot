@@ -384,5 +384,63 @@
             "artist": "Goldie",
             "title": "Angel"
         }
+    },
+    "sounds-and-style-mel-ottenberg-27th-march-2024": {
+        "00": {
+            "artist": "Donna Summer",
+            "title": "Once Upon A Time"
+        },
+        "01": {
+            "artist": "Blondie",
+            "title": "Rapture"
+        },
+        "02": {
+            "artist": "Carly Simon",
+            "title": "Tranquillo (Melt My Heart)"
+        },
+        "03": {
+            "artist": "Gloria Gaynor",
+            "title": "This Side Of The Pain"
+        },
+        "04": {
+            "artist": "Diana Ross",
+            "title": "Once In The Morning"
+        },
+        "05": {
+            "artist": "Grace Jones",
+            "title": "She's Lost Control (Dub Version)"
+        },
+        "06": {
+            "artist": "The B-52's",
+            "title": "Dance This Mess Around"
+        },
+        "07": {
+            "artist": "Sonic Youth",
+            "title": "Karen Koltrane"
+        },
+        "08": {
+            "artist": "Madonna",
+            "title": "Like A Prayer"
+        },
+        "09": {
+            "artist": "The Cure",
+            "title": "Lovesong"
+        },
+        "10": {
+            "artist": "Lana Del Rey",
+            "title": "West Coast"
+        },
+        "11": {
+            "artist": "Madonna",
+            "title": "Hung Up"
+        },
+        "12": {
+            "artist": "Britney Spears",
+            "title": "I'm a Slave 4 U"
+        },
+        "13": {
+            "artist": "Rihanna",
+            "title": "What's My Name"
+        }
     }
 }
