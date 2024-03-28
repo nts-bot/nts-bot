@@ -2516,7 +2516,108 @@
             "title": "Merry Christmas, Happy New Year"
         }
     },
-    "soup-to-nuts-shy-one-20th-march-2024": {},
+    "soup-to-nuts-shy-one-20th-march-2024": {
+        "00": {
+            "artist": "Civil Attack",
+            "title": "Not Guilty (By Reason Of Insanity)"
+        },
+        "01": {
+            "artist": "Arlana",
+            "title": "You Can't Keep Breaking My Heart"
+        },
+        "02": {
+            "artist": "Melba Moore",
+            "title": "Let’s Go Back To Lovin’"
+        },
+        "03": {
+            "artist": "Anita Ward",
+            "title": "Make Believe Lovers"
+        },
+        "04": {
+            "artist": "Blaque Ivory",
+            "title": "808"
+        },
+        "05": {
+            "artist": "Dorothy Ashby",
+            "title": "Life Has Its Trials"
+        },
+        "06": {
+            "artist": "Liniker",
+            "title": "Psiu (Ao Vivo)"
+        },
+        "07": {
+            "artist": "Monie Love",
+            "title": "It's A Shame (My Sister)"
+        },
+        "08": {
+            "artist": "Lil' Mo, ",
+            "title": "4 Ever (Album Vers.)"
+        },
+        "09": {
+            "artist": "Grace Jones",
+            "title": "La Vie En Rose"
+        },
+        "10": {
+            "artist": "Amerie",
+            "title": "Rolling Down My Face"
+        },
+        "11": {
+            "artist": "Missy Elliot",
+            "title": "Pussycat"
+        },
+        "12": {
+            "artist": "Muhsinah",
+            "title": "02_00"
+        },
+        "13": {
+            "artist": "Latavia",
+            "title": "BE RIGHT BACK"
+        },
+        "14": {
+            "artist": "Scherrie Payne",
+            "title": "Girl, You're In Love / I'm Not In Love (MiX-X-X-tend Version)"
+        },
+        "15": {
+            "artist": "Me'Shell NdegéOcello",
+            "title": "Dred Loc (Sly 'N' Robbie Remix)"
+        },
+        "16": {
+            "artist": "Ultra Naté",
+            "title": "Twisted"
+        },
+        "17": {
+            "artist": "Monica",
+            "title": "The First Night"
+        },
+        "18": {
+            "artist": "Adeva",
+            "title": "Undercover Lover"
+        },
+        "19": {
+            "artist": "Barbara Tucker",
+            "title": "Stay Together (Soulful Mix)"
+        },
+        "20": {
+            "artist": "Maysa",
+            "title": "What About Our Love?"
+        },
+        "21": {
+            "artist": "Brown Sugar",
+            "title": "Free"
+        },
+        "22": {
+            "artist": "Kofi",
+            "title": "Losing Time For Love"
+        },
+        "23": {
+            "artist": "Miss Cherokee & Em-Cee",
+            "title": "All Of Me (Feat. Chan)"
+        },
+        "24": {
+            "artist": "Jhelisa",
+            "title": "Friendly Pressure"
+        }
+    },
     "soup-to-nuts-shy-one-20th-september-2023": {
         "00": {
             "artist": "Glenn Fallows",
@@ -3961,6 +4062,128 @@
         "27": {
             "artist": "Emeson",
             "title": "Sending All My Love Out"
+        }
+    },
+    "soup-to-nuts-shy-one-27th-march-2024": {
+        "00": {
+            "artist": "Chelsea Reject, ",
+            "title": "Focus"
+        },
+        "01": {
+            "artist": "Versailles The Everything",
+            "title": "Heaven"
+        },
+        "02": {
+            "artist": "JETMFBLACK",
+            "title": "URGENT CARE"
+        },
+        "03": {
+            "artist": "Whobejazzz",
+            "title": "Nah, Nah, Nah, Nah, Nah"
+        },
+        "04": {
+            "artist": "Liv.E",
+            "title": "O.M.M"
+        },
+        "05": {
+            "artist": "Jazzz & Tenten",
+            "title": "Again, Again, Again"
+        },
+        "06": {
+            "artist": "KeiyaA",
+            "title": "Do Yourself A Favor"
+        },
+        "07": {
+            "artist": "H31r",
+            "title": "Glass Ceiling (Feat. Semiratruth)"
+        },
+        "08": {
+            "artist": "JETMFBLACK",
+            "title": "Urgent Care"
+        },
+        "09": {
+            "artist": "Lauryn Hill",
+            "title": "Just Like Water"
+        },
+        "10": {
+            "artist": "Janice Iche",
+            "title": "Let Me Lose My Mind In Peace"
+        },
+        "11": {
+            "artist": "Yo Majesty",
+            "title": "Leather Jacket"
+        },
+        "12": {
+            "artist": "Jill Scott",
+            "title": "Gimme"
+        },
+        "13": {
+            "artist": "Ari Lennox",
+            "title": "Queen Space"
+        },
+        "14": {
+            "artist": "Orion Sun & Mulch",
+            "title": "Mango (Freestyle/Process)"
+        },
+        "15": {
+            "artist": "Teedra Moses",
+            "title": "I Think Of You (Shirley's Song)"
+        },
+        "16": {
+            "artist": "Gifted Gab",
+            "title": "Girl Rap (Gotta Get It)"
+        },
+        "17": {
+            "artist": "Bambii",
+            "title": "Sydanie’s Interlude (Feat. Sydanie)"
+        },
+        "18": {
+            "artist": "Shy One",
+            "title": "IP Addy"
+        },
+        "19": {
+            "artist": "SWV",
+            "title": "Use Your Heart"
+        },
+        "20": {
+            "artist": "Yazmin Lacey",
+            "title": "Where Did You Go?"
+        },
+        "21": {
+            "artist": "Mary",
+            "title": "Beautiful Ones"
+        },
+        "22": {
+            "artist": "Elan Tamara",
+            "title": "Outside"
+        },
+        "23": {
+            "artist": "Goaple",
+            "title": "Battle Of The Heart"
+        },
+        "24": {
+            "artist": "J.Miller",
+            "title": "I Am Magic Wildfire Tinted Gold"
+        },
+        "25": {
+            "artist": "K. Hand",
+            "title": "So Special"
+        },
+        "26": {
+            "artist": "Lady Blacktronika",
+            "title": "Loosely Strung (Ruff Draft)"
+        },
+        "27": {
+            "artist": "Nina Hill",
+            "title": "Life Of A M.C."
+        },
+        "28": {
+            "artist": "Sarah Farfina & Tish Bailey",
+            "title": "Let Me See Dat Work"
+        },
+        "29": {
+            "artist": "Juana",
+            "title": "L+H"
         }
     },
     "soup-to-nuts-shy-one-27th-september-2023": {

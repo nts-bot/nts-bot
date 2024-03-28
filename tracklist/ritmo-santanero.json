@@ -341,7 +341,174 @@
             "title": "Orq Barron"
         }
     },
-    "ritmo-santanero-27th-february-2024": {},
+    "ritmo-santanero-26th-march-2024": {
+        "00": {
+            "artist": "Los Diablos De Valledupar",
+            "title": "Tambores De Nochebuena"
+        },
+        "01": {
+            "artist": "Peyo Torres Y Sus Diablos Del Ritmo",
+            "title": "Maria Fernanda"
+        },
+        "02": {
+            "artist": "Enrique Diaz",
+            "title": "Compay Miguel"
+        },
+        "03": {
+            "artist": "Anibal Y Jose Velasquez",
+            "title": "Cumbia Brava"
+        },
+        "04": {
+            "artist": "Los Guacharacos",
+            "title": "La Negra Saramuya"
+        },
+        "05": {
+            "artist": "Caporales Del Magdalena",
+            "title": "Bailando Cumbia En La Costa"
+        },
+        "06": {
+            "artist": "Conjunto Miramar",
+            "title": "Noche Y Cumbia"
+        },
+        "07": {
+            "artist": "Los Diablos Del Ritmo",
+            "title": "Linda Lucy"
+        },
+        "08": {
+            "artist": "Conjunto Colombiano",
+            "title": "Cumbia Sabrosa"
+        },
+        "09": {
+            "artist": "Sonido Sonoramico",
+            "title": "Gaita Con Sabor"
+        },
+        "10": {
+            "artist": "Policarpo Calle",
+            "title": "Playa Rica"
+        },
+        "11": {
+            "artist": "Gildardo Montoya",
+            "title": "Marisol"
+        },
+        "12": {
+            "artist": "Juan Pina",
+            "title": "La Aguatera"
+        },
+        "13": {
+            "artist": "Conjunto Los Rumberos, ",
+            "title": "Bahia Solano"
+        },
+        "14": {
+            "artist": "Adolfo Pacheco, ",
+            "title": "Consuelame"
+        },
+        "15": {
+            "artist": "Peyo Torres",
+            "title": "Manuela Dame Un Beso"
+        },
+        "16": {
+            "artist": "Gaiteros De San Jacinto",
+            "title": "Ay Curruya"
+        },
+        "17": {
+            "artist": "Conjunto Colombiano",
+            "title": "Cumbia Picante"
+        },
+        "18": {
+            "artist": "Anibal Velasquez",
+            "title": "Cumbia De Rosita"
+        },
+        "19": {
+            "artist": "Los Teen Agers",
+            "title": "Colombia Canta Y Baila"
+        },
+        "20": {
+            "artist": "Diablos De Valledupar",
+            "title": "Gaita Sabrosita"
+        }
+    },
+    "ritmo-santanero-27th-february-2024": {
+        "00": {
+            "artist": "Cumbia De Los Mares",
+            "title": "Roy Rodriquez"
+        },
+        "01": {
+            "artist": "Hombre Pobre",
+            "title": "Lucho Campillo"
+        },
+        "02": {
+            "artist": "Palomita Ecuatoriana",
+            "title": "Plutarco Urrutia"
+        },
+        "03": {
+            "artist": "Cinta Colora",
+            "title": "Plutarco Urrutia"
+        },
+        "04": {
+            "artist": "Maria Victoria",
+            "title": "Gildardo Montoya"
+        },
+        "05": {
+            "artist": "Grito De La Negra",
+            "title": "Condors"
+        },
+        "06": {
+            "artist": "Besitos De Azucar",
+            "title": "Los Demonios De Copacabana"
+        },
+        "07": {
+            "artist": "Sanjuanito Parrandero",
+            "title": "Polibio Mayorga"
+        },
+        "08": {
+            "artist": "Cumbia Morena",
+            "title": "Reyes De La Cumbia"
+        },
+        "09": {
+            "artist": "La Cumbia Del Perro",
+            "title": "Chicken Y Sus Comandos"
+        },
+        "10": {
+            "artist": "Cumbia De Sal",
+            "title": "Mariachi Nuevo Tecalitlan"
+        },
+        "11": {
+            "artist": "El Zapato",
+            "title": "Mike Laure"
+        },
+        "12": {
+            "artist": "Pelotero",
+            "title": "La Bola"
+        },
+        "13": {
+            "artist": "Cumbia Instrumental",
+            "title": "Anibal Velasquez"
+        },
+        "14": {
+            "artist": "Cumbia",
+            "title": "Del Santanero"
+        },
+        "15": {
+            "artist": "La Danza De Los Diablos Locos",
+            "title": "Los Diablos Rojos"
+        },
+        "16": {
+            "artist": "Tobaco Y Ron",
+            "title": "El Cebollon"
+        },
+        "17": {
+            "artist": "Suena",
+            "title": "La Guacharaca"
+        },
+        "18": {
+            "artist": "Cumbia Negra",
+            "title": "Morgan Blanco"
+        },
+        "19": {
+            "artist": "Amor Desdichado",
+            "title": "Super Grupo Colombia"
+        }
+    },
     "ritmo-santanero-2nd-january-2024": {},
     "ritmo-santanero-30th-january-2024": {
         "00": {
