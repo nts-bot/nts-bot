@@ -11,3 +11,11 @@ credentials.json
 predentials.json
 headers_auth.json
 *.lock
+.env
+*.cmd
+*.bat
+*.sh
+jpeg/
+chrome-win64/
+*.ipynb
+.old/
