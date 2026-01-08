@@ -1,0 +1,13 @@
+.venv/
+.vscode
+.log/
+__pycache__/
+.pickle
+.venv
+.cache
+*.cache
+*.cache*
+credentials.json
+predentials.json
+headers_auth.json
+*.lock

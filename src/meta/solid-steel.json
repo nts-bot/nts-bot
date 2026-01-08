@@ -1,0 +1,964 @@
+{
+    "description": "One of the longest running mix shows, Solid Steel, teaming up with NTS for a weekly showcase of new-fangled noises. No messing about, this is straight high-grade tunes and plenty of big guest mixes. ",
+    "dexter-solid-steel-mix-9th-september-2016": {
+        "date": "09.09.16",
+        "title": "Solid Steel - Dexter Dukarus"
+    },
+    "father-solid-steel-mix-9th-september-2016": {
+        "date": "09.09.16",
+        "title": "Solid Steel - Father"
+    },
+    "host-name-w-solid-steel-2nd-february-2018": {
+        "date": "02.02.18",
+        "title": "Solid Steel - Alpha Pup Records"
+    },
+    "ninja-tune-solid-steel-radio-show-2892018-hour-1-andy-hart": {
+        "date": "28.09.18",
+        "title": "Solid Steel - Andy Hart"
+    },
+    "ninja-tune-solid-steel-radio-show-382018-hour-1-dj-haus": {
+        "date": "27.07.18",
+        "title": "Solid Steel - DJ Haus"
+    },
+    "olid-steel-radio-show-20102017-hour-1-airhead": {
+        "date": "20.10.17",
+        "title": "Solid Steel - Airhead"
+    },
+    "olid-steel-radio-show-6102017-hour-1-hundred-waters": {
+        "date": "06.10.17",
+        "title": "Solid Steel - Hundred Waters"
+    },
+    "solid-steel-10th-november-2017": {
+        "date": "10.11.17",
+        "title": "Solid Steel - Kedr Livanskiy"
+    },
+    "solid-steel-16th-february-2018": {
+        "date": "16.02.18",
+        "title": "Solid Steel - J.G. Biberkopf"
+    },
+    "solid-steel-16th-november-2017": {
+        "date": "17.11.17",
+        "title": "Solid Steel w/ Mr Bongo"
+    },
+    "solid-steel-18-08-18": {
+        "date": "18.08.17",
+        "title": "Solid Steel - Kai Whiston"
+    },
+    "solid-steel-18th-may-2018": {
+        "date": "18.05.18",
+        "title": "Solid Steel - rRoxymore"
+    },
+    "solid-steel-21st-december-2017": {
+        "date": "22.12.17",
+        "title": "Solid Steel - Lee Gamble"
+    },
+    "solid-steel-23rd-february-2018": {
+        "date": "23.02.18",
+        "title": "Solid Steel - Wilma Archer"
+    },
+    "solid-steel-3rd-august-2018": {
+        "date": "03.08.18",
+        "title": "Solid Steel - Yu SU"
+    },
+    "solid-steel-5th-january-2018": {
+        "date": "05.01.18",
+        "title": "Solid Steel - Tee Mango"
+    },
+    "solid-steel-9th-february-2018": {
+        "date": "09.02.18",
+        "title": "Solid Steel - CFCF"
+    },
+    "solid-steel-9th-november-2018": {
+        "date": "09.11.18",
+        "title": "Solid Steel - Ruf Dug "
+    },
+    "solid-steel-brame-hamo-9th-november-2018": {
+        "date": "09.11.16",
+        "title": "Solid Steel - Brame & Hamo"
+    },
+    "solid-steel-celestial-trax-10th-november-2017": {
+        "date": "10.11.17",
+        "title": "Solid Steel - Celestial Trax"
+    },
+    "solid-steel-radio-show-02122018-hour-1-dk": {
+        "date": "02.12.18",
+        "title": "Solid Steel - DK"
+    },
+    "solid-steel-radio-show-02122018-hour-2-to-believe-the-cinematic-orchestra-selections": {
+        "date": "02.12.18",
+        "title": "Solid Steel - The Cinematic Orchestra"
+    },
+    "solid-steel-radio-show-04122018-hour-1-the-bug": {
+        "date": "04.12.18",
+        "title": "Solid Steel - THE BUG"
+    },
+    "solid-steel-radio-show-04122018-hour-2-burnt-friedman": {
+        "date": "04.12.18",
+        "title": "Solid Steel - Burnt Friedman"
+    },
+    "solid-steel-radio-show-05122018-hour-1-mark-pritchard-the-milky-man": {
+        "date": "11.12.18",
+        "title": "Solid Steel - Mark Pritchard"
+    },
+    "solid-steel-radio-show-05122018-hour-2-dj-food": {
+        "date": "05.12.18",
+        "title": "Solid Steel - DJ Food"
+    },
+    "solid-steel-radio-show-06122018-hour-1-gerd-janson": {
+        "date": "12.12.18",
+        "title": "Solid Steel - Gerd Janson"
+    },
+    "solid-steel-radio-show-06122018-hour-2-haai": {
+        "date": "12.12.18",
+        "title": "Solid Steel - Haai"
+    },
+    "solid-steel-radio-show-07122018-hour-1-juan-atkins": {
+        "date": "28.12.18",
+        "title": "Solid Steel - Juan Atkins"
+    },
+    "solid-steel-radio-show-07122018-hour-2-coldcut": {
+        "date": "12.12.18",
+        "title": "Solid Steel - Coldcut"
+    },
+    "solid-steel-radio-show-1022017-hour-1-mj-cole": {
+        "date": "10.02.17",
+        "title": "Solid Steel - MJ Cole"
+    },
+    "solid-steel-radio-show-1022017-hour-2-rocketnumbernine": {
+        "date": "10.02.17",
+        "title": "Solid Steel - RocketNumberNine"
+    },
+    "solid-steel-radio-show-1032017-hour-1-hodge": {
+        "date": "10.03.17",
+        "title": "Solid Steel - Hodge"
+    },
+    "solid-steel-radio-show-1032017-hour-2-astral-plane-dj-team": {
+        "date": "10.03.17",
+        "title": "Solid Steel - Astral Plane DJ Team"
+    },
+    "solid-steel-radio-show-1062016-hour-1-will-saul": {
+        "date": "10.06.16",
+        "title": "Solid Steel - Will Saul"
+    },
+    "solid-steel-radio-show-1062016-hour-2-recloose": {
+        "date": "10.06.16",
+        "title": "Solid Steel - Recloose"
+    },
+    "solid-steel-radio-show-1082018-hour-1-route-8": {
+        "date": "10.08.18",
+        "title": "Solid Steel - Route 8"
+    },
+    "solid-steel-radio-show-1082018-hour-2-chevel": {
+        "date": "10.08.18",
+        "title": "Solid Steel - Chevel"
+    },
+    "solid-steel-radio-show-11112016-hour-1-nic-tasker": {
+        "date": "11.11.16",
+        "title": "Solid Steel - Tasker"
+    },
+    "solid-steel-radio-show-11112016-hour-2-worriedaboutsatan": {
+        "date": "11.11.16",
+        "title": "Solid Steel - worriedaboutsatan"
+    },
+    "solid-steel-radio-show-12102018-hour-1-vester-koza": {
+        "date": "12.10.18",
+        "title": "Solid Steel - Vester koza"
+    },
+    "solid-steel-radio-show-12102018-hour-2-imre-kiss": {
+        "date": "12.10.18",
+        "title": "Solid Steel - Imre Kiss"
+    },
+    "solid-steel-radio-show-1212018-hour-1-kevin-saunderson": {
+        "date": "12.01.18",
+        "title": "Solid Steel - Kevin Saunderson"
+    },
+    "solid-steel-radio-show-1212018-hour-2-sunil-sharpe": {
+        "date": "12.01.18",
+        "title": "Solid Steel - Sunil Sharpe"
+    },
+    "solid-steel-radio-show-1282016-hour-1-hieroglyphic-being": {
+        "date": "12.08.16",
+        "title": "Solid Steel - Hieroglyphic Being"
+    },
+    "solid-steel-radio-show-1282016-hour-2-sevdaliza": {
+        "date": "12.08.16",
+        "title": "Solid Steel - Sevdaliza"
+    },
+    "solid-steel-radio-show-13102017-hour-1-telephones": {
+        "date": "13.10.17",
+        "title": "Solid Steel - Telephones"
+    },
+    "solid-steel-radio-show-13102017-hour-2-locked-groove": {
+        "date": "13.10.17",
+        "title": "Solid Steel - Locked Groove"
+    },
+    "solid-steel-radio-show-1312017-hour-1-shapednoise": {
+        "date": "13.01.17",
+        "title": "Solid Steel - Shapednoise"
+    },
+    "solid-steel-radio-show-1312017-hour-2-franklin-de-costa": {
+        "date": "13.01.17",
+        "title": "Solid Steel - Franklin de Costa"
+    },
+    "solid-steel-radio-show-1352016-hour-1-roly-porter": {
+        "date": "13.05.16",
+        "title": "Solid Steel - Roly Porter"
+    },
+    "solid-steel-radio-show-1352016-hour-2-khruangbin": {
+        "date": "13.05.16",
+        "title": "Solid Steel - Khruangbin"
+    },
+    "solid-steel-radio-show-1372018-hour-2-dj-marky": {
+        "date": "13.07.18",
+        "title": "Solid Steel - DJ Marky"
+    },
+    "solid-steel-radio-show-1372018-hour-2-shy-one": {
+        "date": "13.07.18",
+        "title": "Solid Steel - Shy One"
+    },
+    "solid-steel-radio-show-14102016-hour-1-goat": {
+        "date": "14.10.16",
+        "title": "Solid Steel - Goat"
+    },
+    "solid-steel-radio-show-14102016-hour-2-oflynn": {
+        "date": "14.10.16",
+        "title": "Solid Steel - O'Flynn"
+    },
+    "solid-steel-radio-show-1442017-hour-1-saoirse": {
+        "date": "14.04.17",
+        "title": "Solid Steel - Saoirse"
+    },
+    "solid-steel-radio-show-1442017-hour-2-broken-english-club": {
+        "date": "14.04.17",
+        "title": "Solid Steel - Broken English Club"
+    },
+    "solid-steel-radio-show-1472017-hour-1-ben-sims": {
+        "date": "14.07.17",
+        "title": "Solid Steel - Ben Sims"
+    },
+    "solid-steel-radio-show-1472017-hour-2-bochum-welt": {
+        "date": "14.07.17",
+        "title": "Solid Steel - Bochum Welt"
+    },
+    "solid-steel-radio-show-1492018-hour-1-dorian-concept": {
+        "date": "14.09.18",
+        "title": "Solid Steel - Dorian Concept"
+    },
+    "solid-steel-radio-show-1492018-hour-2-rejoicer": {
+        "date": "14.09.18",
+        "title": "Solid Steel - Rejoicer"
+    },
+    "solid-steel-radio-show-15122017-hour-1-lucy": {
+        "date": "15.12.17",
+        "title": "Solid Steel Radio Show - Lucy"
+    },
+    "solid-steel-radio-show-15122017-hour-2-jk-flesh": {
+        "date": "15.12.17",
+        "title": "Solid Steel - JK Flesh"
+    },
+    "solid-steel-radio-show-1562018-hour-1-barely-legal": {
+        "date": "15.06.18",
+        "title": "Solid Steel - barley legal"
+    },
+    "solid-steel-radio-show-1562018-hour-2-mamiko-motto": {
+        "date": "15.06.18",
+        "title": "Solid Steel - mamiko motto"
+    },
+    "solid-steel-radio-show-1572016-hour-1-low-jack": {
+        "date": "15.07.16",
+        "title": "Solid Steel - Low Jack"
+    },
+    "solid-steel-radio-show-1572016-hour-2-lv": {
+        "date": "15.07.16",
+        "title": "Solid Steel - LV"
+    },
+    "solid-steel-radio-show-1592017-hour-1-steffi": {
+        "date": "22.09.17",
+        "title": "Solid Steel - Steffi"
+    },
+    "solid-steel-radio-show-1592017-hour-2-sami-baha": {
+        "date": "22.09.17",
+        "title": "Solid Steel - Sami Baha"
+    },
+    "solid-steel-radio-show-16112018-hour-1-parris": {
+        "date": "16.11.18",
+        "title": "Solid Steel - Parris"
+    },
+    "solid-steel-radio-show-16112018-hour-2-virginia": {
+        "date": "16.11.18",
+        "title": "Solid Steel - Virginia"
+    },
+    "solid-steel-radio-show-16122016-hour-1-lena-willikens": {
+        "date": "16.12.16",
+        "title": "Solid Steel - Lena Willikens"
+    },
+    "solid-steel-radio-show-16122016-hour-2-brandt-brauer-frick": {
+        "date": "16.12.16",
+        "title": "Solid Steel - Brandt Brauer Frick"
+    },
+    "solid-steel-radio-show-162018-hour-1-prefuse-73": {
+        "date": "01.06.18",
+        "title": "Solid Steel - Prefuse 73"
+    },
+    "solid-steel-radio-show-162018-hour-2-neil-cowley": {
+        "date": "01.06.18",
+        "title": "Solid Steel - Neil Cowley"
+    },
+    "solid-steel-radio-show-1622018-hour-1-answer-code-request": {
+        "date": "16.02.18",
+        "title": "Solid Steel - Answer Code Request"
+    },
+    "solid-steel-radio-show-1632018-hour-1-peder-mannerfelt": {
+        "date": "16.03.18",
+        "title": "Solid steel - Peder Mannerfelt"
+    },
+    "solid-steel-radio-show-1632018-hour-2-jamie-tiller": {
+        "date": "16.03.18",
+        "title": "Solid Steel - Jamie Tiller"
+    },
+    "solid-steel-radio-show-1662017-hour-1-tony-allen": {
+        "date": "16.06.17",
+        "title": "Solid Steel - Tony Allen"
+    },
+    "solid-steel-radio-show-1662017-hour-2-egon-now-again": {
+        "date": "16.06.17",
+        "title": "Solid Steel - Egon"
+    },
+    "solid-steel-radio-show-172016-hour-1-real-lies": {
+        "date": "01.07.16",
+        "title": "Solid Steel - Real Lies"
+    },
+    "solid-steel-radio-show-172016-hour-2-szun-waves": {
+        "date": "01.07.16",
+        "title": "Solid Steel - Szun Waves"
+    },
+    "solid-steel-radio-show-1722017-hour-1-pris": {
+        "date": "17.02.17",
+        "title": "Solid Steel - Pris"
+    },
+    "solid-steel-radio-show-1722017-hour-2-urulu": {
+        "date": "17.02.17",
+        "title": "Solid Steel - Urulu"
+    },
+    "solid-steel-radio-show-1732017-fink": {
+        "date": "17.03.17",
+        "title": "Solid Steel - Fink"
+    },
+    "solid-steel-radio-show-1732017-tom-central-shapes-of-rhythm": {
+        "date": "17.03.17",
+        "title": "Solid Steel - Tom Central (Shapes of Rhythm)"
+    },
+    "solid-steel-radio-show-1762016-hour-1-physical-therapy": {
+        "date": "17.06.16",
+        "title": "Solid Steel - Physical Therapy"
+    },
+    "solid-steel-radio-show-1762016-hour-2-ivy-lab": {
+        "date": "17.06.16",
+        "title": "Solid Steel - Ivy Lab"
+    },
+    "solid-steel-radio-show-1782018-hour-1-virgil-abloh": {
+        "date": "17.08.18",
+        "title": "Solid Steel - Virgil Abloh"
+    },
+    "solid-steel-radio-show-1782018-hour-2-jesse-futerman": {
+        "date": "17.08.18",
+        "title": "Solid Steel - Jesse Futerman"
+    },
+    "solid-steel-radio-show-18112016-hour-1-mighty-atom-endtroducing-tribute-mix": {
+        "date": "18.11.16",
+        "title": "Solid Steel - Mighty Atom Endtroducing Tribute Mix"
+    },
+    "solid-steel-radio-show-18112016-hour-2-dj-food": {
+        "date": "18.11.16",
+        "title": "Solid Steel - DJ Food"
+    },
+    "solid-steel-radio-show-19102018-hour-1-taraval": {
+        "date": "19.10.18",
+        "title": "Solid Steel - Taraval"
+    },
+    "solid-steel-radio-show-19102018-hour-2-cromby": {
+        "date": "19.10.18",
+        "title": "Solid Steel - Cromby"
+    },
+    "solid-steel-radio-show-1912018-hour-1-steven-rutter-aka-b12-warp-records-firescope-recordings": {
+        "date": "19.01.18",
+        "title": "Solid Steel - Steven Rutter"
+    },
+    "solid-steel-radio-show-1912018-hour-2-bearcubs": {
+        "date": "19.01.18",
+        "title": "Solid Steel - Bearcubs"
+    },
+    "solid-steel-radio-show-1952017-hour-1-eclair-fifi": {
+        "date": "19.05.17",
+        "title": "Solid Steel - Eclair Fifi"
+    },
+    "solid-steel-radio-show-1952017-hour-2-fyi-chris": {
+        "date": "19.05.17",
+        "title": "Solid Steel - FYI Chris"
+    },
+    "solid-steel-radio-show-20102017-hour-2-krikor": {
+        "date": "20.10.17",
+        "title": "Solid Steel - Krikor"
+    },
+    "solid-steel-radio-show-2012017-hour-2-huntleys-palmers-10-years-of-h-p-mix": {
+        "date": "20.01.17",
+        "title": "Solid Steel - Huntleys & Palmers"
+    },
+    "solid-steel-radio-show-2012017-hour-2-phonica-records-zappan-tee": {
+        "date": "20.01.17",
+        "title": "Solid Steel - Phonica (Zappan Tee)"
+    },
+    "solid-steel-radio-show-2042018-hour-1-gigi-masin": {
+        "date": "20.04.18",
+        "title": "Solid Steel - Gigi Masin"
+    },
+    "solid-steel-radio-show-2042018-hour-2-cid-rim": {
+        "date": "20.04.18",
+        "title": "Solid Steel - Cid Rim"
+    },
+    "solid-steel-radio-show-2052016-hour-1-lone": {
+        "date": "20.05.16",
+        "title": "Solid Steel - Lone"
+    },
+    "solid-steel-radio-show-2052016-hour-2-konx-om-pax": {
+        "date": "20.05.16",
+        "title": "Solid Steel - Konx-om-Pax"
+    },
+    "solid-steel-radio-show-2072018-hour-1-hugo-massien": {
+        "date": "20.07.18",
+        "title": "Solid Steel - Hugo Massien"
+    },
+    "solid-steel-radio-show-2072018-hour-2-ethiopian-records": {
+        "date": "20.07.18",
+        "title": "Solid Steel - Ethiopian Records"
+    },
+    "solid-steel-radio-show-21102016-hour-1-tom-misch": {
+        "date": "21.10.16",
+        "title": "Solid Steel - Tom Misch"
+    },
+    "solid-steel-radio-show-21102016-hour-2-god-colony": {
+        "date": "21.10.16",
+        "title": "Solid Steel - God Colony"
+    },
+    "solid-steel-radio-show-2112018-hour-1-nick-hakim": {
+        "date": "02.11.18",
+        "title": "Solid Steel - Nick Hakim"
+    },
+    "solid-steel-radio-show-2112018-hour-2-astronautica": {
+        "date": "02.11.18",
+        "title": "Solid Steel - Astronautica"
+    },
+    "solid-steel-radio-show-2122016-colleen-cosmo-murphy-david-mancuso-tribute": {
+        "date": "02.12.16",
+        "title": "Solid Steel - Colleen 'Cosmo' Murphy: David Mancuso Tribute"
+    },
+    "solid-steel-radio-show-2142017-hour-1-tyler-pope-lcd-soundsystem": {
+        "date": "21.04.17",
+        "title": "Solid Steel - Tyler Pope (LCD Soundsystem)"
+    },
+    "solid-steel-radio-show-2142017-hour-2-otzeki": {
+        "date": "21.04.17",
+        "title": "Solid Steel - Otzeki"
+    },
+    "solid-steel-radio-show-2172017-hour-1-powell-vs-jaime": {
+        "date": "21.07.17",
+        "title": "Solid Steel - Powell & Jaime"
+    },
+    "solid-steel-radio-show-2172017-hour-2-jim-vs-dan": {
+        "date": "21.07.17",
+        "title": "Solid Steel - Jim vs Dan"
+    },
+    "solid-steel-radio-show-2192018-hour-1-san-proper": {
+        "date": "21.09.18",
+        "title": "Solid Steel - San Proper"
+    },
+    "solid-steel-radio-show-2192018-hour-2-tin-man": {
+        "date": "21.09.18",
+        "title": "Solid Steel - Tin Man"
+    },
+    "solid-steel-radio-show-22122017-hour-2-jon1st": {
+        "date": "22.12.17",
+        "title": "Solid Steel - Jon1st"
+    },
+    "solid-steel-radio-show-222018-hour-1-ronald-bruner-jr": {
+        "date": "02.02.18",
+        "title": "Solid Steel - Ronald Bruner Jr."
+    },
+    "solid-steel-radio-show-2262018-hour-1-hot-chip-megamix": {
+        "date": "22.06.18",
+        "title": "Solid Steel - Hot chip"
+    },
+    "solid-steel-radio-show-2262018-hour-2-françois-x": {
+        "date": "22.06.18",
+        "title": "Solid Steel - francois k"
+    },
+    "solid-steel-radio-show-2272016-hour-1-paleman": {
+        "date": "22.07.16",
+        "title": "Solid Steel - Paleman"
+    },
+    "solid-steel-radio-show-2272016-hour-2-kickflip-mike-luds": {
+        "date": "22.07.16",
+        "title": "Solid Steel - Kickflip Mike & Luds"
+    },
+    "solid-steel-radio-show-2292017-hour-1-dark-entries": {
+        "date": "22.09.17",
+        "title": "Solid Steel - Dark Entries"
+    },
+    "solid-steel-radio-show-2292017-hour-2-blondes": {
+        "date": "22.09.17",
+        "title": "Solid Steel - Blondes"
+    },
+    "solid-steel-radio-show-23112018-hour-1-frank-bretschneider": {
+        "date": "23.11.18",
+        "title": "Solid Steel - Frank Bretschneider"
+    },
+    "solid-steel-radio-show-23112018-hour-2-graham-van-pelt": {
+        "date": "23.11.18",
+        "title": "Solid Steel - Graham Van Pelt"
+    },
+    "solid-steel-radio-show-23122016-hour-1-acid-arab": {
+        "date": "23.12.16",
+        "title": "Solid Steel - Acid Arab"
+    },
+    "solid-steel-radio-show-23122016-hour-2-nikitch": {
+        "date": "23.12.16",
+        "title": "Solid Steel - Nikitch"
+    },
+    "solid-steel-radio-show-232018-hour-1-joe-armon-jones": {
+        "date": "02.03.18",
+        "title": "Solid Steel - Joe Armon-Jones"
+    },
+    "solid-steel-radio-show-2322018-hour-1-marcel-vogel": {
+        "date": "23.02.18",
+        "title": "Solid Steel - Marcel Vogel"
+    },
+    "solid-steel-radio-show-2322018-hour-2-moon-gangs": {
+        "date": "23.02.18",
+        "title": "Solid Steel - 2 Moon Gangs"
+    },
+    "solid-steel-radio-show-2332018-hour-1-tama-sumo": {
+        "date": "23.03.18",
+        "title": "Solid Steel - Tama Sumo"
+    },
+    "solid-steel-radio-show-2332018-hour-2-lakuti": {
+        "date": "23.03.18",
+        "title": "Solid steel - Lakuti"
+    },
+    "solid-steel-radio-show-2362017-hour-1-joe-goddard": {
+        "date": "23.06.17",
+        "title": "Solid Steel - Joe Goddard"
+    },
+    "solid-steel-radio-show-2362017-hour-2-jun-kamoda": {
+        "date": "23.06.17",
+        "title": "Solid Steel - Jun Kamoda"
+    },
+    "solid-steel-radio-show-2392016-hour-1-dj-food": {
+        "date": "23.09.16",
+        "title": "Solid Steel - DJ Food"
+    },
+    "solid-steel-radio-show-2392016-hour-2-grandbrothers": {
+        "date": "23.09.16",
+        "title": "Solid Steel - Grandbrothers"
+    },
+    "solid-steel-radio-show-2422017-hour-1-metronomy": {
+        "date": "24.02.17",
+        "title": "Solid Steel - Metronomy"
+    },
+    "solid-steel-radio-show-2422017-hour-2-bing-ruth": {
+        "date": "24.02.17",
+        "title": "Solid Steel - Bing & Ruth"
+    },
+    "solid-steel-radio-show-2432017-hour-1-raime": {
+        "date": "24.03.17",
+        "title": "Solid Steel - Raime"
+    },
+    "solid-steel-radio-show-2432017-hour-2-jfdr": {
+        "date": "24.03.17",
+        "title": "Solid Steel - JFDR"
+    },
+    "solid-steel-radio-show-2462016-hour-1-moneyshot-cheeba": {
+        "date": "24.06.16",
+        "title": "Solid Steel - Moneyshot & Cheeba"
+    },
+    "solid-steel-radio-show-2462016-hour-2-serendeepity": {
+        "date": "24.06.16",
+        "title": "Solid Steel - Serendeepity"
+    },
+    "solid-steel-radio-show-25112016-hour-1-coldcut": {
+        "date": "25.11.16",
+        "title": "Solid Steel - Coldcut"
+    },
+    "solid-steel-radio-show-25112016-hour-2-adrian-sherwood": {
+        "date": "25.11.16",
+        "title": "Solid Steel - Adrian Sherwood"
+    },
+    "solid-steel-radio-show-2552018-hour-1-beautiful-swimmers": {
+        "date": "25.05.18",
+        "title": "Solid Steel - Beautiful Swimmers"
+    },
+    "solid-steel-radio-show-2552018-hour-2-will-demaggio": {
+        "date": "25.05.18",
+        "title": "Solid Steel - Will DiMaggio"
+    },
+    "solid-steel-radio-show-26102018-hour-1-bambounou": {
+        "date": "26.10.18",
+        "title": "Solid Steel - Bambounou"
+    },
+    "solid-steel-radio-show-26102018-hour-2-puce-mary": {
+        "date": "26.10.18",
+        "title": "Solid Steel - Puce Mary"
+    },
+    "solid-steel-radio-show-2612018-hour-1-ten-years-of-black-acre-akira-kiteshi": {
+        "date": "26.01.18",
+        "title": "Solid Steel - Akira Kiteshi"
+    },
+    "solid-steel-radio-show-2612018-hour-2-cervo": {
+        "date": "26.01.18",
+        "title": "Solid Steel - Cervo"
+    },
+    "solid-steel-radio-show-262017-hour-1-peanut-butter-wolf": {
+        "date": "02.06.17",
+        "title": "Solid Steel - Peanut Butter Wolf"
+    },
+    "solid-steel-radio-show-262017-hour-2-karriem-riggins": {
+        "date": "02.06.17",
+        "title": "Solid Steel - Karriem Riggins"
+    },
+    "solid-steel-radio-show-2682016-hour-1-eprom": {
+        "date": "26.08.16",
+        "title": "Solid Steel - Eprom"
+    },
+    "solid-steel-radio-show-2682016-hour-2-correlations": {
+        "date": "26.08.16",
+        "title": "Solid Steel - Correlations"
+    },
+    "solid-steel-radio-show-27102017-hour-1-helena-hauff": {
+        "date": "27.10.17",
+        "title": "Solid Steel - Helena Hauff"
+    },
+    "solid-steel-radio-show-27102017-hour-2-james-grant-anjunadeep": {
+        "date": "27.10.17",
+        "title": "Solid Steel - James Grant"
+    },
+    "solid-steel-radio-show-2712017-hour-1-martyn": {
+        "date": "27.01.17",
+        "title": "Solid Steel - Martyn"
+    },
+    "solid-steel-radio-show-2712017-hour-2-clocolan": {
+        "date": "27.01.17",
+        "title": "Solid Steel - Clocolan"
+    },
+    "solid-steel-radio-show-2742018-hour-1-chrome-sparks": {
+        "date": "27.04.18",
+        "title": "Solid Steel - Chrome Sparks"
+    },
+    "solid-steel-radio-show-2742018-hour-2-paul-white": {
+        "date": "27.04.18",
+        "title": "Solid Steel - Paul white"
+    },
+    "solid-steel-radio-show-2752016-hour-1-the-invisible": {
+        "date": "27.05.16",
+        "title": "Solid Steel - The Invisible"
+    },
+    "solid-steel-radio-show-2752016-hour-2-erosion-flow": {
+        "date": "27.05.16",
+        "title": "Solid Steel - Erosion Flow"
+    },
+    "solid-steel-radio-show-2772018-hour-1-makeness": {
+        "date": "27.07.18",
+        "title": "Solid Steel"
+    },
+    "solid-steel-radio-show-2772018-hour-2-unseen-worlds": {
+        "date": "27.07.18",
+        "title": "Solid Steel - Unseen Worlds"
+    },
+    "solid-steel-radio-show-28102016-hour-1-warpaint": {
+        "date": "28.10.16",
+        "title": "Solid Steel - Warpaint"
+    },
+    "solid-steel-radio-show-28102016-hour-2-south-london-ordnance": {
+        "date": "28.10.16",
+        "title": "Solid Steel - South London Ordnance"
+    },
+    "solid-steel-radio-show-2842017-hour-1-karen-gwyer": {
+        "date": "28.04.17",
+        "title": "Solid Steel - Karen Gwyer"
+    },
+    "solid-steel-radio-show-2842017-hour-2-kalbata": {
+        "date": "28.04.17",
+        "title": "Solid Steel - kalbata"
+    },
+    "solid-steel-radio-show-2872017-hour-1-avey-tare-animal-collective": {
+        "date": "28.07.17",
+        "title": "Solid Steel - Avey Tare (Animal Collective)"
+    },
+    "solid-steel-radio-show-2872017-hour-2-emma": {
+        "date": "28.07.17",
+        "title": "Solid Steel - E.M.M.A"
+    },
+    "solid-steel-radio-show-2892018-hour-2-rafael-anton-irisarri-ambient-mix": {
+        "date": "28.09.18",
+        "title": "Solid Steel - Rafael Anton Irisarri 'Ambient mix'"
+    },
+    "solid-steel-radio-show-292016-hour-1-murlo": {
+        "date": "02.09.16",
+        "title": "Solid Steel - Murlo"
+    },
+    "solid-steel-radio-show-292016-hour-2-dgohn": {
+        "date": "02.09.16",
+        "title": "Solid Steel - dgoHn"
+    },
+    "solid-steel-radio-show-2962018-hour-1-octo-octa": {
+        "date": "29.06.18",
+        "title": "Solid Steel - Octo Octa"
+    },
+    "solid-steel-radio-show-2962018-hour-2-proc-fiskal": {
+        "date": "29.06.18",
+        "title": "Solid Steel - Proc Fiskal"
+    },
+    "solid-steel-radio-show-2992017-hour-1-washed-out": {
+        "date": "29.09.17",
+        "title": "Solid Steel - Washed Out"
+    },
+    "solid-steel-radio-show-2992017-hour-2-oye-records": {
+        "date": "29.09.17",
+        "title": "Solid Steel - OYE Records"
+    },
+    "solid-steel-radio-show-30112018-hour-1-eomac": {
+        "date": "30.11.18",
+        "title": "Solid Steel - Eomac"
+    },
+    "solid-steel-radio-show-30112018-hour-2-smith-and-mighty": {
+        "date": "30.11.18",
+        "title": "Solid Steel - Smith & Mighty"
+    },
+    "solid-steel-radio-show-3032018-hour-1-ejeca": {
+        "date": "30.03.18",
+        "title": "Solid Steel - ejeca"
+    },
+    "solid-steel-radio-show-3032018-hour-2-hammer": {
+        "date": "30.03.18",
+        "title": "Solid Steel - Hammer"
+    },
+    "solid-steel-radio-show-3062017-hour-2-darwin": {
+        "date": "30.06.17",
+        "title": "Solid Steel - Darwin"
+    },
+    "solid-steel-radio-show-3062017-hour-2-sei-a": {
+        "date": "30.06.17",
+        "title": "Solid Steel - Sei a"
+    },
+    "solid-steel-radio-show-3092016-hour-1-wife": {
+        "date": "30.09.16",
+        "title": "Solid Steel - WIFE"
+    },
+    "solid-steel-radio-show-3092016-hour-2-gage": {
+        "date": "30.09.16",
+        "title": "Solid Steel - Gage"
+    },
+    "solid-steel-radio-show-3132017-hour-1-little-dragon": {
+        "date": "31.03.17",
+        "title": "Solid Steel - Little Dragon"
+    },
+    "solid-steel-radio-show-3132017-hour-2-kelly-lee-owens": {
+        "date": "31.03.17",
+        "title": "Solid Steel - Kelly Lee Owens"
+    },
+    "solid-steel-radio-show-3182018-hour-1-nick-höppner": {
+        "date": "31.08.18",
+        "title": "Solid Steel - nick hoppner"
+    },
+    "solid-steel-radio-show-3182018-hour-2-elena-colombi": {
+        "date": "31.08.18",
+        "title": "Solid Steel - Elena Colombi"
+    },
+    "solid-steel-radio-show-322017-hour-1-blanck-mass": {
+        "date": "03.02.17",
+        "title": "Solid Steel - Blanck Mass"
+    },
+    "solid-steel-radio-show-322017-hour-2-jesse-osborne-lanthier": {
+        "date": "03.02.17",
+        "title": "Solid Steel - Jesse Osborne-Lanthier"
+    },
+    "solid-steel-radio-show-332017-hour-1-dark0": {
+        "date": "03.03.17",
+        "title": "Solid Steel - Dark0"
+    },
+    "solid-steel-radio-show-332017-hour-2-dk": {
+        "date": "03.03.17",
+        "title": "Solid Steel - DK"
+    },
+    "solid-steel-radio-show-362016-hour-1-isaac-tichauer-lancelot": {
+        "date": "03.06.16",
+        "title": "Solid Steel - Isaac Tichauer & Lancelot"
+    },
+    "solid-steel-radio-show-362016-hour-2-peggy-gou": {
+        "date": "03.06.16",
+        "title": "Solid Steel - Peggy Gou"
+    },
+    "solid-steel-radio-show-4112016-hour-1-mr-g": {
+        "date": "04.11.16",
+        "title": "Solid Steel - Mr. G"
+    },
+    "solid-steel-radio-show-4112016-hour-2-taraval": {
+        "date": "04.11.16",
+        "title": "Solid Steel - Taraval"
+    },
+    "solid-steel-radio-show-452018-hour-1-sassy-j": {
+        "date": "04.05.18",
+        "title": "Solid Steel - Sassy J"
+    },
+    "solid-steel-radio-show-452018-hour-2-jordan": {
+        "date": "04.05.18",
+        "title": "Solid Steel - Jordan"
+    },
+    "solid-steel-radio-show-5102018-hour-1-etch": {
+        "date": "05.10.18",
+        "title": "Solid Steel - Etch"
+    },
+    "solid-steel-radio-show-5102018-hour-2-maarja-nuut-ruum": {
+        "date": "05.10.18",
+        "title": "Solid Steel - Maarja Nuut & Ruum"
+    },
+    "solid-steel-radio-show-512018-hour-2-banoffee-pies": {
+        "date": "05.01.18",
+        "title": "Solid Steel - Banoffee Pies"
+    },
+    "solid-steel-radio-show-552017-hour-1-pangaea": {
+        "date": "05.05.17",
+        "title": "Solid Steel - Pangaea"
+    },
+    "solid-steel-radio-show-552017-hour-2-luaka-bop": {
+        "date": "05.05.17",
+        "title": "Solid Steel - Luaka Bop"
+    },
+    "solid-steel-radio-show-6102017-hour-2-blue-hawaii": {
+        "date": "06.10.17",
+        "title": "Solid Steel - Blue Hawaii"
+    },
+    "solid-steel-radio-show-642018-hour-1-dan-the-automator-dr-octagon": {
+        "date": "06.04.18",
+        "title": "Solid Steel - Dan The Automator (Dr Octagon)"
+    },
+    "solid-steel-radio-show-642018-hour-2-adam-freeland": {
+        "date": "06.04.18",
+        "title": "Solid Steel - Adam Freeland"
+    },
+    "solid-steel-radio-show-652016-hour-1-phaeleh": {
+        "date": "06.05.16",
+        "title": "Solid Steel - Phaeleh"
+    },
+    "solid-steel-radio-show-652016-hour-2-alex-seidel": {
+        "date": "06.05.16",
+        "title": "Solid Steel - Alex Seidel"
+    },
+    "solid-steel-radio-show-672018-hour-1-dauwd": {
+        "date": "06.07.18",
+        "title": "Solid Steel - Dauwd"
+    },
+    "solid-steel-radio-show-672018-hour-2-red-axes": {
+        "date": "06.07.18",
+        "title": "Solid Steel - Red Axes"
+    },
+    "solid-steel-radio-show-7102016-hour-1-light-in-the-attic": {
+        "date": "07.10.16",
+        "title": "Solid Steel - Light In The Attic"
+    },
+    "solid-steel-radio-show-7102016-hour-2-herva": {
+        "date": "07.10.16",
+        "title": "Solid Steel - Herva"
+    },
+    "solid-steel-radio-show-742017-hour-1-mor-elian": {
+        "date": "07.04.17",
+        "title": "Solid Steel - Mor-elian"
+    },
+    "solid-steel-radio-show-742017-hour-2-tenderlonious": {
+        "date": "07.04.17",
+        "title": "Solid Steel - Tenderlonius"
+    },
+    "solid-steel-radio-show-772017-hour-1-braiden": {
+        "date": "07.07.17",
+        "title": "Solid Steel - Braiden"
+    },
+    "solid-steel-radio-show-772017-hour-2-dj-food": {
+        "date": "07.07.17",
+        "title": "Solid Steel - DJ Food"
+    },
+    "solid-steel-radio-show-792018-hour-2-auntie-flo": {
+        "date": "07.09.18",
+        "title": "Solid Steel - Auntie Flo"
+    },
+    "solid-steel-radio-show-792018-hour-2-ital-tek": {
+        "date": "07.09.18",
+        "title": "Solid Steel - Ital Tek"
+    },
+    "solid-steel-radio-show-8122017-hour-1-jayda-g": {
+        "date": "08.12.17",
+        "title": "Solid Steel - Jayda G"
+    },
+    "solid-steel-radio-show-8122017-hour-2-gene-tellem": {
+        "date": "08.12.17",
+        "title": "Solid Steel - Gene Tellem"
+    },
+    "solid-steel-radio-show-862018-hour-1-everything-is-recorded": {
+        "date": "08.06.18",
+        "title": "Solid Steel - Everything is Recorded "
+    },
+    "solid-steel-radio-show-862018-hour-2-haider": {
+        "date": "08.06.18",
+        "title": "Solid Steel - Haider "
+    },
+    "solid-steel-radio-show-872016-hour-1-big-dope-p": {
+        "date": "08.07.16",
+        "title": "Solid Steel - Big Dope P"
+    },
+    "solid-steel-radio-show-872016-hour-2-ig-culture": {
+        "date": "08.07.16",
+        "title": "Solid Steel - IG Culture"
+    },
+    "solid-steel-radio-show-892017-hour-1-project-pablo": {
+        "date": "08.09.17",
+        "title": "Solid Steel - Project pablo"
+    },
+    "solid-steel-radio-show-892017-hour-2-indian-wells": {
+        "date": "08.09.17",
+        "title": "Solid Steel - Indian Wells"
+    },
+    "solid-steel-radio-show-9122016-hour-1-king-geedorah-snake-charmer-mix": {
+        "date": "09.12.16",
+        "title": "Solid Steel - King Geedorah - Snake Charmer Mix"
+    },
+    "solid-steel-radio-show-9122016-hour-2-jon-1st": {
+        "date": "09.12.16",
+        "title": "Solid Steel - Jon 1st"
+    },
+    "solid-steel-radio-show-922018-hour-1-robert-hood": {
+        "date": "09.02.18",
+        "title": "Solid Steel - Robert Hood"
+    },
+    "solid-steel-radio-show-932018-hour-1-todd-edwards": {
+        "date": "09.03.18",
+        "title": "Solid Steel - Todd Edwards"
+    },
+    "solid-steel-radio-show-932018-hour-2-garden-city-movement": {
+        "date": "09.03.18",
+        "title": "Solid Steel - Garden City Movement"
+    },
+    "solid-steel-radio-show-962017-hour-1-equiknoxx": {
+        "date": "09.06.17",
+        "title": "Solid Steel - Equiknoxx"
+    },
+    "solid-steel-radio-show-962017-hour-2-james-heather": {
+        "date": "09.06.17",
+        "title": "Solid Steel - James Heather"
+    },
+    "solid-steel-solid-blake-18th-may-2018": {
+        "date": "18.05.18",
+        "title": "Solid Steel - Solid Blake"
+    },
+    "solid-steel-w-omulu-ioia-17th-november-2017": {
+        "date": "17.11.17",
+        "title": "Soid Steel w/ Omulu & IOIA"
+    },
+    "title": "Solid Steel"
+}

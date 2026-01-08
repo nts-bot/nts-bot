@@ -1,0 +1,912 @@
+{
+    "404-eros-8th-april-2022": {
+        "date": "08.04.22",
+        "title": "The NTS Breakfast Show w/ 404 eros & Nourished By Time"
+    },
+    "anz-16th-september-2022": {
+        "date": "16.09.22",
+        "title": "The NTS Breakfast Show w/ Anz"
+    },
+    "breakfast-13th-september-2021": {
+        "date": "13.09.21",
+        "title": "The NTS Breakfast Show w/ Flo"
+    },
+    "breakfast-21st-may-2024": {
+        "date": "21.05.24",
+        "title": "The NTS Breakfast Show W/ ZEZI"
+    },
+    "breakfast-22nd-october-2021": {
+        "date": "22.10.21",
+        "title": "The NTS Breakfast Show w/ Lupini"
+    },
+    "breakfast-23rd-september-2021": {
+        "date": "23.09.21",
+        "title": "The NTS Breakfast Show w/ Tasker"
+    },
+    "breakfast-25th-april-2022": {
+        "date": "25.04.22",
+        "title": "THE NTS BREAKFAST SHOW w/ Drakeford"
+    },
+    "breakfast-27th-october-2021": {
+        "date": "27.10.21",
+        "title": "The NTS Breakfast Show w/ Mafalda & Louise Chen"
+    },
+    "breakfast-28th-october-2021": {
+        "date": "28.10.21",
+        "title": "The NTS Breakfast Show w/ Macca"
+    },
+    "breakfast-2nd-november-2021": {
+        "date": "02.11.21",
+        "title": "The NTS Breakfast Show w/ Flo - Covers Special "
+    },
+    "breakfast-2nd-september-2021": {
+        "date": "02.09.21",
+        "title": "Breakfast w/ Gabi"
+    },
+    "breakfast-31st-may-2024": {
+        "date": "31.05.24",
+        "title": "The NTS Breakfast Show W/ THE PILOTWINGS"
+    },
+    "breakfast-3rd-september-2021": {
+        "date": "03.09.21",
+        "title": "Breakfast w/ Anu"
+    },
+    "breakfast-4th-october-2021": {
+        "date": "04.10.21",
+        "title": "The NTS Breakfast Show w/ Flo"
+    },
+    "breakfast-6th-june-2022": {
+        "date": "06.06.22",
+        "title": "The NTS Breakfast Show w/ Pender Street Steppers & DJ Ray "
+    },
+    "breakfast-6th-september-2021": {
+        "date": "06.09.21",
+        "title": "Breakfast w/ Peach"
+    },
+    "breakfast-7th-september-2021": {
+        "date": "07.09.21",
+        "title": "Breakfast w/ Children of Zeus"
+    },
+    "breakfast-8th-september-2021": {
+        "date": "08.09.21",
+        "title": "Breakfast w/ Ruf Dug"
+    },
+    "breakfast-9th-september-2021": {
+        "date": "09.09.21",
+        "title": "Breakfast w/ Lupini"
+    },
+    "breakfast-annabel-fraser-12th-april-2024": {
+        "date": "12.04.24",
+        "title": "The NTS Breakfast Show w/ ANNABEL FRASER"
+    },
+    "breakfast-anu-theo-11th-july-2025": {
+        "date": "11.07.25",
+        "title": "The NTS Breakfast Show w/ Anu & Theo"
+    },
+    "breakfast-anz-3rd-may-2024": {
+        "date": "03.05.24",
+        "title": "The NTS Breakfast Show w/ Anz"
+    },
+    "breakfast-apiento-27th-february-2025": {
+        "date": "27.02.25",
+        "title": "The NTS Breakfast Show w/ Apiento"
+    },
+    "breakfast-aqwea-13th-june-2025": {
+        "date": "13.06.25",
+        "title": "The NTS Breakfast Show w/ AQWEA"
+    },
+    "breakfast-astrid-sonne-4th-december-2025": {
+        "date": "04 Dec 2025",
+        "title": "The NTS Breakfast Show w/ ASTRID SONNE"
+    },
+    "breakfast-baba-stiltz-7th-august-2023": {
+        "date": "07.08.23",
+        "title": "The NTS Breakfast Show w/ Baba Stiltz"
+    },
+    "breakfast-babyschon-18th-september-2024": {
+        "date": "18.09.24",
+        "title": "The NTS Breakfast Show w/ BABYSCHÖN"
+    },
+    "breakfast-bill-brewster-22nd-may-2024": {
+        "date": "22.05.24",
+        "title": "The NTS Breakfast Show w/ BILL BREWSTER"
+    },
+    "breakfast-bill-brewster-31st-october-2023": {
+        "date": "31.10.23",
+        "title": "The NTS Breakfast Show w/ BILL BREWSTER"
+    },
+    "breakfast-bill-brewster-9th-september-2025": {
+        "date": "09 Sep 2025",
+        "title": "The NTS Breakfast Show w/ Bill Brewster "
+    },
+    "breakfast-bradley-zero-19th-december-2025": {
+        "date": "19 Dec 2025",
+        "title": "The NTS Breakfast Show w/ Bradley Zero"
+    },
+    "breakfast-bushes-31st-july-2025": {
+        "date": "31 Jul 2025",
+        "title": "The NTS Breakfast Show w/ Bushis"
+    },
+    "breakfast-call-super-parris-19th-september-2025": {
+        "date": "19 Sep 2025",
+        "title": "The NTS Breakfast Show w/ CALL SUPER & PARRIS"
+    },
+    "breakfast-cami-laye-okun-27th-may-2024": {
+        "date": "27.05.24",
+        "title": "The NTS Breakfast Show w/ CAMI LAYÉ OKÚN"
+    },
+    "breakfast-cami-laye-okun-8th-may-2025": {
+        "date": "08.05.25",
+        "title": "The NTS Breakfast Show w/ CAMI LAYÉ OKÚN"
+    },
+    "breakfast-cami-laye-okun-9th-november-2023": {
+        "date": "09.11.23",
+        "title": "The NTS Breakfast Show w/ CAMI LAYÉ OKÚN"
+    },
+    "breakfast-charlie-satsumas-14th-july-2025": {
+        "date": "14.07.25",
+        "title": "The NTS Breakfast Show w/ Charlie Satsumas"
+    },
+    "breakfast-charlie-satsumas-17th-february-2025": {
+        "date": "17.02.25",
+        "title": "The NTS Breakfast Show w/ CHARLIE SATSUMAS"
+    },
+    "breakfast-charlie-satsumas-17th-september-2024": {
+        "date": "17.09.24",
+        "title": "The NTS Breakfast Show w/ CHARLIE SATSUMAS"
+    },
+    "breakfast-charlie-satsumas-20th-may-2024": {
+        "date": "20.05.24",
+        "title": "The NTS Breakfast Show w/ CHARLIE SATSUMAS"
+    },
+    "breakfast-charlie-satsumas-28th-april-2025": {
+        "date": "28.04.25",
+        "title": "The NTS Breakfast Show w/ Charlie Satsumas"
+    },
+    "breakfast-charlie-satsusmas-10th-february-2025": {
+        "date": "10.02.25",
+        "title": "The NTS Breakfast Show w/ CHARLIE SATSUSMAS"
+    },
+    "breakfast-cheb-mimo-28th-june-2024": {
+        "date": "28.06.24",
+        "title": "The NTS Breakfast Show w/ CHEB MIMO"
+    },
+    "breakfast-coco-maria-11th-april-2024": {
+        "date": "11.04.24",
+        "title": "The NTS Breakfast Show w/ Coco Maria"
+    },
+    "breakfast-coco-maria-17th-april-2024": {
+        "date": "18.04.24",
+        "title": "The NTS Breakfast Show w/ COCO MARIA"
+    },
+    "breakfast-danny-bushes-9th-august-2023": {
+        "date": "09.08.23",
+        "title": "The NTS Breakfast Show w/ Danny Bushes"
+    },
+    "breakfast-dj-python-10th-may-2024": {
+        "date": "10.05.24",
+        "title": "The NTS Breakfast Show w/ DJ PYTHON"
+    },
+    "breakfast-dj-python-gala-colivet-dennison-12th-april-2023": {
+        "date": "12.04.23",
+        "title": "The NTS Breakfast Show w/ DJ PYTHON "
+    },
+    "breakfast-dry-cleaning-4th-march-2025": {
+        "date": "04.03.25",
+        "title": "The NTS Breakfast Show w/ Dry Cleaning"
+    },
+    "breakfast-eclair-fifi-18th-april-2023": {
+        "date": "18.04.23",
+        "title": "The NTS Breakfast Show w/ Eclair Fifi"
+    },
+    "breakfast-eclair-fifi-21st-june-2024": {
+        "date": "21.06.24",
+        "title": "The NTS Breakfast Show w/ ECLAIR FIFI"
+    },
+    "breakfast-eclair-fifi-8th-august-2023": {
+        "date": "08.08.23",
+        "title": "The NTS Breakfast Show w/ Eclair Fifi"
+    },
+    "breakfast-errol-and-alex-rita-25th-august-2025": {
+        "date": "25 Aug 2025",
+        "title": "The NTS Breakfast Show w/ ERROL AND ALEX RITA"
+    },
+    "breakfast-fauzia-10th-july-2025": {
+        "date": "10.07.25",
+        "title": "The NTS Breakfast Show w/ Fauzia"
+    },
+    "breakfast-fauzia-3rd-november-2023": {
+        "date": "03.11.23",
+        "title": "The NTS Breakfast Show w/ FAUZIA"
+    },
+    "breakfast-fauzia-5th-december-2025": {
+        "date": "05 Dec 2025",
+        "title": "THE NTS BREAKFAST SHOW w/ FAUZIA "
+    },
+    "breakfast-femi-vegyn-19th-april-2023": {
+        "date": "19.04.23",
+        "title": "The NTS Breakfast Show w/ FEMI, VEGYN & JAZMIN"
+    },
+    "breakfast-fergus-clark-15th-july-2025": {
+        "date": "15.07.25",
+        "title": "The NTS Breakfast Show w/ Fergus Clark"
+    },
+    "breakfast-fergus-clark-17th-april-2023": {
+        "date": "17.04.23",
+        "title": "The NTS Breakfast Show w/ Fergus Clark"
+    },
+    "breakfast-fergus-clark-1st-april-2024": {
+        "date": "01.04.24",
+        "title": "The NTS Breakfast Show w/ Fergus Clark"
+    },
+    "breakfast-fergus-clark-1st-july-2024": {
+        "date": "01.07.24",
+        "title": "The NTS Breakfast Show w/ Fergus Clark"
+    },
+    "breakfast-fergus-clark-23rd-may-2024": {
+        "date": "23.05.24",
+        "title": "The NTS Breakfast Show w/ Fergus Clark"
+    },
+    "breakfast-fergus-clark-24th-july-2024": {
+        "date": "24.07.24",
+        "title": "The NTS Breakfast Show w/ Fergus Clark"
+    },
+    "breakfast-fergus-clark-25th-march-2024": {
+        "date": "25.03.24",
+        "title": "The NTS Breakfast Show w/ Fergus Clark"
+    },
+    "breakfast-fergus-clark-28th-november-2024": {
+        "date": "28.11.24",
+        "title": "The NTS Breakfast Show w/ Fergus Clark"
+    },
+    "breakfast-fergus-clark-6th-november-2023": {
+        "date": "06.11.23",
+        "title": "The NTS Breakfast Show w/ Fergus Clark"
+    },
+    "breakfast-finn-12th-december-2025": {
+        "date": "12 Dec 2025",
+        "title": "The NTS Breakfast Show w/ FINN"
+    },
+    "breakfast-finn-15th-november-2024": {
+        "date": "15.11.24",
+        "title": "The NTS Breakfast Show w/ Finn"
+    },
+    "breakfast-finn-19th-april-2024": {
+        "date": "19.04.24",
+        "title": "The NTS Breakfast Show w/ Finn"
+    },
+    "breakfast-finn-25th-april-2025": {
+        "date": "25.04.25",
+        "title": "The NTS Breakfast Show w/ Finn"
+    },
+    "breakfast-finn-5th-september-2025": {
+        "date": "05 Sep 2025",
+        "title": "The NTS Breakfast Show w/ Finn"
+    },
+    "breakfast-finn-7th-march-2025": {
+        "date": "07.03.25",
+        "title": "The NTS Breakfast Show w/ Finn"
+    },
+    "breakfast-finn-8th-january-2026": {
+        "date": "08 Jan 2026",
+        "title": "The NTS Breakfast Show w/ Finn"
+    },
+    "breakfast-flying-nun-records-2nd-december-2025": {
+        "date": "02 Dec 2025",
+        "title": "The NTS Breakfast Show w/ FLYING NUN RECORDS"
+    },
+    "breakfast-gabi-12th-august-2024": {
+        "date": "12.08.24",
+        "title": "The NTS Breakfast Show w/ GABI"
+    },
+    "breakfast-gabi-17th-march-2025": {
+        "date": "17.03.25",
+        "title": "The NTS Breakfast Show w/ GABI"
+    },
+    "breakfast-gabi-26th-march-2024": {
+        "date": "26.03.24",
+        "title": "The NTS Breakfast Show w/ Gabi"
+    },
+    "breakfast-gabi-3rd-december-2025": {
+        "date": "03 Dec 2025",
+        "title": "The NTS Breakfast Show w/ GABI"
+    },
+    "breakfast-gabi-7th-august-2025": {
+        "date": "07 Aug 2025",
+        "title": "The NTS Breakfast Show w/ GABI"
+    },
+    "breakfast-george-riley-12th-july-2024": {
+        "date": "12.07.24",
+        "title": "The NTS Breakfast Show w/ George Riley & Cosha"
+    },
+    "breakfast-george-riley-20th-june-2025": {
+        "date": "20.06.25",
+        "title": "The NTS Breakfast Show w/ GEORGE RILEY & KWAME DAPAA"
+    },
+    "breakfast-george-riley-kwame-dapaa-5th-july-2024": {
+        "date": "05.07.24",
+        "title": "The NTS Breakfast Show w/ George Riley & Kwame Dapaa"
+    },
+    "breakfast-giulia-tess-29th-november-2024": {
+        "date": "29.11.24",
+        "title": "The NTS Breakfast Show w/ Giulia Tess"
+    },
+    "breakfast-goya-gumbani-19th-june-2025": {
+        "date": "19.06.25",
+        "title": "The NTS Breakfast Show w/ GOYA GUMBANI"
+    },
+    "breakfast-james-massiah-19th-july-2024": {
+        "date": "19.07.24",
+        "title": "The NTS Breakfast Show w/ James Massiah"
+    },
+    "breakfast-jayda-g-8th-november-2023": {
+        "date": "08.11.23",
+        "title": "The NTS Breakfast Show w/ Jayda G"
+    },
+    "breakfast-john-gomez-carlos-nino-saul-williams-7th-november-2025": {
+        "date": "07 Nov 2025",
+        "title": "The NTS Breakfast Show w/ John Gómez, Carlos Niño & Saul Williams"
+    },
+    "breakfast-laura-groves-3rd-march-2025": {
+        "date": "03.03.25",
+        "title": "The NTS Breakfast Show w/ Laura Groves & Everything is Recorded"
+    },
+    "breakfast-leon-vynehall-11th-february-2025": {
+        "date": "11.02.25",
+        "title": "The NTS Breakfast Show w/ LEON VYNEHALL"
+    },
+    "breakfast-leon-vynehall-1st-november-2024": {
+        "date": "01.11.24",
+        "title": "The NTS Breakfast Show w/ Leon Vynehall"
+    },
+    "breakfast-leon-vynehall-26th-july-2024": {
+        "date": "26.07.24",
+        "title": "The NTS Breakfast Show w/ Leon Vynehall"
+    },
+    "breakfast-leon-vynehall-30th-may-2025": {
+        "date": "30.05.25",
+        "title": "The NTS Breakfast Show w/ Leon Vynehall "
+    },
+    "breakfast-leon-vynehall-31st-october-2025": {
+        "date": "31 Oct 2025",
+        "title": "The NTS Breakfast Show w/ LEON VYNEHALL"
+    },
+    "breakfast-lil-c-1st-august-2025": {
+        "date": "01 Aug 2025",
+        "title": "The NTS Breakfast Show w/ LIL C"
+    },
+    "breakfast-lil-c-1st-november-2023": {
+        "date": "01.11.23",
+        "title": "The NTS Breakfast Show w/ Lil C"
+    },
+    "breakfast-loose-bones-30th-june-2025": {
+        "date": "30.06.25",
+        "title": "The NTS Breakfast Show w/ LOOSE BONES"
+    },
+    "breakfast-louise-chen-11th-december-2023": {
+        "date": "11.12.23",
+        "title": "The NTS Breakfast Show w/ Louise Chen"
+    },
+    "breakfast-lupini-5th-december-2024": {
+        "date": "05.12.24",
+        "title": "The NTS Breakfast Show w/ Lupini"
+    },
+    "breakfast-lupini-8th-september-2025": {
+        "date": "08 Sep 2025",
+        "title": "The NTS Breakfast Show w/ Lupini"
+    },
+    "breakfast-mafalda-10th-november-2023": {
+        "date": "10.11.23",
+        "title": "The NTS Breakfast Show w/ Mafalda"
+    },
+    "breakfast-mafalda-29th-september-2023": {
+        "date": "29.09.23",
+        "title": "The NTS Breakfast Show w/ Mafalda"
+    },
+    "breakfast-mafalda-6th-march-2025": {
+        "date": "06.03.25",
+        "title": "The NTS Breakfast Show w/ MAFALDA"
+    },
+    "breakfast-marshmello-18th-september-2025": {
+        "date": "18 Sep 2025",
+        "title": "The NTS Breakfast Show w/ MARSHMELLO"
+    },
+    "breakfast-marshmello-3rd-march-2023": {
+        "date": "03.03.23",
+        "title": "The NTS Breakfast Show w/ Marshmello"
+    },
+    "breakfast-minus-kendal-30th-october-2023": {
+        "date": "30.10.23",
+        "title": "The NTS Breakfast Show w/ MINUS KENDAL"
+    },
+    "breakfast-moxie-2nd-february-2024": {
+        "date": "02.02.24",
+        "title": "The NTS Breakfast Show w/ Moxie"
+    },
+    "breakfast-moxie-6th-december-2024": {
+        "date": "06.12.24",
+        "title": "The NTS Breakfast Show w/ Moxie"
+    },
+    "breakfast-naima-karlsson-1st-april-2024": {
+        "date": "02.04.24",
+        "title": "The NTS Breakfast Show w/ NAIMA KARLSSON"
+    },
+    "breakfast-nic-tasker-1st-december-2025": {
+        "date": "01 Dec 2025",
+        "title": "The NTS Breakfast Show w/ NIC TASKER"
+    },
+    "breakfast-ok-williams-27th-march-2024": {
+        "date": "27.03.24",
+        "title": "The NTS Breakfast Show w/ OK WILLIAMS"
+    },
+    "breakfast-ok-williams-4th-july-2024": {
+        "date": "04.07.24",
+        "title": "The NTS Breakfast Show w/ OK Williams"
+    },
+    "breakfast-ok-williams-5th-april-2023": {
+        "date": "05.04.23",
+        "title": "The NTS Breakfast Show w/ OK Williams"
+    },
+    "breakfast-ok-williams-9th-may-2025": {
+        "date": "09.05.25",
+        "title": "The NTS Breakfast Show w/ OK WILLIAMS"
+    },
+    "breakfast-olivia-dean-10th-march-2025": {
+        "date": "10.03.25",
+        "title": "The NTS Breakfast Show w/ Olivia Dean"
+    },
+    "breakfast-olivia-dean-11th-march-2025": {
+        "date": "11.03.25",
+        "title": "The NTS Breakfast Show w/ Olivia Dean"
+    },
+    "breakfast-olivia-dean-12th-march-2025": {
+        "date": "12.03.25",
+        "title": "The NTS Breakfast Show w/ Olivia Dean"
+    },
+    "breakfast-olivia-dean-16th-september-2024": {
+        "date": "16.09.24",
+        "title": "The NTS Breakfast Show w/ OLIVIA DEAN"
+    },
+    "breakfast-olivia-dean-23rd-january-2025": {
+        "date": "23.01.25",
+        "title": "The NTS Breakfast Show w/ OLIVIA DEAN"
+    },
+    "breakfast-olivia-dean-5th-june-2025": {
+        "date": "05.06.25",
+        "title": "The NTS Breakfast Show w/ OLIVIA DEAN"
+    },
+    "breakfast-palms-trax-10th-october-2025": {
+        "date": "10 Oct 2025",
+        "title": "The NTS Breakfast Show w/ PALMS TRAX"
+    },
+    "breakfast-palms-trax-18th-march-2025": {
+        "date": "18.03.25",
+        "title": "The NTS Breakfast Show w/ PALMS TRAX"
+    },
+    "breakfast-palms-trax-19th-march-2025": {
+        "date": "19.03.25",
+        "title": "The NTS Breakfast Show w/ PALMS TRAX"
+    },
+    "breakfast-pam-10th-september-2025": {
+        "date": "10 Sep 2025",
+        "title": "The NTS Breakfast Show w/ PAM"
+    },
+    "breakfast-pam-17th-may-2024": {
+        "date": "17.05.24",
+        "title": "The NTS Breakfast Show w/ PAM"
+    },
+    "breakfast-pam-21st-november-2024": {
+        "date": "21.11.24",
+        "title": "The NTS Breakfast Show w/ PAM & DJ PYTHON"
+    },
+    "breakfast-pam-2nd-november-2023": {
+        "date": "02.11.23",
+        "title": "The NTS Breakfast Show w/ PAM & Ooops Ooops"
+    },
+    "breakfast-peach-11th-september-2025": {
+        "date": "11 Sep 2025",
+        "title": "The NTS Breakfast Show w/ Peach"
+    },
+    "breakfast-peach-27th-november-2025": {
+        "date": "28 Nov 2025",
+        "title": "The NTS Breakfast Show w/ PEACH"
+    },
+    "breakfast-peach-5th-april-2024": {
+        "date": "05.04.24",
+        "title": "The NTS Breakfast Show w/ Peach"
+    },
+    "breakfast-peach-7th-may-2025": {
+        "date": "07.05.25",
+        "title": "The NTS Breakfast Show w/ PEACH"
+    },
+    "breakfast-prestige-pak-26th-april-2024": {
+        "date": "26.04.24",
+        "title": "The NTS Breakfast Show w/ PRESTIGE PAK"
+    },
+    "breakfast-prosumer-11th-october-2024": {
+        "date": "04.10.24",
+        "title": "The NTS Breakfast Show w/ Prosumer"
+    },
+    "breakfast-qendresa-2nd-august-2024": {
+        "date": "02.08.24",
+        "title": "The NTS Breakfast Show w/ Qendresa"
+    },
+    "breakfast-rory-14th-august-2024": {
+        "date": "14.08.24",
+        "title": "The NTS Breakfast Show w/ RORY"
+    },
+    "breakfast-rory-26th-june-2023": {
+        "date": "26.06.23",
+        "title": "The NTS Breakfast Show w/ Rory"
+    },
+    "breakfast-rory-7th-november-2023": {
+        "date": "07.11.23",
+        "title": "The NTS Breakfast Show w/ Rory"
+    },
+    "breakfast-ruby-savage-12th-february-2025": {
+        "date": "12.02.25",
+        "title": "The NTS Breakfast Show w/ Ruby Savage"
+    },
+    "breakfast-ruby-savage-13th-november-2025": {
+        "date": "13 Nov 2025",
+        "title": "The NTS Breakfast Show w/ Ruby Savage"
+    },
+    "breakfast-ruby-savage-19th-february-2025": {
+        "date": "19.02.25",
+        "title": "The NTS Breakfast Show w/ RUBY SAVAGE"
+    },
+    "breakfast-ruby-savage-21st-november-2025": {
+        "date": "21 Nov 2025",
+        "title": "The NTS Breakfast Show w/ RUBY SAVAGE"
+    },
+    "breakfast-ruby-savage-24th-january-2025": {
+        "date": "24.01.25",
+        "title": "The NTS Breakfast Show w/ RUBY SAVAGE"
+    },
+    "breakfast-ruby-savage-29th-october-2025": {
+        "date": "29 Oct 2025",
+        "title": "The NTS Breakfast Show w/ RUBY SAVAGE"
+    },
+    "breakfast-ruby-savage-4th-september-2025": {
+        "date": "04 Sep 2025",
+        "title": "The NTS Breakfast Show w/ Ruby Savage "
+    },
+    "breakfast-ruby-savage-7th-january-2026": {
+        "date": "07 Jan 2026",
+        "title": "The NTS Breakfast Show w/ Ruby Savage"
+    },
+    "breakfast-ruf-dug-14th-november-2025": {
+        "date": "14 Nov 2025",
+        "title": "The NTS Breakfast Show w/ RUF DUG"
+    },
+    "breakfast-selassie-6th-may-2025": {
+        "date": "06.05.25",
+        "title": "The NTS Breakfast Show w/ Selassie TBC"
+    },
+    "breakfast-selassie-tbc-14th-june-2024": {
+        "date": "14.06.24",
+        "title": "The NTS Breakfast Show w/ SELASSIE TBC"
+    },
+    "breakfast-selassie-tbc-1st-august-2024": {
+        "date": "01.08.24",
+        "title": "The NTS Breakfast Show w/ Selassie TBC"
+    },
+    "breakfast-selassie-tbc-24th-october-2025": {
+        "date": "24 Oct 2025",
+        "title": "The NTS Breakfast Show w/ Selassie TBC"
+    },
+    "breakfast-smerz-22nd-december-2025": {
+        "date": "22 Dec 2025",
+        "title": "The NTS Breakfast Show w/ SMERZ"
+    },
+    "breakfast-sofie-k-22nd-november-2024": {
+        "date": "22.11.24",
+        "title": "The NTS Breakfast Show w/ Sofie K"
+    },
+    "breakfast-sofie-k-nadia-ksaiba-6th-june-2025": {
+        "date": "06.06.25",
+        "title": "The NTS Breakfast Show w/  SOFIE K & NADIA Ksaiba"
+    },
+    "breakfast-spirit-blue-19th-march-2024": {
+        "date": "19.03.24",
+        "title": "The NTS Breakfast Show w/ Spirit Blue"
+    },
+    "breakfast-steven-julien-12th-september-2025": {
+        "date": "12 Sep 2025",
+        "title": "The NTS Breakfast Show w/ STEVEN JULIEN"
+    },
+    "breakfast-steven-julien-13th-august-2024": {
+        "date": "13.08.24",
+        "title": "The NTS Breakfast Show w/ STEVEN JULIEN"
+    },
+    "breakfast-tash-lc-10th-august-2023": {
+        "date": "10.08.23",
+        "title": "The NTS Breakfast Show w/ Tash LC"
+    },
+    "breakfast-tash-lc-11th-august-2023": {
+        "date": "11.08.23",
+        "title": "The NTS Breakfast Show w/ Tash LC & Jay Jay Revlon"
+    },
+    "breakfast-tash-lc-16th-june-2023": {
+        "date": "16.06.23",
+        "title": "The NTS Breakfast Show w/ Tash LC"
+    },
+    "breakfast-tash-lc-24th-may-2024": {
+        "date": "24.05.24",
+        "title": "The NTS Breakfast Show w/ Tash LC"
+    },
+    "breakfast-tash-lc-28th-march-2025": {
+        "date": "28.03.25",
+        "title": "The NTS Breakfast Show w/ TASH LC"
+    },
+    "breakfast-tash-lc-3rd-october-2025": {
+        "date": "03 Oct 2025",
+        "title": "The NTS Breakfast Show w/ Tash LC"
+    },
+    "breakfast-the-nts-breakfast-show-w-mafalda-1st-february-2024": {
+        "date": "01.02.24",
+        "title": "THE NTS BREAKFAST SHOW W/ MAFALDA"
+    },
+    "breakfast-touching-bass-3rd-april-2024": {
+        "date": "03.04.24",
+        "title": "THE NTS BREAKFAST SHOW W/ ERROL & ALEX RITA (TOUCHING BASS)"
+    },
+    "breakfast-w-anu-13th-october-2021": {
+        "date": "13.10.21",
+        "title": "The NTS Breakfast Show w/ Anu"
+    },
+    "breakfast-w-anu-22nd-august-2021": {
+        "date": "23.08.21",
+        "title": "Breakfast w/ ANU"
+    },
+    "breakfast-w-flo-18th-october-2021": {
+        "date": "18.10.21",
+        "title": "The NTS Breakfast Show w/ Flo"
+    },
+    "breakfast-w-flo14th-september-2021": {
+        "date": "14.09.21",
+        "title": "The NTS Breakfast Show w/ Flo"
+    },
+    "breakfast-w-leon-vynehall-1st-september-2021": {
+        "date": "01.09.21",
+        "title": "Breakfast w/ Leon Vynehall"
+    },
+    "breakfast-w-mafalda-31st-august-2021": {
+        "date": "31.08.21",
+        "title": "Breakfast w/ Mafalda"
+    },
+    "breakfast-w-midland-27th-august-2021": {
+        "date": "27.08.21",
+        "title": "Breakfast w/ Midland"
+    },
+    "breakfast-yu-su-macca-8th-august-2025": {
+        "date": "08 Aug 2025",
+        "title": "The NTS Breakfast Show w/ YU SU & MACCA"
+    },
+    "breakfast-zezi-28th-february-2025": {
+        "date": "28.02.25",
+        "title": "The NTS Breakfast Show w/ Zezi"
+    },
+    "description": "Wake up with NTS…",
+    "fauzia-23rd-september-2022": {
+        "date": "23.09.22",
+        "title": "The NTS Breakfast Show w/ Fauzia"
+    },
+    "fauzia-ok-wiliams-22-april-2022": {
+        "date": "22.04.22",
+        "title": "The NTS Breakfast Show w/ Fauzia & OK Williams"
+    },
+    "james-messiah-15th-september-2022": {
+        "date": "15.09.22",
+        "title": "The NTS Breakfast Show w/ James Massiah"
+    },
+    "macca-22nd-june-2022": {
+        "date": "22.06.22",
+        "title": "The NTS Breakfast Show w/ Macca"
+    },
+    "mafalda-7th-april-2022": {
+        "date": "07.04.22",
+        "title": "The NTS Breakfast Show w/ Mafalda"
+    },
+    "marsha-4th-march-2022": {
+        "date": "03.03.22",
+        "title": "The NTS Breakfast Show w/ Marshmello"
+    },
+    "marshmello-21-april-2022": {
+        "date": "21.04.22",
+        "title": "The NTS Breakfast Show w/ Marshmello"
+    },
+    "marshmello-24th-august-2021": {
+        "date": "24.08.21",
+        "title": "Breakfast w/ Marshmello"
+    },
+    "marshmello-3-march-2022": {
+        "date": "03.03.22",
+        "title": "The NTS Breakfast Show w/ Marshmello"
+    },
+    "nts-breakfast-show-ok-williams-26th-april-2022": {
+        "date": "26.04.22",
+        "title": "The NTS Breakfast Show w/ OK Williams"
+    },
+    "ruf-dug-26th-august-2021": {
+        "date": "26.08.21",
+        "title": "Breakfast w/ Ruf Dug"
+    },
+    "ruf-dug-30th-september-2021": {
+        "date": "30.09.21",
+        "title": "The NTS Breakfast Show w/ Ruf Dug"
+    },
+    "shy-one-25th-august-2021": {
+        "date": "25.08.21",
+        "title": "Breakfast w/ Shy One"
+    },
+    "the-nts-breakfast-show-13th-december-2021": {
+        "date": "13.12.21",
+        "title": "The NTS Breakfast Show w/ Tash LC & Raji Rags"
+    },
+    "the-nts-breakfast-show-1st-november-2021": {
+        "date": "01.11.21",
+        "title": "The NTS Breakfast Show w/ Flo"
+    },
+    "the-nts-breakfast-show-20th-october-2021": {
+        "date": "20.10.21",
+        "title": "The NTS Breakfast Show w/ Macca"
+    },
+    "the-nts-breakfast-show-20th-september-2021": {
+        "date": "20.09.21",
+        "title": "The NTS Breakfast Show w/ Flo"
+    },
+    "the-nts-breakfast-show-22nd-september-2021": {
+        "date": "22.09.21",
+        "title": "The NTS Breakfast Show w/ Finn"
+    },
+    "the-nts-breakfast-show-24th-september-2021": {
+        "date": "24.09.21",
+        "title": "The NTS Breakfast Show w/ Macca"
+    },
+    "the-nts-breakfast-show-29th-september-2021": {
+        "date": "29.09.21",
+        "title": "The NTS Breakfast Show w/ Fauzia"
+    },
+    "the-nts-breakfast-show-404eros-22nd-september-2022": {
+        "date": "22.09.22",
+        "title": "The NTS Breakfast Show w 404 Eros "
+    },
+    "the-nts-breakfast-show-4th-november-2021": {
+        "date": "04.11.21",
+        "title": "The NTS Breakfast Show w/ Fauzia"
+    },
+    "the-nts-breakfast-show-5th-july-2022": {
+        "date": "05.07.22",
+        "title": "The NTS Breakfast Show w/ Rory"
+    },
+    "the-nts-breakfast-show-5th-november-2021": {
+        "date": "05.11.21",
+        "title": "The NTS Breakfast Show w/ Shanti Celeste"
+    },
+    "the-nts-breakfast-show-6th-october-2021": {
+        "date": "06.10.21",
+        "title": "The NTS Breakfast Show w/ Impey & Sleepier"
+    },
+    "the-nts-breakfast-show-7th-october-2021": {
+        "date": "07.10.21",
+        "title": "The NTS Breakfast Show w/ Macca"
+    },
+    "the-nts-breakfast-show-drakeford-050722": {
+        "date": "06.07.22",
+        "title": "The NTS Breakfast Show w/ Drakeford"
+    },
+    "the-nts-breakfast-show-mafalda-21st-september-2022": {
+        "date": "21.09.22",
+        "title": "The NTS Breakfast Show w/ Mafalda"
+    },
+    "the-nts-breakfast-show-rory-26th-september-2022": {
+        "date": "26.09.22",
+        "title": "The NTS Breakfast Show w/ Rory"
+    },
+    "the-nts-breakfast-show-rory-7th-june-2022": {
+        "date": "07.06.22",
+        "title": "The NTS Breakfast Show w/ Rory"
+    },
+    "the-nts-breakfast-show-rory-7th-march-2022": {
+        "date": "07.03.22",
+        "title": "The NTS Breakfast Show w/ Rory"
+    },
+    "the-nts-breakfast-show-w-cc-disco-1st-october-2021": {
+        "date": "01.10.21",
+        "title": "The NTS Breakfast Show w/ CC Disco"
+    },
+    "the-nts-breakfast-show-w-eclair-fifi-9th-march-2022": {
+        "date": "09.03.22",
+        "title": "The NTS Breakfast Show w/ Mafalda & Louise Chen "
+    },
+    "the-nts-breakfast-show-w-flo-11th-october-2021": {
+        "date": "11.10.21",
+        "title": "The NTS Breakfast Show w/ Flo"
+    },
+    "the-nts-breakfast-show-w-flo-12th-october-2021": {
+        "date": "12.10.21",
+        "title": "The NTS Breakfast Show w/ Flo"
+    },
+    "the-nts-breakfast-show-w-flo-19th-october-2021": {
+        "date": "19.10.21",
+        "title": "The NTS Breakfast Show w/ Flo"
+    },
+    "the-nts-breakfast-show-w-flo-21st-september-2021": {
+        "date": "21.09.21",
+        "title": "The NTS Breakfast Show w/ Flo"
+    },
+    "the-nts-breakfast-show-w-flo-25th-october-2021": {
+        "date": "25.10.21",
+        "title": "The NTS Breakfast Show w/ Flo"
+    },
+    "the-nts-breakfast-show-w-flo-26th-october-2021": {
+        "date": "26.10.21",
+        "title": "The NTS Breakfast Show w/ Flo & Gabi"
+    },
+    "the-nts-breakfast-show-w-flo-27th-september-2021": {
+        "date": "27.09.21",
+        "title": "The NTS Breakfast Show w/ Flo"
+    },
+    "the-nts-breakfast-show-w-flo-28th-september-2021": {
+        "date": "28.09.21",
+        "title": "The NTS Breakfast Show w/ Flo"
+    },
+    "the-nts-breakfast-show-w-flo-5th-october-2021": {
+        "date": "05.10.21",
+        "title": "The NTS Breakfast Show w/ Flo"
+    },
+    "the-nts-breakfast-show-w-lupini-15th-october-2021": {
+        "date": "15.10.21",
+        "title": "The NTS Breakfast Show w/ Lupini"
+    },
+    "the-nts-breakfast-show-w-lupini-29th-october-2021": {
+        "date": "29.10.21",
+        "title": "The NTS Breakfast Show w/ Lupini"
+    },
+    "the-nts-breakfast-show-w-lupini-8th-october-2021": {
+        "date": "08.10.21",
+        "title": "The NTS Breakfast Show w/ Lupini"
+    },
+    "the-nts-breakfast-show-w-qendresa-8th-march-2022": {
+        "date": "08.03.22",
+        "title": "The NTS Breakfast Show w/ Qendresa & Feed Me Female"
+    },
+    "the-nts-breakfast-show-w-rory-15th-september-2021": {
+        "date": "15.09.21",
+        "title": "The NTS Breakfast Show w/ Rory"
+    },
+    "the-nts-breakfast-show-w-rory-4th-april-2022": {
+        "date": "04.04.22",
+        "title": "The NTS Breakfast Show w/ Rory"
+    },
+    "the-nts-breakfast-show-w-scratcha-dva-21st-october-2021": {
+        "date": "21.10.21",
+        "title": "The NTS Breakfast Show w/ Scratcha DVA"
+    },
+    "the-nts-breakfast-show-w-shy-one-17th-september-2021": {
+        "date": "17.09.21",
+        "title": "The NTS Breakfast Show w/ Shy One"
+    },
+    "the-nts-breakfast-show-w-system-olympia-14th-october-2021": {
+        "date": "14.10.21",
+        "title": "The NTS Breakfast Show w/ System Olympia"
+    },
+    "the-nts-breakfast-show-with-lil-c-kemarr-26th-august-2022": {
+        "date": "26.08.22",
+        "title": "The NTS Breakfast Show w/ Kemarr & Lil C"
+    },
+    "the-nts-breakfast-show-with-mafalda-28th-july-2022": {
+        "date": "28.07.22",
+        "title": "The NTS Breakfast Show w/ Mafalda"
+    },
+    "the-nts-breakfast-show-with-naomi-asa-29th-july-2022": {
+        "date": "29.07.22",
+        "title": "The NTS Breakfast Show w/ Naomi Asa"
+    },
+    "title": "The NTS Breakfast Show ",
+    "yu-su-16th-september-2021": {
+        "date": "16.09.21",
+        "title": "The NTS Breakfast Show w/ Yu Su"
+    }
+}

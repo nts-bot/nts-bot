@@ -1,0 +1,552 @@
+{
+    "simian-mobile-disco-19th-may-2018": {
+        "00": {
+            "artist": "Big Moochie Grape",
+            "ratio": 3,
+            "title": "Clusters",
+            "trackid": "3P6JLkwscdnmESW15ueIfB"
+        },
+        "01": {
+            "artist": "Biosphere",
+            "ratio": 9,
+            "title": "Shenzhou",
+            "trackid": "7tXtScBvkr3jYe6e6MfVuL"
+        },
+        "02": {
+            "artist": "Scott Matthews",
+            "ratio": 4,
+            "title": "Elusive",
+            "trackid": "1GqedBxYLb9QVdq3MKzIuY"
+        },
+        "03": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        },
+        "04": {
+            "artist": "Caterina Barbieri",
+            "ratio": 9,
+            "title": "Pneuma",
+            "trackid": "47PyihsC5mt20knbY1csuH"
+        },
+        "05": {
+            "artist": "Sabbatical",
+            "ratio": 9,
+            "title": "Sundown",
+            "trackid": "0KWEjaV629T41uEFSbcocH"
+        },
+        "06": {
+            "artist": "Claro Intelecto",
+            "ratio": 9,
+            "title": "Pantomime",
+            "trackid": "3EBbS9IgHskDsazQGIll6i"
+        },
+        "07": {
+            "artist": "Kurt Baggaley",
+            "ratio": 9,
+            "title": "Remembering Infinity",
+            "trackid": "6nskE2aRNo2sOdnIODW7bA"
+        },
+        "08": {
+            "artist": "Friday Dunard",
+            "ratio": 9,
+            "title": "Eine Gerade",
+            "trackid": "16PsHwjFB1AtV7yPQ4QXM9"
+        },
+        "09": {
+            "artist": "Anthony Child",
+            "ratio": 9,
+            "title": "Open Channeling",
+            "trackid": "3YYlBgNfZTzX7AjDhTT3T6"
+        },
+        "10": {
+            "artist": "SDM",
+            "ratio": 0,
+            "title": "Yakalelo",
+            "trackid": "1IeB4ax90dBPu7aM1aqEVA"
+        },
+        "11": {
+            "artist": "Stanislav Tolkachev",
+            "ratio": 9,
+            "title": "Eternal Dawn",
+            "trackid": "0KrlU8rdxZKMthxYnbKcf5"
+        },
+        "12": {
+            "artist": "Von Haze",
+            "ratio": 9,
+            "title": "Crown",
+            "trackid": "42xKVPpHWSYtW238sYLzgI"
+        },
+        "13": {
+            "artist": "Ennio Morricone",
+            "ratio": 9,
+            "title": "The Ecstasy Of Gold",
+            "trackid": "6PrKZUXJPmBiobMN44yR8Y"
+        }
+    },
+    "simian-mobile-disco-21st-april-2018": {
+        "00": {
+            "artist": "LSDXOXO",
+            "ratio": 3,
+            "title": "SMD",
+            "trackid": "5wjYk71Lkc18VmBtYqcjI1"
+        },
+        "01": {
+            "artist": "Uneven Structure",
+            "ratio": 4,
+            "title": "Delusions of Grandeur",
+            "trackid": "1MWkY3WaCq0QppyfBqTEeH"
+        },
+        "02": {
+            "artist": "Aleksi Perälä",
+            "ratio": 9,
+            "title": "GBLFT1740065",
+            "trackid": "55ZEwVKzdrMiR7Md5G2qwN"
+        },
+        "03": {
+            "artist": "Kaelan",
+            "ratio": 9,
+            "title": "Self Deception - Kessell Remix 1",
+            "trackid": "3kSSBC9xmeVarN517o2G0K"
+        },
+        "04": {
+            "artist": "Bonebrokk",
+            "ratio": 9,
+            "title": "Choose Ur Illusion",
+            "trackid": "0Vd3PFoCzrvqDgmQi1mFG8"
+        },
+        "05": {
+            "artist": "DJ LILLI",
+            "ratio": -1,
+            "title": "ily <3",
+            "trackid": "4DfPJ5nZeSDO3A5fLc1e9v",
+            "uri": ""
+        },
+        "06": {
+            "artist": "SW.",
+            "ratio": 9,
+            "title": "Beat Mix - Original Mix",
+            "trackid": "1sXtvmtAV0m4N9xvl6kv7X"
+        },
+        "07": {
+            "artist": "The Maghreban",
+            "ratio": 9,
+            "title": "Pots & Pans",
+            "trackid": "32t7hQg7rg3DgvUzcwqA8Z"
+        },
+        "08": {
+            "artist": "LOFT",
+            "ratio": 9,
+            "title": "funemployed",
+            "trackid": "3LQGEqi9urbGuhlyC1aHGz"
+        },
+        "09": {
+            "artist": "Cocktail Party Effect",
+            "ratio": 9,
+            "title": "Battered",
+            "trackid": "7zCaIUdc3imefD80bKwRel"
+        },
+        "10": {
+            "artist": "3.2.6.",
+            "ratio": 4,
+            "title": "Falling - Mike's Mix",
+            "trackid": "1bir28qcSEAzz67DTsinZc"
+        },
+        "11": {
+            "artist": "Steven Porter",
+            "ratio": 9,
+            "title": "Octahedron",
+            "trackid": "6PRNzIhMUOscuhLhDWOtNd"
+        },
+        "12": {
+            "artist": "Anthony Linell",
+            "ratio": 9,
+            "title": "Layers of Reality",
+            "trackid": "2KiODuLdJwb9E9QlLlW9c6"
+        },
+        "13": {
+            "artist": "Stanislav Tolkachev",
+            "ratio": 5,
+            "title": "Yes, Today",
+            "trackid": "4Y4uQhgKPYrrrlhw20J9jx"
+        }
+    },
+    "simian-mobile-disco-27th-january-2018": {
+        "00": {
+            "artist": "The Transcendence Orchestra",
+            "ratio": 9,
+            "title": "Sun Hill",
+            "trackid": "7E74LNHOTJUlj66POd3g6y"
+        },
+        "01": {
+            "artist": "Zoe Capolo",
+            "ratio": 0,
+            "title": "Back End Challenge ( Bonus Track)",
+            "trackid": "0O41NegiH89aJlAZiaBsVe"
+        },
+        "02": {
+            "artist": "Zomby",
+            "ratio": 9,
+            "title": "Horizon",
+            "trackid": "1vH3doNV0G04P4yLWf3IZo"
+        },
+        "03": {
+            "artist": "JIMMY EDGAR",
+            "ratio": 9,
+            "title": "4FOURTH DIMENSION",
+            "trackid": "6zcQCdJuTp1TwRXB47B2Ck"
+        },
+        "04": {
+            "artist": "Simo Cell",
+            "ratio": 9,
+            "title": "Stop the Killing",
+            "trackid": "6dMTr4vFNf3OMBnVdFU93Z"
+        },
+        "05": {
+            "artist": "Lab Rat XL",
+            "ratio": 9,
+            "title": "Lab Rat 1",
+            "trackid": "3iLBl5W9SnLm4pmEq05ijR"
+        },
+        "06": {
+            "artist": "Ryan James Ford",
+            "ratio": 9,
+            "title": "Pegl Shant",
+            "trackid": "7GMKoaTgMqWD9Vg7kWCwFx"
+        },
+        "07": {
+            "artist": "Radioactive Man",
+            "ratio": 9,
+            "title": "Sonic Portal - Dexorcist Remix",
+            "trackid": "1Xz9c57i5GtIzsdovuJW4e"
+        },
+        "08": {
+            "artist": "Sync 24",
+            "ratio": 9,
+            "title": "Memory Bubble - Jensen Interceptor Remix",
+            "trackid": "5kLYbj1DW6rMMsd8K0iikz"
+        },
+        "09": {
+            "artist": "LSD",
+            "ratio": 9,
+            "title": "Process 3",
+            "trackid": "3qsHi71RePJU0yuINarqEn"
+        }
+    },
+    "simian-mobile-disco-2nd-january-2018": {
+        "00": {
+            "artist": "Richard Fearless",
+            "ratio": 0,
+            "title": "Vision of You",
+            "trackid": "1PKnPevDLlxGc4V1PV4Bmd"
+        },
+        "01": {
+            "artist": "Tresque",
+            "ratio": 9,
+            "title": "Terapung-apung",
+            "trackid": "2bxuQ0qyFbckK815Ex1Zhg"
+        },
+        "02": {
+            "artist": "Rrose",
+            "ratio": 9,
+            "title": "Nest of Queens",
+            "trackid": "6AC2zBYXDqRkgKoUP3ywUc"
+        },
+        "03": {
+            "artist": "Mental Overdrive",
+            "ratio": 9,
+            "title": "Wormholes - Øyvind Morken's Exotic Star Mix",
+            "trackid": "6EGc3BrmC9bdW34HXDRsPB"
+        },
+        "04": {
+            "artist": "Dale Cornish",
+            "ratio": 4,
+            "title": "Palace Intrigue",
+            "trackid": "39EzX3gauCtwKaFP4caeFM"
+        },
+        "05": {
+            "artist": "ASHTAR LAVANDA",
+            "ratio": 9,
+            "title": "Opulence",
+            "trackid": "3lunw8X5rRr1R1kDUDkV0X"
+        },
+        "06": {
+            "artist": "Eduardo De la Calle",
+            "ratio": 9,
+            "title": "Rhythmic soundscapes",
+            "trackid": "48D8v67VuPmlEXTNfmsU7q"
+        },
+        "07": {
+            "artist": "Jas Shaw",
+            "ratio": 4,
+            "title": "Lecturing Birds On How To Fly",
+            "trackid": "2dEkHyVBt88jPvEi4S9qHQ"
+        },
+        "08": {
+            "artist": "Desroi",
+            "ratio": 9,
+            "title": "Indifferent",
+            "trackid": "0hy1PJ3qRWSjz6m1Sn5uTb"
+        },
+        "09": {
+            "artist": "E.D.C",
+            "ratio": 9,
+            "title": "Endless - Original Mix",
+            "trackid": "0lwmz8EY9UffIRqzOfVX7G"
+        },
+        "10": {
+            "artist": "Stanislav Tolkachev",
+            "ratio": 9,
+            "title": "Eternal Dawn",
+            "trackid": "0KrlU8rdxZKMthxYnbKcf5"
+        },
+        "11": {
+            "artist": "Peter Power",
+            "ratio": 4,
+            "title": "Jungle Level - Original Mix",
+            "trackid": "005p3lPeJAmxcS73zGJ7XR"
+        }
+    },
+    "simian-mobile-disco-3rd-december-2017": {
+        "00": {
+            "artist": "Vospher",
+            "ratio": 0,
+            "title": "What Could Have Been",
+            "trackid": "0WQFSDUWN6wDKdHtSNDvPG"
+        },
+        "01": {
+            "artist": "Voigt & Voigt",
+            "ratio": 9,
+            "title": "Durchdringung",
+            "trackid": "7Kbv6cttlOpvjC8IScfT8J"
+        },
+        "02": {
+            "artist": "Lucy",
+            "ratio": 9,
+            "title": "The Hermit - Blawan Remix",
+            "trackid": "0YR67zmIJSBoh2qdQIIYnf"
+        },
+        "03": {
+            "artist": "Ploy",
+            "ratio": 9,
+            "title": "Unruly",
+            "trackid": "6QfNqAXcwOKLaPtFLiLhOb"
+        },
+        "04": {
+            "artist": "Ikonika",
+            "ratio": 9,
+            "title": "Oral Suspension",
+            "trackid": "1KTxNAIfXZRq0PcsuY0dtS"
+        },
+        "05": {
+            "artist": "Q3A",
+            "ratio": 9,
+            "title": "Temple of Retribution",
+            "trackid": "113O8OaI13jyKOzaCZt28E"
+        },
+        "06": {
+            "artist": "imakmi",
+            "ratio": 5,
+            "title": "2 APOCALYPSE",
+            "trackid": "2hoVg44eHOQMjMwyDtIT0o"
+        },
+        "07": {
+            "artist": "KOHTA YAMAMOTO",
+            "ratio": 4,
+            "title": "征討",
+            "trackid": "07wwiwkpypo1eRjzVdJ3OY"
+        },
+        "08": {
+            "artist": "Jas Shaw",
+            "ratio": 9,
+            "title": "I Dream Of Meanie",
+            "trackid": "4LIkUoY3Kupaarjhx1XdmG"
+        },
+        "09": {
+            "artist": "Donato Dozzy",
+            "ratio": 9,
+            "title": "Storta",
+            "trackid": "1ym3W9Se0T2WDaXlXd3VCP"
+        },
+        "10": {
+            "artist": "DJ Richard",
+            "ratio": 9,
+            "title": "Path of Ruin - Pain Mix",
+            "trackid": "79GFKFraKaZAqMUdt9g1nG"
+        },
+        "11": {
+            "artist": "",
+            "ratio": -1,
+            "title": "",
+            "trackid": ""
+        }
+    },
+    "simian-mobile-disco-4th-november-2017": {
+        "00": {
+            "artist": "Steffi",
+            "ratio": 9,
+            "title": "Bounces Of Nature",
+            "trackid": "3XojEMmnb2TUHyXnklRMTJ"
+        },
+        "01": {
+            "artist": "Yaleesa Hall",
+            "ratio": 0,
+            "title": "Alpha Decay",
+            "trackid": "00kc3SL9be4auHaz50JERj"
+        },
+        "02": {
+            "artist": "Vectorvision",
+            "ratio": 7,
+            "title": "Zy Clone - Vectorvision Re-Vision",
+            "trackid": "2FOZUsTgxwroKcwPM5wYZZ"
+        },
+        "03": {
+            "artist": "Heartless",
+            "ratio": 9,
+            "title": "Circuit Form's (0.2)",
+            "trackid": "5eU26ka0zxNGOse9poptNI"
+        },
+        "04": {
+            "artist": "Jensen Interceptor",
+            "ratio": 9,
+            "title": "Glide Drexler",
+            "trackid": "6C2jHjU31ST2LfdmOswzwC"
+        },
+        "05": {
+            "artist": "Errorsmith",
+            "ratio": 9,
+            "title": "Lightspeed",
+            "trackid": "6ZSlqtkTeNEPzVkj3PrC7p"
+        },
+        "06": {
+            "artist": "Z.I.P.P.O",
+            "ratio": 9,
+            "title": "Cycle",
+            "trackid": "4UhSy32uE9KZcgFBlUJuyV"
+        },
+        "07": {
+            "artist": "TWR72",
+            "ratio": 9,
+            "title": "Polished",
+            "trackid": "2hWF12IEC4J4G1PdSxf7Od"
+        },
+        "08": {
+            "artist": "Equiknoxx",
+            "ratio": 3,
+            "title": "Congo Get Slap (Mark Ernestus Remix)",
+            "trackid": "76tJi6l25cOar1TbUMKLHc"
+        },
+        "09": {
+            "artist": "Scott Francis",
+            "ratio": 7,
+            "title": "Spider Bites",
+            "trackid": "0rfsm18n5XT8y5DSZL5VHi"
+        },
+        "10": {
+            "artist": "Aleksi Perälä",
+            "ratio": 9,
+            "title": "NLL561606938",
+            "trackid": "57zPYl3e07wfQNnMIXMnTA"
+        },
+        "11": {
+            "artist": "Burnt Friedman",
+            "ratio": 9,
+            "title": "Monsun",
+            "trackid": "6Sx3j35rGBnukzbkkgzwTs"
+        },
+        "12": {
+            "artist": "Jas Shaw",
+            "ratio": 9,
+            "title": "Repeat Until There Is No More Other",
+            "trackid": "4muRPVzBmqoja7N8jxj2F6"
+        },
+        "13": {
+            "artist": "Lee Gamble",
+            "ratio": 9,
+            "title": "Quadripoints",
+            "trackid": "4IhqdiiCiTAlIrJ0ilq8rv"
+        }
+    },
+    "simian-mobile-disco-7th-october-2017": {
+        "00": {
+            "artist": "Cristian Vogel",
+            "ratio": 3,
+            "title": "Deepwater",
+            "trackid": "35Ut2Ldpci4PjE0gC3z89V"
+        },
+        "01": {
+            "artist": "I-iii",
+            "ratio": 9,
+            "title": "Bun so Nude",
+            "trackid": "0CyYym61Pbaby6Fb5sU2i8"
+        },
+        "02": {
+            "artist": "Sékouba Bambino",
+            "ratio": 4,
+            "title": "Mbambou",
+            "trackid": "3P7QwbOX6b8l12uM7jXvxS"
+        },
+        "03": {
+            "artist": "Black Deer",
+            "ratio": 9,
+            "title": "Strike 3",
+            "trackid": "6puZMyK77kdfyIA1jMUXjt"
+        },
+        "04": {
+            "artist": "Second Woman",
+            "ratio": -1,
+            "title": "100407jd7",
+            "trackid": "5dZvDtyMOMQKGUaX9hKjjL",
+            "uri": ""
+        },
+        "05": {
+            "artist": "Still",
+            "ratio": 9,
+            "title": "Nazenèt - Wasp Riddim",
+            "trackid": "3zBj5kY0f6nONxNM0GRBDE"
+        },
+        "06": {
+            "artist": "Marcel Dettmann",
+            "ratio": 9,
+            "title": "The World Tonight",
+            "trackid": "307R749wHTGn8xmzkvlb1A"
+        },
+        "07": {
+            "artist": "Emmanuel",
+            "ratio": 9,
+            "title": "Principio di Forza",
+            "trackid": "59ThJDakhPbQH5HYIaY7ve"
+        },
+        "08": {
+            "artist": "J.F. Burma",
+            "ratio": 9,
+            "title": "Sub Saharan Jitter",
+            "trackid": "4NgPsEeYJpo6zLmaMsttab"
+        },
+        "09": {
+            "artist": "Fabrizio Rat",
+            "ratio": 9,
+            "title": "Damper",
+            "trackid": "6yRQbbQjI2JRay1RAN75yb"
+        },
+        "10": {
+            "artist": "Jas Shaw",
+            "ratio": 9,
+            "title": "Popes Of Dischord",
+            "trackid": "6ivFTebjdMdW5Xd6jWsdgg"
+        },
+        "11": {
+            "artist": "Philus",
+            "ratio": 9,
+            "title": "Untitled III",
+            "trackid": "2FGUsh511X2PZHFLwrs9uA"
+        },
+        "12": {
+            "artist": "Antigone",
+            "ratio": 9,
+            "title": "Ostinato I",
+            "trackid": "4oBCuzGA0FoqIGKQqsWavI"
+        }
+    }
+}
