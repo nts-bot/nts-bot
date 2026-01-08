@@ -15,7 +15,8 @@ headers_auth.json
 *.cmd
 *.bat
 *.sh
-jpeg/
+*.jpeg
+*.png
 chrome-win64/
 *.ipynb
 .old/
