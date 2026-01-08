@@ -10,8 +10,9 @@ Year: 2025-11-17
 import logging
 import traceback
 
-from .utils import logger
-from .script import nts, connection
+from py.utils import logger
+from py.script import nts, connection
+
 logger(False)  # Start Log
 
 class_instance = nts()
