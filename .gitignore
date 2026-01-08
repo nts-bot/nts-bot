@@ -2,7 +2,7 @@
 .vscode
 .log/
 __pycache__/
-.pickle
+*.pickle
 .venv
 .cache
 *.cache
