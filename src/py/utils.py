@@ -11,6 +11,7 @@ Year: 2025-11-17
 import os
 import json
 import time
+import socket
 import logging
 import inspect
 import functools
@@ -28,6 +29,15 @@ from . import src
  0  - Debugging
 
 """
+
+def is_connected(hostname="one.one.one.one"):
+  try:
+    host = socket.gethostbyname(hostname)
+    s = socket.create_connection((host, 80), 2)
+    s.close()
+    return True
+  except Exception:
+     return False
 
 
 def monitor(func):

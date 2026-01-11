@@ -112316,6 +112316,896 @@
             ]
         }
     },
+    "early-bird-show-jack-rollo-9th-january-2026": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Carpenters",
+                    "title": "Aurora",
+                    "uri": "4GdE4XZ4NEio3784YHSqZT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Carpenters",
+                    "title": "Aurora",
+                    "uri": "4GdE4XZ4NEio3784YHSqZT"
+                },
+                {
+                    "artist": "Agalloch",
+                    "title": "Not Unlike The Waves (2016 - Remaster)",
+                    "uri": "0JnWbRHpBkW2TeiL9JmqLn"
+                },
+                {
+                    "artist": "Wiess",
+                    "title": "Push",
+                    "uri": "1Vl9M5FnvADl1Pl4lxwGeX"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Jon Brion",
+                    "title": "Piano One",
+                    "uri": "6vgwhrOhZEKEhud5KH0gNH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jon Brion",
+                    "title": "Piano One",
+                    "uri": "6vgwhrOhZEKEhud5KH0gNH"
+                },
+                {
+                    "artist": "So!YoON!",
+                    "title": "CANADA : Commentary (with Jon Nellen)",
+                    "uri": "2GB1OGmrDBZ3uQo5LIfDZn"
+                },
+                {
+                    "artist": "Linda Ronstadt",
+                    "title": "A River for Him - 2015 Remaster",
+                    "uri": "5cwMvNIiq1mxq8whhQ4Ecm"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Jon Brion",
+                    "title": "Piano Three",
+                    "uri": "2Unwz7kKJ8yaNMqzAftgu0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jon Brion",
+                    "title": "Piano Three",
+                    "uri": "2Unwz7kKJ8yaNMqzAftgu0"
+                },
+                {
+                    "artist": "C K Smith",
+                    "title": "One Fleeting Pause",
+                    "uri": "1NKnZhvDl3xGIb4KwYT23C"
+                },
+                {
+                    "artist": "So!YoON!",
+                    "title": "CANADA : Commentary (with Jon Nellen)",
+                    "uri": "2GB1OGmrDBZ3uQo5LIfDZn"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Yo La Tengo",
+                    "title": "Dream Dream Away",
+                    "uri": "4J4URHckRU2dNLrFon9w8r"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Yo La Tengo",
+                    "title": "Dream Dream Away",
+                    "uri": "4J4URHckRU2dNLrFon9w8r"
+                },
+                {
+                    "artist": "Nathan Nichipor",
+                    "title": "someday soon (dance with me)",
+                    "uri": "6krP8XVQluXmYmGflDlDGn"
+                },
+                {
+                    "artist": "America",
+                    "title": "Winter Wonderland",
+                    "uri": "64kS6SN7jrhKEQiERYVgiw"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Jesse Winchester",
+                    "title": "Biloxi",
+                    "uri": "3cufrc21549dsUJ3k6cnY7"
+                },
+                {
+                    "artist": "Jesse Winchester",
+                    "title": "Biloxi",
+                    "uri": "0E9SpYD8PaKnBCb1PFOgZZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jesse Winchester",
+                    "title": "Biloxi",
+                    "uri": "3cufrc21549dsUJ3k6cnY7"
+                },
+                {
+                    "artist": "Jesse Winchester",
+                    "title": "Biloxi",
+                    "uri": "0E9SpYD8PaKnBCb1PFOgZZ"
+                },
+                {
+                    "artist": "Jesse Winchester",
+                    "title": "Yankee Lady (Live)",
+                    "uri": "48jH4sje1mK04VlxnnuSqv"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Tom Waits",
+                    "title": "Cinny's Waltz",
+                    "uri": "0THMxfEeOLKcx1MHLaiaRl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tom Waits",
+                    "title": "Cinny's Waltz",
+                    "uri": "0THMxfEeOLKcx1MHLaiaRl"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Milton Nascimento",
+                    "title": "Evocação Das Montanhas (Poema Sonoro)",
+                    "uri": "5BjxRg8haFd4VZ8Ucl5gFV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Milton Nascimento",
+                    "title": "Evocação Das Montanhas (Poema Sonoro)",
+                    "uri": "5BjxRg8haFd4VZ8Ucl5gFV"
+                },
+                {
+                    "artist": "Fi Barreto",
+                    "title": "Bello Horizonte",
+                    "uri": "0LB6ILQAk3qGzY8BLrNIIK"
+                },
+                {
+                    "artist": "Dani Sam Silva",
+                    "title": "Sou Minas Gerais",
+                    "uri": "3DIIX84Cf3Oqrwf7dhbq4B"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "PIANIKA",
+                    "title": "Moirai",
+                    "uri": "1phIexjGfTuqXIIdc57gmn"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "The Dave Brubeck Quartet",
+                    "title": "Koto Song",
+                    "uri": "7ApoQAZIblqnGXhdt3ggp8"
+                },
+                {
+                    "artist": "Dave Brubeck",
+                    "title": "Koto Song",
+                    "uri": "2SSYaz7j6xvXysIoO67O9t"
+                },
+                {
+                    "artist": "Dave Brubeck",
+                    "title": "Koto Song - previously unreleased",
+                    "uri": "3rQpHZuibqMHUa0KCi6m1Y"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Dave Brubeck Quartet",
+                    "title": "Koto Song",
+                    "uri": "7ApoQAZIblqnGXhdt3ggp8"
+                },
+                {
+                    "artist": "Dave Brubeck",
+                    "title": "Koto Song",
+                    "uri": "2SSYaz7j6xvXysIoO67O9t"
+                },
+                {
+                    "artist": "Dave Brubeck",
+                    "title": "Georgia On My Mind",
+                    "uri": "1SEhyG9nkMEMJKbX3o09ZD"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Q Lazzarus",
+                    "title": "Goodbye Horses",
+                    "uri": "7I5eQZFdlPV8LZWH2FeqaW"
+                },
+                {
+                    "artist": "Pharrell Williams",
+                    "title": "Just A Cloud Away",
+                    "uri": "0DGTcMqvVR7fmBXgiG6jz4"
+                },
+                {
+                    "artist": "BOKKA",
+                    "title": "Town of Strangers",
+                    "uri": "5xCyTfJ6s1aTxlzk3LuUSt"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Julie London",
+                    "title": "Everything Happens To Me",
+                    "uri": "3jQZ2AiBE6qEUBQgUsBSVB"
+                },
+                {
+                    "artist": "Julie London",
+                    "title": "Everything Happens to Me",
+                    "uri": "2FVjAYfrPXkMsjFoDOQdFu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Julie London",
+                    "title": "Everything Happens To Me",
+                    "uri": "3jQZ2AiBE6qEUBQgUsBSVB"
+                },
+                {
+                    "artist": "Samara Joy",
+                    "title": "Everything Happens to Me",
+                    "uri": "44DiSGodp1YooCyJfI2aeQ"
+                },
+                {
+                    "artist": "Nimelle",
+                    "title": "Everything Happens to Me",
+                    "uri": "34n5jH1GILDlv376VLMmDm"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Cocteau Twins",
+                    "title": "Beatrix",
+                    "uri": "00kG2B5W9MQYdPxrICYhNg"
+                },
+                {
+                    "artist": "Felix Rösch",
+                    "title": "Berceuse Rework",
+                    "uri": "2fx0udplF7rmVUYUgOrpMn"
+                },
+                {
+                    "artist": "Beatrice Zoco",
+                    "title": "Easy",
+                    "uri": "2Cd47GecnW9FLNvPw6vGbt"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Mike Hagen",
+                    "title": "Pardon the Morning",
+                    "uri": "1s2sqtOAAEoyd4s03Kshtd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mike Hagen",
+                    "title": "Pardon the Morning",
+                    "uri": "1s2sqtOAAEoyd4s03Kshtd"
+                },
+                {
+                    "artist": "Tom Waits",
+                    "title": "Sins of My Father - Remastered",
+                    "uri": "7vx3AX4sL3KyAcBkrIs3wB"
+                },
+                {
+                    "artist": "A Tribe Called Quest",
+                    "title": "Verses from the Abstract (feat. Vinia Mojica & Ron Carter)",
+                    "uri": "6zrsmzrMoxNkXEQLubCWtA"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Aziza Mustafa Zadeh",
+                    "title": "Vagif",
+                    "uri": "4Y7OPErDZKfWEoxIv6kqGZ"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Karen Dalton",
+                    "title": "How Did The Feeling Feel To You",
+                    "uri": "230zJroeSW6KRYLeOswojb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Karen Dalton",
+                    "title": "How Did The Feeling Feel To You",
+                    "uri": "230zJroeSW6KRYLeOswojb"
+                },
+                {
+                    "artist": "Karen Dalton",
+                    "title": "Something on Your Mind",
+                    "uri": "7BDbVI397Rso0teMi1hS0P"
+                },
+                {
+                    "artist": "Tim Hardin",
+                    "title": "While You're On Your Way",
+                    "uri": "758rrkRekN7jnYpQw3dT1Q"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Blossom Dearie",
+                    "title": "Sunday Afternoon",
+                    "uri": "4WVxjcsAJ98IRWxeHLK9oX"
+                },
+                {
+                    "artist": "Blossom Dearie",
+                    "title": "Sunday Afternoon (Alternate Version)",
+                    "uri": "745HeLi8tAn8jNyPhRbSFB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Blossom Dearie",
+                    "title": "Sunday Afternoon",
+                    "uri": "4WVxjcsAJ98IRWxeHLK9oX"
+                },
+                {
+                    "artist": "Blossom Inn",
+                    "title": "Into the aether",
+                    "uri": "3QfWScUL19YJCJOmCPO7To"
+                },
+                {
+                    "artist": "Jack Kerouac",
+                    "title": "Poems from the Unpublished Book of the Blues (feat. Al Cohn & Zoot Sims) - 1999 Remaster",
+                    "uri": "38q29lKwvuUNxsCP9SMWiL"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "Rain - Version for Piano Trio",
+                    "uri": "3mlqYwpqk8g5CFxmaJjAKv"
+                },
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "Rain",
+                    "uri": "42qvHblK2JjrBAJaoKSJxX"
+                },
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "Rain (From \"The Last Emperor\")",
+                    "uri": "4qXBgjkdlWpRlEQazLCsws"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "Rain - Version for Piano Trio",
+                    "uri": "3mlqYwpqk8g5CFxmaJjAKv"
+                },
+                {
+                    "artist": "Ryuichi Sakamoto",
+                    "title": "Rain",
+                    "uri": "42qvHblK2JjrBAJaoKSJxX"
+                },
+                {
+                    "artist": "Luna Flowers",
+                    "title": "Flowers",
+                    "uri": "0ImMvJuozYgJpHdpiUsAKW"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Bo Harwood",
+                    "title": "No One Around To Hear It",
+                    "uri": "3HmUZ8OeP0uIK8d0WlDm5U"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bo Harwood",
+                    "title": "No One Around To Hear It",
+                    "uri": "3HmUZ8OeP0uIK8d0WlDm5U"
+                },
+                {
+                    "artist": "Oklou",
+                    "title": "harvest sky",
+                    "uri": "3M8bJdRfYj1S5iKZIgwAnH"
+                },
+                {
+                    "artist": "Mitski",
+                    "title": "The Deal",
+                    "uri": "0CNJcM33kvWE8v26wBy9wB"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Carla Bley",
+                    "title": "Lawns",
+                    "uri": "77sxm10gG7rgD2w0ylgBGv"
+                },
+                {
+                    "artist": "Rüdiger Krause",
+                    "title": "Lawns (feat. Carla Bley & Steve Swallow)",
+                    "uri": "1G73Q4jdwkffhE9QMqwPgV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Carla Bley",
+                    "title": "Lawns",
+                    "uri": "77sxm10gG7rgD2w0ylgBGv"
+                },
+                {
+                    "artist": "Steve Cardenas",
+                    "title": "Lawns",
+                    "uri": "0JooaGPMlvroHHr75Yupvs"
+                },
+                {
+                    "artist": "Goin' Through",
+                    "title": "Afti Ti Zoi",
+                    "uri": "2XGqfLFaQ1gc8hTDTuzGbW"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Tom Waits",
+                    "title": "Lonely",
+                    "uri": "3zpbLR7jCbqE5KQYdO8QAm"
+                },
+                {
+                    "artist": "The Replacements",
+                    "title": "If Only You Were Lonely (feat. Tom Waits)",
+                    "uri": "2gZaqmaSr517bTJ1A7UsLC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tom Waits",
+                    "title": "Lonely",
+                    "uri": "3zpbLR7jCbqE5KQYdO8QAm"
+                },
+                {
+                    "artist": "The Replacements",
+                    "title": "If Only You Were Lonely (feat. Tom Waits)",
+                    "uri": "2gZaqmaSr517bTJ1A7UsLC"
+                },
+                {
+                    "artist": "Florist",
+                    "title": "Moon Begins",
+                    "uri": "7FlXNopcNBHuTcMmR7DSxB"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Sidsel Endresen",
+                    "title": "Try",
+                    "uri": "2dHjmuCuQuToZQ2sSNqPyo"
+                },
+                {
+                    "artist": "Sidsel Endresen",
+                    "title": "Try",
+                    "uri": "6SgnTS2qjSvco6emPegXNb"
+                },
+                {
+                    "artist": "Bugge Wesseltoft",
+                    "title": "Try",
+                    "uri": "6SaET0d7DKj6YuDcCMZtPn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sidsel Endresen",
+                    "title": "Try",
+                    "uri": "2dHjmuCuQuToZQ2sSNqPyo"
+                },
+                {
+                    "artist": "Sidsel Endresen",
+                    "title": "Try",
+                    "uri": "6SgnTS2qjSvco6emPegXNb"
+                },
+                {
+                    "artist": "Bugge Wesseltoft",
+                    "title": "Try",
+                    "uri": "6SaET0d7DKj6YuDcCMZtPn"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Marilyn Crispell",
+                    "title": "Dreams (If Time Weren't)",
+                    "uri": "0x4z7yMS21dLsR6JzfTC7h"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Annette Peacock",
+                    "title": "This Feel Within",
+                    "uri": "5U6wfgeIS5kYY0u2NrVdm4"
+                },
+                {
+                    "artist": "Dreom",
+                    "title": "Soft Peaks",
+                    "uri": "0IWBtf0o3YrVxaWJNcYJOr"
+                },
+                {
+                    "artist": "Judas Iscariot",
+                    "title": "Portions of Eternity Too Great for the Eye of Man",
+                    "uri": "3tQylSxVBEd6F3dBjaW14d"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Sibylle Baier",
+                    "title": "The End",
+                    "uri": "1buRClsYPnS4HRRz4jRMmy"
+                },
+                {
+                    "artist": "Sibylle Baier",
+                    "title": "The End",
+                    "uri": "5nP0ajXB5Q63wJfj1jk9Dp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sibylle Baier",
+                    "title": "The End",
+                    "uri": "1buRClsYPnS4HRRz4jRMmy"
+                },
+                {
+                    "artist": "Sibylle Baier",
+                    "title": "The End",
+                    "uri": "5nP0ajXB5Q63wJfj1jk9Dp"
+                },
+                {
+                    "artist": "Zexy Wanderer",
+                    "title": "Opp Deleter",
+                    "uri": "13upwY0xEpCkkWTJUJOWKS"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "The Beach Boys",
+                    "title": "A Day In The Life Of A Tree - Remastered 2009",
+                    "uri": "3mExBX39jPSfsEveZDxbpc"
+                },
+                {
+                    "artist": "The Beach Boys",
+                    "title": "A Day In The Life Of A Tree",
+                    "uri": "3xujz9JHxCQCcrBCKEkTIh"
+                },
+                {
+                    "artist": "The Beach Boys",
+                    "title": "A Day In The Life Of A Tree - Track & Backing Vocals",
+                    "uri": "41l5z26HU2mKmWHxg8IWZ8"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Beach Boys",
+                    "title": "A Day In The Life Of A Tree - Remastered 2009",
+                    "uri": "3mExBX39jPSfsEveZDxbpc"
+                },
+                {
+                    "artist": "The Beach Boys",
+                    "title": "A Day In The Life Of A Tree - Track & Backing Vocals",
+                    "uri": "41l5z26HU2mKmWHxg8IWZ8"
+                },
+                {
+                    "artist": "The Beach Boys",
+                    "title": "God Only Knows",
+                    "uri": "1Umw3vhysHBodpBFpFsVgK"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "The Velvet Underground",
+                    "title": "Sad Song - Demo Version; 2015 Remaster",
+                    "uri": "7uMDNeWshPiqZQFoNa8h1U"
+                },
+                {
+                    "artist": "The Velvet Underground",
+                    "title": "Sad Song - Demo Version; 2015 Remaster",
+                    "uri": "5pdt9wLGiQLzy2FfNy46mi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Velvet Underground",
+                    "title": "Sad Song - Demo Version; 2015 Remaster",
+                    "uri": "7uMDNeWshPiqZQFoNa8h1U"
+                },
+                {
+                    "artist": "The Velvet Underground",
+                    "title": "Sad Song - Demo Version; 2015 Remaster",
+                    "uri": "5pdt9wLGiQLzy2FfNy46mi"
+                },
+                {
+                    "artist": "Project Pat",
+                    "title": "Life We Live (feat. Namond Lumpkin & Edgar Fletcher)",
+                    "uri": "3A4S0o95OxSgRbqEnEMsn4"
+                }
+            ]
+        },
+        "25": {
+            "s0": [
+                {
+                    "artist": "Kathy Heideman",
+                    "title": "Sleep A Million Years",
+                    "uri": "5kIgA1zYupC2NZ8pNqHrAD"
+                },
+                {
+                    "artist": "Kathy Heideman",
+                    "title": "Sleep a Million Years",
+                    "uri": "1YagVhPw0bSA47NISC1VVd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kathy Heideman",
+                    "title": "Sleep A Million Years",
+                    "uri": "5kIgA1zYupC2NZ8pNqHrAD"
+                },
+                {
+                    "artist": "Calmly",
+                    "title": "Soft Gravity",
+                    "uri": "0JmjvfCukkjhgQCq7aXwdi"
+                },
+                {
+                    "artist": "Oingo Boingo",
+                    "title": "Insanity",
+                    "uri": "07vxL3e17ylfQvAt7SDU1B"
+                }
+            ]
+        },
+        "26": {
+            "s0": [
+                {
+                    "artist": "Matthews' Southern Comfort",
+                    "title": "Road to Ronderlin",
+                    "uri": "6TShY6298rQ5qTlwDR3xk3"
+                },
+                {
+                    "artist": "Matthews' Southern Comfort",
+                    "title": "Road To Ronderlin",
+                    "uri": "4L9AKFZmWWnfaPM9OAmg1z"
+                },
+                {
+                    "artist": "Matthews' Southern Comfort",
+                    "title": "Road To Ronderlin",
+                    "uri": "5LWok145Z3MaQR4eFLPBeu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Matthews' Southern Comfort",
+                    "title": "Road to Ronderlin",
+                    "uri": "6TShY6298rQ5qTlwDR3xk3"
+                },
+                {
+                    "artist": "The Southern Belle",
+                    "title": "Pastiche Oblieux",
+                    "uri": "2no0uhFwxxlPX5twZEvRLM"
+                },
+                {
+                    "artist": "Galahad",
+                    "title": "Marz (And Beyond)",
+                    "uri": "7mRMKyF9p9Ud30RtXx9N5t"
+                }
+            ]
+        },
+        "27": {
+            "s0": [
+                {
+                    "artist": "Jon Brion",
+                    "title": "Piano Two",
+                    "uri": "5aJzYfoTaA2zYQyxuCXgdh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jon Brion",
+                    "title": "Piano Two",
+                    "uri": "5aJzYfoTaA2zYQyxuCXgdh"
+                },
+                {
+                    "artist": "Jon Albreit",
+                    "title": "Not meant to be",
+                    "uri": "3uvuDQEnZQIHWQGw2bzFaN"
+                },
+                {
+                    "artist": "Kanye West",
+                    "title": "We Major",
+                    "uri": "6IbAmtP0T3hD8Y3y6tWb8Q"
+                }
+            ]
+        },
+        "28": {
+            "s0": [
+                {
+                    "artist": "Ennio Morricone",
+                    "title": "Come Maddalena (From \"Maddalena\")",
+                    "uri": "5pAXsG70vbWcT5kwQrYGD5"
+                },
+                {
+                    "artist": "Ennio Morricone",
+                    "title": "Come Maddalena",
+                    "uri": "4t5HoHcEeUtzPpCnRlPUYQ"
+                },
+                {
+                    "artist": "Ennio Morricone",
+                    "title": "Come Maddalena (From \"Maddalena\")",
+                    "uri": "5eH1mx3Mlst2whJTuvbUt5"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ennio Morricone",
+                    "title": "Come Maddalena",
+                    "uri": "4t5HoHcEeUtzPpCnRlPUYQ"
+                },
+                {
+                    "artist": "Ennio Morricone",
+                    "title": "Come Maddalena - Versione 12\" Maxi disco 78",
+                    "uri": "4vZpdvD8OFGgGVN8Iql8Sh"
+                },
+                {
+                    "artist": "Salmo",
+                    "title": "CRINGE",
+                    "uri": "0QdLe32rmGquRDdALuY92Q"
+                }
+            ]
+        },
+        "29": {
+            "s0": [
+                {
+                    "artist": "David Lang",
+                    "title": "sleeper's prayer",
+                    "uri": "1YS5xQvc8Bto8uVLrGs7Oe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "David Lang",
+                    "title": "sleeper's prayer",
+                    "uri": "1YS5xQvc8Bto8uVLrGs7Oe"
+                },
+                {
+                    "artist": "Menahan Street Band",
+                    "title": "The Crossing",
+                    "uri": "7C2a8KqA9iZ3uBBXgzunC8"
+                },
+                {
+                    "artist": "Irreversible Entanglements",
+                    "title": "The Port Remembers",
+                    "uri": "0rIBkOawo4br4L2vEUfudS"
+                }
+            ]
+        },
+        "30": {
+            "s0": [
+                {
+                    "artist": "Unbroken F.",
+                    "title": "Back Of My Head",
+                    "uri": "22Vf65ivnBvZBpb3wemdDF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Moby",
+                    "title": "Shot In The Back Of The Head",
+                    "uri": "6ZcRYNbcKt5o1ipntUgV9w"
+                },
+                {
+                    "artist": "Agnes Obel",
+                    "title": "It's Happening Again",
+                    "uri": "5uE0ggArLjnpwVPEXc36Hx"
+                },
+                {
+                    "artist": "The Adicts",
+                    "title": "Eyes In the Back of Your Head",
+                    "uri": "0rIFDhMClYwUF8np5dzYL4"
+                }
+            ]
+        },
+        "31": {
+            "s0": [
+                {
+                    "artist": "Wings",
+                    "title": "Some People Never Know - Remastered 2018",
+                    "uri": "6s6SkTvbkyAWtLMu0P1Ss6"
+                },
+                {
+                    "artist": "Wings",
+                    "title": "Some People Never Know",
+                    "uri": "7CLyO87KWh5feWXUAO3mKT"
+                },
+                {
+                    "artist": "Wings",
+                    "title": "Some People Never Know - Remastered 2018",
+                    "uri": "4WrUwDLQYLwkeKJQhoDfme"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Wings",
+                    "title": "Some People Never Know",
+                    "uri": "7CLyO87KWh5feWXUAO3mKT"
+                },
+                {
+                    "artist": "Wings",
+                    "title": "Some People Never Know - Remastered 2018",
+                    "uri": "6s6SkTvbkyAWtLMu0P1Ss6"
+                },
+                {
+                    "artist": "The O'Jays",
+                    "title": "For the Love of Money",
+                    "uri": "3p1JoOEhVkEnTaa4JzTMSk"
+                }
+            ]
+        }
+    },
     "early-bird-show-jack-rollo-9th-june-2023": {
         "00": {
             "s0": [

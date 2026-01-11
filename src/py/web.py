@@ -18,7 +18,7 @@ from threading import Lock
 
 # .2 Local
 from . import src
-from .utils import timeout, rnw_json
+from .utils import timeout, rnw_json, is_connected
 
 # .3 HTML PARSER
 from bs4 import BeautifulSoup as bs
@@ -35,9 +35,11 @@ import spotipy
 lock = Lock()
 
 
+
 class connection:
     def __init__(self):
-        pass
+        if not is_connected():
+            raise Exception("no connection")
 
     # SPOTIFY API
 

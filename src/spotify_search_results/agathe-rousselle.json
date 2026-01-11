@@ -10138,5 +10138,576 @@
                 }
             ]
         }
+    },
+    "agathe-rousselle-8th-january-2026": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Nigel Westlake",
+                    "title": "If I Had Words - Version Two",
+                    "uri": "2tlcdRzK7qR1DvUZo3boOT"
+                },
+                {
+                    "artist": "Nigel Westlake",
+                    "title": "If I Had Words - Version One",
+                    "uri": "2M9jRVvBzmKuWsB9CfbTSR"
+                },
+                {
+                    "artist": "Melbourne Symphony Orchestra",
+                    "title": "If I Had Words",
+                    "uri": "1KtyxgJ2kmB9q4DnCfQSBU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nigel Westlake",
+                    "title": "If I Had Words - Version One",
+                    "uri": "2M9jRVvBzmKuWsB9CfbTSR"
+                },
+                {
+                    "artist": "Melbourne Symphony Orchestra",
+                    "title": "If I Had Words",
+                    "uri": "1KtyxgJ2kmB9q4DnCfQSBU"
+                },
+                {
+                    "artist": "When In Rome",
+                    "title": "The Promise",
+                    "uri": "48p5E25cFPanxuwCTmTpuL"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Dario Marianelli",
+                    "title": "Windsor Gardens",
+                    "uri": "2DOdheUsEgJXK0vYrC0Rml"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dario Marianelli",
+                    "title": "Windsor Gardens",
+                    "uri": "2DOdheUsEgJXK0vYrC0Rml"
+                },
+                {
+                    "artist": "Jean Sibelius",
+                    "title": "Andante festivo",
+                    "uri": "4vSrkR2cPO7zGdbmO67orr"
+                },
+                {
+                    "artist": "Bardic Fae",
+                    "title": "Winter's Edge",
+                    "uri": "5KXu8YWBbb9aJVZiPQm4OG"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "The Isley Brothers",
+                    "title": "Harvest for the World",
+                    "uri": "4yumMRCiPOmwB9sfwJkTcB"
+                },
+                {
+                    "artist": "The Isley Brothers",
+                    "title": "Harvest for the World, Pt. 1 - Single Version",
+                    "uri": "0fl2MichhIDeOYQOCce7GW"
+                },
+                {
+                    "artist": "The Isley Brothers",
+                    "title": "Harvest for the World",
+                    "uri": "5tpcH9asFcRSn3xC6jqELq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Isley Brothers",
+                    "title": "Harvest for the World",
+                    "uri": "4yumMRCiPOmwB9sfwJkTcB"
+                },
+                {
+                    "artist": "The Isley Brothers",
+                    "title": "Harvest for the World",
+                    "uri": "1onJ2ULNrrWEECC7pHTUrX"
+                },
+                {
+                    "artist": "The Isley Brothers",
+                    "title": "(At Your Best) You Are Love",
+                    "uri": "0Ph6AkM04RCD60P4OFJsXr"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Nigel Westlake",
+                    "title": "Cantique De Jean Racine / The Cat",
+                    "uri": "7gR0PUwR9LEBsXkj2xlcjg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nigel Westlake",
+                    "title": "Cantique De Jean Racine / The Cat",
+                    "uri": "7gR0PUwR9LEBsXkj2xlcjg"
+                },
+                {
+                    "artist": "Gabriel Fauré",
+                    "title": "Cantique de Jean Racine, Op. 11",
+                    "uri": "1tYqCn1chXLkb0iCYKguPW"
+                },
+                {
+                    "artist": "Adrien Anviér",
+                    "title": "neige",
+                    "uri": "4RfvDUXALHvfsgKZmjYlMp"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Nigel Westlake",
+                    "title": "If I Had Words - Version Two",
+                    "uri": "2tlcdRzK7qR1DvUZo3boOT"
+                },
+                {
+                    "artist": "Nigel Westlake",
+                    "title": "If I Had Words - Version One",
+                    "uri": "2M9jRVvBzmKuWsB9CfbTSR"
+                },
+                {
+                    "artist": "Melbourne Symphony Orchestra",
+                    "title": "If I Had Words",
+                    "uri": "1KtyxgJ2kmB9q4DnCfQSBU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nigel Westlake",
+                    "title": "If I Had Words - Version One",
+                    "uri": "2M9jRVvBzmKuWsB9CfbTSR"
+                },
+                {
+                    "artist": "Melbourne Symphony Orchestra",
+                    "title": "If I Had Words",
+                    "uri": "1KtyxgJ2kmB9q4DnCfQSBU"
+                },
+                {
+                    "artist": "When In Rome",
+                    "title": "The Promise",
+                    "uri": "48p5E25cFPanxuwCTmTpuL"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "John Barry",
+                    "title": "Fancy Dance",
+                    "uri": "3bsMp0qgR7O0SJZwTmU3yJ"
+                },
+                {
+                    "artist": "John Barry",
+                    "title": "Fancy Dance",
+                    "uri": "0N7Sx2Ju8xkf03bpG1tcst"
+                },
+                {
+                    "artist": "The John Barry Orchestra",
+                    "title": "Fancy Dance",
+                    "uri": "24LKrMNHZ6PmDG9c1EJJ9l"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "John Barry",
+                    "title": "Fancy Dance",
+                    "uri": "0N7Sx2Ju8xkf03bpG1tcst"
+                },
+                {
+                    "artist": "The John Barry Orchestra",
+                    "title": "Fancy Dance",
+                    "uri": "24LKrMNHZ6PmDG9c1EJJ9l"
+                },
+                {
+                    "artist": "Tindersticks",
+                    "title": "Chocolate",
+                    "uri": "11yfH2gw9hSXk8dbdUzTww"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Mychael Danna",
+                    "title": "Pi's Lullaby",
+                    "uri": "60AU6943h10TVKcXFSc51D"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mychael Danna",
+                    "title": "Pi's Lullaby",
+                    "uri": "60AU6943h10TVKcXFSc51D"
+                },
+                {
+                    "artist": "Florian Christl",
+                    "title": "Lullaby",
+                    "uri": "4s29AsWgcC9WBeicomKq1u"
+                },
+                {
+                    "artist": "Center of Attention",
+                    "title": "Forest Lullaby",
+                    "uri": "3nVFGowAUZA2XdOHegYAw6"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Jed Kurzel",
+                    "title": "Horse",
+                    "uri": "0YqC6LjsTulrDHWNzOL3l2"
+                },
+                {
+                    "artist": "Jed Kurzel",
+                    "title": "Horse Run",
+                    "uri": "3hqDlnpGpEKrA4C8BE6n5a"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jed Kurzel",
+                    "title": "Horse",
+                    "uri": "0YqC6LjsTulrDHWNzOL3l2"
+                },
+                {
+                    "artist": "Jed Kurzel",
+                    "title": "Horse Run",
+                    "uri": "3hqDlnpGpEKrA4C8BE6n5a"
+                },
+                {
+                    "artist": "Dirty",
+                    "title": "That's Dirty - Album Version (Edited)",
+                    "uri": "7jOO2EWiZU68l4D8d2FwEC"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Run Free",
+                    "uri": "75OrTolKEnimJj625JUIft"
+                },
+                {
+                    "artist": "Michael Patrick Kelly",
+                    "title": "Run Free",
+                    "uri": "2gbpzXTeJxGh1v9Uza6IbP"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Jed Kurzel",
+                    "title": "He's Back",
+                    "uri": "1oAOhA9vS71PyfMecLg55i"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jed Kurzel",
+                    "title": "He's Back",
+                    "uri": "1oAOhA9vS71PyfMecLg55i"
+                },
+                {
+                    "artist": "Ben Van Kuringen",
+                    "title": "DYWD",
+                    "uri": "0pTeQueWKPyUnofbYnF3ZV"
+                },
+                {
+                    "artist": "\"Weird Al\" Yankovic",
+                    "title": "Money for Nothing / Beverly Hillbillies",
+                    "uri": "6tkXZARGIZPPAPYc7GVzLN"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Bruce Broughton",
+                    "title": "My Name Is Chance",
+                    "uri": "4hmMPY2lUP7vmsAimF8Dl2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bruce Broughton",
+                    "title": "My Name Is Chance",
+                    "uri": "4hmMPY2lUP7vmsAimF8Dl2"
+                },
+                {
+                    "artist": "Stephen Paulus",
+                    "title": "The Day Is Done (2006)",
+                    "uri": "1l8Pv9SFF7ts5odswk3c51"
+                },
+                {
+                    "artist": "Joey Valence & Brae",
+                    "title": "PUNK TACTICS",
+                    "uri": "2jQ1P0aGT4WkNyJCeoQnb9"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Mychael Danna",
+                    "title": "Skinny Vegetarian Boy",
+                    "uri": "08mfz1tixDPAARZM7mnN9i"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mychael Danna",
+                    "title": "Skinny Vegetarian Boy",
+                    "uri": "08mfz1tixDPAARZM7mnN9i"
+                },
+                {
+                    "artist": "Insane Clown Posse",
+                    "title": "Freaky Tales",
+                    "uri": "1uv1c7IVCiudFIqYx9mlJt"
+                },
+                {
+                    "artist": "Unknown Artist",
+                    "title": "Freaky Tales",
+                    "uri": "5NlIknnZJ0C26LzeXKoP0X"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Philippe Sarde",
+                    "title": "Hallucinations",
+                    "uri": "6OZ2tSrKm3RKXHAiNxfm2e"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Philippe Sarde",
+                    "title": "Hallucinations",
+                    "uri": "6OZ2tSrKm3RKXHAiNxfm2e"
+                },
+                {
+                    "artist": "Stenkil",
+                    "title": "Hallucinate",
+                    "uri": "71T8jxCMV616irGnEDtNht"
+                },
+                {
+                    "artist": "Philipp Wolf",
+                    "title": "Spiral - Edit",
+                    "uri": "555xHSjplKrHgZteVOwJ7R"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "3T",
+                    "title": "Didn't Mean To Hurt You",
+                    "uri": "2ibXNuj2s05wzKBhVJWxWV"
+                },
+                {
+                    "artist": "3T",
+                    "title": "Didn't Mean To Hurt You",
+                    "uri": "0nRRjahJmYHqbajDC4C1rz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "3T",
+                    "title": "Didn't Mean To Hurt You",
+                    "uri": "2ibXNuj2s05wzKBhVJWxWV"
+                },
+                {
+                    "artist": "3T",
+                    "title": "Didn't Mean To Hurt You",
+                    "uri": "0nRRjahJmYHqbajDC4C1rz"
+                },
+                {
+                    "artist": "Thee Sacred Souls",
+                    "title": "Running Away",
+                    "uri": "34VDj911PQh8B1BXYoOMLq"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Basil Poledouris",
+                    "title": "Wolf Dance",
+                    "uri": "1Hq9p1er48YcGjKd5UVX3o"
+                },
+                {
+                    "artist": "Basil Poledouris",
+                    "title": "Wolf Dance (Revised)",
+                    "uri": "1RPi91YX1zVgXD08rmA3md"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Basil Poledouris",
+                    "title": "Wolf Dance",
+                    "uri": "1Hq9p1er48YcGjKd5UVX3o"
+                },
+                {
+                    "artist": "Basil Poledouris",
+                    "title": "Wolf Dance (Revised)",
+                    "uri": "1RPi91YX1zVgXD08rmA3md"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Basil Poledouris",
+                    "title": "The Gifts",
+                    "uri": "5huvj8R5OgEhb0amYqtLsU"
+                },
+                {
+                    "artist": "Basil Poledouris",
+                    "title": "The Gifts",
+                    "uri": "3CLARaDucBv0QHw9PiMpws"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Basil Poledouris",
+                    "title": "The Gifts",
+                    "uri": "5huvj8R5OgEhb0amYqtLsU"
+                },
+                {
+                    "artist": "Basil Poledouris",
+                    "title": "The Gifts",
+                    "uri": "3CLARaDucBv0QHw9PiMpws"
+                },
+                {
+                    "artist": "Cabballero",
+                    "title": "Hymn (More & More Mix)",
+                    "uri": "31Oy7upPqW7RlVd064uPKD"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Debelah Morgan",
+                    "title": "As Long As I Can Dream",
+                    "uri": "4qdXK6GPnf49QwVZ2AXfgJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Debelah Morgan",
+                    "title": "As Long As I Can Dream",
+                    "uri": "4qdXK6GPnf49QwVZ2AXfgJ"
+                },
+                {
+                    "artist": "The Statler Brothers",
+                    "title": "Flowers On the Wall",
+                    "uri": "7ledv9CTjqdwnvHgRmETyZ"
+                },
+                {
+                    "artist": "Elvis Presley",
+                    "title": "If I Can Dream",
+                    "uri": "3C6pSIVeBKIbSpCFtaw1r8"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Randy Edelman",
+                    "title": "A Stroll Through Town",
+                    "uri": "2cDuh15LRkn4pvzWRRce4b"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Randy Edelman",
+                    "title": "A Stroll Through Town",
+                    "uri": "2cDuh15LRkn4pvzWRRce4b"
+                },
+                {
+                    "artist": "Sun Kil Moon",
+                    "title": "Richard Ramirez Died Today of Natural Causes",
+                    "uri": "7wrHhdl7b71YXfjyeQvCxk"
+                },
+                {
+                    "artist": "Tim Franks Trio",
+                    "title": "Walk My Way",
+                    "uri": "623tpcwKrscD1sz9GEffdR"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Michael Kamen",
+                    "title": "One Hundred and One Dalmatians (Main Titles) / Good Morning, Pongo / Walking The Dog",
+                    "uri": "2wHEC746U37UjVtCEvM5KX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Michael Kamen",
+                    "title": "One Hundred and One Dalmatians (Main Titles) / Good Morning, Pongo / Walking The Dog",
+                    "uri": "2wHEC746U37UjVtCEvM5KX"
+                },
+                {
+                    "artist": "Drakeo the Ruler",
+                    "title": "Betchua Freestyle",
+                    "uri": "5nD4qH2E2cGwf4E99aNjKz"
+                },
+                {
+                    "artist": "Sybyr",
+                    "title": "101dalmations",
+                    "uri": "3z4BpvYUfidgkh02NozMo7"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Dr. John",
+                    "title": "Cruella De Vil - From \"101 Dalmatians\" Soundtrack",
+                    "uri": "0fnDnirCt8FR7EHukJ9TdM"
+                },
+                {
+                    "artist": "Dr. John",
+                    "title": "Cruella De Vil (from \"101 Dalmatians (Live Action)\" - From \"101 Dalmatians\" Soundtrack",
+                    "uri": "5k2wxPLEG5vGeMQoOXhmxc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dr. John",
+                    "title": "Cruella De Vil - From \"101 Dalmatians\" Soundtrack",
+                    "uri": "0fnDnirCt8FR7EHukJ9TdM"
+                },
+                {
+                    "artist": "Dr. John",
+                    "title": "Cruella De Vil (from \"101 Dalmatians (Live Action)\" - From \"101 Dalmatians\" Soundtrack",
+                    "uri": "5k2wxPLEG5vGeMQoOXhmxc"
+                },
+                {
+                    "artist": "Bill Lee",
+                    "title": "Cruella De Vil - From \"101 Dalmatians\"/Soundtrack Version",
+                    "uri": "2tkIIkF3CPqsmYhsncNEGN"
+                }
+            ]
+        }
     }
 }

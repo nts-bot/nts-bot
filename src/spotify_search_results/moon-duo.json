@@ -6761,6 +6761,74 @@
             ]
         }
     },
+    "moon-duo-8th-january-2026": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Barry Walker Jr.",
+                    "title": "Quiessence",
+                    "uri": "5oyqKEXVxjJirSH5pNPeGS"
+                },
+                {
+                    "artist": "Quiescente",
+                    "title": "Quieto",
+                    "uri": "0PAB7bTEVYYpA0PWkS2Cwi"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Repetition Repetition",
+                    "title": "The Machinist",
+                    "uri": "6gztmVP6HVlgSD8iqN9Fe2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Repetition Repetition",
+                    "title": "The Machinist",
+                    "uri": "6gztmVP6HVlgSD8iqN9Fe2"
+                },
+                {
+                    "artist": "Hot Chip",
+                    "title": "Over And Over",
+                    "uri": "3RCj5fG55qjtmnEML1gpnA"
+                },
+                {
+                    "artist": "Dantan",
+                    "title": "Repeat",
+                    "uri": "5t1BXrqwNZ5BHVSjBz2RUm"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Blank & Jones",
+                    "title": "Sanctum IV (Kyrie)",
+                    "uri": "71d6avaJQxboBwSfaNIrkD"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bitchin Bajas",
+                    "title": "Skylarking",
+                    "uri": "2YHZaBPn2bxYk3J8jZ7Smm"
+                },
+                {
+                    "artist": "Bitchin Bajas",
+                    "title": "Keiji Dreams",
+                    "uri": "6WZA0OHP5fWD4PkKZO0s8z"
+                }
+            ]
+        }
+    },
     "moon-duo-9th-february-2023": {
         "00": {
             "s0": [
