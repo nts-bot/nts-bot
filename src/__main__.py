@@ -44,19 +44,24 @@ def main(self):
     runscript(self, test, list(shelf), retry=True)
 
 
-def _git():
-    repo = git.Repo(os.getenv("directory"))
+def _git(repo:git.Repo,):
     repo.git.add(".")  # update=True
     repo.index.commit("auto-gitpush")
-    origin = repo.remote(name="origin")
+    origin = repo.remote()
     origin.push()
 
 
 if __name__ == "__main__":
     try:
+        print("pull")
+        repo = git.Repo(os.getenv("directory"))
+        repo.remote().pull()
+        print("check")
         check()
+        print("bot")
         main(class_instance)
-        _git()
+        print("pull")
+        _git(repo)
     except Exception as error:
         print("--------------\nCheck LOG file\n--------------")
         print(f"Error: '{error}'")
