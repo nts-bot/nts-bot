@@ -1068,6 +1068,399 @@
             ]
         }
     },
+    "bob-holmes-24th-january-2026": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "SUSS",
+                    "title": "Wichita",
+                    "uri": "1UCMd6FcewF3a0tb6A7IQC"
+                },
+                {
+                    "artist": "SUSS",
+                    "title": "Wichita",
+                    "uri": "1IhIKPUaY46PpbXbxaPu4P"
+                },
+                {
+                    "artist": "SUSS",
+                    "title": "Canyonlands (Return to Wichita)",
+                    "uri": "3KSPDo35UhvObKT68Hg4Y4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "SUSS",
+                    "title": "Wichita",
+                    "uri": "1UCMd6FcewF3a0tb6A7IQC"
+                },
+                {
+                    "artist": "SUSS",
+                    "title": "Canyonlands (Return to Wichita)",
+                    "uri": "3KSPDo35UhvObKT68Hg4Y4"
+                },
+                {
+                    "artist": "Fritz Kalkbrenner",
+                    "title": "Wichita Lineman",
+                    "uri": "6fjsEYYVXoYGdZ2jOLPlzu"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "SUSS",
+                    "title": "Old Mission",
+                    "uri": "4kloHBAJffi8MT6TQEUClg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "SUSS",
+                    "title": "Old Mission",
+                    "uri": "4kloHBAJffi8MT6TQEUClg"
+                },
+                {
+                    "artist": "draken",
+                    "title": "NOSTYLIST x Crimewave",
+                    "uri": "0Bk3M1yf8tD42DSm2kzZsC"
+                },
+                {
+                    "artist": "RAYE",
+                    "title": "Escapism. - Live at the Royal Albert Hall",
+                    "uri": "3nb5nlbw4uM5posrOgKm6j"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Ry Cooder",
+                    "title": "I'm Leaving You",
+                    "uri": "2cEE6ODdYvqD9Z3ocrgdOW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ry Cooder",
+                    "title": "I'm Leaving You",
+                    "uri": "2cEE6ODdYvqD9Z3ocrgdOW"
+                },
+                {
+                    "artist": "Whatever, Dad",
+                    "title": "Warsh_Tippy and Zelda",
+                    "uri": "5YELRSloCHwoDLjmO5jxAF"
+                },
+                {
+                    "artist": "Pink Floyd",
+                    "title": "Goodbye Cruel World",
+                    "uri": "0ZXkKRO789QKBR6ME7pIDF"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Michael A. Muller",
+                    "title": "The Ghost I",
+                    "uri": "0eCqRPJwyh34cDiSgkdiQS"
+                },
+                {
+                    "artist": "Michael A. Muller",
+                    "title": "The Ghost II",
+                    "uri": "2CjOIop5WiOZNnJjGDO37v"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Michael A. Muller",
+                    "title": "The Ghost II",
+                    "uri": "2CjOIop5WiOZNnJjGDO37v"
+                },
+                {
+                    "artist": "Michael Yanis",
+                    "title": "Waltz of the Stars",
+                    "uri": "3590gQlAYOmQp9nrwDLaCD"
+                },
+                {
+                    "artist": "Radiohead",
+                    "title": "The Tourist - Remastered",
+                    "uri": "2BJgf7Kv8VmOkaixf1yDku"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "The Derek Trucks Band",
+                    "title": "Sahib Teri Bandi - Maki Madni",
+                    "uri": "0pxgXjiNwxX7nO96ywdGZe"
+                },
+                {
+                    "artist": "The Derek Trucks Band",
+                    "title": "Sahib Teri Bandi - Maki Madni - Live \"Bootleg\" Version",
+                    "uri": "5ElTG5ODb5SruO5uoZx4G9"
+                },
+                {
+                    "artist": "The Derek Trucks Band",
+                    "title": "Sahib Teri Bandi - Maki Madni",
+                    "uri": "3J7ftHdeBesSHblVt5629o"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Derek Trucks Band",
+                    "title": "Sahib Teri Bandi - Maki Madni",
+                    "uri": "0pxgXjiNwxX7nO96ywdGZe"
+                },
+                {
+                    "artist": "The Derek Trucks Band",
+                    "title": "Sahib Teri Bandi - Maki Madni",
+                    "uri": "3J7ftHdeBesSHblVt5629o"
+                },
+                {
+                    "artist": "The Derek Trucks Band",
+                    "title": "Sahib Teri Bandi - Maki Madni - Live \"Bootleg\" Version",
+                    "uri": "5ElTG5ODb5SruO5uoZx4G9"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Chelsea Bridge",
+                    "title": "Another Blue",
+                    "uri": "7oi8gdTzGY4J8WploZTtmN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chelsea Bridge",
+                    "title": "Another Blue",
+                    "uri": "7oi8gdTzGY4J8WploZTtmN"
+                },
+                {
+                    "artist": "Al Fowler Trio",
+                    "title": "Chelsea Bridge",
+                    "uri": "3b9A019SlClHPQ6aQi7qiB"
+                },
+                {
+                    "artist": "The Tiger Lillies",
+                    "title": "Lily Marlene",
+                    "uri": "7AIybdnGEmr9PTXvitUQsv"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "eucademix",
+                    "title": "Virginia",
+                    "uri": "2xoowT44vnTfntqJd8xDl9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "eucademix",
+                    "title": "Virginia",
+                    "uri": "2xoowT44vnTfntqJd8xDl9"
+                },
+                {
+                    "artist": "Las eras",
+                    "title": "Virginia",
+                    "uri": "4uYpFy11OHpZHVvrHLP9BN"
+                },
+                {
+                    "artist": "Tigerblood Jewel",
+                    "title": "Virginia Highway",
+                    "uri": "03lqA3UdcJdxAWEwQ5KlBo"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dave Harrington",
+                    "title": "Leather (Part 1)",
+                    "uri": "5UkV3nNm59aGklzjSLDvWy"
+                },
+                {
+                    "artist": "Anouar Brahem",
+                    "title": "Endless Wandering",
+                    "uri": "0aSzGadPr6boT8kkmd4deR"
+                },
+                {
+                    "artist": "Dave Knud",
+                    "title": "3000",
+                    "uri": "0huqsvz44zKHpTTGfDMrkd"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Brian Eno",
+                    "title": "Another Green World - 2004 Remaster",
+                    "uri": "660j84jp8ljIwLFiAFprlb"
+                },
+                {
+                    "artist": "Brian Eno",
+                    "title": "Another Green World - 2004 Remaster",
+                    "uri": "2Pd5gL4pijhH03lXmQ9jtz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Brian Eno",
+                    "title": "Another Green World - 2004 Remaster",
+                    "uri": "660j84jp8ljIwLFiAFprlb"
+                },
+                {
+                    "artist": "Brian Eno",
+                    "title": "The Big Ship - 2004 Remaster",
+                    "uri": "2d9KBVxb6bUfVCjjv1JAVe"
+                },
+                {
+                    "artist": "Flume",
+                    "title": "The Difference",
+                    "uri": "5kJ4BWZ9Y1qFIwwTbMIxYX"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eigil Leuc",
+                    "title": "Before We Knew",
+                    "uri": "6U20TztvUrp7ccU75MAvIX"
+                },
+                {
+                    "artist": "Macy Gray",
+                    "title": "Creep",
+                    "uri": "5szMTnBdnlurAmvY9GUJQL"
+                },
+                {
+                    "artist": "Palace Music",
+                    "title": "New Partner",
+                    "uri": "2ZSubX2QFzD7ba7t47k3oe"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "node: project",
+                    "title": "Messier",
+                    "uri": "4ZlP1iT2qEr4IeBEWLpyHF"
+                },
+                {
+                    "artist": "Tunng",
+                    "title": "Trip Trap",
+                    "uri": "3REtIv5dDO4Xr6Nr8iZknQ"
+                },
+                {
+                    "artist": "of Montreal",
+                    "title": "Forecast Fascist Future",
+                    "uri": "2yq6jMr0uK1rKUEqOOVwrW"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Clarice Jensen",
+                    "title": "Love Abounds In Everything",
+                    "uri": "5HNj9N98EkwlvF5qAk3h76"
+                },
+                {
+                    "artist": "Clarice Jensen",
+                    "title": "Love",
+                    "uri": "7f3Jf2tBploYaB76esTjRM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Clarice Jensen",
+                    "title": "Love Abounds In Everything",
+                    "uri": "5HNj9N98EkwlvF5qAk3h76"
+                },
+                {
+                    "artist": "Clarice Jensen",
+                    "title": "2,1",
+                    "uri": "4BoxpHK9v6R7yhGC5rqyqX"
+                },
+                {
+                    "artist": "Beninem",
+                    "title": "Bros for Life",
+                    "uri": "69MvT8GqsvZRpDtx8PO8Lt"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "David Moore",
+                    "title": "Offering",
+                    "uri": "6l1eAHQytF7ERTdNJLxm8U"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "David Moore",
+                    "title": "Offering",
+                    "uri": "6l1eAHQytF7ERTdNJLxm8U"
+                },
+                {
+                    "artist": "David Moore",
+                    "title": "Pointe Nimbus",
+                    "uri": "4vzE5GeOXrXRMEUe3d8QLp"
+                },
+                {
+                    "artist": "Rudy Hugo",
+                    "title": "Psalm 51",
+                    "uri": "4YqL937vCddFt8cNTO17cv"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Henry Mancini",
+                    "title": "Moon River",
+                    "uri": "0gljCof9FFOHKvxznqNR23"
+                },
+                {
+                    "artist": "Henry Mancini",
+                    "title": "Moon River - Digitally Remastered",
+                    "uri": "4R1K6YQV1tDJltK8EBHyND"
+                },
+                {
+                    "artist": "Henry Mancini",
+                    "title": "Moon River - Alternate Take",
+                    "uri": "02INmxuv3qxCqzcSs6KwH2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Henry Mancini",
+                    "title": "Moon River - Digitally Remastered",
+                    "uri": "4R1K6YQV1tDJltK8EBHyND"
+                },
+                {
+                    "artist": "Henry Mancini",
+                    "title": "Moon River",
+                    "uri": "6PvV7DzoRfb0Qf1ljdL8st"
+                },
+                {
+                    "artist": "Glüme",
+                    "title": "Goddess",
+                    "uri": "4vTUtoN1JPrg4Tm9dWTAkK"
+                }
+            ]
+        }
+    },
     "bob-holmes-29th-november-2025": {
         "00": {
             "s0": "",
