@@ -588,9 +588,10 @@
         },
         "02": {
             "artist": "Pricxfield",
-            "ratio": 4,
+            "ratio": -1,
             "title": "The Last of Us Part 2 Unreleased Original Soundtrack (St Mary's Hospital)",
-            "trackid": "6gIZMyM1CQBM0E2zlWpIEh"
+            "trackid": "6gIZMyM1CQBM0E2zlWpIEh",
+            "uri": ""
         },
         "03": {
             "artist": "David Bowie",
@@ -600,9 +601,10 @@
         },
         "04": {
             "artist": "rigii",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Kimchi",
-            "trackid": "6H2dWaS9qPEbb5xF65YYIH"
+            "trackid": "6H2dWaS9qPEbb5xF65YYIH",
+            "uri": ""
         },
         "05": {
             "artist": "Tobiahs",
@@ -734,9 +736,10 @@
         },
         "05": {
             "artist": "Asche",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Trinity",
-            "trackid": "32s5Vx3NpR5rxFeQf71jSO"
+            "trackid": "32s5Vx3NpR5rxFeQf71jSO",
+            "uri": ""
         },
         "06": {
             "artist": "Piece Wise",
@@ -770,9 +773,10 @@
         },
         "11": {
             "artist": "NOVEMBER KID",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Photograph",
-            "trackid": "7iSrJjcVrl7uxo7HkSTi8X"
+            "trackid": "7iSrJjcVrl7uxo7HkSTi8X",
+            "uri": ""
         },
         "12": {
             "artist": "Parallel Voices",
@@ -794,9 +798,10 @@
         },
         "15": {
             "artist": "NOVEMBER KID",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Photograph",
-            "trackid": "7iSrJjcVrl7uxo7HkSTi8X"
+            "trackid": "7iSrJjcVrl7uxo7HkSTi8X",
+            "uri": ""
         },
         "16": {
             "artist": "Clara Luzia",
@@ -848,9 +853,10 @@
         },
         "24": {
             "artist": "NOVEMBER KID",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Photograph",
-            "trackid": "7iSrJjcVrl7uxo7HkSTi8X"
+            "trackid": "7iSrJjcVrl7uxo7HkSTi8X",
+            "uri": ""
         },
         "25": {
             "artist": "Photographic Memory",
@@ -866,9 +872,10 @@
         },
         "27": {
             "artist": "Darcey Beau",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Fear No More",
-            "trackid": "4hWOO3NC2XMGIYyXR1toYf"
+            "trackid": "4hWOO3NC2XMGIYyXR1toYf",
+            "uri": ""
         }
     },
     "deadair-transmissions-23rd-may-2025": {},
@@ -1172,6 +1179,160 @@
             "ratio": 9,
             "title": "Fall in Love (Remix)",
             "trackid": "7aue52EQZDgNk6t4bCZCoc"
+        }
+    },
+    "deadair-transmissions-5th-december-2025": {
+        "00": {
+            "artist": "The Pale Fountains",
+            "ratio": 9,
+            "title": "Jean's Not Happening",
+            "trackid": "5kbKANvdpk5qndaA49i262"
+        },
+        "01": {
+            "artist": "Lali Puna",
+            "ratio": 9,
+            "title": "Faking The Books",
+            "trackid": "5fTDz2Ky06voi1Z7NheQuu"
+        },
+        "02": {
+            "artist": "Junk Drawer",
+            "ratio": 9,
+            "title": "Pell Mell",
+            "trackid": "0IDWNMoLorAHuNlXwtfyn2"
+        },
+        "03": {
+            "artist": "Arthington Stack",
+            "ratio": 9,
+            "title": "Crowds Below Filerimos",
+            "trackid": "6zX1zKkhQAy3i9saLGbKlY"
+        },
+        "04": {
+            "artist": "Heavenly",
+            "ratio": 9,
+            "title": "Dig Your Own Grave",
+            "trackid": "0BI5V0mdL7dN6t12fqx167"
+        },
+        "05": {
+            "artist": "Boy Crazy",
+            "ratio": 9,
+            "title": "Why Aren't You Free?",
+            "trackid": "4RduurLo2MLs1JeOzsO6t3"
+        },
+        "06": {
+            "artist": "Biff Rose",
+            "ratio": 9,
+            "title": "What's Gnawing at Me",
+            "trackid": "6Cs2XMhctBCuxTLeOy1QYk"
+        },
+        "07": {
+            "artist": "Brenton Wood",
+            "ratio": 9,
+            "title": "I Think You've Got Your Fools Mixed Up",
+            "trackid": "5YDGDPPQc66FNCMMHpjh5m"
+        },
+        "08": {
+            "artist": "The Wedding Present",
+            "ratio": 9,
+            "title": "524 Fidelio",
+            "trackid": "60VjNGEvQKX9QGlCoi1KYs"
+        },
+        "09": {
+            "artist": "Quarteto Em Cy",
+            "ratio": 9,
+            "title": "Cavalo-Ferro",
+            "trackid": "1FXKZzkGXEebSQj9atwZcC"
+        },
+        "10": {
+            "artist": "Carole King",
+            "ratio": 9,
+            "title": "Been to Canaan",
+            "trackid": "3fOJ99F9vgXuY0sBSf3PsG"
+        },
+        "11": {
+            "artist": "Florry",
+            "ratio": 9,
+            "title": "First it was a movie, then it was a book",
+            "trackid": "0CO8FICjkvVDekOcarbvIR"
+        },
+        "12": {
+            "artist": "Troutflies",
+            "ratio": 9,
+            "title": "Cross on a Hill",
+            "trackid": "1oGO20vKp96RPYVTqsmq2W"
+        },
+        "13": {
+            "artist": "Van Morrison",
+            "ratio": 9,
+            "title": "The Great Deception",
+            "trackid": "2PfTmHXY9qtRnElVFCu4zg"
+        },
+        "14": {
+            "artist": "Dear Nora",
+            "ratio": 9,
+            "title": "The Lonesome Border, Pt. 1",
+            "trackid": "5W0j7P73UBuiRvExwNVbYc"
+        },
+        "15": {
+            "artist": "Kris Kristofferson",
+            "ratio": 9,
+            "title": "Loving Her Was Easier (Than Anything I'll Ever Do Again)",
+            "trackid": "0F56GAWK57E3iXohy9rCmT"
+        },
+        "16": {
+            "artist": "The Stevens",
+            "ratio": 9,
+            "title": "King Hit",
+            "trackid": "1rtDmtaUgZjTINxCzBtsNX"
+        },
+        "17": {
+            "artist": "Prefab Sprout",
+            "ratio": 9,
+            "title": "Bonny - Acoustic",
+            "trackid": "0GUkKHKtAfbSLzTL0GPPce"
+        },
+        "18": {
+            "artist": "Tonstartssbandht",
+            "ratio": 9,
+            "title": "Magic Pig",
+            "trackid": "3AeRoi9qhVrq9flRy8TJQH"
+        },
+        "19": {
+            "artist": "Albion Country Band",
+            "ratio": 9,
+            "title": "I Was A Young Man",
+            "trackid": "6UCRZp5bdpoJkpsVyZQe2b"
+        },
+        "20": {
+            "artist": "Joan Brooks",
+            "ratio": 9,
+            "title": "The Letter",
+            "trackid": "03cLeq5Irb0QiGZVCs6YsJ"
+        },
+        "21": {
+            "artist": "Everyone Asked About You",
+            "ratio": 9,
+            "title": "Sometimes Memory Fails Me Sometimes",
+            "trackid": "6kwnufyzmS1iLiknmEQBFD"
+        },
+        "22": {
+            "artist": "Black Tambourine",
+            "ratio": 9,
+            "title": "Can't Explain",
+            "trackid": "3NMTUOJlNXZeYE0ZHqVaCS"
+        },
+        "23": {
+            "artist": "International Airport",
+            "ratio": 9,
+            "title": "O Lago Temporario",
+            "trackid": "7wFI8mBG1aibkxjqE6XaoV"
+        }
+    },
+    "deadair-transmissions-7th-november-2025": {
+        "00": {
+            "artist": "Through Quiet Tides",
+            "ratio": 3,
+            "title": "Night Air",
+            "trackid": "3Lj2UdxfsJbQNl1f05f9fP"
         }
     }
 }

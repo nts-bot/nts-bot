@@ -155,9 +155,10 @@
         },
         "07": {
             "artist": "alt-J",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Deadcrush (Lea Porcelain Remix)",
-            "trackid": "42v1963noBPnl9I3pJhEpK"
+            "trackid": "42v1963noBPnl9I3pJhEpK",
+            "uri": ""
         },
         "08": {
             "artist": "KALEO",
@@ -2485,6 +2486,98 @@
             "trackid": "1jgFeCHJ6F9j4YNd18t4Fm"
         }
     },
+    "forager-records-29th-january-2026": {
+        "00": {
+            "artist": "James Saxon",
+            "ratio": 3,
+            "title": "Boy For Sale",
+            "trackid": "557ftXLBNK08l9yYp1gcTW"
+        },
+        "01": {
+            "artist": "Yves Montand",
+            "ratio": 0,
+            "title": "À bicyclette",
+            "trackid": "18dwyNRkzzggWGBPWKH5Uh"
+        },
+        "02": {
+            "artist": "Duke Mobb",
+            "ratio": 4,
+            "title": "LES MARCHES DE LA FRIME",
+            "trackid": "5QAmhtRbnU2iZgGb7cGyDw"
+        },
+        "03": {
+            "artist": "Eugénie",
+            "ratio": 9,
+            "title": "Fai tira Marius",
+            "trackid": "2uGgNARgs50DDHUZgYMS4W"
+        },
+        "04": {
+            "artist": "Melody Gardot",
+            "ratio": 4,
+            "title": "Sunset In The Blue",
+            "trackid": "3vTAheX6bBX0hpVMBvE9l0"
+        },
+        "05": {
+            "artist": "Blaine L. Reininger",
+            "ratio": 9,
+            "title": "Playin' Your Game",
+            "trackid": "0Hsetai1OtEUpoaJZPno52"
+        },
+        "06": {
+            "artist": "The Limits",
+            "ratio": 9,
+            "title": "All of You",
+            "trackid": "0FNUmZFXga9p6MpETykITl"
+        },
+        "07": {
+            "artist": "Fli Pe",
+            "ratio": 5,
+            "title": "Class in Session",
+            "trackid": "0tDA1aMkacYtkJOdAMiQij"
+        },
+        "08": {
+            "artist": "Mister You",
+            "ratio": 4,
+            "title": "La Costa",
+            "trackid": "4reODQeIoWhBgXe3nZmehp"
+        },
+        "09": {
+            "artist": "Henry Torgue & Serge Houppin",
+            "ratio": 3,
+            "title": "Obséduction",
+            "trackid": "1IlWsceGRVfTWZCMdvGjPw"
+        },
+        "10": {
+            "artist": "Violeta De Outono",
+            "ratio": 9,
+            "title": "Aqui E Agora",
+            "trackid": "3we8ZmTVC9SeS7b7WZ585m"
+        },
+        "11": {
+            "artist": "Ich + Ich",
+            "ratio": 3,
+            "title": "Universum",
+            "trackid": "5CMOpgf9S44Fw8qH9jAPWM"
+        },
+        "12": {
+            "artist": "Tankurt Manas",
+            "ratio": 3,
+            "title": "Art Arda",
+            "trackid": "35yCzg1dpsqFJX8ZmWRAwM"
+        },
+        "13": {
+            "artist": "Lynda Thalie",
+            "ratio": 4,
+            "title": "Adieu mon pays",
+            "trackid": "4hxJcvC9yAuHfj02Q1Wc51"
+        },
+        "14": {
+            "artist": "Anabella",
+            "ratio": 5,
+            "title": "Amigos Con Derechos",
+            "trackid": "6zWCecGJkqP5YclFj2XY4O"
+        }
+    },
     "forager-records-2nd-february-2023": {
         "00": {
             "artist": "Jonathan Taylor",
@@ -2848,6 +2941,86 @@
             "trackid": "3XHORygIaZ3k7EKNnbZEUV"
         }
     },
+    "forager-records-4th-december-2025": {
+        "00": {
+            "artist": "Tommaso Cappellato",
+            "ratio": 9,
+            "title": "The Flow Must Go On",
+            "trackid": "6huioABTkLAl7Pboa6U6jS"
+        },
+        "01": {
+            "artist": "Loveshadow",
+            "ratio": 9,
+            "title": "Severance",
+            "trackid": "0uKYFCqj56j9tQFJ2Vzj4e"
+        },
+        "02": {
+            "artist": "Cedar Glow",
+            "ratio": 4,
+            "title": "Island Breeze",
+            "trackid": "573jxMGXQVBTBp37EJli9x"
+        },
+        "03": {
+            "artist": "DJ DRECKISCH",
+            "ratio": 0,
+            "title": "Vamos a la Techno",
+            "trackid": "0RaKAdJMKOadghHF1V71gF"
+        },
+        "04": {
+            "artist": "Patrick Gibin",
+            "ratio": 9,
+            "title": "In This Together - Joaquin's Voices of Innocence Version",
+            "trackid": "5oNIsd5vvuv2a6lj4lUfkh"
+        },
+        "05": {
+            "artist": "UDZ",
+            "ratio": 3,
+            "title": "Memphis Nightmare",
+            "trackid": "6Tve13BOkV3pJRe3kGmjPF"
+        },
+        "06": {
+            "artist": "Abe Oquendo Heraud",
+            "ratio": 3,
+            "title": "Fading Forests",
+            "trackid": "0QaOOqWct8vOof5ov89XgJ"
+        },
+        "07": {
+            "artist": "André Marie Tala",
+            "ratio": 3,
+            "title": "Soweto",
+            "trackid": "3AkMEWn063KITreQ865ms0"
+        },
+        "08": {
+            "artist": "Prueryto",
+            "ratio": 4,
+            "title": "EAT",
+            "trackid": "5NXQRo4onb1Se7H5I0ZqLi"
+        },
+        "09": {
+            "artist": "Andreas Müller",
+            "ratio": 5,
+            "title": "Bazaar",
+            "trackid": "5WVqfFBF4eMuwDe7L5emJV"
+        },
+        "10": {
+            "artist": "Stimela",
+            "ratio": 9,
+            "title": "Rhythms of Oneness",
+            "trackid": "3luDIgoVgmHvEKaCz2OHV8"
+        },
+        "11": {
+            "artist": "Aura",
+            "ratio": 9,
+            "title": "I Got To Make It",
+            "trackid": "1ja7myPfuhlEuyGF6vRkqA"
+        },
+        "12": {
+            "artist": "Urban Love",
+            "ratio": 3,
+            "title": "One More Chance",
+            "trackid": "7araKaGVhgqU8wfF563iCB"
+        }
+    },
     "forager-records-4th-january-2024": {
         "00": {
             "artist": "Havok",
@@ -3140,6 +3313,92 @@
             "ratio": 3,
             "title": "Sugar Cube",
             "trackid": "6QGhkFu0TdoLAvEWriKkoD"
+        }
+    },
+    "forager-records-6th-november-2025": {
+        "00": {
+            "artist": "Space Access",
+            "ratio": 3,
+            "title": "Memories of You",
+            "trackid": "2dj6PceKAJ2P0TV4Ii5fK3"
+        },
+        "01": {
+            "artist": "Alex Bangor",
+            "ratio": 4,
+            "title": "Miss You Everyday",
+            "trackid": "5TlBSXsTGuG5IOmsi4vosN"
+        },
+        "02": {
+            "artist": "KorgStyle Life",
+            "ratio": 0,
+            "title": "Only you - New Italo Disco",
+            "trackid": "0rZ6OXoO3q18jQchyvS81W"
+        },
+        "03": {
+            "artist": "Cayden. Null?",
+            "ratio": 4,
+            "title": "OCEAN'S 11",
+            "trackid": "65kcDBZBzHh2c0M705pksd"
+        },
+        "04": {
+            "artist": "Vencedores por Cristo",
+            "ratio": 9,
+            "title": "Cristo, Meu Mestre",
+            "trackid": "017XDZoSfhIQdly5Ktez9u"
+        },
+        "05": {
+            "artist": "V Squad",
+            "ratio": 3,
+            "title": "Sober Up",
+            "trackid": "4Fkm2UvquGUIRU5ZJTOTjG"
+        },
+        "06": {
+            "artist": "Serhat Durmus",
+            "ratio": 3,
+            "title": "Silence of Reality",
+            "trackid": "3WTawy48FDVeLvDp6wckmh"
+        },
+        "07": {
+            "artist": "Nils Wülker",
+            "ratio": 3,
+            "title": "Continuum",
+            "trackid": "7ka1YCNsR1BTSCtXcSigsG"
+        },
+        "08": {
+            "artist": "LX",
+            "ratio": 0,
+            "title": "Auf Clouds",
+            "trackid": "6NtYSXyyM6uhyDejlnLzeS"
+        },
+        "09": {
+            "artist": "Now Batukada",
+            "ratio": 9,
+            "title": "Dahil Sa Isang Bulaklak",
+            "trackid": "6ThrwtBAv096GYfUi1Fsq3"
+        },
+        "10": {
+            "artist": "R4KA",
+            "ratio": 4,
+            "title": "Cisne Negro",
+            "trackid": "0tIpE9x7F8yolYLULwrYWO"
+        },
+        "11": {
+            "artist": "Malcorazón",
+            "ratio": 9,
+            "title": "Promesas",
+            "trackid": "50R1dGY9S90lZTgGLpmSkc"
+        },
+        "12": {
+            "artist": "Shiny Two Shiny",
+            "ratio": 9,
+            "title": "Moment to Moment",
+            "trackid": "0oEYkNwPcvpc6aekqskKNN"
+        },
+        "13": {
+            "artist": "SFF",
+            "ratio": 9,
+            "title": "Slow Motion (U.S. Version)",
+            "trackid": "6TKFD09bmptKhYFZmiR4Z5"
         }
     },
     "forager-records-7th-december-2023": {
@@ -3520,6 +3779,92 @@
             "ratio": 3,
             "title": "The Starlit Past",
             "trackid": "2VQauCjN6jNQdarrLW2mcv"
+        }
+    },
+    "forager-records-9th-october-2025": {
+        "00": {
+            "artist": "VVS Cartel",
+            "ratio": 4,
+            "title": "Blackberries - Remix House",
+            "trackid": "7dhCDDRNxlrM585PH2rUhE"
+        },
+        "01": {
+            "artist": "Almamegretta",
+            "ratio": 9,
+            "title": "O bbuono e 'o malamente",
+            "trackid": "17BsG5KuGcud4rULMIWJvn"
+        },
+        "02": {
+            "artist": "0座標",
+            "ratio": 6,
+            "title": "友人",
+            "trackid": "3E0zyOYRBUsXSESxpad7vr"
+        },
+        "03": {
+            "artist": "Piero",
+            "ratio": 9,
+            "title": "Fumemos un Cigarrillo",
+            "trackid": "7AENuJXWwTz8yl99eR9O6H"
+        },
+        "04": {
+            "artist": "Aonenine",
+            "ratio": 3,
+            "title": "Them v Us",
+            "trackid": "74A7EsRN9WgUFinAexZu5w"
+        },
+        "05": {
+            "artist": "Arcangelo Corelli",
+            "ratio": 4,
+            "title": "III. Sarabanda",
+            "trackid": "0DO5mgSGU1ShAuQSvxtdJ2"
+        },
+        "06": {
+            "artist": "Jim Perkins",
+            "ratio": 4,
+            "title": "Between the Sea and the Sky - Vraell Re-work",
+            "trackid": "5N51lJtbUklqxbE5aiIrK2"
+        },
+        "07": {
+            "artist": "Lana Del Rey",
+            "ratio": 4,
+            "title": "Mariners Apartment Complex",
+            "trackid": "6OG05bPAwUuV3OMvy2Vy1P"
+        },
+        "08": {
+            "artist": "Maxime Le Forestier",
+            "ratio": 4,
+            "title": "La salle des pas perdus",
+            "trackid": "7rKXb7NnMSDCKzNe0W1EJW"
+        },
+        "09": {
+            "artist": "Chet Baker",
+            "ratio": 3,
+            "title": "Resonant Emotions",
+            "trackid": "5jqlbjVMrHHSV9oFEinHKb"
+        },
+        "10": {
+            "artist": "LAERZ",
+            "ratio": 3,
+            "title": "Lovely - Live",
+            "trackid": "163B5U4yZz2qET8YmYA0sh"
+        },
+        "11": {
+            "artist": "Fear of Pop",
+            "ratio": 9,
+            "title": "Slow Jam '98",
+            "trackid": "58SLyIbAPcjtMMEs0u16Cu"
+        },
+        "12": {
+            "artist": "Drake",
+            "ratio": 3,
+            "title": "The Ride",
+            "trackid": "4xRxYWgAtL6pzRz94GlZlA"
+        },
+        "13": {
+            "artist": "Zimmer",
+            "ratio": 3,
+            "title": "Wildflowers",
+            "trackid": "5xl0p7WkEry8QAOxTs28kY"
         }
     }
 }

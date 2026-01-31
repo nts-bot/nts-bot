@@ -1800,9 +1800,10 @@
         },
         "34": {
             "artist": "Funky DL",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Still Dreaming",
-            "trackid": "4ZdPnoY4NWsxv01dLggNDO"
+            "trackid": "4ZdPnoY4NWsxv01dLggNDO",
+            "uri": ""
         },
         "35": {
             "artist": "Insane Clown Posse",
@@ -2001,6 +2002,98 @@
             "ratio": 4,
             "title": "One in the Chamber",
             "trackid": "17sEScJPzi1STGnwmoFYHc"
+        }
+    },
+    "rambo-radio-29th-january-2026": {
+        "00": {
+            "artist": "Coach K",
+            "ratio": 0,
+            "title": "Life Again",
+            "trackid": "72882ZJmWIioOYoQoXDCKw"
+        },
+        "01": {
+            "artist": "crapjony",
+            "ratio": 4,
+            "title": "Cocain3",
+            "trackid": "7sJCKVKk1EpfeW8JKJQ70q"
+        },
+        "02": {
+            "artist": "Cellski",
+            "ratio": 9,
+            "title": "Bangin'",
+            "trackid": "35IMuoHkBNNgC1QvZA2CVK"
+        },
+        "03": {
+            "artist": "Zorsch und Kurt",
+            "ratio": 4,
+            "title": "Crazy Froschpit",
+            "trackid": "7LiVFp3QCG588y5haTzPK3"
+        },
+        "04": {
+            "artist": "Special Chill Label",
+            "ratio": 3,
+            "title": "Fading Without Goodbye",
+            "trackid": "2DauhTAhqYB7GnRWlaAAwN"
+        },
+        "05": {
+            "artist": "Compton's Most Wanted",
+            "ratio": 5,
+            "title": "Hood Took Me Under",
+            "trackid": "52DVOX7em4hNp9K4Uw3rLY"
+        },
+        "06": {
+            "artist": "P.G. 13",
+            "ratio": 9,
+            "title": "What's Your Name - Original",
+            "trackid": "5voINy5uVB8LZojtiOj3Rv"
+        },
+        "07": {
+            "artist": "Night Lovell",
+            "ratio": 4,
+            "title": "Deira City Centre",
+            "trackid": "7fm0RfFil17f017qchrnyK"
+        },
+        "08": {
+            "artist": "C.W. Da YoungBlood",
+            "ratio": 3,
+            "title": "No Games (feat. Tryf Bindope & Pappy)",
+            "trackid": "4zOUY0Bpw9I6dpgwG2TuDa"
+        },
+        "09": {
+            "artist": "Thierry Von Der Warth",
+            "ratio": 3,
+            "title": "Back In Love",
+            "trackid": "2AFwQBPl6oJwHNfwBQq49B"
+        },
+        "10": {
+            "artist": "Greesha",
+            "ratio": 4,
+            "title": "Feel Your Body",
+            "trackid": "63tLVzw9MvG3cNDpxEQOSy"
+        },
+        "11": {
+            "artist": "Billy Preston",
+            "ratio": 4,
+            "title": "Nothing From Nothing",
+            "trackid": "72PoJMDfdaw9gGECgA9kTZ"
+        },
+        "12": {
+            "artist": "Napoleon Da Legend",
+            "ratio": 3,
+            "title": "Shogun",
+            "trackid": "4wxBvRRf9EsCRTNy1ybMe8"
+        },
+        "13": {
+            "artist": "Jafunk",
+            "ratio": 3,
+            "title": "Don't Stop the Music",
+            "trackid": "3FN9upQKJEZfxCSd34jMN3"
+        },
+        "14": {
+            "artist": "Matt Frewer",
+            "ratio": 3,
+            "title": "Finding Nemo",
+            "trackid": "2DLn7ObdemNc73MhPSRdBN"
         }
     },
     "rambo-radio-2nd-march-2023": {
@@ -2413,6 +2506,134 @@
             "trackid": "347dLsTtj0ObCDfspfP3Jy"
         }
     },
+    "rambo-radio-4th-december-2025": {
+        "00": {
+            "artist": "Disaster/Peace",
+            "ratio": 9,
+            "title": "Blood to Blood",
+            "trackid": "0oGwQOKve3jfvj9UMufdtG"
+        },
+        "01": {
+            "artist": "AZ",
+            "ratio": 5,
+            "title": "The Format",
+            "trackid": "4TvxDMTOkbK2yt7IfHWqZQ"
+        },
+        "02": {
+            "artist": "Ursinae",
+            "ratio": 3,
+            "title": "Backroads",
+            "trackid": "2NhkhIBiqpjaEhopZa2zBQ"
+        },
+        "03": {
+            "artist": "Fredo",
+            "ratio": 3,
+            "title": "Daily Duppy (feat. GRM Daily)",
+            "trackid": "65VcwXOF7IR5YMXGNhfXQI"
+        },
+        "04": {
+            "artist": "J Peace",
+            "ratio": 9,
+            "title": "It's Alright",
+            "trackid": "5bCV158ewai43UIN3RsxdG"
+        },
+        "05": {
+            "artist": "Adele",
+            "ratio": 4,
+            "title": "I Miss You",
+            "trackid": "6NdG17SJBXKJeYS67f7E74"
+        },
+        "06": {
+            "artist": "Marc Ventus",
+            "ratio": 4,
+            "title": "Already Gone - Piano Version",
+            "trackid": "6mlxM9ai14H88zv3W4toMA"
+        },
+        "07": {
+            "artist": "Piece Wise",
+            "ratio": 3,
+            "title": "Say It",
+            "trackid": "5oLYCajwpYt0GwqKu8aBvt"
+        },
+        "08": {
+            "artist": "Dope Amine",
+            "ratio": 4,
+            "title": "A Little Bit Of Peace - Sped Up",
+            "trackid": "53KWEmCiWOvYyDWk27ILSB"
+        },
+        "09": {
+            "artist": "USHER",
+            "ratio": 3,
+            "title": "Yeah! (feat. Lil Jon & Ludacris)",
+            "trackid": "5rb9QrpfcKFHM1EUbSIurX"
+        },
+        "10": {
+            "artist": "Yelito",
+            "ratio": 3,
+            "title": "AFTR HRS",
+            "trackid": "4VbEuKOopdLyBcpiwCruB8"
+        },
+        "11": {
+            "artist": "The Freaks ZM",
+            "ratio": 3,
+            "title": "For My Dawgs",
+            "trackid": "5h9yjHXZriJUk378Iu0QBC"
+        },
+        "12": {
+            "artist": "Fredo",
+            "ratio": 3,
+            "title": "Daily Duppy (feat. GRM Daily)",
+            "trackid": "65VcwXOF7IR5YMXGNhfXQI"
+        },
+        "13": {
+            "artist": "Rappin' 4-Tay",
+            "ratio": 4,
+            "title": "Playaz Club",
+            "trackid": "4ZYM6R5nOZywxACY90Bsla"
+        },
+        "14": {
+            "artist": "Shakira",
+            "ratio": 0,
+            "title": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+            "trackid": "6bNB5gxFX6Q87DbQWb8OWZ"
+        },
+        "15": {
+            "artist": "Big Shenn",
+            "ratio": 3,
+            "title": "Talk Yo Mind Freestyle",
+            "trackid": "7u8qLIMn9yS786gt9WHGOd"
+        },
+        "16": {
+            "artist": "Dr. Stu",
+            "ratio": 3,
+            "title": "Cafe Organico",
+            "trackid": "4ARrmjMpAW7spFkfRbQYE4"
+        },
+        "17": {
+            "artist": "DAM",
+            "ratio": 4,
+            "title": "I Don't Have Freedom",
+            "trackid": "66nnAMs48Janfup9Al8nnV"
+        },
+        "18": {
+            "artist": "Mad Clown",
+            "ratio": 4,
+            "title": "Once Again",
+            "trackid": "1qsjEmjRzXVsmC0oLitHzN"
+        },
+        "19": {
+            "artist": "Janeret",
+            "ratio": 3,
+            "title": "Scape - Edit",
+            "trackid": "5cJpCbZCtadcK4GfjoLblm"
+        },
+        "20": {
+            "artist": "Pallendum",
+            "ratio": 4,
+            "title": "Piece Together",
+            "trackid": "4ZiKjZKWXt1hnS2eM3GYyn"
+        }
+    },
     "rambo-radio-4th-january-2024": {
         "00": {
             "artist": "Sickadoe",
@@ -2596,6 +2817,118 @@
             "ratio": 4,
             "title": "Good Timez",
             "trackid": "3FNGGD6oiTuoVToSx4pUqS"
+        }
+    },
+    "rambo-radio-6th-november-2025": {
+        "00": {
+            "artist": "Souly",
+            "ratio": 3,
+            "title": "Vibration",
+            "trackid": "5xQti0eelxFmlIsFkwoast"
+        },
+        "01": {
+            "artist": "Scorpions",
+            "ratio": 3,
+            "title": "Maybe I Maybe You",
+            "trackid": "1W95JRlpnOqFdEhPm3ja1h"
+        },
+        "02": {
+            "artist": "J.BAMTHEBIGGEST",
+            "ratio": 4,
+            "title": "Pressure",
+            "trackid": "3JR4Hf6Azn7VMX0a5O1VmU"
+        },
+        "03": {
+            "artist": "Mason",
+            "ratio": 3,
+            "title": "Perfect (Exceeder) - Martijn Ten Velden Extended Vocal Remix",
+            "trackid": "0slgudaeXrVlhEfdH2vDq3"
+        },
+        "04": {
+            "artist": "MESA",
+            "ratio": 3,
+            "title": "Oakland",
+            "trackid": "3chhbeaNkSKltKv6Nl41BF"
+        },
+        "05": {
+            "artist": "Boy6lue",
+            "ratio": 4,
+            "title": "Feds Watching",
+            "trackid": "3F3PPxz3f31XBESS2Mjnun"
+        },
+        "06": {
+            "artist": "Bo Diddley",
+            "ratio": 9,
+            "title": "I'm A Man",
+            "trackid": "760clbeDBWmBsBLbszWuNZ"
+        },
+        "07": {
+            "artist": "Levi Jacob",
+            "ratio": 3,
+            "title": "Voices at the Edge of Sleep",
+            "trackid": "4ZSkINltFjPHvV81qeIN3O"
+        },
+        "08": {
+            "artist": "Small Town Kid",
+            "ratio": 3,
+            "title": "Shards",
+            "trackid": "02OwhwebATDY9i4xfeo3FV"
+        },
+        "09": {
+            "artist": "L.Rucus",
+            "ratio": 0,
+            "title": "Back It Up",
+            "trackid": "0cFSdsqgrwu0o7AhJxiRUT"
+        },
+        "10": {
+            "artist": "Realitay",
+            "ratio": -1,
+            "title": "Journal 1",
+            "trackid": "5Acb0AdtoM1iOOT1Mm5avq",
+            "uri": ""
+        },
+        "11": {
+            "artist": "A Boogie Wit da Hoodie",
+            "ratio": 3,
+            "title": "Man in the Mirror",
+            "trackid": "7uLFOXgLrS90tEYPO1DGXy"
+        },
+        "12": {
+            "artist": "Grand Incredible",
+            "ratio": 3,
+            "title": "Robert Horry - Gigantic Album Version",
+            "trackid": "10Wh2TZJp8y1Rv1p8irJ6M"
+        },
+        "13": {
+            "artist": "Jonesy",
+            "ratio": 4,
+            "title": "The Interview",
+            "trackid": "73bHTeee8suaNgpwB66ZPh"
+        },
+        "14": {
+            "artist": "Myde",
+            "ratio": -1,
+            "title": "The Unknown",
+            "trackid": "5M4BCeTPFjKotMVanU0kNd",
+            "uri": ""
+        },
+        "15": {
+            "artist": "BREMEYER",
+            "ratio": 4,
+            "title": "Experience - Techno Mix",
+            "trackid": "5dH5ho2LWppz7W3KPuYzIV"
+        },
+        "16": {
+            "artist": "Bero",
+            "ratio": 4,
+            "title": "Lazer Lemon",
+            "trackid": "1Vw5fzlUvRsYGKZ60V25vt"
+        },
+        "17": {
+            "artist": "2Pac",
+            "ratio": 5,
+            "title": "Letter To The President",
+            "trackid": "1tiK3va7TeUzpGWKQ9dS8b"
         }
     },
     "rambo-radio-7th-december-2023": {
@@ -2854,6 +3187,128 @@
             "ratio": 9,
             "title": "I'll Be Around",
             "trackid": "2ZxweO12nwE9hPOsd3P7Q5"
+        }
+    },
+    "rambo-radio-9th-october-2025": {
+        "00": {
+            "artist": "Blaze und die Monstermaschinen",
+            "ratio": 9,
+            "title": "Intro",
+            "trackid": "3ND678o0tjzGCWrLxQXqZZ"
+        },
+        "01": {
+            "artist": "Epic Soul Factory",
+            "ratio": 3,
+            "title": "In Music We Trust",
+            "trackid": "5ERRD3M5fsnKt8cfc2SlP3"
+        },
+        "02": {
+            "artist": "Gola Gianni",
+            "ratio": 3,
+            "title": "SOUTHSIDE BABY",
+            "trackid": "16Bo3DuLRZPIrUiYHrt8H2"
+        },
+        "03": {
+            "artist": "T. Rex",
+            "ratio": 0,
+            "title": "Get It On",
+            "trackid": "0LoQuiekvzqx7n8flgEKzF"
+        },
+        "04": {
+            "artist": "Westside Gunn",
+            "ratio": 3,
+            "title": "Kostas",
+            "trackid": "30hui0n0IE1y699MAEPNGp"
+        },
+        "05": {
+            "artist": "Obongjayar",
+            "ratio": 4,
+            "title": "I Wish It Was Me",
+            "trackid": "3ghmdRTijueJLRzswc779P"
+        },
+        "06": {
+            "artist": "Nines",
+            "ratio": 3,
+            "title": "Tony Soprano 3",
+            "trackid": "0OOHtGCIW6ppsb3gGTJJz3"
+        },
+        "07": {
+            "artist": "Jur Terreur",
+            "ratio": 0,
+            "title": "Brand New Funk",
+            "trackid": "23YQ9QYzJWnFuG9KUw8nvV"
+        },
+        "08": {
+            "artist": "DMS",
+            "ratio": 9,
+            "title": "Takin' Ends",
+            "trackid": "3fASxy8f5DfgGZlFLPsuF0"
+        },
+        "09": {
+            "artist": "Champion Jack Dupree",
+            "ratio": 4,
+            "title": "Nasty Boogie",
+            "trackid": "3rzNjo8hXkNlMRsyl6Vwif"
+        },
+        "10": {
+            "artist": "2 Black Basstuds",
+            "ratio": 9,
+            "title": "Born a Basstud (feat. Young Dre D)",
+            "trackid": "6RWbIFqHJ6WIb3ng581wqs"
+        },
+        "11": {
+            "artist": "Kaufmann (DE)",
+            "ratio": 5,
+            "title": "Tuffi",
+            "trackid": "5jIClARDKgLh7HnF1HwGK2"
+        },
+        "12": {
+            "artist": "Cydal",
+            "ratio": 9,
+            "title": "Life",
+            "trackid": "4K9Q1UzrK03wHR1HJCeDHJ"
+        },
+        "13": {
+            "artist": "Doomsday Productions",
+            "ratio": 9,
+            "title": "This is for the Hoes",
+            "trackid": "3UtSsFBWdZtKoiPHMey2sG"
+        },
+        "14": {
+            "artist": "DNMO",
+            "ratio": 3,
+            "title": "Bombalaya - Blooom Remix",
+            "trackid": "5utINKwnXh1drV2vI9cnze"
+        },
+        "15": {
+            "artist": "ZHIKO",
+            "ratio": 3,
+            "title": "Another Daylight",
+            "trackid": "7jFjDMVL7Kd9hMohBDihLU"
+        },
+        "16": {
+            "artist": "AAT",
+            "ratio": 4,
+            "title": "Get Funky",
+            "trackid": "5au1dxozcN7pepkik4E4uE"
+        },
+        "17": {
+            "artist": "The Click",
+            "ratio": 9,
+            "title": "Mic Check",
+            "trackid": "6Fh6ZlPUn2T0ZdNvK8OpAO"
+        },
+        "18": {
+            "artist": "YoungBoy Never Broke Again",
+            "ratio": 3,
+            "title": "50 Shots",
+            "trackid": "22mxylGJ4gUVXc70E7BrPJ"
+        },
+        "19": {
+            "artist": "DJ Quik",
+            "ratio": 9,
+            "title": "Quik'z Groove II - For U 2 Rip 2",
+            "trackid": "4fi1Sjjhx3kunHB5Tjaquu"
         }
     },
     "rambo-radio-w-12manrambo-13th-september-2022": {

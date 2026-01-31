@@ -1,4 +1,152 @@
 {
+    "radio-super-14th-august-2025": {
+        "00": {
+            "artist": "SYZTEMA",
+            "title": "Clarividencia"
+        },
+        "01": {
+            "artist": "SYZTEMA",
+            "title": "Madre Tierra"
+        },
+        "02": {
+            "artist": "SYZTEMA",
+            "title": "Tribal Artesanal"
+        },
+        "03": {
+            "artist": "SYZTEMA",
+            "title": "Prehispanic Hard"
+        },
+        "04": {
+            "artist": "SYZTEMA",
+            "title": "Folklore"
+        },
+        "05": {
+            "artist": "SYZTEMA",
+            "title": "Mueve Tu Cuerpo"
+        },
+        "06": {
+            "artist": "SYZTEMA",
+            "title": "Besos Al Aire"
+        },
+        "07": {
+            "artist": "SYZTEMA",
+            "title": "Vuela, Vuela Remix"
+        },
+        "08": {
+            "artist": "SYZTEMA",
+            "title": "Apache Remix"
+        },
+        "09": {
+            "artist": "SYZTEMA",
+            "title": "Brincando Remix"
+        },
+        "10": {
+            "artist": "SYZTEMA",
+            "title": "Latin Resurrection"
+        },
+        "11": {
+            "artist": "SYZTEMA",
+            "title": "Move Your Body"
+        }
+    },
+    "radio-super-19th-june-2025": {
+        "00": {
+            "artist": "Daniel Dhnl",
+            "title": "Londres"
+        },
+        "01": {
+            "artist": "Los Insurgentes",
+            "title": "Alma"
+        },
+        "02": {
+            "artist": "Tribal Stars",
+            "title": "Afromor"
+        },
+        "03": {
+            "artist": "Los Insurgentes",
+            "title": "Muerte En Vida"
+        },
+        "04": {
+            "artist": "Asir",
+            "title": "Ritmo Azteca"
+        },
+        "05": {
+            "artist": "Moscaliqui",
+            "title": "Fastezz"
+        },
+        "06": {
+            "artist": "Rosa Pistola Ft Freebot",
+            "title": "Teonanacatl"
+        },
+        "07": {
+            "artist": "Dj Jesus",
+            "title": "Corazon Azteca"
+        },
+        "08": {
+            "artist": "Aleckz Shaker",
+            "title": "Guerrero Azteca"
+        },
+        "09": {
+            "artist": "Los Insurgentes",
+            "title": "Una Perdida De Control"
+        },
+        "10": {
+            "artist": "Aleckz Shaker",
+            "title": "Tlaloc 2.0"
+        },
+        "11": {
+            "artist": "DJ Asis",
+            "title": "Chokwe"
+        },
+        "12": {
+            "artist": "Erick Rincon",
+            "title": "Zapata"
+        },
+        "13": {
+            "artist": "Manuel Palafox",
+            "title": "Los Acordeones"
+        },
+        "14": {
+            "artist": "Dj Muse",
+            "title": "Cool Party"
+        },
+        "15": {
+            "artist": "Chiko Mix",
+            "title": "Guitarra Azteca"
+        },
+        "16": {
+            "artist": "Basstech",
+            "title": "Nature"
+        },
+        "17": {
+            "artist": "Javier Estrada",
+            "title": "Danza Pow Pow"
+        },
+        "18": {
+            "artist": "Rosa Pistola Remix",
+            "title": "Tribal Flex"
+        },
+        "19": {
+            "artist": "Dj Otto",
+            "title": "Conga Sound Machine"
+        },
+        "20": {
+            "artist": "Eduardo Arias",
+            "title": "Audioromance"
+        },
+        "21": {
+            "artist": "Rosa Pistola Ft Freebot",
+            "title": "La Guitarra"
+        },
+        "22": {
+            "artist": "Dj Otto Ft Dj Tetris",
+            "title": "Flow 212"
+        },
+        "23": {
+            "artist": "Los Insurgentes",
+            "title": "Hachis"
+        }
+    },
     "radio-super-1st-december-2022": {
         "00": {
             "artist": "Riko Mix",
@@ -449,6 +597,88 @@
             "title": "MI BANDA"
         }
     },
+    "radio-super-29th-january-2026": {
+        "00": {
+            "artist": "Diego Ramirez",
+            "title": "Roca Roca"
+        },
+        "01": {
+            "artist": "Davinson Loaiza",
+            "title": "TRANCER"
+        },
+        "02": {
+            "artist": "Oxtec",
+            "title": "Morro Mijo"
+        },
+        "03": {
+            "artist": "Frank",
+            "title": "Caos"
+        },
+        "04": {
+            "artist": "DAVINSON LOAIZA",
+            "title": "GUAYANDO"
+        },
+        "05": {
+            "artist": "Diego Ramirez",
+            "title": "What The Fuck"
+        },
+        "06": {
+            "artist": "J.C",
+            "title": "Whatawat"
+        },
+        "07": {
+            "artist": "Santiago Rojas",
+            "title": "Lead House"
+        },
+        "08": {
+            "artist": "Juan Duran",
+            "title": "El Grito"
+        },
+        "09": {
+            "artist": "Juan Mira",
+            "title": "Siente El Boom"
+        },
+        "10": {
+            "artist": "Juan Duran",
+            "title": "Bololo Remix"
+        },
+        "11": {
+            "artist": "Tuti Dj",
+            "title": "Papi Chulo Remix"
+        },
+        "12": {
+            "artist": "Hamilton Morales",
+            "title": "On Your Men"
+        },
+        "13": {
+            "artist": "Diego Ramirez",
+            "title": "You Like Bass"
+        },
+        "14": {
+            "artist": "Kristian Lopez",
+            "title": "Tribala In Space"
+        },
+        "15": {
+            "artist": "Cristian Orjuela",
+            "title": "Saxo Hard"
+        },
+        "16": {
+            "artist": "Frank El Bombardero",
+            "title": "Arpegio Maldito"
+        },
+        "17": {
+            "artist": "Eros",
+            "title": "Oye Mi Amor"
+        },
+        "18": {
+            "artist": "Eros",
+            "title": "Pachanga"
+        },
+        "19": {
+            "artist": "Eros",
+            "title": "Lupita"
+        }
+    },
     "radio-super-3rd-november-2022": "",
     "radio-super-6th-october-2022": {
         "00": {
@@ -602,6 +832,92 @@
         "37": {
             "artist": "Jony Dj",
             "title": "Halloween Con Cumbiaton"
+        }
+    },
+    "radio-super-9th-october-2025": {
+        "00": {
+            "artist": "Ozomatecuhtli",
+            "title": "Huitzilopochtli"
+        },
+        "01": {
+            "artist": "Ozomatecuhtli",
+            "title": "Mictlantecuhtli"
+        },
+        "02": {
+            "artist": "System",
+            "title": "Prehispanic Hard"
+        },
+        "03": {
+            "artist": "Ozomatecuhtli",
+            "title": "Latidos Del Corazón"
+        },
+        "04": {
+            "artist": "Syztema",
+            "title": "Circuito Africa"
+        },
+        "05": {
+            "artist": "Syztema",
+            "title": "La Chumbamba"
+        },
+        "06": {
+            "artist": "Clap Freckles",
+            "title": "Africa"
+        },
+        "07": {
+            "artist": "Remix Scarlett",
+            "title": "Ultra (Javier Estrada)"
+        },
+        "08": {
+            "artist": "Javier Estrada",
+            "title": "Apolinar"
+        },
+        "09": {
+            "artist": "Los Innsurgentes",
+            "title": "Ettnia"
+        },
+        "10": {
+            "artist": "Syztema",
+            "title": "Mexico City"
+        },
+        "11": {
+            "artist": "Ozomatecuhtli",
+            "title": "Kiahuitl"
+        },
+        "12": {
+            "artist": "Los Insurgentes",
+            "title": "Yeah"
+        },
+        "13": {
+            "artist": "Clap Freckles",
+            "title": "Hustlin REMIX"
+        },
+        "14": {
+            "artist": "Javier Estrada",
+            "title": "Guerrero Azteca"
+        },
+        "15": {
+            "artist": "Ozomatecuhtli",
+            "title": "Antares"
+        },
+        "16": {
+            "artist": "Rosa Pistola",
+            "title": "Flauta Nahua"
+        },
+        "17": {
+            "artist": "Ricardo Reyna",
+            "title": "Danza Azteca 2"
+        },
+        "18": {
+            "artist": "Rosa Pistola",
+            "title": "Niquitoa"
+        },
+        "19": {
+            "artist": "Rosa Pistola",
+            "title": "Teonanacatl"
+        },
+        "20": {
+            "artist": "Erick Rincón",
+            "title": "Dark Flow"
         }
     },
     "radio-super-w-rosa-pistola-history-of-reggaeton-panama-vs-puerto-rico-4th-december-2021": {

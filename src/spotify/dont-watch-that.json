@@ -3584,9 +3584,10 @@
         },
         "16": {
             "artist": "Unknown Artist",
-            "ratio": 4,
+            "ratio": -1,
             "title": "UNKNOWN - 3",
-            "trackid": "03Azmx3DjEHgnrq8YYirHx"
+            "trackid": "03Azmx3DjEHgnrq8YYirHx",
+            "uri": ""
         },
         "17": {
             "artist": "Lady Gaga",
@@ -3638,9 +3639,10 @@
         },
         "25": {
             "artist": "Unknown Artist",
-            "ratio": 4,
+            "ratio": -1,
             "title": "UNKNOWN - 3",
-            "trackid": "03Azmx3DjEHgnrq8YYirHx"
+            "trackid": "03Azmx3DjEHgnrq8YYirHx",
+            "uri": ""
         },
         "26": {
             "artist": "Malaka",
@@ -3728,9 +3730,10 @@
         },
         "40": {
             "artist": "Ms. Boogie",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Hustler",
-            "trackid": "1AcSDILcXT92av9Vb3bqTM"
+            "trackid": "1AcSDILcXT92av9Vb3bqTM",
+            "uri": ""
         },
         "41": {
             "artist": "Mc IG",
@@ -3758,9 +3761,10 @@
         },
         "45": {
             "artist": "Unknown Artist",
-            "ratio": 4,
+            "ratio": -1,
             "title": "UNKNOWN - 3",
-            "trackid": "03Azmx3DjEHgnrq8YYirHx"
+            "trackid": "03Azmx3DjEHgnrq8YYirHx",
+            "uri": ""
         },
         "46": {
             "artist": "Rick Ross",
@@ -3812,9 +3816,10 @@
         },
         "54": {
             "artist": "Unknown Artist",
-            "ratio": 4,
+            "ratio": -1,
             "title": "UNKNOWN - 3",
-            "trackid": "03Azmx3DjEHgnrq8YYirHx"
+            "trackid": "03Azmx3DjEHgnrq8YYirHx",
+            "uri": ""
         },
         "55": {
             "artist": "HollyG",
@@ -3854,15 +3859,17 @@
         },
         "61": {
             "artist": "Unknown Artist",
-            "ratio": 4,
+            "ratio": -1,
             "title": "UNKNOWN - 3",
-            "trackid": "03Azmx3DjEHgnrq8YYirHx"
+            "trackid": "03Azmx3DjEHgnrq8YYirHx",
+            "uri": ""
         },
         "62": {
             "artist": "Unknown Artist",
-            "ratio": 4,
+            "ratio": -1,
             "title": "UNKNOWN - 3",
-            "trackid": "03Azmx3DjEHgnrq8YYirHx"
+            "trackid": "03Azmx3DjEHgnrq8YYirHx",
+            "uri": ""
         },
         "63": {
             "artist": "Sean Paul",
@@ -5436,9 +5443,10 @@
         },
         "13": {
             "artist": "Ray Dalton",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Thee Unknown",
-            "trackid": "7wmfbVFElNhyBsJnOAGbJf"
+            "trackid": "7wmfbVFElNhyBsJnOAGbJf",
+            "uri": ""
         },
         "14": {
             "artist": "T.NO",
@@ -5448,9 +5456,10 @@
         },
         "15": {
             "artist": "onoola-sama",
-            "ratio": 0,
+            "ratio": -1,
             "title": "tequila, gin & rum",
-            "trackid": "0fx8u0AG7B0Ooz33I8NmvG"
+            "trackid": "0fx8u0AG7B0Ooz33I8NmvG",
+            "uri": ""
         },
         "16": {
             "artist": "Giulia Tess",
@@ -5460,9 +5469,10 @@
         },
         "17": {
             "artist": "Peaches",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Slippery Dick",
-            "trackid": "0upH10q2VHGunujZc6nR92"
+            "trackid": "0upH10q2VHGunujZc6nR92",
+            "uri": ""
         },
         "18": {
             "artist": "Kryssy",
@@ -5478,9 +5488,10 @@
         },
         "20": {
             "artist": "alt-J",
-            "ratio": 0,
+            "ratio": -1,
             "title": "Deadcrush (Lea Porcelain Remix)",
-            "trackid": "42v1963noBPnl9I3pJhEpK"
+            "trackid": "42v1963noBPnl9I3pJhEpK",
+            "uri": ""
         },
         "21": {
             "artist": "Zido",
@@ -5502,9 +5513,10 @@
         },
         "24": {
             "artist": "Cartizze",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Rendez-vous",
-            "trackid": "3XegBnyWKM6i6gWJWI26g9"
+            "trackid": "3XegBnyWKM6i6gWJWI26g9",
+            "uri": ""
         },
         "25": {
             "artist": "Body Love Sex",
@@ -5514,9 +5526,10 @@
         },
         "26": {
             "artist": "Mike Äpt",
-            "ratio": 3,
+            "ratio": -1,
             "title": "Whiskey Tears",
-            "trackid": "7GLPhGFPGmr72BaaHc5JIP"
+            "trackid": "7GLPhGFPGmr72BaaHc5JIP",
+            "uri": ""
         },
         "27": {
             "artist": "AFRONOM",
@@ -5526,9 +5539,10 @@
         },
         "28": {
             "artist": "Ghetto Blaster Ltd.",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Baby Please",
-            "trackid": "11oN66N7gBfWk9Wlaoo2QH"
+            "trackid": "11oN66N7gBfWk9Wlaoo2QH",
+            "uri": ""
         },
         "29": {
             "artist": "VHOOR",
@@ -5550,9 +5564,10 @@
         },
         "32": {
             "artist": "Timbo Finna",
-            "ratio": 4,
+            "ratio": -1,
             "title": "LET'S HAVE SEX",
-            "trackid": "46UPW3lzm4EIaYGVIJJPdf"
+            "trackid": "46UPW3lzm4EIaYGVIJJPdf",
+            "uri": ""
         },
         "33": {
             "artist": "OKINXWX",
@@ -5652,9 +5667,10 @@
         },
         "49": {
             "artist": "alt-J",
-            "ratio": 4,
+            "ratio": -1,
             "title": "Deadcrush",
-            "trackid": "26JGATuL9PiVya5TjNAsCe"
+            "trackid": "26JGATuL9PiVya5TjNAsCe",
+            "uri": ""
         },
         "50": {
             "artist": "wspkartel",
@@ -5682,9 +5698,10 @@
         },
         "54": {
             "artist": "Foreigner",
-            "ratio": 5,
+            "ratio": -1,
             "title": "Juke Box Hero",
-            "trackid": "00qOE7OjRl0BpYiCiweZB2"
+            "trackid": "00qOE7OjRl0BpYiCiweZB2",
+            "uri": ""
         },
         "55": {
             "artist": "caaaaseyyyy",
@@ -12159,6 +12176,134 @@
             "trackid": "0LBvqSkfl9FgOuKYg04l1s"
         }
     },
+    "dont-watch-that-29th-january-2026": {
+        "00": {
+            "artist": "DJ Kuba",
+            "ratio": 3,
+            "title": "Blade",
+            "trackid": "5oAyw9c4VvHaEdiAfLQobC"
+        },
+        "01": {
+            "artist": "KI/KI",
+            "ratio": 4,
+            "title": "What's a Girl to Do in '25",
+            "trackid": "3OgdqZIgGIqusstV9IqX6p"
+        },
+        "02": {
+            "artist": "James Bailey",
+            "ratio": 3,
+            "title": "Ceiling",
+            "trackid": "0xhRwiLynE1XnzX5AGiq2Z"
+        },
+        "03": {
+            "artist": "Lio",
+            "ratio": 4,
+            "title": "Hood Bandolero",
+            "trackid": "3bbfFdp94Jo2tfzHQq0nwH"
+        },
+        "04": {
+            "artist": "Mr. Vegas",
+            "ratio": 9,
+            "title": "Jack It Up",
+            "trackid": "6MmRmi5RuRrx6UlfDIyLeX"
+        },
+        "05": {
+            "artist": "Sean Paul",
+            "ratio": 9,
+            "title": "Deport Them",
+            "trackid": "5KhypMVGqMI9mgsrrv2lxc"
+        },
+        "06": {
+            "artist": "Mr. Vegas",
+            "ratio": 9,
+            "title": "I Am Blessed",
+            "trackid": "1gpA7IZTNvrL6DUuc4qDPx"
+        },
+        "07": {
+            "artist": "Ray J",
+            "ratio": 9,
+            "title": "Formal Invite (feat. Pharrell Williams)",
+            "trackid": "7qysG3xmCneKZuVjnDCif2"
+        },
+        "08": {
+            "artist": "Trippin Indians",
+            "ratio": 4,
+            "title": "Palolem",
+            "trackid": "6RIKnRWGNZVh0YJqJNf0xL"
+        },
+        "09": {
+            "artist": "MOLIY",
+            "ratio": 9,
+            "title": "Shake It To The Max (FLY) - Remix",
+            "trackid": "0QCIpQV3twfqo9kh0t8Zza"
+        },
+        "10": {
+            "artist": "Trap J",
+            "ratio": 3,
+            "title": "Dead Butterflies",
+            "trackid": "0dOioqJCtrJAlewZ1ARata"
+        },
+        "11": {
+            "artist": "Albita",
+            "ratio": 3,
+            "title": "Ta' Bueno Ya",
+            "trackid": "4k8BcwswnhHgxqhVWGNKgY"
+        },
+        "12": {
+            "artist": "Juls",
+            "ratio": 9,
+            "title": "Jamestown Riddim",
+            "trackid": "7rmHPV4JaQx0n4VIreUDPZ"
+        },
+        "13": {
+            "artist": "USHER",
+            "ratio": 9,
+            "title": "U Don't Have to Call",
+            "trackid": "5PCJldueshnwqQVjS16543"
+        },
+        "14": {
+            "artist": "Wizkid",
+            "ratio": 5,
+            "title": "Ojuelegba",
+            "trackid": "1AtBzcUzKLh4BGwXhFA9K6"
+        },
+        "15": {
+            "artist": "Mr Eazi",
+            "ratio": 9,
+            "title": "Skin Tight",
+            "trackid": "43C8ga8Z7MkOc1TmEzXcJ3"
+        },
+        "16": {
+            "artist": "Rampa",
+            "ratio": 3,
+            "title": "Champion",
+            "trackid": "4jyh0DRepnfq6yLKXEPQv2"
+        },
+        "17": {
+            "artist": "Jonathan Beia",
+            "ratio": 3,
+            "title": "Rap Especial",
+            "trackid": "3navJVQaejlXeKbdkg27lv"
+        },
+        "18": {
+            "artist": "Brian & Tony Gold",
+            "ratio": 9,
+            "title": "Gonna Be The One",
+            "trackid": "6M582H3wuahdQmAJhsxJeO"
+        },
+        "19": {
+            "artist": "Sosa La M",
+            "ratio": 3,
+            "title": "Back outside",
+            "trackid": "39Un0tg79MUAr52bLTZEhk"
+        },
+        "20": {
+            "artist": "Dar Disku",
+            "ratio": 4,
+            "title": "Sabir",
+            "trackid": "00PXWJzyAcF3QKv7U5K5vd"
+        }
+    },
     "dont-watch-that-29th-june-2017": {
         "00": {
             "artist": "2 Chainz",
@@ -14020,6 +14165,242 @@
             "trackid": "7E3LzbjeFXSKw47BEyOklt"
         }
     },
+    "dont-watch-that-4th-december-2025": {
+        "00": {
+            "artist": "Giggs",
+            "ratio": 9,
+            "title": "Talkin the Hardest",
+            "trackid": "2gNvWEzTJ5pP6Mt1Hjnoai"
+        },
+        "01": {
+            "artist": "Giggs",
+            "ratio": 9,
+            "title": "Talkin the Hardest",
+            "trackid": "2gNvWEzTJ5pP6Mt1Hjnoai"
+        },
+        "02": {
+            "artist": "Soundboarders",
+            "ratio": 4,
+            "title": "No Remorse",
+            "trackid": "4B8dW0fsRrN57yunOzplcs"
+        },
+        "03": {
+            "artist": "Daycare Swindlers",
+            "ratio": 5,
+            "title": "She Said",
+            "trackid": "4DRS4ewDlCymDg813xE3hn"
+        },
+        "04": {
+            "artist": "LL COOL J",
+            "ratio": 3,
+            "title": "My Rhyme Ain't Done",
+            "trackid": "4gySJmJjzpmWzujEqzD15r"
+        },
+        "05": {
+            "artist": "Cassette Roto",
+            "ratio": 3,
+            "title": "Anything",
+            "trackid": "1N9SIdS3xxlQh4X7UAkAje"
+        },
+        "06": {
+            "artist": "Lauren Spencer Smith",
+            "ratio": 0,
+            "title": "Fingers Crossed",
+            "trackid": "3yMC1KsTwh0ceXdIe4QQAQ"
+        },
+        "07": {
+            "artist": "Mike Cardy",
+            "ratio": 3,
+            "title": "Paper Mache Girl",
+            "trackid": "4viMPuXFbpgp4ByHRpHF5x"
+        },
+        "08": {
+            "artist": "MrsMrSea",
+            "ratio": 3,
+            "title": "METEOR",
+            "trackid": "6NqcDvz2A6L1KIKdx1Vnd5"
+        },
+        "09": {
+            "artist": "A73 NUB",
+            "ratio": 4,
+            "title": "Time For Cash",
+            "trackid": "5VjmBz2nDM4azSpEYsUHK7"
+        },
+        "10": {
+            "artist": "Fleet Foxes",
+            "ratio": 3,
+            "title": "Oliver James",
+            "trackid": "2OIIur6XNJFJK7UgUdkjvq"
+        },
+        "11": {
+            "artist": "Novah",
+            "ratio": 4,
+            "title": "ACID",
+            "trackid": "0iI3QPTdmMzXf7dMApinMG"
+        },
+        "12": {
+            "artist": "frankiee cartier",
+            "ratio": 3,
+            "title": "rainbows (pesos) [bonus track]",
+            "trackid": "5h2BH5sEA7KPxWxBG2LKFi"
+        },
+        "13": {
+            "artist": "Morning life",
+            "ratio": 4,
+            "title": "Tempel",
+            "trackid": "5PRK2YEF3iSufclolLWqaQ"
+        },
+        "14": {
+            "artist": "IsaMindset",
+            "ratio": 3,
+            "title": "Big Tear",
+            "trackid": "3ZGJlo7fyALowKhctFGRIM"
+        },
+        "15": {
+            "artist": "Jorja Smith",
+            "ratio": 4,
+            "title": "Blue Lights",
+            "trackid": "1It1TxBK3xIQAB4xJkPevn"
+        },
+        "16": {
+            "artist": "Tim Green",
+            "ratio": 3,
+            "title": "Tears",
+            "trackid": "5KYdRygDWQcWoFeo6dOBRY"
+        },
+        "17": {
+            "artist": "Giggs",
+            "ratio": 4,
+            "title": "SN1",
+            "trackid": "00CzwzHSgTs4aZwGiO98zI"
+        },
+        "18": {
+            "artist": "Naija",
+            "ratio": 5,
+            "title": "Move On",
+            "trackid": "0ooaiKVdMyDFzMrt20dkTJ"
+        },
+        "19": {
+            "artist": "Sam Wise",
+            "ratio": 9,
+            "title": "The Lift Freestyle",
+            "trackid": "28s22p6fgG50c0IvT9tOkM"
+        },
+        "20": {
+            "artist": "J Balvin",
+            "ratio": 3,
+            "title": "Poblado - Remix",
+            "trackid": "1WedZeiezCmCEOzLwhx0hV"
+        },
+        "21": {
+            "artist": "Cassidy",
+            "ratio": 3,
+            "title": "The Message",
+            "trackid": "7yTUNh11BLERV3uTONkw6e"
+        },
+        "22": {
+            "artist": "Donaeo",
+            "ratio": 4,
+            "title": "Oi Mate - Donaeo vs. Youngs Teflon",
+            "trackid": "7gXORSwvI9s6vtNPZINljK"
+        },
+        "23": {
+            "artist": "Tavares Daize",
+            "ratio": 3,
+            "title": "Aaahh",
+            "trackid": "4bt147p3pHHi4GCobwyNEh"
+        },
+        "24": {
+            "artist": "Nomadic",
+            "ratio": 4,
+            "title": "Monkey Business",
+            "trackid": "07hUQsulu5Ypbj1FwWWRzp"
+        },
+        "25": {
+            "artist": "Jorja Smith",
+            "ratio": 3,
+            "title": "Blue Lights",
+            "trackid": "1It1TxBK3xIQAB4xJkPevn"
+        },
+        "26": {
+            "artist": "Sneijder",
+            "ratio": 3,
+            "title": "Don't Panic (ASOT 1262)",
+            "trackid": "2cHRSkCgj77YMlWVh4GW2l"
+        },
+        "27": {
+            "artist": "TMPLE",
+            "ratio": 3,
+            "title": "Sisters and Brothers",
+            "trackid": "56SDusGcG8YbuZp3DPLfx9"
+        },
+        "28": {
+            "artist": "Akhenaton",
+            "ratio": 4,
+            "title": "The end of Their World Part II",
+            "trackid": "52RzwGQnzetEVwwplxvGQM"
+        },
+        "29": {
+            "artist": "Tim Green",
+            "ratio": 3,
+            "title": "Tears",
+            "trackid": "5KYdRygDWQcWoFeo6dOBRY"
+        },
+        "30": {
+            "artist": "Tim & Tam",
+            "ratio": 4,
+            "title": "feelin' it",
+            "trackid": "404FyLs6Vqd6owADSqgz2n"
+        },
+        "31": {
+            "artist": "Timbaland & Magoo",
+            "ratio": 4,
+            "title": "People Like Myself",
+            "trackid": "2mrHKyEWTXuxcA7JMOij6u"
+        },
+        "32": {
+            "artist": "M Huncho",
+            "ratio": 3,
+            "title": "Pee Pee",
+            "trackid": "5iwXbChKtH2OB6a1fxmp7R"
+        },
+        "33": {
+            "artist": "A73 NUB",
+            "ratio": 4,
+            "title": "Time For Cash",
+            "trackid": "2IdZQDgR8RrygrqfJuIiLa"
+        },
+        "34": {
+            "artist": "Sound Nomaden",
+            "ratio": 4,
+            "title": "Time to Chill",
+            "trackid": "15n4cMOP0wAHejEWqrszad"
+        },
+        "35": {
+            "artist": "Tim Schaufert",
+            "ratio": 3,
+            "title": "Taroko",
+            "trackid": "2rlRCLD59MELmzET7mbclK"
+        },
+        "36": {
+            "artist": "Tim Duzit",
+            "ratio": 3,
+            "title": "Native Remedies",
+            "trackid": "2dI37jUzaJyuy6RG3XU0fP"
+        },
+        "37": {
+            "artist": "Niriko",
+            "ratio": 0,
+            "title": "Lift Off",
+            "trackid": "060AmlKT5Y6xOKS1X4mUK1"
+        },
+        "38": {
+            "artist": "5 Seconds of Summer",
+            "ratio": 3,
+            "title": "Invisible",
+            "trackid": "33Lfnu1uBuJIidzHRFyTxL"
+        }
+    },
     "dont-watch-that-4th-january-2024": {
         "00": {
             "artist": "Unknown T",
@@ -15039,6 +15420,448 @@
             "ratio": 9,
             "title": "The Ha Dub Rewerk'd",
             "trackid": "72AfmRd9QD6qmPeuVBAfZP"
+        }
+    },
+    "dont-watch-that-5th-november-2025": {
+        "00": {
+            "artist": "Puri",
+            "ratio": 4,
+            "title": "Bad Boy Riddim",
+            "trackid": "29EOthaa2afyOi7QZgYxHp"
+        },
+        "01": {
+            "artist": "Kareem Ali",
+            "ratio": 5,
+            "title": "Procession",
+            "trackid": "4e2xo3upMAjIPywjFUSDBp"
+        },
+        "02": {
+            "artist": "Chrome Hours",
+            "ratio": 0,
+            "title": "Hesitation",
+            "trackid": "7ByTIDwPz9NOrmX964Dzr3"
+        },
+        "03": {
+            "artist": "Shallipopi",
+            "ratio": 9,
+            "title": "Laho",
+            "trackid": "0lhLSwvRKGHfIcVEz3uQK6"
+        },
+        "04": {
+            "artist": "Natoxie",
+            "ratio": 3,
+            "title": "Kiki On",
+            "trackid": "40DzcsZv2w1f6xnsp2FLiY"
+        },
+        "05": {
+            "artist": "Rugrats",
+            "ratio": 0,
+            "title": "Matt + Jack",
+            "trackid": "2dRTW98GNloutbszTLXCXg"
+        },
+        "06": {
+            "artist": "TeeZandos",
+            "ratio": 9,
+            "title": "Jail",
+            "trackid": "4ha8qK1ZIJ9NYU07IyDiaI"
+        },
+        "07": {
+            "artist": "S-X",
+            "ratio": 9,
+            "title": "Woooo",
+            "trackid": "24uC818MwGPpAyH6zENkD6"
+        },
+        "08": {
+            "artist": "Bryant Myers",
+            "ratio": 3,
+            "title": "Burlao - Remix",
+            "trackid": "577ECdNQYB6JPIPk1FdPBW"
+        },
+        "09": {
+            "artist": "DJ Firmeza",
+            "ratio": 9,
+            "title": "Tungada Rija",
+            "trackid": "12slB958plJY7d5670cYII"
+        },
+        "10": {
+            "artist": "Mobb Deep",
+            "ratio": 4,
+            "title": "Quiet Storm (feat. Lil' Kim) - Remix",
+            "trackid": "47w8ZDr5nBClBgMS92FBDQ"
+        },
+        "11": {
+            "artist": "Puri",
+            "ratio": 3,
+            "title": "Bad Boy Riddim",
+            "trackid": "29EOthaa2afyOi7QZgYxHp"
+        },
+        "12": {
+            "artist": "DJ Tommy Tune",
+            "ratio": 4,
+            "title": "Bang Bang - Orgacid Streaming Mix",
+            "trackid": "6v0y4xYMVct70bZ0QYXsJA"
+        },
+        "13": {
+            "artist": "Puri",
+            "ratio": 3,
+            "title": "Bad Boy Riddim",
+            "trackid": "29EOthaa2afyOi7QZgYxHp"
+        },
+        "14": {
+            "artist": "NERVO",
+            "ratio": 4,
+            "title": "Talk About Us",
+            "trackid": "49WJ1FRGxmgFO09nOjENf3"
+        },
+        "15": {
+            "artist": "G6 Productions",
+            "ratio": 9,
+            "title": "Cow Horn Riddim",
+            "trackid": "27c4ZZqGJWZrkOKGUGDLNG"
+        },
+        "16": {
+            "artist": "Tempa T",
+            "ratio": 9,
+            "title": "New Day",
+            "trackid": "0IOYmk31Fhdsqn0KoCK7KO"
+        },
+        "17": {
+            "artist": "G6 Productions",
+            "ratio": 9,
+            "title": "2 Stroke Riddim",
+            "trackid": "6Efo7vD9NRoONHJ00s2wMM"
+        },
+        "18": {
+            "artist": "Dejour",
+            "ratio": 4,
+            "title": "Proper Touch",
+            "trackid": "2FOaqnXg1dsCt07XuVitlC"
+        },
+        "19": {
+            "artist": "EMES",
+            "ratio": 4,
+            "title": "Doublecup",
+            "trackid": "5mgwK4tLYiqzo2zN3qUcnt"
+        },
+        "20": {
+            "artist": "Natoxie",
+            "ratio": 9,
+            "title": "Cout Tchui Riddim",
+            "trackid": "36u5J425jcJkTxuXZ928Ui"
+        },
+        "21": {
+            "artist": "DJ MARS",
+            "ratio": 4,
+            "title": "Dock Wind",
+            "trackid": "1rF9TtT5esh0f3IwVJjxPI"
+        },
+        "22": {
+            "artist": "Moodymann",
+            "ratio": 3,
+            "title": "No",
+            "trackid": "4u4hjSzHMv0BwsWvaxF2pF"
+        },
+        "23": {
+            "artist": "Our Lady Peace",
+            "ratio": 4,
+            "title": "In Repair",
+            "trackid": "4T162Iwzdnk7yWupCwapoq"
+        },
+        "24": {
+            "artist": "DJ Tommy Tune",
+            "ratio": 0,
+            "title": "Rumble (Just Chords)",
+            "trackid": "39oGLIAnlWAzKUJonJtxL7"
+        },
+        "25": {
+            "artist": "SIMPLY DIVINE",
+            "ratio": -1,
+            "title": "Music in Mind",
+            "trackid": "0ZRRIawtTBYIR1bc8DY7gr",
+            "uri": ""
+        },
+        "26": {
+            "artist": "Jason Isbell and the 400 Unit",
+            "ratio": 4,
+            "title": "Last of My Kind",
+            "trackid": "36e7JUxXMV4mO4ZJWjBuSa"
+        },
+        "27": {
+            "artist": "Calto",
+            "ratio": 9,
+            "title": "I Cry",
+            "trackid": "4aELjI5hUBf8YX2v4cEmaC"
+        },
+        "28": {
+            "artist": "DJ Snake",
+            "ratio": 3,
+            "title": "Teka (with Peso Pluma)",
+            "trackid": "555maXFEF9m0lE4UGRzCHk"
+        },
+        "29": {
+            "artist": "Top Cat",
+            "ratio": 9,
+            "title": "Red Flag",
+            "trackid": "2IZbnIsqkKYHIhokSTdOu5"
+        },
+        "30": {
+            "artist": "MXSSIVH",
+            "ratio": 4,
+            "title": "Ravin Riddim",
+            "trackid": "2Rbdx1XvrUOt9GTNHGsUHP"
+        },
+        "31": {
+            "artist": "Top Cat",
+            "ratio": 9,
+            "title": "Red Flag",
+            "trackid": "2IZbnIsqkKYHIhokSTdOu5"
+        },
+        "32": {
+            "artist": "PS Hitsquad",
+            "ratio": 0,
+            "title": "123",
+            "trackid": "3liz7z5HHfkC9TeAyF21Ku"
+        },
+        "33": {
+            "artist": "DJ Avalanche",
+            "ratio": 9,
+            "title": "Vanguard Riddim - Instrumental",
+            "trackid": "4098ZtoYQOU57z17vPM2dK"
+        },
+        "34": {
+            "artist": "Reelman",
+            "ratio": 3,
+            "title": "Hardly Wait",
+            "trackid": "5cuSFXp5chjDCwBWXhwGKu"
+        },
+        "35": {
+            "artist": "Stunna Gambino",
+            "ratio": 0,
+            "title": "Rivals (feat. Toosii)",
+            "trackid": "5Y9Ng1ak4KJDWnkA4jtKCG"
+        },
+        "36": {
+            "artist": "Dyana Cods",
+            "ratio": 9,
+            "title": "Set It",
+            "trackid": "4qejzLk39tqjiXfpS8RQsN"
+        },
+        "37": {
+            "artist": "Joshua Baraka",
+            "ratio": 9,
+            "title": "Still Young",
+            "trackid": "3ANLBmXQEOPW5WNAEDYB77"
+        },
+        "38": {
+            "artist": "Victony",
+            "ratio": 9,
+            "title": "Soweto (with Don Toliver, Rema & Tempoe)",
+            "trackid": "2rDtfPMI5mDJVTwYYG00QI"
+        },
+        "39": {
+            "artist": "Vybz Kartel",
+            "ratio": 9,
+            "title": "Weed Smokers",
+            "trackid": "0r0F6NEGEI6JFGfhtWLSYC"
+        },
+        "40": {
+            "artist": "Jedz",
+            "ratio": 9,
+            "title": "Trendy",
+            "trackid": "0cg6sDwrolh4WpPWM8RyD2"
+        },
+        "41": {
+            "artist": "Blaiz Fayah",
+            "ratio": 0,
+            "title": "Bounce It",
+            "trackid": "5oZSRPzpGvymJQ2p3oxCW4"
+        },
+        "42": {
+            "artist": "Puri",
+            "ratio": 0,
+            "title": "Bad Boy Riddim",
+            "trackid": "29EOthaa2afyOi7QZgYxHp"
+        },
+        "43": {
+            "artist": "Patexx",
+            "ratio": 9,
+            "title": "Grip Mi",
+            "trackid": "5bV4vBESLoppg5y6QiJkd6"
+        },
+        "44": {
+            "artist": "Ayetian",
+            "ratio": 7,
+            "title": "Wah Yo Deh Pan",
+            "trackid": "4vLRSAGR6yNXVLaFmTS8jI"
+        },
+        "45": {
+            "artist": "John Merci",
+            "ratio": 3,
+            "title": "Not Easy",
+            "trackid": "7FcN8GNk1jWOupyPnpbZtE"
+        },
+        "46": {
+            "artist": "Jhené Aiko",
+            "ratio": 3,
+            "title": "B.S. (feat. Kehlani) - Remix",
+            "trackid": "5wsHLrhch5EIS6nsgld6y2"
+        },
+        "47": {
+            "artist": "Pr0d.k4y",
+            "ratio": 9,
+            "title": "Fr0m The St4rt - Zess x Nola Bounce",
+            "trackid": "1ImxjEnBbTLbxWG7CD8t6o"
+        },
+        "48": {
+            "artist": "Shyne",
+            "ratio": 3,
+            "title": "Mobb Forever - Freestyle",
+            "trackid": "21szETaXuK3IEKSzqNXNqF"
+        },
+        "49": {
+            "artist": "Ledbyher",
+            "ratio": 9,
+            "title": "DAYDREAMING MADE ME BLUE",
+            "trackid": "4DJoq9QJwNYKNOPvmCfP2X"
+        },
+        "50": {
+            "artist": "YT",
+            "ratio": 9,
+            "title": "Black & Tan",
+            "trackid": "3HSWbb8RwYxKA4HDcm9emu"
+        },
+        "51": {
+            "artist": "EsDeeKid",
+            "ratio": 9,
+            "title": "Little Kidda",
+            "trackid": "5IJk29XVW7C4uFxpfbWiBz"
+        },
+        "52": {
+            "artist": "EsDeeKid",
+            "ratio": 9,
+            "title": "Phantom",
+            "trackid": "57Z6TJCTMACXxdrcwZ3Zvf"
+        },
+        "53": {
+            "artist": "Vander",
+            "ratio": 3,
+            "title": "The Best I Never Met",
+            "trackid": "24wTDpzU2NZjFPAcFcpSrY"
+        },
+        "54": {
+            "artist": "afrosurrealist",
+            "ratio": 9,
+            "title": "the valleys are peak",
+            "trackid": "1PmSFSfjW6pfBLjAwO7I1p"
+        },
+        "55": {
+            "artist": "Feng",
+            "ratio": 9,
+            "title": "Ayia Napa",
+            "trackid": "7BkMsI9QzTO4Rq435CF6cA"
+        },
+        "56": {
+            "artist": "Stylo G",
+            "ratio": 3,
+            "title": "Dumpling - Remix",
+            "trackid": "4AaXmQvHMWNwZSoqi4kcsK"
+        },
+        "57": {
+            "artist": "Hania Rani",
+            "ratio": 5,
+            "title": "Agnes",
+            "trackid": "0rWzjupXhM77pgi2NL32bf"
+        },
+        "58": {
+            "artist": "Leonce",
+            "ratio": 9,
+            "title": "Wet Meh",
+            "trackid": "2tLP9FqHeCoUjgZUpyv7eG"
+        },
+        "59": {
+            "artist": "Zackavelli",
+            "ratio": 3,
+            "title": "Flip Phone",
+            "trackid": "4OvHmdmk5CaMmDLnKP3iCr"
+        },
+        "60": {
+            "artist": "Kacie",
+            "ratio": 9,
+            "title": "Let It Breathe",
+            "trackid": "16hr0oAdZtMYTKK5s1K6QG"
+        },
+        "61": {
+            "artist": "The-Dream",
+            "ratio": 9,
+            "title": "Falsetto",
+            "trackid": "2P1e3xpjDhYFqOFeu8IWzS"
+        },
+        "62": {
+            "artist": "Aaliyah",
+            "ratio": 9,
+            "title": "Rock The Boat",
+            "trackid": "0szij2qJqCH1PyrPfZcpi0"
+        },
+        "63": {
+            "artist": "Erika Isac",
+            "ratio": 3,
+            "title": "Sugar (with Theo Rose)",
+            "trackid": "2sibmfqkUn7bLTHe06G9Nl"
+        },
+        "64": {
+            "artist": "SARAFINA THE GREAT",
+            "ratio": 9,
+            "title": "DJ SARA FREESTYLE (DÉCALÉ COUPE)",
+            "trackid": "5lXbN2m78sxn2YZtqrRVGh"
+        },
+        "65": {
+            "artist": "89ers",
+            "ratio": 4,
+            "title": "Kingston Town",
+            "trackid": "045pmiAZPTmZw6XLdK9g9l"
+        },
+        "66": {
+            "artist": "PROTOTYP RAPSTAR",
+            "ratio": 4,
+            "title": "BURJ KHALIFA",
+            "trackid": "4PMO1Y11k20eJNc6bQfbe5"
+        },
+        "67": {
+            "artist": "Laila!",
+            "ratio": 9,
+            "title": "Not My Problem",
+            "trackid": "1T6dUV1mqXyA2bSP3lK0IZ"
+        },
+        "68": {
+            "artist": "Naira Marley",
+            "ratio": 9,
+            "title": "Cartoon",
+            "trackid": "2oFL8pXqAbtfncsBauFmAI"
+        },
+        "69": {
+            "artist": "YAKARY",
+            "ratio": 3,
+            "title": "My Type",
+            "trackid": "1sx4ihyXy7H25Fxs4az69s"
+        },
+        "70": {
+            "artist": "Yungpalo",
+            "ratio": 4,
+            "title": "PSP",
+            "trackid": "5AhwmtwajhIEsSQwHRvOxG"
+        },
+        "71": {
+            "artist": "idolinjo",
+            "ratio": 3,
+            "title": "SKENG",
+            "trackid": "2QhSe5bLe30ay6hFkVCqsh"
+        },
+        "72": {
+            "artist": "JIMMY BELUGA",
+            "ratio": -1,
+            "title": "A jsou pryč, tak co teď?",
+            "trackid": "6sZYIEvomCSHRvpQKbcPev",
+            "uri": ""
         }
     },
     "dont-watch-that-6th-april-2017": {
@@ -17954,6 +18777,309 @@
             "ratio": 9,
             "title": "Always Will",
             "trackid": "7Atsp7YNtyAOMvkWcFrUAe"
+        }
+    },
+    "dont-watch-that-9th-october-2025": {
+        "00": {
+            "artist": "Giggs",
+            "ratio": 9,
+            "title": "Talkin Da Hardest",
+            "trackid": "4Jw3XvDH8Rwb1uuHvUxOSW"
+        },
+        "01": {
+            "artist": "Puri",
+            "ratio": 4,
+            "title": "Bad Boy Riddim",
+            "trackid": "29EOthaa2afyOi7QZgYxHp"
+        },
+        "02": {
+            "artist": "Kareem Ali",
+            "ratio": 5,
+            "title": "Procession",
+            "trackid": "4e2xo3upMAjIPywjFUSDBp"
+        },
+        "03": {
+            "artist": "Unknown Artist",
+            "ratio": -1,
+            "title": "Unknown Track",
+            "trackid": "47FlbrwMWmaaC87mkVbwcZ",
+            "uri": ""
+        },
+        "04": {
+            "artist": "Unknown Artist",
+            "ratio": -1,
+            "title": "Unknown Track",
+            "trackid": "47FlbrwMWmaaC87mkVbwcZ",
+            "uri": ""
+        },
+        "05": {
+            "artist": "KHAOS",
+            "ratio": 9,
+            "title": "Everyday",
+            "trackid": "3IPiLspzX4sLlaHy6phyZN"
+        },
+        "06": {
+            "artist": "Unknown Artist",
+            "ratio": -1,
+            "title": "Unknown Track",
+            "trackid": "47FlbrwMWmaaC87mkVbwcZ",
+            "uri": ""
+        },
+        "07": {
+            "artist": "KHAOS",
+            "ratio": 9,
+            "title": "Bottles on Me",
+            "trackid": "7iojLXED98Hb9rTmI3wqhG"
+        },
+        "08": {
+            "artist": "Kacie",
+            "ratio": 6,
+            "title": "Let It Breathe",
+            "trackid": "16hr0oAdZtMYTKK5s1K6QG"
+        },
+        "09": {
+            "artist": "Joshua Baraka",
+            "ratio": 9,
+            "title": "Dive In",
+            "trackid": "4Ws9OfmKBzjw7FaJV0Xp1A"
+        },
+        "10": {
+            "artist": "Rytikal",
+            "ratio": 9,
+            "title": "1Gyal",
+            "trackid": "5oEn1PitZbfJy6s5zuxTiW"
+        },
+        "11": {
+            "artist": "Dave",
+            "ratio": 9,
+            "title": "Disaster (feat. J Hus)",
+            "trackid": "4icut3XOowTQhcT9ov3xTm"
+        },
+        "12": {
+            "artist": "Puri",
+            "ratio": 3,
+            "title": "Bad Boy Riddim",
+            "trackid": "29EOthaa2afyOi7QZgYxHp"
+        },
+        "13": {
+            "artist": "Niels Van Gogh",
+            "ratio": 4,
+            "title": "Right Here",
+            "trackid": "11ocj2KboECoDJrQJgN0GW"
+        },
+        "14": {
+            "artist": "Footsie",
+            "ratio": 9,
+            "title": "Scars",
+            "trackid": "0tgBdzJNp6uROICh0sM3w1"
+        },
+        "15": {
+            "artist": "TiRon & Ayomari",
+            "ratio": 3,
+            "title": "Fin",
+            "trackid": "0Hhwt4jSsSCbyLxaMvnKEx"
+        },
+        "16": {
+            "artist": "Suhrawh",
+            "ratio": 9,
+            "title": "Cat Attack Riddim - Instrumental",
+            "trackid": "3PP7iEnH4AZ6XDixxFHDOZ"
+        },
+        "17": {
+            "artist": "Unknown Artist",
+            "ratio": -1,
+            "title": "Unknown Track",
+            "trackid": "47FlbrwMWmaaC87mkVbwcZ",
+            "uri": ""
+        },
+        "18": {
+            "artist": "G6 Productions",
+            "ratio": 9,
+            "title": "Cow Horn Riddim",
+            "trackid": "27c4ZZqGJWZrkOKGUGDLNG"
+        },
+        "19": {
+            "artist": "CMAT",
+            "ratio": 4,
+            "title": "I Wanna Be a Cowboy, Baby!",
+            "trackid": "7uFejCG9QDaxbmDv66Qoew"
+        },
+        "20": {
+            "artist": "Charming Horses",
+            "ratio": 4,
+            "title": "Mad World",
+            "trackid": "7DxZCQrwMIapN3B2HVoPMm"
+        },
+        "21": {
+            "artist": "Twin Iguana",
+            "ratio": 4,
+            "title": "The Outrun",
+            "trackid": "5MInf7gnv9vLEKPPzzIXai"
+        },
+        "22": {
+            "artist": "RP Boo",
+            "ratio": 9,
+            "title": "Heavy Heat",
+            "trackid": "4B7uSTEocG32M0VXc8Z7AU"
+        },
+        "23": {
+            "artist": "Natoxie",
+            "ratio": 9,
+            "title": "1 2 3 Koké",
+            "trackid": "6kQ7nqtAJ6MI0nMI34dYK3"
+        },
+        "24": {
+            "artist": "Puri",
+            "ratio": 4,
+            "title": "Bad Boy Riddim",
+            "trackid": "29EOthaa2afyOi7QZgYxHp"
+        },
+        "25": {
+            "artist": "Traxman",
+            "ratio": 9,
+            "title": "Poison Workz",
+            "trackid": "4qKLZIv9T0SvTuIZCKypmv"
+        },
+        "26": {
+            "artist": "DJ Assault",
+            "ratio": 9,
+            "title": "Sex On The Beach",
+            "trackid": "4erJBoqNtQtSgwTmnSGY7A"
+        },
+        "27": {
+            "artist": "Waxmaster",
+            "ratio": 9,
+            "title": "Crank Dat DJ Wax",
+            "trackid": "1fNmubsCMgyDi1Ewv1rd2H"
+        },
+        "28": {
+            "artist": "Toby Romeo",
+            "ratio": 4,
+            "title": "What It Feels Like",
+            "trackid": "7lD0SNdtIYGV30yxu4494I"
+        },
+        "29": {
+            "artist": "Miimii KDS",
+            "ratio": 9,
+            "title": "Sé Miimii",
+            "trackid": "0GhVtqzmazON0vBT3ktTWQ"
+        },
+        "30": {
+            "artist": "Calto",
+            "ratio": 9,
+            "title": "I Cry",
+            "trackid": "4aELjI5hUBf8YX2v4cEmaC"
+        },
+        "31": {
+            "artist": "Free Diskette",
+            "ratio": 5,
+            "title": "Digital Delight",
+            "trackid": "0MfS4Re2DeJsySrqfSexzi"
+        },
+        "32": {
+            "artist": "Human Is Alive",
+            "ratio": 3,
+            "title": "Seasons Fade",
+            "trackid": "0CY9UwpA0VA4ZpjDBU7HA5"
+        },
+        "33": {
+            "artist": "Tisti",
+            "ratio": 3,
+            "title": "BLOODY HEAVEN",
+            "trackid": "6s0Jvhlu2tF5VJqOURHJbq"
+        },
+        "34": {
+            "artist": "Sean Price",
+            "ratio": 4,
+            "title": "Shake Down",
+            "trackid": "2pc2ks0bw0sjAZf9xU3nVQ"
+        },
+        "35": {
+            "artist": "Missy Elliott",
+            "ratio": 9,
+            "title": "Get Ur Freak On - Edit",
+            "trackid": "4RKjQQfNdqjMTCwjQo5wgw"
+        },
+        "36": {
+            "artist": "Sasya Arkhisna",
+            "ratio": 4,
+            "title": "Bisane Mung Nyawang",
+            "trackid": "3uhjT8PjBocCpuaiNM6ESM"
+        },
+        "37": {
+            "artist": "P. Susheela",
+            "ratio": 3,
+            "title": "Chintalu Bapedi",
+            "trackid": "4az0KMH1lEVtAFjAuLGzCX"
+        },
+        "38": {
+            "artist": "Cousines like Shit",
+            "ratio": 4,
+            "title": "Hair on Coffee",
+            "trackid": "5hKBkozQZ6EykWJawhK5N0"
+        },
+        "39": {
+            "artist": "Erika Isac",
+            "ratio": 3,
+            "title": "Sugar (with Theo Rose)",
+            "trackid": "2sibmfqkUn7bLTHe06G9Nl"
+        },
+        "40": {
+            "artist": "Kael",
+            "ratio": 3,
+            "title": "Up Now",
+            "trackid": "2USFTpUTGxlQIgesaEAuNa"
+        },
+        "41": {
+            "artist": "TeeZandos",
+            "ratio": 9,
+            "title": "Jail",
+            "trackid": "4ha8qK1ZIJ9NYU07IyDiaI"
+        },
+        "42": {
+            "artist": "Unknown Artist",
+            "ratio": -1,
+            "title": "Unknown Track",
+            "trackid": "47FlbrwMWmaaC87mkVbwcZ",
+            "uri": ""
+        },
+        "43": {
+            "artist": "Angie Stone",
+            "ratio": 9,
+            "title": "Wish I Didn't Miss You",
+            "trackid": "3tZm76otWH20xzJC7icHCk"
+        },
+        "44": {
+            "artist": "Unknown Artist",
+            "ratio": -1,
+            "title": "Unknown Track",
+            "trackid": "47FlbrwMWmaaC87mkVbwcZ",
+            "uri": ""
+        },
+        "45": {
+            "artist": "Unknown Artist",
+            "ratio": -1,
+            "title": "Unknown Track",
+            "trackid": "47FlbrwMWmaaC87mkVbwcZ",
+            "uri": ""
+        },
+        "46": {
+            "artist": "Skales",
+            "ratio": 9,
+            "title": "Temper - Remix",
+            "trackid": "6krdi0eceTYnf06JHTJbbF"
+        },
+        "47": {
+            "artist": "Drake",
+            "ratio": 3,
+            "title": "Which One (feat. Central Cee)",
+            "trackid": "1LVRE2ZRLNGdjCFmOa9kJa"
+        },
+        "48": {
+            "artist": "Pr0d.k4y",
+            "ratio": 9,
+            "title": "0n The L3vel (Zess x Nola Bounce)",
+            "trackid": "6zxDpSt9vEOOO9veAZaxmO"
         }
     },
     "dont-watch-that-w-club-jersey-guest-mix-4th-june-2015": {
