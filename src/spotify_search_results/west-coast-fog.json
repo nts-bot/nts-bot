@@ -4072,6 +4072,184 @@
             ]
         }
     },
+    "west-coast-fog-3rd-february-2026": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Steel Alive",
+                    "title": "Glory Horns",
+                    "uri": "6CW2bLJSQEEyzfj6diuSg2"
+                },
+                {
+                    "artist": "Alif",
+                    "title": "Malaal Kya Huwa",
+                    "uri": "3Y3TagayjMyyCKFpXoZQzW"
+                },
+                {
+                    "artist": "Alif",
+                    "title": "Holako (Hulagu)",
+                    "uri": "33fGEtYxQY5AdLRvjRkiCn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Deen Kidz",
+                    "title": "Alif Ba",
+                    "uri": "4IEoD52IkbINoyCJ3ac2hF"
+                },
+                {
+                    "artist": "Hugo Loud",
+                    "title": "Alive",
+                    "uri": "3zj7XNHL7Z8xlsQRTFLNgK"
+                },
+                {
+                    "artist": "Hugo Loud",
+                    "title": "Alive",
+                    "uri": "22wA8mwE45XG9KtQm1O1p5"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Calmative",
+                    "title": "Celestial",
+                    "uri": "07SKAWytqgQfx4XHReFOSj"
+                },
+                {
+                    "artist": "Wolfgang Amadeus Mozart",
+                    "title": "Mozart's Requiem - An Audio Documentary: Mozart in 1791 and the Commissioning of the Requiem",
+                    "uri": "1Mzzhri5HVWPIC6qwgyTJY"
+                },
+                {
+                    "artist": "Taste Nate",
+                    "title": "We Live Inside!",
+                    "uri": "0KBVWrletxnrWdkXFwzK3E"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Two Steps from Hell",
+                    "title": "Amethyst Prince",
+                    "uri": "07GfW0T2KPRRwrhc5gOapa"
+                },
+                {
+                    "artist": "Bag of Brains",
+                    "title": "CyberPunk",
+                    "uri": "1SEpbuxtQTeoBDa8znEb1J"
+                },
+                {
+                    "artist": "Noah Wright",
+                    "title": "Cameras",
+                    "uri": "2lA6f1ccHPBE3wIr7jYYFp"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Astral Aura",
+                    "title": "Reiki Breaths",
+                    "uri": "4R748qSWMzKhAxwhmwe4gm"
+                },
+                {
+                    "artist": "Project Divinity",
+                    "title": "Healing Hands",
+                    "uri": "19cqrlFJfQ5kaK2PBGJsEW"
+                },
+                {
+                    "artist": "Dax",
+                    "title": "The Next Rap God 2",
+                    "uri": "6BSpk93XTt2CJ7gpROG6zU"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pegassi",
+                    "title": "Spectral Bells",
+                    "uri": "0Yfb937yM0d5f6os0W9IWc"
+                },
+                {
+                    "artist": "Sea Oleena",
+                    "title": "Untitled",
+                    "uri": "5zqIoB8g5dx9XZZX3uZGrC"
+                },
+                {
+                    "artist": "Cinder Well",
+                    "title": "No Summer",
+                    "uri": "7mqXX24wscFyrYyYSUswqv"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mahmut Orhan",
+                    "title": "Feel (feat. Sena Sener) - Radio Edit",
+                    "uri": "7Is0OPWVcN8DdZpcNuClcy"
+                },
+                {
+                    "artist": "Mahmut Orhan",
+                    "title": "Feel (feat. Sena Sener) - X-Kom Remix",
+                    "uri": "5slhn9yollxbLCIwUaoSPl"
+                },
+                {
+                    "artist": "Nils Wülker",
+                    "title": "Second Nature",
+                    "uri": "3ZsP0BhWBSC8xp0IPgENRA"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Richard Horowitz",
+                    "title": "Eros Never Stops Dreaming",
+                    "uri": "5txokugONlJoQvRtEjyJDW"
+                },
+                {
+                    "artist": "DSTRTD SGNL",
+                    "title": "Dreams",
+                    "uri": "3dLyx2J2bU60z4kk42QCNm"
+                },
+                {
+                    "artist": "Dreom",
+                    "title": "Still Evening",
+                    "uri": "3OyS9GvoMuvC7K6SnJFEXo"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rola Young",
+                    "title": "Mountains",
+                    "uri": "4AsdKKqLEIX7mS86ZXZhga"
+                },
+                {
+                    "artist": "Zayne Dennis",
+                    "title": "Drip Cold",
+                    "uri": "4YgbIpNmC2WgeXBrzIJ4fr"
+                },
+                {
+                    "artist": "Big Sas Ugly",
+                    "title": "Black Superhero",
+                    "uri": "5Bxv8nDL9LzSULviCzOOWb"
+                }
+            ]
+        }
+    },
     "west-coast-fog-4th-march-2025": {
         "00": {
             "s0": [

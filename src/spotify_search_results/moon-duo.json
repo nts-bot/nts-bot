@@ -5162,6 +5162,74 @@
             ]
         }
     },
+    "moon-duo-5th-february-2026": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Masayoshi Takanaka",
+                    "title": "蜃気楼の島へ",
+                    "uri": "7nB00pmlT3Dc6Vd536ha3l"
+                },
+                {
+                    "artist": "Masayoshi Takanaka",
+                    "title": "MALIBU",
+                    "uri": "2LAMzLZLIK9zCgABZv5Ano"
+                },
+                {
+                    "artist": "Masayoshi Takanaka",
+                    "title": "FUNKEE MAH－CHAN",
+                    "uri": "5aJoy6cKL1LmHFwx1MrLhn"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Don Cherry",
+                    "title": "Eternal Rhythm, Pt. 1",
+                    "uri": "1CjOV0ErjfUi6H6oo4a8Ff"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Don Cherry",
+                    "title": "Eternal Rhythm, Pt. 1",
+                    "uri": "1CjOV0ErjfUi6H6oo4a8Ff"
+                },
+                {
+                    "artist": "Don Cherry",
+                    "title": "Eternal Rhythm, Pt. 2",
+                    "uri": "5I16yQxfS4LOlwBeFVTiwV"
+                },
+                {
+                    "artist": "LYNO",
+                    "title": "Eternal Groove",
+                    "uri": "25mKEWdhXEm5k6m7ui8SRi"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Robbie Williams",
+                    "title": "Supreme",
+                    "uri": "7rQiW2mJDbP77h2RLlASTw"
+                },
+                {
+                    "artist": "John Coltrane",
+                    "title": "A Love Supreme, Pt. I – Acknowledgement",
+                    "uri": "0CLbmkYmQIWiEwnsbOkLpd"
+                },
+                {
+                    "artist": "Robbie Williams",
+                    "title": "Supreme",
+                    "uri": "4dZ3V71vsqSn9MJ18y8YaJ"
+                }
+            ]
+        }
+    },
     "moon-duo-5th-may-2022": {
         "00": {
             "s0": [

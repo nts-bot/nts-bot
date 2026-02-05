@@ -15310,6 +15310,379 @@
             ]
         }
     },
+    "freedom-to-spend-5th-february-2026": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Wicker Whales",
+                    "title": "Summer Days",
+                    "uri": "0aJ4N55aJRLvrk0PsWmFgn"
+                },
+                {
+                    "artist": "Gruppo Sportivo",
+                    "title": "One Way Love",
+                    "uri": "64Fhv8mhgIKuSZFJwdOoBX"
+                },
+                {
+                    "artist": "Covey",
+                    "title": "Crooked Spine",
+                    "uri": "1bQEMyna5FEJo5v7x42o7c"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hotel Rimini",
+                    "title": "Mimikry",
+                    "uri": "3p0KyUOMGHr8zMkeYzUyZP"
+                },
+                {
+                    "artist": "EineMusik",
+                    "title": "Midnight Pulsewave",
+                    "uri": "6TymelKbCoOOrTJmx3928T"
+                },
+                {
+                    "artist": "Sleepy World",
+                    "title": "Mimi’s Blanket",
+                    "uri": "5RlFrt3Gk1D6UDVAur1hM1"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Aske Zidore",
+                    "title": "View",
+                    "uri": "4GVncEKKmMmtgXWmLUqAwq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aske Zidore",
+                    "title": "View",
+                    "uri": "4GVncEKKmMmtgXWmLUqAwq"
+                },
+                {
+                    "artist": "Romeo Veshaj",
+                    "title": "Më E Mira",
+                    "uri": "6Zv4Cv5h5e5WQRnysxmJZx"
+                },
+                {
+                    "artist": "Emra Brah",
+                    "title": "Vajte",
+                    "uri": "311tKabS6v3ZMzctukjsmV"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "A Tent",
+                    "title": "Parachuting In Bolivia",
+                    "uri": "55PqzQZ7tTgk4iebDA4H61"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "A Tent",
+                    "title": "Parachuting In Bolivia",
+                    "uri": "55PqzQZ7tTgk4iebDA4H61"
+                },
+                {
+                    "artist": "Masicka",
+                    "title": "Whites",
+                    "uri": "4Sf6Kt4Tnskbszxl7hui7t"
+                },
+                {
+                    "artist": "Sigrid Vega",
+                    "title": "A Tenth Chance",
+                    "uri": "1kDheV1EiJeNlzFSRbaNfU"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tory Lanez",
+                    "title": "Lavender Sunflower",
+                    "uri": "1au2UduxcvHfa0fZS3Szci"
+                },
+                {
+                    "artist": "Asal",
+                    "title": "Headache",
+                    "uri": "6juffWW6TFI5geCgjU6Lvp"
+                },
+                {
+                    "artist": "Dennis Korn",
+                    "title": "November: Sparks In The Dark",
+                    "uri": "0C81kFHeHzND0GhpEfVlAT"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Gioachino Rossini",
+                    "title": "Rossini: Stabat Mater: VII. Fac, ut portem Christi mortem",
+                    "uri": "5ZgFZ6eyspxp3bcAGiQGxw"
+                },
+                {
+                    "artist": "Gioachino Rossini",
+                    "title": "Rossini: Stabat Mater: VIII. Inflammatus et accensus",
+                    "uri": "6JrsCdOOUKLtDh9PSrXzZK"
+                },
+                {
+                    "artist": "Gioachino Rossini",
+                    "title": "Stabat Mater: VIII. Inflammatus et accensus",
+                    "uri": "7juSdfcmqvhcOIjZ9V9wSq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Tallis Scholars",
+                    "title": "Tallis: Spem in Alium - 1. Spem in Alium",
+                    "uri": "7vCkGmgFZ5aw2W0yiSXazh"
+                },
+                {
+                    "artist": "Gioachino Rossini",
+                    "title": "Rossini: Stabat Mater: VIII. Inflammatus et accensus",
+                    "uri": "6JrsCdOOUKLtDh9PSrXzZK"
+                },
+                {
+                    "artist": "Puya",
+                    "title": "Americandrim",
+                    "uri": "7drxiOJ5qJBGhoBiH6t0kj"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Simon Fisher Turner",
+                    "title": "I Love You More Than My Eyes",
+                    "uri": "17w7aXt2kdvlfrT0RdPlDq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Simon Fisher Turner",
+                    "title": "I Love You More Than My Eyes",
+                    "uri": "17w7aXt2kdvlfrT0RdPlDq"
+                },
+                {
+                    "artist": "Geo Da Silva",
+                    "title": "I Love You More Than Words",
+                    "uri": "14v7AKqkeudtk9HGbLzJlz"
+                },
+                {
+                    "artist": "Stephen Sanchez",
+                    "title": "Be More",
+                    "uri": "4bp4kwe29qY9PBdrEgSa53"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nomy",
+                    "title": "Will she fight",
+                    "uri": "1nktrILRZYt7nB8EdINcmt"
+                },
+                {
+                    "artist": "Andrew Oldham Orchestra",
+                    "title": "House Of the Rising Sun",
+                    "uri": "7t353akslaRp7S3vCdKpWR"
+                },
+                {
+                    "artist": "Andrew Oldham Orchestra",
+                    "title": "House Of the Rising Sun",
+                    "uri": "5ywp7LBnIIHsmin1zKpRdW"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tom Gregory",
+                    "title": "Wreck",
+                    "uri": "5bpIkRGZXnayOaWEszMSK1"
+                },
+                {
+                    "artist": "Audi3k",
+                    "title": "Nirvana",
+                    "uri": "5BPwM2EgmaHyY30HU7AtU6"
+                },
+                {
+                    "artist": "SULI",
+                    "title": "Cold As A Fever",
+                    "uri": "06p9dD6pIQr6kn8lasefxK"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Wechsel Garland",
+                    "title": "Staub Im Licht",
+                    "uri": "64Ula5QWt5j6xyTzG6ql2U"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Wechsel Garland",
+                    "title": "Staub Im Licht",
+                    "uri": "64Ula5QWt5j6xyTzG6ql2U"
+                },
+                {
+                    "artist": "Schrotthagen",
+                    "title": "Wechselbalg",
+                    "uri": "4xEZltPr3zfKRQIq8t0o6y"
+                },
+                {
+                    "artist": "LegitChicken",
+                    "title": "Herz Aus Glas",
+                    "uri": "5pDWrlZzDZy12cWmjWd6NP"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mike Oldfield",
+                    "title": "Oceania",
+                    "uri": "5Vo8gStFJixMWKgerFrIEJ"
+                },
+                {
+                    "artist": "KI/KI",
+                    "title": "What's a Girl to Do in '25",
+                    "uri": "3OgdqZIgGIqusstV9IqX6p"
+                },
+                {
+                    "artist": "Rastafair",
+                    "title": "Oseana",
+                    "uri": "4YegKSPuj1hwyK5It7UEwh"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Iftekharul Anam",
+                    "title": "Fading Dawn - Solitude Mix",
+                    "uri": "4eIN93yxp8ETJkkAFj17lD"
+                },
+                {
+                    "artist": "Sleep Queen",
+                    "title": "fading sparks",
+                    "uri": "5Nq7apYKjsdptPXNqiPJII"
+                },
+                {
+                    "artist": "Gjermund",
+                    "title": "Floating down the river",
+                    "uri": "5MNItTInmQ6ouf1Ap6kJbi"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Nils Hoffmann",
+                    "title": "Chasing Ghosts",
+                    "uri": "4uzqcDlCOl0et4pGtfkka5"
+                },
+                {
+                    "artist": "Gabriel Frost",
+                    "title": "To Bring Rest",
+                    "uri": "6hSCVvU0f2GHkAdynJBE3x"
+                },
+                {
+                    "artist": "Gabriel Frost",
+                    "title": "Breathe - Radio Edit",
+                    "uri": "5vseOc8FGKHixrN24W9yu9"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DANZINGER 99",
+                    "title": "opiate",
+                    "uri": "78ZF43uXsrpiYkbLjCT484"
+                },
+                {
+                    "artist": "Aykeem",
+                    "title": "Opiates",
+                    "uri": "063JKIvI6brnOlzy2a35C9"
+                },
+                {
+                    "artist": "Nalya",
+                    "title": "1001 Nacht",
+                    "uri": "7tw92asIACKNoHJsaGi2Vy"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pulshar",
+                    "title": "Montparnasse 2 Am",
+                    "uri": "6zKLupeCQhDRbfDRUnjh2G"
+                },
+                {
+                    "artist": "Antonino Conti",
+                    "title": "Paris Montparnasse",
+                    "uri": "3oxRkuLuUVAgx3gV4jAFvU"
+                },
+                {
+                    "artist": "Memories of the Forgotten",
+                    "title": "Mountain Pathways",
+                    "uri": "6bcXa8QeUNvZNyMZbx1WHe"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Robert Sotelo",
+                    "title": "Expectations",
+                    "uri": "7anLbXYzddEpwHOBJplQJp"
+                },
+                {
+                    "artist": "Robert Sotelo",
+                    "title": "Expectations",
+                    "uri": "0i3pi1B2RgECaf3Ypvzwdq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Robert Sotelo",
+                    "title": "Expectations",
+                    "uri": "7anLbXYzddEpwHOBJplQJp"
+                },
+                {
+                    "artist": "Brainy",
+                    "title": "Expectations",
+                    "uri": "2UtVwQibDwuImQ2i1pzcDq"
+                },
+                {
+                    "artist": "Self Help Audio Books",
+                    "title": "Cherish The Tough Times",
+                    "uri": "2Oj7gANLDxAO2OLIpoi7Do"
+                }
+            ]
+        }
+    },
     "freedom-to-spend-5th-march-2025": {
         "00": {
             "s0": "",
