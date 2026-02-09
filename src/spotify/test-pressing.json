@@ -455,6 +455,159 @@
             "trackid": "6m4yHLNlUANlyZEdMJ2nYu"
         }
     },
+    "test-pressing-10th-january-2026": {
+        "00": {
+            "artist": "Lowkey",
+            "ratio": 4,
+            "title": "Alphabet Assassin - Video Mix",
+            "trackid": "1uTCyWcgAuyzW2sdvmNsMX"
+        },
+        "01": {
+            "artist": "Sewell And The Gong",
+            "ratio": 9,
+            "title": "Communion Phase - Sounds Of Slackness Holy Spirit Dub",
+            "trackid": "4aQMCc0i628QX0zw422VO9"
+        },
+        "02": {
+            "artist": "Steve Bread",
+            "ratio": 9,
+            "title": "Electric Fling - Long Afro Version [Remastered]",
+            "trackid": "1J8PckAzbhI5k4Fg9QaPwM"
+        },
+        "03": {
+            "artist": "Iceblue",
+            "ratio": 0,
+            "title": "bnb - Hard Techno Edit",
+            "trackid": "1jy5Q2xfwuZbnnXvhENMb1"
+        },
+        "04": {
+            "artist": "Kenny Larkin",
+            "ratio": 5,
+            "title": "Tedra",
+            "trackid": "0LXrOoeTSHbDF4gsxZXRSD"
+        },
+        "05": {
+            "artist": "The Stone Roses",
+            "ratio": 9,
+            "title": "Shoot You Down - Remastered 2009",
+            "trackid": "2erQ477GekpdP5l3xp5adl"
+        },
+        "06": {
+            "artist": "Das Druid",
+            "ratio": 9,
+            "title": "Incense - Ruf Dug Stoner Trance Version",
+            "trackid": "7IkvcOXtxy5B1AKBujkAUw"
+        },
+        "07": {
+            "artist": "Natural Magic",
+            "ratio": 9,
+            "title": "Skyward Eye",
+            "trackid": "3bUlj3Gkz7pt1iSsdxtLx2"
+        },
+        "08": {
+            "artist": "Unknown Artist",
+            "ratio": -1,
+            "title": "Freaky Tales",
+            "trackid": "5NlIknnZJ0C26LzeXKoP0X",
+            "uri": ""
+        },
+        "09": {
+            "artist": "Fereydoon Foroughi",
+            "ratio": 5,
+            "title": "Parvaneye Man",
+            "trackid": "5adSaZWsJATWp3dZwu7Cue"
+        },
+        "10": {
+            "artist": "Rupee",
+            "ratio": 4,
+            "title": "Tempted to Touch - Reggaeton Remix",
+            "trackid": "1RBvBTwTJOzk58f2S2MYA8"
+        },
+        "11": {
+            "artist": "Benny Benassi",
+            "ratio": 5,
+            "title": "DISCOTEKA",
+            "trackid": "6tQAZqFsKEdiatCHujyQ83"
+        },
+        "12": {
+            "artist": "Nation of Language",
+            "ratio": 9,
+            "title": "Inept Apollo (Tom Sharkett Remix)",
+            "trackid": "2ork9hjrRPKE1VOZU5z65t"
+        },
+        "13": {
+            "artist": "Thomass Jackson",
+            "ratio": 9,
+            "title": "Junk Be Gone - Felix Dickinson Remix",
+            "trackid": "1K6ygjU48EDVMGw8buRQiQ"
+        },
+        "14": {
+            "artist": "Flight Facilities",
+            "ratio": 9,
+            "title": "Run (Make A Dance Remix)",
+            "trackid": "52M1s923iWGjJEHURiWo48"
+        },
+        "15": {
+            "artist": "Crooked Man",
+            "ratio": 9,
+            "title": "Maladjustment To Love",
+            "trackid": "6umA1uUAPbSv8bUS9Mb7Xg"
+        },
+        "16": {
+            "artist": "Eternal Love",
+            "ratio": 9,
+            "title": "Luna Manga",
+            "trackid": "44YVqCyXdmfPgxykjnzUkw"
+        },
+        "17": {
+            "artist": "",
+            "ratio": 0,
+            "title": "",
+            "trackid": ""
+        },
+        "18": {
+            "artist": "Swaggy Jason",
+            "ratio": 4,
+            "title": "Swaggy Jason’s Coming - Bunny - Bunny Version",
+            "trackid": "4jveCO594TOLhCt1xSgKGS"
+        },
+        "19": {
+            "artist": "Arkajo",
+            "ratio": 9,
+            "title": "Nadir",
+            "trackid": "44y2S8N7m5z6eKho1Jz44F"
+        },
+        "20": {
+            "artist": "M. Spoon",
+            "ratio": 3,
+            "title": "Doin' Good!",
+            "trackid": "5xJzBINJNKznPNsEH7KNWB"
+        },
+        "21": {
+            "artist": "New Jackson",
+            "ratio": 9,
+            "title": "Satisfaction",
+            "trackid": "3Otryi9KIRI4xgJUJzEBMZ"
+        },
+        "22": {
+            "artist": "J.J. Cale",
+            "ratio": 4,
+            "title": "Anyway The Wind Blows",
+            "trackid": "3dygHSr6gI25idXCPJVKsT"
+        },
+        "23": {
+            "artist": "Abel Miller",
+            "ratio": 3,
+            "title": "Everytime I See My Baby",
+            "trackid": "0D9ntqFHsS12fi4tAayo9K"
+        },
+        "24": {
+            "artist": "Small Axe",
+            "ratio": 9,
+            "title": "Love Attack",
+            "trackid": "7DvkVj685vhQMfnGSAxFJr"
+        }
+    },
     "test-pressing-10th-june-2017": {
         "00": {
             "artist": "Earth Boys",
@@ -17275,6 +17428,152 @@
             "ratio": 9,
             "title": "Butterflies",
             "trackid": "1PbWcL0h8jVvLDsxKsg6EP"
+        }
+    },
+    "test-pressing-7th-february-2026": {
+        "00": {
+            "artist": "Nicolas Jaar",
+            "ratio": 3,
+            "title": "Colomb",
+            "trackid": "7EN0AF7fQUg6dn4wF758G2"
+        },
+        "01": {
+            "artist": "SY3",
+            "ratio": 9,
+            "title": "Tell Me",
+            "trackid": "5xrJQz0agpmgf0Y3ZQYtw5"
+        },
+        "02": {
+            "artist": "Francis Bebey",
+            "ratio": 9,
+            "title": "Le Grand Soleil De Dieu - Psychemagik Remix",
+            "trackid": "0mgWSprXbXhy0OJMcBEtqa"
+        },
+        "03": {
+            "artist": "Pur",
+            "ratio": 4,
+            "title": "Lena",
+            "trackid": "3MENXwdwyzSvRBYeYf5pgd"
+        },
+        "04": {
+            "artist": "Tfm",
+            "ratio": 9,
+            "title": "Out Of Bounds - Final Mix",
+            "trackid": "6A41Gg3ZX3J0D1a6uUq9nc"
+        },
+        "05": {
+            "artist": "Deepend",
+            "ratio": 3,
+            "title": "Yellow",
+            "trackid": "3XBzEqDXG2macp2wJUP1zh"
+        },
+        "06": {
+            "artist": "Ghazi",
+            "ratio": 3,
+            "title": "Showtime",
+            "trackid": "5d8XcoPz5ovO7GfWKgoV3x"
+        },
+        "07": {
+            "artist": "Persian",
+            "ratio": 9,
+            "title": "Parvaaneh - Retwist",
+            "trackid": "6W4utfFE1ppGcfBohpvuc5"
+        },
+        "08": {
+            "artist": "Interspaces",
+            "ratio": 4,
+            "title": "Unified",
+            "trackid": "2r3vhfAjONHXPdgc9PZFeZ"
+        },
+        "09": {
+            "artist": "Aubrey",
+            "ratio": 9,
+            "title": "Dot 3 - Russ Gabriel Remix",
+            "trackid": "42vjDTqnDlR0vAPgXt1Gpx"
+        },
+        "10": {
+            "artist": "Black Eyed Peas",
+            "ratio": 3,
+            "title": "Like That",
+            "trackid": "5DjWWVI3WsxMIvDbr6TSLR"
+        },
+        "11": {
+            "artist": "J.J. Cale",
+            "ratio": 4,
+            "title": "Anyway The Wind Blows",
+            "trackid": "3dygHSr6gI25idXCPJVKsT"
+        },
+        "12": {
+            "artist": "Low Cut Connie",
+            "ratio": 3,
+            "title": "Rio",
+            "trackid": "46NenKmsccNg7rdNyBIHyA"
+        },
+        "13": {
+            "artist": "Hermanos Gutiérrez",
+            "ratio": 5,
+            "title": "Cumbia Lunar",
+            "trackid": "3Izder8QdHbcnlG2LCLdsg"
+        },
+        "14": {
+            "artist": "voi",
+            "ratio": 5,
+            "title": "sleepwalking",
+            "trackid": "4JwcltLap2aCCVdI4PgqJu"
+        },
+        "15": {
+            "artist": "Sam Goku",
+            "ratio": 9,
+            "title": "x-plor09 (much to give)",
+            "trackid": "6jHyMqxqLPU38LWoTITsti"
+        },
+        "16": {
+            "artist": "Thomas Lizzara",
+            "ratio": 0,
+            "title": "We Are Here to Be Happy - Radio-Edit",
+            "trackid": "2HFteErftGDDRNLaJCeazu"
+        },
+        "17": {
+            "artist": "The Bollock Brothers",
+            "ratio": 3,
+            "title": "Faith Healer",
+            "trackid": "0noYsK3arcNCChA0WHkrBO"
+        },
+        "18": {
+            "artist": "Sunz Of Man",
+            "ratio": 4,
+            "title": "Cold",
+            "trackid": "4BcvkvkWV7TvWQ1pzR6wjH"
+        },
+        "19": {
+            "artist": "Cayucas",
+            "ratio": 4,
+            "title": "California Girl",
+            "trackid": "4K19C0CaVA9QtjGEYW7ehK"
+        },
+        "20": {
+            "artist": "Synaptic Voyager",
+            "ratio": 9,
+            "title": "Nebula",
+            "trackid": "6FJMkfLLIBdKP3eGG0teHO"
+        },
+        "21": {
+            "artist": "Jah Shaka & Mad Professor",
+            "ratio": 9,
+            "title": "Only One God",
+            "trackid": "13TMWDct7YYmxmLsESHSKF"
+        },
+        "22": {
+            "artist": "Jungle Brothers",
+            "ratio": 9,
+            "title": "Good Newz Comin'",
+            "trackid": "56vRfDxR75Obpu6dIJJqRL"
+        },
+        "23": {
+            "artist": "Sulah Jordan",
+            "ratio": 9,
+            "title": "Jasmine",
+            "trackid": "25qr68yJWIKJmePAgUrpZi"
         }
     },
     "test-pressing-7th-july-2018": {

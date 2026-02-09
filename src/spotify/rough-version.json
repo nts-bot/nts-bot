@@ -1,4 +1,42 @@
 {
+    "rough-version-10th-january-2026": {
+        "00": {
+            "artist": "Tsar B",
+            "ratio": 9,
+            "title": "Transbird",
+            "trackid": "724aPBr3QK78yYmtgnBAKb"
+        },
+        "01": {
+            "artist": "Martha Da'ro",
+            "ratio": 9,
+            "title": "Fast Life",
+            "trackid": "5Ycj5cLtHGNsN5Olwzch8x"
+        },
+        "02": {
+            "artist": "Jimmy Scott",
+            "ratio": 9,
+            "title": "Time After Time",
+            "trackid": "1oJJbEug7HAZxbRUlMlDdc"
+        },
+        "03": {
+            "artist": "Franz Schubert",
+            "ratio": 9,
+            "title": "Piano Trio No. 2 in E-Flat Major, D. 929: II. Andante con moto",
+            "trackid": "2GiNqtvA87QYLkdJuZWByl"
+        },
+        "04": {
+            "artist": "Moor Mother",
+            "ratio": 9,
+            "title": "By The Light",
+            "trackid": "7KRnuvRA7VH2SddI9Djjuy"
+        },
+        "05": {
+            "artist": "George Frideric Handel",
+            "ratio": 3,
+            "title": "Sarabande from Suite No. 11 for Harpsichord",
+            "trackid": "0FjnJPF8c6dDDHqmBWm48p"
+        }
+    },
     "rough-version-11th-december-2019": {
         "00": {
             "artist": "L'Orchestra Cinematique",
@@ -1605,6 +1643,32 @@
             "ratio": 9,
             "title": "Muscles",
             "trackid": "63EaQ5loAR77RnoIpS33Xq"
+        }
+    },
+    "rough-version-7th-february-2026": {
+        "00": {
+            "artist": "Duval Timothy",
+            "ratio": 9,
+            "title": "Journey to Lagos (From \"My Father's Shadow\")",
+            "trackid": "7jvx2bHqzh9xVRTcauKNQ0"
+        },
+        "01": {
+            "artist": "Björk",
+            "ratio": 9,
+            "title": "Oral",
+            "trackid": "3re91K41XNVsViNbCPumTw"
+        },
+        "02": {
+            "artist": "Karwan Kamil",
+            "ratio": 5,
+            "title": "Tira Xema",
+            "trackid": "2awWvR7eHA5l0JsYkwdrUi"
+        },
+        "03": {
+            "artist": "Dimitris Zografakis",
+            "ratio": 4,
+            "title": "O Lyraris",
+            "trackid": "1kwS8qM5CwVDz0Lw1SDZJo"
         }
     },
     "rough-version-8th-march-2025": {

@@ -391,6 +391,98 @@
             "trackid": "19RrwxhMovNCIZNhlgBQ5i"
         }
     },
+    "wave-form-13th-december-2025": {
+        "00": {
+            "artist": "Lana Del Rey",
+            "ratio": 3,
+            "title": "National Anthem",
+            "trackid": "3vJ7kCW4ROYpWFqlvFBkWb"
+        },
+        "01": {
+            "artist": "Part Time Killer",
+            "ratio": 4,
+            "title": "Winds (Feel for You)",
+            "trackid": "6l1bXnfd7OnPr7AW927QEI"
+        },
+        "02": {
+            "artist": "Kara-Lis Coverdale",
+            "ratio": 9,
+            "title": "Strait of Phase",
+            "trackid": "4IywKZMcRrWHSmDeGekJB2"
+        },
+        "03": {
+            "artist": "Marc Barreca",
+            "ratio": 9,
+            "title": "Glass and Steel No. 1",
+            "trackid": "1zVXEqJSx3UPyn106WBf8i"
+        },
+        "04": {
+            "artist": "Marina Rosenfeld",
+            "ratio": 9,
+            "title": "Seeking Solace/ Why, Why?",
+            "trackid": "0tcdL8LdVG5O5oUKU2Q8P0"
+        },
+        "05": {
+            "artist": "Torus",
+            "ratio": 9,
+            "title": "Someone Like You",
+            "trackid": "5sMRvBf5mVw9uR95tbBalO"
+        },
+        "06": {
+            "artist": "AceMo",
+            "ratio": 9,
+            "title": "Cultivation of Light",
+            "trackid": "1HgBZNQw6NSLhNWRdMc5gR"
+        },
+        "07": {
+            "artist": "sora",
+            "ratio": 9,
+            "title": "La Cathédrale Engloutie",
+            "trackid": "0GiSKGYCdQtGXDSCmSxuVb"
+        },
+        "08": {
+            "artist": "Thomas Ignatius",
+            "ratio": 9,
+            "title": "In germine",
+            "trackid": "3BoDHaoDsPDsFxV9Qgz9ca"
+        },
+        "09": {
+            "artist": "efdemin",
+            "ratio": 9,
+            "title": "Poly",
+            "trackid": "4HgqoBOSndOBBqtXcfad1A"
+        },
+        "10": {
+            "artist": "Polygon Window",
+            "ratio": 9,
+            "title": "My Teapot",
+            "trackid": "5SmpkDVjiG2gvOvrgM6Ecv"
+        },
+        "11": {
+            "artist": "Autechre",
+            "ratio": 9,
+            "title": "C/Pach",
+            "trackid": "49ucpPYrxG9yuUUoaahs3C"
+        },
+        "12": {
+            "artist": "Seafret",
+            "ratio": 3,
+            "title": "Loving You",
+            "trackid": "6jsDhixAjBtkNcv9KFYaYl"
+        },
+        "13": {
+            "artist": "You'll Never Get to Heaven",
+            "ratio": 9,
+            "title": "Setting Sun",
+            "trackid": "2D1rYPinUnikGU9xNWylnN"
+        },
+        "14": {
+            "artist": "Pascal Comelade",
+            "ratio": 9,
+            "title": "Fragments (extraits)",
+            "trackid": "6E8X8LHkhRGhXDBRpKRgBm"
+        }
+    },
     "wave-form-13th-may-2023": {
         "00": {
             "artist": "",
@@ -1937,6 +2029,80 @@
             "ratio": 4,
             "title": "Contemplation",
             "trackid": "7IYXZHYRWyhaKwoZGHckkM"
+        }
+    },
+    "wave-form-7th-february-2026": {
+        "00": {
+            "artist": "Craven Faults",
+            "ratio": 9,
+            "title": "Yard Loup",
+            "trackid": "2GF3PTAFQOW4C3gpaxVQkp"
+        },
+        "01": {
+            "artist": "Lisa Bella Donna",
+            "ratio": 9,
+            "title": "Conclusions",
+            "trackid": "7vEMcnpdTDiK6e961Uhzij"
+        },
+        "02": {
+            "artist": "Ellen Arkbro",
+            "ratio": 9,
+            "title": "Nightclouds",
+            "trackid": "4intG7Lm3ZJtOxzgmgEywn"
+        },
+        "03": {
+            "artist": "Depeche Mode",
+            "ratio": 9,
+            "title": "Enjoy the Silence",
+            "trackid": "0yp3TvJNlG50Q4tAHWNCRm"
+        },
+        "04": {
+            "artist": "Sunstroke",
+            "ratio": 9,
+            "title": "And Then She Touched Me",
+            "trackid": "6WmkQ2pgrWCq2SLUaHg6Mq"
+        },
+        "05": {
+            "artist": "Tuxedomoon",
+            "ratio": 9,
+            "title": "Again",
+            "trackid": "2RSgQXxxcwEcJhvUZKprS3"
+        },
+        "06": {
+            "artist": "Wladimir Schall",
+            "ratio": 9,
+            "title": "Dix",
+            "trackid": "0RwJkzzmcDB2vOS2WhOOWW"
+        },
+        "07": {
+            "artist": "Akira Yamaoka",
+            "ratio": 9,
+            "title": "A World Of Madness",
+            "trackid": "2GMeVXL0JQFLmAIJJa8K2n"
+        },
+        "08": {
+            "artist": "Aoki Takamasa",
+            "ratio": 9,
+            "title": "cover your ears",
+            "trackid": "2RPZ16S0w7KGBN6O3f4x0o"
+        },
+        "09": {
+            "artist": "Aerial M",
+            "ratio": 9,
+            "title": "Skrag Theme",
+            "trackid": "7MxQbAfRjMatCxT1MDRWJ7"
+        },
+        "10": {
+            "artist": "Gilbert Bécaud",
+            "ratio": 0,
+            "title": "Nathalie - Remasterisé en 2011",
+            "trackid": "1ul9ZfkWWeAjA3HiRwK4Op"
+        },
+        "11": {
+            "artist": "Dialect",
+            "ratio": 9,
+            "title": "Eusa",
+            "trackid": "1KNT1mHzIneT58i19kek7W"
         }
     },
     "wave-form-8th-march-2025": {

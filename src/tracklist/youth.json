@@ -1,4 +1,54 @@
 {
+    "youth-10th-january-2026": {
+        "00": {
+            "artist": "Angel Corpse",
+            "title": "STO_TIKTOK_DE_BAINW_DE_XAZEUW"
+        },
+        "01": {
+            "artist": "The Clearing",
+            "title": "The Tunnels"
+        },
+        "02": {
+            "artist": "Ssiege",
+            "title": "Unreleased"
+        },
+        "03": {
+            "artist": "Oil XL",
+            "title": "Liquid Love"
+        },
+        "04": {
+            "artist": "Drexciya",
+            "title": "Bang-Bang"
+        },
+        "05": {
+            "artist": "Taylor E Burch",
+            "title": "Fuck You Up"
+        },
+        "06": {
+            "artist": "ND Baumbecker",
+            "title": "Giant Hug"
+        },
+        "07": {
+            "artist": "Toma Kami & Sene",
+            "title": "Tons Sem Conrad Schnitzler"
+        },
+        "08": {
+            "artist": "Sophia Loizou",
+            "title": "Glimpses Of Death"
+        },
+        "09": {
+            "artist": "A. Alessandroni",
+            "title": "Stozzatrice"
+        },
+        "10": {
+            "artist": "Loftsoul Ft DJ Spinna",
+            "title": "Dear Friend"
+        },
+        "11": {
+            "artist": "Sockethead",
+            "title": "At The Beginning"
+        }
+    },
     "youth-11th-january-2025": {
         "00": {
             "artist": "Snd",
@@ -45,6 +95,7 @@
             "title": "Peace (Closing Theme)"
         }
     },
+    "youth-13th-december-2025": {},
     "youth-14th-december-2024": {},
     "youth-16th-november-2024": {
         "00": {
@@ -150,7 +201,111 @@
             "title": "Equus"
         }
     },
+    "youth-23rd-august-2025": {
+        "00": {
+            "artist": "Aztech",
+            "title": "Sound Of Light"
+        },
+        "01": {
+            "artist": "Drax",
+            "title": "Parnophelia"
+        },
+        "02": {
+            "artist": "Perception",
+            "title": "Feed The Feeling (Pal Joey Remix)"
+        },
+        "03": {
+            "artist": "Hardrive",
+            "title": "Maurice's Vibe"
+        },
+        "04": {
+            "artist": "Night Flowers",
+            "title": "I Know (Night Flower's Instrumental)"
+        },
+        "05": {
+            "artist": "Night Flowers",
+            "title": "I Know (Club Mix)"
+        },
+        "06": {
+            "artist": "Instant Exposure",
+            "title": "I Need A Little More (Club Mix)"
+        },
+        "07": {
+            "artist": "DJ’s Rule",
+            "title": "That’s It"
+        },
+        "08": {
+            "artist": "Nightmare On Wax",
+            "title": "Dextrous"
+        },
+        "09": {
+            "artist": "Orr-Some",
+            "title": "We Can Make It (Orchestral Mix)"
+        },
+        "10": {
+            "artist": "Piece Of Mind",
+            "title": "Purple"
+        },
+        "11": {
+            "artist": "Mark Rogers",
+            "title": "Twilight For Some (Hurley's Twilight Mix)"
+        }
+    },
     "youth-3rd-may-2025": {},
+    "youth-7th-february-2026": {
+        "00": {
+            "artist": "Cabaret Voltaire",
+            "title": "Exterminating Angel. Intro"
+        },
+        "01": {
+            "artist": "Scorn",
+            "title": "Light Trap"
+        },
+        "02": {
+            "artist": "Fred P",
+            "title": "Changing The World"
+        },
+        "03": {
+            "artist": "As One",
+            "title": "Your Hand In My Mind"
+        },
+        "04": {
+            "artist": "Rima",
+            "title": "So Sweet"
+        },
+        "05": {
+            "artist": "Terrence Parker",
+            "title": "A Song For Tatiana"
+        },
+        "06": {
+            "artist": "The Clearing",
+            "title": "Tunnels"
+        },
+        "07": {
+            "artist": "Coil Vs ELpH",
+            "title": "Static Electrician"
+        },
+        "08": {
+            "artist": "FUMU",
+            "title": "Discovery"
+        },
+        "09": {
+            "artist": "Dave Saved",
+            "title": "Voices"
+        },
+        "10": {
+            "artist": "Eszaid",
+            "title": "Whatever Happened To The Knockers"
+        },
+        "11": {
+            "artist": "Move D",
+            "title": "Drone (2023 Version)"
+        },
+        "12": {
+            "artist": "Cabaret Voltaire",
+            "title": "Project80"
+        }
+    },
     "youth-8th-february-2025": {
         "00": {
             "artist": "Ekolplekz",

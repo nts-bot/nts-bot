@@ -1,36 +1,52 @@
 {
     "description": "Andrew Lyster's YOUTH takes over the NTS airwaves live from MO6B in Stockport once a month.",
     "title": "YOUTH",
-    "youth-11th-january-2025": {
-        "date": "11.01.25",
+    "youth-10th-january-2026": {
+        "date": "10 Jan 2026",
         "title": "YOUTH"
     },
+    "youth-11th-january-2025": {
+        "date": "11 Jan 2025",
+        "title": "YOUTH"
+    },
+    "youth-13th-december-2025": {
+        "date": "13 Dec 2025",
+        "title": "YOUTH w/ LYSTER & EVEN TUELL"
+    },
     "youth-14th-december-2024": {
-        "date": "14.12.24",
+        "date": "14 Dec 2024",
         "title": "YOUTH"
     },
     "youth-16th-november-2024": {
-        "date": "16.11.24",
+        "date": "16 Nov 2024",
         "title": "YOUTH"
     },
     "youth-21st-september-2024": {
-        "date": "21.09.24",
+        "date": "21 Sep 2024",
         "title": "YOUTH"
     },
+    "youth-23rd-august-2025": {
+        "date": "23 Aug 2025",
+        "title": "YOUTH w/ Duster Valentine"
+    },
     "youth-3rd-may-2025": {
-        "date": "03.05.25",
+        "date": "03 May 2025",
+        "title": "YOUTH"
+    },
+    "youth-7th-february-2026": {
+        "date": "07 Feb 2026",
         "title": "YOUTH"
     },
     "youth-8th-february-2025": {
-        "date": "08.02.25",
+        "date": "08 Feb 2025",
         "title": "YOUTH"
     },
     "youth-8th-march-2025": {
-        "date": "08.03.25",
+        "date": "08 Mar 2025",
         "title": "YOUTH w/ kd22lr"
     },
     "youth-w-lyster-24th-august-2024": {
-        "date": "24.08.24",
+        "date": "24 Aug 2024",
         "title": "YOUTH w/ Lyster"
     }
 }

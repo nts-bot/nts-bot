@@ -167,6 +167,108 @@
             "title": "Brooklyn (Uptown Connection)"
         }
     },
+    "billy-goods-10th-february-2026": {
+        "00": {
+            "artist": "Azymuth",
+            "title": "Benzino"
+        },
+        "01": {
+            "artist": "Inside You",
+            "title": "Eddie Henderson"
+        },
+        "02": {
+            "artist": "Mobb Deep",
+            "title": "The Realest"
+        },
+        "03": {
+            "artist": "Erykah Badu",
+            "title": "Be With You"
+        },
+        "04": {
+            "artist": "Les Nubians",
+            "title": "Tabou (Roots Remix)"
+        },
+        "05": {
+            "artist": "Ella Mai",
+            "title": "Boo’d Up"
+        },
+        "06": {
+            "artist": "The System",
+            "title": "Find It In Your Eyes"
+        },
+        "07": {
+            "artist": "Junior",
+            "title": "Too Late"
+        },
+        "08": {
+            "artist": "Jazzbois",
+            "title": "Meduza"
+        },
+        "09": {
+            "artist": "Raw Silk",
+            "title": "Do It To The Music"
+        },
+        "10": {
+            "artist": "Tornado Wallace",
+            "title": "Thinking Allowed"
+        },
+        "11": {
+            "artist": "Pacific Collesium",
+            "title": "Ocean City"
+        },
+        "12": {
+            "artist": "Kareem Ali",
+            "title": "Godson Of House"
+        },
+        "13": {
+            "artist": "Theo Parrish",
+            "title": "Lost Anglel"
+        },
+        "14": {
+            "artist": "Tom Ellis",
+            "title": "A Sense Of Something Else"
+        },
+        "15": {
+            "artist": "Bonkers",
+            "title": "Pilsplaat"
+        },
+        "16": {
+            "artist": "Roy Ayers",
+            "title": "Ooh"
+        },
+        "17": {
+            "artist": "Teruo Nakamura",
+            "title": "Morning Mist / Steppin' With Lord"
+        },
+        "18": {
+            "artist": "Fujimaru Band",
+            "title": "Paper Machine"
+        },
+        "19": {
+            "artist": "Bobby Mardis",
+            "title": "Keep On"
+        },
+        "20": {
+            "artist": "GrapeSodaBoi",
+            "title": "Gran Turismo"
+        },
+        "21": {
+            "artist": "Theo Parrish",
+            "title": "Dreamer's Blue's (Acid Guitar Version)"
+        },
+        "22": {
+            "artist": "Young Gunz",
+            "title": "No Better Love"
+        },
+        "23": {
+            "artist": "Leon Thomas",
+            "title": "MUTT"
+        },
+        "24": {
+            "artist": "Sam Gendel, ",
+            "title": "Boa"
+        }
+    },
     "billy-goods-10th-january-2025": {
         "00": {
             "artist": "Brass Construction",
@@ -2928,6 +3030,140 @@
         "26": {
             "artist": "BARINGTON LEVY",
             "title": "THE VIBES IS RIGHT"
+        }
+    },
+    "billy-goods-7th-february-2026": {
+        "00": {
+            "artist": "General Lee & Spacy Army Band",
+            "title": "We Did It Baby (Long)"
+        },
+        "01": {
+            "artist": "Danger Mouse & Black Thought",
+            "title": "Belize (Feat. MF DOOM)"
+        },
+        "02": {
+            "artist": "Roc Marciano",
+            "title": "Whateva Whateva"
+        },
+        "03": {
+            "artist": "Roc Marciano",
+            "title": "Raw Deal"
+        },
+        "04": {
+            "artist": "Celline Desberg",
+            "title": "Selenge"
+        },
+        "05": {
+            "artist": "Toto",
+            "title": "Georgy Porgy"
+        },
+        "06": {
+            "artist": "Grant Green",
+            "title": "Maybe Tomorrow"
+        },
+        "07": {
+            "artist": "Dee Edwards",
+            "title": "Why Can't There Be Love"
+        },
+        "08": {
+            "artist": "Orlando Johnson & Trance",
+            "title": "Chocolate City"
+        },
+        "09": {
+            "artist": "Cheryll Lynn",
+            "title": "Encore (Extended Version)"
+        },
+        "10": {
+            "artist": "mishoangelo",
+            "title": "Feel Good"
+        },
+        "11": {
+            "artist": "Vanessa Doll & V9P",
+            "title": "999"
+        },
+        "12": {
+            "artist": "M.C. Frosty And Lovin C",
+            "title": "Radio Activity Rapp"
+        },
+        "13": {
+            "artist": "The Creations",
+            "title": "Kinky Girl (Vocal)"
+        },
+        "14": {
+            "artist": "Jerome Sydenham And Kerri Chandler",
+            "title": "Rising The Sun"
+        },
+        "15": {
+            "artist": "Blaze",
+            "title": "Lovelee Dae (Radio Edit)"
+        },
+        "16": {
+            "artist": "J.Cognitto",
+            "title": "Night & Day"
+        },
+        "17": {
+            "artist": "J. Cognitto",
+            "title": "Bring You Back"
+        },
+        "18": {
+            "artist": "SLXMY",
+            "title": "Hb Audi Team"
+        },
+        "19": {
+            "artist": "Valtis",
+            "title": "Snow Rally"
+        },
+        "20": {
+            "artist": "Max Lessig",
+            "title": "Thinkin'"
+        },
+        "21": {
+            "artist": "Pépé Bradock",
+            "title": "Life"
+        },
+        "22": {
+            "artist": "Kerri Chandler",
+            "title": "Stratosphere"
+        },
+        "23": {
+            "artist": "David Jensen",
+            "title": "Can You Feel My Heart Beat"
+        },
+        "24": {
+            "artist": "David Jensen",
+            "title": "Funky Beat"
+        },
+        "25": {
+            "artist": "Begin",
+            "title": "Hot Fruit"
+        },
+        "26": {
+            "artist": "Radiance, ",
+            "title": "You're My Number 1"
+        },
+        "27": {
+            "artist": "K15, ",
+            "title": "Dry Mango Pt2 "
+        },
+        "28": {
+            "artist": "AMP DOGG KNIGHTS",
+            "title": "I'm Doing Fine (Moodymann Reprise)"
+        },
+        "29": {
+            "artist": "Weeks & Company",
+            "title": "Go With The Flow"
+        },
+        "30": {
+            "artist": "Loose Change",
+            "title": "Straight From The Heart"
+        },
+        "31": {
+            "artist": "Aubrey",
+            "title": "Dot 2 (Ozka Remix)"
+        },
+        "32": {
+            "artist": "Deep Choice",
+            "title": "Fix Of 4:38pm (Original Mix)"
         }
     },
     "billy-goods-9th-march-2024": {

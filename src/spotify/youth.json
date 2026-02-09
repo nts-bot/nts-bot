@@ -1,4 +1,79 @@
 {
+    "youth-10th-january-2026": {
+        "00": {
+            "artist": "Zak Conner",
+            "ratio": 4,
+            "title": "Angel Of Darkness - HardTekk",
+            "trackid": "2gXzvuwlNmxqs1yOjovBXd"
+        },
+        "01": {
+            "artist": "Sunday,June",
+            "ratio": 4,
+            "title": "Tunnel Vision",
+            "trackid": "2R7Wumo88hIIQlVMsoZAsR"
+        },
+        "02": {
+            "artist": "Aymo",
+            "ratio": -1,
+            "title": "Shiggie Wiggie",
+            "trackid": "2g3YnCLWAo8U5hAofuWCXz",
+            "uri": ""
+        },
+        "03": {
+            "artist": "Martin Books",
+            "ratio": 3,
+            "title": "Liquid",
+            "trackid": "31cDF4BacE5I2aGQHV7uJs"
+        },
+        "04": {
+            "artist": "Drexciya",
+            "ratio": 9,
+            "title": "Bang-Bang",
+            "trackid": "7887Ib2JqOToK0H7Vbj9U7"
+        },
+        "05": {
+            "artist": "Taylor E. Burch",
+            "ratio": 9,
+            "title": "Fuck You Up",
+            "trackid": "5VT1bYy1S3GAtIF61mxviY"
+        },
+        "06": {
+            "artist": "Nils Wülker",
+            "ratio": 4,
+            "title": "It's Alright",
+            "trackid": "0ZTtlX60nlwD0PPyjDjoN7"
+        },
+        "07": {
+            "artist": "Mrs. Nina Chartier",
+            "ratio": 4,
+            "title": "Seele",
+            "trackid": "1HUGSg6j87a43IuoJRhxcj"
+        },
+        "08": {
+            "artist": "Sophia Loizou",
+            "ratio": 9,
+            "title": "Glimpses of Death",
+            "trackid": "1tM2ZySn5kqdpqQH0HPPj3"
+        },
+        "09": {
+            "artist": "Alessandro Cortini",
+            "ratio": 5,
+            "title": "Come Prima",
+            "trackid": "3ufBy6taAXx6iiXxt2VaZO"
+        },
+        "10": {
+            "artist": "Loftsoul",
+            "ratio": 0,
+            "title": "Dear Friend - Roe Main Mix",
+            "trackid": "19ZKUUbCqONNQH8SZNOEcR"
+        },
+        "11": {
+            "artist": "Natasha Bedingfield",
+            "ratio": 3,
+            "title": "Unwritten",
+            "trackid": "3U5JVgI2x4rDyHGObzJfNf"
+        }
+    },
     "youth-11th-january-2025": {
         "00": {
             "artist": "SND",
@@ -222,6 +297,160 @@
             "ratio": 5,
             "title": "Weinbrand",
             "trackid": "50Ap2wslYhEhIdoAp6jwQz"
+        }
+    },
+    "youth-23rd-august-2025": {
+        "00": {
+            "artist": "Aztech",
+            "ratio": 9,
+            "title": "Sound Of Light",
+            "trackid": "278vME77YkokMon5PrFqlx"
+        },
+        "01": {
+            "artist": "Drax",
+            "ratio": 9,
+            "title": "Parnophelia (Thomas P. Heckmann aka Drax)",
+            "trackid": "7wv7xSTZSuD98iimSd4QsY"
+        },
+        "02": {
+            "artist": "Juan Magán",
+            "ratio": 0,
+            "title": "Baila Conmigo - Remix",
+            "trackid": "0A9FQfIrY31cLU05jvSBko"
+        },
+        "03": {
+            "artist": "Hardrive",
+            "ratio": 9,
+            "title": "Maurice's Vibe",
+            "trackid": "0d74VqJ1FZa60i5ueGhS2m"
+        },
+        "04": {
+            "artist": "Night Flowers",
+            "ratio": 9,
+            "title": "I Know - Night Flower&apos;S Instrumental",
+            "trackid": "4BISQGYc162RcYgPQKWEPz"
+        },
+        "05": {
+            "artist": "Night Flowers",
+            "ratio": 9,
+            "title": "I Know (Club Mix)",
+            "trackid": "6I3SXaqTpEygnKQuMiolwt"
+        },
+        "06": {
+            "artist": "Instant Exposure",
+            "ratio": 9,
+            "title": "I Need a Little More - Victor Simonelli Club Mix",
+            "trackid": "4wpjLCVQmjzCA91qLGaWUG"
+        },
+        "07": {
+            "artist": "DJ's Rule",
+            "ratio": 9,
+            "title": "That's It",
+            "trackid": "3GzOTWuOl6uzYDNksHUuvZ"
+        },
+        "08": {
+            "artist": "Nightmares On Wax",
+            "ratio": 9,
+            "title": "Dextrous - JD Twitch Optimo Remix",
+            "trackid": "0kPCN8dRehOXFBqcL2ZKtP"
+        },
+        "09": {
+            "artist": "Santana",
+            "ratio": 3,
+            "title": "Milagro",
+            "trackid": "6aFL5Rut12xos9WvVBur2W"
+        },
+        "10": {
+            "artist": "David Puentez",
+            "ratio": 3,
+            "title": "Peace In The Pieces",
+            "trackid": "3hVv8A5MRoJ3KSYgCyhazY"
+        },
+        "11": {
+            "artist": "Mark Rogers",
+            "ratio": 9,
+            "title": "Twilight For Some - Hurley's Twilight Mix",
+            "trackid": "0gxHiGpvNDcMmw2yfNVrNT"
+        }
+    },
+    "youth-7th-february-2026": {
+        "00": {
+            "artist": "Cabaret Voltaire",
+            "ratio": 9,
+            "title": "Exterminating Angel",
+            "trackid": "7vmQ6O7K8RjnCq5ku3qPKw"
+        },
+        "01": {
+            "artist": "Scorn",
+            "ratio": 9,
+            "title": "Light Trap",
+            "trackid": "2C0ZToZpv6wE9upeSLw5L0"
+        },
+        "02": {
+            "artist": "Fred P",
+            "ratio": 9,
+            "title": "Changing the World Around Us",
+            "trackid": "5f0zqo95HGJEycF431Mtgj"
+        },
+        "03": {
+            "artist": "As One",
+            "ratio": 9,
+            "title": "Your Hand in My Mind",
+            "trackid": "3pvTtvCsXPLfeFtJtbX07n"
+        },
+        "04": {
+            "artist": "RIMA",
+            "ratio": 9,
+            "title": "So Sweet",
+            "trackid": "7E52SKL5sAt28Jh1m79iQR"
+        },
+        "05": {
+            "artist": "Reuel-Azriel",
+            "ratio": 3,
+            "title": "I Lost My Virginity At Nikki Beach",
+            "trackid": "3bJelNfZahZZhdqQfajFpj"
+        },
+        "06": {
+            "artist": "Minami Deutsch",
+            "ratio": 4,
+            "title": "Tunnel",
+            "trackid": "2UDfFY1kuDF9h0rw1PhohE"
+        },
+        "07": {
+            "artist": "Opal",
+            "ratio": 4,
+            "title": "Astral Collision",
+            "trackid": "5DjGJ7TUeJt29MoZ94xaxa"
+        },
+        "08": {
+            "artist": "Fuffifufzich",
+            "ratio": 3,
+            "title": "Feel it",
+            "trackid": "15V6a172Lx1oPZdBHoRjvx"
+        },
+        "09": {
+            "artist": "Dave Saved",
+            "ratio": 9,
+            "title": "Voices",
+            "trackid": "3FxiYza4wsT9GcZyfu1Hpy"
+        },
+        "10": {
+            "artist": "Eszaid",
+            "ratio": 9,
+            "title": "Whatever Happened To The Knockers",
+            "trackid": "09wb5letbSvi1PGpuRE6Ns"
+        },
+        "11": {
+            "artist": "Kanasu Barz",
+            "ratio": 0,
+            "title": "God-Hop",
+            "trackid": "6N3AFlcIHNcSfzjitZzofR"
+        },
+        "12": {
+            "artist": "Cabaret Voltaire",
+            "ratio": 9,
+            "title": "Project 80",
+            "trackid": "3f5S2Mk2SAru5oguyUWCkJ"
         }
     },
     "youth-8th-february-2025": {

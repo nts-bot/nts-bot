@@ -123,6 +123,80 @@
             "trackid": "3fOc1aoChQEexUgUlS8EWq"
         }
     },
+    "ideala-11th-january-2026": {
+        "00": {
+            "artist": "Caro Winter",
+            "ratio": 4,
+            "title": "Gardinen",
+            "trackid": "0K4DzD0ekLf4qz7rrEiBqz"
+        },
+        "01": {
+            "artist": "Lucas Santtana",
+            "ratio": 3,
+            "title": "Modo avião (Full Story) - English version",
+            "trackid": "7IOXAShmyo8nQIY7xx4S6H"
+        },
+        "02": {
+            "artist": "Masayoshi Takanaka",
+            "ratio": 4,
+            "title": "蜃気楼の島へ",
+            "trackid": "7nB00pmlT3Dc6Vd536ha3l"
+        },
+        "03": {
+            "artist": "Rust and Lust",
+            "ratio": 4,
+            "title": "Bound",
+            "trackid": "5ksKtSMKy7rfdEInP88eK8"
+        },
+        "04": {
+            "artist": "Yumi Arai",
+            "ratio": 4,
+            "title": "あの日にかえりたい",
+            "trackid": "01N5MWGnmI0Zjd0D0vXciF"
+        },
+        "05": {
+            "artist": "Taeko Onuki",
+            "ratio": 9,
+            "title": "Labyrinth",
+            "trackid": "2faT1J5cACKzjPWhacgrbL"
+        },
+        "06": {
+            "artist": "Shion Miyawaki",
+            "ratio": 3,
+            "title": "小さな手",
+            "trackid": "3dBzUDwSjCt4E0vCaARnpJ"
+        },
+        "07": {
+            "artist": "Kasta Mad",
+            "ratio": 0,
+            "title": "Hooligans Y Drxgvs",
+            "trackid": "0auQxtFACPiMvgQi79LhVa"
+        },
+        "08": {
+            "artist": "dip in the pool",
+            "ratio": 9,
+            "title": "A seeker",
+            "trackid": "3WYNsl0pOPFblFiDBq3vX4"
+        },
+        "09": {
+            "artist": "POiSON GiRL FRiEND",
+            "ratio": 9,
+            "title": "FACT 2",
+            "trackid": "6TsPjwYTD7nDTvpIQdi6qc"
+        },
+        "10": {
+            "artist": "Nav Katze",
+            "ratio": 9,
+            "title": "Heaven Electric",
+            "trackid": "2dz9uAEwUL0BgHsEJFkzsS"
+        },
+        "11": {
+            "artist": "Helios",
+            "ratio": 4,
+            "title": "Emancipation",
+            "trackid": "6VjnWOlVHfAnCrQ7WuPO8U"
+        }
+    },
     "ideala-14th-december-2025": {
         "00": {
             "artist": "Kenji Omura",
@@ -2595,6 +2669,62 @@
             "ratio": 0,
             "title": "Shanti - Goldcap Remix",
             "trackid": "2kQmAiPgeF0Nhlzt0U0MNU"
+        }
+    },
+    "ideala-8th-february-2026": {
+        "00": {
+            "artist": "Flowchart",
+            "ratio": 9,
+            "title": "El Glacier-O",
+            "trackid": "68w5UG9ZdENsDNVrcSl2Jo"
+        },
+        "01": {
+            "artist": "Half Past Blue",
+            "ratio": 5,
+            "title": "Our View",
+            "trackid": "5bBZAhd50H0QvFQSPZmjHM"
+        },
+        "02": {
+            "artist": "Bark Psychosis",
+            "ratio": 9,
+            "title": "400 Winters",
+            "trackid": "6UIr8rgGLEIRhtsCjnoSmm"
+        },
+        "03": {
+            "artist": "Pram",
+            "ratio": 9,
+            "title": "Sea Swells and Distant Squalls",
+            "trackid": "6xDmY62Qilc1bWwiFmQuoY"
+        },
+        "04": {
+            "artist": "Cosmic Invention",
+            "ratio": 9,
+            "title": "Lao Shorai",
+            "trackid": "3gXxw1nkMxG36rwPPiOAsd"
+        },
+        "05": {
+            "artist": "胡蜜丹",
+            "ratio": 3,
+            "title": "鸟儿对花说 - DJ何鹏版",
+            "trackid": "2s8eVylTYNDKC3RKF8lEdz"
+        },
+        "06": {
+            "artist": "Synectics",
+            "ratio": 9,
+            "title": "Free Sphere",
+            "trackid": "5HV4X1P6lI4VjrS24GStzm"
+        },
+        "07": {
+            "artist": "Deep Nalström",
+            "ratio": 9,
+            "title": "The Dream People",
+            "trackid": "1uv9EyWJUjRNHsA5YDvkgx"
+        },
+        "08": {
+            "artist": "Michal Turtle",
+            "ratio": 9,
+            "title": "Astral Decoy",
+            "trackid": "2RVrr45hUBkWxiyB18zYPS"
         }
     },
     "ideala-8th-january-2023": {
