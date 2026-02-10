@@ -994,6 +994,250 @@
             "s1": ""
         }
     },
+    "sui-zhen-10th-february-2026": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Wata Igarashi",
+                    "title": "Cross Passage",
+                    "uri": "1pgOxuh7detTTpsURRAHjX"
+                },
+                {
+                    "artist": "Ami Kusakari",
+                    "title": "Under the soil",
+                    "uri": "3jFDYpZ8bW1ddacgyIPL17"
+                },
+                {
+                    "artist": "Roundabout",
+                    "title": "TORINO 06",
+                    "uri": "3SuIrkmvgzEX0lkeh0WBf4"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Evelyne / Masao",
+                    "title": "Watashino shonen",
+                    "uri": "0EpGaDb5kuEj5A16MjlJf1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Evelyne / Masao",
+                    "title": "Watashino shonen",
+                    "uri": "0EpGaDb5kuEj5A16MjlJf1"
+                },
+                {
+                    "artist": "HoneyWorks",
+                    "title": "Watashiwa Watashino Kotoga Suki",
+                    "uri": "4PELqe4ReqlvszsnpsEESd"
+                },
+                {
+                    "artist": "EveryLunaEver",
+                    "title": "Wartesong",
+                    "uri": "3a0BEkY3ozpuoyBpFqeVcD"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Aunt Sally",
+                    "title": "Essay",
+                    "uri": "4VJH6zjmOu6TS6097ulm8c"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aunt Sally",
+                    "title": "Essay",
+                    "uri": "4VJH6zjmOu6TS6097ulm8c"
+                },
+                {
+                    "artist": "Little Richard",
+                    "title": "Long Tall Sally (The Thing)",
+                    "uri": "507IFqPuG8mBQoKebfGG9t"
+                },
+                {
+                    "artist": "Bob Dylan",
+                    "title": "Sugar Baby",
+                    "uri": "43DqZGc0iavh3b6VEf8kWb"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Swamp Children",
+                    "title": "Call Me Honey",
+                    "uri": "37vv2Tyec1wpEh7vxrYGLH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Swamp Children",
+                    "title": "Call Me Honey",
+                    "uri": "37vv2Tyec1wpEh7vxrYGLH"
+                },
+                {
+                    "artist": "Melanie Martinez",
+                    "title": "Teacher's Pet",
+                    "uri": "5o5akY9xnEk6lpMkD8RwD9"
+                },
+                {
+                    "artist": "Tems",
+                    "title": "Love Me JeJe",
+                    "uri": "1eDI5oU04SLsXl0TfxfwYf"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Planetary Peace",
+                    "title": "Song Without Words",
+                    "uri": "48eIzGKIBI6WD8Hqor0YZN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Planetary Peace",
+                    "title": "Song Without Words",
+                    "uri": "48eIzGKIBI6WD8Hqor0YZN"
+                },
+                {
+                    "artist": "Planetae",
+                    "title": "Inner Garden",
+                    "uri": "3bmYF4lJEOV8QHZziBp5Hd"
+                },
+                {
+                    "artist": "Al Jolson",
+                    "title": "Used to You",
+                    "uri": "3nH4mw0hYCHVaoOUlLTRGj"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Hamid Al Shaeri",
+                    "title": "Ya Saheb",
+                    "uri": "7GLDzPv4DRT87ye6Q7mXgb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hamid Al Shaeri",
+                    "title": "Ya Saheb",
+                    "uri": "7GLDzPv4DRT87ye6Q7mXgb"
+                },
+                {
+                    "artist": "Münib Engin Noyan",
+                    "title": "Doksan Dokuz Esma Doksan Dokuz Dua 2",
+                    "uri": "0YeEagyQchNrklWgujmWVj"
+                },
+                {
+                    "artist": "Jamahiri",
+                    "title": "Llamado de la Llama Verde",
+                    "uri": "36iYyDXYcbx4UwWjwplL6T"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Eiko Ishibashi",
+                    "title": "Mona Lisa",
+                    "uri": "31jMI5azc8cREh6vCQuV9Q"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eiko Ishibashi",
+                    "title": "Mona Lisa",
+                    "uri": "31jMI5azc8cREh6vCQuV9Q"
+                },
+                {
+                    "artist": "Charlie Jeer",
+                    "title": "Mona Lisa",
+                    "uri": "1j5oRFd4YUupzF4dFqaINX"
+                },
+                {
+                    "artist": "Molly Nilsson",
+                    "title": "Mona Lisa's Smile",
+                    "uri": "4PJyhaPmELstvQHlupBC7x"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "King Krule",
+                    "title": "That Is My Life, That Is Yours",
+                    "uri": "4Nr7KnuPcMA91IrevTYWwC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "King Krule",
+                    "title": "That Is My Life, That Is Yours",
+                    "uri": "4Nr7KnuPcMA91IrevTYWwC"
+                },
+                {
+                    "artist": "King Krule",
+                    "title": "Easy Easy",
+                    "uri": "7miPR7yflY4kvhVBfEyTzp"
+                },
+                {
+                    "artist": "Kanye West",
+                    "title": "Can't Tell Me Nothing",
+                    "uri": "6blB3TgR6VY9fo3wdfKo2h"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Linda Eder",
+                    "title": "Big Time",
+                    "uri": "64L9jlYeCVEojwVRpTaxcv"
+                },
+                {
+                    "artist": "Grateful Dead",
+                    "title": "Althea - 2013 Remaster",
+                    "uri": "7M7AwtGvWdMYudqx5Iuh1m"
+                },
+                {
+                    "artist": "Moses Yoofee Trio",
+                    "title": "WHIP.wav",
+                    "uri": "4yGpcIBYZ0KKVLwX789Xgb"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "ナナホシ(CV:若山詩音)",
+                    "title": "Tsubasa",
+                    "uri": "29fFAKTm2Bvw9KwyxGtYgV"
+                },
+                {
+                    "artist": "MastaMic",
+                    "title": "16 HK Rap Up (Full Version)",
+                    "uri": "0LBo0e4z3Xza9d7w0mm25g"
+                },
+                {
+                    "artist": "MastaMic",
+                    "title": "15 HK Rap Up (Full Version)",
+                    "uri": "3OGqRkC2fR7nUMkOVxLgBP"
+                }
+            ]
+        }
+    },
     "sui-zhen-10th-october-2022": {
         "00": {
             "s0": [
@@ -2399,6 +2643,327 @@
                     "artist": "Waypoint",
                     "title": "Stranded",
                     "uri": "6uHDma4i2O5yHv5lQeHOfm"
+                }
+            ]
+        }
+    },
+    "sui-zhen-13th-january-2026": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "The Last Poets",
+                    "title": "The Time Has Come",
+                    "uri": "0B1V0kHMjLYYIfbyWQYLSX"
+                },
+                {
+                    "artist": "The Last Poets",
+                    "title": "Time",
+                    "uri": "3J3499svxsznchqY9HQ4gv"
+                },
+                {
+                    "artist": "The Last Poets",
+                    "title": "In Time And Space",
+                    "uri": "03NSW58mZZBEP7H1VR2iV0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Last Poets",
+                    "title": "Time",
+                    "uri": "3J3499svxsznchqY9HQ4gv"
+                },
+                {
+                    "artist": "Re:um",
+                    "title": "Poets on the Pavement",
+                    "uri": "2QN5if7SNjfzuF2bq9JJmI"
+                },
+                {
+                    "artist": "Sufjan Stevens",
+                    "title": "Mystery of Love",
+                    "uri": "5GbVzc6Ex5LYlLJqzRQhuy"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Moin",
+                    "title": "Foot Wrong",
+                    "uri": "5UygAFhpUKHOuBDu3e1OvG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Moin",
+                    "title": "Foot Wrong",
+                    "uri": "5UygAFhpUKHOuBDu3e1OvG"
+                },
+                {
+                    "artist": "DJ Casper",
+                    "title": "Cha Cha Slide - Original Live Platinum Band Mix",
+                    "uri": "0RC2B9uIITHA0wtDFfQk3K"
+                },
+                {
+                    "artist": "Amber Prothero",
+                    "title": "A Good Thing",
+                    "uri": "00VCFDacjoJddcGrjJjieR"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Golden Teacher",
+                    "title": "Instigator - Dub",
+                    "uri": "3T35obBIEJqy2rbWgDuX4h"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Golden Teacher",
+                    "title": "Instigator - Dub",
+                    "uri": "3T35obBIEJqy2rbWgDuX4h"
+                },
+                {
+                    "artist": "Nadja Lind",
+                    "title": "Golden Teacher - Brickman Radio-Edit",
+                    "uri": "19bd80OgdydVf56qWmqgi3"
+                },
+                {
+                    "artist": "Golden Sands Of Ibiza",
+                    "title": "A Day Without You",
+                    "uri": "1Fi3ZtzkSaFq07s365glVP"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Becker & Mukai",
+                    "title": "Sunshine Demagogue",
+                    "uri": "5dQvnEGjBDd5eKjRdh8MVc"
+                },
+                {
+                    "artist": "Nosi",
+                    "title": "Sunshine",
+                    "uri": "2RLPBmnh9sT491fRiKuDdc"
+                },
+                {
+                    "artist": "A & C",
+                    "title": "Sunshine Dance",
+                    "uri": "52D3PnojEgC52Cvn2HK1MA"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Becker & Mukai",
+                    "title": "Dark Fields Of The Republic - Dreems Summer Shorts Version",
+                    "uri": "7oeTANF9PpFWg8rfLZUUDA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Becker & Mukai",
+                    "title": "Dark Fields Of The Republic - Dreems Summer Shorts Version",
+                    "uri": "7oeTANF9PpFWg8rfLZUUDA"
+                },
+                {
+                    "artist": "Dreams Ahead",
+                    "title": "Whispering Fields",
+                    "uri": "5i7ybGlmxSe6YpzRQgb74a"
+                },
+                {
+                    "artist": "Ebon Meadow",
+                    "title": "Dreamfields",
+                    "uri": "6JrcRaNQmyMrBPrtjypB9x"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "OKO DJ",
+                    "title": "La Colline au Ciel",
+                    "uri": "2yjTtpBZyJGj5lhgDTeOVg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "OKO DJ",
+                    "title": "La Colline au Ciel",
+                    "uri": "2yjTtpBZyJGj5lhgDTeOVg"
+                },
+                {
+                    "artist": "Ridan",
+                    "title": "L'agriculteur",
+                    "uri": "1RsHKuNzHd9QESqizN1DCO"
+                },
+                {
+                    "artist": "SCH",
+                    "title": "Train Mistral",
+                    "uri": "0HU5RMcc4JXix5c3BzBSXv"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Dry Cleaning",
+                    "title": "Hit My Head All Day",
+                    "uri": "0quJpknjZo8gMmwzMhiHb3"
+                },
+                {
+                    "artist": "Dry Cleaning",
+                    "title": "Hit My Head All Day",
+                    "uri": "0JIKmYZmtDKqXAU37ZqwbN"
+                },
+                {
+                    "artist": "Dry Cleaning",
+                    "title": "Hit My Head All Day",
+                    "uri": "7fd1ub9Emd3di2alSvtK56"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dry Cleaning",
+                    "title": "Hit My Head All Day",
+                    "uri": "0quJpknjZo8gMmwzMhiHb3"
+                },
+                {
+                    "artist": "Dry Cleaning",
+                    "title": "Hit My Head All Day",
+                    "uri": "0JIKmYZmtDKqXAU37ZqwbN"
+                },
+                {
+                    "artist": "Wiz Khalifa",
+                    "title": "See You Again (feat. Charlie Puth)",
+                    "uri": "4rN8kMN8XTBOmMc6Xucao1"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Douce Mirage",
+                    "title": "Falling - Radio Mix",
+                    "uri": "7tO4cpHLdCpbogpft8IHyT"
+                },
+                {
+                    "artist": "Havoc & Lawn",
+                    "title": "Hot Sensation - TR828",
+                    "uri": "4M9GTyol5L8KXj5Yl5E676"
+                },
+                {
+                    "artist": "Moment in Time",
+                    "title": "Are You Bad Or Not?",
+                    "uri": "4yhwd5qPo0KZfKjNPiQEWl"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Mohinder Kaur Bhamra",
+                    "title": "Mainu Apne Pyar Wich - Mystic Jungle Remix",
+                    "uri": "6b3ApbqeL8JDUelaPFJFfB"
+                },
+                {
+                    "artist": "Mohinder Kaur Bhamra",
+                    "title": "Mainu Apne Pyar Wich",
+                    "uri": "1OTKJ0SEkEXzX6RDGxwvM3"
+                },
+                {
+                    "artist": "Mohinder Kaur Bhamra",
+                    "title": "Mainu Apne Pyar Wich - Mystic Jungle Remix",
+                    "uri": "4PcWDLShwnnqfWbR9CAEiS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mohinder Kaur Bhamra",
+                    "title": "Mainu Apne Pyar Wich - Mystic Jungle Remix",
+                    "uri": "6b3ApbqeL8JDUelaPFJFfB"
+                },
+                {
+                    "artist": "Mohinder Kaur Bhamra",
+                    "title": "Mainu Apne Pyar Wich - Mystic Jungle Remix",
+                    "uri": "4PcWDLShwnnqfWbR9CAEiS"
+                },
+                {
+                    "artist": "Jazzy B",
+                    "title": "Mitran De Boot",
+                    "uri": "0XXzOZvIeHcJfFaqn9hRMZ"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Asha Puthli",
+                    "title": "Sound Of Silence",
+                    "uri": "5tFJjg91g9dI23TXOfSJp4"
+                },
+                {
+                    "artist": "Asha Puthli & The Surfers",
+                    "title": "Sound Of Silence",
+                    "uri": "6BiUMCSyVPmwgSgf5a1S6O"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Asha Puthli",
+                    "title": "Sound Of Silence",
+                    "uri": "5tFJjg91g9dI23TXOfSJp4"
+                },
+                {
+                    "artist": "Disturbed",
+                    "title": "The Sound of Silence - CYRIL Remix",
+                    "uri": "1LY3GhF0zxIVgbYEQjCbUO"
+                },
+                {
+                    "artist": "CYREES",
+                    "title": "The Sound of Silence",
+                    "uri": "5jtAqCY7l6AGTqAXnqpRr0"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Stevie Wonder",
+                    "title": "Come Back As A Flower",
+                    "uri": "0MFIPnbCCGAwWntsow7ijx"
+                },
+                {
+                    "artist": "Stevie Wonder",
+                    "title": "Come Back as a Flower",
+                    "uri": "0GtJeedqJ7dj7E2WFWDDr3"
+                },
+                {
+                    "artist": "Stevie Wonder",
+                    "title": "Come Back As A Flower",
+                    "uri": "5l7G9mm6zTyrACbHEXTQ8P"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Stevie Wonder",
+                    "title": "Come Back As A Flower",
+                    "uri": "0MFIPnbCCGAwWntsow7ijx"
+                },
+                {
+                    "artist": "Stevie Wonder",
+                    "title": "As",
+                    "uri": "13toFl1UwJPsRxDiD9jgtn"
+                },
+                {
+                    "artist": "Ellen McIlwaine",
+                    "title": "Ode To Billy Joe - Live At The Bitter End, New York City / 1972",
+                    "uri": "5xgWfy14Zlx6OHQUjj19uY"
                 }
             ]
         }
