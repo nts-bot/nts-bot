@@ -1,4 +1,632 @@
 {
+    "lyra-pramuk-10th-february-2026": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Jessika Kenney",
+                    "title": "No Sound",
+                    "uri": "6zG2fsGfwY6ptgvIQBB0uz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jessika Kenney",
+                    "title": "No Sound",
+                    "uri": "6zG2fsGfwY6ptgvIQBB0uz"
+                },
+                {
+                    "artist": "Atli Einarsdóttir",
+                    "title": "No Signal",
+                    "uri": "3QB28WJ9efFcgQktkPA7A0"
+                },
+                {
+                    "artist": "Boosie Badazz",
+                    "title": "One of Them Days Again",
+                    "uri": "2tCVQ8Ez3MSHMnLjmGlrgQ"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Mohammad Reza Mortazavi",
+                    "title": "Dornâ",
+                    "uri": "2zWLuhfNMH3BOi10LECc5S"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mohammad Reza Mortazavi",
+                    "title": "Dornâ",
+                    "uri": "2zWLuhfNMH3BOi10LECc5S"
+                },
+                {
+                    "artist": "Mohammad Reza Mortazavi",
+                    "title": "Zendegi",
+                    "uri": "6aCYcLhZN0q4xcz54plBwJ"
+                },
+                {
+                    "artist": "Morteza Pashaei",
+                    "title": "Nafas",
+                    "uri": "3zENHBlsKZ3u9gVygCXNjh"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Rob Winstone",
+                    "title": "are you looking for an exit?",
+                    "uri": "09sGkpFTmkLRNRapiok9ig"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rob Winstone",
+                    "title": "are you looking for an exit?",
+                    "uri": "09sGkpFTmkLRNRapiok9ig"
+                },
+                {
+                    "artist": "!!!",
+                    "title": "NRGQ",
+                    "uri": "73Jb0VXeyyzHhaPL2SiSJt"
+                },
+                {
+                    "artist": "Moment in Time",
+                    "title": "Are You Bad Or Not?",
+                    "uri": "4yhwd5qPo0KZfKjNPiQEWl"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Suleymer",
+                    "title": "Mystique",
+                    "uri": "05FUU44KN2c0MiqSzAvb1z"
+                },
+                {
+                    "artist": "Ahmed Ben Ali",
+                    "title": "Subhana",
+                    "uri": "2oJCdISw6kyHiPHo9koBRr"
+                },
+                {
+                    "artist": "Ahmed Spins",
+                    "title": "Sawa",
+                    "uri": "3eNQJg5bmvpBLlOW0LDqhE"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Pearl of Silence",
+                    "title": "Echoes of the Forest",
+                    "uri": "2YpHrjfivWor6k4gnsaGtY"
+                },
+                {
+                    "artist": "Corey Smith",
+                    "title": "Down to Earth",
+                    "uri": "5U0xGXWCkHwLWx2vMwcafF"
+                },
+                {
+                    "artist": "Tommy Kodel",
+                    "title": "Lift Me Up",
+                    "uri": "2Iek4d118diPmST8Zzio8L"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Ganavya",
+                    "title": "call her by her name, enheduanna",
+                    "uri": "2coNYhMLFGL1I17lhtbGW3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ganavya",
+                    "title": "call her by her name, enheduanna",
+                    "uri": "2coNYhMLFGL1I17lhtbGW3"
+                },
+                {
+                    "artist": "Florence + The Machine",
+                    "title": "Everybody Scream",
+                    "uri": "7tMF8Anyf7oIqQZSxE17do"
+                },
+                {
+                    "artist": "bomull",
+                    "title": "fauna",
+                    "uri": "6fUzyafo40rdtjpktpq3Wo"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mulatu Astatke",
+                    "title": "Yègellé Tezeta",
+                    "uri": "0fxjsll9jmmRgMFbwdp4Xg"
+                },
+                {
+                    "artist": "nullzwei",
+                    "title": "JESUS IN BERLIN",
+                    "uri": "1eBGNWrnfmSCHN4IfEUqUX"
+                },
+                {
+                    "artist": "Ms. Lauryn Hill",
+                    "title": "Forgive Them Father",
+                    "uri": "2RPhXg9D4JOkryUznL0aaB"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Brighde Chaimbeul",
+                    "title": "Duan",
+                    "uri": "6X6jHF0pcCFigLu2zXA3Dy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Brighde Chaimbeul",
+                    "title": "Duan",
+                    "uri": "6X6jHF0pcCFigLu2zXA3Dy"
+                },
+                {
+                    "artist": "Brighde Chaimbeul",
+                    "title": "Dùsgadh/Waking",
+                    "uri": "4teKM0rInDrVSQcJbcrQRe"
+                },
+                {
+                    "artist": "Celtic Woman",
+                    "title": "Dúlaman",
+                    "uri": "6s4tmVUNIhCFzwdikt4l5m"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Joy Guidry",
+                    "title": "You've Done What You Can",
+                    "uri": "0Tf1KFtP8zgdr1qG4Yzaa3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Joy Guidry",
+                    "title": "You've Done What You Can",
+                    "uri": "0Tf1KFtP8zgdr1qG4Yzaa3"
+                },
+                {
+                    "artist": "Madonna",
+                    "title": "Give It 2 Me",
+                    "uri": "6G7d2cbkZSaAOE0H6K1ohb"
+                },
+                {
+                    "artist": "Joyce Trio",
+                    "title": "You'll Be Here?",
+                    "uri": "6FYX8lUjyZwK4SOrspGKxD"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Anouar Brahem",
+                    "title": "Vague",
+                    "uri": "6t5hIcvL9y1YmpT5Svpg37"
+                },
+                {
+                    "artist": "Bernhard Meyer",
+                    "title": "Marrakesh Mode",
+                    "uri": "6mMq3u823GrLGC7IdToOot"
+                },
+                {
+                    "artist": "Nils Wülker",
+                    "title": "Second Nature",
+                    "uri": "3ZsP0BhWBSC8xp0IPgENRA"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "feeo",
+                    "title": "Night Forgives Those Black As Her",
+                    "uri": "7dNArmgpLLPA2vhXQy85sX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "feeo",
+                    "title": "Night Forgives Those Black As Her",
+                    "uri": "7dNArmgpLLPA2vhXQy85sX"
+                },
+                {
+                    "artist": "Shocking Blue",
+                    "title": "Venus",
+                    "uri": "5Zi5WxBEBRkucpP79iRjGR"
+                },
+                {
+                    "artist": "GIMS",
+                    "title": "Corazón",
+                    "uri": "4IbsPnTgv0ZwouN4COgDIM"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "James Holden",
+                    "title": "You Are Gods",
+                    "uri": "3JDDDU1lLw6kmg81WFhApn"
+                },
+                {
+                    "artist": "James Holden",
+                    "title": "You Are Gods",
+                    "uri": "46Mk9ffDJs7gMS3aRGcMTz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "James Holden",
+                    "title": "You Are Gods",
+                    "uri": "46Mk9ffDJs7gMS3aRGcMTz"
+                },
+                {
+                    "artist": "James Holden",
+                    "title": "You Are Gods",
+                    "uri": "3JDDDU1lLw6kmg81WFhApn"
+                },
+                {
+                    "artist": "Nina Simone",
+                    "title": "Take Care Of Business",
+                    "uri": "2YwjSPeznyCvkUYvqKbXa9"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Yashida Miyota",
+                    "title": "Canon (From \"Whisper of the Heart\")",
+                    "uri": "3CY5F7DQmIGHjJohbmP1qQ"
+                },
+                {
+                    "artist": "Don Vanni",
+                    "title": "Made Me Better",
+                    "uri": "1nlDzpR4cSqYLvyXYvaDsi"
+                },
+                {
+                    "artist": "Dub Aura",
+                    "title": "This One Is On Me",
+                    "uri": "4d6eHiKlabN8NdzqJ5Rj2J"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Foreigner",
+                    "title": "I Want to Know What Love Is - 2008 Remaster",
+                    "uri": "5DeXQ3qADuDmqsosnZAK3o"
+                },
+                {
+                    "artist": "Benny Mardones",
+                    "title": "Into The Night",
+                    "uri": "0rhyBUAgNXwdyvGVXSrLzc"
+                },
+                {
+                    "artist": "Raphael Schön",
+                    "title": "Weg von dir",
+                    "uri": "1JfRSuCAZl5cyyoOo2CMK4"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Arcade Fire",
+                    "title": "Neighborhood #3 (Power Out)",
+                    "uri": "1kAZE1Wtwg8sd7lCyLUweb"
+                },
+                {
+                    "artist": "M Huncho",
+                    "title": "Two Wise Men",
+                    "uri": "13GiuT6tva9QbTPyZjVRqz"
+                },
+                {
+                    "artist": "Elias Stone",
+                    "title": "Candles - Radio Edit",
+                    "uri": "42aFmEau3tz7ALR1NRoDh5"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Ugnė Uma",
+                    "title": "Rage Love Strange Love II",
+                    "uri": "4EokPjRSdUNKgri7oqABfC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ugnė Uma",
+                    "title": "Rage Love Strange Love II",
+                    "uri": "4EokPjRSdUNKgri7oqABfC"
+                },
+                {
+                    "artist": "Erykah Badu",
+                    "title": "No Love",
+                    "uri": "1XQJMzytCX3eIyk936dUpc"
+                },
+                {
+                    "artist": "Common",
+                    "title": "I Want You",
+                    "uri": "4c9M2f3dd2G0y35ZYK31mk"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Bridget Ferrill",
+                    "title": "how i think about what it is",
+                    "uri": "4vxrPdJr9JKTpiVLihXGp2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bridget Ferrill",
+                    "title": "how i think about what it is",
+                    "uri": "4vxrPdJr9JKTpiVLihXGp2"
+                },
+                {
+                    "artist": "Spice Girls",
+                    "title": "Wannabe",
+                    "uri": "1Je1IMUlBXcx1Fz0WE7oPT"
+                },
+                {
+                    "artist": "Jade Bird",
+                    "title": "What Am I Here For",
+                    "uri": "5qLAeqSwTN5Cdrpjs6TnG6"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Tod Dockstader",
+                    "title": "Whisper Smoothed",
+                    "uri": "0Mu8kVxRE4jaM4unr1zhqS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tod Dockstader",
+                    "title": "Whisper Smoothed",
+                    "uri": "0Mu8kVxRE4jaM4unr1zhqS"
+                },
+                {
+                    "artist": "Sleep Guardian",
+                    "title": "Whisper",
+                    "uri": "1GxFy7h8uEuRDXDgUGQcCX"
+                },
+                {
+                    "artist": "Whisper Thread",
+                    "title": "Frozen Star",
+                    "uri": "2cFNQgIWO5a2GER3aMdHu1"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kamilya Jubran / Werner Hasler",
+                    "title": "Amshi",
+                    "uri": "7yTa4bxAExAM7NyYDmgxme"
+                },
+                {
+                    "artist": "Kamilya Jubran",
+                    "title": "Amshi",
+                    "uri": "5XgjvlFBqg2xBHqELjgCkK"
+                },
+                {
+                    "artist": "Paolo Paone",
+                    "title": "My Bad Shadows",
+                    "uri": "4WuTZxGxYpbmPxPkNjysrM"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Grischa Lichtenberger",
+                    "title": "what lies beneath 2",
+                    "uri": "7jvojp5RcmGIrNW4CpOsXy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Grischa Lichtenberger",
+                    "title": "what lies beneath 2",
+                    "uri": "7jvojp5RcmGIrNW4CpOsXy"
+                },
+                {
+                    "artist": "Al Stewart",
+                    "title": "Cafe Society",
+                    "uri": "58YigN9cTI5fE30qBZE4vK"
+                },
+                {
+                    "artist": "Al Stewart",
+                    "title": "Cafe Society",
+                    "uri": "1oqo4xFLX6DIY2m2N0YyiV"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Sega Bodega",
+                    "title": "Pipe (with Vashti Bunyan)",
+                    "uri": "2IQdRkhiTJVRf2Q5I1OYl3"
+                },
+                {
+                    "artist": "Sega Bodega",
+                    "title": "Pipe (with Vashti Bunyan)",
+                    "uri": "5ujYnNt0rFjkM822E6gS8t"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sega Bodega",
+                    "title": "Pipe (with Vashti Bunyan)",
+                    "uri": "5ujYnNt0rFjkM822E6gS8t"
+                },
+                {
+                    "artist": "Sega Bodega",
+                    "title": "Pipe (with Vashti Bunyan)",
+                    "uri": "2IQdRkhiTJVRf2Q5I1OYl3"
+                },
+                {
+                    "artist": "Sega Bodega",
+                    "title": "Um Um",
+                    "uri": "19OGSgFYtJZIDgj7auiSvn"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Ellen Arkbro",
+                    "title": "Morningclouds",
+                    "uri": "2ftQuqY1sPEFzbgaxbfByy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ellen Arkbro",
+                    "title": "Morningclouds",
+                    "uri": "2ftQuqY1sPEFzbgaxbfByy"
+                },
+                {
+                    "artist": "Ellen Arkbro",
+                    "title": "Nightclouds",
+                    "uri": "4intG7Lm3ZJtOxzgmgEywn"
+                },
+                {
+                    "artist": "Skaresnø",
+                    "title": "Passing Clouds",
+                    "uri": "3n2jtELNk0pDk60WEFELvw"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Maral",
+                    "title": "Heart Shimmer",
+                    "uri": "0FrvlXmxPAw4IieVlrUXWb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Maral",
+                    "title": "Heart Shimmer",
+                    "uri": "0FrvlXmxPAw4IieVlrUXWb"
+                },
+                {
+                    "artist": "Veldas",
+                    "title": "Night Shimmer",
+                    "uri": "6gWJ0ki0t3DBH0TribaYUC"
+                },
+                {
+                    "artist": "Taylor Swift",
+                    "title": "Bejeweled",
+                    "uri": "3qoftcUZaUOncvIYjFSPdE"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jake Neumar",
+                    "title": "Changes (feat. Cal1)",
+                    "uri": "1cz9YHVaiq7kDOUtexX9rA"
+                },
+                {
+                    "artist": "Stephanie Hsu",
+                    "title": "A Guy That I'd Kinda Be Into",
+                    "uri": "3JMuqa4x9ZMWxgA8RaAiya"
+                },
+                {
+                    "artist": "Waldo Garden",
+                    "title": "Zula",
+                    "uri": "12xWaXiSEwl3zBlTRR4KPu"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "Diane Di Prima",
+                    "title": "Revolutionary Letters Nos. 7, 13, 16, 49",
+                    "uri": "7GIOQo4Cfs1tEChNMDb6C7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Diane Di Prima",
+                    "title": "Revolutionary Letters Nos. 7, 13, 16, 49",
+                    "uri": "7GIOQo4Cfs1tEChNMDb6C7"
+                },
+                {
+                    "artist": "Maurice Ravel",
+                    "title": "Prélude, M. 65",
+                    "uri": "4oYOfgTSQQrnBr7FMxVdit"
+                },
+                {
+                    "artist": "Loreta Kba",
+                    "title": "Relação",
+                    "uri": "2EOdHBxPq4Vjas1JGI2YzG"
+                }
+            ]
+        },
+        "25": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Oliver Koletzki",
+                    "title": "Space Base",
+                    "uri": "5ZS2uH0kb2RhianAFwRydQ"
+                },
+                {
+                    "artist": "Donny Hathaway",
+                    "title": "Love, Love, Love",
+                    "uri": "3mc4nFeBX4hvuYbPsoS4GK"
+                },
+                {
+                    "artist": "Eric Lavién",
+                    "title": "Dream Catcher",
+                    "uri": "7b6yTimSpESkIMWR48cmlF"
+                }
+            ]
+        }
+    },
     "lyra-pramuk-11th-march-2025": {
         "00": {
             "s0": "",

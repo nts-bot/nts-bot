@@ -1,4 +1,459 @@
 {
+    "roadkill-ikebana-10th-february-2026": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Hans Reichel",
+                    "title": "Upper Larum",
+                    "uri": "5nqgxWF9zlhm8ECm6lJ7vo"
+                },
+                {
+                    "artist": "Hans Reichel",
+                    "title": "Dating At the Upper Larum",
+                    "uri": "6Db3cuH12aLdPjRc3wc09x"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hans Reichel",
+                    "title": "Upper Larum",
+                    "uri": "5nqgxWF9zlhm8ECm6lJ7vo"
+                },
+                {
+                    "artist": "Hans Reichel",
+                    "title": "Dating At the Upper Larum",
+                    "uri": "6Db3cuH12aLdPjRc3wc09x"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Wachet auf, ruft uns die Stimme, BWV 140: IV. Chorale. Zion hört die Wächter singen",
+                    "uri": "1k82bzEjGy47GX0EbVPseH"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Peter Brötzmann",
+                    "title": "Summer Rain",
+                    "uri": "5EvNYuU4NVuYMyLNo5BAmD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Peter Brötzmann",
+                    "title": "Summer Rain",
+                    "uri": "5EvNYuU4NVuYMyLNo5BAmD"
+                },
+                {
+                    "artist": "Shawn Mendes",
+                    "title": "Señorita",
+                    "uri": "0TK2YIli7K1leLovkQiNik"
+                },
+                {
+                    "artist": "Antoine Fauré",
+                    "title": "Gentle Rain",
+                    "uri": "4i752Jsn4oHtKWgeynuhBJ"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Fire!",
+                    "title": "Touches Me with the Tips of Wonder",
+                    "uri": "7mwn1DZWN8En5jESiZJriQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fire!",
+                    "title": "Touches Me with the Tips of Wonder",
+                    "uri": "7mwn1DZWN8En5jESiZJriQ"
+                },
+                {
+                    "artist": "Rockwell",
+                    "title": "Somebody's Watching Me - Single Version",
+                    "uri": "2QN9zL3SzXdGqqmXO68gFp"
+                },
+                {
+                    "artist": "The Orphaned Bee",
+                    "title": "Fire",
+                    "uri": "48IdqbbJaNR95MF4Q2062C"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "flowray",
+                    "title": "Strawberry Lime",
+                    "uri": "0ZGgenUOCwwVUWjdTz8Umn"
+                },
+                {
+                    "artist": "Nils Wülker",
+                    "title": "Time Will Tell",
+                    "uri": "64lLXhFv9pZFhWGjSDRdUi"
+                },
+                {
+                    "artist": "Nilz Hübenbecker",
+                    "title": "Momo",
+                    "uri": "5W85n7qH3OAhtlCuhTpm8P"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Nikolaienko",
+                    "title": "Belated Procession IV",
+                    "uri": "1Y08s2tCVQw3YsxhG9XfML"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nikolaienko",
+                    "title": "Belated Procession IV",
+                    "uri": "1Y08s2tCVQw3YsxhG9XfML"
+                },
+                {
+                    "artist": "Gateway IV",
+                    "title": "Stellar Cluster",
+                    "uri": "39Kp8Aoq0Phsj3Qqx4oA5l"
+                },
+                {
+                    "artist": "Nicolaj Stavrenko",
+                    "title": "Nightfall",
+                    "uri": "4Ix9Eg6Lf1HbQcJU4Upc8R"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Susan Alcorn",
+                    "title": "And Who Could I Ask If It Wasn't You?",
+                    "uri": "308Mj1JsRYOBcENFcUbGby"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Susan Alcorn",
+                    "title": "And Who Could I Ask If It Wasn't You?",
+                    "uri": "308Mj1JsRYOBcENFcUbGby"
+                },
+                {
+                    "artist": "Carl Winther",
+                    "title": "Autumn In New York",
+                    "uri": "0HO7e0ehTVAHNc6PqEJyKj"
+                },
+                {
+                    "artist": "Nils Wülker",
+                    "title": "It's Alright",
+                    "uri": "0ZTtlX60nlwD0PPyjDjoN7"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Jean Guérin",
+                    "title": "Triptik 2",
+                    "uri": "3yVs0LnNz0q99gBzq4qJPp"
+                },
+                {
+                    "artist": "Jean Guérin",
+                    "title": "Triptik 2",
+                    "uri": "75sX4MQSWJEhuygBskdJBq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jean Guérin",
+                    "title": "Triptik 2",
+                    "uri": "3yVs0LnNz0q99gBzq4qJPp"
+                },
+                {
+                    "artist": "Jean Guérin",
+                    "title": "Triptik 2",
+                    "uri": "75sX4MQSWJEhuygBskdJBq"
+                },
+                {
+                    "artist": "Nils Wülker",
+                    "title": "Continuum",
+                    "uri": "7ka1YCNsR1BTSCtXcSigsG"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "The Lounge Lizards",
+                    "title": "The First and Royal Queen",
+                    "uri": "27DDHwmmGB8ue0AnyIviGG"
+                },
+                {
+                    "artist": "The Lounge Lizards",
+                    "title": "Queen of All Ears",
+                    "uri": "0pSJCceuaUTx7eBDa7S1ar"
+                },
+                {
+                    "artist": "The Lounge Lizards",
+                    "title": "Queen Reprise",
+                    "uri": "5gHwdWJYds64salbBK76Ix"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Lounge Lizards",
+                    "title": "Queen of All Ears",
+                    "uri": "0pSJCceuaUTx7eBDa7S1ar"
+                },
+                {
+                    "artist": "The Lounge Lizards",
+                    "title": "The First and Royal Queen",
+                    "uri": "27DDHwmmGB8ue0AnyIviGG"
+                },
+                {
+                    "artist": "Sting",
+                    "title": "Love Is The Seventh Wave",
+                    "uri": "2tnlTf2pIIYlQtUAo5AbNE"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jon Hassell",
+                    "title": "Ba-benzélé",
+                    "uri": "3c9lr5HgwAGEJbThGnkp3i"
+                },
+                {
+                    "artist": "Jon Hassell",
+                    "title": "Delta Rain Dream",
+                    "uri": "1mMMpiuaPQe9I6RIqtFWql"
+                },
+                {
+                    "artist": "Brian Eno",
+                    "title": "An Ending (Ascent) - Remastered 2005",
+                    "uri": "1vgSaC0BPlL6LEm4Xsx59J"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Simeon ten Holt",
+                    "title": "Sections 1-16",
+                    "uri": "7uBH8LGTreuwZZ7fr8K6N0"
+                },
+                {
+                    "artist": "Keren Ann",
+                    "title": "101",
+                    "uri": "6UdMfheesYFP4pflsoDP4n"
+                },
+                {
+                    "artist": "VENMC",
+                    "title": "Kolache",
+                    "uri": "3nHL71KkyAtlhufCTP9R6k"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Aphex Twin",
+                    "title": "diskhat2",
+                    "uri": "27wNZm2RGG8D7OQmVnvsWA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aphex Twin",
+                    "title": "diskhat1",
+                    "uri": "63Vu4RLpirG3B3PIKtLBmP"
+                },
+                {
+                    "artist": "Aphex Twin",
+                    "title": "Xtal",
+                    "uri": "7o2AeQZzfCERsRmOM86EcB"
+                },
+                {
+                    "artist": "Frank Ocean",
+                    "title": "Provider",
+                    "uri": "6R6ihJhRbgu7JxJKIbW57w"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Beach Boys",
+                    "title": "God Only Knows - Mono",
+                    "uri": "6iGU74CwXuT4XVepjc9Emf"
+                },
+                {
+                    "artist": "Sabrina",
+                    "title": "Boys (Summertime Love)",
+                    "uri": "46xpP2Jr1D6X75JsU04b8Q"
+                },
+                {
+                    "artist": "Sabrina",
+                    "title": "Boys (Summertime Love)",
+                    "uri": "1AjUw6oBGCov7Vx1w7Siqi"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Ron Carter",
+                    "title": "Ahmad the Terrible",
+                    "uri": "0FwxD54awqhR0QJU3KbA57"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ron Carter",
+                    "title": "Ahmad the Terrible",
+                    "uri": "0FwxD54awqhR0QJU3KbA57"
+                },
+                {
+                    "artist": "A Tribe Called Quest",
+                    "title": "Verses from the Abstract (feat. Vinia Mojica & Ron Carter)",
+                    "uri": "6zrsmzrMoxNkXEQLubCWtA"
+                },
+                {
+                    "artist": "Frank Zappa",
+                    "title": "Billy The Mountain - Live At Pauley Pavilion, UCLA, Los Angeles, 1971",
+                    "uri": "3J8ugaq7n6m1yeWFMWMEWJ"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Vijay Iyer Trio",
+                    "title": "Starlings",
+                    "uri": "2tVMYHDOowa0k0WMt8x5JF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Vijay Iyer Trio",
+                    "title": "Starlings",
+                    "uri": "2tVMYHDOowa0k0WMt8x5JF"
+                },
+                {
+                    "artist": "Emil Brandqvist Trio",
+                    "title": "A Visit to Reality",
+                    "uri": "5h6ynaqFmv696sBbLpln8U"
+                },
+                {
+                    "artist": "Karl-Erik Trio",
+                    "title": "A Friend of Mine",
+                    "uri": "1qWRLienRqf6OS7CjXyQZb"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "The Stan Tracey Quartet",
+                    "title": "Starless and Bible Black",
+                    "uri": "7Hizduyb2lA3NVIhhnTRVb"
+                },
+                {
+                    "artist": "The Stan Tracey Quartet",
+                    "title": "Starless and Bible Black",
+                    "uri": "52y3FPullH9QyIB8Cx175i"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Stan Tracey Quartet",
+                    "title": "Starless and Bible Black",
+                    "uri": "7Hizduyb2lA3NVIhhnTRVb"
+                },
+                {
+                    "artist": "The Stan Tracey Quartet",
+                    "title": "Starless and Bible Black",
+                    "uri": "52y3FPullH9QyIB8Cx175i"
+                },
+                {
+                    "artist": "King Crimson",
+                    "title": "Starless",
+                    "uri": "3bbfY8yDDwzLvvx3tFwy8i"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Moondog",
+                    "title": "Theme - Instrumental",
+                    "uri": "6ADJvP834M0KBTNSyYzIjE"
+                },
+                {
+                    "artist": "Moondog",
+                    "title": "Moondog's Theme",
+                    "uri": "2qcVcSOIGokk9DGaqnelsb"
+                },
+                {
+                    "artist": "Moondog",
+                    "title": "Theme And Variations - Rim Shot",
+                    "uri": "6guQ6y7V0ND0FuwARGCcaJ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Moondog",
+                    "title": "Theme - Instrumental",
+                    "uri": "6ADJvP834M0KBTNSyYzIjE"
+                },
+                {
+                    "artist": "Moondog",
+                    "title": "Moondog's Theme",
+                    "uri": "3A36QiaBLbdv9FdlZjFq9Y"
+                },
+                {
+                    "artist": "Youn Sun Nah",
+                    "title": "Moondog",
+                    "uri": "3o0RzvYBhWJpfGbsrvkTFp"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Henry the Rabbit",
+                    "title": "Lever de Lune (Meules)",
+                    "uri": "5fAX4gOTgGwZw5jaT8NFjj"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Henry the Rabbit",
+                    "title": "Lever de Lune (Meules)",
+                    "uri": "5fAX4gOTgGwZw5jaT8NFjj"
+                },
+                {
+                    "artist": "Henry Flower",
+                    "title": "Over the Dunes",
+                    "uri": "7q1IXk57eLknJW7ezrs3pj"
+                },
+                {
+                    "artist": "Noir Désir",
+                    "title": "L'Europe",
+                    "uri": "0ITX4pksPJVa24tMNJsbK9"
+                }
+            ]
+        }
+    },
     "roadkill-ikebana-11th-april-2023": {
         "00": {
             "s0": [

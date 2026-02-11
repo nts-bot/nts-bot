@@ -1,4 +1,531 @@
 {
+    "the-cosmic-tones-research-trio-10th-february-2026": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Eva Cassidy",
+                    "title": "Wade In The Water (Eva By Heart)",
+                    "uri": "0805TOCWUjT53fRTt5uEgW"
+                },
+                {
+                    "artist": "Jacob Banks",
+                    "title": "Unholy War",
+                    "uri": "4PjZsEf8bCIVyf4VXd57wS"
+                },
+                {
+                    "artist": "Die Wildecker Herzbuben",
+                    "title": "Die Fischerin vom Bodensee",
+                    "uri": "4VW2WGsNaEbY8YDozsAgYi"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Sounds Of Blackness",
+                    "title": "Optimistic",
+                    "uri": "7Mb7jOst43wPQELas93ARE"
+                },
+                {
+                    "artist": "Sounds Of Blackness",
+                    "title": "Optimistic - U.K. 7\" Edit",
+                    "uri": "6Gv1bomFXOnIfpkMiMOcT9"
+                },
+                {
+                    "artist": "Sounds Of Blackness",
+                    "title": "Optimistic",
+                    "uri": "1OlmtjGap9DafZE3tf1Lyu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sounds Of Blackness",
+                    "title": "Optimistic",
+                    "uri": "7Mb7jOst43wPQELas93ARE"
+                },
+                {
+                    "artist": "Sounds Of Blackness",
+                    "title": "Optimistic",
+                    "uri": "1OlmtjGap9DafZE3tf1Lyu"
+                },
+                {
+                    "artist": "Bahamadia",
+                    "title": "Total Wreck",
+                    "uri": "22N8NamiP2HXJxcWyz5XPv"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Sly & The Family Stone",
+                    "title": "Thank You for Talkin' to Me, Africa",
+                    "uri": "46WP0OdSspEBfJpHBFrcM0"
+                },
+                {
+                    "artist": "Sly & The Family Stone",
+                    "title": "Thank You for Talkin' to Me, Africa",
+                    "uri": "4EcC3IrjolBS9XXEWYAGW4"
+                },
+                {
+                    "artist": "Sly & The Family Stone",
+                    "title": "Thank You for Talkin' to Me, Africa",
+                    "uri": "6gl57IDqgC2CgepWZ33MCh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sly & The Family Stone",
+                    "title": "Thank You for Talkin' to Me, Africa",
+                    "uri": "46WP0OdSspEBfJpHBFrcM0"
+                },
+                {
+                    "artist": "Sly & The Family Stone",
+                    "title": "Thank You for Talkin' to Me, Africa",
+                    "uri": "4EcC3IrjolBS9XXEWYAGW4"
+                },
+                {
+                    "artist": "Sly & The Family Stone",
+                    "title": "If You Want Me to Stay",
+                    "uri": "2BydLQAh7CUIFvSEqAMc4x"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Archie Shepp",
+                    "title": "Dr. King, The Peaceful Warrior",
+                    "uri": "0MKeNeFMYuSCv3PAoAammD"
+                },
+                {
+                    "artist": "Akhenaton",
+                    "title": "The end of Their World Part II",
+                    "uri": "52RzwGQnzetEVwwplxvGQM"
+                },
+                {
+                    "artist": "SHABAKA",
+                    "title": "CHAPTER X",
+                    "uri": "7zpcutuWpP9i1C7UXGcGAg"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Erykah Badu",
+                    "title": "My People",
+                    "uri": "1FkIrCoa9Lkd8rgZ4VhNP9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Erykah Badu",
+                    "title": "My People",
+                    "uri": "1FkIrCoa9Lkd8rgZ4VhNP9"
+                },
+                {
+                    "artist": "The Roots",
+                    "title": "You Got Me",
+                    "uri": "4pdLZsxq0y5oJDb6Cxlokw"
+                },
+                {
+                    "artist": "Kanye West",
+                    "title": "No More Parties In LA",
+                    "uri": "0zLClc0emc6qUeV1p5nc99"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Prince",
+                    "title": "Welcome 2 America",
+                    "uri": "2St53T2Yitx2E3gA674RP0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Prince",
+                    "title": "Let's Go Crazy",
+                    "uri": "6FMIVQPZg9cmMY8hPxAacD"
+                },
+                {
+                    "artist": "Prince",
+                    "title": "Born 2 Die",
+                    "uri": "4XdPQaz5UEn706QOSUVOvt"
+                },
+                {
+                    "artist": "Kamus Leonardo",
+                    "title": "Pick Up the Phone",
+                    "uri": "58xKUOjS563e2tMgMNCWyL"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Sister Rosetta Tharpe",
+                    "title": "This Train",
+                    "uri": "4FgwdqCbpfv2AX17vbF8KN"
+                },
+                {
+                    "artist": "Sister Rosetta Tharpe",
+                    "title": "This Train",
+                    "uri": "3DcBXKCxjvQvDU1v8v5utZ"
+                },
+                {
+                    "artist": "Sister Rosetta Tharpe",
+                    "title": "This Train",
+                    "uri": "5Leaw5fcmkR8sXSG8R9Ew2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sister Rosetta Tharpe",
+                    "title": "This Train",
+                    "uri": "4FgwdqCbpfv2AX17vbF8KN"
+                },
+                {
+                    "artist": "Sister Rosetta Tharpe",
+                    "title": "This Train",
+                    "uri": "3DcBXKCxjvQvDU1v8v5utZ"
+                },
+                {
+                    "artist": "Beyoncé",
+                    "title": "BREAK MY SOUL - THE QUEENS REMIX",
+                    "uri": "4DukzQv7lF6DXe6Un7lghr"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Ray Charles",
+                    "title": "I Believe to My Soul",
+                    "uri": "59Sz3l6T9qTWsa8Smv2ve1"
+                },
+                {
+                    "artist": "Ray Charles",
+                    "title": "I Believe to My Soul",
+                    "uri": "0gutAUZDhQ7jHEOLaez0JL"
+                },
+                {
+                    "artist": "Ray Charles",
+                    "title": "I Believe to My Soul - 2005 Remaster",
+                    "uri": "2iRnG73mX0ZyEbRTWp3Nt2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ray Charles",
+                    "title": "I Believe to My Soul",
+                    "uri": "59Sz3l6T9qTWsa8Smv2ve1"
+                },
+                {
+                    "artist": "Ray Charles",
+                    "title": "I Believe to My Soul",
+                    "uri": "0Ub4qDvXopWsUB6W3faknh"
+                },
+                {
+                    "artist": "Ray Charles",
+                    "title": "I Believe to My Soul",
+                    "uri": "0gutAUZDhQ7jHEOLaez0JL"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "The Greene Sisters",
+                    "title": "When Will We Be Paid (For the Work We Did)",
+                    "uri": "2suPTcaQwoHMNZ9uxfqXk7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Greene Sisters",
+                    "title": "When Will We Be Paid (For the Work We Did)",
+                    "uri": "2suPTcaQwoHMNZ9uxfqXk7"
+                },
+                {
+                    "artist": "Ted Ross Quartet",
+                    "title": "On Green Avenue",
+                    "uri": "3YEULsoCVhL7vNyCMsm9BJ"
+                },
+                {
+                    "artist": "J. Alke",
+                    "title": "In Green",
+                    "uri": "65X0IiKlzsco1zlM18opk6"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Angel Bat Dawid",
+                    "title": "Black Family",
+                    "uri": "0ZqqwJnJjweCtmFJThkSHY"
+                },
+                {
+                    "artist": "Angel Bat Dawid",
+                    "title": "Black Family",
+                    "uri": "107hHbdrCIioxT2RKUrOAV"
+                },
+                {
+                    "artist": "Angel Bat Dawid",
+                    "title": "Black Family",
+                    "uri": "5Waas5muglg3NLINC8AKld"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Angel Bat Dawid",
+                    "title": "Black Family",
+                    "uri": "107hHbdrCIioxT2RKUrOAV"
+                },
+                {
+                    "artist": "Angel Bat Dawid",
+                    "title": "Black Family",
+                    "uri": "5Waas5muglg3NLINC8AKld"
+                },
+                {
+                    "artist": "The Velvet Underground",
+                    "title": "The Murder Mystery",
+                    "uri": "5EvFOTtbTIJmh2pWdZZoPM"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Durand Bernarr",
+                    "title": "Overqualified",
+                    "uri": "3lHwn0uVcDUXusIKOoBVHp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Durand Bernarr",
+                    "title": "Overqualified",
+                    "uri": "3lHwn0uVcDUXusIKOoBVHp"
+                },
+                {
+                    "artist": "Durand Jones & The Indications",
+                    "title": "Really Wanna Be With You",
+                    "uri": "2YxrLqrR7crzcQCuX08P5q"
+                },
+                {
+                    "artist": "Nayla Savannah",
+                    "title": "Rollin'",
+                    "uri": "3FOKiny1mt1w4g72ZyjZQM"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "RAMP",
+                    "title": "The American Promise",
+                    "uri": "1Rj1At81aqlIjqFK4OP1rs"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "RAMP",
+                    "title": "The American Promise",
+                    "uri": "1Rj1At81aqlIjqFK4OP1rs"
+                },
+                {
+                    "artist": "Kanye West",
+                    "title": "All Falls Down",
+                    "uri": "6lUhpV6LjQ5uvcavlCutBF"
+                },
+                {
+                    "artist": "Kanye West",
+                    "title": "All Falls Down",
+                    "uri": "5SkRLpaGtvYPhw02vZhQQ9"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Stevie Wonder",
+                    "title": "Big Brother",
+                    "uri": "5EQlqS41fwTJE40wtF1NGk"
+                },
+                {
+                    "artist": "Stevie Wonder",
+                    "title": "Big Brother",
+                    "uri": "3A53XUtMMECgesTjRz1tc1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Stevie Wonder",
+                    "title": "Big Brother",
+                    "uri": "5EQlqS41fwTJE40wtF1NGk"
+                },
+                {
+                    "artist": "Stevie Wonder",
+                    "title": "I Just Called To Say I Love You",
+                    "uri": "6RNDeRnWsRMjPdNVgupZCs"
+                },
+                {
+                    "artist": "Lord Finesse",
+                    "title": "Hip 2 Da Game",
+                    "uri": "3yjVsUq8psgcHm8SQrZ8i4"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Nina Simone",
+                    "title": "I Shall Be Released",
+                    "uri": "32BTFbqhSvYKftE0e8a8d4"
+                },
+                {
+                    "artist": "Nina Simone",
+                    "title": "I Shall Be Released",
+                    "uri": "3kc3Cqc7fio60jtGFcWRPF"
+                },
+                {
+                    "artist": "Nina Simone",
+                    "title": "I Shall Be Released - Remastered",
+                    "uri": "0uyrcFQcc61NqmEAm8BbX1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nina Simone",
+                    "title": "I Shall Be Released",
+                    "uri": "32BTFbqhSvYKftE0e8a8d4"
+                },
+                {
+                    "artist": "Nina Simone",
+                    "title": "I Shall Be Released",
+                    "uri": "3kc3Cqc7fio60jtGFcWRPF"
+                },
+                {
+                    "artist": "Kirk Ross",
+                    "title": "I Shall Be Released",
+                    "uri": "4XxbWBr9zhZLdeUQia93Bl"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Willie \"The Lion\" Smith",
+                    "title": "Echoes of Spring",
+                    "uri": "3cYcA5xSuAem2g8DMBsWbd"
+                },
+                {
+                    "artist": "Willie \"The Lion\" Smith",
+                    "title": "Echoes of Spring (Piano Solo)",
+                    "uri": "6mXHsIX3zJA9q6U05iiqdl"
+                },
+                {
+                    "artist": "Willie \"The Lion\" Smith",
+                    "title": "Echoes of Spring - Live",
+                    "uri": "5chU9T5kYyflCzCcMgmPsu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Willie \"The Lion\" Smith",
+                    "title": "Echoes of Spring",
+                    "uri": "3cYcA5xSuAem2g8DMBsWbd"
+                },
+                {
+                    "artist": "Over the Garden Wall",
+                    "title": "Into the Unknown (feat. Jack Jones)",
+                    "uri": "2v8U44KvrynuXjgMiIzzMM"
+                },
+                {
+                    "artist": "The 52nd Street Club",
+                    "title": "Echoes of Summer",
+                    "uri": "4Zjr6BJUHbJniyT8hXHC26"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Johnny Hodges",
+                    "title": "Warm Valley",
+                    "uri": "373cEVkcZ8HpP5WtgjSGq8"
+                },
+                {
+                    "artist": "Duke Ellington",
+                    "title": "Warm Valley - Take 1; Remastered - 1995",
+                    "uri": "3EsArIYaGS2QK5ipNjAPwl"
+                },
+                {
+                    "artist": "Johnny Hodges Orchestra",
+                    "title": "Warm Valley",
+                    "uri": "5qcaDEO6nfeX1EpklPibmd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Johnny Hodges",
+                    "title": "Warm Valley",
+                    "uri": "373cEVkcZ8HpP5WtgjSGq8"
+                },
+                {
+                    "artist": "Duke Ellington",
+                    "title": "Warm Valley - Take 1; Remastered - 1995",
+                    "uri": "3EsArIYaGS2QK5ipNjAPwl"
+                },
+                {
+                    "artist": "Duke Ellington",
+                    "title": "Warm Valley/Drag - Medley",
+                    "uri": "7xC5ThDOx0f3VOQMUBdQWz"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "James Brown",
+                    "title": "Say It Loud - I'm Black And I'm Proud - Pt. 1",
+                    "uri": "5h8ve1B7Gr3k4W0WXAgLxE"
+                },
+                {
+                    "artist": "James Brown",
+                    "title": "Say It Loud - I'm Black And I'm Proud - Pts.1 & 2",
+                    "uri": "49NSiepWurbGthu0LTk0wZ"
+                },
+                {
+                    "artist": "James Brown",
+                    "title": "Say It Loud - I'm Black And I'm Proud - Pts.1 & 2",
+                    "uri": "6uPuweWZXRKhP2i9sBmun4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "James Brown",
+                    "title": "Say It Loud - I'm Black And I'm Proud - Pt. 1",
+                    "uri": "5h8ve1B7Gr3k4W0WXAgLxE"
+                },
+                {
+                    "artist": "James Brown",
+                    "title": "Say It Loud - I'm Black And I'm Proud - Pts.1 & 2",
+                    "uri": "6uPuweWZXRKhP2i9sBmun4"
+                },
+                {
+                    "artist": "Public Enemy",
+                    "title": "Give It Up",
+                    "uri": "2uWoy80sBB8a59nh0cDSe1"
+                }
+            ]
+        }
+    },
     "the-cosmic-tones-research-trio-11th-february-2025": {
         "00": {
             "s0": [
@@ -683,6 +1210,471 @@
                     "artist": "Nikola",
                     "title": "Herzmagnet",
                     "uri": "4QHoyBHIYJu3wThSAcjCT9"
+                }
+            ]
+        }
+    },
+    "the-cosmic-tones-research-trio-13th-january-2026": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Ezra Collective",
+                    "title": "Space is the Place",
+                    "uri": "38PFECJBX4yGhiHFH9XgYX"
+                },
+                {
+                    "artist": "Ezra Collective",
+                    "title": "Space is the Place",
+                    "uri": "55Sp5GX5B62gPtAkf2NODu"
+                },
+                {
+                    "artist": "Ezra Collective",
+                    "title": "Space Is the Place",
+                    "uri": "6ZbANI4qFECo5mrllGFQBb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ezra Collective",
+                    "title": "Space is the Place",
+                    "uri": "38PFECJBX4yGhiHFH9XgYX"
+                },
+                {
+                    "artist": "Ezra Collective",
+                    "title": "No One's Watching Me (feat. Olivia Dean)",
+                    "uri": "70VTTe96UJ9QUyFYbsnW5V"
+                },
+                {
+                    "artist": "Don McLean",
+                    "title": "American Pie",
+                    "uri": "033Lo5FNTm1W8GC2u2Uj2A"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Don Cherry",
+                    "title": "One Dance",
+                    "uri": "0aYSenOVMIVYwc8JtZJJcs"
+                },
+                {
+                    "artist": "サクラSAKURA-LEE",
+                    "title": "The one who stole my heart - Donkan Remix",
+                    "uri": "2ChrVeIzkU7qPgtjbUvH2B"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Don Cherry",
+                    "title": "One Dance",
+                    "uri": "0aYSenOVMIVYwc8JtZJJcs"
+                },
+                {
+                    "artist": "Wizkid",
+                    "title": "Piece of My Heart (feat. Brent Faiyaz)",
+                    "uri": "7Ijsqi4y74qZB04PaxnYBq"
+                },
+                {
+                    "artist": "Howard Jones",
+                    "title": "You Know I Love You... Don't You? - (Dance In The Fields Mix) [2020 Remaster]",
+                    "uri": "2jKwJry62c8gUvuU5tDXeQ"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Lou Bega",
+                    "title": "I Got a Girl",
+                    "uri": "6zZaRp7MQ3S0eatEv4SYuE"
+                },
+                {
+                    "artist": "Julian Vaughn",
+                    "title": "Day By Day - Radio Edit",
+                    "uri": "2EdwVZObwnvDgVm6ooDMCp"
+                },
+                {
+                    "artist": "Ed Sheeran",
+                    "title": "Old Phone",
+                    "uri": "6cuGUclNrYm0QHVO2sGqow"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Yusef Lateef",
+                    "title": "Dololous",
+                    "uri": "42fnvlCvny1CDCg2v922kz"
+                },
+                {
+                    "artist": "Yusef Lateef",
+                    "title": "Love Theme From Spartacus - Remastered 2023",
+                    "uri": "2QHFSR7VUZZfRRwZycKqSa"
+                },
+                {
+                    "artist": "Classik",
+                    "title": "Smile 4 Me",
+                    "uri": "4D6t9HqFSNR2CfItjpDobb"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Amel Larrieux",
+                    "title": "Get Up",
+                    "uri": "2ER50sjIrGpBHj4TsZC5vu"
+                },
+                {
+                    "artist": "Amel Larrieux",
+                    "title": "Get Up",
+                    "uri": "5YzK2kmIM7cdpRbv0iGaEs"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Amel Larrieux",
+                    "title": "Get Up",
+                    "uri": "2ER50sjIrGpBHj4TsZC5vu"
+                },
+                {
+                    "artist": "Tamer Nafar",
+                    "title": "NANA (feat. Amal Murkus & Sammy Shilbaq)",
+                    "uri": "6VzVCNOhipxIYFcuANlWt7"
+                },
+                {
+                    "artist": "Ampris",
+                    "title": "Get Up And Dance",
+                    "uri": "7MwTqXv601j41X8naobpFP"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Billy Childs",
+                    "title": "Stay",
+                    "uri": "3cMzrGSI8Uz8Zur3faDKDo"
+                },
+                {
+                    "artist": "Billy Childs",
+                    "title": "Stay",
+                    "uri": "4nD86u2tMfIijguvd4EctQ"
+                },
+                {
+                    "artist": "Billy Childs",
+                    "title": "Stay",
+                    "uri": "6N57ZZtaQeVa06u2fXdpK0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Billy Childs",
+                    "title": "Stay",
+                    "uri": "3cMzrGSI8Uz8Zur3faDKDo"
+                },
+                {
+                    "artist": "Billy Childs",
+                    "title": "Stay",
+                    "uri": "4nD86u2tMfIijguvd4EctQ"
+                },
+                {
+                    "artist": "Mobb Deep",
+                    "title": "Shook Ones, Pt. II",
+                    "uri": "33ZXjLCpiINn8eQIDYEPTD"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Hidemaro Konoe",
+                    "title": "Chin-Chin-Chidori",
+                    "uri": "2SmeF90Z9sfEklA7zdAoSI"
+                },
+                {
+                    "artist": "Hidemaro Konoe",
+                    "title": "Chin-Chin-Chidori",
+                    "uri": "4ikaercELN6V86JIMgxY5t"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hidemaro Konoe",
+                    "title": "Chin-Chin-Chidori",
+                    "uri": "2SmeF90Z9sfEklA7zdAoSI"
+                },
+                {
+                    "artist": "Johann Sebastian Bach",
+                    "title": "Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",
+                    "uri": "17i5jLpzndlQhbS4SrTd0B"
+                },
+                {
+                    "artist": "Romeo Santos",
+                    "title": "Dardos",
+                    "uri": "5SudOD9R1Of6CsJVWZy6CQ"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Joe Westerlund",
+                    "title": "Felt Like Floating",
+                    "uri": "4ojwjnY1qXD9T5j2GpytRS"
+                },
+                {
+                    "artist": "Joe Westerlund",
+                    "title": "Felt Like Floating",
+                    "uri": "5NgrgSb0lpUpDPeKAPnApC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Joe Westerlund",
+                    "title": "Felt Like Floating",
+                    "uri": "4ojwjnY1qXD9T5j2GpytRS"
+                },
+                {
+                    "artist": "Joe Wilson Trio",
+                    "title": "Velvet Rainfall",
+                    "uri": "3qWqFyXEJTa8fATKrwZeCv"
+                },
+                {
+                    "artist": "Neil Young",
+                    "title": "After the Gold Rush",
+                    "uri": "2anPa0qaFG1Nf0swkpfOQd"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Frank Apollo",
+                    "title": "Yinhle",
+                    "uri": "6MSDLjcuCvclOVzRxtEXqO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Frank Apollo",
+                    "title": "Yinhle",
+                    "uri": "6MSDLjcuCvclOVzRxtEXqO"
+                },
+                {
+                    "artist": "Ólafur Apollo",
+                    "title": "tiny window",
+                    "uri": "5o4nq8COdxn8JSiiRDlBEm"
+                },
+                {
+                    "artist": "Outkast",
+                    "title": "So Fresh, So Clean",
+                    "uri": "3MyqzVWIuZOWCBFhiTBemC"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Harlan Silverman",
+                    "title": "Entrance to the Sanctuary",
+                    "uri": "1mVlo2ippSO8AMSRYEpQpA"
+                },
+                {
+                    "artist": "Harlan Silverman",
+                    "title": "Entrance to the Sanctuary",
+                    "uri": "0Ifs83r4f1eofODzRpyYDz"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Harlan Silverman",
+                    "title": "Entrance to the Sanctuary",
+                    "uri": "1mVlo2ippSO8AMSRYEpQpA"
+                },
+                {
+                    "artist": "Harlan Silverman",
+                    "title": "Entrance to the Sanctuary",
+                    "uri": "0Ifs83r4f1eofODzRpyYDz"
+                },
+                {
+                    "artist": "Gustav Mahler",
+                    "title": "Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\": II. Final Scene from Faust",
+                    "uri": "6AsVt4qQvSkMVvM9dpXoSi"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Quenton Blache",
+                    "title": "To Whom I Pray",
+                    "uri": "6VBuNa7A7YCmLDbmcmeQCR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Quenton Blache",
+                    "title": "To Whom I Pray",
+                    "uri": "6VBuNa7A7YCmLDbmcmeQCR"
+                },
+                {
+                    "artist": "Bahati Bukuku",
+                    "title": "Dunia Haina Huruma",
+                    "uri": "5aIn5FwOqoLXQ2AVqcdmXM"
+                },
+                {
+                    "artist": "Tess Parks",
+                    "title": "Somedays",
+                    "uri": "3y9QM64AVA9gWUzclMmdTJ"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "threetwenty",
+                    "title": "let me grow",
+                    "uri": "2IrU13N8JRxwNXKMMv723G"
+                },
+                {
+                    "artist": "threetwenty",
+                    "title": "Let Me Grow",
+                    "uri": "5affYR0p0H6GBGnI8fWqZb"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "threetwenty",
+                    "title": "let me grow",
+                    "uri": "2IrU13N8JRxwNXKMMv723G"
+                },
+                {
+                    "artist": "Madcon",
+                    "title": "Beggin (original version)",
+                    "uri": "1XyL3J7eTTKnxRZAM3LqIT"
+                },
+                {
+                    "artist": "Sonus Motus",
+                    "title": "Grow (Interlude)",
+                    "uri": "2ibzAhDHqUIYODhzyiK4Lj"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Mark Summer",
+                    "title": "Julie-O",
+                    "uri": "4N3nsVpra8bOcoSmoP6f58"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mark Summer",
+                    "title": "Julie-O",
+                    "uri": "4N3nsVpra8bOcoSmoP6f58"
+                },
+                {
+                    "artist": "anaïs",
+                    "title": "juli",
+                    "uri": "0rbvydYLBS92meYf6S0b7D"
+                },
+                {
+                    "artist": "Fally Ipupa",
+                    "title": "Sans amour",
+                    "uri": "4otLEkIfKXR7CSd6bEDT0b"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Brown Calvin",
+                    "title": "P e r s p e c t I v e 7",
+                    "uri": "4zeqx3hgEpWA5SndMC7vf4"
+                },
+                {
+                    "artist": "Brown Calvin",
+                    "title": "P e r s p e c t I v e !i",
+                    "uri": "1aTaNOPMs618PAzDp8PWFT"
+                },
+                {
+                    "artist": "Brown Calvin",
+                    "title": "P e r s p e c t I v e 44",
+                    "uri": "2JTlueIMEUQkTpZT4kono2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Brown Calvin",
+                    "title": "P e r s p e c t I v e 6",
+                    "uri": "1Fzp6bBYCfDHaQYbRspyvX"
+                },
+                {
+                    "artist": "Brown Calvin",
+                    "title": "P e r s p e c t I v e 7",
+                    "uri": "4zeqx3hgEpWA5SndMC7vf4"
+                },
+                {
+                    "artist": "Brown Calvin",
+                    "title": "P e r s p e c t I v e 44",
+                    "uri": "2JTlueIMEUQkTpZT4kono2"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "CoolTide Ensemble",
+                    "title": "Cosmic Brass Sensations",
+                    "uri": "3LffEx1h7cArtl6P0PPfpt"
+                },
+                {
+                    "artist": "Cosmici",
+                    "title": "Healing Light",
+                    "uri": "0UeCyrM1S0wFnwIDerj56y"
+                },
+                {
+                    "artist": "Lush Lotus",
+                    "title": "Cosmical Sense",
+                    "uri": "2NfCpcNt3P8VSZ4fHgjSTm"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Terrace Martin",
+                    "title": "Sleepless Nights (feat. Phoelix)",
+                    "uri": "6h7jn2jE2EqJadOkDXsDJh"
+                },
+                {
+                    "artist": "Terrace Martin",
+                    "title": "Sleepless Nights (feat. Buddy, Reuben Vincent & Phoelix)",
+                    "uri": "4ImbwgGOqvNnKJADZSI8lP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Terrace Martin",
+                    "title": "Sleepless Nights (feat. Phoelix)",
+                    "uri": "6h7jn2jE2EqJadOkDXsDJh"
+                },
+                {
+                    "artist": "Terrace Martin",
+                    "title": "Sleepless Nights (feat. Buddy, Reuben Vincent & Phoelix)",
+                    "uri": "4ImbwgGOqvNnKJADZSI8lP"
+                },
+                {
+                    "artist": "AVAION",
+                    "title": "Sleepless",
+                    "uri": "75HBVc7kJLjC2LlPc4ScfH"
                 }
             ]
         }
@@ -1449,6 +2441,905 @@
                     "artist": "Kashh",
                     "title": "Shambhu",
                     "uri": "6MfvLnZU2h0IlqRcDrXETB"
+                }
+            ]
+        }
+    },
+    "the-cosmic-tones-research-trio-21st-october-2025": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "The Cosmic Tones Research Trio",
+                    "title": "Spirit of Truth",
+                    "uri": "4DxBikaup00nJbObD1tOhF"
+                },
+                {
+                    "artist": "The Cosmic Tones Research Trio",
+                    "title": "Spirit of Truth",
+                    "uri": "5YBvKNh6quEQfaw9TksOvf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Cosmic Tones Research Trio",
+                    "title": "Spirit of Truth",
+                    "uri": "4DxBikaup00nJbObD1tOhF"
+                },
+                {
+                    "artist": "The Cosmic Tones Research Trio",
+                    "title": "Spirit of Truth",
+                    "uri": "5YBvKNh6quEQfaw9TksOvf"
+                },
+                {
+                    "artist": "Quintessence",
+                    "title": "Manco Capac",
+                    "uri": "425Jw2xdjq66dRlcYsJ5BA"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Harlan Silverman",
+                    "title": "Stillness is Beautiful",
+                    "uri": "3S5tAUQCKFdoNrCJ9wJ8a0"
+                },
+                {
+                    "artist": "Harlan Silverman",
+                    "title": "Stillness is Beautiful",
+                    "uri": "7B6VG8hdEtW4OcrMkA6vP9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Harlan Silverman",
+                    "title": "Stillness is Beautiful",
+                    "uri": "3S5tAUQCKFdoNrCJ9wJ8a0"
+                },
+                {
+                    "artist": "Paia Mooni",
+                    "title": "Stillness",
+                    "uri": "618Kkip5m9beYwFv0HQObw"
+                },
+                {
+                    "artist": "R.E.M.",
+                    "title": "You Are The Everything - Remastered 2013",
+                    "uri": "3Hjq2D8zxEmwqhsBB6uIzQ"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Penguin Cafe Orchestra",
+                    "title": "Nothing Really Blue",
+                    "uri": "5MeSpFAROBjif4aADhed25"
+                },
+                {
+                    "artist": "Simon Jeffes",
+                    "title": "Nothing Really Blue",
+                    "uri": "42O5RoBhOUq2JMatASNjqS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Penguin Cafe Orchestra",
+                    "title": "Nothing Really Blue",
+                    "uri": "5MeSpFAROBjif4aADhed25"
+                },
+                {
+                    "artist": "Simon Jeffes",
+                    "title": "Nothing Really Blue",
+                    "uri": "42O5RoBhOUq2JMatASNjqS"
+                },
+                {
+                    "artist": "Bronze Nazareth",
+                    "title": "Daydream",
+                    "uri": "0jhRmUk7PlH0ALugb55crq"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kalaban Coura",
+                    "title": "Mali (feat. Quentin Dujardin)",
+                    "uri": "5jgHtzhwsNLqvunXPZDsNG"
+                },
+                {
+                    "artist": "Hari Sundari",
+                    "title": "Ciggy Bandh",
+                    "uri": "3VOYAu3ugDoEj0Cc06uWRO"
+                },
+                {
+                    "artist": "Mister Ramsy",
+                    "title": "2020",
+                    "uri": "4lqERgvZw3bIwRHgoQUAQv"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Josef Leimberg",
+                    "title": "Mystic Journey",
+                    "uri": "7DPdd43hgES1OuM5JUTaKQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Josef Leimberg",
+                    "title": "Divine Mother Universe",
+                    "uri": "3ztA2FyTI1YGMUgVFdVGoA"
+                },
+                {
+                    "artist": "Josef Leimberg",
+                    "title": "Pancha Bootah",
+                    "uri": "4JcI5zxqfTbPxtIxGUwUBy"
+                },
+                {
+                    "artist": "Alignment",
+                    "title": "Mystical Energy",
+                    "uri": "6jQJKutPT5MicGc9jvgFhu"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Quincy Jones Orchestra",
+                    "title": "Main Title From Bob & Carol & Ted & Alice - Handel's Hallelujah Chorus",
+                    "uri": "1s3rtfd1PtAVnOlDUc4jqa"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Quincy Jones Orchestra",
+                    "title": "Main Title From Bob & Carol & Ted & Alice - Handel's Hallelujah Chorus",
+                    "uri": "1s3rtfd1PtAVnOlDUc4jqa"
+                },
+                {
+                    "artist": "Quincy Jones",
+                    "title": "Soul Bossa Nova",
+                    "uri": "0Jw3cPBXlGnA6DEJrZSTI0"
+                },
+                {
+                    "artist": "Quincy Jones",
+                    "title": "Let The Good Times Roll",
+                    "uri": "2dFJA0ZQ2OjA8TWjEV6P5n"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Randall Goosby",
+                    "title": "Blue/s Forms: III. Jettin' Blue/s",
+                    "uri": "3mLBE01TFfvj8OBBGqtnIq"
+                },
+                {
+                    "artist": "Coleridge-Taylor Perkinson",
+                    "title": "Blue/s Forms: III. Jettin' Blue/s",
+                    "uri": "4jnNLAt4JsTQoh1Cltwx6f"
+                },
+                {
+                    "artist": "Nils Wülker",
+                    "title": "Continuum",
+                    "uri": "7ka1YCNsR1BTSCtXcSigsG"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Lounge Lizards",
+                    "title": "Yak",
+                    "uri": "0IhZIuRkxdd5rBMe5aApHJ"
+                },
+                {
+                    "artist": "Angie Martinez",
+                    "title": "If I Could Go!",
+                    "uri": "1PB6gllaq5kUUSpb5jzWjn"
+                },
+                {
+                    "artist": "calmwater keys",
+                    "title": "velvet rain",
+                    "uri": "2PZFRV2JRMLuXBWzdX44JX"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Olly Wilson",
+                    "title": "Echoes",
+                    "uri": "5e9CyaVOzoNtOALc1DoIvo"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Olly Wilson",
+                    "title": "Echoes",
+                    "uri": "5e9CyaVOzoNtOALc1DoIvo"
+                },
+                {
+                    "artist": "ATLANTE (FR)",
+                    "title": "Echoes",
+                    "uri": "0n4p7jzyLcZSom5xm2QHCY"
+                },
+                {
+                    "artist": "Erin Durant",
+                    "title": "Sand Dunes",
+                    "uri": "3MFNGT0MkKEBNAuEICjrMk"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Diamonds",
+                    "title": "Universal Harmony",
+                    "uri": "6i2cmPsBjRAlmYag9iozVV"
+                },
+                {
+                    "artist": "Matthew Austin Williams",
+                    "title": "We Are the Earth Waking Up",
+                    "uri": "718lVwpbaRxJcLNHBUZpQY"
+                },
+                {
+                    "artist": "Jedi Mind Tricks",
+                    "title": "Books of Blood: The Coming of Tan",
+                    "uri": "0pqD9wVyhirSvSNebTKex7"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Joy Guidry",
+                    "title": "Convince Me To Stay",
+                    "uri": "1ZRur6rc3KI2gbsR90SbZE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Joy Guidry",
+                    "title": "Convince Me To Stay",
+                    "uri": "1ZRur6rc3KI2gbsR90SbZE"
+                },
+                {
+                    "artist": "Curtis Stigers",
+                    "title": "I Wonder Why",
+                    "uri": "04jNbL6I5ZPLYKKlL08Z8Z"
+                },
+                {
+                    "artist": "Nils Wülker",
+                    "title": "Alpenglow",
+                    "uri": "0ujJPajsdivu4G4SrzWHJG"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Laraaji & Jonathan Goldman",
+                    "title": "Quiet Space Pt.2",
+                    "uri": "0BLLLX7Ri4gdi4JTKtz7I9"
+                },
+                {
+                    "artist": "Jonathan Goldman",
+                    "title": "Quiet Space (From Celestial Reiki)",
+                    "uri": "3PIVz3rSeYU90YmVokPdag"
+                },
+                {
+                    "artist": "Jonathan Goldman",
+                    "title": "Quiet Space",
+                    "uri": "487RAqbaRjrlDlhY02MVcS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jonathan Goldman",
+                    "title": "Quiet Space (From Celestial Reiki)",
+                    "uri": "3PIVz3rSeYU90YmVokPdag"
+                },
+                {
+                    "artist": "Quiescente",
+                    "title": "Quieto",
+                    "uri": "0PAB7bTEVYYpA0PWkS2Cwi"
+                },
+                {
+                    "artist": "Dumbfoundead",
+                    "title": "Safe",
+                    "uri": "4fTQvZSLJcOkOgtoeHfTRK"
+                }
+            ]
+        }
+    },
+    "the-cosmic-tones-research-trio-26th-august-2025": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Rand Aldo",
+                    "title": "Eternity Present",
+                    "uri": "6cbiH9ayUzdB3AZsO9GdNs"
+                },
+                {
+                    "artist": "Aurelio Li",
+                    "title": "Eternal Moon",
+                    "uri": "2hegfLKqobbWtYPg0Z31vm"
+                },
+                {
+                    "artist": "Ayivah",
+                    "title": "Eternal Light",
+                    "uri": "5otVHXkEAXniQg6j4w7Dxe"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Turiya & Ramakrishna",
+                    "uri": "4DVu7YgHVJaeN0C7HNpy2q"
+                },
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Journey In Satchidananda",
+                    "uri": "2gG3ivmsfylVXLyIJvLXyN"
+                },
+                {
+                    "artist": "Mulatu Astatke",
+                    "title": "Tezeta",
+                    "uri": "7JPNvoMjoIXkTDAMx9Aajj"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Turiya & Ramakrishna",
+                    "uri": "4DVu7YgHVJaeN0C7HNpy2q"
+                },
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Journey In Satchidananda",
+                    "uri": "2gG3ivmsfylVXLyIJvLXyN"
+                },
+                {
+                    "artist": "Jpilla",
+                    "title": "Khepera (Amen-Ra)",
+                    "uri": "1bUzS0TstNV7CNAqMOuepp"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Turiya & Ramakrishna",
+                    "uri": "4DVu7YgHVJaeN0C7HNpy2q"
+                },
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Journey In Satchidananda",
+                    "uri": "2gG3ivmsfylVXLyIJvLXyN"
+                },
+                {
+                    "artist": "John Coltrane",
+                    "title": "Naima - Mono",
+                    "uri": "5cAwEKmadsW4nCYe9QUvgU"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Turiya & Ramakrishna",
+                    "uri": "4DVu7YgHVJaeN0C7HNpy2q"
+                },
+                {
+                    "artist": "U2",
+                    "title": "Angel Of Harlem",
+                    "uri": "7iBav4v8maicL8cWKGxFhQ"
+                },
+                {
+                    "artist": "Black Alien",
+                    "title": "Take Ten",
+                    "uri": "5MHwraC1CHWTo6JoVd1aF8"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Govinda Hari",
+                    "uri": "5NTD6demRYOJtIWk7KIzH8"
+                },
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Turiya & Ramakrishna",
+                    "uri": "4DVu7YgHVJaeN0C7HNpy2q"
+                },
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Journey In Satchidananda",
+                    "uri": "2gG3ivmsfylVXLyIJvLXyN"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Turiya & Ramakrishna",
+                    "uri": "4DVu7YgHVJaeN0C7HNpy2q"
+                },
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Paramahansa Lake",
+                    "uri": "4VXWyCkQYHu5V010xYc0ec"
+                },
+                {
+                    "artist": "Shantala",
+                    "title": "Purnamadah",
+                    "uri": "0xHmA4WUsQFbMAUHRJwJVG"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Turiya & Ramakrishna",
+                    "uri": "4DVu7YgHVJaeN0C7HNpy2q"
+                },
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Journey In Satchidananda",
+                    "uri": "2gG3ivmsfylVXLyIJvLXyN"
+                },
+                {
+                    "artist": "David Lurey",
+                    "title": "Lokah Samastah Sukhino Bhavantu",
+                    "uri": "1fAYNVwqe3e3szGEcQQYSz"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Turiya & Ramakrishna",
+                    "uri": "4DVu7YgHVJaeN0C7HNpy2q"
+                },
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Journey In Satchidananda",
+                    "uri": "2gG3ivmsfylVXLyIJvLXyN"
+                },
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Paramahansa Lake",
+                    "uri": "4VXWyCkQYHu5V010xYc0ec"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Turiya & Ramakrishna",
+                    "uri": "4DVu7YgHVJaeN0C7HNpy2q"
+                },
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Journey In Satchidananda",
+                    "uri": "2gG3ivmsfylVXLyIJvLXyN"
+                },
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Paramahansa Lake",
+                    "uri": "4VXWyCkQYHu5V010xYc0ec"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Turiya & Ramakrishna",
+                    "uri": "4DVu7YgHVJaeN0C7HNpy2q"
+                },
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Journey In Satchidananda",
+                    "uri": "2gG3ivmsfylVXLyIJvLXyN"
+                },
+                {
+                    "artist": "Shantala",
+                    "title": "Om Mata Kali",
+                    "uri": "1t2tm48NLEhmJ7kTe1OQpF"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Turiya & Ramakrishna",
+                    "uri": "4DVu7YgHVJaeN0C7HNpy2q"
+                },
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Journey In Satchidananda",
+                    "uri": "2gG3ivmsfylVXLyIJvLXyN"
+                },
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Wisdom Eye",
+                    "uri": "0XLH43dcYq2pOe7COx8gPT"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alice Coltrane",
+                    "title": "Turiya & Ramakrishna",
+                    "uri": "4DVu7YgHVJaeN0C7HNpy2q"
+                },
+                {
+                    "artist": "Hailey Tuck",
+                    "title": "Coltrane",
+                    "uri": "4e0rPAo11JoOgxWZHrLTcT"
+                },
+                {
+                    "artist": "Tim Deluxe",
+                    "title": "JAS - Club Mix",
+                    "uri": "48bPxNrInzzJjwiJQwtJ1M"
+                }
+            ]
+        }
+    },
+    "the-cosmic-tones-research-trio-29th-july-2025": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hermanos Gutiérrez",
+                    "title": "Sonido Cósmico",
+                    "uri": "6O4m4kgRStnagI4l0f7cOx"
+                },
+                {
+                    "artist": "Erik Phillips-Nania",
+                    "title": "Introduction: Hymn to the Flowing Word",
+                    "uri": "5YIHCgH7rpNOQe5KbjZAn2"
+                },
+                {
+                    "artist": "Erik Phillips-Nania",
+                    "title": "Beads of Wisdom, Vedanta Lit., Vol. 1",
+                    "uri": "6IDj9joFfJjRZt5zK1X6o9"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Nujabes",
+                    "title": "Spiritual State (feat. Uyama Hiroto)",
+                    "uri": "0jkaVZIYepDPnB140eR1Uc"
+                },
+                {
+                    "artist": "Nujabes",
+                    "title": "Spiritual State",
+                    "uri": "1Q1onoQM04M590VO7aLOyt"
+                },
+                {
+                    "artist": "Nujabes",
+                    "title": "Spiritual State",
+                    "uri": "1lt5uZrtJTxbZH9DKJZTOT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nujabes",
+                    "title": "Spiritual State (feat. Uyama Hiroto)",
+                    "uri": "0jkaVZIYepDPnB140eR1Uc"
+                },
+                {
+                    "artist": "Alkani",
+                    "title": "Thorns",
+                    "uri": "0j7PHIPGhl2zHbXGgOWo2N"
+                },
+                {
+                    "artist": "Black Star",
+                    "title": "Respiration",
+                    "uri": "5mxVKAuunOKqcBfR5ivbRf"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Hubert Laws",
+                    "title": "Gymnopedie #1",
+                    "uri": "0KC2nohOCPVXkQZ7vqRq3g"
+                },
+                {
+                    "artist": "Hubert Laws",
+                    "title": "Gymnopedie #1",
+                    "uri": "0olRTCPD5RRE7AZdjrsUOp"
+                },
+                {
+                    "artist": "Hubert Laws",
+                    "title": "Gymnopedie #1",
+                    "uri": "5EyNXFNrgVsNwFEA2aQ4XM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hubert Laws",
+                    "title": "Gymnopedie #1",
+                    "uri": "0olRTCPD5RRE7AZdjrsUOp"
+                },
+                {
+                    "artist": "Hubert Laws",
+                    "title": "Gymnopedie #1",
+                    "uri": "0KC2nohOCPVXkQZ7vqRq3g"
+                },
+                {
+                    "artist": "Erik Satie",
+                    "title": "Gymnopedie Nr. 1",
+                    "uri": "1VIBEacGTjLnrNjTPOtBfn"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Gregory Allison",
+                    "title": "Samatha III",
+                    "uri": "6igAtD2uSRbUxPdWDRDrEz"
+                },
+                {
+                    "artist": "Gregory Allison",
+                    "title": "Samatha II",
+                    "uri": "5SRHHOvIGteZeDFP4iPNwi"
+                },
+                {
+                    "artist": "Gregory Allison",
+                    "title": "Samatha I",
+                    "uri": "0ANVwdUMuX1pKjZkj6EAyt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gregory Allison",
+                    "title": "Samatha III",
+                    "uri": "6igAtD2uSRbUxPdWDRDrEz"
+                },
+                {
+                    "artist": "Gregory Allison",
+                    "title": "Samatha II",
+                    "uri": "5SRHHOvIGteZeDFP4iPNwi"
+                },
+                {
+                    "artist": "Christina Aguilera",
+                    "title": "Thank You (Dedication to Fans...)",
+                    "uri": "3U89vcJdwcv4i8QFe6TaMM"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Tom Donald",
+                    "title": "Parce Domine",
+                    "uri": "2diMAeLekmDRrqeh3LgfAT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tom Donald",
+                    "title": "Parce Domine",
+                    "uri": "2diMAeLekmDRrqeh3LgfAT"
+                },
+                {
+                    "artist": "The Schola Cantorum of St. John XXIII Parish",
+                    "title": "Parce Domine",
+                    "uri": "1J2NggmFomGRosXeODd7Am"
+                },
+                {
+                    "artist": "Jan Garbarek",
+                    "title": "Parce Mihi Domine",
+                    "uri": "46tPGzCXCI2oKsemztDA9u"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Patricia Wolf",
+                    "title": "Krummi’s Theme",
+                    "uri": "2PfZTmCbrlKyLR1T2tRGIa"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Patricia Wolf",
+                    "title": "Krummi’s Theme",
+                    "uri": "2PfZTmCbrlKyLR1T2tRGIa"
+                },
+                {
+                    "artist": "Patricia Wolf",
+                    "title": "Early Memories",
+                    "uri": "1gUCftV0lHiVOqUf9i2OyW"
+                },
+                {
+                    "artist": "Guillaume Poncelet",
+                    "title": "Patricia",
+                    "uri": "1lDjAQOvZqzZhGND13qcev"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "The Cosmic Tones Research Trio",
+                    "title": "Sankofa",
+                    "uri": "3G929RQk2UUdNdACC7FomJ"
+                },
+                {
+                    "artist": "The Cosmic Tones Research Trio",
+                    "title": "Sankofa",
+                    "uri": "45ZmCMBpgZLtQC66MEL4bc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Cosmic Tones Research Trio",
+                    "title": "Sankofa",
+                    "uri": "3G929RQk2UUdNdACC7FomJ"
+                },
+                {
+                    "artist": "The Cosmic Tones Research Trio",
+                    "title": "Sankofa",
+                    "uri": "45ZmCMBpgZLtQC66MEL4bc"
+                },
+                {
+                    "artist": "VideoGameRapBattles",
+                    "title": "Ash Ketchum Cypher",
+                    "uri": "7tMrspy6DoNEzviQta3vZB"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Kennedy Realness",
+                    "title": "Rhythm Vibes",
+                    "uri": "2K5IE3LJDkI079CjxonWmm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kennedy Realness",
+                    "title": "Rhythm Vibes",
+                    "uri": "2K5IE3LJDkI079CjxonWmm"
+                },
+                {
+                    "artist": "limitpush",
+                    "title": "Resilient Rhythms",
+                    "uri": "1BL6DaZfE8JjhEoePDzH9e"
+                },
+                {
+                    "artist": "Martinsfreeson",
+                    "title": "Minisoyo",
+                    "uri": "4gkCTZl09bPuHB6cPTyHof"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Gregory Uhlmann",
+                    "title": "The Fool on the Hill",
+                    "uri": "1jGueNoPMxHYPF9HLoMIAe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gregory Uhlmann",
+                    "title": "The Fool on the Hill",
+                    "uri": "1jGueNoPMxHYPF9HLoMIAe"
+                },
+                {
+                    "artist": "The Beatles",
+                    "title": "Glass Onion - Remastered 2009",
+                    "uri": "2jAojvUaPoHPFSPpF0UNRo"
+                },
+                {
+                    "artist": "Paul McCartney",
+                    "title": "The Fool On The Hill - Live",
+                    "uri": "592S3Xp9XJQuCJkphjigL3"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Julius Eastman",
+                    "title": "Gay Guerrilla",
+                    "uri": "3cSpVzEmTjohDSWxJtt5oS"
+                },
+                {
+                    "artist": "Julius Eastman",
+                    "title": "Gay Guerrilla",
+                    "uri": "6ROP4TW7rTs9oXCIonZezp"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Julius Eastman",
+                    "title": "Gay Guerrilla",
+                    "uri": "3cSpVzEmTjohDSWxJtt5oS"
+                },
+                {
+                    "artist": "Julius Eastman",
+                    "title": "Gay Guerrilla - Live",
+                    "uri": "2tD9B9k40OHER2GIPKHLZu"
+                },
+                {
+                    "artist": "Julius Eastman",
+                    "title": "Gay Guerrilla",
+                    "uri": "6ROP4TW7rTs9oXCIonZezp"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Sun Ra",
+                    "title": "A Fireside Chat With Lucifer",
+                    "uri": "6Ib0CKSzwU1bqcxdKnfkhF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sun Ra",
+                    "title": "Nuclear War",
+                    "uri": "2Dc4MWMRcM7coMtXKjf7sL"
+                },
+                {
+                    "artist": "Prophétique",
+                    "title": "Luciferous",
+                    "uri": "6eWdQ0tioQV0kRKTOHail5"
+                },
+                {
+                    "artist": "Murs",
+                    "title": "The Dance",
+                    "uri": "2H90qf41wuMvxckVQ3BFgP"
                 }
             ]
         }
