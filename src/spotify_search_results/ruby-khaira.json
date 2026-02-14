@@ -1,4 +1,574 @@
 {
+    "ruby-khaira-12th-february-2026": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "David Lurey",
+                    "title": "Lokah Samastah Sukhino Bhavantu",
+                    "uri": "1fAYNVwqe3e3szGEcQQYSz"
+                },
+                {
+                    "artist": "White Sun",
+                    "title": "Ik Ardas Wahe Guru",
+                    "uri": "4ULa9dPWt96IdNGQ5Vu7Wi"
+                },
+                {
+                    "artist": "Jai-Jagdeesh",
+                    "title": "Laya Yoga",
+                    "uri": "5yb9TBfnuQ24AJ34edaGJr"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dj Vix",
+                    "title": "Chit Karda - H.S. Talwar",
+                    "uri": "0GcJOQT44NFG2iwtbC9jUy"
+                },
+                {
+                    "artist": "Dj Vix",
+                    "title": "Chit Karda Remix",
+                    "uri": "520N9BChhhXSA2UDhXTHJC"
+                },
+                {
+                    "artist": "Dj Vix",
+                    "title": "Chit Karda 2020",
+                    "uri": "1IKkKdcLPfmeVFCRd09WEl"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": ""
+        },
+        "03": {
+            "s0": "",
+            "s1": ""
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Dippa Sat-Rang",
+                    "title": "Bhangra Mein Pawan",
+                    "uri": "76tz6agvDe4P4SCdl7e2ba"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dippa Sat-Rang",
+                    "title": "Bhangra Mein Pawan",
+                    "uri": "76tz6agvDe4P4SCdl7e2ba"
+                },
+                {
+                    "artist": "Deepanshu Jain",
+                    "title": "Jai Shivay Shankara",
+                    "uri": "6xBtCNjzehJtyiHaqLyoAA"
+                },
+                {
+                    "artist": "Jasbir Jassi",
+                    "title": "Rang De Basanti Chola",
+                    "uri": "4w9g6kHq5SIF1pZIN8zQwy"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Shaan",
+                    "title": "Hi Hi Preeto - Remix",
+                    "uri": "7eXGNvcGzXOWddrM71G9Vu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Shaan",
+                    "title": "Hi Hi Preeto - Remix",
+                    "uri": "7eXGNvcGzXOWddrM71G9Vu"
+                },
+                {
+                    "artist": "Mick Clarke",
+                    "title": "Cheap",
+                    "uri": "1jnuSyzL76Ms8qE45zFG5v"
+                },
+                {
+                    "artist": "Mick Clarke",
+                    "title": "Walking in the Dark",
+                    "uri": "2Q2Wo1KATnoXjIi7imZGfj"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Dippa Sat-Rang",
+                    "title": "Dhola Veh Dhola - Remix",
+                    "uri": "0ZN97z7oqgW1LLC8w63hwg"
+                },
+                {
+                    "artist": "Dippa Sat-Rang",
+                    "title": "Dhola Veh Dhola - Remix",
+                    "uri": "1iGqhlMNztVMUibcX57dh3"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dippa Sat-Rang",
+                    "title": "Dhola Veh Dhola - Remix",
+                    "uri": "0ZN97z7oqgW1LLC8w63hwg"
+                },
+                {
+                    "artist": "Dippa Sat-Rang",
+                    "title": "Dhola Veh Dhola - Remix",
+                    "uri": "1iGqhlMNztVMUibcX57dh3"
+                },
+                {
+                    "artist": "Aneela Mirza",
+                    "title": "Say Na Say Na",
+                    "uri": "4apmtrZ0jOe4AqT3dByOCH"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Pargan Singh Teji",
+                    "title": "Ek Mera Lak Patla",
+                    "uri": "69SDwM1yd3yRqmgNcKmCRV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pargan Singh Teji",
+                    "title": "Ek Mera Lak Patla",
+                    "uri": "69SDwM1yd3yRqmgNcKmCRV"
+                },
+                {
+                    "artist": "Bir Singh",
+                    "title": "Salok Mahalla 9",
+                    "uri": "5by0Z8gc3U0ZL3IcrlNDYu"
+                },
+                {
+                    "artist": "D Pac",
+                    "title": "Gaddi Gol Gol",
+                    "uri": "1sQchn6mekqZWANrroVt69"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Diljit Dosanjh",
+                    "title": "Jugni",
+                    "uri": "0gHFDbhx2RFBrhJplPxlcT"
+                },
+                {
+                    "artist": "Badshah",
+                    "title": "God Damn",
+                    "uri": "209QxKVJzh2FLUmZHpYs4m"
+                },
+                {
+                    "artist": "Diljit Dosanjh",
+                    "title": "Kinni Kinni",
+                    "uri": "3F3ZuXYFXGM1V6pk3b3zmi"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Surinder Rattan",
+                    "title": "Tappe Dub",
+                    "uri": "1YUOabuzg509Y4QgGhJIN3"
+                },
+                {
+                    "artist": "Surinder Baba",
+                    "title": "TU TE MAIN",
+                    "uri": "05C4kFDAx6IJ56wK6X5PfE"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jagjit Singh",
+                    "title": "Dhai Din Na Jawani Nal Chaldi",
+                    "uri": "4kCvDd54EH9UH8yJLp63In"
+                },
+                {
+                    "artist": "Sona Jobarteh",
+                    "title": "Ballaké Sissoko",
+                    "uri": "32lEaWmm6W2dGOUSwwYovs"
+                },
+                {
+                    "artist": "Malkit Singh",
+                    "title": "Gurh Nalon Ishq",
+                    "uri": "5Kp9cTbNROfvPxiyrAvUI2"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kuldip Manak",
+                    "title": "Yari Paun Lagayan",
+                    "uri": "6GvZMqJuTCOtASlLCa7yde"
+                },
+                {
+                    "artist": "Jass Manak",
+                    "title": "Lehanga",
+                    "uri": "5D03O0tyfs9FASLx4NanpN"
+                },
+                {
+                    "artist": "Rajvir Jawanda",
+                    "title": "Patiale Wala",
+                    "uri": "2HaGWNUY5Pz4E6dUM8dfgj"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Panjabi MC",
+                    "title": "Mundian To Bach Ke",
+                    "uri": "2LxAeJ9KUj1GRS9oeHgQ3i"
+                },
+                {
+                    "artist": "Simar Panag",
+                    "title": "KAMLI",
+                    "uri": "5XYcFJWdVivNy6TtrIEic6"
+                },
+                {
+                    "artist": "KV5",
+                    "title": "I's of a Child",
+                    "uri": "0POtPKyye2UJAxZeOpzQHu"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dr Zeus",
+                    "title": "Je Jatt Bigr Gaya",
+                    "uri": "7oJPqkG75PQErJMA4GEmEO"
+                },
+                {
+                    "artist": "Jazzy B",
+                    "title": "Rambo",
+                    "uri": "3xzvxJnDizpk7Mt7RdQcDl"
+                }
+            ]
+        }
+    },
+    "ruby-khaira-15th-january-2026": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "A.S. Kang",
+                    "title": "Punjab Diyan Mutiaran",
+                    "uri": "1lMguAeZyp0uLY4hmpK6WU"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "A.S. Kang",
+                    "title": "Punjab Diyan Mutiaran",
+                    "uri": "1lMguAeZyp0uLY4hmpK6WU"
+                },
+                {
+                    "artist": "Timmy Trumpet",
+                    "title": "Punjabi",
+                    "uri": "2Byxr0ooaeLayBBaVLup67"
+                },
+                {
+                    "artist": "Sajjan Adeeb",
+                    "title": "Naraan",
+                    "uri": "5vqdhpV3C9gpepD7wY57RW"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Udo Lindenberg",
+                    "title": "Komet",
+                    "uri": "7oQepKHmXDaPC3rgeLRvQu"
+                },
+                {
+                    "artist": "Apache 207",
+                    "title": "Ein Lied für dich",
+                    "uri": "3awCCyQfwNbQdf3lL5EL7C"
+                },
+                {
+                    "artist": "Apache 207",
+                    "title": "Engel",
+                    "uri": "1vn6So803IzHcsRV6O7qiS"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "corandcrank",
+                    "title": "Diva 2",
+                    "uri": "60dGXq7vINvaL4fGlBdo01"
+                },
+                {
+                    "artist": "Chill Motion",
+                    "title": "Diva",
+                    "uri": "6P8AtxksGHXx4aDm5blxSH"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Eshara",
+                    "title": "Nachde Punjabi",
+                    "uri": "10dMQuk7TXAXVoPYmBUZ9S"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Eshara",
+                    "title": "Nachde Punjabi",
+                    "uri": "10dMQuk7TXAXVoPYmBUZ9S"
+                },
+                {
+                    "artist": "Abrar Ul Haq",
+                    "title": "Nach Punjaban",
+                    "uri": "4o3R63GTBm9wM65YleFXKg"
+                },
+                {
+                    "artist": "Gurshabad",
+                    "title": "Ashke Boliyan (From \"Ashke\" Soundtrack)",
+                    "uri": "7nrNDGyWnE1kQ6j99w6w46"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Harbhajan Mann",
+                    "title": "Oye Hoye",
+                    "uri": "75y77cejgu4m6TlXA5GFK9"
+                },
+                {
+                    "artist": "Harbhajan Mann",
+                    "title": "Oye Hoye (Remix)",
+                    "uri": "6W0AfuN0lX01p4WwSHZl65"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Harbhajan Mann",
+                    "title": "Oye Hoye",
+                    "uri": "75y77cejgu4m6TlXA5GFK9"
+                },
+                {
+                    "artist": "Harbhajan Mann",
+                    "title": "Akhiyan",
+                    "uri": "2ylUt4Z8ihQXgD4K7pSoNx"
+                },
+                {
+                    "artist": "Nakash Aziz",
+                    "title": "Chappan Taal",
+                    "uri": "5OW0LlGFs7PnivY07mFJqm"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "K.S. Bhamrah",
+                    "title": "Waz Da-E-Dhol",
+                    "uri": "1MAPnn73GMOSzwutiynXNJ"
+                },
+                {
+                    "artist": "Ks Bhamrah Of Apna Sangeet",
+                    "title": "Waz Da-E-Dhol",
+                    "uri": "5JvvflV6dVIN4881nZzLKH"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "K.S. Bhamrah",
+                    "title": "Waz Da-E-Dhol",
+                    "uri": "1MAPnn73GMOSzwutiynXNJ"
+                },
+                {
+                    "artist": "Ks Bhamrah Of Apna Sangeet",
+                    "title": "Waz Da-E-Dhol",
+                    "uri": "5JvvflV6dVIN4881nZzLKH"
+                },
+                {
+                    "artist": "Ahmad Zahir",
+                    "title": "Az Baraaye Gham Man",
+                    "uri": "19mLsxx7RntROQBXHMaTmO"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Labh Janjua",
+                    "title": "Dimpi De Naal Bhaage Bunty (From \"Running Shaadi\")",
+                    "uri": "2eAarHKP3hNHWxK15O7Qth"
+                },
+                {
+                    "artist": "Labh Janjua",
+                    "title": "Dimpi De Naal Bhaage Bunty",
+                    "uri": "3qOPGqk6nlzW2KF9XmEiz8"
+                },
+                {
+                    "artist": "Lamb",
+                    "title": "Gabriel",
+                    "uri": "0QKQfBRO7yv8XCefwEax14"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sat Hari Singh Khalsa",
+                    "title": "Sarab Nirantar",
+                    "uri": "76vK4MgmmliZHWcNNtP6GH"
+                },
+                {
+                    "artist": "Marion Ritz Valentin",
+                    "title": "Om Tare Tutare",
+                    "uri": "6Rq7SrebeBjUno9t3C7a2n"
+                },
+                {
+                    "artist": "Tina Malia",
+                    "title": "Anandamayi",
+                    "uri": "7DqkNkbjhCFx51U7DOC8Aw"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sat Hari Singh Khalsa",
+                    "title": "Ad Gureh Nameh",
+                    "uri": "4kqe3dKqz39RbGYl1YUqz0"
+                },
+                {
+                    "artist": "Nirinjan Kaur",
+                    "title": "Ad Guray Nameh",
+                    "uri": "1PVUzbDkRQNEdcrAypGLhx"
+                },
+                {
+                    "artist": "David Lurey",
+                    "title": "Aad Guray Nameh",
+                    "uri": "0WzVxVhGE2voRxXaRw5AXE"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kuldeep Manak",
+                    "title": "Jind Kadh Ke - Remix",
+                    "uri": "203UTQ0ERzvkrcQ0IMCj7X"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Surinder Baba",
+                    "title": "TU TE MAIN",
+                    "uri": "05C4kFDAx6IJ56wK6X5PfE"
+                },
+                {
+                    "artist": "Quratulain Balouch",
+                    "title": "Baliye (Laung Gawacha) [Coke Studio Season 9]",
+                    "uri": "63LTVXh5TujgeB202CbqGa"
+                },
+                {
+                    "artist": "Quratulain Balouch",
+                    "title": "Baliye (Laung Gawacha)",
+                    "uri": "0iPR8H2UgvQuKcU245NC5J"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Preet Harpal",
+                    "title": "Teriyan Adavaan",
+                    "uri": "3apVa0mTpLyMKBqMnPEen2"
+                },
+                {
+                    "artist": "LUVSA",
+                    "title": "YAAD",
+                    "uri": "5Z6o0C11M0sXfSyCcEmBkc"
+                },
+                {
+                    "artist": "Lovely Nirman",
+                    "title": "Din Tan Purane",
+                    "uri": "3oWCLOOednKL2oNzDdaA7t"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Aria Band",
+                    "title": "Tu Dokhtare Herati",
+                    "uri": "3OGSXPv5RTQiaidr8IagN0"
+                },
+                {
+                    "artist": "Jawid Sharif",
+                    "title": "Wah Wah",
+                    "uri": "6dkUdVCM9dBk8C9ML0vJEj"
+                },
+                {
+                    "artist": "Duran Etemadi",
+                    "title": "Shirin",
+                    "uri": "4sE4velEL5tUQyGxwv20i3"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Anouar Brahem",
+                    "title": "Vague",
+                    "uri": "6t5hIcvL9y1YmpT5Svpg37"
+                },
+                {
+                    "artist": "Karan Aujla",
+                    "title": "Mexico",
+                    "uri": "7pGnpYnew7Nx7m3ADzj6zv"
+                },
+                {
+                    "artist": "Karan Aujla",
+                    "title": "Mexico",
+                    "uri": "3B5IGupp1qKYKVURx5wtOV"
+                }
+            ]
+        }
+    },
     "ruby-khaira-18th-december-2025": {
         "00": {
             "s0": "",

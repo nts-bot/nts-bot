@@ -1,4 +1,514 @@
 {
+    "sematary-12th-february-2026": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Tears For Fears",
+                    "title": "Change",
+                    "uri": "2JhIaeltCDCcp02K936tgx"
+                },
+                {
+                    "artist": "Tears For Fears",
+                    "title": "Change - Extended Version",
+                    "uri": "7KdSZ6AqceqaX3Y6tKSs0T"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tears For Fears",
+                    "title": "Change",
+                    "uri": "2JhIaeltCDCcp02K936tgx"
+                },
+                {
+                    "artist": "Linda Ronstadt",
+                    "title": "Long Long Time",
+                    "uri": "1khA4hwhZD4HMecyE1e9U1"
+                },
+                {
+                    "artist": "Drake",
+                    "title": "Family Matters",
+                    "uri": "5GwlXi6YhxFM3wspppMAv5"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "French Montana",
+                    "title": "No, No, No (Hey We Love You)",
+                    "uri": "4ggviGKzqaPbGO22OJwwQd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "French Montana",
+                    "title": "No, No, No (Hey We Love You)",
+                    "uri": "4ggviGKzqaPbGO22OJwwQd"
+                },
+                {
+                    "artist": "French Montana",
+                    "title": "Ever Since U Left Me (I Went Deaf)",
+                    "uri": "5ehgf6op0j2sE4lqjiTkMY"
+                },
+                {
+                    "artist": "Yc",
+                    "title": "Rick",
+                    "uri": "2g5MPiUngxnR43MH1EVDSw"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Black Marble",
+                    "title": "MSQ No-Extra",
+                    "uri": "4KPv9BQVlUJSt8QVi5Jf4x"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Black Marble",
+                    "title": "MSQ No-Extra",
+                    "uri": "4KPv9BQVlUJSt8QVi5Jf4x"
+                },
+                {
+                    "artist": "Anderson .Paak",
+                    "title": "Tints (feat. Kendrick Lamar)",
+                    "uri": "7c3SbTuufigBWURcICnAWy"
+                },
+                {
+                    "artist": "Anderson .Paak",
+                    "title": "Tints (feat. Kendrick Lamar)",
+                    "uri": "1gnwGVoG7V08vMX3hyr90x"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "xaviersobased",
+                    "title": "Zelle You",
+                    "uri": "5Ww3iECn25g6rWRDBWs491"
+                },
+                {
+                    "artist": "xaviersobased",
+                    "title": "Zelle You",
+                    "uri": "61VYnvD03R4MtlGdq5Stxl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "xaviersobased",
+                    "title": "Zelle You",
+                    "uri": "5Ww3iECn25g6rWRDBWs491"
+                },
+                {
+                    "artist": "TrapHard JD",
+                    "title": "boy2theman",
+                    "uri": "6TAycBtxkw0gDMuts9XLbH"
+                },
+                {
+                    "artist": "PARTYOF2",
+                    "title": "FRIENDLY FIRE",
+                    "uri": "6o7Pb73m59q3twUSMSb4dd"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Public Image Ltd.",
+                    "title": "The Order Of Death - 2011 - Remaster",
+                    "uri": "6LM5C6vEAwfAlaobFOURz7"
+                },
+                {
+                    "artist": "Public Image Ltd.",
+                    "title": "The Order Of Death",
+                    "uri": "0uWZFO81pNEctinWGc7kqt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Public Image Ltd.",
+                    "title": "The Order Of Death - 2011 - Remaster",
+                    "uri": "6LM5C6vEAwfAlaobFOURz7"
+                },
+                {
+                    "artist": "Public Image Ltd.",
+                    "title": "The Order Of Death",
+                    "uri": "0uWZFO81pNEctinWGc7kqt"
+                },
+                {
+                    "artist": "2Pac",
+                    "title": "No More Pain",
+                    "uri": "7xeh81c3bxTgqUgy2WN56u"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Max B",
+                    "title": "Bang Bang Boogie",
+                    "uri": "3fff9sisci80pd3RoR8OHr"
+                },
+                {
+                    "artist": "Max B",
+                    "title": "Bang Bang Boogie",
+                    "uri": "35YL8f47clmWRCIK3Rb11p"
+                },
+                {
+                    "artist": "Max Hampson",
+                    "title": "BANG BOOGIE",
+                    "uri": "1NFOZtFKrk6p71Ubyn5auy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Max B",
+                    "title": "Bang Bang Boogie",
+                    "uri": "3fff9sisci80pd3RoR8OHr"
+                },
+                {
+                    "artist": "The Sugarhill Gang",
+                    "title": "Rapper's Delight",
+                    "uri": "2XbwFs07dfm2MGQuYmRMZT"
+                },
+                {
+                    "artist": "Max B",
+                    "title": "Bang Bang Boogie",
+                    "uri": "35YL8f47clmWRCIK3Rb11p"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Keel",
+                    "title": "Speed Demon",
+                    "uri": "4dYQ2i4yH70kKhUXMypICn"
+                },
+                {
+                    "artist": "Keel",
+                    "title": "Speed Demon",
+                    "uri": "1iwvNFT8xBfmVTQddHGEoS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Keel",
+                    "title": "Speed Demon",
+                    "uri": "4dYQ2i4yH70kKhUXMypICn"
+                },
+                {
+                    "artist": "Keel",
+                    "title": "Speed Demon",
+                    "uri": "1iwvNFT8xBfmVTQddHGEoS"
+                },
+                {
+                    "artist": "Justin Bieber",
+                    "title": "SPEED DEMON",
+                    "uri": "4YmS7BALpAU0h4EAF4fYuh"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "fakemink",
+                    "title": "Blow The Speaker .",
+                    "uri": "27P75rHB4CvezhpyTJvn18"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "fakemink",
+                    "title": "Blow The Speaker .",
+                    "uri": "27P75rHB4CvezhpyTJvn18"
+                },
+                {
+                    "artist": "Vanilla Ice",
+                    "title": "Ice Ice Baby",
+                    "uri": "11d9oUiwHuYt216EFA2tiz"
+                },
+                {
+                    "artist": "8nfra",
+                    "title": "4me",
+                    "uri": "6633Ms3FvBxYgUGkep3k97"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "SALEM",
+                    "title": "King Night",
+                    "uri": "7iLILXrDGeNWuXB8N4q7sk"
+                },
+                {
+                    "artist": "Salt-N-Pepa",
+                    "title": "Shoop",
+                    "uri": "0Pu71wxadDlB8fJXfjIjeJ"
+                },
+                {
+                    "artist": "Jessie Ware",
+                    "title": "That! Feels Good!",
+                    "uri": "1XaHF28nrXBbyitGIGSdna"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "D-Money",
+                    "title": "Kiss Me Thru The Phone",
+                    "uri": "1adDRMHOZLHuWm47ovm3LC"
+                },
+                {
+                    "artist": "Twin Tribes",
+                    "title": "Monolith",
+                    "uri": "4T1oZ3UAFKbraSp5JAISWW"
+                },
+                {
+                    "artist": "MONTi",
+                    "title": "UNHINGED",
+                    "uri": "0RapTo3BBggYefqMThH76y"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Lil Peep",
+                    "title": "Moving On",
+                    "uri": "1mo6pWcIXljy3y1Kju5JWG"
+                },
+                {
+                    "artist": "Lil Peep",
+                    "title": "Moving On",
+                    "uri": "3Hmf4dfRIwFaOLLTyDRu3T"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lil Peep",
+                    "title": "Moving On",
+                    "uri": "3Hmf4dfRIwFaOLLTyDRu3T"
+                },
+                {
+                    "artist": "Lil Peep",
+                    "title": "Moving On",
+                    "uri": "1mo6pWcIXljy3y1Kju5JWG"
+                },
+                {
+                    "artist": "Lil Peep",
+                    "title": "Star Shopping",
+                    "uri": "1WbhIxkn5ECsOwUm795iX1"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "French Montana",
+                    "title": "Unforgettable (feat. Swae Lee) - Latin Remix",
+                    "uri": "4zii9cq9ZgxYJFnaxM3Tul"
+                },
+                {
+                    "artist": "Juicy J",
+                    "title": "So Damn Fucked Up",
+                    "uri": "4EuYnPuAMdIU9WKZvva9lp"
+                },
+                {
+                    "artist": "Domo Genesis",
+                    "title": "Go (Gas) (feat. Wiz Khalifa, Juicy J & Tyler, The Creator)",
+                    "uri": "0v3IeMw8l2M3TjIqQrihDW"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "EsDeeKid",
+                    "title": "LV Sandals",
+                    "uri": "5uz5v1hRZLjNGatcPtOWUv"
+                },
+                {
+                    "artist": "EsDeeKid",
+                    "title": "Phantom",
+                    "uri": "57Z6TJCTMACXxdrcwZ3Zvf"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Sematary",
+                    "title": "LAURA",
+                    "uri": "2MtJLeApgZ21lzNonopyPW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sematary",
+                    "title": "LAURA",
+                    "uri": "2MtJLeApgZ21lzNonopyPW"
+                },
+                {
+                    "artist": "Ghost Mountain",
+                    "title": "Damien",
+                    "uri": "2QFpfCxoGwubuQmCtCi7Iv"
+                },
+                {
+                    "artist": "Sematary",
+                    "title": "IN THE GLOAM",
+                    "uri": "7xLJWiIwVLHKTCbTdRIyR6"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Three 6 Mafia",
+                    "title": "Playa Hataz",
+                    "uri": "0TfHub9Xd5kr6lwpiWOxO7"
+                },
+                {
+                    "artist": "Three 6 Mafia",
+                    "title": "Playa Hataz",
+                    "uri": "7cnoRMMYsWg7bU452gNksn"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Three 6 Mafia",
+                    "title": "Playa Hataz",
+                    "uri": "0TfHub9Xd5kr6lwpiWOxO7"
+                },
+                {
+                    "artist": "Three 6 Mafia",
+                    "title": "Playa Hataz",
+                    "uri": "7cnoRMMYsWg7bU452gNksn"
+                },
+                {
+                    "artist": "Three 6 Mafia",
+                    "title": "Sippin On Some Syrup (feat. UGK (Underground Kingz) & Project Pat)",
+                    "uri": "2EduiM2UNwjCC7PsLxnOCH"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jazeek",
+                    "title": "PLAYBOYBUNNIES",
+                    "uri": "5UOYENShZWZ5SVZFJWJXN0"
+                },
+                {
+                    "artist": "Ra Moody",
+                    "title": "Never Retire",
+                    "uri": "17Ls5UQkEzf6tIB7I9UUEM"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DJ Clue",
+                    "title": "Breathe Easy",
+                    "uri": "7lzBzglVwDUR8oqFDsJOys"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Nokia Angel",
+                    "title": "All Mine",
+                    "uri": "1ZEsaFZldUvaWm5qsHb37V"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nokia Angel",
+                    "title": "All Mine",
+                    "uri": "1ZEsaFZldUvaWm5qsHb37V"
+                },
+                {
+                    "artist": "Ringo Starr",
+                    "title": "You're Sixteen (You’re Beautiful And You’re Mine)",
+                    "uri": "4MAxWahEbzU8m4bD6mSZg9"
+                },
+                {
+                    "artist": "Eartha Kitt",
+                    "title": "Santa Baby (with Henri René & His Orchestra)",
+                    "uri": "1foCxQtxBweJtZmdxhEHVO"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Chief Keef",
+                    "title": "Itz Crackin",
+                    "uri": "0J3QGx2PRmvHnP4LPcRRqK"
+                },
+                {
+                    "artist": "Chief Keef",
+                    "title": "In It",
+                    "uri": "47M8fdOvegJ0oh5ncFlple"
+                },
+                {
+                    "artist": "Chief Keef",
+                    "title": "INTRO",
+                    "uri": "7vwOAYaOKOh1ZFWDKpcUrR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chief Keef",
+                    "title": "It Ain't My Fault",
+                    "uri": "7BQkupVjSN5fDbESwX8xKv"
+                },
+                {
+                    "artist": "Chief Keef",
+                    "title": "Itz Crackin",
+                    "uri": "0J3QGx2PRmvHnP4LPcRRqK"
+                },
+                {
+                    "artist": "Niky Savage",
+                    "title": "UFFA (feat. Silent Bob)",
+                    "uri": "6Z5xZS3W3zLJGGDA5hv64H"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Brioni T",
+                    "title": "Buzzin'",
+                    "uri": "3n2mpp4UuWqzYVH8dr7xpN"
+                },
+                {
+                    "artist": "PartyPatrioten",
+                    "title": "Anti-Antifa",
+                    "uri": "0PfnzVzmdN4LHydMVuiJWQ"
+                },
+                {
+                    "artist": "SAP",
+                    "title": "Not Good Enough",
+                    "uri": "6whJagUF29c0pKzg4DkWfX"
+                }
+            ]
+        }
+    },
     "sematary-18th-december-2025": {
         "00": {
             "s0": "",
