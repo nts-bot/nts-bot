@@ -2691,6 +2691,555 @@
             ]
         }
     },
+    "cosmic-peekaboo-19th-february-2026": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Bob Dylan",
+                    "title": "Like a Rolling Stone",
+                    "uri": "3AhXZa8sUQht0UEdBJgpGc"
+                },
+                {
+                    "artist": "Black Eyed Peas",
+                    "title": "Where Is The Love?",
+                    "uri": "3lJrOEETEWkykce81GlQ3G"
+                },
+                {
+                    "artist": "CMC 3",
+                    "title": "A Mutual Friend",
+                    "uri": "0oo7APt2BwlH2DvLo163xC"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Lyme & Cybelle",
+                    "title": "Follow Me",
+                    "uri": "4bzKTQe0oCsifHl3tgzhfy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lyme & Cybelle",
+                    "title": "Follow Me",
+                    "uri": "4bzKTQe0oCsifHl3tgzhfy"
+                },
+                {
+                    "artist": "NotWei",
+                    "title": "Follow Me",
+                    "uri": "7C2EoD2EcAvCgECdsDGELW"
+                },
+                {
+                    "artist": "Lion",
+                    "title": "Unfollow Me Slowly",
+                    "uri": "1ScE2netU9CU0VXdOh7EJo"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Erik Heller",
+                    "title": "Look Where I Am (Well It's Right Over Here)",
+                    "uri": "5EySWnQkGhniSfpueS81P5"
+                },
+                {
+                    "artist": "Erik Heller",
+                    "title": "Look Where I Am (Well It's Right Over Here)",
+                    "uri": "1ABSLiacCzSWfUJswlk7zX"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Erik Heller",
+                    "title": "Look Where I Am (Well It's Right Over Here)",
+                    "uri": "5EySWnQkGhniSfpueS81P5"
+                },
+                {
+                    "artist": "Erik Heller",
+                    "title": "Look Where I Am (Well It's Right Over Here)",
+                    "uri": "1ABSLiacCzSWfUJswlk7zX"
+                },
+                {
+                    "artist": "PinkPantheress",
+                    "title": "Stateside + Zara Larsson",
+                    "uri": "1DwscornXpj8fmOmYVlqZt"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Tom Scott",
+                    "title": "The Honeysuckle Breeze",
+                    "uri": "3HLAOE3abUkDcO6LMpFmP4"
+                },
+                {
+                    "artist": "Tom Scott",
+                    "title": "The Honeysuckle Breeze",
+                    "uri": "59EZXnVvLnYWM7qv4YFZVw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tom Scott",
+                    "title": "Today",
+                    "uri": "4i5hLY7mNIp70YhZveeItm"
+                },
+                {
+                    "artist": "Christian Scott aTunde Adjuah",
+                    "title": "So What",
+                    "uri": "5LF246Vvt0uZgIcZ1Pj7mq"
+                },
+                {
+                    "artist": "Nas",
+                    "title": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
+                    "uri": "5PQmSHzWnlgG4EBuIqjac2"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "The Free Design",
+                    "title": "Umbrellas",
+                    "uri": "0lj7sOhnVsvHolCyvCalgW"
+                },
+                {
+                    "artist": "The Free Design",
+                    "title": "Umbrellas - Mono",
+                    "uri": "7wz8UHw0qUKbMgz2VHUiP7"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Free Design",
+                    "title": "Umbrellas",
+                    "uri": "0lj7sOhnVsvHolCyvCalgW"
+                },
+                {
+                    "artist": "The Free Design",
+                    "title": "Umbrellas - Mono",
+                    "uri": "7wz8UHw0qUKbMgz2VHUiP7"
+                },
+                {
+                    "artist": "Westside Gunn",
+                    "title": "GODS Don't Bleed (feat. Benny the Butcher & Jadakiss)",
+                    "uri": "6ygqTrc7mykDvfyzRZQ8sk"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "The Gordian Knot",
+                    "title": "The Year Of The Sun",
+                    "uri": "29BoX5tytVmPha8B0EoARl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Gordian Knot",
+                    "title": "The Year Of The Sun",
+                    "uri": "29BoX5tytVmPha8B0EoARl"
+                },
+                {
+                    "artist": "Al Stewart",
+                    "title": "Year of the Cat",
+                    "uri": "2NQhQlcVAcDRN3jf6FDTlm"
+                },
+                {
+                    "artist": "Poolside",
+                    "title": "Around The Sun",
+                    "uri": "3OeHPk27py8JaMUqIebznh"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Thodins Path",
+                    "title": "The Thunder Calls",
+                    "uri": "5PXolj1gl5T6p3oxINXaaw"
+                },
+                {
+                    "artist": "Sanctum Ferox",
+                    "title": "Odins Zorn",
+                    "uri": "5r0kOccW4mIovjYOji9jeU"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Tages",
+                    "title": "One Day",
+                    "uri": "0Dv5GuXaZiZed4EyoEfEpc"
+                },
+                {
+                    "artist": "Tages",
+                    "title": "One Day",
+                    "uri": "6MJX5tnm5Jit5En9YPgCpt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tages",
+                    "title": "One Day",
+                    "uri": "6MJX5tnm5Jit5En9YPgCpt"
+                },
+                {
+                    "artist": "Lighthouse Family",
+                    "title": "High",
+                    "uri": "0AQHfKjzky28rf5ytfBANJ"
+                },
+                {
+                    "artist": "Jason Wats",
+                    "title": "One Day",
+                    "uri": "00mf11sBcrnrAbC4lSYoza"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Freddie Muneaux",
+                    "title": "Legendary",
+                    "uri": "3azPJBWDHZgb2DnWv9E6OG"
+                },
+                {
+                    "artist": "Angelo Kelly",
+                    "title": "Mary Did You Know",
+                    "uri": "0sqNOcvxQupJAwCcmR9TMv"
+                },
+                {
+                    "artist": "The LOX",
+                    "title": "Money, Power & Respect (feat. DMX & Lil' Kim) - 2016 Remaster",
+                    "uri": "1ppVLjDHc6Hy0lKuMae8bb"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "The Advancement",
+                    "title": "Child At Play",
+                    "uri": "0FoEdUkjZv0LyC1qQ8mtID"
+                },
+                {
+                    "artist": "The Advancement",
+                    "title": "Child At Play",
+                    "uri": "7D8f5RaL8ADLJJ2rLoBOME"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Advancement",
+                    "title": "Child At Play",
+                    "uri": "0FoEdUkjZv0LyC1qQ8mtID"
+                },
+                {
+                    "artist": "The Advancement",
+                    "title": "Child At Play",
+                    "uri": "7D8f5RaL8ADLJJ2rLoBOME"
+                },
+                {
+                    "artist": "Frank Sinatra",
+                    "title": "Days Of Wine And Roses",
+                    "uri": "5XrLzC6tClHbANUOmPYg2E"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Philip Glass",
+                    "title": "Songs & Poems: Song II (arrranged for viola)",
+                    "uri": "7GKySxdNhelBpmotoNfVeR"
+                },
+                {
+                    "artist": "Billy Bragg",
+                    "title": "Walt Whitman's Niece",
+                    "uri": "52aPbfBoUmoRbBe64u0sMv"
+                },
+                {
+                    "artist": "De La Soul",
+                    "title": "Me Myself and I",
+                    "uri": "792UwI6utk5DMQUT1KXa5E"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "The Groop",
+                    "title": "Blustery Day",
+                    "uri": "2vu5K2lQYKP5nXnet46JDa"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Groop",
+                    "title": "Blustery Day",
+                    "uri": "2vu5K2lQYKP5nXnet46JDa"
+                },
+                {
+                    "artist": "The Fox Heads",
+                    "title": "Boy With a Balloon",
+                    "uri": "4VmKEINN4d7G6YNid3BpVo"
+                },
+                {
+                    "artist": "Vic Chesnutt",
+                    "title": "Onion Soup",
+                    "uri": "0t1CIHn7W5xHz85gXwCLRw"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Norma Tanega",
+                    "title": "Walkin' My Cat Named Dog",
+                    "uri": "6S89ZitemdRnIshumKqpyt"
+                },
+                {
+                    "artist": "Norma Tanega",
+                    "title": "Walkin' My Cat Named Dog",
+                    "uri": "6g9tPNHxbGlvYDzmYA1Bjr"
+                },
+                {
+                    "artist": "Norma Tanega",
+                    "title": "Walkin' My Cat Named Dog",
+                    "uri": "6jrtJN3KExMeRknUVdSiUW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Norma Tanega",
+                    "title": "You're Dead",
+                    "uri": "72T5smavl9ONfOwI0gHf1A"
+                },
+                {
+                    "artist": "Norma Tanega",
+                    "title": "A Street That Rhymes at 6am",
+                    "uri": "4xsYQI1apu1XXe53gNIhIf"
+                },
+                {
+                    "artist": "Tori Amos",
+                    "title": "Crucify - 2015 Remaster",
+                    "uri": "6DVySQASssOCxJOyWMY1jW"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Barry Cavanagh",
+                    "title": "I'm Flying",
+                    "uri": "0aQmQUFh5Dw2dvVRwedy4u"
+                },
+                {
+                    "artist": "Pictures In Sound",
+                    "title": "Fishers of Men",
+                    "uri": "4sITNNAkYh8ST8UT4WCDwY"
+                },
+                {
+                    "artist": "Jan A.P. Kaczmarek",
+                    "title": "Peter - Finding Neverland/Soundtrack Version",
+                    "uri": "5yrUw3CtVT8BQuhsDdniW1"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "The Police",
+                    "title": "Once Upon A Daydream",
+                    "uri": "6d4nFWjT3SF9YgdutJYU2q"
+                },
+                {
+                    "artist": "The Police",
+                    "title": "Once Upon A Daydream",
+                    "uri": "2ofO3HjqVPtoWkMUYPhhxB"
+                },
+                {
+                    "artist": "The Police",
+                    "title": "Once Upon A Daydream",
+                    "uri": "4lJemwMINQwMkDxl7eJekx"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Blondie",
+                    "title": "Once I Had A Love (AKA The Disco Song) - 1975 Version / Remastered 2001",
+                    "uri": "0UFLbtupYWaDGMS4io94Ml"
+                },
+                {
+                    "artist": "Talking Heads",
+                    "title": "Once in a Lifetime - 2003 Remaster",
+                    "uri": "2WM63pILSg6VzgCnu0OU6K"
+                },
+                {
+                    "artist": "Monolink",
+                    "title": "Father Ocean - Ben Böhmer Remix Edit",
+                    "uri": "4oWDaJpusSH1lqIQQkEHsS"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Kathe Green",
+                    "title": "Bossa Nova",
+                    "uri": "5QzA0qmOmryj2TJKxoOpPx"
+                },
+                {
+                    "artist": "Kathe Green",
+                    "title": "Bossa Nova",
+                    "uri": "2q7t9BX5nzdAEIWw1kBY0c"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kathe Green",
+                    "title": "Bossa Nova",
+                    "uri": "5QzA0qmOmryj2TJKxoOpPx"
+                },
+                {
+                    "artist": "Kathe Green",
+                    "title": "Bossa Nova",
+                    "uri": "2q7t9BX5nzdAEIWw1kBY0c"
+                },
+                {
+                    "artist": "Beatenberg",
+                    "title": "Southern Suburbs",
+                    "uri": "4t6zjMKYuHzs34aSOBjUV8"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Herbie Hancock",
+                    "title": "Cantaloupe Island - Remastered 1999/Rudy Van Gelder Edition",
+                    "uri": "0sCeNwt8xRCMR4NhKpMyBe"
+                },
+                {
+                    "artist": "Justin Wellington",
+                    "title": "Iko Iko (My Bestie)",
+                    "uri": "7MC4XR9M9amdmKQr2iDF7i"
+                },
+                {
+                    "artist": "Caroline Polachek",
+                    "title": "Welcome To My Island",
+                    "uri": "4bp2wYweUPvsBrQfntdYcr"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Freddie Scott",
+                    "title": "(You) Got What I Need",
+                    "uri": "5NelxeQ8Yd4ytdhdGog8c5"
+                },
+                {
+                    "artist": "Melody Gardot",
+                    "title": "Same To You - Bakermat Remix",
+                    "uri": "6ZWam8Kk0MILM7dG5ebeHt"
+                },
+                {
+                    "artist": "Chet Baker",
+                    "title": "Oh, You Crazy Moon",
+                    "uri": "2sWn3F6OGJEPNGbkJ9qA40"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jan Garbarek",
+                    "title": "Red Wind",
+                    "uri": "6MB1W09LUZCYrXTA0JdW3M"
+                },
+                {
+                    "artist": "Hania Rani",
+                    "title": "Speaking to the Past",
+                    "uri": "5UzyARwkI3uCpTeisoefsT"
+                },
+                {
+                    "artist": "WanderLight",
+                    "title": "Long Rhodes Home",
+                    "uri": "1LpMgICjMk2gLhXxfCbr65"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Georgie Fame",
+                    "title": "Try My World",
+                    "uri": "1ONQbUcfzlX8CDk9UxPW4w"
+                },
+                {
+                    "artist": "Georgie Fame",
+                    "title": "Try My World",
+                    "uri": "7bwrqNL8ZbXmxrG7UXFW11"
+                },
+                {
+                    "artist": "Georgie Fame",
+                    "title": "Try My World",
+                    "uri": "7GrgtSFBt99Qp4SGt2yZPE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Georgie Fame",
+                    "title": "Try My World",
+                    "uri": "7GrgtSFBt99Qp4SGt2yZPE"
+                },
+                {
+                    "artist": "Laura Branigan",
+                    "title": "Self Control",
+                    "uri": "4JsQkSOE4taeyhH3pv1een"
+                },
+                {
+                    "artist": "WITH U",
+                    "title": "Try",
+                    "uri": "2PkcJdAVlbQCnqoZjYo8JC"
+                }
+            ]
+        },
+        "20": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Terry Jacks",
+                    "title": "Seasons in the Sun",
+                    "uri": "7pGMRy91RcQT9oHdPgYz3A"
+                },
+                {
+                    "artist": "Terry Jacks",
+                    "title": "Seasons in the Sun",
+                    "uri": "0X3d9gx7UDYgcwwkgTeNLR"
+                },
+                {
+                    "artist": "Tim Franks Trio",
+                    "title": "Flowers In April",
+                    "uri": "0nAGENNfFwnukiGVxygTJ2"
+                }
+            ]
+        }
+    },
     "cosmic-peekaboo-22nd-january-2026": {
         "00": {
             "s0": [

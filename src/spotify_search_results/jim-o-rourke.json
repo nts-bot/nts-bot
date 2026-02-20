@@ -3929,6 +3929,325 @@
             ]
         }
     },
+    "jim-o-rourke-19th-february-2026": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Chihei Hatakeyama",
+                    "title": "Idyll",
+                    "uri": "67R9g8USeok4tSctlB98dN"
+                },
+                {
+                    "artist": "Rival Consoles",
+                    "title": "Coda",
+                    "uri": "6xXsmwdnsxJE86Daq5bF1k"
+                },
+                {
+                    "artist": "Applefish",
+                    "title": "Mz 3",
+                    "uri": "0IActxNWL4CG530VBdveW8"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Bernard Bonnier",
+                    "title": "La Demoiselle Au Corsage Vert",
+                    "uri": "3eD42y6ly0iMuhRDNhy6ug"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bernard Bonnier",
+                    "title": "La Demoiselle Au Corsage Vert",
+                    "uri": "3eD42y6ly0iMuhRDNhy6ug"
+                },
+                {
+                    "artist": "Guillaume Costeley",
+                    "title": "Costeley: Musique: No. 48, Quand le berger vit la bergère",
+                    "uri": "4T5JH4FmsAM1uyxygqflxc"
+                },
+                {
+                    "artist": "Zizi Jeanmaire",
+                    "title": "Paris Canaille",
+                    "uri": "7p8W93cZZxpSrxxDYctJl3"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Dawn of Midi",
+                    "title": "Ijiraq",
+                    "uri": "0cPmwS1dx7SHixe7kN5OpY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dawn of Midi",
+                    "title": "Ijiraq",
+                    "uri": "0cPmwS1dx7SHixe7kN5OpY"
+                },
+                {
+                    "artist": "Jasper van Dijk",
+                    "title": "Dawn",
+                    "uri": "0IDIT4eSB5sKSaZUJ8v0XE"
+                },
+                {
+                    "artist": "Ny Fyne",
+                    "title": "Bonjour",
+                    "uri": "2wtXq1o3UIY8HwOv3dW6ja"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Christopher Schwarzwälder",
+                    "title": "Das ganze Boot auf Acid",
+                    "uri": "5BisEQq3dhuTA7HlH1BdIW"
+                },
+                {
+                    "artist": "Niklas Paschburg",
+                    "title": "Paimpol",
+                    "uri": "5NcTeKqWTC2MTBdoWRYkyM"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Michalis Koumbios",
+                    "title": "Ryeta",
+                    "uri": "2Ji6fnGPIXRafXLJT5xvZn"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Lars-Gunnar Bodin",
+                    "title": "Traces I",
+                    "uri": "4Q5TSdX3RyS73aumyMBvmy"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lars-Gunnar Bodin",
+                    "title": "Traces I",
+                    "uri": "4Q5TSdX3RyS73aumyMBvmy"
+                },
+                {
+                    "artist": "Ólafur Arnalds",
+                    "title": "Near Light",
+                    "uri": "6Xajr512QEGAZ20bqAWkyT"
+                },
+                {
+                    "artist": "Björn Ende",
+                    "title": "Namnsången",
+                    "uri": "5Nih4qh5VyS1NiwcE0Y2gc"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gavin Bryars",
+                    "title": "Lauda 3",
+                    "uri": "7Ibjxz4jgdhCgC6eWA22W6"
+                },
+                {
+                    "artist": "Gavin Bryars",
+                    "title": "Tre Laude Dolce: I",
+                    "uri": "48Xjdp3UAOwjTqD6WP9usA"
+                },
+                {
+                    "artist": "Gavin Moss",
+                    "title": "The Park",
+                    "uri": "0JpX6YXOoKsdHCDYLSTiLL"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Cause Commune",
+                    "title": "Kozcopathes",
+                    "uri": "7qIbubxeGVj5LOeNz4UzRN"
+                },
+                {
+                    "artist": "Anna Lisa Hatzfeld",
+                    "title": "Cadenza",
+                    "uri": "0YNV8GIKVi8IT7bdEqVvGH"
+                },
+                {
+                    "artist": "Cadence Weapon",
+                    "title": "Destination (feat. Deradoorian)",
+                    "uri": "6PncPA4qzrU5FNv3UW9yp6"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Dawn of Midi",
+                    "title": "Algol",
+                    "uri": "2HxPIjLK95h4LF0XUitqMG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dawn of Midi",
+                    "title": "Algol",
+                    "uri": "2HxPIjLK95h4LF0XUitqMG"
+                },
+                {
+                    "artist": "RasJosh Beats",
+                    "title": "Be You",
+                    "uri": "2rBvJ8KFxpk2EBP88zAXzw"
+                },
+                {
+                    "artist": "Ny Fyne",
+                    "title": "Bonjour",
+                    "uri": "2wtXq1o3UIY8HwOv3dW6ja"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "MIRA",
+                    "title": "Să Fii Tu",
+                    "uri": "4lDQR1LAHAx0wGR2VlgP0A"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Iannis Xenakis",
+                    "title": "Xenakis: Psappha",
+                    "uri": "5vX2Z0s9nNn2u31P0RPAm3"
+                },
+                {
+                    "artist": "Iannis Xenakis",
+                    "title": "Psappha",
+                    "uri": "1QmXmw8kcMbhsrEbqFagIm"
+                },
+                {
+                    "artist": "Iannis Xenakis",
+                    "title": "Psappha",
+                    "uri": "4ULV8XZN0fQ8fS34tMzMFO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Iannis Xenakis",
+                    "title": "Psappha",
+                    "uri": "1r6oWK1AIgV5M8SMWU0Duu"
+                },
+                {
+                    "artist": "Iannis Xenakis",
+                    "title": "Psappha",
+                    "uri": "4ULV8XZN0fQ8fS34tMzMFO"
+                },
+                {
+                    "artist": "Angelica Cathariou",
+                    "title": "Zyia (Version pour mezzo-soprano flûte et piano)",
+                    "uri": "3aXJkm9wdfDezMpHJNgBbm"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Satoshi & Makoto",
+                    "title": "Crepuscule Leger",
+                    "uri": "7nxDB3xbrAA93OQmRVtVfW"
+                },
+                {
+                    "artist": "Pure Field Recordings",
+                    "title": "L05T PL4C3 - Fragment",
+                    "uri": "1SweSGRgFqhcBnpH8Ag1zF"
+                },
+                {
+                    "artist": "Keisuke Sakai",
+                    "title": "Mizu Sumu",
+                    "uri": "4RjzkgRnmTnlZowgg0RHot"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Rashad Becker",
+                    "title": "Stunde Null",
+                    "uri": "7C64FO4UzYsiPQVSnvhK2S"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rashad Becker",
+                    "title": "Stunde Null",
+                    "uri": "7C64FO4UzYsiPQVSnvhK2S"
+                },
+                {
+                    "artist": "Jutta Maria Herrmann",
+                    "title": "Kapitel 51 - Eine einzige Lüge",
+                    "uri": "0RVeKibT68Q9UDRv3Gu4vL"
+                },
+                {
+                    "artist": "Jutta Maria Herrmann",
+                    "title": "Kapitel 6 - Eine einzige Lüge",
+                    "uri": "1Mo5cmJS9S55iA3bHZTUTi"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Jaco Pastorius",
+                    "title": "John and Mary",
+                    "uri": "4W8xsDeYycGWZXwnFmuTYG"
+                },
+                {
+                    "artist": "Jaco Pastorius",
+                    "title": "John and Mary - 2014 Anthology Version; Remastered",
+                    "uri": "5Z04LKpM4wdx9mGlmTJA6b"
+                },
+                {
+                    "artist": "Jaco Pastorius",
+                    "title": "John and Mary",
+                    "uri": "3V1RnYVkAfY63SGGGbG04N"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jaco Pastorius",
+                    "title": "John and Mary",
+                    "uri": "4W8xsDeYycGWZXwnFmuTYG"
+                },
+                {
+                    "artist": "Jaco Pastorius",
+                    "title": "John and Mary - 2014 Anthology Version; Remastered",
+                    "uri": "5Z04LKpM4wdx9mGlmTJA6b"
+                },
+                {
+                    "artist": "Meshell Ndegeocello",
+                    "title": "The Way",
+                    "uri": "3txICxEvBgCBV63B4ednNB"
+                }
+            ]
+        }
+    },
     "jim-o-rourke-19th-may-2022": {
         "00": {
             "s0": "",

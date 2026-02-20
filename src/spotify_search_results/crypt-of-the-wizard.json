@@ -3640,6 +3640,231 @@
             ]
         }
     },
+    "crypt-of-the-wizard-19th-february-2026": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Johan Lindell",
+                    "title": "Fossiler",
+                    "uri": "6VeD2jQwkBI5k7D0DEj3uw"
+                },
+                {
+                    "artist": "Malin Oest",
+                    "title": "Lisa-visa",
+                    "uri": "7pNFGe03QipeOF2wqdxGmi"
+                },
+                {
+                    "artist": "Traste Lindéns Kvintett",
+                    "title": "Dansa på din grav",
+                    "uri": "6KHhLI6hMkG9YEEq8Xmc3M"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Current 93",
+                    "title": "Hitler As Kalki (SDM)",
+                    "uri": "6IrBnxPYF7C4bzL929a98M"
+                },
+                {
+                    "artist": "Laurent Emmmerling",
+                    "title": "Unity",
+                    "uri": "4PJRIOVatI2Zc2HD9nowXi"
+                },
+                {
+                    "artist": "T. S. Eliot",
+                    "title": "Ash Wednesday",
+                    "uri": "0y0f9jN3FZJ1dX2urhgPpS"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Slutet",
+                    "title": "Match Questions, Gasoline Truth",
+                    "uri": "0SlBnLT7Aan9xycy9GIRwd"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Slutet",
+                    "title": "Match Questions, Gasoline Truth",
+                    "uri": "0SlBnLT7Aan9xycy9GIRwd"
+                },
+                {
+                    "artist": "Sawyer Hill",
+                    "title": "Firestarters",
+                    "uri": "2dDjXlJa6pnOTGl8C8iChL"
+                },
+                {
+                    "artist": "Leo Boys",
+                    "title": "Brutality Cypher",
+                    "uri": "31XcZGvelT9ZY0OybtNyp1"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "lil francky",
+                    "title": "Solstice",
+                    "uri": "4IsPBbMTpRXX6NJCtGdvMx"
+                },
+                {
+                    "artist": "Sauceboiz",
+                    "title": "Sijalii",
+                    "uri": "220RctlIVXwfFMRsnpK86N"
+                },
+                {
+                    "artist": "Hus KingPin",
+                    "title": "36 Gas Chambers",
+                    "uri": "0vsdJdGPkTJs5AtSe4FGPV"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Barker",
+                    "title": "Reframing",
+                    "uri": "0gRPbCjHQ3B5R7LnYdxdJg"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Ben Lukas",
+                    "title": "Highs",
+                    "uri": "7qCDT0wOvSuOq4dd7IBKRp"
+                },
+                {
+                    "artist": "Moses Yoofee Trio",
+                    "title": "TILL TOMORROW",
+                    "uri": "4ZPfGxBW7wH14YpqvQD3pQ"
+                },
+                {
+                    "artist": "Kanye West",
+                    "title": "Last Call",
+                    "uri": "0CnlGvfNM09rtLvN9Ojvd5"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Flickers from the Fen",
+                    "title": "Beast Beyond Belief",
+                    "uri": "2A9icgL3AcUbGNit1fb5bq"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Flickers from the Fen",
+                    "title": "Beast Beyond Belief",
+                    "uri": "2A9icgL3AcUbGNit1fb5bq"
+                },
+                {
+                    "artist": "Chris Rea",
+                    "title": "The Road to Hell, Pt. 1 & 2 - New Version 2008",
+                    "uri": "3IRg7GJWAq574gJ4KtO7xA"
+                },
+                {
+                    "artist": "Chris Rea",
+                    "title": "The Road to Hell, Pt. 1 & 2",
+                    "uri": "2fGxyXcaivGBST12PZpRPv"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Joost",
+                    "title": "Fryslân Bop",
+                    "uri": "5oavcuqgoBUJaZPwlXRzIm"
+                },
+                {
+                    "artist": "Labyrinthines",
+                    "title": "Circularity",
+                    "uri": "3U86GGu0IZtCmd1vxrK9ki"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Frédéric Chopin",
+                    "title": "Variations on \"Là ci darem la mano\" in B-Flat Major, Op. 2: VIII., Alla Polacca",
+                    "uri": "69bCQZUH6AhtH3RdMLus2R"
+                },
+                {
+                    "artist": "Keny Arkana",
+                    "title": "Tout tourne autour du Soleil",
+                    "uri": "54tsCA0Q4uyg8qHUXSS9lZ"
+                },
+                {
+                    "artist": "YellowStraps",
+                    "title": "Si tu savais",
+                    "uri": "6jBvGXDiojhio4R5oc6Njq"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Digable Planets",
+                    "title": "Rebirth of Slick (Cool Like Dat)",
+                    "uri": "2mu2oL9gdgHGtlg9poer2u"
+                },
+                {
+                    "artist": "Digable Planets",
+                    "title": "Rebirth Of Slick (Cool Like Dat)",
+                    "uri": "26q6YTrXt9l8qshIveiTX9"
+                },
+                {
+                    "artist": "Vellore",
+                    "title": "Crepuscule",
+                    "uri": "5z086ISuP7TKBDXijryMnz"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Arcanist",
+                    "title": "Deep Sea Gigantism",
+                    "uri": "0pXGdEMAbTUBszQcbYEJ0G"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Arcanist",
+                    "title": "Deep Sea Gigantism",
+                    "uri": "0pXGdEMAbTUBszQcbYEJ0G"
+                },
+                {
+                    "artist": "Omma",
+                    "title": "Squid",
+                    "uri": "0Z6jZYUEsofa0bxoPmtXy5"
+                },
+                {
+                    "artist": "Omma",
+                    "title": "Squid",
+                    "uri": "4ExWaQs8lsslvqjdXu3nvh"
+                }
+            ]
+        }
+    },
     "crypt-of-the-wizard-19th-may-2022": {
         "00": {
             "s0": "",
