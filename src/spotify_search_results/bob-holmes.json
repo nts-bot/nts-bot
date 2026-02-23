@@ -1068,6 +1068,517 @@
             ]
         }
     },
+    "bob-holmes-21st-february-2026": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Almost An Island",
+                    "title": "Palo Verde",
+                    "uri": "4nN2STNlDHsGY9dVsgWQv5"
+                },
+                {
+                    "artist": "Almost An Island",
+                    "title": "Palo Verde",
+                    "uri": "2pn03wWZ22T7PztEZPvpJO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Almost An Island",
+                    "title": "Palo Verde",
+                    "uri": "4nN2STNlDHsGY9dVsgWQv5"
+                },
+                {
+                    "artist": "Almost An Island",
+                    "title": "Palo Verde",
+                    "uri": "2pn03wWZ22T7PztEZPvpJO"
+                },
+                {
+                    "artist": "Jazzamor",
+                    "title": "Here and Now",
+                    "uri": "6j7aMznzYbEYeAJRPD32ZI"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Tracy Chow",
+                    "title": "Rhyme or Reason",
+                    "uri": "6muQlPCqBWtzWPJC8z6OSi"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tracy Chow",
+                    "title": "Rhyme or Reason",
+                    "uri": "6muQlPCqBWtzWPJC8z6OSi"
+                },
+                {
+                    "artist": "Savage Garden",
+                    "title": "I Knew I Loved You",
+                    "uri": "6nozDLxeL0TE4MS9GqYU1v"
+                },
+                {
+                    "artist": "Good Neighbours",
+                    "title": "Daisies",
+                    "uri": "2PmoFIT5DrNn7ZHrZGdhVq"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Marisa Anderson",
+                    "title": "In Waves",
+                    "uri": "1IAjgcUgLpNNToTNMBaiJY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Marisa Anderson",
+                    "title": "In Waves",
+                    "uri": "1IAjgcUgLpNNToTNMBaiJY"
+                },
+                {
+                    "artist": "Jack Miller",
+                    "title": "Picky",
+                    "uri": "1W2GcbyjjSC5SFv2T5RlLo"
+                },
+                {
+                    "artist": "Sean Price",
+                    "title": "John Gotti",
+                    "uri": "6G8rpoObkhRdZhSbf5BY70"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Lauren Helene Green",
+                    "title": "Canyon Loop",
+                    "uri": "34Yi2zfikNYCx9CF2sGHd4"
+                },
+                {
+                    "artist": "Lauren Helene Green",
+                    "title": "Canyon Loop",
+                    "uri": "757weOpqPAvzcbgO6qhuEl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lauren Helene Green",
+                    "title": "Canyon Loop",
+                    "uri": "34Yi2zfikNYCx9CF2sGHd4"
+                },
+                {
+                    "artist": "Laurent Emmmerling",
+                    "title": "Unity",
+                    "uri": "4PJRIOVatI2Zc2HD9nowXi"
+                },
+                {
+                    "artist": "miniBOSS",
+                    "title": "Medusa",
+                    "uri": "1q4CSuM1Qx2uR4rDCNIrV3"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "More Eaze",
+                    "title": "waltz (in memoriam old ways of living)",
+                    "uri": "0Ko5D9xsdBn2zzOo1QaH3b"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "More Eaze",
+                    "title": "waltz (in memoriam old ways of living)",
+                    "uri": "0Ko5D9xsdBn2zzOo1QaH3b"
+                },
+                {
+                    "artist": "Nubiyan Twist",
+                    "title": "Azimuth",
+                    "uri": "0IbfVp3NAjPFW5NpA9e2I3"
+                },
+                {
+                    "artist": "Internet Money",
+                    "title": "Lemonade (feat. NAV)",
+                    "uri": "5U4m2tdTG1dsN9xuqe8o84"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Sofia Miller",
+                    "title": "been longing",
+                    "uri": "4pUkgtxoX8wjFsvruWGvcT"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sofia Miller",
+                    "title": "been longing",
+                    "uri": "4pUkgtxoX8wjFsvruWGvcT"
+                },
+                {
+                    "artist": "Josie Jacobson",
+                    "title": "10 Bullets",
+                    "uri": "2vpgOwL1BjXbt53bWlObEw"
+                },
+                {
+                    "artist": "Benjamin Rhey",
+                    "title": "Longing",
+                    "uri": "2q4faYQZQS3UK2eCxMQ54G"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Yasmin Williams",
+                    "title": "Juvenescence",
+                    "uri": "5KrUt55R9EGl9ZMl8BL8kV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Yasmin Williams",
+                    "title": "Juvenescence",
+                    "uri": "5KrUt55R9EGl9ZMl8BL8kV"
+                },
+                {
+                    "artist": "Pope Nst",
+                    "title": "Class of 2023",
+                    "uri": "486x4igl8sitIPAxJzOeRq"
+                },
+                {
+                    "artist": "Pope Nst",
+                    "title": "Class of 2023",
+                    "uri": "5tYGA80m6vvruUUJCnJvCV"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Austin Ray",
+                    "title": "Keys of Americana",
+                    "uri": "0zTu9QMYkAgAZOfSvy6cEb"
+                },
+                {
+                    "artist": "Austin Ray",
+                    "title": "Keys of Americana",
+                    "uri": "5095UJuHqRDVySYFnyXCmc"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Austin Ray",
+                    "title": "Keys of Americana",
+                    "uri": "0zTu9QMYkAgAZOfSvy6cEb"
+                },
+                {
+                    "artist": "Austin Ray",
+                    "title": "Keys of Americana",
+                    "uri": "5095UJuHqRDVySYFnyXCmc"
+                },
+                {
+                    "artist": "Jad Fair",
+                    "title": "Invaders From Mars",
+                    "uri": "2EFCCrnJr4zlh4Zm5l9Zhf"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Gwenifer Raymond",
+                    "title": "Dreams of Rhiannon's Birds",
+                    "uri": "7lLBNQmaTbSVWDH4yMhEda"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Gwenifer Raymond",
+                    "title": "Dreams of Rhiannon's Birds",
+                    "uri": "7lLBNQmaTbSVWDH4yMhEda"
+                },
+                {
+                    "artist": "Andre Hustace",
+                    "title": "GatsbysLove/Mmmm",
+                    "uri": "4o08qh2Dys1c8orSIAOyGX"
+                },
+                {
+                    "artist": "Jericho Jackson",
+                    "title": "Thank You",
+                    "uri": "4DjsqC5LEfRNSFdptuWP0x"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Hana Stretton",
+                    "title": "Captain was a Cow",
+                    "uri": "1lMXzhTQZsx4Z31gWlujpY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hana Stretton",
+                    "title": "Captain was a Cow",
+                    "uri": "1lMXzhTQZsx4Z31gWlujpY"
+                },
+                {
+                    "artist": "C-Yonko",
+                    "title": "The Reason",
+                    "uri": "7qt4kVNvsGFcbX4YvVKYSV"
+                },
+                {
+                    "artist": "Decora",
+                    "title": "Wag the Dog",
+                    "uri": "1g47yaIN3BvshJkwor0QtD"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Christine Bougie",
+                    "title": "Phantasm",
+                    "uri": "5WORu0ICRDYpCx8DPEDJtY"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Christine Bougie",
+                    "title": "Phantasm",
+                    "uri": "5WORu0ICRDYpCx8DPEDJtY"
+                },
+                {
+                    "artist": "Dobet Gnahoré",
+                    "title": "Woman",
+                    "uri": "0t3K6W0kyYOkTsehQrbSYC"
+                },
+                {
+                    "artist": "Flock-O.D.",
+                    "title": "Achoo",
+                    "uri": "3585nJJb9ezuuS3kyGN0oh"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Carla Patullo",
+                    "title": "Move Me Still",
+                    "uri": "4XArgFW4j9Q0mBfhLKDM58"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Carla Patullo",
+                    "title": "Move Me Still",
+                    "uri": "4XArgFW4j9Q0mBfhLKDM58"
+                },
+                {
+                    "artist": "deep dispatch",
+                    "title": "Move Me",
+                    "uri": "0SgALsoiPvcJ7BDaymoWtm"
+                },
+                {
+                    "artist": "Al Corley",
+                    "title": "Square Rooms",
+                    "uri": "61HGj25ENxWMuSYibZfqyM"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Sarah Louise",
+                    "title": "Home over Yonder Variations Pt. 2",
+                    "uri": "0f3Lw4MF7wNXl2ut78xzOZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sarah Louise",
+                    "title": "Home over Yonder Variations Pt. 2",
+                    "uri": "0f3Lw4MF7wNXl2ut78xzOZ"
+                },
+                {
+                    "artist": "The Georgia Mass Choir",
+                    "title": "Bye and Bye",
+                    "uri": "78P1FsSGt8R70xCS20ttX3"
+                },
+                {
+                    "artist": "Hollywood Stel",
+                    "title": "Temptation",
+                    "uri": "3jLtg8YYOYiGguPXZElgKI"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Dianna Lopez",
+                    "title": "Western Winds",
+                    "uri": "5wHLo2dPlILcv3fymq90ot"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Dianna Lopez",
+                    "title": "Western Winds",
+                    "uri": "5wHLo2dPlILcv3fymq90ot"
+                },
+                {
+                    "artist": "Dianna Lopez",
+                    "title": "Freedom Frequencies (Being the Wind)",
+                    "uri": "4apNq4DBtMoNsz0jxedpfw"
+                },
+                {
+                    "artist": "Berezy",
+                    "title": "Westerly Wind",
+                    "uri": "1YtBvGNFurfonPmxf2tTkh"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Kaki King",
+                    "title": "Can the Gwot Save Us?",
+                    "uri": "5rNaSws9k7wzVLOyJ508IO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Kaki King",
+                    "title": "Can the Gwot Save Us?",
+                    "uri": "5rNaSws9k7wzVLOyJ508IO"
+                },
+                {
+                    "artist": "Kelly Moran",
+                    "title": "Echo in the Field",
+                    "uri": "4xIOeiLTEaoKFsD8JrCdPw"
+                },
+                {
+                    "artist": "Izo FitzRoy",
+                    "title": "Skyline",
+                    "uri": "4Bru5Xm7RPxe5RD27LtqNa"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "Mary Lattimore",
+                    "title": "Sometimes He's In My Dreams",
+                    "uri": "2BQplCyfCnTV5RvDYBz9UB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Mary Lattimore",
+                    "title": "Sometimes He's In My Dreams",
+                    "uri": "2BQplCyfCnTV5RvDYBz9UB"
+                },
+                {
+                    "artist": "Lionel Richie",
+                    "title": "Hello",
+                    "uri": "4GS0EW6DCkRHMOTpnFrUPR"
+                },
+                {
+                    "artist": "Gene Clark",
+                    "title": "Polly Come Home",
+                    "uri": "72s8g7r9MxK2Xv042sHhZc"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Date Palms",
+                    "title": "Yuba Reprise",
+                    "uri": "6fdK2rWlbVDl1ZgCtkvJi2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Date Palms",
+                    "title": "Yuba Reprise",
+                    "uri": "6fdK2rWlbVDl1ZgCtkvJi2"
+                },
+                {
+                    "artist": "G-HUE",
+                    "title": "Mansoons",
+                    "uri": "7eNVGAI334msLSOZFbuxgb"
+                },
+                {
+                    "artist": "Noir Vista",
+                    "title": "Palm Reflections",
+                    "uri": "1ggsH4e5OxQfPEiFVLLL98"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Susan Alcorn",
+                    "title": "Hello Goodbye Hello",
+                    "uri": "4Utq1mnVdsqJbAFFZt9QBr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Susan Alcorn",
+                    "title": "Hello Goodbye Hello",
+                    "uri": "4Utq1mnVdsqJbAFFZt9QBr"
+                },
+                {
+                    "artist": "The Beatles",
+                    "title": "Hello, Goodbye - Remastered 2015",
+                    "uri": "0hqjsgWRfMBf2s8xsvRq1M"
+                },
+                {
+                    "artist": "Lóni Alma",
+                    "title": "Cesula",
+                    "uri": "4B5el6QHxMK4mjiA8QDvLh"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Saariselka",
+                    "title": "Shepherd Canyon",
+                    "uri": "61CgJC3M7CPE17ZExbe3jO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Saariselka",
+                    "title": "Shepherd Canyon",
+                    "uri": "61CgJC3M7CPE17ZExbe3jO"
+                },
+                {
+                    "artist": "Bill Callahan",
+                    "title": "Watch Me Get Married",
+                    "uri": "2mYg3AC8FRjveHdu9iWV5W"
+                },
+                {
+                    "artist": "Anaïs Mitchell",
+                    "title": "Young Man In America",
+                    "uri": "3XmRD1nayLsoXmeIUAFpuR"
+                }
+            ]
+        }
+    },
     "bob-holmes-24th-january-2026": {
         "00": {
             "s0": [
