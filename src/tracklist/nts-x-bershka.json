@@ -123,6 +123,7 @@
             "title": "I.C.U. (The Jack Dub)"
         }
     },
+    "nts-x-bershka-anz-7th-august-2025": {},
     "nts-x-bershka-braden-w-maria-somerville-26th-april-2024": {
         "00": {
             "artist": "Princ€ss",
@@ -261,11 +262,417 @@
             "title": "Rip Mac"
         }
     },
-    "nts-x-bershka-ibiza-bexnil-15th-may-2025": {},
-    "nts-x-bershka-ibiza-chico-blanco-b2b-8kitoo-15th-may-2025": {},
-    "nts-x-bershka-ibiza-keyrah-15th-may-2025": {},
+    "nts-x-bershka-harpriya-7th-august-2025": {
+        "00": {
+            "artist": "Verraco",
+            "title": "Godspeed >"
+        },
+        "01": {
+            "artist": "DJ JM",
+            "title": "Funicular (Feat. Swordman Kitala)"
+        },
+        "02": {
+            "artist": "DJ JM",
+            "title": "Moov"
+        },
+        "03": {
+            "artist": "Dom Carlo",
+            "title": "Lens"
+        },
+        "04": {
+            "artist": "Forumla II",
+            "title": "Festa"
+        },
+        "05": {
+            "artist": "Hasty",
+            "title": "Frmd"
+        },
+        "06": {
+            "artist": "Simo Cell",
+            "title": "Cegetel"
+        },
+        "07": {
+            "artist": "Slimey Ape",
+            "title": "Near Draw [UNRELEASED]"
+        },
+        "08": {
+            "artist": "Myki X Matris",
+            "title": "Longest Night"
+        },
+        "09": {
+            "artist": "Dusky X Farsight Ft. Manga St Hilare",
+            "title": "Work [UNRELEASED]"
+        },
+        "10": {
+            "artist": "Axle",
+            "title": "The Quest [UNRELEASED]"
+        },
+        "11": {
+            "artist": "Buckley",
+            "title": "I Will Hit You All [UNRELEASED]"
+        },
+        "12": {
+            "artist": "Strategy, ",
+            "title": "Premium Grease"
+        },
+        "13": {
+            "artist": "Harba",
+            "title": "Waggle"
+        },
+        "14": {
+            "artist": "Bitter Babe",
+            "title": "Nadie lo puede parar"
+        },
+        "15": {
+            "artist": "Traxual",
+            "title": "This Is Only A Test"
+        },
+        "16": {
+            "artist": "LWS",
+            "title": "Tar"
+        },
+        "17": {
+            "artist": "Kincaid",
+            "title": "Vent"
+        },
+        "18": {
+            "artist": "Plus One",
+            "title": "Bonk (Sputnik One Remix)"
+        },
+        "19": {
+            "artist": "Bakey",
+            "title": "Under Control"
+        }
+    },
+    "nts-x-bershka-ibiza-bexnil-15th-may-2025": {
+        "00": {
+            "artist": "JEUNE MORTY",
+            "title": "SOLO DOLO"
+        },
+        "01": {
+            "artist": "SAHBABII",
+            "title": "ROLL WITH ME"
+        },
+        "02": {
+            "artist": "ALU",
+            "title": "MUSA"
+        },
+        "03": {
+            "artist": "DJMARLBORO",
+            "title": "ELA SÓ PENSA EM BEIJAR"
+        },
+        "04": {
+            "artist": "PLAIBOI CARTI, ",
+            "title": "RATHER LIE [TRIQIIE EDIT]"
+        },
+        "05": {
+            "artist": "ALEESHA & KILVERT",
+            "title": "SE QUE ME AMARAS [Edit]"
+        },
+        "06": {
+            "artist": "JUDELINE, ",
+            "title": "TU ‘ ET MOI"
+        },
+        "07": {
+            "artist": "AKON",
+            "title": "RIGHT NOW [GILLA & RICHTANNER REMIX]"
+        },
+        "08": {
+            "artist": "DOECHII",
+            "title": "ANXIETY [GOTYE EDIT]"
+        },
+        "09": {
+            "artist": "Afrika Bambaataa & Soulsonic Force",
+            "title": "Planet Rock"
+        },
+        "10": {
+            "artist": "SANTO",
+            "title": "GOODIES X FIELD TRIP [BAILE FUNK EDIT]"
+        },
+        "11": {
+            "artist": "CENTRAL CEE & LIL BABY",
+            "title": "BAND4BAND [FALCONS EDIT]"
+        },
+        "12": {
+            "artist": "KENDRICK LAMAR FT. SZA",
+            "title": "LUTHER [ZNFY EDIT]"
+        },
+        "13": {
+            "artist": "LIL UZI VERT",
+            "title": "ALL MY FRIENDS ARE DEAD [SANTO EDIT]"
+        },
+        "14": {
+            "artist": "Unknown Artist",
+            "title": "MOLLY [SVNTIPROD REMIX]"
+        },
+        "15": {
+            "artist": "LEÏTI SENE",
+            "title": "MMM TKM"
+        },
+        "16": {
+            "artist": "SETMER",
+            "title": "COME OVER"
+        },
+        "17": {
+            "artist": "HEGOTSOUND",
+            "title": "BABY GIRL [HEGOTSOUND EDIT]"
+        },
+        "18": {
+            "artist": "FUTURE",
+            "title": "PERCOCET STRIPPER JOINT [RAMMIE’S FLIP]"
+        },
+        "19": {
+            "artist": "AJ TRACEY FT JORJA SMITH",
+            "title": "CRUSH"
+        },
+        "20": {
+            "artist": "Unknown Artist",
+            "title": "LA NENA SAD [SANCHEZ FLIP]"
+        },
+        "21": {
+            "artist": "TTRRAACCAA",
+            "title": "SIN TUSSI NO HAY PARAISO [MI GATA EDIT]"
+        },
+        "22": {
+            "artist": "Unknown Artist",
+            "title": "AMY [ELBUGG SANCHEZ EDIT]"
+        },
+        "23": {
+            "artist": "DJ MORG",
+            "title": "PUSSY BASE [DJ RAY&SULY]"
+        },
+        "24": {
+            "artist": "KIMER",
+            "title": "BOMBA"
+        },
+        "25": {
+            "artist": "Buenri, ",
+            "title": "Curare"
+        },
+        "26": {
+            "artist": "LAZOWI",
+            "title": "ORGASM"
+        },
+        "27": {
+            "artist": "Unknown Artist",
+            "title": "I LOVE THIS RECORD [2 B.H. REMIX]"
+        },
+        "28": {
+            "artist": "ALEESHA",
+            "title": "ME GUSTA ESE LOKITO [MIAFLAW,SANCHEZ EDIT]"
+        },
+        "29": {
+            "artist": "Unknown Artist",
+            "title": "CREU D’OR [SANCHEZ EDIT]"
+        },
+        "30": {
+            "artist": "SIXSEX, ",
+            "title": "4 NOVIOS"
+        },
+        "31": {
+            "artist": "Unknown Artist",
+            "title": "CANIJO [SANCHEZ EDIT]"
+        },
+        "32": {
+            "artist": "DJ Joss",
+            "title": "Drop The Bomb"
+        },
+        "33": {
+            "artist": "Bad Gyal, ",
+            "title": "Bota Niña"
+        },
+        "34": {
+            "artist": "Unknown Artist",
+            "title": "BABY ROMEO [SANCHEZ EDIT]"
+        },
+        "35": {
+            "artist": "Unknown Artist",
+            "title": "ORILLA [SANCHEZ EDIT]"
+        }
+    },
+    "nts-x-bershka-ibiza-chico-blanco-b2b-8kitoo-15th-may-2025": {
+        "00": {
+            "artist": "PJ",
+            "title": "Elysium"
+        },
+        "01": {
+            "artist": "Zoo Brazil",
+            "title": "Bring Back"
+        },
+        "02": {
+            "artist": "A Guy Called Gerald",
+            "title": "Voodoo Ray"
+        },
+        "03": {
+            "artist": "Cloud Innovator",
+            "title": "Can You Believe (Epic Mix)"
+        },
+        "04": {
+            "artist": "Yello",
+            "title": "The Race (Derrick May Remix)"
+        },
+        "05": {
+            "artist": "Technodelia",
+            "title": "Technodelia (In The Beginning)"
+        },
+        "06": {
+            "artist": "DukeyMan, ",
+            "title": "Beep Beep"
+        },
+        "07": {
+            "artist": "2 Can Play",
+            "title": "Goin' Down"
+        },
+        "08": {
+            "artist": "Paul Woolford",
+            "title": "Mind Over Matter (DJ Tool 01)"
+        },
+        "09": {
+            "artist": "Hooker",
+            "title": "Cyber Basss (Hooker Club Mix)"
+        },
+        "10": {
+            "artist": "Microbonze",
+            "title": "La Musica Que Me Gusta (Bend Over Remix)"
+        }
+    },
+    "nts-x-bershka-ibiza-keyrah-15th-may-2025": {
+        "00": {
+            "artist": "I Still Love You",
+            "title": "702 (C-Sick House Remix)"
+        },
+        "01": {
+            "artist": "Jazz Inside Me",
+            "title": "Daano"
+        },
+        "02": {
+            "artist": "Stronger Than Pride",
+            "title": "Karizma"
+        },
+        "03": {
+            "artist": "Forbidden",
+            "title": "Dwson (Ft. Sio)"
+        },
+        "04": {
+            "artist": "War Dance",
+            "title": "Kokoroko & Hagan"
+        },
+        "05": {
+            "artist": "Bam Bam Remix",
+            "title": "Brizzy Beats"
+        },
+        "06": {
+            "artist": "Human Beings",
+            "title": "Osulande"
+        },
+        "07": {
+            "artist": "Da Light",
+            "title": "Keyrah"
+        },
+        "08": {
+            "artist": "Feels So Good",
+            "title": "Camille Munn, Reek0 & Gil Sm"
+        },
+        "09": {
+            "artist": "Manigua’s Groove",
+            "title": "Karen Nyame KG & Hagan"
+        },
+        "10": {
+            "artist": "Bruk It",
+            "title": "Tom Manzarek"
+        },
+        "11": {
+            "artist": "Intune (Basement Mix)",
+            "title": "Geotheory"
+        }
+    },
     "nts-x-bershka-ibiza-lagoon-w-yune-pinku-x-baby-pantera-15th-may-2025": {},
-    "nts-x-bershka-ibiza-softchaos-15th-may-2025": {},
+    "nts-x-bershka-ibiza-softchaos-15th-may-2025": {
+        "00": {
+            "artist": "Joy Orbison",
+            "title": "Flight FM"
+        },
+        "01": {
+            "artist": "Roza Terenzi",
+            "title": "Filth Connection"
+        },
+        "02": {
+            "artist": "ENNIO",
+            "title": "Gunung Padang"
+        },
+        "03": {
+            "artist": "Byron Yeates, ",
+            "title": "Ascension (Original Mix)"
+        },
+        "04": {
+            "artist": "Clotur",
+            "title": "Broken Symmetry"
+        },
+        "05": {
+            "artist": "James Ruskin",
+            "title": "Work (Steve Rachmad Remix)"
+        },
+        "06": {
+            "artist": "BASSBEAR!!, ",
+            "title": "Puro Dance"
+        },
+        "07": {
+            "artist": "D.Dan",
+            "title": "Mutant Future"
+        },
+        "08": {
+            "artist": "Alarico",
+            "title": "Drippin' Blood"
+        },
+        "09": {
+            "artist": "Surgeon",
+            "title": "Shell-Wave"
+        },
+        "10": {
+            "artist": "Rhyw",
+            "title": "Wolf Town"
+        },
+        "11": {
+            "artist": "D.Dan",
+            "title": "Covert Operation"
+        },
+        "12": {
+            "artist": "Phil Berg",
+            "title": "Dispatched"
+        },
+        "13": {
+            "artist": "Ben Sims",
+            "title": "Snapshot '99"
+        },
+        "14": {
+            "artist": "Rosa Terenzi",
+            "title": "Maypole Theme (Looming Giant Mix)"
+        },
+        "15": {
+            "artist": "Roza Terenzi, ",
+            "title": "Gravity Bongo"
+        },
+        "16": {
+            "artist": "Mohajer & Lawrence Lee",
+            "title": "Who That Is"
+        },
+        "17": {
+            "artist": "Sepehr",
+            "title": "Genesis Domain"
+        },
+        "18": {
+            "artist": "British Murder Boys-Surgeon",
+            "title": "Death Before Surrender"
+        },
+        "19": {
+            "artist": "Robert Hood",
+            "title": "Paradygm Shift"
+        },
+        "20": {
+            "artist": "The Melody",
+            "title": "Joey Beltram"
+        }
+    },
     "nts-x-bershka-kacha-29th-august-2024": {
         "00": {
             "artist": "Mietze Conte",
@@ -360,7 +767,9 @@
             "title": "Tajos"
         }
     },
+    "nts-x-bershka-kh0lle-7th-august-2025": {},
     "nts-x-bershka-khxdeej-28th-february-2025": {},
+    "nts-x-bershka-kusasa-7th-august-2025": {},
     "nts-x-bershka-lagoon-w-benzii-20th-november-2024": {},
     "nts-x-bershka-lisbon-von-d-5th-december-2024": {},
     "nts-x-bershka-loyalty-xix-26th-september-2024": {
@@ -776,6 +1185,76 @@
             "title": "Pandora"
         }
     },
+    "nts-x-bershka-next-up-w-kaanijo-ledbyher-24th-february-2026": {
+        "00": {
+            "artist": "Mietze Conte",
+            "title": "2000"
+        },
+        "01": {
+            "artist": "Juicy Bae",
+            "title": "SOLOS"
+        },
+        "02": {
+            "artist": "Heartgaze",
+            "title": "Online"
+        },
+        "03": {
+            "artist": "Oakland",
+            "title": "Relapse"
+        },
+        "04": {
+            "artist": "Namasenda",
+            "title": "Cola"
+        },
+        "05": {
+            "artist": "Nicola Cruz",
+            "title": "O sea, sí te quiero"
+        },
+        "06": {
+            "artist": "Charli XCX",
+            "title": "Stay Away"
+        },
+        "07": {
+            "artist": "Onoola Sama",
+            "title": "Storyman"
+        },
+        "08": {
+            "artist": "Jill Scott",
+            "title": "Honey Molasses"
+        },
+        "09": {
+            "artist": "Skiifuego",
+            "title": "10x"
+        },
+        "10": {
+            "artist": "M.I.A.",
+            "title": "Come Around"
+        },
+        "11": {
+            "artist": "Amy Winehouse",
+            "title": "Our Day Will Come"
+        },
+        "12": {
+            "artist": "AC/DC",
+            "title": "Up To My Neck In You"
+        },
+        "13": {
+            "artist": "Lua de Santana",
+            "title": "HERDEiRA"
+        },
+        "14": {
+            "artist": "restinga",
+            "title": "Cashcash"
+        },
+        "15": {
+            "artist": "Natanya",
+            "title": "Meeting You Once (The End)"
+        },
+        "16": {
+            "artist": "Canijo",
+            "title": "Judeline"
+        }
+    },
     "nts-x-bershka-nida-28th-february-2025": {},
     "nts-x-bershka-nts-x-bershka-lisbon-king-kami-5th-december-2024": {},
     "nts-x-bershka-og-shez-28th-february-2025": {},
@@ -919,6 +1398,7 @@
             "title": "In the Groove"
         }
     },
+    "nts-x-bershka-sega-bodega-x-thoom-7th-august-2025": {},
     "nts-x-bershka-selassie-tbc-w-brazy-26th-april-2024": {
         "00": {
             "artist": "ANYCIA",
@@ -1050,5 +1530,6 @@
         }
     },
     "nts-x-bershka-shai-x-p-rallel-26th-february-2025": {},
+    "nts-x-bershka-sheri-7th-august-2025": {},
     "nts-x-bershka-suggahunny-26th-february-2025": {}
 }

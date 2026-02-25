@@ -307,6 +307,80 @@
             "trackid": "7MXYMRDNVXJg9euepwFmpS"
         }
     },
+    "ganavya-24th-february-2026": {
+        "00": {
+            "artist": "Salinas Road",
+            "ratio": 5,
+            "title": "Monsters",
+            "trackid": "654BpiNT56pfIJjcvodZRe"
+        },
+        "01": {
+            "artist": "Sam Amidon",
+            "ratio": 9,
+            "title": "Fall On My Knees",
+            "trackid": "6N4MuuIsnqYUUPJWXM7i3S"
+        },
+        "02": {
+            "artist": "Nusrat Fateh Ali Khan",
+            "ratio": 4,
+            "title": "Nit Khair Mangan",
+            "trackid": "0Y4o88g77JV64VePkMAp9r"
+        },
+        "03": {
+            "artist": "Marisa Anderson",
+            "ratio": 9,
+            "title": "Taqsim for Guitar",
+            "trackid": "7FEjynAahKTx8QNn1qtZlu"
+        },
+        "04": {
+            "artist": "Nora Brown",
+            "ratio": 9,
+            "title": "The Very Day I’m Gone",
+            "trackid": "65lo7eEGdL7Pi89mrDnMtx"
+        },
+        "05": {
+            "artist": "Sam Amidon",
+            "ratio": 9,
+            "title": "I See The Sign",
+            "trackid": "4g3795FYvSK3wJGJgxATYl"
+        },
+        "06": {
+            "artist": "Benjin Blund",
+            "ratio": 3,
+            "title": "The Sands Of Time",
+            "trackid": "14eeOIv9mDtcXTJJua4XBz"
+        },
+        "07": {
+            "artist": "Silvana Estrada",
+            "ratio": 9,
+            "title": "Como Un Pájaro",
+            "trackid": "42OqawcAj14gAsiDmCgfCj"
+        },
+        "08": {
+            "artist": "Silvana Estrada",
+            "ratio": 9,
+            "title": "El Alma Mía",
+            "trackid": "7MP19VJaQ6NSCxDrnstOrG"
+        },
+        "09": {
+            "artist": "Merz",
+            "ratio": 9,
+            "title": "That's Your Blue Home",
+            "trackid": "0e6VAqbRaOXFTndX1vsohy"
+        },
+        "10": {
+            "artist": "Manizha Davlat",
+            "ratio": 4,
+            "title": "Boz Omadi",
+            "trackid": "6TqajkEJzwB29FLE0C4GEo"
+        },
+        "11": {
+            "artist": "Moses Yoofee Trio",
+            "ratio": 3,
+            "title": "TILL TOMORROW",
+            "trackid": "4ZPfGxBW7wH14YpqvQD3pQ"
+        }
+    },
     "ganavya-26th-november-2024": {
         "00": {
             "artist": "Alice Coltrane",
@@ -411,6 +485,14 @@
             "trackid": "15vXVbgwbxPP1HqLeRZhKH"
         }
     },
+    "ganavya-4th-november-2025": {
+        "00": {
+            "artist": "Nusrat Fateh Ali Khan",
+            "ratio": 9,
+            "title": "Yeh Jo Halka Saroor Hae",
+            "trackid": "4FSVNgDndTYTHCRQSJWzUA"
+        }
+    },
     "ganavya-6th-august-2024": {
         "00": {
             "artist": "Nusrat Fateh Ali Khan",
@@ -477,6 +559,86 @@
             "ratio": 9,
             "title": "Whisky Story Time",
             "trackid": "2dRZHAQIv88wSO7faSinym"
+        }
+    },
+    "ganavya-9th-september-2025": {
+        "00": {
+            "artist": "Anoushka Shankar",
+            "ratio": 9,
+            "title": "Bright Eyes (feat. Alev Lenz)",
+            "trackid": "5MaDXZxQUKRqGC3JAQIGpr"
+        },
+        "01": {
+            "artist": "Hotel Ugly",
+            "ratio": 3,
+            "title": "I Think I Left the Stove On",
+            "trackid": "34HgIvucTKJvDgzHVMaGLG"
+        },
+        "02": {
+            "artist": "Matthew Jamal",
+            "ratio": 4,
+            "title": "Prayers & Palm Oil",
+            "trackid": "6AVwh3Qtr0MCfc6mZSUsv4"
+        },
+        "03": {
+            "artist": "Natthiko",
+            "ratio": 4,
+            "title": "Astro Light",
+            "trackid": "4X0e5rinKHiewZLcIekqEX"
+        },
+        "04": {
+            "artist": "Mario Winans",
+            "ratio": 3,
+            "title": "I Don't Wanna Know",
+            "trackid": "2TgFs3elXrMiGeWWs1iSeH"
+        },
+        "05": {
+            "artist": "Ronan Keating",
+            "ratio": 0,
+            "title": "Fairytale Of New York",
+            "trackid": "4LhFWuoXKnZNSMAT2FZDBh"
+        },
+        "06": {
+            "artist": "Holland Andrews",
+            "ratio": 9,
+            "title": "Far Place",
+            "trackid": "4Zc7tToUcplEctwWxsARSY"
+        },
+        "07": {
+            "artist": "Shamroc Gogarty",
+            "ratio": 3,
+            "title": "Fiend",
+            "trackid": "2laYNyHPGQxn12lVYvaqgD"
+        },
+        "08": {
+            "artist": "Haitiboy",
+            "ratio": 4,
+            "title": "3am in my thoughts",
+            "trackid": "5n2ydoRHwzxT3d4glqUs9e"
+        },
+        "09": {
+            "artist": "Jóhann Jóhannsson",
+            "ratio": 4,
+            "title": "Jói & Karen - Remastered",
+            "trackid": "2Xh4LxCEzQ4A3G1eoxhCMP"
+        },
+        "10": {
+            "artist": "Hania Rani",
+            "ratio": 3,
+            "title": "Woven Song — piano reworks",
+            "trackid": "2xQBYQi4xvqo3HcjOQg5Oj"
+        },
+        "11": {
+            "artist": "Hammock",
+            "ratio": 9,
+            "title": "Requiem for Johan",
+            "trackid": "1qilulUGAfFnlhRntQm43p"
+        },
+        "12": {
+            "artist": "Samora Pinderhughes",
+            "ratio": 9,
+            "title": "Process",
+            "trackid": "6agYHSYPlsY0lnNlwkVcjF"
         }
     }
 }
