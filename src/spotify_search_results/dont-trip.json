@@ -65948,6 +65948,603 @@
             ]
         }
     },
+    "dont-trip-6th-march-2026": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Maria BC",
+                    "title": "Channels",
+                    "uri": "4eTIiGYu1GadceNiGPmYNt"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Maria BC",
+                    "title": "Channels",
+                    "uri": "4eTIiGYu1GadceNiGPmYNt"
+                },
+                {
+                    "artist": "Maria Becerra",
+                    "title": "PRIMER AVISO",
+                    "uri": "2klQBgvNsfqECATfwXfTah"
+                },
+                {
+                    "artist": "maria",
+                    "title": "Fliegende Klingen",
+                    "uri": "5648rPCDeRrNRTYUPeLLk9"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Tortoise",
+                    "title": "Vexations",
+                    "uri": "4w4mtg4CFms5hWB2gxOlco"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": ""
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Current 93",
+                    "title": "A Song For Douglas After He's Dead",
+                    "uri": "6zHpac4mvprsyprLSOPw7y"
+                },
+                {
+                    "artist": "Current 93",
+                    "title": "A Song For Douglas After He's Dead - Recorded live in Amiens, 15 XII 1990",
+                    "uri": "4z0uWih0SEOnNyQAZ5smLF"
+                },
+                {
+                    "artist": "Nils Wülker",
+                    "title": "Alpenglow",
+                    "uri": "0ujJPajsdivu4G4SrzWHJG"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Bono / Burattini",
+                    "title": "Acrobata",
+                    "uri": "7B0NSAx83OyUxYAQGLC3zo"
+                },
+                {
+                    "artist": "Bono / Burattini",
+                    "title": "Acrobata",
+                    "uri": "42B7b9S93agKr9nFRIMqz4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bono / Burattini",
+                    "title": "Acrobata",
+                    "uri": "7B0NSAx83OyUxYAQGLC3zo"
+                },
+                {
+                    "artist": "Bono / Burattini",
+                    "title": "Acrobata",
+                    "uri": "42B7b9S93agKr9nFRIMqz4"
+                },
+                {
+                    "artist": "Kid Yugi",
+                    "title": "Servizio (feat. Papa V & Noyz Narcos)",
+                    "uri": "6yuUPjVYC04HlX1pFlC4NF"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "New Age Doom",
+                    "title": "Amaseganalo Pt. 2",
+                    "uri": "3XFqX83mfmOR3sEzwiyqfP"
+                },
+                {
+                    "artist": "New Age Collective",
+                    "title": "Eyes Of The Moon",
+                    "uri": "7kzEYpkNtAh5ZaTwm6FS3H"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Andreas Müller",
+                    "title": "Song of the Syren",
+                    "uri": "6Ctdj704YGqic8LFq35hpE"
+                },
+                {
+                    "artist": "Agnes Vidsjö",
+                    "title": "Evigheten",
+                    "uri": "5NBh0ZsIFKFv0Gk1RHNtNC"
+                },
+                {
+                    "artist": "Leon Hartness",
+                    "title": "Hellebore",
+                    "uri": "3s9mxNhL12p9w9xh9Li3af"
+                }
+            ]
+        },
+        "07": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Roots",
+                    "title": "Silent Treatment",
+                    "uri": "6idIwpkua3UHKiMtHiz6Nu"
+                },
+                {
+                    "artist": "The Roots",
+                    "title": "Silent Treatment",
+                    "uri": "6B2IHaCvi17Dq6NqE2KDkc"
+                },
+                {
+                    "artist": "Luzkan",
+                    "title": "Close The Curtains",
+                    "uri": "52lIa2ZHxdnvspJKBMPWU2"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "JamBeats",
+                    "title": "My Gem",
+                    "uri": "4kvCALjCQqO7F0wmNO73hI"
+                },
+                {
+                    "artist": "AKA",
+                    "title": "Baddest (feat. Burna Boy, Khuli Chana & Yanga)",
+                    "uri": "03ffaxt78GbqpZ0vfKrcyr"
+                },
+                {
+                    "artist": "Ms. Lauryn Hill",
+                    "title": "Doo Wop (That Thing) - Edit",
+                    "uri": "5hchPe05atCRhAYTNJfxER"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Andreas Diehlmann Band",
+                    "title": "Nothing But The Blues",
+                    "uri": "02h0taeYRV1LwZ6Trcy8mH"
+                },
+                {
+                    "artist": "Andreas Kübler",
+                    "title": "Pictures from the Past",
+                    "uri": "32HXNzxH5Nm8U9Qmk9qxOd"
+                },
+                {
+                    "artist": "Andreas Müller",
+                    "title": "Ash and Thunder",
+                    "uri": "1xB8Re5Hc3100oDZGkm1Fq"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Aukai",
+                    "title": "Weavers",
+                    "uri": "5bFnmiOx3GTbT970cTuR3x"
+                },
+                {
+                    "artist": "Hiatus Kaiyote",
+                    "title": "Stone Or Lavender",
+                    "uri": "6mPsXbce09tlhJSrBtLVcx"
+                },
+                {
+                    "artist": "A Tribe Called Quest",
+                    "title": "Dis Generation (feat. Busta Rhymes)",
+                    "uri": "2Pp3QD3thPnk2kCxmu2MHK"
+                }
+            ]
+        },
+        "11": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "KAITEN MUSIK",
+                    "title": "La goutte d'eau",
+                    "uri": "7KNAHtHD4tB1NNJT17Oh6p"
+                },
+                {
+                    "artist": "OtP13",
+                    "title": "Freedom",
+                    "uri": "18aJEbXxQK7DILBRJrx1xW"
+                },
+                {
+                    "artist": "Celtic Traveler",
+                    "title": "Cavern",
+                    "uri": "04GBuCO8rIDf41uWzDVgGl"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hans Zimmer",
+                    "title": "Herald of the Change",
+                    "uri": "4eYtg015W15Ik5dUGzFXje"
+                },
+                {
+                    "artist": "Sting",
+                    "title": "Love Is The Seventh Wave",
+                    "uri": "2tnlTf2pIIYlQtUAo5AbNE"
+                },
+                {
+                    "artist": "Hamza",
+                    "title": "Minuit 13 (feat. Christine and the Queens & Oxmo Puccino)",
+                    "uri": "1fTGud5T8TUecNuEFVMD3y"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Robin Kadir",
+                    "title": "Action",
+                    "uri": "5beUxQ0Hjyx3xUEzQpnKDY"
+                },
+                {
+                    "artist": "Worakls",
+                    "title": "Question réponse",
+                    "uri": "5bsqVWz1HriB7VTkUyPHRC"
+                },
+                {
+                    "artist": "Old Orleans",
+                    "title": "Wolves",
+                    "uri": "6p0qRYcDaAHDx4IxFJLf9V"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Greg Stasiw",
+                    "title": "Signature",
+                    "uri": "44oNUpwjLo3F1HpnpxXGwP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Greg Stasiw",
+                    "title": "Signature",
+                    "uri": "44oNUpwjLo3F1HpnpxXGwP"
+                },
+                {
+                    "artist": "Anouar Brahem",
+                    "title": "Vague",
+                    "uri": "6t5hIcvL9y1YmpT5Svpg37"
+                },
+                {
+                    "artist": "Skillibeng",
+                    "title": "Real Estate",
+                    "uri": "7g5ijH6Ch728bfNWfoxOKW"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Diamanda Galás",
+                    "title": "Deliver Me From Mine Enemies: II. Deliver Me From Mine Enemies",
+                    "uri": "0no5Y5l86vXBttaUPa9HEs"
+                },
+                {
+                    "artist": "The Fall",
+                    "title": "Cruiser's Creek",
+                    "uri": "5BlgdllImFLeMzJDqGgctu"
+                },
+                {
+                    "artist": "Hania Rani",
+                    "title": "Speaking to the Past",
+                    "uri": "5UzyARwkI3uCpTeisoefsT"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "safeplace.",
+                    "title": "Hoarfrost",
+                    "uri": "1rQruQoJYcra1XUUUjND0B"
+                },
+                {
+                    "artist": "Mars",
+                    "title": "Insanity",
+                    "uri": "31kmii2kKmdv66NvcEJPmm"
+                },
+                {
+                    "artist": "Merital Family",
+                    "title": "Nobody Knows",
+                    "uri": "6LnslPiqJjz7rwDgjMinw9"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Francesco Fabris",
+                    "title": "Topography of Extinction",
+                    "uri": "2ChiajDvQXt10Lanh6YHQL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Francesco Fabris",
+                    "title": "Topography of Extinction",
+                    "uri": "2ChiajDvQXt10Lanh6YHQL"
+                },
+                {
+                    "artist": "Felix Rösch",
+                    "title": "What Remains",
+                    "uri": "4CvcHqKWwGcWCdZCN1Y5a9"
+                },
+                {
+                    "artist": "Hania Rani",
+                    "title": "Speaking to the Past",
+                    "uri": "5UzyARwkI3uCpTeisoefsT"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Billie Eilish",
+                    "title": "Lost Cause",
+                    "uri": "4191RXFPa7Ge9XkA4cWlna"
+                },
+                {
+                    "artist": "&friends",
+                    "title": "Jackie B",
+                    "uri": "6AriBfTagIjKVUov3WEwOa"
+                },
+                {
+                    "artist": "Tosca",
+                    "title": "Doris Dub",
+                    "uri": "3wFL8Zl7r1UlcBqD2zLPQm"
+                }
+            ]
+        },
+        "19": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Berner Sen",
+                    "title": "Only Now",
+                    "uri": "52VESYWi5cscgDvL19sbq7"
+                },
+                {
+                    "artist": "JRPOLL",
+                    "title": "My Eulogy",
+                    "uri": "3sNQOd0aAl4K1BLfZxamQI"
+                },
+                {
+                    "artist": "VECT",
+                    "title": "Breathless",
+                    "uri": "6RbEqiXoBksoAQ4Fuq0xd2"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Anenon",
+                    "title": "Dream Temperature",
+                    "uri": "7aGiE0Ie0bRXMb8SoSbzeQ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Anenon",
+                    "title": "Dream Temperature",
+                    "uri": "7aGiE0Ie0bRXMb8SoSbzeQ"
+                },
+                {
+                    "artist": "Amélie Daniel",
+                    "title": "Live for Now - Acoustic Version",
+                    "uri": "6wZMOjWpDdEkHqJsrEceyO"
+                },
+                {
+                    "artist": "Tyler, The Creator",
+                    "title": "GONE, GONE / THANK YOU",
+                    "uri": "1hz7SRTGUNAtIQ46qiNv2p"
+                }
+            ]
+        },
+        "21": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Shindy",
+                    "title": "Babygirl",
+                    "uri": "5RVjk9aH22Z9Mwg2ZaOPNT"
+                },
+                {
+                    "artist": "Ifeeldzy",
+                    "title": "Summer Coolness",
+                    "uri": "1YS4W2Qa8iEaThbZqGR9Op"
+                },
+                {
+                    "artist": "Jamin",
+                    "title": "Hustle & Flow",
+                    "uri": "1iaaeUYmbxNtZMuO780gm0"
+                }
+            ]
+        },
+        "22": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Greydon Park Band",
+                    "title": "Aviary",
+                    "uri": "1uuLCeaGzZXtZWhco84p9m"
+                },
+                {
+                    "artist": "Benny The Butcher",
+                    "title": "1 on a 1",
+                    "uri": "7ta9o2HpSj2DYRQKkXQ9CJ"
+                },
+                {
+                    "artist": "AVAO",
+                    "title": "Our Flight",
+                    "uri": "1x1dUnaqOX7YpObPy1O8Lz"
+                }
+            ]
+        },
+        "23": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Meredith Monk",
+                    "title": "Cow Song",
+                    "uri": "2gF8kTU0AoQ7XZ3g6kDSgc"
+                },
+                {
+                    "artist": "Meredith Monk",
+                    "title": "Ellis Island",
+                    "uri": "2sE9Mx3jDemMcphZfxMhSV"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Elegant Ape",
+                    "title": "I Hear Your Voice",
+                    "uri": "7JjpFQMIiScHn3kzyMkSQu"
+                },
+                {
+                    "artist": "Monvol",
+                    "title": "Behind The Wall",
+                    "uri": "1TMaQV9br9NCtIs8UDSjwO"
+                },
+                {
+                    "artist": "Populous",
+                    "title": "Hora Dorada",
+                    "uri": "2H9uhmMVABgcUHxppF1GK9"
+                }
+            ]
+        },
+        "25": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Jaynetts",
+                    "title": "Sally Go Round The Roses",
+                    "uri": "31s2mbxcx4LX1EtZg1fUvA"
+                },
+                {
+                    "artist": "Rosanne Cash",
+                    "title": "God Is In The Roses",
+                    "uri": "7fG648wFckJmBRCIJyuKKa"
+                },
+                {
+                    "artist": "Sylvia Kristel",
+                    "title": "Emmanuelle - Part 4",
+                    "uri": "1rANgpSoUzWPgNfNtvCs8q"
+                }
+            ]
+        },
+        "26": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "She Past Away",
+                    "title": "Katarsis",
+                    "uri": "14HIRkuAh2KMsLTuEb1qUi"
+                },
+                {
+                    "artist": "Luca Hänni",
+                    "title": "She Got Me - Bonus Track",
+                    "uri": "3icYE8PMsnBoEecm5Bbd4x"
+                },
+                {
+                    "artist": "Hämatom",
+                    "title": "Scheisse kommt - Scheisse geht",
+                    "uri": "3X11gtjlFDSGho6nTzzecH"
+                }
+            ]
+        },
+        "27": {
+            "s0": [
+                {
+                    "artist": "Qasim Naqvi",
+                    "title": "The Glow",
+                    "uri": "7HUfspjo2FpMWnEcAsSi3I"
+                },
+                {
+                    "artist": "Qasim Naqvi",
+                    "title": "Power Down the Heart",
+                    "uri": "6hoaAvoOb2nigXCvF19Atr"
+                },
+                {
+                    "artist": "Qasim Naqvi",
+                    "title": "God Docks at Death Harbor: The End",
+                    "uri": "3qvonzVLuv20ttJq6jpu2i"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Qasim Naqvi",
+                    "title": "The Glow",
+                    "uri": "7HUfspjo2FpMWnEcAsSi3I"
+                },
+                {
+                    "artist": "Qasim Naqvi",
+                    "title": "The Great Reward",
+                    "uri": "2nRsRgzpG6c20OswgtOBem"
+                },
+                {
+                    "artist": "Foolish Prophet",
+                    "title": "Nautilus",
+                    "uri": "4rCL5dc9JdRJUIKYezPYUs"
+                }
+            ]
+        },
+        "28": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "smello",
+                    "title": "Marathon",
+                    "uri": "5x3wsYRFpReMCffagV5mCo"
+                },
+                {
+                    "artist": "Race of Ariah",
+                    "title": "Keep On Runnin'",
+                    "uri": "1hstGfHVbWohkfjefHgyWj"
+                },
+                {
+                    "artist": "Fun Lovin' Criminals",
+                    "title": "The View Belongs to Everyone",
+                    "uri": "1F7o9udCI2E8yWf6r1g9fb"
+                }
+            ]
+        }
+    },
     "dont-trip-6th-may-2019": {
         "00": {
             "s0": [

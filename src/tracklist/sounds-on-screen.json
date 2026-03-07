@@ -2515,6 +2515,72 @@
             "title": "Courage"
         }
     },
+    "sounds-on-screen-bela-tarr-mihaly-vig-13th-january-2026": {
+        "00": {
+            "artist": "Mihály Víg",
+            "title": "Harang I"
+        },
+        "01": {
+            "artist": "Víg Mihály",
+            "title": "Sátántangó"
+        },
+        "02": {
+            "artist": "Víg Mihály",
+            "title": "Lengyelország (Almanac Of The Fall)"
+        },
+        "03": {
+            "artist": "Víg Mihály",
+            "title": "Vonósnégyes (Damnation)"
+        },
+        "04": {
+            "artist": "Víg Mihály",
+            "title": "Csille (Damnation)"
+        },
+        "05": {
+            "artist": "Víg Mihály",
+            "title": "Valuska / Opening Scene (Werckmeister Harmonies)"
+        },
+        "06": {
+            "artist": "Víg Mihály",
+            "title": "A Londoni Férfi / The Man From London 1"
+        },
+        "07": {
+            "artist": "Víg Mihály",
+            "title": "Prologue (Prologue"
+        },
+        "08": {
+            "artist": "Víg Mihály",
+            "title": "Eso (Damnation)"
+        },
+        "09": {
+            "artist": "Víg Mihály",
+            "title": "Körtánc II."
+        },
+        "10": {
+            "artist": "Víg Mihály",
+            "title": "Utazás Az Alföldön (Journey On The Plain)"
+        },
+        "11": {
+            "artist": "Víg Mihály",
+            "title": "Theme (The Turin Horse)"
+        },
+        "12": {
+            "artist": "Víg Mihály",
+            "title": "Pajesz (Almanac Of The Fall)"
+        },
+        "13": {
+            "artist": "Mihály Víg",
+            "title": "Halics"
+        },
+        "14": {
+            "artist": "Víg Mihály",
+            "title": "Kész Az Egész"
+        },
+        "15": {
+            "artist": "Víg Mihály",
+            "title": "A Londoni Férfi / The Man From London 2"
+        }
+    },
     "sounds-on-screen-brian-de-palma-2nd-october-2025": {
         "00": {
             "artist": "Excerpt From Snake Eyes",
@@ -3667,6 +3733,7 @@
             "title": "Toccata And Fugue In D Minor, BWV 565 (Triangle Of Sadness)"
         }
     },
+    "sounds-on-screen-eating-out-20th-february-2026": {},
     "sounds-on-screen-end-of-the-world-10th-april-2023": {
         "00": {
             "artist": "The Road",
@@ -4147,6 +4214,160 @@
         "19": {
             "artist": "Hal Hartley",
             "title": "No Such Thing (Opening)"
+        }
+    },
+    "sounds-on-screen-henry-mancini-5th-march-2026": {
+        "00": {
+            "artist": "Rod McKuen, ",
+            "title": "Dear David"
+        },
+        "01": {
+            "artist": "Henry Mancini",
+            "title": "Nancy"
+        },
+        "02": {
+            "artist": "Rod McKuen, ",
+            "title": "Theme For Losers"
+        },
+        "03": {
+            "artist": "Henry Mancini",
+            "title": "Moment To Moment"
+        },
+        "04": {
+            "artist": "Henry Mancini",
+            "title": "My One and Only Love"
+        },
+        "05": {
+            "artist": "Henry Mancini",
+            "title": "Royal Blue"
+        },
+        "06": {
+            "artist": "Henry Mancini",
+            "title": "Dreamsville"
+        },
+        "07": {
+            "artist": "Henry Mancini",
+            "title": "Something For Audrey"
+        },
+        "08": {
+            "artist": "Henry Mancini, ",
+            "title": "Misty"
+        },
+        "09": {
+            "artist": "Henry Mancini",
+            "title": "Blue Satin"
+        },
+        "10": {
+            "artist": "Henry Mancini & His Orchestra",
+            "title": "Sally's Tomato"
+        },
+        "11": {
+            "artist": "Henry Mancini",
+            "title": "Night Flower"
+        },
+        "12": {
+            "artist": "Henry Mancini",
+            "title": "So Smooth"
+        },
+        "13": {
+            "artist": "Henry Mancini",
+            "title": "Piano And Strings"
+        },
+        "14": {
+            "artist": "Henry Mancini",
+            "title": "We've Loved Before (Yasmin's Theme)"
+        },
+        "15": {
+            "artist": "Henry Mancini, His Orchestra and Chorus",
+            "title": "Theme From \"The Night Visitor\""
+        },
+        "16": {
+            "artist": "Henry Mancini",
+            "title": "Shower Of Paradise"
+        },
+        "17": {
+            "artist": "Henry Mancini, His Orchestra And Cho.",
+            "title": "Love Theme From Romeo & Juliet"
+        },
+        "18": {
+            "artist": "Henry Mancini",
+            "title": "Quiet Nights Of Quiet Stars = Corcovado"
+        },
+        "19": {
+            "artist": "Henry Mancini",
+            "title": "Days Of Wine And Roses"
+        },
+        "20": {
+            "artist": "Rod McKuen, ",
+            "title": "Sequence For Uncle Harold"
+        },
+        "21": {
+            "artist": "Henry Mancini",
+            "title": "Facade"
+        },
+        "22": {
+            "artist": "Henry Mancini & His Orchestra And Chorus",
+            "title": "Candlelight On Crystal"
+        },
+        "23": {
+            "artist": "Henry Mancini",
+            "title": "Mr. Lucky"
+        },
+        "24": {
+            "artist": "Henry Mancini, His Orchestra And Chorus",
+            "title": "Two For The Road"
+        },
+        "25": {
+            "artist": "Henry Mancini & His Orchestra And Chorus",
+            "title": "It’s All There"
+        },
+        "26": {
+            "artist": "Henry Mancini",
+            "title": "The Soft Touch"
+        },
+        "27": {
+            "artist": "Henry Mancini",
+            "title": "The Greatest Gift"
+        },
+        "28": {
+            "artist": "Henry Mancini, His Orchestra And Chorus",
+            "title": "Theme From \"The Great Impostor\""
+        },
+        "29": {
+            "artist": "Henry Mancini, His Orch. And Cho.",
+            "title": "Breakfast At Tiffany's"
+        },
+        "30": {
+            "artist": "Henry Mancini",
+            "title": "Theme For Sam"
+        },
+        "31": {
+            "artist": "Henry Mancini, His Orchestra And Chorus",
+            "title": "The Summer Knows"
+        },
+        "32": {
+            "artist": "Henry Mancini, ",
+            "title": "Main Title From \"Nightwing\""
+        },
+        "33": {
+            "artist": "Henry Mancini",
+            "title": "Experiment In Terror"
+        },
+        "34": {
+            "artist": "Henry Mancini",
+            "title": "Here's Looking At You, Kid"
+        },
+        "35": {
+            "artist": "Henry Mancini & His Orchestra",
+            "title": "Main Title \"Crazy World\""
+        },
+        "36": {
+            "artist": "Henry Mancini",
+            "title": "Lujon"
+        },
+        "37": {
+            "artist": "Henry Mancini, His Orch. And Cho.",
+            "title": "Moon River"
         }
     },
     "sounds-on-screen-jacques-tati-27th-june-2022": {

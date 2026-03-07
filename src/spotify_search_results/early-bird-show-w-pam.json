@@ -57688,6 +57688,716 @@
             ]
         }
     },
+    "early-bird-show-w-pam-26th-february-2026": {
+        "00": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Patricia Cornwell",
+                    "title": "Kapitel 1.1 - Flucht (Ein Fall für Kay Scarpetta 2)",
+                    "uri": "6c6g19JlnfRIvqxaVPK9zw"
+                },
+                {
+                    "artist": "Franziska Jebens",
+                    "title": "Kapitel 3.7 - Immer am Meer entlang",
+                    "uri": "4BhZczS6PQRI9yJZk3jz0x"
+                },
+                {
+                    "artist": "Beatrice Howard",
+                    "title": "Ein Verweilen über der Welt",
+                    "uri": "6xJ5rplL3MrlDfqJ0QUoKD"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dan Salvato",
+                    "title": "My Confession",
+                    "uri": "6M3JqNkGGSZAHDWg7tVcfk"
+                },
+                {
+                    "artist": "Dan Salvato",
+                    "title": "My Confession",
+                    "uri": "2flFRFszZSm0Zt1gto0Heg"
+                },
+                {
+                    "artist": "Dan Salvato",
+                    "title": "Your Reality",
+                    "uri": "65X2rKeXgVceqex382wfuL"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Masayoshi Takanaka",
+                    "title": "蜃気楼の島へ",
+                    "uri": "7nB00pmlT3Dc6Vd536ha3l"
+                },
+                {
+                    "artist": "Masayoshi Takanaka",
+                    "title": "バードアイランド急行",
+                    "uri": "1TORE12p4q3lu5OBhRJRvi"
+                },
+                {
+                    "artist": "Keisuke Sakai",
+                    "title": "Mizu Sumu",
+                    "uri": "4RjzkgRnmTnlZowgg0RHot"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "khc",
+                    "title": "^^;",
+                    "uri": "3Nkf8wrF8fdqxbO3wmirQ6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Rima Khcheich",
+                    "title": "Washwishni",
+                    "uri": "6prwhjWQb6rvkPsdWIVDVM"
+                },
+                {
+                    "artist": "Rima Khcheich",
+                    "title": "Muwashah salla fina el lahtha hindiyya",
+                    "uri": "74OxAZ6SsHEOFRuZtegK6F"
+                },
+                {
+                    "artist": "Kärbholz",
+                    "title": "(Kxh)",
+                    "uri": "4sbIAVD1My6UlBab5FUzAU"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Siegfried Fietz",
+                    "title": "Manchmal brauchst du einen Engel",
+                    "uri": "335hTKLeEMq2RpJAKGeHmI"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "442",
+                    "title": "Come On England",
+                    "uri": "5qn7juXTVklT6rudl3RwXH"
+                },
+                {
+                    "artist": "442",
+                    "title": "Come on England",
+                    "uri": "2Z2IJLWetQ724hNtjTZIzL"
+                },
+                {
+                    "artist": "Michael Emenau",
+                    "title": "Part 1",
+                    "uri": "3kmQ5pp4fsl1edID3eSwec"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Komëit",
+                    "title": "Opal City",
+                    "uri": "0sfT2olA1gV7mDwqZu3GYv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Komëit",
+                    "title": "Opal City",
+                    "uri": "0sfT2olA1gV7mDwqZu3GYv"
+                },
+                {
+                    "artist": "Opal Skies",
+                    "title": "Glim",
+                    "uri": "158IDFfRLIMdJp44Si9lhD"
+                },
+                {
+                    "artist": "Terry Borderline",
+                    "title": "Jungle (Sassy D'estany & Reggie Hue)",
+                    "uri": "4Ljc1KuHdRjbdp55oTbuF0"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Henri Salvador",
+                    "title": "Syracuse",
+                    "uri": "5B81EKGM8qkDB7JDucD6bj"
+                },
+                {
+                    "artist": "Henri Salvador",
+                    "title": "Syracuse",
+                    "uri": "2T84TxOlXdJvT0xieSi3EG"
+                },
+                {
+                    "artist": "Pink Martini",
+                    "title": "Syracuse",
+                    "uri": "7c0xEmUgjpLsTRJdFHDbhG"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pink Martini",
+                    "title": "Syracuse",
+                    "uri": "7c0xEmUgjpLsTRJdFHDbhG"
+                },
+                {
+                    "artist": "Patricia Kaas",
+                    "title": "Syracuse",
+                    "uri": "0rCZlzLwOT3lcrYKtH27kn"
+                },
+                {
+                    "artist": "Maria Bethânia",
+                    "title": "Reconvexo",
+                    "uri": "1i2BMLTR7vlACznC7kXuIH"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "7038634357",
+                    "title": "Overalign",
+                    "uri": "2aeTvEPMl8edtkIChXmnpD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "7038634357",
+                    "title": "Overalign",
+                    "uri": "2aeTvEPMl8edtkIChXmnpD"
+                },
+                {
+                    "artist": "Sonic Waterfall",
+                    "title": "Overlap Zone",
+                    "uri": "3YYJNRPrHL5YbklD92Y0GR"
+                },
+                {
+                    "artist": "Sam Laxton",
+                    "title": "Overload",
+                    "uri": "5cIaGidCXhHE5mBSMdhchU"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Air Miami",
+                    "title": "Warm Miami May",
+                    "uri": "08exgY7vjQiBBuBmblLJOf"
+                },
+                {
+                    "artist": "Air Miami",
+                    "title": "Warm Miami May - 2023 Remaster",
+                    "uri": "3mgUhTJxPcmTzdqdavsETA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Air Miami",
+                    "title": "Warm Miami May",
+                    "uri": "08exgY7vjQiBBuBmblLJOf"
+                },
+                {
+                    "artist": "Air Miami",
+                    "title": "Warm Miami May - 2023 Remaster",
+                    "uri": "3mgUhTJxPcmTzdqdavsETA"
+                },
+                {
+                    "artist": "Kali Uchis",
+                    "title": "Miami (feat. BIA)",
+                    "uri": "5oJAaPRS2EzNIc8EWIbucE"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "edeF.",
+                    "title": "il paese tremante",
+                    "uri": "2oiPfwEgcfqO3DBnTxoHMR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "edeF.",
+                    "title": "il paese tremante",
+                    "uri": "2oiPfwEgcfqO3DBnTxoHMR"
+                },
+                {
+                    "artist": "Peritoperaria",
+                    "title": "Autostop per l Albania",
+                    "uri": "0voJyA0DQBdGj1q1R7HAYZ"
+                },
+                {
+                    "artist": "883",
+                    "title": "6/1/sfigato (feat. Two Fingerz)",
+                    "uri": "0RhSxdVr7NwafnqIb3RAM4"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Fréhel",
+                    "title": "Si tu n'étais pas là",
+                    "uri": "5IWtGGeBQ3SPjSmd0c1fIr"
+                },
+                {
+                    "artist": "Fréhel",
+                    "title": "Si tu n'etais pas la",
+                    "uri": "0XHUekBIKDF2ORTDJdmMSr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fréhel",
+                    "title": "Si tu n'étais pas là",
+                    "uri": "5IWtGGeBQ3SPjSmd0c1fIr"
+                },
+                {
+                    "artist": "Fréhel",
+                    "title": "Si tu n'etais pas la",
+                    "uri": "0XHUekBIKDF2ORTDJdmMSr"
+                },
+                {
+                    "artist": "Heuss L'enfoiré",
+                    "title": "Benda",
+                    "uri": "7gX2hqFLQKjiJwK8gZVofe"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Frank Sinatra",
+                    "title": "It Was A Very Good Year - 2008 Remastered",
+                    "uri": "1vLPTWPfJSIrqOhNUWNfNY"
+                },
+                {
+                    "artist": "Frank Sinatra",
+                    "title": "It Was A Very Good Year",
+                    "uri": "2ID3rNM3hFBjqrLcV0Wr0y"
+                },
+                {
+                    "artist": "Robbie Williams",
+                    "title": "It Was A Very Good Year",
+                    "uri": "2XdSyWqDa6g7qBj32igBAN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Frank Sinatra",
+                    "title": "It Was A Very Good Year - 2008 Remastered",
+                    "uri": "1vLPTWPfJSIrqOhNUWNfNY"
+                },
+                {
+                    "artist": "Robbie Williams",
+                    "title": "It Was A Very Good Year",
+                    "uri": "2XdSyWqDa6g7qBj32igBAN"
+                },
+                {
+                    "artist": "Morrissey",
+                    "title": "Suedehead",
+                    "uri": "0eVMLXLBk4U2LVzkQz3xyF"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Colourbox",
+                    "title": "Looks Like We're Shy One Horse / Shoot Out",
+                    "uri": "4uUoJE64KT7KqOxu5t3sga"
+                },
+                {
+                    "artist": "Colourbox",
+                    "title": "Looks Like We're Shy One Horse / Shoot Out",
+                    "uri": "6dTTo2vR2IZbzD7DQvH0gW"
+                },
+                {
+                    "artist": "Colourbox",
+                    "title": "Looks Like We're Shy One Horse/Shoot Out - Remastered",
+                    "uri": "47xIbv3B2nnMgeTEg6u59E"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Colourbox",
+                    "title": "Looks Like We're Shy One Horse / Shoot Out",
+                    "uri": "4uUoJE64KT7KqOxu5t3sga"
+                },
+                {
+                    "artist": "Colourbox",
+                    "title": "Looks Like We're Shy One Horse / Shoot Out",
+                    "uri": "6dTTo2vR2IZbzD7DQvH0gW"
+                },
+                {
+                    "artist": "Olivia Dean",
+                    "title": "Man I Need",
+                    "uri": "1CyNGmZFqMMFgTIWKACPiy"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "The Gist",
+                    "title": "Love at First Sight",
+                    "uri": "0IHLBVMuMuqr3drYAvKW22"
+                },
+                {
+                    "artist": "The Gist",
+                    "title": "Love at First Sight",
+                    "uri": "7jtbXYJhwmarwEFa4mHNfR"
+                },
+                {
+                    "artist": "The Gist",
+                    "title": "Love at First Sight",
+                    "uri": "7wi23v1YbkSYs7Nk9JD37h"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Gist",
+                    "title": "Love at First Sight",
+                    "uri": "0IHLBVMuMuqr3drYAvKW22"
+                },
+                {
+                    "artist": "The Gist",
+                    "title": "Love at First Sight",
+                    "uri": "7jtbXYJhwmarwEFa4mHNfR"
+                },
+                {
+                    "artist": "Etta James",
+                    "title": "A Sunday Kind Of Love",
+                    "uri": "0zGLlXbHlrAyBN1x6sY0rb"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "112",
+                    "title": "Only You (feat. The Notorious B.I.G., Ma$e) - Bad Boy Remix",
+                    "uri": "6zOg9gP62RJSsKFeOBAgvH"
+                },
+                {
+                    "artist": "Ben Butcher",
+                    "title": "Therapy",
+                    "uri": "72S2UIqfWWG94TTEcfk0VA"
+                },
+                {
+                    "artist": "Eric B. & Rakim",
+                    "title": "I Know You Got Soul",
+                    "uri": "5D2lp16FQ0VIfLGRDn5jcG"
+                }
+            ]
+        },
+        "16": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "David Joseph",
+                    "title": "Scheherezade",
+                    "uri": "6LsGVIQnuvmcRMQKoqzHlc"
+                },
+                {
+                    "artist": "Nikolai Rimsky-Korsakov",
+                    "title": "Rimsky-Korsakov: Scheherazade, Op. 35: III. The Young Prince and Princess",
+                    "uri": "5SxFWOdpB6HOp2ctdcVjWn"
+                },
+                {
+                    "artist": "Sergei Rachmaninoff",
+                    "title": "Scherzo in D Minor",
+                    "uri": "64OWV9qYJLhoFY39Ja0Csi"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "David Joseph",
+                    "title": "Scheherezade",
+                    "uri": "6LsGVIQnuvmcRMQKoqzHlc"
+                },
+                {
+                    "artist": "Nikolai Rimsky-Korsakov",
+                    "title": "Scheherazade: The Tale of the Kalendar Prince",
+                    "uri": "04eShjKTWijeJJqGnhxpYK"
+                },
+                {
+                    "artist": "Nikolai Rimsky-Korsakov",
+                    "title": "Rimsky-Korsakov: Scheherazade, Op. 35: III. The Young Prince and Princess",
+                    "uri": "5SxFWOdpB6HOp2ctdcVjWn"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Nobodylikesbirdie",
+                    "title": "Rater Ta Vie",
+                    "uri": "6yf1ZYWK0BI4sum4PCyAvm"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nobodylikesbirdie",
+                    "title": "Rater Ta Vie",
+                    "uri": "6yf1ZYWK0BI4sum4PCyAvm"
+                },
+                {
+                    "artist": "Laurie Darmon",
+                    "title": "Copines Coladas",
+                    "uri": "3jizQJSDpbCVyzzArwNBCc"
+                },
+                {
+                    "artist": "Birdy",
+                    "title": "People Help the People",
+                    "uri": "0YywjDvFudcaHG74NuWISy"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Carlito",
+                    "title": "Cascade",
+                    "uri": "4l5QqPF3apojs5JLCfKkeh"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Carlito",
+                    "title": "Cascade",
+                    "uri": "4l5QqPF3apojs5JLCfKkeh"
+                },
+                {
+                    "artist": "Aymo",
+                    "title": "Carlito",
+                    "uri": "2j9RQoeL9kYF4HHT13bcIv"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Ned Doheny",
+                    "title": "I've Got Your Number - Demo",
+                    "uri": "1bdCEtvkxYUqAsPzei497R"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ned Doheny",
+                    "title": "I've Got Your Number - Demo",
+                    "uri": "1bdCEtvkxYUqAsPzei497R"
+                },
+                {
+                    "artist": "Ned Doheny",
+                    "title": "I've Got Your Number",
+                    "uri": "41l5dqHlRgWfjr79pCzoLe"
+                },
+                {
+                    "artist": "Black Pumas",
+                    "title": "OCT 33",
+                    "uri": "7arXmmOSx3cbeQ6A5SgIkT"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Weekend",
+                    "title": "Summerdays",
+                    "uri": "01cHPtluAnuPtl4pOZVnOL"
+                },
+                {
+                    "artist": "Weekend",
+                    "title": "Summerdays Instr.",
+                    "uri": "2mZUp7CFRAmEYOyCZ6oQ4B"
+                },
+                {
+                    "artist": "Weekend",
+                    "title": "Summerdays",
+                    "uri": "3Ut6JUmdGwhsBup2gCi7Bl"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Weekend",
+                    "title": "Summerdays",
+                    "uri": "01cHPtluAnuPtl4pOZVnOL"
+                },
+                {
+                    "artist": "Weekend",
+                    "title": "Summerdays Instr.",
+                    "uri": "2mZUp7CFRAmEYOyCZ6oQ4B"
+                },
+                {
+                    "artist": "Bazanji",
+                    "title": "Beachside",
+                    "uri": "7tld8T5xAPfOtMDYJ0GpdO"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "Prefab Sprout",
+                    "title": "Wild Horses",
+                    "uri": "0MYOG171DxrbiArjhhhqOS"
+                },
+                {
+                    "artist": "Prefab Sprout",
+                    "title": "Wild Horses",
+                    "uri": "76YePZxiJaydzuObHyI60b"
+                },
+                {
+                    "artist": "Prefab Sprout",
+                    "title": "Wild Horses",
+                    "uri": "1LOxiCex3tR5QjL3DyJxrV"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Prefab Sprout",
+                    "title": "Wild Horses",
+                    "uri": "0MYOG171DxrbiArjhhhqOS"
+                },
+                {
+                    "artist": "Prefab Sprout",
+                    "title": "Wild Horses",
+                    "uri": "76YePZxiJaydzuObHyI60b"
+                },
+                {
+                    "artist": "Christy Moore",
+                    "title": "Peace in the Valley Once Again - Live",
+                    "uri": "6LmuPtcponVuMe0w8lkuyZ"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "Alice In Chains",
+                    "title": "Down In A Hole (2022 Remaster)",
+                    "uri": "7FRfYOql61DGDp9VPPe2qA"
+                },
+                {
+                    "artist": "Alice In Chains",
+                    "title": "Down In A Hole - Live at the Majestic Theatre, Brooklyn, NY - April 1996",
+                    "uri": "2yBAPa9HZj3P2szSaaj4k1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Alice In Chains",
+                    "title": "Down In A Hole (2022 Remaster)",
+                    "uri": "7FRfYOql61DGDp9VPPe2qA"
+                },
+                {
+                    "artist": "Drew Gonsalves",
+                    "title": "Kaiso Newscast",
+                    "uri": "4iXOmmw74bdb9hegHjQfxK"
+                },
+                {
+                    "artist": "Kite",
+                    "title": "Hand Out the Drugs",
+                    "uri": "7CJWuIEADG14uNsz6TzVUA"
+                }
+            ]
+        },
+        "24": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Codo aka Codito",
+                    "title": "Sunbeams (Dilla Tribute)",
+                    "uri": "5TbH2vtnmIaVyUtOrOs4L1"
+                },
+                {
+                    "artist": "Diplo",
+                    "title": "Diplo Rhythm",
+                    "uri": "035ArPmxguKXPg4bnpiBlL"
+                },
+                {
+                    "artist": "Diplo",
+                    "title": "Diplo Rhythm",
+                    "uri": "1BeXjlDmhx6Z3IfyMth01u"
+                }
+            ]
+        },
+        "25": {
+            "s0": [
+                {
+                    "artist": "MF DOOM",
+                    "title": "Doomsday",
+                    "uri": "7EQvdUJqZ2i7SWvSB2VqGA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "MF DOOM",
+                    "title": "Doomsday",
+                    "uri": "7EQvdUJqZ2i7SWvSB2VqGA"
+                },
+                {
+                    "artist": "MF DOOM",
+                    "title": "Doomsday",
+                    "uri": "70We9AqHenA4jcmXmKzJnZ"
+                },
+                {
+                    "artist": "Velcro",
+                    "title": "Rhymes Like Doom's",
+                    "uri": "4zxRvogIbbEkLVvOBn8fYI"
+                }
+            ]
+        },
+        "26": {
+            "s0": [
+                {
+                    "artist": "Washed Out",
+                    "title": "Feel It All Around",
+                    "uri": "4V0x90QcMh4ZxwHzEWOdtK"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Washed Out",
+                    "title": "Feel It All Around",
+                    "uri": "4V0x90QcMh4ZxwHzEWOdtK"
+                },
+                {
+                    "artist": "Perrion",
+                    "title": "Feel It All Around (Prod. By Washed Out)",
+                    "uri": "7axBoYqtBY3B7Vk3rUFQ5r"
+                },
+                {
+                    "artist": "Bee Gees",
+                    "title": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
+                    "uri": "0MEaPVD5sOZ17HhhjBZs3Z"
+                }
+            ]
+        }
+    },
     "early-bird-show-w-pam-26th-january-2023": {
         "00": {
             "s0": "",
@@ -89837,6 +90547,671 @@
                     "artist": "CunninLynguists",
                     "title": "Georgia (Remix) [feat. Killer Mike & Khujo Goodie]",
                     "uri": "6L9Q4VNAioStGqpfPMuC0L"
+                }
+            ]
+        }
+    },
+    "early-bird-show-w-pam-5th-march-2026": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "David Lindley",
+                    "title": "Look so Good",
+                    "uri": "0AGxPsC3WSWwzG4IbRfOcA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "David Lindley",
+                    "title": "Look so Good",
+                    "uri": "0AGxPsC3WSWwzG4IbRfOcA"
+                },
+                {
+                    "artist": "Beyoncé",
+                    "title": "***Flawless (feat. Chimamanda Ngozi Adichie)",
+                    "uri": "7tefUew2RUuSAqHyegMoY1"
+                },
+                {
+                    "artist": "Childish Gambino",
+                    "title": "In The Night (feat. Jorja Smith & Amaarae)",
+                    "uri": "11bJ1ws3dathgY9uzADUhL"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Theme from Southern Comfort",
+                    "uri": "3gY4AjIn6t0cGgPMlef0uA"
+                },
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Theme from Southern Comfort - 2008 Remaster",
+                    "uri": "5XOAq4hsbpLKcPZsdt9vBg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Theme from Southern Comfort",
+                    "uri": "3gY4AjIn6t0cGgPMlef0uA"
+                },
+                {
+                    "artist": "Ry Cooder",
+                    "title": "Theme from Southern Comfort - 2008 Remaster",
+                    "uri": "5XOAq4hsbpLKcPZsdt9vBg"
+                },
+                {
+                    "artist": "Ali Farka Touré",
+                    "title": "Ai Du - with Ry Cooder",
+                    "uri": "5ksSzUpY892Gga1BlDN9ey"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Dave",
+                    "title": "Sprinter",
+                    "uri": "6NYbDTmstd7JSUWl2hVBqR"
+                },
+                {
+                    "artist": "Lily Allen",
+                    "title": "Tennis",
+                    "uri": "6WQsY2YMdIQWoOm9MyZMWR"
+                },
+                {
+                    "artist": "SPRINTS",
+                    "title": "Heavy",
+                    "uri": "02bA26OEe0nNFyE3YcNx4K"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Tel Aviv",
+                    "title": "Ocean Forever",
+                    "uri": "0w3WLNgRa89nH3kSeXgLAE"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tel Aviv",
+                    "title": "Ocean Forever",
+                    "uri": "0w3WLNgRa89nH3kSeXgLAE"
+                },
+                {
+                    "artist": "Omer Adam",
+                    "title": "DXB to TLV",
+                    "uri": "1huEeoVeYDxX6XEF640FfM"
+                },
+                {
+                    "artist": "Moses Yoofee Trio",
+                    "title": "OCEAN",
+                    "uri": "2Gw6ZXSXk1e26Gd72dKvsX"
+                }
+            ]
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mouloudji",
+                    "title": "Mon pote le gitan",
+                    "uri": "5liRXchamb3mA0NuibWc57"
+                },
+                {
+                    "artist": "Venom Cascadeur",
+                    "title": "Eternel",
+                    "uri": "790z9i9D1vY1JFnZNtudLJ"
+                },
+                {
+                    "artist": "Johnny Hallyday",
+                    "title": "L'envie - Live à Bercy / 1987",
+                    "uri": "5LuF8Y92goTve7qIabMIJL"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Taichi Chishaki",
+                    "title": "光",
+                    "uri": "2BkvOq7kHFO5Tr08L9mgZe"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Slint",
+                    "title": "For Dinner…",
+                    "uri": "6AdyaWgJliC8HJU4CseNJM"
+                },
+                {
+                    "artist": "Slint",
+                    "title": "For Dinner… - Remastered",
+                    "uri": "5IRfqGHQXmUDQ518QXXfcD"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Slint",
+                    "title": "For Dinner…",
+                    "uri": "6AdyaWgJliC8HJU4CseNJM"
+                },
+                {
+                    "artist": "Slint",
+                    "title": "For Dinner… - Remastered",
+                    "uri": "5IRfqGHQXmUDQ518QXXfcD"
+                },
+                {
+                    "artist": "Rema",
+                    "title": "Beamer (Bad Boys)",
+                    "uri": "1pkNZFVhcshcvN5I6Nvb0q"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "khc",
+                    "title": "차양 chayang",
+                    "uri": "6VwOHG7OUc5G2Zck7ScjlN"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "khc",
+                    "title": "차양 chayang",
+                    "uri": "6VwOHG7OUc5G2Zck7ScjlN"
+                },
+                {
+                    "artist": "Traditional",
+                    "title": "Liang xiao yin (Serene Night): Liang xiao [Beautiful Evening]",
+                    "uri": "3OIFWJmpZNBJ28LwJEOcf5"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Electrical Lovers",
+                    "title": "buruburucha",
+                    "uri": "2zpTjZB1cwhf8K9HQK1wSO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Electrical Lovers",
+                    "title": "buruburucha",
+                    "uri": "2zpTjZB1cwhf8K9HQK1wSO"
+                },
+                {
+                    "artist": "U2",
+                    "title": "Electrical Storm",
+                    "uri": "3IkJ97LnVrWGYys6WC7gLV"
+                },
+                {
+                    "artist": "U2",
+                    "title": "Electrical Storm - William Orbit Mix",
+                    "uri": "3gkijt6bxk8ts6S2RCEu4n"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "The Feminine Complex",
+                    "title": "Six O'clock in the Morning (Demo)",
+                    "uri": "0inDh1KlmK9YHuHdOTkKBI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Feminine Complex",
+                    "title": "Six O'Clock in the Morning",
+                    "uri": "4ZUFbF54xSVcI7uvBJ0orU"
+                },
+                {
+                    "artist": "The Feminine Complex",
+                    "title": "Six O'clock in the Morning (Demo)",
+                    "uri": "0inDh1KlmK9YHuHdOTkKBI"
+                },
+                {
+                    "artist": "David Byrne",
+                    "title": "Glass, Concrete & Stone",
+                    "uri": "5JJRxktdvtSjN3AeITJNCs"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Strawberry Switchblade",
+                    "title": "Trees and Flowers",
+                    "uri": "39VxarnBZV8POFPXvnAD2U"
+                },
+                {
+                    "artist": "Strawberry Switchblade",
+                    "title": "Trees and Flowers - Extended Mix",
+                    "uri": "5mfVFjhICWH1HM8SO0Q4WV"
+                },
+                {
+                    "artist": "Strawberry Switchblade",
+                    "title": "Trees and Flowers - Extended Mix",
+                    "uri": "3JV2gCG1g0lls0IEPB9cU2"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Strawberry Switchblade",
+                    "title": "Trees and Flowers",
+                    "uri": "39VxarnBZV8POFPXvnAD2U"
+                },
+                {
+                    "artist": "Strawberry Switchblade",
+                    "title": "Trees and Flowers - Extended Mix",
+                    "uri": "5mfVFjhICWH1HM8SO0Q4WV"
+                },
+                {
+                    "artist": "Elton John",
+                    "title": "Skyline Pigeon - Piano Version",
+                    "uri": "5PezyvrAMMS1e2jZznCxxF"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Lipstick Music",
+                    "title": "Feel Love Again",
+                    "uri": "60W5V2XfXowHmbinBPuYR0"
+                },
+                {
+                    "artist": "Lipstick Music",
+                    "title": "Feel Love Again - Orchestral Version",
+                    "uri": "0xTo93uANXMbbQYVVzIVy1"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Lipstick Music",
+                    "title": "Feel Love Again - Orchestral Version",
+                    "uri": "0xTo93uANXMbbQYVVzIVy1"
+                },
+                {
+                    "artist": "Nightweaver",
+                    "title": "Whole Again",
+                    "uri": "3XtJAP477UlgS6iEgxfhnr"
+                },
+                {
+                    "artist": "N-Sayne",
+                    "title": "Jumping Through Hoops",
+                    "uri": "67LxHF2wVjFn452DIQapnu"
+                }
+            ]
+        },
+        "12": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Mette Henriette",
+                    "title": "Drifting",
+                    "uri": "6bhTlnaPYQJpOholZtpC81"
+                },
+                {
+                    "artist": "The Smashing Pumpkins",
+                    "title": "The Interview",
+                    "uri": "1vd6RAAMj6SZyXFKtsW2jl"
+                },
+                {
+                    "artist": "Dax",
+                    "title": "The Next Rap God 2",
+                    "uri": "6BSpk93XTt2CJ7gpROG6zU"
+                }
+            ]
+        },
+        "13": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Klaus Layer",
+                    "title": "I Gotta Cry",
+                    "uri": "6qT1jEoG6VqQZ92fye8wtd"
+                },
+                {
+                    "artist": "KJ King of Hearts",
+                    "title": "Pretty Girl Love",
+                    "uri": "71npCVdCvYeipz44akJkYm"
+                },
+                {
+                    "artist": "Bashy",
+                    "title": "Earthstrong",
+                    "uri": "6wL6Rv6xr8q9sYIUc9HgmU"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "RILTIM",
+                    "title": "Unsaid",
+                    "uri": "4sqAXHhBN0vTKwbEB7SUPV"
+                },
+                {
+                    "artist": "Claudio Constantini",
+                    "title": "Unsaid",
+                    "uri": "1hNyZBRkuH2hhmVwsRIvF2"
+                },
+                {
+                    "artist": "Garnic",
+                    "title": "Unsaid",
+                    "uri": "3Pwk8tI4trr54atGyw4bpO"
+                }
+            ]
+        },
+        "15": {
+            "s0": [
+                {
+                    "artist": "calamity",
+                    "title": "served",
+                    "uri": "4y7y0d2uXhy9Y6mfKoEoY0"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "calamity",
+                    "title": "served",
+                    "uri": "4y7y0d2uXhy9Y6mfKoEoY0"
+                },
+                {
+                    "artist": "Annisokay",
+                    "title": "Calamity",
+                    "uri": "67wCP252VusJfj2KsqB4st"
+                },
+                {
+                    "artist": "Annisokay",
+                    "title": "Calamity",
+                    "uri": "2BhO5MD5myhWXL82di1W8v"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Bite Handle",
+                    "title": "Alone",
+                    "uri": "6UoLxdHtXOXap5B5HjSHxZ"
+                },
+                {
+                    "artist": "Bite Handle",
+                    "title": "Alone Again",
+                    "uri": "4vBD1ri8k3IO6QPYCJP6Zv"
+                },
+                {
+                    "artist": "Bite Handle",
+                    "title": "Alone Tonight",
+                    "uri": "0EeTohkb8x0LyV9CJeApWr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Bite Handle",
+                    "title": "Alone Again",
+                    "uri": "4vBD1ri8k3IO6QPYCJP6Zv"
+                },
+                {
+                    "artist": "Bite Handle",
+                    "title": "Alone Tonight",
+                    "uri": "0EeTohkb8x0LyV9CJeApWr"
+                },
+                {
+                    "artist": "Nelly Furtado",
+                    "title": "Promiscuous",
+                    "uri": "0rWPwITgBnXo0YTQUWGIsg"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "TLC",
+                    "title": "No Scrubs",
+                    "uri": "1KGi9sZVMeszgZOWivFpxs"
+                },
+                {
+                    "artist": "Laufey",
+                    "title": "Falling Behind",
+                    "uri": "4KGGeE7RJsgLNZmnxGFlOj"
+                },
+                {
+                    "artist": "BIBI BONG",
+                    "title": "BESTE FREUNDIN SCHLIMMSTE EX",
+                    "uri": "2r7bQSF6HPdYqEv8dx8SFh"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Skrillex",
+                    "title": "Someone Said",
+                    "uri": "24ltepHLO6VaSjnrWUqwn3"
+                },
+                {
+                    "artist": "Skrillex",
+                    "title": "Someone Said",
+                    "uri": "01uBSBXlAv25daalVLFusP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Skrillex",
+                    "title": "Someone Said",
+                    "uri": "01uBSBXlAv25daalVLFusP"
+                },
+                {
+                    "artist": "Skrillex",
+                    "title": "Someone Said",
+                    "uri": "24ltepHLO6VaSjnrWUqwn3"
+                },
+                {
+                    "artist": "Sting",
+                    "title": "Englishman In New York",
+                    "uri": "4KFM3A5QF2IMcc6nHsu3Wp"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Arcángel",
+                    "title": "Química Sustancia",
+                    "uri": "1v6aYdzKwVVItHiReiZdCR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Arcángel",
+                    "title": "Química Sustancia",
+                    "uri": "1v6aYdzKwVVItHiReiZdCR"
+                },
+                {
+                    "artist": "NMR Digital",
+                    "title": "Jardín Interno",
+                    "uri": "6nKD4BQTuIA6vQdYezJjzl"
+                },
+                {
+                    "artist": "Arcángel",
+                    "title": "Pa' Que La Pases Bien",
+                    "uri": "1pLCpA1RN8avJxSD3ZCwhj"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "Stereolab",
+                    "title": "Brakhage",
+                    "uri": "6Wi3gizHOtRi7DSsX3XWZA"
+                },
+                {
+                    "artist": "Stereolab",
+                    "title": "Brakhage",
+                    "uri": "4gHL9zecwVCYeDettmnK2s"
+                },
+                {
+                    "artist": "Stereolab",
+                    "title": "Brakhage (Instrumental)",
+                    "uri": "0IXwZyXQGMxBFuo0zJ0zdL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Stereolab",
+                    "title": "Brakhage",
+                    "uri": "6Wi3gizHOtRi7DSsX3XWZA"
+                },
+                {
+                    "artist": "Stereolab",
+                    "title": "Brakhage",
+                    "uri": "4gHL9zecwVCYeDettmnK2s"
+                },
+                {
+                    "artist": "Stereolab",
+                    "title": "Brakhage (Instrumental)",
+                    "uri": "0IXwZyXQGMxBFuo0zJ0zdL"
+                }
+            ]
+        },
+        "21": {
+            "s0": [
+                {
+                    "artist": "Anaconda",
+                    "title": "Ideas For Virtual Reality",
+                    "uri": "4HTFEEei2FGrgfUmvqwOZg"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Anaconda",
+                    "title": "Ideas For Virtual Reality",
+                    "uri": "4HTFEEei2FGrgfUmvqwOZg"
+                },
+                {
+                    "artist": "Nicki Minaj",
+                    "title": "Anaconda",
+                    "uri": "5eqiMMbaeUZ32Q7sS00H35"
+                },
+                {
+                    "artist": "Calvin Harris",
+                    "title": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
+                    "uri": "5bcTCxgc7xVfSaMV3RuVke"
+                }
+            ]
+        },
+        "22": {
+            "s0": [
+                {
+                    "artist": "The Church",
+                    "title": "Under the Milky Way",
+                    "uri": "1RCtHLyq1xIbgGMrYRrKJ2"
+                },
+                {
+                    "artist": "The Church",
+                    "title": "Under the Milky Way",
+                    "uri": "06J9PztWGsTugJg1ZIb7MW"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Church",
+                    "title": "Under the Milky Way",
+                    "uri": "1RCtHLyq1xIbgGMrYRrKJ2"
+                },
+                {
+                    "artist": "The Church",
+                    "title": "Under the Milky Way",
+                    "uri": "06J9PztWGsTugJg1ZIb7MW"
+                },
+                {
+                    "artist": "M83",
+                    "title": "Midnight City",
+                    "uri": "6GyFP1nfCDB8lbD2bG0Hq9"
+                }
+            ]
+        },
+        "23": {
+            "s0": [
+                {
+                    "artist": "Cynthia Harrell",
+                    "title": "Snake Eater",
+                    "uri": "2e3g8go386Zn6EyIz60Ci9"
+                },
+                {
+                    "artist": "Cynthia Harrell",
+                    "title": "SNAKE EATER Δ",
+                    "uri": "1AzTUFkx9LLdTACj7rBPuz"
+                },
+                {
+                    "artist": "Cynthia Harrell",
+                    "title": "Snake Eater",
+                    "uri": "6he3novMqTsil36Nrn8Wbe"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Cynthia Harrell",
+                    "title": "SNAKE EATER Δ",
+                    "uri": "1AzTUFkx9LLdTACj7rBPuz"
+                },
+                {
+                    "artist": "Cynthia Harrell",
+                    "title": "Snake Eater",
+                    "uri": "2e3g8go386Zn6EyIz60Ci9"
+                },
+                {
+                    "artist": "Glass Beams",
+                    "title": "Snake Oil",
+                    "uri": "6zg1mb0ThmEuhhjBKqVckn"
+                }
+            ]
+        },
+        "24": {
+            "s0": [
+                {
+                    "artist": "Fleetwood Mac",
+                    "title": "Gypsy",
+                    "uri": "19Ym5Sg0YyOCa6ao21bdoG"
+                },
+                {
+                    "artist": "Fleetwood Mac",
+                    "title": "Gypsy - 2016 Remaster",
+                    "uri": "1A4atcphOI8vxrgp1YJjuf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fleetwood Mac",
+                    "title": "Gypsy",
+                    "uri": "19Ym5Sg0YyOCa6ao21bdoG"
+                },
+                {
+                    "artist": "Fleetwood Mac",
+                    "title": "Black Magic Woman",
+                    "uri": "2SL0h7FKhJ1O5DcvmvPqU5"
+                },
+                {
+                    "artist": "Earl Sweatshirt",
+                    "title": "Sunday (feat. Frank Ocean)",
+                    "uri": "0fAehaneUJdlSlWXYe1KZp"
                 }
             ]
         }

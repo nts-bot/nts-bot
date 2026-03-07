@@ -11719,6 +11719,173 @@
             ]
         }
     },
+    "yl-hooi-5th-march-2026": {
+        "00": {
+            "s0": "",
+            "s1": ""
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "Radart",
+                    "title": "Flying Fox Colony",
+                    "uri": "6OPtSvYwatoglWUv8ZXlAL"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Radart",
+                    "title": "Flying Fox Colony",
+                    "uri": "6OPtSvYwatoglWUv8ZXlAL"
+                },
+                {
+                    "artist": "Sleep Guardian",
+                    "title": "Radiance",
+                    "uri": "3bMafnEqUPeiduk4mG82l7"
+                }
+            ]
+        },
+        "02": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Metmyself!",
+                    "title": "prophezeit",
+                    "uri": "7uwYEelFKY5C64nrktgqT5"
+                },
+                {
+                    "artist": "Big Image",
+                    "title": "Anarchy (Ubuntu)",
+                    "uri": "2l0cItAHqZRulnXi7WhZWc"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": ""
+        },
+        "04": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "DRIFTØN",
+                    "title": "Savannah got secrets...",
+                    "uri": "2usQ9l0knAQoxQnfNiG8Ls"
+                },
+                {
+                    "artist": "Flatbush Zombies",
+                    "title": "The Odyssey",
+                    "uri": "6x2uJrJKDqtX5cMvDgUfL0"
+                },
+                {
+                    "artist": "Gang Starr",
+                    "title": "Bad Name - Remix",
+                    "uri": "5l10joOI6MV5yiG5XBBKmp"
+                }
+            ]
+        },
+        "05": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kobosil",
+                    "title": "Radiance",
+                    "uri": "0XoxOVnoNGVEwZFf5n98vn"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Guru Randhawa",
+                    "title": "Designer (From \"Designer\")",
+                    "uri": "21LblpYDOLnOP5yIAERCNs"
+                },
+                {
+                    "artist": "Guru Randhawa",
+                    "title": "Designer (From \"Designer\")",
+                    "uri": "4N9Sg9904yutGCze8y9iF5"
+                },
+                {
+                    "artist": "Kobosil",
+                    "title": "Radiance",
+                    "uri": "0XoxOVnoNGVEwZFf5n98vn"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Radart",
+                    "title": "Soli Test",
+                    "uri": "7AxiGrPvVOJdSiwdwtf1RC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Radart",
+                    "title": "Soli Test",
+                    "uri": "7AxiGrPvVOJdSiwdwtf1RC"
+                },
+                {
+                    "artist": "Club Dogo",
+                    "title": "Soli A Milano (feat. Elodie)",
+                    "uri": "2ySUSHhkltyM9LGaFbFXbj"
+                },
+                {
+                    "artist": "Souly",
+                    "title": "Vibration",
+                    "uri": "5xQti0eelxFmlIsFkwoast"
+                }
+            ]
+        },
+        "08": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kanye West",
+                    "title": "Jesus Lord",
+                    "uri": "1LwdWIbfuqlOo8vlHxkyna"
+                },
+                {
+                    "artist": "Kobosil",
+                    "title": "Radiance",
+                    "uri": "0XoxOVnoNGVEwZFf5n98vn"
+                },
+                {
+                    "artist": "Kanye West",
+                    "title": "Jesus Lord pt 2",
+                    "uri": "360VkSTITvF55weIKoaNTw"
+                }
+            ]
+        },
+        "09": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Kobosil",
+                    "title": "Radiance",
+                    "uri": "0XoxOVnoNGVEwZFf5n98vn"
+                }
+            ]
+        },
+        "10": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Sleep Guardian",
+                    "title": "Radiance",
+                    "uri": "3bMafnEqUPeiduk4mG82l7"
+                },
+                {
+                    "artist": "Kobosil",
+                    "title": "Radiance",
+                    "uri": "0XoxOVnoNGVEwZFf5n98vn"
+                }
+            ]
+        }
+    },
     "yl-hooi-6th-april-2023": {
         "00": {
             "s0": "",

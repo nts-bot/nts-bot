@@ -73070,6 +73070,594 @@
             ]
         }
     },
+    "macca-28th-february-2026": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "John Lennon",
+                    "title": "Working Class Hero - Remastered 2010",
+                    "uri": "1yKQBy7olMIqRpziyAzf8c"
+                },
+                {
+                    "artist": "John Lennon",
+                    "title": "Working Class Hero - Ultimate Mix",
+                    "uri": "2eZr2TgcIXmPz4IX6QGxeR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "John Lennon",
+                    "title": "Working Class Hero - Remastered 2010",
+                    "uri": "1yKQBy7olMIqRpziyAzf8c"
+                },
+                {
+                    "artist": "John Lennon",
+                    "title": "Working Class Hero - Ultimate Mix",
+                    "uri": "2eZr2TgcIXmPz4IX6QGxeR"
+                },
+                {
+                    "artist": "Tamer Nafar",
+                    "title": "In the name of the father, the Imam & John Lennon",
+                    "uri": "7nSYr1usJPUzV1KhtdJIh3"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Uriah Heep",
+                    "title": "Free Me",
+                    "uri": "0zrv018chCXkCCN2SUN6dd"
+                },
+                {
+                    "artist": "Uriah Heep",
+                    "title": "Lady In Black",
+                    "uri": "2U2ByqoO82fnayaPzO4x2d"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Led Zeppelin",
+                    "title": "What Is and What Should Never Be - 1990 Remaster",
+                    "uri": "5G7uLHtoEW140QOcBpJlfz"
+                },
+                {
+                    "artist": "Led Zeppelin",
+                    "title": "What Is and What Should Never Be - Remaster",
+                    "uri": "3g3LzkOMh3lx2FmCgb40bj"
+                },
+                {
+                    "artist": "Led Zeppelin",
+                    "title": "What Is and What Should Never Be - Remaster",
+                    "uri": "3jeXQBg0hRn4H1vI8PDGnI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Led Zeppelin",
+                    "title": "What Is and What Should Never Be - 1990 Remaster",
+                    "uri": "5G7uLHtoEW140QOcBpJlfz"
+                },
+                {
+                    "artist": "Led Zeppelin",
+                    "title": "What Is and What Should Never Be - Remaster",
+                    "uri": "3g3LzkOMh3lx2FmCgb40bj"
+                },
+                {
+                    "artist": "Elephants Through The Alps",
+                    "title": "After The Frost",
+                    "uri": "1RW815G5KJH3Biao9O6wnp"
+                }
+            ]
+        },
+        "03": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Herman's Hermits",
+                    "title": "The End of the World - 1997 Remaster",
+                    "uri": "51bylzFSkrMp9kwmMtzN2X"
+                },
+                {
+                    "artist": "JPOLND",
+                    "title": "The End",
+                    "uri": "6CyoMFZcnFzoeiHBu5R32E"
+                },
+                {
+                    "artist": "Hania Rani",
+                    "title": "Rachel",
+                    "uri": "69l7d6loX3Z8usZ8CYdcEC"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Emerson, Lake & Palmer",
+                    "title": "From the Beginning",
+                    "uri": "1rw12PalmC8IDoygHT3fm1"
+                },
+                {
+                    "artist": "Emerson, Lake & Palmer",
+                    "title": "From the Beginning - New Stereo Mix",
+                    "uri": "6PWkGE6ZHEO6wmyLUFzpaO"
+                },
+                {
+                    "artist": "Emerson, Lake & Palmer",
+                    "title": "From the Beginning",
+                    "uri": "4Z98auYb9ehnKdIeBBip2r"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Emerson, Lake & Palmer",
+                    "title": "From the Beginning",
+                    "uri": "1rw12PalmC8IDoygHT3fm1"
+                },
+                {
+                    "artist": "Emerson, Lake & Palmer",
+                    "title": "From the Beginning",
+                    "uri": "4Z98auYb9ehnKdIeBBip2r"
+                },
+                {
+                    "artist": "Emerson, Lake & Palmer",
+                    "title": "From the Beginning - Alternative Version",
+                    "uri": "6PC5lOGq84TI6npemLwmn4"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Wool",
+                    "title": "If They Left Us Alone Now",
+                    "uri": "5TIkug4gAPRSLPv6Y85Wim"
+                },
+                {
+                    "artist": "Wool",
+                    "title": "If They Left Us Alone Now",
+                    "uri": "4zISkp38mn5ik41DPk7sBb"
+                },
+                {
+                    "artist": "Wool",
+                    "title": "If They Left Us Alone Now",
+                    "uri": "0dtSW2OzLxnZBUDlCLiTp9"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Wool",
+                    "title": "If They Left Us Alone Now",
+                    "uri": "5TIkug4gAPRSLPv6Y85Wim"
+                },
+                {
+                    "artist": "Wool",
+                    "title": "If They Left Us Alone Now",
+                    "uri": "0dtSW2OzLxnZBUDlCLiTp9"
+                },
+                {
+                    "artist": "Black Star",
+                    "title": "Respiration",
+                    "uri": "5mxVKAuunOKqcBfR5ivbRf"
+                }
+            ]
+        },
+        "06": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "The Stillwater Saints Revival",
+                    "title": "Arms Like a Lighthouse (Side B)",
+                    "uri": "4qgwnlULjlp5h9AHo1gFUD"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Chris Harwood",
+                    "title": "Wooden Ships",
+                    "uri": "7Ji9wThwqCNtFhJhtrHA97"
+                },
+                {
+                    "artist": "Chris Harwood",
+                    "title": "Wooden Ships",
+                    "uri": "6bGpRZpy6At0Kve7bNXo5G"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Chris Harwood",
+                    "title": "Wooden Ships",
+                    "uri": "7Ji9wThwqCNtFhJhtrHA97"
+                },
+                {
+                    "artist": "Chris Harwood",
+                    "title": "Wooden Ships",
+                    "uri": "6bGpRZpy6At0Kve7bNXo5G"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Billy Preston",
+                    "title": "I've Got A Feeling - Remastered 2010",
+                    "uri": "5mczps4OozZW5suLDrwTGv"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Billy Preston",
+                    "title": "I've Got A Feeling - Remastered 2010",
+                    "uri": "5mczps4OozZW5suLDrwTGv"
+                },
+                {
+                    "artist": "Lizzo",
+                    "title": "About Damn Time",
+                    "uri": "5A0XfrBdgASm6o6HsL5MEe"
+                },
+                {
+                    "artist": "Lizzo",
+                    "title": "About Damn Time",
+                    "uri": "5k3Xl0oWJWNeVBAb9tGYJ6"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Barbara & Ernie",
+                    "title": "Somebody to Love",
+                    "uri": "2m4fvVJZzs8X8SOJlnXn87"
+                },
+                {
+                    "artist": "Barbara & Ernie",
+                    "title": "Somebody to Love",
+                    "uri": "2lPtQwmumC7k3fMv31RjU2"
+                },
+                {
+                    "artist": "Barbara & Ernie",
+                    "title": "Somebody to Love",
+                    "uri": "2HnwYNdnkYjBxKYZeMeiW4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Barbara & Ernie",
+                    "title": "Somebody to Love",
+                    "uri": "2m4fvVJZzs8X8SOJlnXn87"
+                },
+                {
+                    "artist": "Barbara & Ernie",
+                    "title": "Somebody to Love",
+                    "uri": "2lPtQwmumC7k3fMv31RjU2"
+                },
+                {
+                    "artist": "Damiano David",
+                    "title": "Born With a Broken Heart",
+                    "uri": "2z9FUHRkbkV4BObNzbHsFU"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Fred Neil",
+                    "title": "Faretheewell (Fred's Tune)",
+                    "uri": "5j5jfVrbo9X5jcsHqv52zD"
+                },
+                {
+                    "artist": "Fred Neil",
+                    "title": "Faretheewell (Fred's Tune)",
+                    "uri": "12N3qVCEX6x5nVhAiCS6Sw"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Fred Neil",
+                    "title": "Faretheewell (Fred's Tune)",
+                    "uri": "5j5jfVrbo9X5jcsHqv52zD"
+                },
+                {
+                    "artist": "Fred Neil",
+                    "title": "Faretheewell (Fred's Tune)",
+                    "uri": "12N3qVCEX6x5nVhAiCS6Sw"
+                },
+                {
+                    "artist": "Jimmy Buffett",
+                    "title": "Simple Pleasures (narration)",
+                    "uri": "71WYTc3lE9yhGwq1QDp54D"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Steve Cobby",
+                    "title": "Scattered To The Four Winds",
+                    "uri": "2S1umQYiFZA6abiAkTrujF"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Steve Cobby",
+                    "title": "Scattered To The Four Winds",
+                    "uri": "2S1umQYiFZA6abiAkTrujF"
+                },
+                {
+                    "artist": "Led Zeppelin",
+                    "title": "Kashmir - Remaster",
+                    "uri": "6Vjk8MNXpQpi0F4BefdTyq"
+                },
+                {
+                    "artist": "Vince Clarke",
+                    "title": "Scarper",
+                    "uri": "4RJz6UMktOxRng1j0mvrY1"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Tim Hardin",
+                    "title": "Misty Roses",
+                    "uri": "2sVvjrpL3NE9obX1hnYCiC"
+                },
+                {
+                    "artist": "Tim Hardin",
+                    "title": "Misty Roses",
+                    "uri": "64twHHZ8KkpovSG2jM3NOo"
+                },
+                {
+                    "artist": "Tim Hardin",
+                    "title": "Misty Roses - Live at Woodstock - 8/15/69",
+                    "uri": "1xSQR3Ni6qM5gSq7wNJ8IO"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Tim Hardin",
+                    "title": "Misty Roses",
+                    "uri": "2sVvjrpL3NE9obX1hnYCiC"
+                },
+                {
+                    "artist": "Tim Hardin",
+                    "title": "Misty Roses",
+                    "uri": "64twHHZ8KkpovSG2jM3NOo"
+                },
+                {
+                    "artist": "Colin Blunstone",
+                    "title": "Misty Roses",
+                    "uri": "47jgyoczJ2jGHtEgWOQXNY"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "John Martyn",
+                    "title": "So Much In Love With You",
+                    "uri": "2UO2RpNOgNTDftgaWxEZQ3"
+                },
+                {
+                    "artist": "John Martyn",
+                    "title": "So Much In Love With You",
+                    "uri": "446xZM0zCySuAKphzDYTja"
+                },
+                {
+                    "artist": "John Martyn",
+                    "title": "So Much In Love With You",
+                    "uri": "1sc0Obw374sqEqC0NzKgX6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "John Martyn",
+                    "title": "So Much In Love With You",
+                    "uri": "2UO2RpNOgNTDftgaWxEZQ3"
+                },
+                {
+                    "artist": "John Martyn",
+                    "title": "So Much In Love With You",
+                    "uri": "446xZM0zCySuAKphzDYTja"
+                },
+                {
+                    "artist": "Fat Larry's Band",
+                    "title": "Be My Lady",
+                    "uri": "6tICRORB3lJiWCKoO9O4OL"
+                }
+            ]
+        },
+        "14": {
+            "s0": [
+                {
+                    "artist": "Sun Ra",
+                    "title": "Nuclear War",
+                    "uri": "2Dc4MWMRcM7coMtXKjf7sL"
+                },
+                {
+                    "artist": "Sun Ra",
+                    "title": "Nuclear War",
+                    "uri": "3lgXOTqKKPTYd0Zahmrv7p"
+                },
+                {
+                    "artist": "Sun Ra Arkestra",
+                    "title": "Nuclear War (Live)",
+                    "uri": "6Ys8eavDzCLC4CjwN8pAUP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Sun Ra",
+                    "title": "Nuclear War",
+                    "uri": "2Dc4MWMRcM7coMtXKjf7sL"
+                },
+                {
+                    "artist": "Sun Ra Arkestra",
+                    "title": "Nuclear War (Live)",
+                    "uri": "6Ys8eavDzCLC4CjwN8pAUP"
+                },
+                {
+                    "artist": "The Kinks",
+                    "title": "Apeman (2020 Stereo Remaster)",
+                    "uri": "0CVlP2QMGqr9kP527ay07S"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Benjamin Mounfield",
+                    "title": "Interlude",
+                    "uri": "2Ysmv5WmUDTVXPLu9sKBYp"
+                },
+                {
+                    "artist": "Leoš Janáček",
+                    "title": "The Cunning Little Vixen, Act I. How Sharp-Ears was Caught: Interlude (beginning) \"Ou, ou!\" (Vixen)",
+                    "uri": "0zzBcZ0OU5v9M1kcWhhvNB"
+                },
+                {
+                    "artist": "Nat King Cole",
+                    "title": "That's All - Remastered",
+                    "uri": "5ru3nEtJjwEGjzPq3si0de"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "Layla Scarlet",
+                    "title": "Still On My Mind",
+                    "uri": "2VwRWQicMWUQgcsYMrkkL7"
+                },
+                {
+                    "artist": "Karo Lynn",
+                    "title": "still, staring ahead",
+                    "uri": "6bEq2C4cP7bURZGqMJb5Wr"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Berq",
+                    "title": "STILL",
+                    "uri": "3VNQ3hvh3m59RKIjYD6B2U"
+                },
+                {
+                    "artist": "GIVĒON",
+                    "title": "Still Your Best",
+                    "uri": "2qvWsotNWTvRkwCksOnl92"
+                },
+                {
+                    "artist": "Earthworm",
+                    "title": "Meadows",
+                    "uri": "5YSlyqmqDtxVDocWbAWenU"
+                }
+            ]
+        },
+        "17": {
+            "s0": [
+                {
+                    "artist": "Marcus Mixx",
+                    "title": "Without Makeup (Ron Hardy Mix)",
+                    "uri": "6Xz47P6Fm1iQCWuQtbl6Qu"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Marcus Mixx",
+                    "title": "Without Makeup (Ron Hardy Mix)",
+                    "uri": "6Xz47P6Fm1iQCWuQtbl6Qu"
+                },
+                {
+                    "artist": "Marcus Mixx",
+                    "title": "The Spell (Ron Hardy Mix)",
+                    "uri": "5ercZLbAZ6UeV4zclWoKff"
+                }
+            ]
+        },
+        "18": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Jacqueline Taieb",
+                    "title": "7 heures du matin",
+                    "uri": "4CeHrAL1fGUi94RIk3Z2H2"
+                },
+                {
+                    "artist": "Jacqueline Taieb",
+                    "title": "7 Heure Du Mat",
+                    "uri": "6NBiy2c23rQGXjLzWEPkNU"
+                },
+                {
+                    "artist": "Jacqueline Taieb",
+                    "title": "7 heures du matin - Remastered",
+                    "uri": "37JEtJLEoUxarPkBQvUAuq"
+                }
+            ]
+        },
+        "19": {
+            "s0": [
+                {
+                    "artist": "Pianoman",
+                    "title": "Pasion - Alex Kassian's Mandarine Dance Mix",
+                    "uri": "379a9TfqCllPNpMN2x962M"
+                },
+                {
+                    "artist": "Pianoman",
+                    "title": "Pasion - Alex Kassian's Mandarine Dance Mix",
+                    "uri": "5Unt0jPZbMZexJU4guTys4"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pianoman",
+                    "title": "Pasion - Alex Kassian's Mandarine Dance Mix",
+                    "uri": "379a9TfqCllPNpMN2x962M"
+                },
+                {
+                    "artist": "Pianoman",
+                    "title": "Pasion - Alex Kassian's Mandarine Dance Mix",
+                    "uri": "5Unt0jPZbMZexJU4guTys4"
+                },
+                {
+                    "artist": "Pianoman",
+                    "title": "Pasion - Alex Kassian's Mandarine Dream Mix",
+                    "uri": "1pI5SsDHfVMW78lpEnpZqZ"
+                }
+            ]
+        },
+        "20": {
+            "s0": [
+                {
+                    "artist": "God Within",
+                    "title": "Raincry - Submerged",
+                    "uri": "2yLVPOvhXcHV7EP8J2zuHA"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "God Within",
+                    "title": "Raincry - Submerged",
+                    "uri": "2yLVPOvhXcHV7EP8J2zuHA"
+                },
+                {
+                    "artist": "Rick Groove",
+                    "title": "Submerge",
+                    "uri": "5DIRSKcJSR3TVNCv1jHo67"
+                },
+                {
+                    "artist": "Durge",
+                    "title": "Faithless",
+                    "uri": "5JQOCcVGAFmRnRhK8DXDJJ"
+                }
+            ]
+        }
+    },
     "macca-28th-january-2023": {
         "00": {
             "s0": "",
@@ -106708,6 +107296,489 @@
                     "artist": "The Shapeshifters",
                     "title": "Lola's Theme - Tripolism Remix",
                     "uri": "4tDDGi78yN261vDDaOQlGD"
+                }
+            ]
+        }
+    },
+    "macca-7th-march-2026": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "John Carroll Kirby",
+                    "title": "Suntory",
+                    "uri": "4ScJ0r4xvc7kty6Xsqj53a"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "John Carroll Kirby",
+                    "title": "Suntory",
+                    "uri": "4ScJ0r4xvc7kty6Xsqj53a"
+                },
+                {
+                    "artist": "A Winged Victory for the Sullen",
+                    "title": "Steep Hills of Vicodin Tears",
+                    "uri": "0w63OgyF5w5TByQRLySBBs"
+                }
+            ]
+        },
+        "01": {
+            "s0": [
+                {
+                    "artist": "dip in the pool",
+                    "title": "Rabo del sol",
+                    "uri": "79KLENrgFh8BDaqiwGqaUS"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "dip in the pool",
+                    "title": "Rabo del sol",
+                    "uri": "79KLENrgFh8BDaqiwGqaUS"
+                },
+                {
+                    "artist": "The Sugarhill Gang",
+                    "title": "Rapper's Delight",
+                    "uri": "2XbwFs07dfm2MGQuYmRMZT"
+                },
+                {
+                    "artist": "The Sugarhill Gang",
+                    "title": "Rapper's Delight (4sm Mix)",
+                    "uri": "4fw00K7O2bVtBlDL59Wjxl"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Jonny Nash",
+                    "title": "Smoke Rings",
+                    "uri": "51Zmeoly6CMVFwqHps8068"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Jonny Nash",
+                    "title": "Smoke Rings",
+                    "uri": "51Zmeoly6CMVFwqHps8068"
+                },
+                {
+                    "artist": "Chris Cheek",
+                    "title": "Smoke Rings",
+                    "uri": "68Bi9EUUa5jNvpD5sEwGOT"
+                },
+                {
+                    "artist": "Rittz",
+                    "title": "Propane (feat. Devin The Dude, MJG)",
+                    "uri": "76LctvLvARArC25rkkVG3N"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Julianna Barwick",
+                    "title": "Rachel's Song",
+                    "uri": "0giFRlECatzUl0T0iBMyhP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Julianna Barwick",
+                    "title": "Rachel's Song",
+                    "uri": "0giFRlECatzUl0T0iBMyhP"
+                },
+                {
+                    "artist": "Hania Rani",
+                    "title": "Rachel",
+                    "uri": "69l7d6loX3Z8usZ8CYdcEC"
+                },
+                {
+                    "artist": "Rachel Portman",
+                    "title": "Eventide",
+                    "uri": "4ZOnatfSjfxv36CdG8aWkc"
+                }
+            ]
+        },
+        "04": {
+            "s0": [
+                {
+                    "artist": "Hania Rani",
+                    "title": "Rachel",
+                    "uri": "69l7d6loX3Z8usZ8CYdcEC"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hania Rani",
+                    "title": "Rachel",
+                    "uri": "69l7d6loX3Z8usZ8CYdcEC"
+                },
+                {
+                    "artist": "Cheb Mami",
+                    "title": "Alache alik",
+                    "uri": "7pZZKn0aDT5kx0pkqKXol3"
+                },
+                {
+                    "artist": "Red M",
+                    "title": "Happy Birthday To Me",
+                    "uri": "2pNuzK1IEsCLcOpxLvJzO7"
+                }
+            ]
+        },
+        "05": {
+            "s0": [
+                {
+                    "artist": "Skylab",
+                    "title": "Next",
+                    "uri": "7scnT6b43MXenz7Kg3Rs8q"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Skylab",
+                    "title": "Next",
+                    "uri": "7scnT6b43MXenz7Kg3Rs8q"
+                },
+                {
+                    "artist": "Sleep Guardian",
+                    "title": "Skyline",
+                    "uri": "7eOZSlLTDNmrH29Cp6mHIC"
+                },
+                {
+                    "artist": "Imber Sun",
+                    "title": "Skylark",
+                    "uri": "2UXV16ANGj3HJHyMPQ926G"
+                }
+            ]
+        },
+        "06": {
+            "s0": [
+                {
+                    "artist": "Aukai",
+                    "title": "Scent",
+                    "uri": "6hzWdXb9OoYfz5kNqOzluM"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Aukai",
+                    "title": "Scent",
+                    "uri": "6hzWdXb9OoYfz5kNqOzluM"
+                },
+                {
+                    "artist": "Adrien Magnusen",
+                    "title": "Astronaut Scent",
+                    "uri": "6rK5zoVcsxvAssW4Hj3I1q"
+                },
+                {
+                    "artist": "Aukai",
+                    "title": "Lumi",
+                    "uri": "2nfNZCyKIeFAyW5Zi0MHH4"
+                }
+            ]
+        },
+        "07": {
+            "s0": [
+                {
+                    "artist": "Julianna Barwick",
+                    "title": "Melted Moon",
+                    "uri": "3002ya6IvKzLHhHsB13rPC"
+                },
+                {
+                    "artist": "Julianna Barwick",
+                    "title": "Melted Moon",
+                    "uri": "7kQc0Wpteo4E4CumcprM7r"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Julianna Barwick",
+                    "title": "Melted Moon",
+                    "uri": "3002ya6IvKzLHhHsB13rPC"
+                },
+                {
+                    "artist": "Julianna Barwick",
+                    "title": "Melted Moon",
+                    "uri": "7kQc0Wpteo4E4CumcprM7r"
+                },
+                {
+                    "artist": "Julianna Barwick",
+                    "title": "Healing Is A Miracle",
+                    "uri": "4HSt9uziEdRZ58MlgqezAy"
+                }
+            ]
+        },
+        "08": {
+            "s0": [
+                {
+                    "artist": "Pavel Milyakov",
+                    "title": "Strong-Willed",
+                    "uri": "6DD3ItePqdlLpjjO8xVdge"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Pavel Milyakov",
+                    "title": "Strong-Willed",
+                    "uri": "6DD3ItePqdlLpjjO8xVdge"
+                },
+                {
+                    "artist": "Benedict Matysik",
+                    "title": "Prolog",
+                    "uri": "3A73UerTIj9jRl0Bi1gvHB"
+                },
+                {
+                    "artist": "Stromberg",
+                    "title": "Strategisch denken!",
+                    "uri": "40y9fHKq2AwRxJyWTMtVSF"
+                }
+            ]
+        },
+        "09": {
+            "s0": [
+                {
+                    "artist": "Baal & Mortimer",
+                    "title": "Cracks",
+                    "uri": "2ljjlatrjOPxj3LHA3WIMB"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Baal & Mortimer",
+                    "title": "Cracks",
+                    "uri": "2ljjlatrjOPxj3LHA3WIMB"
+                },
+                {
+                    "artist": "Rockit Music",
+                    "title": "Salt & Pepper (Cuphead)",
+                    "uri": "6kmdeXMYuBOfyZM9hiBY7f"
+                },
+                {
+                    "artist": "Rockit Music",
+                    "title": "Salt & Pepper (Cuphead)",
+                    "uri": "04stZXhL97h3lzerCN4MaC"
+                }
+            ]
+        },
+        "10": {
+            "s0": [
+                {
+                    "artist": "Ingrid Chavez",
+                    "title": "Justify My Love - Radio Edit",
+                    "uri": "5CnZ55Ci5BdF0CgkuIehXh"
+                },
+                {
+                    "artist": "Ingrid Chavez",
+                    "title": "Justify My Love - Radio Edit",
+                    "uri": "3ZkVVLoVvJTPO2MHBPhW9e"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Ingrid Chavez",
+                    "title": "Justify My Love - Radio Edit",
+                    "uri": "5CnZ55Ci5BdF0CgkuIehXh"
+                },
+                {
+                    "artist": "Ingrid Chavez",
+                    "title": "Justify My Love - Radio Edit",
+                    "uri": "3ZkVVLoVvJTPO2MHBPhW9e"
+                },
+                {
+                    "artist": "MF Grimm",
+                    "title": "Earth",
+                    "uri": "6XLfxlC2qCDXcZtAtdehYP"
+                }
+            ]
+        },
+        "11": {
+            "s0": [
+                {
+                    "artist": "Beth Orton",
+                    "title": "Touch Me with Your Love",
+                    "uri": "2vdDrO5AK7ig3WS0CPSqqu"
+                },
+                {
+                    "artist": "Beth Orton",
+                    "title": "Touch Me with Your Love",
+                    "uri": "3HArQYVg64Ca55HhlX45qi"
+                },
+                {
+                    "artist": "Beth Orton",
+                    "title": "Touch Me With Your Love - 2008 Remastered Version",
+                    "uri": "05UnJnEvVYg8uYuyUVtsdI"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Beth Orton",
+                    "title": "Touch Me with Your Love",
+                    "uri": "2vdDrO5AK7ig3WS0CPSqqu"
+                },
+                {
+                    "artist": "Beth Orton",
+                    "title": "Touch Me with Your Love",
+                    "uri": "3HArQYVg64Ca55HhlX45qi"
+                },
+                {
+                    "artist": "Madeleine Peyroux",
+                    "title": "Dance Me To The End Of Love",
+                    "uri": "13zjNPZUyWvzZC2dlYjW0L"
+                }
+            ]
+        },
+        "12": {
+            "s0": [
+                {
+                    "artist": "Car Culture",
+                    "title": "The Commitment Issue",
+                    "uri": "2IPhYtVsXK9DIvNxzew8sP"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Car Culture",
+                    "title": "The Commitment Issue",
+                    "uri": "2IPhYtVsXK9DIvNxzew8sP"
+                },
+                {
+                    "artist": "Kanye West",
+                    "title": "I Wonder",
+                    "uri": "0lHALprBBAHaqmFRhbPLcz"
+                },
+                {
+                    "artist": "Kraftwerk",
+                    "title": "Autobahn",
+                    "uri": "7e2ExzCUgjOntmlZCTDSWk"
+                }
+            ]
+        },
+        "13": {
+            "s0": [
+                {
+                    "artist": "Larry Heard",
+                    "title": "Missing You - Jazz Cafe Mix",
+                    "uri": "0ODktM8J48ucTIrvgak5q7"
+                },
+                {
+                    "artist": "Larry Heard",
+                    "title": "Missing You - Jazz Cafe' Mix Edit",
+                    "uri": "558SfyunbgL9P0LDxtua3c"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Larry Heard",
+                    "title": "Missing You - Jazz Cafe Mix",
+                    "uri": "0ODktM8J48ucTIrvgak5q7"
+                },
+                {
+                    "artist": "Larry Heard",
+                    "title": "Missing You - Jazz Cafe' Mix Edit",
+                    "uri": "558SfyunbgL9P0LDxtua3c"
+                },
+                {
+                    "artist": "Kay Thompson",
+                    "title": "Bonjour, Paris!",
+                    "uri": "2jYexiN5UzK0JgGbuGq3A6"
+                }
+            ]
+        },
+        "14": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "3milia",
+                    "title": "Capitán",
+                    "uri": "3xSBtuy9wsSZ7x4UBO0gcv"
+                },
+                {
+                    "artist": "Calmly",
+                    "title": "Shine",
+                    "uri": "254SdiSLpOuwJe8kt298y4"
+                },
+                {
+                    "artist": "R. Kelly",
+                    "title": "I'm a Flirt Remix (feat. T.I. & T-Pain)",
+                    "uri": "6w1DBbA8akxHPiBQ6nAyJq"
+                }
+            ]
+        },
+        "15": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Alexandre Pachabezian",
+                    "title": "Gladiator (Deep House Rework)",
+                    "uri": "0UiMQeYX3cZybrMG2IB1ay"
+                }
+            ]
+        },
+        "16": {
+            "s0": [
+                {
+                    "artist": "The Stone Roses",
+                    "title": "I Wanna Be Adored - Bloody Valentine Edit",
+                    "uri": "73nDBDyX0IHtrlLBBqq46Q"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "The Stone Roses",
+                    "title": "I Wanna Be Adored - Bloody Valentine Edit",
+                    "uri": "73nDBDyX0IHtrlLBBqq46Q"
+                },
+                {
+                    "artist": "The Stone Roses",
+                    "title": "I Wanna Be Adored - Remastered 2009",
+                    "uri": "758wEKVqfYopJIHYWdLVd4"
+                }
+            ]
+        },
+        "17": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Gene Vincent",
+                    "title": "Crazy Beat",
+                    "uri": "5NSxCIccne0LGgtEw5egrr"
+                },
+                {
+                    "artist": "Divineisgodlike",
+                    "title": "Devotion",
+                    "uri": "6EgIKNls8HWDoGVnrbgTum"
+                },
+                {
+                    "artist": "Axxel",
+                    "title": "Hopeless",
+                    "uri": "5GwTxcxQvvFoVVt2CRKIly"
+                }
+            ]
+        },
+        "18": {
+            "s0": [
+                {
+                    "artist": "Hidden Spheres",
+                    "title": "You Don't Know",
+                    "uri": "6nxrWTEYSCJ5sZu4zNUpQf"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Hidden Spheres",
+                    "title": "You Don't Know",
+                    "uri": "6nxrWTEYSCJ5sZu4zNUpQf"
+                },
+                {
+                    "artist": "Kings of Convenience",
+                    "title": "Rumours",
+                    "uri": "4ku8k2uso2lLJsjLJcsAWH"
+                },
+                {
+                    "artist": "Echo Lights",
+                    "title": "KILL MY DEMONS",
+                    "uri": "49QnNvVXR4gabWJgCw5vWv"
                 }
             ]
         }

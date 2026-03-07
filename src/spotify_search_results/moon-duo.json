@@ -5230,6 +5230,116 @@
             ]
         }
     },
+    "moon-duo-5th-march-2026": {
+        "00": {
+            "s0": [
+                {
+                    "artist": "Galactic Explorers",
+                    "title": "Lunarscape",
+                    "uri": "3PPcMGjHpxfn6kaBEnbJo6"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Galactic Explorers",
+                    "title": "Lunarscape",
+                    "uri": "3PPcMGjHpxfn6kaBEnbJo6"
+                },
+                {
+                    "artist": "Manuel Wall",
+                    "title": "Galaxy Dream",
+                    "uri": "4rt2bY3DXBxrYVIWnXdQ1I"
+                },
+                {
+                    "artist": "Stereojack",
+                    "title": "Tourists",
+                    "uri": "3OKchZyl495UXlCEW7DG1n"
+                }
+            ]
+        },
+        "01": {
+            "s0": "",
+            "s1": [
+                {
+                    "artist": "Hania Rani",
+                    "title": "Agnes",
+                    "uri": "0rWzjupXhM77pgi2NL32bf"
+                },
+                {
+                    "artist": "Agnes Obel",
+                    "title": "Familiar",
+                    "uri": "2EWnKuspetOzgfBtmaNZvJ"
+                },
+                {
+                    "artist": "Hania Rani",
+                    "title": "Glass",
+                    "uri": "4sQBgAPX981djCcsjDJvQx"
+                }
+            ]
+        },
+        "02": {
+            "s0": [
+                {
+                    "artist": "Eurythmics",
+                    "title": "Thorn in My Side - Remastered",
+                    "uri": "3v9ELl9T121dhadZyIiQVn"
+                },
+                {
+                    "artist": "Eurythmics",
+                    "title": "Thorn In My Side",
+                    "uri": "69RRNcyev0eWJsPwssCFFK"
+                },
+                {
+                    "artist": "Eurythmics",
+                    "title": "Thorn in My Side - Remastered",
+                    "uri": "4wjTmQikELGmAPpXibB8fR"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Nami Kaze",
+                    "title": "Thor",
+                    "uri": "52r8Y5pBQA8iCHdQlcTRfT"
+                },
+                {
+                    "artist": "Eurythmics",
+                    "title": "Thorn in My Side - Remastered",
+                    "uri": "3v9ELl9T121dhadZyIiQVn"
+                },
+                {
+                    "artist": "Fiano",
+                    "title": "Thor",
+                    "uri": "2MP5Bn0oNfAIuSJiTTxEsq"
+                }
+            ]
+        },
+        "03": {
+            "s0": [
+                {
+                    "artist": "Phill Niblock",
+                    "title": "Expl Watson",
+                    "uri": "0MJ1nuZ5eXWd2Ea1O1QnlZ"
+                }
+            ],
+            "s1": [
+                {
+                    "artist": "Phill Niblock",
+                    "title": "Expl Watson",
+                    "uri": "0MJ1nuZ5eXWd2Ea1O1QnlZ"
+                },
+                {
+                    "artist": "Nils Wülker",
+                    "title": "As Young as Your Faith",
+                    "uri": "24LeHqJLDV7ufZWf0GaPD0"
+                },
+                {
+                    "artist": "Sonic Ark",
+                    "title": "Exploration",
+                    "uri": "1r4ZJZtYc26u54jIgOhlbM"
+                }
+            ]
+        }
+    },
     "moon-duo-5th-may-2022": {
         "00": {
             "s0": [
