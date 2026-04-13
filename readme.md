@@ -1,5 +1,13 @@
 # NTS bot
 
+NOTE: since 2026/03 Spotify killed the API, so not updating the spotify any more.
+
+imo the archive is still useful, and it's possible to do something w/ bandcamp. 
+
+see y'all, xoxo G.
+
+---
+
 This is a community project based around creating a more accessible public data archive for [NTS radio](https://www.nts.live/), the largest community radio station in the world.
 
 In repository, you will find:
@@ -14,7 +22,3 @@ You can find the published output of this project here:
 - [Youtube](https://www.youtube.com/@nts-bot).
 - [Most played tracks](./src/most_played_tracks.txt).
 - [Most played artists](./src/most_played_artists.txt).
-
-This is open source, so hopefully what you do with it is also.
-
-xoxo G.
