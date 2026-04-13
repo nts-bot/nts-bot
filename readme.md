@@ -18,7 +18,5 @@ In repository, you will find:
 
 You can find the published output of this project here:
 
-- [Spotify](https://open.spotify.com/user/31yeoenly5iu5pvoatmuvt7i7ksy).
-- [Youtube](https://www.youtube.com/@nts-bot).
-- [Most played tracks](./src/most_played_tracks.txt).
-- [Most played artists](./src/most_played_artists.txt).
+- [Spotify](https://open.spotify.com/user/31yeoenly5iu5pvoatmuvt7i7ksy) (killed 2026)
+- [Youtube](https://www.youtube.com/@nts-bot) (killed: 2023)
